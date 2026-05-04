@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\Synapse.Digest\Synapse.Digest.csproj" />
+    <ProjectReference Include="..\..\src\Synapse.Ingestion\Synapse.Ingestion.csproj" />
   </ItemGroup>
 
 </Project>

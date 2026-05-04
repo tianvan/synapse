@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Synapse.Foundation\Synapse.Foundation.csproj" />
+    <ProjectReference Include="..\Synapse.Ingestion\Synapse.Ingestion.csproj" />
   </ItemGroup>
 
   <ItemGroup>
