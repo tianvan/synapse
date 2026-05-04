@@ -26,4 +26,31 @@ public class StereotypeAttributeTests
         usage.Should().NotBeNull();
         usage!.ValidOn.Should().Be(AttributeTargets.Interface);
     }
+
+    [Fact]
+    public void Adapter_attribute_should_target_class()
+    {
+        var usage = Attribute.GetCustomAttribute(
+            typeof(AdapterAttribute), typeof(AttributeUsageAttribute)) as AttributeUsageAttribute;
+        usage.Should().NotBeNull();
+        usage!.ValidOn.Should().Be(AttributeTargets.Class);
+    }
+
+    [Fact]
+    public void Aggregate_attribute_should_target_class()
+    {
+        var usage = Attribute.GetCustomAttribute(
+            typeof(AggregateAttribute), typeof(AttributeUsageAttribute)) as AttributeUsageAttribute;
+        usage.Should().NotBeNull();
+        usage!.ValidOn.Should().Be(AttributeTargets.Class);
+    }
+
+    [Fact]
+    public void DomainService_attribute_should_target_class()
+    {
+        var usage = Attribute.GetCustomAttribute(
+            typeof(DomainServiceAttribute), typeof(AttributeUsageAttribute)) as AttributeUsageAttribute;
+        usage.Should().NotBeNull();
+        usage!.ValidOn.Should().Be(AttributeTargets.Class);
+    }
 }
