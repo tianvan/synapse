@@ -6,5 +6,5 @@ namespace Synapse.Digest.South.Port.Output;
 public interface IOutputPort
 {
     OutputChannel Channel { get; }
-    Task<bool> DeliverAsync(Digest.Domain.Digest digest, CancellationToken ct = default);
+    Task<bool> DeliverAsync(Digest digest, CancellationToken ct = default);
 }

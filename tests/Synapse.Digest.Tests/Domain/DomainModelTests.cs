@@ -1,6 +1,6 @@
 using FluentAssertions;
 using Synapse.Digest.Domain;
-using DigestRecord = global::Synapse.Digest.Domain.Digest;
+using DigestRecord = global::Synapse.Digest.Digest;
 
 namespace Synapse.Digest.Tests.Domain;
 

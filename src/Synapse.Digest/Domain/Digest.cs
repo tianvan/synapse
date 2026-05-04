@@ -1,6 +1,7 @@
+using Synapse.Digest.Domain;
 using Synapse.Foundation.Stereotype;
 
-namespace Synapse.Digest.Domain;
+namespace Synapse.Digest;
 
 [Aggregate]
 public sealed record Digest(
