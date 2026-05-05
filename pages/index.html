@@ -4,19 +4,31 @@ layout: default
 
 {% if site.data.digest %}
   {% assign sorted_items = site.data.digest.Items | sort: "Score" | reverse %}
+  {% assign top3 = sorted_items | slice: 0, 3 %}
+  {% assign rest = sorted_items | slice: 3, 100 %}
 
   <div class="digest-meta">
-    <p class="digest-date">
-      <strong>{{ site.data.digest.Id }}</strong>
-    </p>
+    <p class="digest-date">{{ site.data.digest.Id }}</p>
     <p class="digest-summary">{{ site.data.digest.Summary }}</p>
   </div>
 
-  <div class="items-list">
-    {% for item in sorted_items %}
-      {% include item-card.html item=item rank=forloop.index %}
+  <!-- Top 3 podium -->
+  <div class="podium">
+    {% for item in top3 %}
+      {% include podium-card.html item=item rank=forloop.index %}
     {% endfor %}
   </div>
+
+  <!-- Remaining list -->
+  {% if rest.size > 0 %}
+  <h2 class="section-header">更多资讯</h2>
+  <div class="items-list">
+    {% for item in rest %}
+      {% assign actual_rank = forloop.index | plus: 3 %}
+      {% include item-card.html item=item rank=actual_rank %}
+    {% endfor %}
+  </div>
+  {% endif %}
 {% else %}
   <div class="empty-state">
     <p>暂无日报数据，请稍后再来。</p>
