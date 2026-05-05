@@ -1,11 +1,9 @@
-using Synapse.Foundation.Stereotype;
 using Synapse.Ingestion.Local.Message;
 using Synapse.Ingestion.South.Port.Repository;
 using Synapse.Ingestion.South.Port.SourceReader;
 
 namespace Synapse.Ingestion.Local.AppService;
 
-[DomainService]
 public class IngestAppService
 {
     private readonly IEnumerable<ISourceReader> _readers;

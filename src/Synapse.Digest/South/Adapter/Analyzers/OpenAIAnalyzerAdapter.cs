@@ -1,5 +1,7 @@
 using System.Text;
 using System.Text.Json;
+using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Options;
 using Synapse.Foundation.Shared;
 using Synapse.Foundation.Stereotype;
 using Synapse.Digest.Domain;
@@ -11,20 +13,17 @@ namespace Synapse.Digest.South.Adapter.Analyzers;
 public class OpenAIAnalyzerAdapter : IAnalyzer
 {
     private readonly HttpClient _httpClient;
-    private readonly string _apiKey;
-    private readonly string _model;
-    private readonly string _baseUrl;
+    private readonly OpenAIOptions _options;
+    private readonly ILogger<OpenAIAnalyzerAdapter> _logger;
 
     public OpenAIAnalyzerAdapter(
         HttpClient httpClient,
-        string apiKey,
-        string model = "gpt-4o-mini",
-        string? baseUrl = null)
+        IOptions<OpenAIOptions> options,
+        ILogger<OpenAIAnalyzerAdapter> logger)
     {
         _httpClient = httpClient;
-        _apiKey = apiKey;
-        _model = model;
-        _baseUrl = (baseUrl ?? "https://api.openai.com").TrimEnd('/');
+        _options = options.Value;
+        _logger = logger;
     }
 
     public async Task<AnalyzedItem> AnalyzeAsync(SourceItem source, CancellationToken ct = default)
@@ -32,7 +31,7 @@ public class OpenAIAnalyzerAdapter : IAnalyzer
         var prompt = BuildPrompt(source);
         var requestBody = new
         {
-            model = _model,
+            model = _options.Model,
             messages = new[]
             {
                 new { role = "system", content = "You are a technical analyst. Output valid JSON only, no markdown." },
@@ -44,32 +43,48 @@ public class OpenAIAnalyzerAdapter : IAnalyzer
         var json = JsonSerializer.Serialize(requestBody);
         var content = new StringContent(json, Encoding.UTF8, "application/json");
         var request = new HttpRequestMessage(HttpMethod.Post,
-            $"{_baseUrl}/v1/chat/completions") { Content = content };
-        request.Headers.Add("Authorization", $"Bearer {_apiKey}");
+            $"{_options.BaseUrl.TrimEnd('/')}/v1/chat/completions") { Content = content };
+        request.Headers.Add("Authorization", $"Bearer {_options.ApiKey}");
 
         try
         {
             var response = await _httpClient.SendAsync(request, ct);
-            response.EnsureSuccessStatusCode();
+            if (!response.IsSuccessStatusCode)
+            {
+                var errorBody = await response.Content.ReadAsStringAsync(ct);
+                _logger.LogError("OpenAI API returned {StatusCode}: {ErrorBody}",
+                    (int)response.StatusCode, errorBody);
+                return Degrade(source);
+            }
+
             var responseJson = await response.Content.ReadAsStringAsync(ct);
             using var doc = JsonDocument.Parse(responseJson);
             var message = doc.RootElement.GetProperty("choices")[0]
                 .GetProperty("message").GetProperty("content").GetString()!;
+
+            _logger.LogDebug("AI response for {SourceId}: {Content}",
+                source.ExternalId, message);
+
             return ParseResponse(message, source);
         }
-        catch
+        catch (Exception ex)
         {
-            return new AnalyzedItem(
-                source.ExternalId,
-                Category: "未分类",
-                TechStack: new TechStack(Array.Empty<string>()),
-                Highlight: new Highlight(source.Description.Length > 120
-                    ? source.Description[..120] : source.Description),
-                Suitability: "",
-                Score: 0
-            );
+            _logger.LogError(ex, "Analysis failed for {SourceId}: {Error}",
+                source.ExternalId, ex.Message);
+            return Degrade(source);
         }
     }
+
+    private static AnalyzedItem Degrade(SourceItem source) =>
+        new(
+            source.ExternalId,
+            Category: "未分类",
+            TechStack: new TechStack(Array.Empty<string>()),
+            Highlight: new Highlight(source.Description.Length > 120
+                ? source.Description[..120] : source.Description),
+            Suitability: "",
+            Score: 0
+        );
 
     private static string BuildPrompt(SourceItem source)
     {
