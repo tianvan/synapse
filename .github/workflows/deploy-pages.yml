@@ -43,3 +43,4 @@ jobs:
           publish_dir: ./pages
           publish_branch: gh-pages
           force_orphan: true
+          enable_jekyll: true
