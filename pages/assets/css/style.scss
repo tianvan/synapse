@@ -46,22 +46,6 @@ body {
   }
 }
 
-.history-nav {
-  margin-top: 16px;
-
-  label { color: $muted; margin-right: 4px; }
-
-  select {
-    padding: 6px 12px;
-    border: 1px solid $card-border;
-    border-radius: 6px;
-    background: $card-bg;
-    color: $text;
-    font-family: inherit;
-    font-size: 14px;
-    cursor: pointer;
-  }
-}
 
 // Digest header
 .digest-header {

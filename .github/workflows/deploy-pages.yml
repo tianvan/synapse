@@ -30,11 +30,7 @@ jobs:
           mkdir -p pages/_data
           cp "$DIGEST_FILE" pages/_data/digest.json
 
-          # Generate history.json from available digest files
-          ls data/digests/*.json | sed 's|data/digests/||;s|\.json||' | sort -r | jq -R -s -c 'split("\n") | map(select(length > 0) | {date: .})' > pages/_data/history.json
-
           echo "Deploying digest for ${DIGEST_DATE}"
-          cat pages/_data/history.json
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
