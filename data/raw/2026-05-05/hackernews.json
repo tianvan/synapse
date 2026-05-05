@@ -436,21 +436,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48021561"
-    },
-    "Type": 1,
-    "Title": "iOS 27 is adding a \u0027Create a Pass\u0027 button to Apple Wallet",
-    "Url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
-    "Description": "iOS 27 is adding a \u0027Create a Pass\u0027 button to Apple Wallet",
-    "Metadata": {
-      "score": "67",
-      "author": "alentodorov",
-      "commentCount": "39"
-    },
-    "FetchedAt": "2026-05-05T13:21:33.6388308+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48021968"
     },
     "Type": 1,
@@ -463,36 +448,6 @@
       "commentCount": "6"
     },
     "FetchedAt": "2026-05-05T13:21:33.6853054+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48019163"
-    },
-    "Type": 1,
-    "Title": "Async Rust never left the MVP state",
-    "Url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-    "Description": "Async Rust never left the MVP state",
-    "Metadata": {
-      "score": "271",
-      "author": "pjmlp",
-      "commentCount": "138"
-    },
-    "FetchedAt": "2026-05-05T13:21:33.7200919+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:47962032"
-    },
-    "Type": 1,
-    "Title": "Should I Run Plain Docker Compose in Production in 2026?",
-    "Url": "https://distr.sh/blog/running-docker-in-production/",
-    "Description": "Should I Run Plain Docker Compose in Production in 2026?",
-    "Metadata": {
-      "score": "135",
-      "author": "pmig",
-      "commentCount": "116"
-    },
-    "FetchedAt": "2026-05-05T13:21:33.7568103+00:00"
   },
   {
     "ExternalId": {
@@ -511,36 +466,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48018066"
-    },
-    "Type": 1,
-    "Title": "Empty Screenings \u2013 Finds AMC movie screenings with few or no tickets sold",
-    "Url": "https://walzr.com/empty-screenings",
-    "Description": "Empty Screenings \u2013 Finds AMC movie screenings with few or no tickets sold",
-    "Metadata": {
-      "score": "198",
-      "author": "MrBuddyCasino",
-      "commentCount": "167"
-    },
-    "FetchedAt": "2026-05-05T13:21:33.8256179+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48019025"
-    },
-    "Type": 1,
-    "Title": "Lessons for Agentic Coding: What should we do when code is cheap?",
-    "Url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
-    "Description": "Lessons for Agentic Coding: What should we do when code is cheap?",
-    "Metadata": {
-      "score": "119",
-      "author": "ingve",
-      "commentCount": "105"
-    },
-    "FetchedAt": "2026-05-05T13:21:33.85982+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48017907"
     },
     "Type": 1,
@@ -553,21 +478,6 @@
       "commentCount": "28"
     },
     "FetchedAt": "2026-05-05T13:21:33.8937229+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48019219"
-    },
-    "Type": 1,
-    "Title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-    "Url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-    "Description": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-    "Metadata": {
-      "score": "457",
-      "author": "john-doe",
-      "commentCount": "423"
-    },
-    "FetchedAt": "2026-05-05T13:21:33.9278282+00:00"
   },
   {
     "ExternalId": {
@@ -598,21 +508,6 @@
       "commentCount": "135"
     },
     "FetchedAt": "2026-05-05T13:21:33.9968325+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48020063"
-    },
-    "Type": 1,
-    "Title": "When everyone has AI and the company still learns nothing",
-    "Url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-    "Description": "When everyone has AI and the company still learns nothing",
-    "Metadata": {
-      "score": "92",
-      "author": "youngbrioche",
-      "commentCount": "59"
-    },
-    "FetchedAt": "2026-05-05T13:21:34.0305622+00:00"
   },
   {
     "ExternalId": {
@@ -883,5 +778,455 @@
       "commentCount": "688"
     },
     "FetchedAt": "2026-05-05T13:21:34.6544302+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48024540"
+    },
+    "Type": 1,
+    "Title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+    "Url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+    "Description": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+    "Metadata": {
+      "score": "196",
+      "author": "amrrs",
+      "commentCount": "73"
+    },
+    "FetchedAt": "2026-05-05T19:08:27.7681025+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48023861"
+    },
+    "Type": 1,
+    "Title": "Three Inverse Laws of AI",
+    "Url": "https://susam.net/inverse-laws-of-robotics.html",
+    "Description": "Three Inverse Laws of AI",
+    "Metadata": {
+      "score": "239",
+      "author": "blenderob",
+      "commentCount": "156"
+    },
+    "FetchedAt": "2026-05-05T19:08:27.7847888+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48024859"
+    },
+    "Type": 1,
+    "Title": "Computer Use is 45x more expensive than structured APIs",
+    "Url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+    "Description": "Computer Use is 45x more expensive than structured APIs",
+    "Metadata": {
+      "score": "116",
+      "author": "palashawas",
+      "commentCount": "74"
+    },
+    "FetchedAt": "2026-05-05T19:08:27.801772+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48024129"
+    },
+    "Type": 1,
+    "Title": "EEVblog: The 555 Timer is 55 years old",
+    "Url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
+    "Description": "EEVblog: The 555 Timer is 55 years old",
+    "Metadata": {
+      "score": "122",
+      "author": "brudgers",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-05-05T19:08:27.8176739+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48026021"
+    },
+    "Type": 1,
+    "Title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+    "Url": "https://arxiv.org/abs/2604.26752",
+    "Description": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+    "Metadata": {
+      "score": "40",
+      "author": "gmays",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-05-05T19:08:27.8343178+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48024358"
+    },
+    "Type": 1,
+    "Title": "I\u0027m scared about biological computing",
+    "Url": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
+    "Description": "I\u0027m scared about biological computing",
+    "Metadata": {
+      "score": "67",
+      "author": "kuberwastaken",
+      "commentCount": "43"
+    },
+    "FetchedAt": "2026-05-05T19:08:27.8520083+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48025687"
+    },
+    "Type": 1,
+    "Title": "IBM didn\u0027t want Microsoft to use the Tab key to move between dialog fields",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
+    "Description": "IBM didn\u0027t want Microsoft to use the Tab key to move between dialog fields",
+    "Metadata": {
+      "score": "171",
+      "author": "SeenNotHeard",
+      "commentCount": "89"
+    },
+    "FetchedAt": "2026-05-05T19:08:27.8673503+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48023533"
+    },
+    "Type": 1,
+    "Title": "Agents for financial services and insurance",
+    "Url": "https://www.anthropic.com/news/finance-agents",
+    "Description": "Agents for financial services and insurance",
+    "Metadata": {
+      "score": "118",
+      "author": "louiereederson",
+      "commentCount": "97"
+    },
+    "FetchedAt": "2026-05-05T19:08:27.8829409+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48025828"
+    },
+    "Type": 1,
+    "Title": "Quantum Key Distribution (QKD) and Quantum Cryptography (QC)",
+    "Url": "https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/",
+    "Description": "Quantum Key Distribution (QKD) and Quantum Cryptography (QC)",
+    "Metadata": {
+      "score": "23",
+      "author": "mooreds",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-05-05T19:08:27.8986511+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48025244"
+    },
+    "Type": 1,
+    "Title": "Proliferate (YC S25) Is Hiring- 200k for junior engineers",
+    "Url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
+    "Description": "Proliferate (YC S25) Is Hiring- 200k for junior engineers",
+    "Metadata": {
+      "score": "1",
+      "author": "pablo24602",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-05T19:08:27.9138764+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48026349"
+    },
+    "Type": 1,
+    "Title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
+    "Url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
+    "Description": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
+    "Metadata": {
+      "score": "53",
+      "author": "littlexsparkee",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-05-05T19:08:27.9296537+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48023496"
+    },
+    "Type": 1,
+    "Title": "Show HN: Airbyte Agents \u2013 context for agents across multiple data sources",
+    "Url": "https://news.ycombinator.com/item?id=48023496",
+    "Description": "Show HN: Airbyte Agents \u2013 context for agents across multiple data sources",
+    "Metadata": {
+      "score": "53",
+      "author": "mtricot",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-05-05T19:08:27.9464523+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:47962032"
+    },
+    "Type": 1,
+    "Title": "Should I Run Plain Docker Compose in Production in 2026?",
+    "Url": "https://distr.sh/blog/running-docker-in-production/",
+    "Description": "Should I Run Plain Docker Compose in Production in 2026?",
+    "Metadata": {
+      "score": "281",
+      "author": "pmig",
+      "commentCount": "209"
+    },
+    "FetchedAt": "2026-05-05T19:08:27.9619265+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48019163"
+    },
+    "Type": 1,
+    "Title": "Async Rust never left the MVP state",
+    "Url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+    "Description": "Async Rust never left the MVP state",
+    "Metadata": {
+      "score": "390",
+      "author": "pjmlp",
+      "commentCount": "212"
+    },
+    "FetchedAt": "2026-05-05T19:08:27.9773983+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48024364"
+    },
+    "Type": 1,
+    "Title": "UK: Two millionth electric car registered as market rebounds strongly",
+    "Url": "https://www.smmt.co.uk/two-millionth-electric-car-registered-as-market-rebounds-strongly-from-tax-changes/",
+    "Description": "UK: Two millionth electric car registered as market rebounds strongly",
+    "Metadata": {
+      "score": "134",
+      "author": "kieranmaine",
+      "commentCount": "160"
+    },
+    "FetchedAt": "2026-05-05T19:08:27.9939551+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:47999391"
+    },
+    "Type": 1,
+    "Title": "Collaborative Editing in CodeMirror",
+    "Url": "https://marijnhaverbeke.nl/blog/collaborative-editing-cm.html",
+    "Description": "Collaborative Editing in CodeMirror",
+    "Metadata": {
+      "score": "34",
+      "author": "luu",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-05-05T19:08:28.0095234+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48021561"
+    },
+    "Type": 1,
+    "Title": "iOS 27 is adding a \u0027Create a Pass\u0027 button to Apple Wallet",
+    "Url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
+    "Description": "iOS 27 is adding a \u0027Create a Pass\u0027 button to Apple Wallet",
+    "Metadata": {
+      "score": "314",
+      "author": "alentodorov",
+      "commentCount": "255"
+    },
+    "FetchedAt": "2026-05-05T19:08:28.0248903+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:47986331"
+    },
+    "Type": 1,
+    "Title": "Docker 29 has changed its default image store for new installs",
+    "Url": "https://docs.docker.com/engine/storage/containerd",
+    "Description": "Docker 29 has changed its default image store for new installs",
+    "Metadata": {
+      "score": "98",
+      "author": "neitsab",
+      "commentCount": "49"
+    },
+    "FetchedAt": "2026-05-05T19:08:28.0419162+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:47993240"
+    },
+    "Type": 1,
+    "Title": "Comparing the Z80 and 6502 to Their Relatives",
+    "Url": "https://bumbershootsoft.wordpress.com/2026/05/02/comparing-the-z80-and-6502-to-their-relatives/",
+    "Description": "Comparing the Z80 and 6502 to Their Relatives",
+    "Metadata": {
+      "score": "84",
+      "author": "ibobev",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-05-05T19:08:28.0574686+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48026206"
+    },
+    "Type": 1,
+    "Title": "Clarification on the Notepad\u002B\u002B Trademark Issue",
+    "Url": "https://notepad-plus-plus.org/news/clarify-npp-trademark-infringement/",
+    "Description": "Clarification on the Notepad\u002B\u002B Trademark Issue",
+    "Metadata": {
+      "score": "86",
+      "author": "minimaxir",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-05-05T19:08:28.073308+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48020063"
+    },
+    "Type": 1,
+    "Title": "When everyone has AI and the company still learns nothing",
+    "Url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+    "Description": "When everyone has AI and the company still learns nothing",
+    "Metadata": {
+      "score": "232",
+      "author": "youngbrioche",
+      "commentCount": "161"
+    },
+    "FetchedAt": "2026-05-05T19:08:28.0893172+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48018066"
+    },
+    "Type": 1,
+    "Title": "Empty Screenings \u2013 Finds AMC movie screenings with few or no tickets sold",
+    "Url": "https://walzr.com/empty-screenings",
+    "Description": "Empty Screenings \u2013 Finds AMC movie screenings with few or no tickets sold",
+    "Metadata": {
+      "score": "283",
+      "author": "MrBuddyCasino",
+      "commentCount": "240"
+    },
+    "FetchedAt": "2026-05-05T19:08:28.1049624+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48026342"
+    },
+    "Type": 1,
+    "Title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+    "Url": "https://paletteinspiration.com/",
+    "Description": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+    "Metadata": {
+      "score": "7",
+      "author": "ouli",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-05-05T19:08:28.1207109+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48022900"
+    },
+    "Type": 1,
+    "Title": "Incident with Actions",
+    "Url": "https://www.githubstatus.com/incidents/1j40g94rn22j",
+    "Description": "Incident with Actions",
+    "Metadata": {
+      "score": "136",
+      "author": "pera",
+      "commentCount": "73"
+    },
+    "FetchedAt": "2026-05-05T19:08:28.1362084+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48007713"
+    },
+    "Type": 1,
+    "Title": "Adding a feature to a closed-source app",
+    "Url": "https://www.stavros.io/posts/adding-a-feature-to-a-closed-source-app/",
+    "Description": "Adding a feature to a closed-source app",
+    "Metadata": {
+      "score": "14",
+      "author": "stavros",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-05-05T19:08:28.1529937+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48022596"
+    },
+    "Type": 1,
+    "Title": "Simple Meta-Harness on Islo.dev",
+    "Url": "https://zozo123.github.io/meta-harness-on-islo-page/",
+    "Description": "Simple Meta-Harness on Islo.dev",
+    "Metadata": {
+      "score": "34",
+      "author": "zozo123-IB",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-05-05T19:08:28.1701093+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48019025"
+    },
+    "Type": 1,
+    "Title": "Lessons for Agentic Coding: What should we do when code is cheap?",
+    "Url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
+    "Description": "Lessons for Agentic Coding: What should we do when code is cheap?",
+    "Metadata": {
+      "score": "194",
+      "author": "ingve",
+      "commentCount": "198"
+    },
+    "FetchedAt": "2026-05-05T19:08:28.1856798+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:47993181"
+    },
+    "Type": 1,
+    "Title": "The first photo published in a newspaper",
+    "Url": "https://phsne.org/the-first-photograph-published-in-a-newspaper-1848/",
+    "Description": "The first photo published in a newspaper",
+    "Metadata": {
+      "score": "39",
+      "author": "geuis",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-05-05T19:08:28.2016424+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48019219"
+    },
+    "Type": 1,
+    "Title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+    "Url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+    "Description": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+    "Metadata": {
+      "score": "881",
+      "author": "john-doe",
+      "commentCount": "607"
+    },
+    "FetchedAt": "2026-05-05T19:08:28.2189504+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48022742"
+    },
+    "Type": 1,
+    "Title": "AI didn\u0027t delete your database, you did",
+    "Url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
+    "Description": "AI didn\u0027t delete your database, you did",
+    "Metadata": {
+      "score": "426",
+      "author": "Brajeshwar",
+      "commentCount": "225"
+    },
+    "FetchedAt": "2026-05-05T19:08:28.234127+00:00"
   }
 ]
