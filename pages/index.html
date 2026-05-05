@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+{% if site.data.digest %}
+  {% assign sorted_items = site.data.digest.Items | sort: "Score" | reverse %}
+  <div class="digest-header">
+    <p class="digest-date">{{ site.data.digest.Id }}</p>
+    <p class="digest-summary">{{ site.data.digest.Summary }}</p>
+  </div>
+
+  <div class="items-list">
+    {% for item in sorted_items %}
+      {% include item-card.html item=item rank=forloop.index %}
+    {% endfor %}
+  </div>
+{% else %}
+  <div class="empty-state">
+    <p>暂无日报数据。请稍后再来。</p>
+  </div>
+{% endif %}

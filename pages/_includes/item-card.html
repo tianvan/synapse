@@ -1,0 +1,37 @@
+<article class="item-card{% if include.item.Score >= 9 %} top-rated{% endif %}" data-score="{{ include.item.Score }}">
+  <div class="card-rank">
+    <span class="rank-number">#{{ include.rank }}</span>
+    <span class="rank-score">{{ include.item.Score }}/10</span>
+  </div>
+
+  <div class="card-body">
+    {% assign source = include.item.SourceRef.Value %}
+    {% if source contains "github:" %}
+      {% assign url = source | remove_first: "github:" | split: "/" %}
+      {% assign url_final = "https://github.com/" | append: url[0] | append: "/" | append: url[1] %}
+    {% elsif source contains "hn:" %}
+      {% assign hn_id = source | remove_first: "hn:" %}
+      {% assign url_final = "https://news.ycombinator.com/item?id=" | append: hn_id %}
+    {% else %}
+      {% assign url_final = "#" %}
+    {% endif %}
+
+    <h2 class="card-title">
+      <a href="{{ url_final }}" target="_blank" rel="noopener">{{ include.item.Highlight.Text }}</a>
+    </h2>
+
+    <div class="card-meta">
+      <span class="category-tag {{ include.item.Category }}">{{ include.item.Category }}</span>
+      {% for tag in include.item.TechStack.Tags %}
+        <span class="tech-tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
+
+    {% if include.item.Suitability %}
+    <details class="card-suitability">
+      <summary>适用场景</summary>
+      <p>{{ include.item.Suitability }}</p>
+    </details>
+    {% endif %}
+  </div>
+</article>
