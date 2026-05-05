@@ -1,0 +1,45 @@
+name: Deploy to GitHub Pages
+
+on:
+  workflow_dispatch:
+  workflow_call:
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Get digest date
+        id: date
+        run: echo "date=$(date +%Y-%m-%d)" >> $GITHUB_OUTPUT
+
+      - name: Prepare data files
+        run: |
+          DIGEST_DATE="${{ steps.date.outputs.date }}"
+          DIGEST_FILE="data/digests/${DIGEST_DATE}.json"
+
+          if [ ! -f "$DIGEST_FILE" ]; then
+            echo "::error::Digest file not found: $DIGEST_FILE"
+            exit 1
+          fi
+
+          mkdir -p pages/_data
+          cp "$DIGEST_FILE" pages/_data/digest.json
+
+          # Generate history.json from available digest files
+          ls data/digests/*.json | sed 's|data/digests/||;s|\.json||' | sort -r | jq -R -s -c 'split("\n") | map(select(length > 0) | {date: .})' > pages/_data/history.json
+
+          echo "Deploying digest for ${DIGEST_DATE}"
+          cat pages/_data/history.json
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./pages
+          publish_branch: gh-pages
+          force_orphan: true
