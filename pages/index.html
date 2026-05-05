@@ -4,8 +4,11 @@ layout: default
 
 {% if site.data.digest %}
   {% assign sorted_items = site.data.digest.Items | sort: "Score" | reverse %}
-  <div class="digest-header">
-    <p class="digest-date">{{ site.data.digest.Id }}</p>
+
+  <div class="digest-meta">
+    <p class="digest-date">
+      <strong>{{ site.data.digest.Id }}</strong>
+    </p>
     <p class="digest-summary">{{ site.data.digest.Summary }}</p>
   </div>
 
@@ -16,6 +19,6 @@ layout: default
   </div>
 {% else %}
   <div class="empty-state">
-    <p>暂无日报数据。请稍后再来。</p>
+    <p>暂无日报数据，请稍后再来。</p>
   </div>
 {% endif %}
