@@ -12,14 +12,14 @@ layout: default
     <p class="digest-summary">{{ site.data.digest.Summary }}</p>
   </div>
 
-  <!-- Top 3 podium -->
+  <!-- Top 3 Podium -->
   <div class="podium">
     {% for item in top3 %}
       {% include podium-card.html item=item rank=forloop.index %}
     {% endfor %}
   </div>
 
-  <!-- Remaining list -->
+  <!-- Remaining List -->
   {% if rest.size > 0 %}
   <h2 class="section-header">更多资讯</h2>
   <div class="items-list">

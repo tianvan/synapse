@@ -1,7 +1,16 @@
-<article class="item-card{% if include.item.Score >= 9 %} top-rated{% endif %}" data-score="{{ include.item.Score }}">
+{% assign score = include.item.Score %}
+{% if score >= 9 %}
+  {% assign tier_class = "tier-gold" %}
+{% elsif score >= 7 %}
+  {% assign tier_class = "tier-silver" %}
+{% else %}
+  {% assign tier_class = "" %}
+{% endif %}
+
+<article class="item-card {{ tier_class }}" data-score="{{ score }}">
   <div class="card-rank">
     <span class="rank-number">#{{ include.rank }}</span>
-    <span class="rank-score">{{ include.item.Score }}</span>
+    <span class="rank-score">{{ score }}</span>
   </div>
 
   <div class="card-body">
