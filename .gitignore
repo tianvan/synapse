@@ -4,3 +4,6 @@ obj/
 .vs/
 *.user
 .claude/settings.local.json
+
+# GitHub Pages CI-generated data
+pages/_data/

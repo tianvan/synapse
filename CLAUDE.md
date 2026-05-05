@@ -58,6 +58,15 @@ Three GitHub Actions workflows:
 
 Workflows that push data need `permissions: contents: write`. `pr-checks.yml` auto-merge uses `gh pr merge --auto --squash` and needs `GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}`.
 
+## GitHub Pages
+
+Jekyll site source in `pages/`. Digest data is deployed to `gh-pages` branch via `deploy-pages.yml`:
+- Auto-triggered after `daily-digest.yml` completes
+- Manually triggerable via workflow_dispatch
+- `pages/_data/` is CI-generated (gitignored in master)
+
+Site URL: `https://tianvan.github.io/synapse` (after first deploy, configure in repo Settings → Pages)
+
 ## Key Conventions
 
 - **`sealed record` for all value objects and entities** — records give value equality, immutability, `with`.
