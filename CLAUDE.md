@@ -6,8 +6,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ```bash
 dotnet build Synapse.slnx
-dotnet test Synapse.slnx                        # all tests
-dotnet test --filter "FullyQualifiedName~ClassName"  # single test class
+dotnet test Synapse.slnx                                         # all tests
+dotnet test --filter "FullyQualifiedName~IngestAppServiceTests"  # single test class
 ```
 
 Run CLI commands (from repo root):
@@ -35,15 +35,19 @@ Synapse.Cli (North Remote)
   └─→ Synapse.Digest   (日报: AI analyze → organize → deliver)
 ```
 
-**Shared kernel:** `Synapse.Foundation` — `ExternalId`, `SourceItem`, `SourceType`, stereotype attributes, `Result<T>`, base exceptions.
+**Shared kernel:** `Synapse.Foundation` — `ExternalId`, `SourceItem`, `SourceType` (enum: `GitHubTrending`, `HackerNews`), stereotype attributes (`[Port]`, `[Adapter]`, `[DomainService]`, `[Aggregate]`), `Result<T>`, base exceptions.
 
 Contexts communicate via file system contract: `data/raw/{yyyy-MM-dd}/{source}.json`.
 
+DI is manual `ServiceCollection` in `Program.cs` — no `Host.CreateDefaultBuilder`. `HttpClient` registered via `services.AddHttpClient()` and injected into adapters.
+
 ## Configuration
 
-`IOptions<T>` pattern. Defaults in `appsettings.json`, overridable by environment variables.
+`IOptions<T>` pattern. Sensible defaults in options class property initializers (e.g. `OpenAIOptions`), overridable via `appsettings.json` or environment variables. Never hardcode operational parameters in constructors or method bodies.
 
 Env vars use `__` separator for hierarchy: `OpenAI__ApiKey`, `OpenAI__BaseUrl`, `WeCom__WebhookUrl`. Set via GitHub Secrets with matching names.
+
+GitHub Secrets required for `daily-digest.yml`: `OpenAI__ApiKey`, `OpenAI__BaseUrl`, `OpenAI__Model`, `WeCom__WebhookUrl`.
 
 ## CI/CD
 
@@ -52,12 +56,20 @@ Three GitHub Actions workflows:
 - `daily-digest.yml` — generates and delivers digest daily at 8:00 UTC
 - `pr-checks.yml` — runs tests on PR, enables auto-merge (squash) on pass
 
-Workflows that push data need `permissions: contents: write`.
+Workflows that push data need `permissions: contents: write`. `pr-checks.yml` auto-merge uses `gh pr merge --auto --squash` and needs `GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}`.
 
 ## Key Conventions
 
-- **No hardcoded defaults in C#** — use `appsettings.json` + `IOptions<T>`.
 - **`sealed record` for all value objects and entities** — records give value equality, immutability, `with`.
 - **`[DomainService]` only on Domain-layer services**, never on `Local/AppService` classes.
+- **`DateOnly` for date values**, not `DateTime`.
 - **`slnx` format** (not `.sln`) for .NET 10 solution.
+- **File-scoped namespaces** throughout.
 - **`ILogger<T>`** for logging, not `Console.WriteLine`. Log level in `appsettings.json`.
+
+### Test Conventions
+
+- **xUnit** with **FluentAssertions** (`.Should()` extension methods).
+- **No mocking library** — test doubles are inline classes at the bottom of the test file (e.g. `FakeSourceReader`, `FailingSourceReader`).
+- Test method naming: `snake_case` with `Should_` prefix (e.g. `Should_fetch_from_all_readers_and_save`).
+- Tests that create temp files use `Path.GetTempPath()` + cleanup in `try/catch`.
