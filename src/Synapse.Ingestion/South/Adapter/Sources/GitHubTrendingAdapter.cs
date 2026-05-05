@@ -26,11 +26,17 @@ public class GitHubTrendingAdapter : ISourceReader
         foreach (Match match in matches)
         {
             var block = match.Groups[1].Value;
-            var repoMatch = Regex.Match(block, @"href=""/(""?(.+?)/(.+?))""");
+            var repoMatch = Regex.Match(block, @"href=""/(""?([^/""\s]+?)/([^/""\s]+?))""");
             if (!repoMatch.Success) continue;
 
             var owner = repoMatch.Groups[2].Value.Trim();
             var name = repoMatch.Groups[3].Value.Trim();
+
+            // Filter out non-repository links (login, sponsors, settings, etc.)
+            if (owner.Contains('?') || owner.Contains('%') || owner.Contains('&')
+                || owner is "login" or "sponsors" or "settings" or "features" or "orgs"
+                || name.Contains('?'))
+                continue;
             var descMatch = Regex.Match(block,
                 @"<p\s+class=""col-9[^""]*"">\s*(.+?)\s*</p>", RegexOptions.Singleline);
             var langMatch = Regex.Match(block,

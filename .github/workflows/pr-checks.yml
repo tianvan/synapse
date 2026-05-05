@@ -1,0 +1,31 @@
+name: PR Checks
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "10.0.x"
+
+      - name: Run tests
+        run: dotnet test Synapse.slnx
+
+  auto-merge:
+    needs: test
+    if: success()
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Enable auto-merge
+        run: gh pr merge --auto --squash "${{ github.event.pull_request.html_url }}"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

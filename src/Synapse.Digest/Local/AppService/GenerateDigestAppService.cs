@@ -1,5 +1,4 @@
 using Synapse.Foundation.Shared;
-using Synapse.Foundation.Stereotype;
 using Synapse.Digest.Domain;
 using Synapse.Digest.Local.Message;
 using Synapse.Digest.South.Port.Analyzer;
@@ -9,7 +8,6 @@ using ISourceItemRepository = Synapse.Ingestion.South.Port.Repository.ISourceIte
 
 namespace Synapse.Digest.Local.AppService;
 
-[DomainService]
 public class GenerateDigestAppService
 {
     private readonly ISourceItemRepository _sourceRepo;

@@ -1,5 +1,7 @@
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Options;
 using Synapse.Ingestion.Local.AppService;
 using Synapse.Ingestion.Local.Message;
 using Synapse.Ingestion.South.Adapter.Repositories;
@@ -26,6 +28,12 @@ var dataPath = config.GetValue<string>("DataPath") ?? ".";
 // ---- DI Container ----
 var services = new ServiceCollection();
 
+services.AddLogging(b =>
+    b.AddConsole().AddConfiguration(config.GetSection("Logging")));
+
+// Bind options from config (env vars use __ separator: OpenAI__ApiKey overrides OpenAI:ApiKey)
+services.Configure<OpenAIOptions>(config.GetSection(OpenAIOptions.Section));
+
 // Ingestion: Ports & Adapters
 services.AddSingleton<ISourceItemRepository>(
     new SourceItemFileAdapter(dataPath));
@@ -40,28 +48,15 @@ services.AddSingleton<IDigestRepository>(
     new DigestFileAdapter(dataPath));
 
 services.AddSingleton<IAnalyzer>(sp =>
-{
-    var apiKey = config.GetValue<string>("OpenAI:ApiKey")
-        ?? Environment.GetEnvironmentVariable("OPENAI_API_KEY")
-        ?? throw new InvalidOperationException(
-            "OpenAI API key is required. Set OpenAI:ApiKey in appsettings or OPENAI_API_KEY env var.");
-
-    var baseUrl = config.GetValue<string>("OpenAI:BaseUrl")
-        ?? Environment.GetEnvironmentVariable("OPENAI_BASE_URL");
-
-    var model = config.GetValue<string>("OpenAI:Model") ?? "gpt-4o-mini";
-
-    return new OpenAIAnalyzerAdapter(
-        sp.GetRequiredService<HttpClient>(), apiKey, model, baseUrl);
-});
+    new OpenAIAnalyzerAdapter(
+        sp.GetRequiredService<HttpClient>(),
+        sp.GetRequiredService<IOptions<OpenAIOptions>>(),
+        sp.GetRequiredService<ILogger<OpenAIAnalyzerAdapter>>()));
 
 services.AddSingleton<IOutputPort>(sp =>
 {
     var webhookUrl = config.GetValue<string>("WeCom:WebhookUrl")
-        ?? Environment.GetEnvironmentVariable("WECOM_WEBHOOK_URL")
-        ?? throw new InvalidOperationException(
-            "WeCom webhook URL is required. Set WeCom:WebhookUrl in appsettings or WECOM_WEBHOOK_URL env var.");
-
+        ?? throw new InvalidOperationException("WeCom webhook URL is required.");
     return new WeComAdapter(sp.GetRequiredService<HttpClient>(), webhookUrl);
 });
 

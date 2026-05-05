@@ -5,6 +5,9 @@ on:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   ingest:
     runs-on: ubuntu-latest
@@ -16,9 +19,6 @@ jobs:
           dotnet-version: "10.0.x"
 
       - name: Run ingestion
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          WECOM_WEBHOOK_URL: ${{ secrets.WECOM_WEBHOOK_URL }}
         run: dotnet run --project src/Synapse.Cli -- ingest --source all
 
       - name: Archive raw data
