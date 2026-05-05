@@ -271,81 +271,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48019163"
-    },
-    "Type": 1,
-    "Title": "Async Rust never left the MVP state",
-    "Url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-    "Description": "Async Rust never left the MVP state",
-    "Metadata": {
-      "score": "30",
-      "author": "pjmlp",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-05-05T07:58:23.152468+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48017948"
-    },
-    "Type": 1,
-    "Title": "Train Your Own LLM from Scratch",
-    "Url": "https://github.com/angelos-p/llm-from-scratch",
-    "Description": "Train Your Own LLM from Scratch",
-    "Metadata": {
-      "score": "173",
-      "author": "kristianpaul",
-      "commentCount": "20"
-    },
-    "FetchedAt": "2026-05-05T07:58:23.1873223+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48017907"
-    },
-    "Type": 1,
-    "Title": "Hand Drawn QR Codes",
-    "Url": "https://sethmlarson.dev/hand-drawn-qr-codes",
-    "Description": "Hand Drawn QR Codes",
-    "Metadata": {
-      "score": "63",
-      "author": "jollyjerry",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-05-05T07:58:23.2444291+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48016880"
-    },
-    "Type": 1,
-    "Title": "Bun is being ported from Zig to Rust",
-    "Url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-    "Description": "Bun is being ported from Zig to Rust",
-    "Metadata": {
-      "score": "451",
-      "author": "SergeAx",
-      "commentCount": "314"
-    },
-    "FetchedAt": "2026-05-05T07:58:23.2788468+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48019025"
-    },
-    "Type": 1,
-    "Title": "Lessons for Agentic Coding: What should we do when code is cheap?",
-    "Url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
-    "Description": "Lessons for Agentic Coding: What should we do when code is cheap?",
-    "Metadata": {
-      "score": "13",
-      "author": "ingve",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-05-05T07:58:23.3135493+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48017251"
     },
     "Type": 1,
@@ -358,81 +283,6 @@
       "commentCount": "55"
     },
     "FetchedAt": "2026-05-05T07:58:23.3480287+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48013919"
-    },
-    "Type": 1,
-    "Title": "How OpenAI delivers low-latency voice AI at scale",
-    "Url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-    "Description": "How OpenAI delivers low-latency voice AI at scale",
-    "Metadata": {
-      "score": "388",
-      "author": "Sean-Der",
-      "commentCount": "122"
-    },
-    "FetchedAt": "2026-05-05T07:58:23.3836673+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48017813"
-    },
-    "Type": 1,
-    "Title": "CVE-2026-31431: Copy Fail vs. rootless containers",
-    "Url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
-    "Description": "CVE-2026-31431: Copy Fail vs. rootless containers",
-    "Metadata": {
-      "score": "81",
-      "author": "averi",
-      "commentCount": "25"
-    },
-    "FetchedAt": "2026-05-05T07:58:23.4177399+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:47990491"
-    },
-    "Type": 1,
-    "Title": "Farewell to a Giant of Botany",
-    "Url": "https://nautil.us/farewell-to-a-giant-of-botany-1280409",
-    "Description": "Farewell to a Giant of Botany",
-    "Metadata": {
-      "score": "15",
-      "author": "Brajeshwar",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-05-05T07:58:23.4524852+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48018066"
-    },
-    "Type": 1,
-    "Title": "About 10% of AMC movie showings sell zero tickets. This site finds them",
-    "Url": "https://walzr.com/empty-screenings",
-    "Description": "About 10% of AMC movie showings sell zero tickets. This site finds them",
-    "Metadata": {
-      "score": "125",
-      "author": "MrBuddyCasino",
-      "commentCount": "99"
-    },
-    "FetchedAt": "2026-05-05T07:58:23.4864532+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48015397"
-    },
-    "Type": 1,
-    "Title": "Agent Skills",
-    "Url": "https://addyosmani.com/blog/agent-skills/",
-    "Description": "Agent Skills",
-    "Metadata": {
-      "score": "232",
-      "author": "BOOSTERHIDROGEN",
-      "commentCount": "100"
-    },
-    "FetchedAt": "2026-05-05T07:58:23.5205493+00:00"
   },
   {
     "ExternalId": {
@@ -451,21 +301,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48012162"
-    },
-    "Type": 1,
-    "Title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
-    "Url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-    "Description": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
-    "Metadata": {
-      "score": "193",
-      "author": "bearsyankees",
-      "commentCount": "80"
-    },
-    "FetchedAt": "2026-05-05T07:58:23.5903892+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:47988439"
     },
     "Type": 1,
@@ -481,96 +316,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48014868"
-    },
-    "Type": 1,
-    "Title": "When Networking Doesn\u0027t Work",
-    "Url": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
-    "Description": "When Networking Doesn\u0027t Work",
-    "Metadata": {
-      "score": "58",
-      "author": "kencausey",
-      "commentCount": "9"
-    },
-    "FetchedAt": "2026-05-05T07:58:23.6593512+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48009983"
-    },
-    "Type": 1,
-    "Title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
-    "Url": "https://www.nber.org/papers/w35117",
-    "Description": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
-    "Metadata": {
-      "score": "274",
-      "author": "littlexsparkee",
-      "commentCount": "253"
-    },
-    "FetchedAt": "2026-05-05T07:58:23.6945092+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48018080"
-    },
-    "Type": 1,
-    "Title": "Kids bypass age verification with fake moustaches",
-    "Url": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
-    "Description": "Kids bypass age verification with fake moustaches",
-    "Metadata": {
-      "score": "68",
-      "author": "dreadsword",
-      "commentCount": "30"
-    },
-    "FetchedAt": "2026-05-05T07:58:23.7288634+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48009172"
-    },
-    "Type": 1,
-    "Title": "Redis array: short story of a long development process",
-    "Url": "https://antirez.com/news/164",
-    "Description": "Redis array: short story of a long development process",
-    "Metadata": {
-      "score": "273",
-      "author": "antirez",
-      "commentCount": "89"
-    },
-    "FetchedAt": "2026-05-05T07:58:23.7631867+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48007438"
-    },
-    "Type": 1,
-    "Title": "Talking to strangers at the gym",
-    "Url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-    "Description": "Talking to strangers at the gym",
-    "Metadata": {
-      "score": "1316",
-      "author": "thitran",
-      "commentCount": "624"
-    },
-    "FetchedAt": "2026-05-05T07:58:23.7986516+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48018034"
-    },
-    "Type": 1,
-    "Title": "2-D Mathematical Curves",
-    "Url": "https://www.2dcurves.com/",
-    "Description": "2-D Mathematical Curves",
-    "Metadata": {
-      "score": "19",
-      "author": "the-mitr",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-05-05T07:58:23.8325318+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:47998158"
     },
     "Type": 1,
@@ -583,21 +328,6 @@
       "commentCount": "17"
     },
     "FetchedAt": "2026-05-05T07:58:23.8668969+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48017641"
-    },
-    "Type": 1,
-    "Title": "Biscuit",
-    "Url": "https://github.com/yattsu/biscuit",
-    "Description": "Biscuit",
-    "Metadata": {
-      "score": "23",
-      "author": "unixfg",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-05-05T07:58:23.9015487+00:00"
   },
   {
     "ExternalId": {
@@ -661,21 +391,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48014325"
-    },
-    "Type": 1,
-    "Title": "Formatting a 25M-line codebase overnight",
-    "Url": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
-    "Description": "Formatting a 25M-line codebase overnight",
-    "Metadata": {
-      "score": "162",
-      "author": "r00k",
-      "commentCount": "82"
-    },
-    "FetchedAt": "2026-05-05T07:58:24.0751507+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48009020"
     },
     "Type": 1,
@@ -718,5 +433,455 @@
       "commentCount": "89"
     },
     "FetchedAt": "2026-05-05T07:58:24.1807187+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48021561"
+    },
+    "Type": 1,
+    "Title": "iOS 27 is adding a \u0027Create a Pass\u0027 button to Apple Wallet",
+    "Url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
+    "Description": "iOS 27 is adding a \u0027Create a Pass\u0027 button to Apple Wallet",
+    "Metadata": {
+      "score": "67",
+      "author": "alentodorov",
+      "commentCount": "39"
+    },
+    "FetchedAt": "2026-05-05T13:21:33.6388308+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48021968"
+    },
+    "Type": 1,
+    "Title": "AI Product Graveyard",
+    "Url": "https://tooldirectory.ai/ai-graveyard",
+    "Description": "AI Product Graveyard",
+    "Metadata": {
+      "score": "33",
+      "author": "StriverGuy",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-05-05T13:21:33.6853054+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48019163"
+    },
+    "Type": 1,
+    "Title": "Async Rust never left the MVP state",
+    "Url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+    "Description": "Async Rust never left the MVP state",
+    "Metadata": {
+      "score": "271",
+      "author": "pjmlp",
+      "commentCount": "138"
+    },
+    "FetchedAt": "2026-05-05T13:21:33.7200919+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:47962032"
+    },
+    "Type": 1,
+    "Title": "Should I Run Plain Docker Compose in Production in 2026?",
+    "Url": "https://distr.sh/blog/running-docker-in-production/",
+    "Description": "Should I Run Plain Docker Compose in Production in 2026?",
+    "Metadata": {
+      "score": "135",
+      "author": "pmig",
+      "commentCount": "116"
+    },
+    "FetchedAt": "2026-05-05T13:21:33.7568103+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48016880"
+    },
+    "Type": 1,
+    "Title": "Bun is being ported from Zig to Rust",
+    "Url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+    "Description": "Bun is being ported from Zig to Rust",
+    "Metadata": {
+      "score": "603",
+      "author": "SergeAx",
+      "commentCount": "426"
+    },
+    "FetchedAt": "2026-05-05T13:21:33.7910759+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48018066"
+    },
+    "Type": 1,
+    "Title": "Empty Screenings \u2013 Finds AMC movie screenings with few or no tickets sold",
+    "Url": "https://walzr.com/empty-screenings",
+    "Description": "Empty Screenings \u2013 Finds AMC movie screenings with few or no tickets sold",
+    "Metadata": {
+      "score": "198",
+      "author": "MrBuddyCasino",
+      "commentCount": "167"
+    },
+    "FetchedAt": "2026-05-05T13:21:33.8256179+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48019025"
+    },
+    "Type": 1,
+    "Title": "Lessons for Agentic Coding: What should we do when code is cheap?",
+    "Url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
+    "Description": "Lessons for Agentic Coding: What should we do when code is cheap?",
+    "Metadata": {
+      "score": "119",
+      "author": "ingve",
+      "commentCount": "105"
+    },
+    "FetchedAt": "2026-05-05T13:21:33.85982+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48017907"
+    },
+    "Type": 1,
+    "Title": "Hand Drawn QR Codes (2025)",
+    "Url": "https://sethmlarson.dev/hand-drawn-qr-codes",
+    "Description": "Hand Drawn QR Codes (2025)",
+    "Metadata": {
+      "score": "149",
+      "author": "jollyjerry",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-05-05T13:21:33.8937229+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48019219"
+    },
+    "Type": 1,
+    "Title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+    "Url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+    "Description": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+    "Metadata": {
+      "score": "457",
+      "author": "john-doe",
+      "commentCount": "423"
+    },
+    "FetchedAt": "2026-05-05T13:21:33.9278282+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:47986798"
+    },
+    "Type": 1,
+    "Title": "sRGB profile comparison",
+    "Url": "https://ninedegreesbelow.com/photography/srgb-profile-comparison.html",
+    "Description": "sRGB profile comparison",
+    "Metadata": {
+      "score": "11",
+      "author": "Retr0id",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-05T13:21:33.9627076+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48013919"
+    },
+    "Type": 1,
+    "Title": "How OpenAI delivers low-latency voice AI at scale",
+    "Url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+    "Description": "How OpenAI delivers low-latency voice AI at scale",
+    "Metadata": {
+      "score": "434",
+      "author": "Sean-Der",
+      "commentCount": "135"
+    },
+    "FetchedAt": "2026-05-05T13:21:33.9968325+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48020063"
+    },
+    "Type": 1,
+    "Title": "When everyone has AI and the company still learns nothing",
+    "Url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+    "Description": "When everyone has AI and the company still learns nothing",
+    "Metadata": {
+      "score": "92",
+      "author": "youngbrioche",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-05-05T13:21:34.0305622+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:47990491"
+    },
+    "Type": 1,
+    "Title": "Farewell to a Giant of Botany",
+    "Url": "https://nautil.us/farewell-to-a-giant-of-botany-1280409",
+    "Description": "Farewell to a Giant of Botany",
+    "Metadata": {
+      "score": "54",
+      "author": "Brajeshwar",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-05-05T13:21:34.0654509+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48017813"
+    },
+    "Type": 1,
+    "Title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+    "Url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+    "Description": "CVE-2026-31431: Copy Fail vs. rootless containers",
+    "Metadata": {
+      "score": "131",
+      "author": "averi",
+      "commentCount": "69"
+    },
+    "FetchedAt": "2026-05-05T13:21:34.1002158+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48021420"
+    },
+    "Type": 1,
+    "Title": "Show HN: I built a new word game, Wordtrak",
+    "Url": "https://wordtrak.com/blog/2026-05-05-I-built-a-new-word-game",
+    "Description": "Show HN: I built a new word game, Wordtrak",
+    "Metadata": {
+      "score": "7",
+      "author": "qrush",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-05T13:21:34.1357663+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48017948"
+    },
+    "Type": 1,
+    "Title": "Train Your Own LLM from Scratch",
+    "Url": "https://github.com/angelos-p/llm-from-scratch",
+    "Description": "Train Your Own LLM from Scratch",
+    "Metadata": {
+      "score": "310",
+      "author": "kristianpaul",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-05-05T13:21:34.1700441+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48015397"
+    },
+    "Type": 1,
+    "Title": "Agent Skills",
+    "Url": "https://addyosmani.com/blog/agent-skills/",
+    "Description": "Agent Skills",
+    "Metadata": {
+      "score": "294",
+      "author": "BOOSTERHIDROGEN",
+      "commentCount": "151"
+    },
+    "FetchedAt": "2026-05-05T13:21:34.2041492+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:47993585"
+    },
+    "Type": 1,
+    "Title": "Mouse Pointer as a Mere Mortal",
+    "Url": "https://unsung.aresluna.org/mouse-pointer-as-a-mere-mortal/",
+    "Description": "Mouse Pointer as a Mere Mortal",
+    "Metadata": {
+      "score": "46",
+      "author": "zdw",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-05-05T13:21:34.2398765+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48002890"
+    },
+    "Type": 1,
+    "Title": "Why I Created phpc.tv",
+    "Url": "https://afilina.com/why-phpc-tv",
+    "Description": "Why I Created phpc.tv",
+    "Metadata": {
+      "score": "36",
+      "author": "luu",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-05-05T13:21:34.2742722+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48019165"
+    },
+    "Type": 1,
+    "Title": "The Frog for Whom the Bell Tolls",
+    "Url": "https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls",
+    "Description": "The Frog for Whom the Bell Tolls",
+    "Metadata": {
+      "score": "25",
+      "author": "anujbans",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-05-05T13:21:34.3086476+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48009983"
+    },
+    "Type": 1,
+    "Title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+    "Url": "https://www.nber.org/papers/w35117",
+    "Description": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+    "Metadata": {
+      "score": "314",
+      "author": "littlexsparkee",
+      "commentCount": "306"
+    },
+    "FetchedAt": "2026-05-05T13:21:34.3431659+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48012162"
+    },
+    "Type": 1,
+    "Title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+    "Url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+    "Description": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+    "Metadata": {
+      "score": "203",
+      "author": "bearsyankees",
+      "commentCount": "91"
+    },
+    "FetchedAt": "2026-05-05T13:21:34.3777994+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48006403"
+    },
+    "Type": 1,
+    "Title": "Setting up server monitoring for a Rails app on Hatchbox",
+    "Url": "https://blog.appsignal.com/2026/04/30/setting-up-server-monitoring-for-a-rails-app-on-hatchbox.html",
+    "Description": "Setting up server monitoring for a Rails app on Hatchbox",
+    "Metadata": {
+      "score": "12",
+      "author": "andreigaspar",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-05-05T13:21:34.4123014+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48018034"
+    },
+    "Type": 1,
+    "Title": "2-D Mathematical Curves",
+    "Url": "https://www.2dcurves.com/",
+    "Description": "2-D Mathematical Curves",
+    "Metadata": {
+      "score": "53",
+      "author": "the-mitr",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-05-05T13:21:34.4469115+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48017641"
+    },
+    "Type": 1,
+    "Title": "Biscuit",
+    "Url": "https://github.com/yattsu/biscuit",
+    "Description": "Biscuit",
+    "Metadata": {
+      "score": "73",
+      "author": "unixfg",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-05-05T13:21:34.4813348+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48009172"
+    },
+    "Type": 1,
+    "Title": "Redis array: short story of a long development process",
+    "Url": "https://antirez.com/news/164",
+    "Description": "Redis array: short story of a long development process",
+    "Metadata": {
+      "score": "297",
+      "author": "antirez",
+      "commentCount": "106"
+    },
+    "FetchedAt": "2026-05-05T13:21:34.515448+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48014868"
+    },
+    "Type": 1,
+    "Title": "When networking doesn\u0027t work",
+    "Url": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
+    "Description": "When networking doesn\u0027t work",
+    "Metadata": {
+      "score": "79",
+      "author": "kencausey",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-05-05T13:21:34.5496359+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48018080"
+    },
+    "Type": 1,
+    "Title": "Kids bypass age verification with fake moustaches",
+    "Url": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
+    "Description": "Kids bypass age verification with fake moustaches",
+    "Metadata": {
+      "score": "157",
+      "author": "dreadsword",
+      "commentCount": "118"
+    },
+    "FetchedAt": "2026-05-05T13:21:34.5839519+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48014325"
+    },
+    "Type": 1,
+    "Title": "Formatting a 25M-line codebase overnight",
+    "Url": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
+    "Description": "Formatting a 25M-line codebase overnight",
+    "Metadata": {
+      "score": "184",
+      "author": "r00k",
+      "commentCount": "91"
+    },
+    "FetchedAt": "2026-05-05T13:21:34.6193462+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48007438"
+    },
+    "Type": 1,
+    "Title": "Talking to strangers at the gym",
+    "Url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+    "Description": "Talking to strangers at the gym",
+    "Metadata": {
+      "score": "1407",
+      "author": "thitran",
+      "commentCount": "688"
+    },
+    "FetchedAt": "2026-05-05T13:21:34.6544302+00:00"
   }
 ]
