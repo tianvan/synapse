@@ -50,7 +50,10 @@ public class GenerateDigestAppService
                 analyzedItems.Add(new AnalyzedItem(source.ExternalId, "未分类",
                     new TechStack(Array.Empty<string>()),
                     new Highlight(source.Description.Length > 120
-                        ? source.Description[..120] : source.Description), "", "", 0));
+                        ? source.Description[..120] : source.Description),
+                    source.Description.Length > 150
+                        ? source.Description[..150] : source.Description,
+                    "", 0));
             }
         }
 
