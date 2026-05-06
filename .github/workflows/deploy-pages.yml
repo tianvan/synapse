@@ -1,6 +1,9 @@
 name: Deploy to GitHub Pages
 
 on:
+  push:
+    paths:
+      - 'pages/**'
   workflow_dispatch:
   workflow_call:
 
@@ -13,24 +16,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Get digest date
-        id: date
-        run: echo "date=$(date +%Y-%m-%d)" >> $GITHUB_OUTPUT
-
       - name: Prepare data files
         run: |
-          DIGEST_DATE="${{ steps.date.outputs.date }}"
+          DIGEST_DATE="$(date +%Y-%m-%d)"
           DIGEST_FILE="data/digests/${DIGEST_DATE}.json"
 
-          if [ ! -f "$DIGEST_FILE" ]; then
-            echo "::error::Digest file not found: $DIGEST_FILE"
-            exit 1
-          fi
-
           mkdir -p pages/_data
-          cp "$DIGEST_FILE" pages/_data/digest.json
 
-          echo "Deploying digest for ${DIGEST_DATE}"
+          if [ -f "$DIGEST_FILE" ]; then
+            cp "$DIGEST_FILE" pages/_data/digest.json
+            echo "Deploying with digest for ${DIGEST_DATE}"
+          else
+            rm -f pages/_data/digest.json
+            echo "No digest for ${DIGEST_DATE}, deploying UI only"
+          fi
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
