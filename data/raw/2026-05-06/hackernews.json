@@ -196,186 +196,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48031684"
-    },
-    "Type": 1,
-    "Title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-    "Url": "https://blog.cloudflare.com/agents-stripe-projects/",
-    "Description": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-    "Metadata": {
-      "score": "256",
-      "author": "rolph",
-      "commentCount": "142"
-    },
-    "FetchedAt": "2026-05-06T08:12:07.3938658+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48005432"
-    },
-    "Type": 1,
-    "Title": "CARA 2.0 \u2013 \u201CI Built a Better Robot Dog\u201D",
-    "Url": "https://www.aaedmusa.com/projects/cara2",
-    "Description": "CARA 2.0 \u2013 \u201CI Built a Better Robot Dog\u201D",
-    "Metadata": {
-      "score": "100",
-      "author": "hakonjdjohnsen",
-      "commentCount": "7"
-    },
-    "FetchedAt": "2026-05-06T08:12:07.4355756+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48031261"
-    },
-    "Type": 1,
-    "Title": "StarFighter 16-Inch",
-    "Url": "https://us.starlabs.systems/pages/starfighter",
-    "Description": "StarFighter 16-Inch",
-    "Metadata": {
-      "score": "257",
-      "author": "signa11",
-      "commentCount": "143"
-    },
-    "FetchedAt": "2026-05-06T08:12:07.4769338+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48027897"
-    },
-    "Type": 1,
-    "Title": "DNSSEC disruption affecting .de domains \u2013 Resolved",
-    "Url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
-    "Description": "DNSSEC disruption affecting .de domains \u2013 Resolved",
-    "Metadata": {
-      "score": "646",
-      "author": "warpspin",
-      "commentCount": "317"
-    },
-    "FetchedAt": "2026-05-06T08:12:07.5185546+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48031109"
-    },
-    "Type": 1,
-    "Title": "Telus Uses AI to Alter Call-Agent Accents",
-    "Url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-    "Description": "Telus Uses AI to Alter Call-Agent Accents",
-    "Metadata": {
-      "score": "134",
-      "author": "debo_",
-      "commentCount": "85"
-    },
-    "FetchedAt": "2026-05-06T08:12:07.5643013+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48031867"
-    },
-    "Type": 1,
-    "Title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
-    "Url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
-    "Description": "245TB Micron 6600 ION Data Center SSD Now Shipping",
-    "Metadata": {
-      "score": "66",
-      "author": "neilfrndes",
-      "commentCount": "46"
-    },
-    "FetchedAt": "2026-05-06T08:12:07.6067959+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48024540"
-    },
-    "Type": 1,
-    "Title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-    "Url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-    "Description": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-    "Metadata": {
-      "score": "548",
-      "author": "amrrs",
-      "commentCount": "253"
-    },
-    "FetchedAt": "2026-05-06T08:12:07.6481271+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48030964"
-    },
-    "Type": 1,
-    "Title": "YouTube, your RSS feeds are broken",
-    "Url": "https://openrss.org/blog/youtube-your-feeds-are-broken",
-    "Description": "YouTube, your RSS feeds are broken",
-    "Metadata": {
-      "score": "99",
-      "author": "veeti",
-      "commentCount": "36"
-    },
-    "FetchedAt": "2026-05-06T08:12:07.689546+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48028842"
-    },
-    "Type": 1,
-    "Title": "Write some software, give it away for free",
-    "Url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
-    "Description": "Write some software, give it away for free",
-    "Metadata": {
-      "score": "251",
-      "author": "nohell",
-      "commentCount": "165"
-    },
-    "FetchedAt": "2026-05-06T08:12:07.731262+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48024859"
-    },
-    "Type": 1,
-    "Title": "Computer Use is 45x more expensive than structured APIs",
-    "Url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-    "Description": "Computer Use is 45x more expensive than structured APIs",
-    "Metadata": {
-      "score": "386",
-      "author": "palashawas",
-      "commentCount": "223"
-    },
-    "FetchedAt": "2026-05-06T08:12:07.773421+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48023861"
-    },
-    "Type": 1,
-    "Title": "Three Inverse Laws of AI",
-    "Url": "https://susam.net/inverse-laws-of-robotics.html",
-    "Description": "Three Inverse Laws of AI",
-    "Metadata": {
-      "score": "431",
-      "author": "blenderob",
-      "commentCount": "298"
-    },
-    "FetchedAt": "2026-05-06T08:12:07.8150766+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48024129"
-    },
-    "Type": 1,
-    "Title": "EEVblog: The 555 Timer is 55 years old [video]",
-    "Url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
-    "Description": "EEVblog: The 555 Timer is 55 years old [video]",
-    "Metadata": {
-      "score": "279",
-      "author": "brudgers",
-      "commentCount": "69"
-    },
-    "FetchedAt": "2026-05-06T08:12:07.8564238+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48031769"
     },
     "Type": 1,
@@ -388,111 +208,6 @@
       "commentCount": "35"
     },
     "FetchedAt": "2026-05-06T08:12:07.8997507+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48028546"
-    },
-    "Type": 1,
-    "Title": "Why most product tours get skipped",
-    "Url": "https://productonboarding.com/articles/why-product-tours-get-skipped",
-    "Description": "Why most product tours get skipped",
-    "Metadata": {
-      "score": "142",
-      "author": "pancomplex",
-      "commentCount": "112"
-    },
-    "FetchedAt": "2026-05-06T08:12:07.9415267+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48003549"
-    },
-    "Type": 1,
-    "Title": "Make some art with your phone sensors",
-    "Url": "https://tautme.github.io/phone-sensors/sensor-etch.html",
-    "Description": "Make some art with your phone sensors",
-    "Metadata": {
-      "score": "33",
-      "author": "adm4",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-05-06T08:12:07.9833082+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48032976"
-    },
-    "Type": 1,
-    "Title": "Reverse-engineering the 1998 Ultima Online demo server",
-    "Url": "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html",
-    "Description": "Reverse-engineering the 1998 Ultima Online demo server",
-    "Metadata": {
-      "score": "9",
-      "author": "notsentient",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-05-06T08:12:08.0254046+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48032461"
-    },
-    "Type": 1,
-    "Title": "Knitting bullshit",
-    "Url": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
-    "Description": "Knitting bullshit",
-    "Metadata": {
-      "score": "11",
-      "author": "ColinEberhardt",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-05-06T08:12:08.0696655+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:47997915"
-    },
-    "Type": 1,
-    "Title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
-    "Url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
-    "Description": "Wiki Builder: Skill to Build LLM Knowledge Bases",
-    "Metadata": {
-      "score": "51",
-      "author": "omarsar",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-05-06T08:12:08.1144079+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48019219"
-    },
-    "Type": 1,
-    "Title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-    "Url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-    "Description": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-    "Metadata": {
-      "score": "1418",
-      "author": "john-doe",
-      "commentCount": "925"
-    },
-    "FetchedAt": "2026-05-06T08:12:08.1562695+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48021368"
-    },
-    "Type": 1,
-    "Title": "Today I\u0027ve made the difficult decision to reduce the size of Coinbase by ~14%",
-    "Url": "https://twitter.com/brian_armstrong/status/2051616759145185723",
-    "Description": "Today I\u0027ve made the difficult decision to reduce the size of Coinbase by ~14%",
-    "Metadata": {
-      "score": "353",
-      "author": "adrianmsmith",
-      "commentCount": "543"
-    },
-    "FetchedAt": "2026-05-06T08:12:08.1976866+00:00"
   },
   {
     "ExternalId": {
@@ -586,21 +301,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48032265"
-    },
-    "Type": 1,
-    "Title": "Multi-stroke text effect in CSS",
-    "Url": "https://yuanchuan.dev/multi-stroke-text-effect-in-css",
-    "Description": "Multi-stroke text effect in CSS",
-    "Metadata": {
-      "score": "7",
-      "author": "cheeaun",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-05-06T08:12:08.5068488+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:47999020"
     },
     "Type": 1,
@@ -643,5 +343,455 @@
       "commentCount": "381"
     },
     "FetchedAt": "2026-05-06T08:12:08.6334788+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48034587"
+    },
+    "Type": 1,
+    "Title": "Show HN: Red Squares \u2013 GitHub outages as contributions",
+    "Url": "https://red-squares.cian.lol/",
+    "Description": "Show HN: Red Squares \u2013 GitHub outages as contributions",
+    "Metadata": {
+      "score": "432",
+      "author": "cianmm",
+      "commentCount": "89"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.1496946+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48006967"
+    },
+    "Type": 1,
+    "Title": "The bottleneck was never the code",
+    "Url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
+    "Description": "The bottleneck was never the code",
+    "Metadata": {
+      "score": "137",
+      "author": "Anon84",
+      "commentCount": "82"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.1864022+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48034762"
+    },
+    "Type": 1,
+    "Title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
+    "Url": "https://catstret.ch/202605/srss-hipster202510/",
+    "Description": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
+    "Metadata": {
+      "score": "61",
+      "author": "jandeboevrie",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.2196871+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48031684"
+    },
+    "Type": 1,
+    "Title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+    "Url": "https://blog.cloudflare.com/agents-stripe-projects/",
+    "Description": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+    "Metadata": {
+      "score": "454",
+      "author": "rolph",
+      "commentCount": "243"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.2530979+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48031261"
+    },
+    "Type": 1,
+    "Title": "StarFighter 16-Inch",
+    "Url": "https://us.starlabs.systems/pages/starfighter",
+    "Description": "StarFighter 16-Inch",
+    "Metadata": {
+      "score": "474",
+      "author": "signa11",
+      "commentCount": "237"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.2870572+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48005432"
+    },
+    "Type": 1,
+    "Title": "CARA 2.0 \u2013 \u201CI Built a Better Robot Dog\u201D",
+    "Url": "https://www.aaedmusa.com/projects/cara2",
+    "Description": "CARA 2.0 \u2013 \u201CI Built a Better Robot Dog\u201D",
+    "Metadata": {
+      "score": "271",
+      "author": "hakonjdjohnsen",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.3206579+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48032976"
+    },
+    "Type": 1,
+    "Title": "Reverse-engineering the 1998 Ultima Online demo server",
+    "Url": "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html",
+    "Description": "Reverse-engineering the 1998 Ultima Online demo server",
+    "Metadata": {
+      "score": "118",
+      "author": "notsentient",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.3546175+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48032461"
+    },
+    "Type": 1,
+    "Title": "Knitting bullshit",
+    "Url": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
+    "Description": "Knitting bullshit",
+    "Metadata": {
+      "score": "205",
+      "author": "ColinEberhardt",
+      "commentCount": "97"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.3879744+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48035969"
+    },
+    "Type": 1,
+    "Title": "OpenAI president forced to read his personal diary entries to jury",
+    "Url": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
+    "Description": "OpenAI president forced to read his personal diary entries to jury",
+    "Metadata": {
+      "score": "32",
+      "author": "koolba",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.4214895+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48035223"
+    },
+    "Type": 1,
+    "Title": "Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit",
+    "Url": "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer",
+    "Description": "Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit",
+    "Metadata": {
+      "score": "1",
+      "author": "botacode",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.4549998+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:47998638"
+    },
+    "Type": 1,
+    "Title": "Batteries Not Included, or Required, for These Smart Home Sensors",
+    "Url": "https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors",
+    "Description": "Batteries Not Included, or Required, for These Smart Home Sensors",
+    "Metadata": {
+      "score": "98",
+      "author": "gnabgib",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.4892962+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48011077"
+    },
+    "Type": 1,
+    "Title": "Wolfenstein 3D for Gameboy Color on custom cartridge (2016)",
+    "Url": "https://www.happydaze.se/wolf/",
+    "Description": "Wolfenstein 3D for Gameboy Color on custom cartridge (2016)",
+    "Metadata": {
+      "score": "53",
+      "author": "ksymph",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.5225085+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48027897"
+    },
+    "Type": 1,
+    "Title": "DNSSEC disruption affecting .de domains \u2013 Resolved",
+    "Url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
+    "Description": "DNSSEC disruption affecting .de domains \u2013 Resolved",
+    "Metadata": {
+      "score": "699",
+      "author": "warpspin",
+      "commentCount": "370"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.5560343+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48031867"
+    },
+    "Type": 1,
+    "Title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
+    "Url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+    "Description": "245TB Micron 6600 ION Data Center SSD Now Shipping",
+    "Metadata": {
+      "score": "140",
+      "author": "neilfrndes",
+      "commentCount": "86"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.5898654+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48024540"
+    },
+    "Type": 1,
+    "Title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+    "Url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+    "Description": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+    "Metadata": {
+      "score": "610",
+      "author": "amrrs",
+      "commentCount": "298"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.6256947+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:47996668"
+    },
+    "Type": 1,
+    "Title": "Virtual violin produces realistic sounds",
+    "Url": "https://news.mit.edu/2026/mit-engineers-virtual-violin-produces-realistic-sounds-0429",
+    "Description": "Virtual violin produces realistic sounds",
+    "Metadata": {
+      "score": "33",
+      "author": "gmays",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.6592421+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48030964"
+    },
+    "Type": 1,
+    "Title": "YouTube, your RSS feeds are broken",
+    "Url": "https://openrss.org/blog/youtube-your-feeds-are-broken",
+    "Description": "YouTube, your RSS feeds are broken",
+    "Metadata": {
+      "score": "206",
+      "author": "veeti",
+      "commentCount": "77"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.6926727+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48032265"
+    },
+    "Type": 1,
+    "Title": "Multi-stroke text effect in CSS",
+    "Url": "https://yuanchuan.dev/multi-stroke-text-effect-in-css",
+    "Description": "Multi-stroke text effect in CSS",
+    "Metadata": {
+      "score": "138",
+      "author": "cheeaun",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.725601+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48008685"
+    },
+    "Type": 1,
+    "Title": "A Simpler Parametrization for Modern Optimizers",
+    "Url": "https://jiha-kim.github.io/posts/a-simpler-parametrization-for-modern-optimizers/",
+    "Description": "A Simpler Parametrization for Modern Optimizers",
+    "Metadata": {
+      "score": "13",
+      "author": "ibobev",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.7586708+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48013234"
+    },
+    "Type": 1,
+    "Title": "The Thinking Plant\u0027s Man (2025)",
+    "Url": "https://www.sciencehistory.org/stories/magazine/the-thinking-plants-man/",
+    "Description": "The Thinking Plant\u0027s Man (2025)",
+    "Metadata": {
+      "score": "3",
+      "author": "benbreen",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.7924657+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48028842"
+    },
+    "Type": 1,
+    "Title": "Write some software, give it away for free",
+    "Url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+    "Description": "Write some software, give it away for free",
+    "Metadata": {
+      "score": "304",
+      "author": "nohell",
+      "commentCount": "209"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.8256477+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48024859"
+    },
+    "Type": 1,
+    "Title": "Computer Use is 45x more expensive than structured APIs",
+    "Url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+    "Description": "Computer Use is 45x more expensive than structured APIs",
+    "Metadata": {
+      "score": "426",
+      "author": "palashawas",
+      "commentCount": "244"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.8602079+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48023861"
+    },
+    "Type": 1,
+    "Title": "Three Inverse Laws of AI",
+    "Url": "https://susam.net/inverse-laws-of-robotics.html",
+    "Description": "Three Inverse Laws of AI",
+    "Metadata": {
+      "score": "482",
+      "author": "blenderob",
+      "commentCount": "326"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.8933834+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48024129"
+    },
+    "Type": 1,
+    "Title": "EEVblog: The 555 Timer is 55 years old [video]",
+    "Url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
+    "Description": "EEVblog: The 555 Timer is 55 years old [video]",
+    "Metadata": {
+      "score": "303",
+      "author": "brudgers",
+      "commentCount": "80"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.9267575+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48031109"
+    },
+    "Type": 1,
+    "Title": "Telus Uses AI to Alter Call-Agent Accents",
+    "Url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+    "Description": "Telus Uses AI to Alter Call-Agent Accents",
+    "Metadata": {
+      "score": "190",
+      "author": "debo_",
+      "commentCount": "154"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.960307+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48028546"
+    },
+    "Type": 1,
+    "Title": "Why most product tours get skipped",
+    "Url": "https://productonboarding.com/articles/why-product-tours-get-skipped",
+    "Description": "Why most product tours get skipped",
+    "Metadata": {
+      "score": "183",
+      "author": "pancomplex",
+      "commentCount": "156"
+    },
+    "FetchedAt": "2026-05-06T13:50:20.9953394+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48003549"
+    },
+    "Type": 1,
+    "Title": "Make some art with your phone sensors",
+    "Url": "https://tautme.github.io/phone-sensors/sensor-etch.html",
+    "Description": "Make some art with your phone sensors",
+    "Metadata": {
+      "score": "72",
+      "author": "adm4",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-05-06T13:50:21.0285192+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48019219"
+    },
+    "Type": 1,
+    "Title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+    "Url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+    "Description": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+    "Metadata": {
+      "score": "1512",
+      "author": "john-doe",
+      "commentCount": "1018"
+    },
+    "FetchedAt": "2026-05-06T13:50:21.0620469+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48021368"
+    },
+    "Type": 1,
+    "Title": "Today I\u0027ve made the difficult decision to reduce the size of Coinbase by ~14%",
+    "Url": "https://twitter.com/brian_armstrong/status/2051616759145185723",
+    "Description": "Today I\u0027ve made the difficult decision to reduce the size of Coinbase by ~14%",
+    "Metadata": {
+      "score": "416",
+      "author": "adrianmsmith",
+      "commentCount": "638"
+    },
+    "FetchedAt": "2026-05-06T13:50:21.0959056+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:47997915"
+    },
+    "Type": 1,
+    "Title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
+    "Url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
+    "Description": "Wiki Builder: Skill to Build LLM Knowledge Bases",
+    "Metadata": {
+      "score": "85",
+      "author": "omarsar",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-05-06T13:50:21.128981+00:00"
   }
 ]

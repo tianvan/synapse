@@ -1,70 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:Hmbown/DeepSeek-TUI"
-    },
-    "Type": 0,
-    "Title": "Hmbown/DeepSeek-TUI",
-    "Url": "https://github.com/Hmbown/DeepSeek-TUI",
-    "Description": "Coding agent for DeepSeek models that runs in your terminal",
-    "Metadata": {
-      "owner": "Hmbown",
-      "repo": "DeepSeek-TUI",
-      "language": "Rust",
-      "stars": "2,434"
-    },
-    "FetchedAt": "2026-05-06T08:12:07.134203+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:ruvnet/ruflo"
-    },
-    "Type": 0,
-    "Title": "ruvnet/ruflo",
-    "Url": "https://github.com/ruvnet/ruflo",
-    "Description": "\uD83C\uDF0A The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-    "Metadata": {
-      "owner": "ruvnet",
-      "repo": "ruflo",
-      "language": "TypeScript",
-      "stars": "2,432"
-    },
-    "FetchedAt": "2026-05-06T08:12:07.1364698+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:virattt/dexter"
-    },
-    "Type": 0,
-    "Title": "virattt/dexter",
-    "Url": "https://github.com/virattt/dexter",
-    "Description": "An autonomous agent for deep financial research",
-    "Metadata": {
-      "owner": "virattt",
-      "repo": "dexter",
-      "language": "TypeScript",
-      "stars": "659"
-    },
-    "FetchedAt": "2026-05-06T08:12:07.1380294+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:docusealco/docuseal"
-    },
-    "Type": 0,
-    "Title": "docusealco/docuseal",
-    "Url": "https://github.com/docusealco/docuseal",
-    "Description": "Open source DocuSign alternative. Create, fill, and sign digital documents \u270D\uFE0F",
-    "Metadata": {
-      "owner": "docusealco",
-      "repo": "docuseal",
-      "language": "Ruby",
-      "stars": "927"
-    },
-    "FetchedAt": "2026-05-06T08:12:07.1397179+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:cocoindex-io/cocoindex"
     },
     "Type": 0,
@@ -143,6 +79,38 @@
   },
   {
     "ExternalId": {
+      "Value": "github:Hmbown/DeepSeek-TUI"
+    },
+    "Type": 0,
+    "Title": "Hmbown/DeepSeek-TUI",
+    "Url": "https://github.com/Hmbown/DeepSeek-TUI",
+    "Description": "Coding agent for DeepSeek models that runs in your terminal",
+    "Metadata": {
+      "owner": "Hmbown",
+      "repo": "DeepSeek-TUI",
+      "language": "Rust",
+      "stars": "6,184"
+    },
+    "FetchedAt": "2026-05-06T13:50:19.9320842+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "Shell",
+      "stars": "629"
+    },
+    "FetchedAt": "2026-05-06T13:50:19.9341753+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:PriorLabs/TabPFN"
     },
     "Type": 0,
@@ -153,8 +121,136 @@
       "owner": "PriorLabs",
       "repo": "TabPFN",
       "language": "Python",
-      "stars": "57"
+      "stars": "218"
     },
-    "FetchedAt": "2026-05-06T08:12:07.1562904+00:00"
+    "FetchedAt": "2026-05-06T13:50:19.9356272+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:docusealco/docuseal"
+    },
+    "Type": 0,
+    "Title": "docusealco/docuseal",
+    "Url": "https://github.com/docusealco/docuseal",
+    "Description": "Open source DocuSign alternative. Create, fill, and sign digital documents \u270D\uFE0F",
+    "Metadata": {
+      "owner": "docusealco",
+      "repo": "docuseal",
+      "language": "Ruby",
+      "stars": "772"
+    },
+    "FetchedAt": "2026-05-06T13:50:19.9370211+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:LadybirdBrowser/ladybird"
+    },
+    "Type": 0,
+    "Title": "LadybirdBrowser/ladybird",
+    "Url": "https://github.com/LadybirdBrowser/ladybird",
+    "Description": "Truly independent web browser",
+    "Metadata": {
+      "owner": "LadybirdBrowser",
+      "repo": "ladybird",
+      "language": "C\u002B\u002B",
+      "stars": "87"
+    },
+    "FetchedAt": "2026-05-06T13:50:19.939333+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:virattt/dexter"
+    },
+    "Type": 0,
+    "Title": "virattt/dexter",
+    "Url": "https://github.com/virattt/dexter",
+    "Description": "An autonomous agent for deep financial research",
+    "Metadata": {
+      "owner": "virattt",
+      "repo": "dexter",
+      "language": "TypeScript",
+      "stars": "666"
+    },
+    "FetchedAt": "2026-05-06T13:50:19.9416961+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/financial-services"
+    },
+    "Type": 0,
+    "Title": "anthropics/financial-services",
+    "Url": "https://github.com/anthropics/financial-services",
+    "Description": "",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "financial-services",
+      "language": "Python",
+      "stars": "540"
+    },
+    "FetchedAt": "2026-05-06T13:50:19.9430948+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ruvnet/ruflo"
+    },
+    "Type": 0,
+    "Title": "ruvnet/ruflo",
+    "Url": "https://github.com/ruvnet/ruflo",
+    "Description": "\uD83C\uDF0A The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+    "Metadata": {
+      "owner": "ruvnet",
+      "repo": "ruflo",
+      "language": "TypeScript",
+      "stars": "2,190"
+    },
+    "FetchedAt": "2026-05-06T13:50:19.9445211+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cheahjs/free-llm-api-resources"
+    },
+    "Type": 0,
+    "Title": "cheahjs/free-llm-api-resources",
+    "Url": "https://github.com/cheahjs/free-llm-api-resources",
+    "Description": "A list of free LLM inference resources accessible via API.",
+    "Metadata": {
+      "owner": "cheahjs",
+      "repo": "free-llm-api-resources",
+      "language": "Python",
+      "stars": "344"
+    },
+    "FetchedAt": "2026-05-06T13:50:19.9459278+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:shiyu-coder/Kronos"
+    },
+    "Type": 0,
+    "Title": "shiyu-coder/Kronos",
+    "Url": "https://github.com/shiyu-coder/Kronos",
+    "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "Metadata": {
+      "owner": "shiyu-coder",
+      "repo": "Kronos",
+      "language": "Python",
+      "stars": "241"
+    },
+    "FetchedAt": "2026-05-06T13:50:19.947326+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:bytedance/deer-flow"
+    },
+    "Type": 0,
+    "Title": "bytedance/deer-flow",
+    "Url": "https://github.com/bytedance/deer-flow",
+    "Description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "Metadata": {
+      "owner": "bytedance",
+      "repo": "deer-flow",
+      "language": "Python",
+      "stars": "328"
+    },
+    "FetchedAt": "2026-05-06T13:50:19.9497073+00:00"
   }
 ]
