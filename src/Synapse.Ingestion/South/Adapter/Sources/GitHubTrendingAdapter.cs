@@ -1,3 +1,4 @@
+using System.Text.Json;
 using System.Text.RegularExpressions;
 using Synapse.Foundation.Shared;
 using Synapse.Foundation.Stereotype;
@@ -51,17 +52,58 @@ public class GitHubTrendingAdapter : ISourceReader
             if (langMatch.Success) metadata["language"] = langMatch.Groups[1].Value.Trim();
             if (starsMatch.Success) metadata["stars"] = starsMatch.Groups[1].Value.Trim();
 
-            items.Add(new SourceItem(
+            var htmlDescription = descMatch.Success
+                ? descMatch.Groups[1].Value.Trim() : "";
+
+            var item = new SourceItem(
                 new ExternalId($"github:{owner}/{name}"),
                 SourceType.GitHubTrending,
                 $"{owner}/{name}",
                 new Uri($"https://github.com/{owner}/{name}"),
-                descMatch.Success ? descMatch.Groups[1].Value.Trim() : "",
+                htmlDescription,
                 metadata,
                 DateTimeOffset.UtcNow
-            ));
+            );
+
+            items.Add(await EnrichFromApiAsync(item, owner, name, ct));
         }
 
         return items;
+    }
+
+    private async Task<SourceItem> EnrichFromApiAsync(
+        SourceItem item, string owner, string name, CancellationToken ct)
+    {
+        try
+        {
+            var request = new HttpRequestMessage(HttpMethod.Get,
+                $"https://api.github.com/repos/{owner}/{name}");
+            request.Headers.Add("User-Agent", "Synapse/1.0");
+            request.Headers.Add("Accept", "application/vnd.github.v3+json");
+
+            var response = await _httpClient.SendAsync(request, ct);
+            if (!response.IsSuccessStatusCode) return item;
+
+            using var doc = await JsonDocument.ParseAsync(
+                await response.Content.ReadAsStreamAsync(ct), cancellationToken: ct);
+            var root = doc.RootElement;
+
+            var apiDescription = root.TryGetProperty("description", out var desc)
+                && desc.ValueKind == JsonValueKind.String ? desc.GetString() : null;
+            var topics = new List<string>();
+            if (root.TryGetProperty("topics", out var ts) && ts.ValueKind == JsonValueKind.Array)
+                foreach (var t in ts.EnumerateArray()) topics.Add(t.GetString()!);
+
+            var description = !string.IsNullOrWhiteSpace(apiDescription)
+                ? apiDescription : item.Description;
+            var metadata = new Dictionary<string, string>(item.Metadata);
+            if (topics.Count > 0) metadata["topics"] = string.Join(", ", topics);
+
+            return item with { Description = description, Metadata = metadata };
+        }
+        catch
+        {
+            return item;
+        }
     }
 }
