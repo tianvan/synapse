@@ -48,7 +48,10 @@ public class WeComAdapter : IOutputPort
         var chunk = new StringBuilder();
         foreach (var item in digest.Items)
         {
+            var desc = item.Description.Length > 80
+                ? item.Description[..80] + "..." : item.Description;
             var line = $"\n> **{item.Score}/10** {item.Highlight.Text}\n" +
+                       $"> {desc}\n" +
                        $"> 分类: {item.Category} | 技术: {string.Join(", ", item.TechStack.Tags)}\n";
             if (chunk.Length + line.Length > 3800)
             {
