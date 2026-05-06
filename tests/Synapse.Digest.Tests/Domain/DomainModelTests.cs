@@ -28,16 +28,18 @@ public class DomainModelTests
             Category: "tool",
             TechStack: new TechStack(["rust"]),
             Highlight: new Highlight("Faster builds"),
+            Description: "A next-generation build system written in Rust, promising 10x speed improvements",
             Suitability: "production ready",
             Score: 8
         );
 
         item.Category.Should().Be("tool");
         item.Score.Should().Be(8);
+        item.Description.Should().Be("A next-generation build system written in Rust, promising 10x speed improvements");
 
         var modified = item with { Score = 9 };
         modified.Score.Should().Be(9);
-        item.Score.Should().Be(8); // immutable — original unchanged
+        item.Score.Should().Be(8);
     }
 
     [Fact]

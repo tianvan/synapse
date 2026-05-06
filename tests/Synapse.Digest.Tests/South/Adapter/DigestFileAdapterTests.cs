@@ -30,7 +30,7 @@ public class DigestFileAdapterTests : IDisposable
             Items: [new AnalyzedItem(
                 new ExternalId("github:test/repo"), "tool",
                 new TechStack(["rust"]), new Highlight("Very fast"),
-                "cli tools", 8)],
+                "", "cli tools", 8)],
             Summary: "Today's top projects",
             Status: DigestStatus.Published
         );

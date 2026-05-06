@@ -7,6 +7,7 @@ public sealed record AnalyzedItem(
     string Category,
     TechStack TechStack,
     Highlight Highlight,
+    string Description,
     string Suitability,
     int Score
 );

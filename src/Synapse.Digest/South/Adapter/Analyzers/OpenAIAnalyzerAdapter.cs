@@ -82,6 +82,7 @@ public class OpenAIAnalyzerAdapter : IAnalyzer
             TechStack: new TechStack(Array.Empty<string>()),
             Highlight: new Highlight(source.Description.Length > 120
                 ? source.Description[..120] : source.Description),
+            Description: "",
             Suitability: "",
             Score: 0
         );
@@ -127,10 +128,11 @@ public class OpenAIAnalyzerAdapter : IAnalyzer
         if (root.TryGetProperty("techStack", out var ts))
             foreach (var tag in ts.EnumerateArray()) tags.Add(tag.GetString()!);
         var highlight = root.TryGetProperty("highlight", out var h) ? h.GetString() ?? "" : "";
+        var description = root.TryGetProperty("description", out var desc) ? desc.GetString() ?? "" : "";
         var suitability = root.TryGetProperty("suitability", out var su) ? su.GetString() ?? "" : "";
         var score = root.TryGetProperty("score", out var sc) ? sc.GetInt32() : 0;
 
         return new AnalyzedItem(source.ExternalId, category, new TechStack(tags),
-            new Highlight(highlight), suitability, Math.Clamp(score, 1, 10));
+            new Highlight(highlight), description, suitability, Math.Clamp(score, 1, 10));
     }
 }

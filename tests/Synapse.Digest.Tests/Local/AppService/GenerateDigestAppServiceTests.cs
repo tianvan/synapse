@@ -90,7 +90,7 @@ public class FakeAnalyzer : IAnalyzer
 {
     public Task<AnalyzedItem> AnalyzeAsync(SourceItem source, CancellationToken ct = default)
         => Task.FromResult(new AnalyzedItem(source.ExternalId, "tool",
-            new TechStack(["go"]), new Highlight("Worth checking out"), "general", 7));
+            new TechStack(["go"]), new Highlight("Worth checking out"), "", "general", 7));
 }
 
 public class FailingAnalyzer : IAnalyzer
