@@ -41,12 +41,18 @@ public class HackerNewsAdapter : ISourceReader
                     ? uri
                     : new Uri($"https://news.ycombinator.com/item?id={id}");
 
+            var description = item.Title ?? "";
+            if (item is { Type: "story", Text: not null } && !string.IsNullOrWhiteSpace(item.Text))
+            {
+                description = item.Text.Length > 500 ? item.Text[..500] : item.Text;
+            }
+
             items.Add(new SourceItem(
                 new ExternalId($"hn:{id}"),
                 SourceType.HackerNews,
                 item.Title,
                 url,
-                item.Title,
+                description,
                 metadata,
                 DateTimeOffset.UtcNow
             ));
@@ -60,6 +66,8 @@ public class HackerNewsAdapter : ISourceReader
         [property: JsonPropertyName("url")] string? Url,
         [property: JsonPropertyName("score")] int? Score,
         [property: JsonPropertyName("by")] string? By,
-        [property: JsonPropertyName("descendants")] int? Descendants
+        [property: JsonPropertyName("descendants")] int? Descendants,
+        [property: JsonPropertyName("type")] string? Type,
+        [property: JsonPropertyName("text")] string? Text
     );
 }
