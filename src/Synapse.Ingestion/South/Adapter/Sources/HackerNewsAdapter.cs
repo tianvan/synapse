@@ -50,7 +50,7 @@ public class HackerNewsAdapter : ISourceReader
             items.Add(new SourceItem(
                 new ExternalId($"hn:{id}"),
                 SourceType.HackerNews,
-                item.Title,
+                item.Title!,
                 url,
                 description,
                 metadata,
