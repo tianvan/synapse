@@ -1,0 +1,681 @@
+{
+  "Id": "2026-05-06",
+  "GeneratedAt": "2026-05-06T03:23:00.2492469+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "hn:48024540"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": [
+          "Gemma",
+          "speculative decoding",
+          "inference acceleration"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u4F7F\u7528\u591A\u4EE4\u724C\u9884\u6D4B\u8349\u7A3F\u5668\u663E\u8457\u52A0\u901FGemma 4\u63A8\u7406\uFF0C\u5927\u5E45\u63D0\u5347\u751F\u6210\u6548\u7387"
+      },
+      "Suitability": "\u9002\u5408\u9700\u8981\u4F4E\u5EF6\u8FDF\u5927\u6A21\u578B\u63A8\u7406\u7684\u573A\u666F\uFF0C\u5982\u5B9E\u65F6\u5BF9\u8BDD\u3001\u4EA4\u4E92\u5F0F\u5E94\u7528",
+      "Score": 9
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:48019219"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": [
+          "AI",
+          "Gemini Nano",
+          "Chrome",
+          "Privacy"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u8C37\u6B4CChrome\u672A\u7ECF\u540C\u610F\u9759\u9ED8\u5B89\u88C54GB AI\u6A21\u578B\uFF0C\u5F15\u53D1\u9690\u79C1\u4E0E\u8D44\u6E90\u5360\u7528\u4E89\u8BAE\uFF0C\u503C\u5F97\u5173\u6CE8\u3002"
+      },
+      "Suitability": "\u9002\u7528\u4E8E\u5173\u6CE8\u9690\u79C1\u5B89\u5168\u3001\u7CFB\u7EDF\u8D44\u6E90\u7BA1\u7406\u53CA\u6280\u672F\u653F\u7B56\u900F\u660E\u7684\u5F00\u53D1\u8005\u548C\u7528\u6237\u3002",
+      "Score": 9
+    },
+    {
+      "SourceRef": {
+        "Value": "github:jwasham/coding-interview-university"
+      },
+      "Category": "other",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u4E00\u4E2A\u5B8C\u6574\u7684\u8BA1\u7B97\u673A\u79D1\u5B66\u5B66\u4E60\u8BA1\u5212\uFF0C\u8986\u76D6\u7B97\u6CD5\u3001\u6570\u636E\u7ED3\u6784\u3001\u7CFB\u7EDF\u8BBE\u8BA1\u7B49\u6838\u5FC3\u4E3B\u9898\uFF0C\u9644\u5E26\u5927\u91CF\u5B9E\u8DF5\u8D44\u6E90\uFF0C\u52A9\u4F60\u4ECE\u96F6\u8FDB\u9636\u4E3A\u8F6F\u4EF6\u5DE5\u7A0B\u5E08\u3002"
+      },
+      "Suitability": "\u9002\u5408\u81EA\u5B66\u8F6C\u884C\u3001\u51C6\u5907\u6280\u672F\u9762\u8BD5\u6216\u5E0C\u671B\u7CFB\u7EDF\u8865\u8DB3\u8BA1\u7B97\u673A\u57FA\u7840\u7684\u5F00\u53D1\u8005",
+      "Score": 9
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:48027897"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": [
+          "DNSSEC"
+        ]
+      },
+      "Highlight": {
+        "Text": ".de\u9876\u7EA7\u57DF\u540D\u56E0DNSSEC\u914D\u7F6E\u9519\u8BEF\u5BFC\u81F4\u5927\u89C4\u6A21\u65AD\u7F51\uFF0C\u51F8\u663E\u4E86DNSSEC\u90E8\u7F72\u4E2D\u7684\u8106\u5F31\u6027\u53CA\u5F71\u54CD"
+      },
+      "Suitability": "\u9002\u5408\u4E86\u89E3DNSSEC\u90E8\u7F72\u98CE\u9669\u3001DNS\u5B89\u5168\u4E8B\u4EF6\u5206\u6790\u3001\u4EE5\u53CA\u9876\u7EA7\u57DF\u540D\u8FD0\u7EF4\u4EBA\u5458\u53C2\u8003",
+      "Score": 8
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:48024859"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": [
+          "Computer Use",
+          "structured APIs",
+          "LLM"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u63ED\u793A\u4E86\u2018\u8BA1\u7B97\u673A\u4F7F\u7528\u2019\u529F\u80FD\u7684\u6210\u672C\u7ADF\u662F\u7ED3\u6784\u5316 API \u7684 45 \u500D\uFF0C\u5BF9\u6CE8\u91CD\u6210\u672C\u63A7\u5236\u7684 AI \u5E94\u7528\u5F00\u53D1\u5177\u6709\u91CD\u8981\u8B66\u793A\u610F\u4E49\u3002"
+      },
+      "Suitability": "\u9002\u7528\u4E8E\u8BC4\u4F30 LLM \u529F\u80FD\u96C6\u6210\u65B9\u6848\u3001\u91CD\u89C6\u6210\u672C\u6548\u76CA\u7684 AI \u9879\u76EE\u51B3\u7B56\u573A\u666F\u3002",
+      "Score": 8
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:48024129"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": [
+          "electronics",
+          "555 timer"
+        ]
+      },
+      "Highlight": {
+        "Text": "EEVblog\u7EAA\u5FF5\u7ECF\u5178555\u5B9A\u65F6\u5668\u8BDE\u751F55\u5468\u5E74\uFF0C\u8BE5\u82AF\u7247\u5BF9\u7535\u5B50\u8BBE\u8BA1\u5F71\u54CD\u6DF1\u8FDC\u3002"
+      },
+      "Suitability": "\u7535\u5B50\u7231\u597D\u8005\u3001\u5B66\u751F\u548C\u5DE5\u7A0B\u5E08\u5B66\u4E60\u57FA\u7840\u5B9A\u65F6\u5668\u7535\u8DEF\u7684\u7406\u60F3\u89C6\u9891\u3002",
+      "Score": 8
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:48026342"
+      },
+      "Category": "tool",
+      "TechStack": {
+        "Tags": [
+          "JavaScript",
+          "CSS",
+          "HTML"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u4ECE3000\u5E45\u5927\u5E08\u753B\u4F5C\u4E2D\u63D0\u70BC\u914D\u8272\u7075\u611F\uFF0C\u4E3A\u8BBE\u8BA1\u63D0\u4F9B\u827A\u672F\u7EA7\u522B\u7684\u8C03\u8272\u677F\u53C2\u8003\u3002"
+      },
+      "Suitability": "\u8BBE\u8BA1\u5E08\u3001\u827A\u672F\u5BB6\u5BFB\u6C42\u8272\u5F69\u7075\u611F\uFF0CUI/UX\u8BBE\u8BA1\u3001\u54C1\u724C\u914D\u8272\u7B49\u573A\u666F",
+      "Score": 8
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:48026021"
+      },
+      "Category": "tool",
+      "TechStack": {
+        "Tags": [
+          "Multimodal AI",
+          "Vision-Language Model",
+          "Transformer",
+          "Deep Learning"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u9762\u5411\u591A\u6A21\u6001\u667A\u80FD\u4F53\u7684\u539F\u751F\u57FA\u7840\u6A21\u578B\uFF0C\u652F\u6301\u89C6\u89C9\u4E0E\u8BED\u8A00\u6DF1\u5EA6\u878D\u5408\uFF0C\u6709\u671B\u63A8\u52A8\u81EA\u4E3B\u4EE3\u7406\u6280\u672F\u53D1\u5C55\u3002"
+      },
+      "Suitability": "Suitable for developing multimodal AI agents that need to perceive visual inputs and perform tasks, like autonomous assistants, robotic control, or interactive applications.",
+      "Score": 8
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:48023496"
+      },
+      "Category": "tool",
+      "TechStack": {
+        "Tags": [
+          "Python",
+          "Airbyte",
+          "LLM",
+          "API"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u8BE5\u5DE5\u5177\u8BA9AI\u4EE3\u7406\u80FD\u591F\u8DE8\u591A\u4E2A\u6570\u636E\u6E90\u83B7\u53D6\u4E0A\u4E0B\u6587\uFF0C\u663E\u8457\u63D0\u5347\u51B3\u7B56\u51C6\u786E\u6027\u548C\u6548\u7387"
+      },
+      "Suitability": "\u9002\u7528\u4E8E\u9700\u8981\u4EE3\u7406\u6574\u5408\u591A\u6E90\u6570\u636E\u7684\u573A\u666F\uFF0C\u5982\u4F01\u4E1A\u6570\u636E\u5206\u6790\u3001\u667A\u80FD\u5BA2\u670D\u3001\u81EA\u52A8\u5316\u51B3\u7B56\u652F\u6301",
+      "Score": 8
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:48020063"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": [
+          "AI",
+          "organizational learning"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u672C\u6587\u63A2\u8BA8\u4E86\u5728AI\u5DE5\u5177\u666E\u53CA\u540E\u4F01\u4E1A\u4E3A\u4F55\u4ECD\u7136\u96BE\u4EE5\u5B9E\u73B0\u7EC4\u7EC7\u5B66\u4E60\uFF0C\u5BF9\u6280\u672F\u7BA1\u7406\u8005\u548C\u9886\u5BFC\u8005\u5177\u6709\u542F\u53D1\u6027\u3002"
+      },
+      "Suitability": "\u9002\u7528\u4E8E\u6280\u672F\u7BA1\u7406\u8005\u3001\u4F01\u4E1A\u9886\u5BFC\u8005\u4EE5\u53CA\u5BF9AI\u843D\u5730\u4E0E\u7EC4\u7EC7\u5B66\u4E60\u611F\u5174\u8DA3\u7684\u4EBA\u7FA4",
+      "Score": 8
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:47962032"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": [
+          "Docker",
+          "Docker Compose"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u63A2\u8BA82026\u5E74\u662F\u5426\u4ECD\u9002\u5408\u5728\u751F\u4EA7\u73AF\u5883\u4E2D\u4F7F\u7528\u7EAFDocker Compose\uFF0C\u5F15\u53D1\u793E\u533A\u70ED\u8BAE"
+      },
+      "Suitability": "\u9002\u7528\u4E8E\u5BB9\u5668\u5316\u90E8\u7F72\u51B3\u7B56\u8005\u3001\u4E91\u539F\u751F\u67B6\u6784\u5E08\u8BC4\u4F30\u8F7B\u91CF\u7EA7\u7F16\u6392\u65B9\u6848",
+      "Score": 8
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:48021561"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": [
+          "iOS",
+          "Apple Wallet",
+          "PassKit"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u82F9\u679C iOS 27 \u5728\u94B1\u5305\u5E94\u7528\u4E2D\u65B0\u589E\u2018\u521B\u5EFA\u51ED\u8BC1\u2019\u6309\u94AE\uFF0C\u8FDB\u4E00\u6B65\u7B80\u5316\u6570\u5B57\u51ED\u8BC1\u5236\u4F5C\u6D41\u7A0B\u3002"
+      },
+      "Suitability": "\u9002\u7528\u4E8E\u5E0C\u671B\u5728\u82F9\u679C\u751F\u6001\u4E2D\u63D0\u4F9B\u6570\u5B57\u51ED\u8BC1\u7684\u5546\u5BB6\u548C\u5F00\u53D1\u8005\u3002",
+      "Score": 8
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:47998664"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": [
+          "robotics",
+          "acoustic signal processing",
+          "machine learning",
+          "underwater communication"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u5B9E\u73B0\u6C34\u4E0B\u673A\u5668\u4EBA\u5B9E\u65F6\u8FFD\u8E2A\u62B9\u9999\u9CB8\u5BF9\u8BDD\uFF0C\u4E3A\u6D77\u6D0B\u751F\u7269\u58F0\u5B66\u7814\u7A76\u5F00\u8F9F\u65B0\u9014\u5F84"
+      },
+      "Suitability": "\u9002\u7528\u4E8E\u6D77\u6D0B\u751F\u7269\u884C\u4E3A\u76D1\u6D4B\u3001\u9CB8\u7C7B\u4FDD\u62A4\u3001\u6C34\u4E0B\u58F0\u5B66\u73AF\u5883\u7814\u7A76\u7B49\u573A\u666F",
+      "Score": 8
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Hmbown/DeepSeek-TUI"
+      },
+      "Category": "tool",
+      "TechStack": {
+        "Tags": [
+          "Rust",
+          "ratatui",
+          "DeepSeek"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u4E00\u6B3E\u57FA\u4E8ERust\u7684\u7EC8\u7AEF\u7F16\u7801\u4EE3\u7406\uFF0C\u76F4\u63A5\u96C6\u6210DeepSeek\u6A21\u578B\uFF0C\u4E3A\u547D\u4EE4\u884C\u5F00\u53D1\u8005\u63D0\u4F9B\u6781\u901FAI\u8F85\u52A9\u7F16\u7A0B\u4F53\u9A8C\u3002"
+      },
+      "Suitability": "\u9002\u5408\u4E60\u60EF\u7EC8\u7AEF\u5DE5\u4F5C\u6D41\u7684\u5F00\u53D1\u8005\uFF0C\u5728\u547D\u4EE4\u884C\u4E2D\u5229\u7528DeepSeek\u8FDB\u884C\u4EE3\u7801\u751F\u6210\u3001\u8C03\u8BD5\u548C\u9879\u76EE\u5206\u6790\u3002",
+      "Score": 8
+    },
+    {
+      "SourceRef": {
+        "Value": "github:ruvnet/ruflo"
+      },
+      "Category": "framework",
+      "TechStack": {
+        "Tags": [
+          "TypeScript",
+          "Node.js",
+          "Claude API",
+          "RAG",
+          "Codex"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u57FA\u4E8EClaude\u7684\u4F01\u4E1A\u7EA7\u591A\u667A\u80FD\u4F53\u7F16\u6392\u5E73\u53F0\uFF0C\u878D\u5408\u81EA\u5B66\u4E60\u7FA4\u96C6\u667A\u80FD\u4E0ERAG/Codex\u96C6\u6210\uFF0C\u663E\u8457\u63D0\u5347\u590D\u6742AI\u7CFB\u7EDF\u6784\u5EFA\u6548\u7387\u3002"
+      },
+      "Suitability": "\u9002\u7528\u4E8E\u6784\u5EFA\u9700\u8981\u591A\u667A\u80FD\u4F53\u534F\u4F5C\u4E0E\u81EA\u5B66\u4E60\u7684\u590D\u6742\u5BF9\u8BDDAI\u7CFB\u7EDF\uFF0C\u5982\u4F01\u4E1A\u7EA7\u81EA\u52A8\u5316\u5BA2\u670D\u3001\u667A\u80FD\u5DE5\u4F5C\u6D41\u3001\u4EE3\u7801\u8F85\u52A9\u5F00\u53D1\u7B49\u573A\u666F\u3002",
+      "Score": 8
+    },
+    {
+      "SourceRef": {
+        "Value": "github:docusealco/docuseal"
+      },
+      "Category": "tool",
+      "TechStack": {
+        "Tags": [
+          "Ruby",
+          "Ruby on Rails",
+          "PostgreSQL",
+          "JavaScript"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u5F00\u6E90\u514D\u8D39\u7684\u7535\u5B50\u7B7E\u540D\u89E3\u51B3\u65B9\u6848\uFF0C\u53EF\u81EA\u6258\u7BA1\uFF0C\u63D0\u4F9B\u5B8C\u6574\u7684\u6587\u6863\u521B\u5EFA\u3001\u586B\u5199\u548C\u7B7E\u7F72\u529F\u80FD\u3002"
+      },
+      "Suitability": "\u9002\u7528\u4E8E\u9700\u8981\u5B89\u5168\u6570\u5B57\u7B7E\u540D\u3001\u5408\u540C\u7BA1\u7406\u3001\u5BA1\u6279\u6D41\u7A0B\u7684\u4E2D\u5C0F\u578B\u4F01\u4E1A\u6216\u7EC4\u7EC7\uFF0C\u5C24\u5176\u9002\u5408\u6CE8\u91CD\u6570\u636E\u9690\u79C1\u3001\u5E0C\u671B\u81EA\u90E8\u7F72\u7B7E\u540D\u670D\u52A1\u7684\u573A\u666F\u3002",
+      "Score": 8
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:48023861"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u901A\u8FC7\u63D0\u51FA\u9006\u5411\u6CD5\u5219\u6311\u6218\u4E3B\u6D41AI\u53D1\u5C55\u5047\u8BBE\uFF0C\u4E3A\u4F26\u7406\u4E0E\u98CE\u9669\u7BA1\u63A7\u63D0\u4F9B\u65B0\u9896\u89C6\u89D2"
+      },
+      "Suitability": "\u9002\u7528\u4E8EAI\u4F26\u7406\u7814\u7A76\u3001\u5B89\u5168\u653F\u7B56\u5236\u5B9A\u53CA\u6279\u5224\u6027\u601D\u7EF4\u57F9\u517B\u573A\u666F",
+      "Score": 7
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:48028842"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u514D\u8D39\u5F00\u6E90\u8F6F\u4EF6\u7684\u6838\u5FC3\u7406\u5FF5\uFF0C\u5F15\u53D1\u5BF9\u8F6F\u4EF6\u5F00\u53D1\u521D\u8877\u4E0E\u5206\u4EAB\u7CBE\u795E\u7684\u601D\u8003\u3002"
+      },
+      "Suitability": "\u9002\u7528\u4E8E\u6240\u6709\u5E0C\u671B\u7406\u89E3\u5F00\u6E90\u4EF7\u503C\u3001\u6FC0\u52B1\u65E0\u79C1\u5206\u4EAB\u7684\u5F00\u53D1\u8005\u4E0E\u793E\u533A\u3002",
+      "Score": 7
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:48028546"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u8FD9\u7BC7\u6587\u7AE0\u5256\u6790\u4E86\u4EA7\u54C1\u5BFC\u89C8\u88AB\u7528\u6237\u8DF3\u8FC7\u80CC\u540E\u7684\u8BA4\u77E5\u5FC3\u7406\u5B66\u539F\u56E0\uFF0C\u5BF9\u63D0\u5347\u7528\u6237\u4F53\u9A8C\u548C\u4EA7\u54C1\u5165\u95E8\u8BBE\u8BA1\u6709\u5B9E\u7528\u6D1E\u5BDF\u3002"
+      },
+      "Suitability": "\u9002\u5408\u4EA7\u54C1\u7ECF\u7406\u3001UX\u8BBE\u8BA1\u5E08\u3001\u589E\u957F\u9ED1\u5BA2\u4F18\u5316\u65B0\u624B\u5F15\u5BFC\u6D41\u7A0B\u7684\u573A\u666F",
+      "Score": 7
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:47997915"
+      },
+      "Category": "tool",
+      "TechStack": {
+        "Tags": [
+          "Python",
+          "LangChain",
+          "Vector Database",
+          "Web Scraping"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u8BA9LLM\u80FD\u9AD8\u6548\u6784\u5EFA\u548C\u4F7F\u7528\u7ED3\u6784\u5316\u77E5\u8BC6\u5E93\uFF0C\u589E\u5F3A\u4E8B\u5B9E\u51C6\u786E\u6027\u3002"
+      },
+      "Suitability": "\u9002\u5408\u9700\u8981\u4E3ALLM\u5FEB\u901F\u521B\u5EFA\u9886\u57DF\u77E5\u8BC6\u5E93\u7684\u573A\u666F\uFF0C\u5982\u4F01\u4E1A\u77E5\u8BC6\u7BA1\u7406\u3001\u5BA2\u670D\u95EE\u7B54\u7CFB\u7EDF\u3002",
+      "Score": 7
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:48023533"
+      },
+      "Category": "framework",
+      "TechStack": {
+        "Tags": [
+          "Python",
+          "LangChain",
+          "OpenAI",
+          "RAG",
+          "FastAPI"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u9488\u5BF9\u91D1\u878D\u548C\u4FDD\u9669\u884C\u4E1A\u5B9A\u5236\u7684\u667A\u80FD\u4EE3\u7406\u89E3\u51B3\u65B9\u6848\uFF0C\u53EF\u7B80\u5316\u5408\u89C4\u3001\u5BA2\u6237\u670D\u52A1\u548C\u7406\u8D54\u5904\u7406\u6D41\u7A0B\u3002"
+      },
+      "Suitability": "\u9002\u7528\u4E8E\u91D1\u878D\u548C\u4FDD\u9669\u673A\u6784\u7684\u81EA\u52A8\u5316\u5BA2\u670D\u3001\u7406\u8D54\u5BA1\u6838\u3001\u5408\u89C4\u54A8\u8BE2\u7B49\u573A\u666F\u3002",
+      "Score": 7
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:48024358"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u63A2\u8BA8\u751F\u7269\u8BA1\u7B97\u6F5C\u5728\u98CE\u9669\uFF0C\u5F15\u53D1\u5E7F\u6CDB\u8BA8\u8BBA\uFF0C\u503C\u5F97\u5173\u6CE8\u3002"
+      },
+      "Suitability": "\u9002\u5408\u5BF9\u751F\u7269\u6280\u672F\u3001\u8BA1\u7B97\u4F26\u7406\u548C\u672A\u6765\u79D1\u6280\u98CE\u9669\u611F\u5174\u8DA3\u7684\u8BFB\u8005\u3002",
+      "Score": 7
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:48026207"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u624E\u514B\u4F2F\u683C\u4EB2\u81EA\u6388\u6743\u5E76\u9F13\u52B1Meta\u7684\u7248\u6743\u4FB5\u6743\u884C\u4E3A\uFF0C\u51F8\u663E\u79D1\u6280\u5DE8\u5934\u5728AI\u8BAD\u7EC3\u6570\u636E\u83B7\u53D6\u4E2D\u7684\u6CD5\u5F8B\u4E0E\u9053\u5FB7\u4E89\u8BAE\u3002"
+      },
+      "Suitability": "\u9002\u7528\u4E8E\u5173\u6CE8\u79D1\u6280\u6CD5\u5F8B\u3001\u7248\u6743\u4E89\u8BAE\u3001AI\u4F26\u7406\u7684\u8BFB\u8005\u548C\u7814\u7A76\u8005\u3002",
+      "Score": 7
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:48025687"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u63ED\u793A\u4E86IBM\u4E0E\u5FAE\u8F6F\u5728\u7528\u6237\u754C\u9762\u8BBE\u8BA1\u7406\u5FF5\u4E0A\u7684\u65E9\u671F\u5206\u6B67\uFF0CTab\u952E\u4E4B\u4E89\u5F71\u54CD\u4E86\u540E\u7EED\u64CD\u4F5C\u7CFB\u7EDF\u7684\u4EA4\u4E92\u6807\u51C6\u3002"
+      },
+      "Suitability": "\u9002\u5408UI/UX\u8BBE\u8BA1\u5E08\u3001\u8F6F\u4EF6\u5386\u53F2\u7231\u597D\u8005\u4EE5\u53CA\u5173\u6CE8\u4EA4\u4E92\u8BBE\u8BA1\u51B3\u7B56\u7684\u5F00\u53D1\u8005\u9605\u8BFB",
+      "Score": 7
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:47994946"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": [
+          "structural colour",
+          "inkjet printing"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u7814\u7A76\u4EBA\u5458\u9996\u6B21\u7528\u55B7\u58A8\u6253\u5370\u673A\u5236\u5907\u7ED3\u6784\u8272\uFF0C\u4E3A\u4F4E\u6210\u672C\u5236\u9020\u5149\u5B50\u6750\u6599\u5F00\u8F9F\u65B0\u9014\u5F84"
+      },
+      "Suitability": "\u9002\u7528\u4E8E\u5149\u5B66\u9632\u4F2A\u3001\u88C5\u9970\u3001\u663E\u793A\u548C\u4F20\u611F\u5668\u7B49\u9700\u8981\u4F4E\u6210\u672C\u7ED3\u6784\u8272\u7684\u573A\u666F",
+      "Score": 7
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:48000811"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u8FD9\u9879\u7814\u7A76\u63ED\u793A\u4E86\u57CE\u5E02\u4EA4\u901A\u566A\u97F3\u5982\u4F55\u6539\u53D8\u9E1F\u7C7B\u7684\u81EA\u7136\u4F5C\u606F\uFF0C\u5BF9\u57CE\u5E02\u751F\u6001\u89C4\u5212\u5177\u6709\u542F\u793A\u610F\u4E49\u3002"
+      },
+      "Suitability": "\u9002\u7528\u4E8E\u57CE\u5E02\u89C4\u5212\u3001\u751F\u6001\u4FDD\u62A4\u53CA\u566A\u97F3\u6C61\u67D3\u7814\u7A76\u7684\u573A\u666F\u3002",
+      "Score": 7
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:47996395"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": [
+          "Martin-L\u00F6f Type Theory",
+          "Agda"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u8BE5\u7814\u7A76\u5C06\u9A6C\u4E01-\u6D1B\u592B\u7C7B\u578B\u8BBA\u6269\u5C55\u81F3\u542B\u9884\u6D4B\u6027\u9A6C\u6D1B\u5B87\u5B99\uFF0C\u5728\u6784\u9020\u6027\u7C7B\u578B\u8BBA\u4E2D\u5B9E\u73B0\u4E86\u5BF9\u5927\u57FA\u6570\u6982\u5FF5\u7684\u63A2\u7D22\uFF0C\u5BF9\u8BC1\u660E\u8BBA\u548C\u5F62\u5F0F\u5316\u6570\u5B66\u6709\u91CD\u8981\u610F\u4E49\u3002"
+      },
+      "Suitability": "\u9002\u7528\u4E8E\u7C7B\u578B\u8BBA\u3001\u8BC1\u660E\u52A9\u624B\u53CA\u6570\u5B66\u57FA\u7840\u7814\u7A76\uFF0C\u9700\u8981\u5F3A\u5F52\u7EB3\u2013\u9012\u5F52\u6216\u5927\u5B87\u5B99\u6784\u9020\u7684\u573A\u666F\u3002",
+      "Score": 7
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:47993240"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": [
+          "Z80",
+          "6502",
+          "8080",
+          "6800",
+          "Assembly"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u6DF1\u5165\u5BF9\u6BD4Z80\u4E0E6502\u53CA\u5176\u884D\u751F\u67B6\u6784\uFF0C\u5BF9\u7406\u89E38\u4F4D\u5FAE\u5904\u7406\u5668\u8BBE\u8BA1\u6F14\u8FDB\u975E\u5E38\u6709\u5E2E\u52A9\u3002"
+      },
+      "Suitability": "\u9002\u5408\u5BF9CPU\u4F53\u7CFB\u7ED3\u6784\u3001\u6C47\u7F16\u8BED\u8A00\u548C\u590D\u53E4\u8BA1\u7B97\u611F\u5174\u8DA3\u7684\u5F00\u53D1\u8005\u3002",
+      "Score": 7
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:48029753"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Xbox CEO\u7EC8\u6B62Copilot AI\u5F00\u53D1\u5E76\u91CD\u7EC4\u9886\u5BFC\u5C42\uFF0C\u53CD\u6620\u5FAE\u8F6F\u6E38\u620F\u90E8\u95E8\u5728AI\u6218\u7565\u4E0A\u7684\u91CD\u5927\u8C03\u6574\u3002"
+      },
+      "Suitability": "\u9002\u5408\u5173\u6CE8\u79D1\u6280\u884C\u4E1A\u52A8\u6001\u3001\u4F01\u4E1A\u6218\u7565\u8C03\u6574\u7684\u8BFB\u8005",
+      "Score": 7
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:48025282"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u8FD9\u7BC7\u6587\u7AE0\u5206\u6790\u4E86\u822A\u7A7A\u516C\u53F8\u4E3A\u4F55\u9891\u7E41\u7834\u4EA7\uFF0C\u5BF9\u7406\u89E3\u822A\u7A7A\u4E1A\u7ECF\u6D4E\u8106\u5F31\u6027\u5F88\u6709\u4EF7\u503C\u3002"
+      },
+      "Suitability": "\u9002\u5408\u5BF9\u822A\u7A7A\u4E1A\u7ECF\u6D4E\u3001\u5546\u4E1A\u6A21\u5F0F\u6216\u4F01\u4E1A\u7834\u4EA7\u539F\u56E0\u611F\u5174\u8DA3\u7684\u8BFB\u8005\u9605\u8BFB\u53C2\u8003\u3002",
+      "Score": 7
+    },
+    {
+      "SourceRef": {
+        "Value": "github:virattt/dexter"
+      },
+      "Category": "tool",
+      "TechStack": {
+        "Tags": [
+          "TypeScript",
+          "Node.js",
+          "LLM"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u5229\u7528\u81EA\u4E3B\u667A\u80FD\u4F53\u5B9E\u73B0\u6DF1\u5EA6\u91D1\u878D\u7814\u7A76\u81EA\u52A8\u5316\uFF0C\u53EF\u81EA\u4E3B\u641C\u96C6\u3001\u5206\u6790\u8D22\u52A1\u6570\u636E\uFF0C\u4E3A\u6295\u8D44\u51B3\u7B56\u63D0\u4F9B\u5FEB\u901F\u6D1E\u5BDF\u3002"
+      },
+      "Suitability": "\u9002\u7528\u4E8E\u91D1\u878D\u5206\u6790\u5E08\u3001\u6295\u8D44\u8005\u8FDB\u884C\u81EA\u52A8\u5316\u57FA\u672C\u9762\u5206\u6790\u3001\u884C\u4E1A\u8C03\u7814\u3001\u8D22\u62A5\u89E3\u8BFB\u7B49\u6DF1\u5EA6\u7814\u7A76\u573A\u666F\u3002",
+      "Score": 7
+    },
+    {
+      "SourceRef": {
+        "Value": "github:cocoindex-io/cocoindex"
+      },
+      "Category": "framework",
+      "TechStack": {
+        "Tags": [
+          "Python",
+          "LangChain",
+          "Vector Database"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u4E13\u4E3A\u957F\u5468\u671FAI\u4EE3\u7406\u8BBE\u8BA1\u7684\u589E\u91CF\u7D22\u5F15\u5F15\u64CE\uFF0C\u6709\u6548\u7BA1\u7406\u6301\u7EED\u53D8\u5316\u7684\u6570\u636E\u548C\u4E0A\u4E0B\u6587\u8BB0\u5FC6\u3002"
+      },
+      "Suitability": "\u9002\u7528\u4E8E\u6784\u5EFA\u9700\u8981\u957F\u671F\u8BB0\u5FC6\u548C\u5B9E\u65F6\u6570\u636E\u7D22\u5F15\u7684AI\u4EE3\u7406\u5E94\u7528\uFF0C\u5982\u5BA2\u670D\u673A\u5668\u4EBA\u3001\u4E2A\u4EBA\u52A9\u624B\u7B49\u3002",
+      "Score": 7
+    },
+    {
+      "SourceRef": {
+        "Value": "github:AIDC-AI/Pixelle-Video"
+      },
+      "Category": "tool",
+      "TechStack": {
+        "Tags": [
+          "Python",
+          "PyTorch",
+          "Diffusion Models",
+          "FFmpeg",
+          "OpenCV"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u5168\u81EA\u52A8AI\u77ED\u89C6\u9891\u5F15\u64CE\uFF0C\u4ECE\u521B\u610F\u5230\u6210\u7247\u4E00\u6B65\u5230\u4F4D\uFF0C\u5927\u5E45\u964D\u4F4E\u89C6\u9891\u5236\u4F5C\u95E8\u69DB\u4E0E\u6210\u672C\u3002"
+      },
+      "Suitability": "\u9002\u7528\u4E8E\u793E\u4EA4\u5A92\u4F53\u8FD0\u8425\u3001\u7535\u5546\u4EA7\u54C1\u5C55\u793A\u3001\u81EA\u5A92\u4F53\u5185\u5BB9\u6279\u91CF\u751F\u4EA7\u3001\u65B0\u95FB\u64AD\u62A5\u7B49\u9700\u8981\u5FEB\u901F\u751F\u6210\u77ED\u89C6\u9891\u7684\u573A\u666F\u3002",
+      "Score": 7
+    },
+    {
+      "SourceRef": {
+        "Value": "github:browserbase/skills"
+      },
+      "Category": "tool",
+      "TechStack": {
+        "Tags": [
+          "JavaScript",
+          "Claude AI",
+          "Browserbase",
+          "Node.js"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u5C06Claude\u5927\u6A21\u578B\u4E0E\u6D4F\u89C8\u5668\u81EA\u52A8\u5316\u6DF1\u5EA6\u6574\u5408\uFF0C\u8BA9AI\u4EE3\u7406\u80FD\u591F\u81EA\u4E3B\u5B8C\u6210\u590D\u6742\u7684\u7F51\u9875\u4EFB\u52A1\u3002"
+      },
+      "Suitability": "\u9002\u7528\u4E8E\u667A\u80FD\u7F51\u9875\u6570\u636E\u91C7\u96C6\u3001\u81EA\u52A8\u5316\u6D4B\u8BD5\u3001AI\u9A71\u52A8\u4FE1\u606F\u68C0\u7D22\u3001\u8868\u5355\u586B\u5199\u7B49\u9700\u8981\u6A21\u62DF\u4EBA\u7C7B\u64CD\u4F5C\u7684\u573A\u666F\u3002",
+      "Score": 7
+    },
+    {
+      "SourceRef": {
+        "Value": "github:forrestchang/andrej-karpathy-skills"
+      },
+      "Category": "tool",
+      "TechStack": {
+        "Tags": [
+          "Claude Code",
+          "Markdown"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u57FA\u4E8EAndrej Karpathy\u5BF9LLM\u7F16\u7A0B\u9677\u9631\u7684\u6DF1\u5165\u89C2\u5BDF\uFF0C\u6B64\u6587\u4EF6\u53EF\u5927\u5E45\u63D0\u5347Claude Code\u7684\u7F16\u7801\u51C6\u786E\u6027\u548C\u6548\u7387\u3002"
+      },
+      "Suitability": "\u9002\u7528\u4E8E\u4F7F\u7528Claude Code\u8FDB\u884C\u8F6F\u4EF6\u5F00\u53D1\u3001\u671F\u671B\u89C4\u907FAI\u5E38\u89C1\u9519\u8BEF\u3001\u83B7\u5F97\u66F4\u9AD8\u8D28\u91CF\u4EE3\u7801\u8F85\u52A9\u7684\u5F00\u53D1\u8005\u3002",
+      "Score": 7
+    },
+    {
+      "SourceRef": {
+        "Value": "github:PriorLabs/TabPFN"
+      },
+      "Category": "library",
+      "TechStack": {
+        "Tags": [
+          "Python",
+          "PyTorch"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u9996\u4E2A\u9762\u5411\u8868\u683C\u6570\u636E\u7684\u9884\u8BAD\u7EC3\u57FA\u7840\u6A21\u578B\uFF0C\u65E0\u9700\u8BAD\u7EC3\u5373\u53EF\u5728\u5C0F\u6837\u672C\u5206\u7C7B\u4EFB\u52A1\u4E0A\u8D85\u8D8A\u4F20\u7EDF\u65B9\u6CD5"
+      },
+      "Suitability": "\u9002\u7528\u4E8E\u5C0F\u6837\u672C\u8868\u683C\u6570\u636E\u7684\u76D1\u7763\u5206\u7C7B\u573A\u666F\uFF0C\u5C24\u5176\u662F\u5FEB\u901F\u539F\u578B\u9A8C\u8BC1\u548C\u65E0\u9700\u8C03\u53C2\u7684\u57FA\u7EBF\u6A21\u578B",
+      "Score": 7
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:47996740"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": [
+          "Java",
+          "Graphviz"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u4E00\u4E2A\u4E94\u5E74\u8DE8\u5EA6\u7684Java\u5B66\u4E60\u5386\u7A0B\uFF0C\u4EE5\u56FE\u8BBA\u65B9\u5F0F\u53EF\u89C6\u5316\u5448\u73B0\u77E5\u8BC6\u79EF\u7D2F\u8DEF\u5F84\uFF0C\u4E3A\u6280\u672F\u5B66\u4E60\u53CD\u601D\u63D0\u4F9B\u72EC\u7279\u89C6\u89D2\u3002"
+      },
+      "Suitability": "\u9002\u5408\u9700\u8981\u8FFD\u8E2A\u5B66\u4E60\u8FDB\u7A0B\u3001\u53EF\u89C6\u5316\u77E5\u8BC6\u79EF\u7D2F\u7684\u5F00\u53D1\u8005\u548C\u6559\u80B2\u8005\uFF0C\u4EE5\u53CA\u5E0C\u671B\u53CD\u601D\u957F\u671F\u6280\u672F\u6210\u957F\u7684\u4E2A\u4EBA\u3002",
+      "Score": 6
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:48026349"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u52A0\u5DDE\u6843\u519C\u5728\u5FB7\u5C14\u8499\u7834\u4EA7\u540E\u9500\u6BC142\u4E07\u68F5\u6843\u6811\uFF0C\u7A81\u663E\u98DF\u54C1\u4F9B\u5E94\u94FE\u8106\u5F31\u6027\u4E0E\u519C\u4E1A\u7ECF\u6D4E\u6CE2\u52A8\u3002"
+      },
+      "Suitability": "\u9002\u5408\u5173\u6CE8\u519C\u4E1A\u7ECF\u6D4E\u3001\u98DF\u54C1\u884C\u4E1A\u6216\u4F9B\u5E94\u94FE\u98CE\u9669\u7684\u4EBA\u7FA4\u9605\u8BFB\u3002",
+      "Score": 5
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:48025244"
+      },
+      "Category": "other",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Proliferate (YC S25) \u63D0\u4F9B\u5E74\u85AA20\u4E07\u7F8E\u5143\u62DB\u8058\u521D\u7EA7\u5DE5\u7A0B\u5E08\uFF0C\u5BF9\u521D\u7EA7\u5F00\u53D1\u8005\u6781\u5177\u5438\u5F15\u529B\u3002"
+      },
+      "Suitability": "\u9002\u5408\u5BFB\u627E\u9AD8\u85AA\u521D\u7EA7\u5DE5\u7A0B\u5E08\u804C\u4F4D\u7684\u6C42\u804C\u8005\u3002",
+      "Score": 3
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:48021368"
+      },
+      "Category": "other",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Coinbase \u88C1\u5458 14% \u53CD\u6620\u52A0\u5BC6\u8D27\u5E01\u884C\u4E1A\u718A\u5E02\u538B\u529B\uFF0C\u5F15\u53D1\u5E7F\u6CDB\u5173\u6CE8\u3002"
+      },
+      "Suitability": "\u4E0D\u9002\u7528\u4E8E\u6280\u672F\u9879\u76EE\u573A\u666F\uFF0C\u4EC5\u4F5C\u4E3A\u884C\u4E1A\u52A8\u6001\u53C2\u8003\u3002",
+      "Score": 1
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 40 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 9/10",
+  "Status": 1
+}
