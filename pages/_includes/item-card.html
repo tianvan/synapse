@@ -29,6 +29,8 @@
       <a href="{{ url_final }}" target="_blank" rel="noopener noreferrer">{{ include.item.Highlight.Text }}</a>
     </h2>
 
+    <p class="card-description">{{ include.item.Description }}</p>
+
     <div class="card-meta">
       <span class="category-tag {{ include.item.Category }}">{{ include.item.Category }}</span>
       {% for tag in include.item.TechStack.Tags %}
@@ -37,10 +39,7 @@
     </div>
 
     {% if include.item.Suitability %}
-    <details class="card-suitability">
-      <summary>适用场景</summary>
-      <p>{{ include.item.Suitability }}</p>
-    </details>
+    <p class="card-suitability">🎯 {{ include.item.Suitability }}</p>
     {% endif %}
   </div>
 </article>

@@ -28,13 +28,13 @@ public class OpenAIAnalyzerAdapter : IAnalyzer
 
     public async Task<AnalyzedItem> AnalyzeAsync(SourceItem source, CancellationToken ct = default)
     {
-        var prompt = BuildPrompt(source);
+        var prompt = BuildPrompt(source, _options.UserPromptTemplate);
         var requestBody = new
         {
             model = _options.Model,
             messages = new[]
             {
-                new { role = "system", content = "You are a technical analyst. Output valid JSON only, no markdown." },
+                new { role = "system", content = _options.SystemPrompt },
                 new { role = "user", content = prompt }
             },
             temperature = 0.3
@@ -75,41 +75,34 @@ public class OpenAIAnalyzerAdapter : IAnalyzer
         }
     }
 
-    private static AnalyzedItem Degrade(SourceItem source) =>
+    internal static AnalyzedItem Degrade(SourceItem source) =>
         new(
             source.ExternalId,
             Category: "未分类",
             TechStack: new TechStack(Array.Empty<string>()),
             Highlight: new Highlight(source.Description.Length > 120
                 ? source.Description[..120] : source.Description),
+            Description: source.Description.Length > 150
+                ? source.Description[..150] : source.Description,
             Suitability: "",
             Score: 0
         );
 
-    private static string BuildPrompt(SourceItem source)
+    internal static string BuildPrompt(SourceItem source, string template)
     {
-        var starsHint = source.Metadata.TryGetValue("stars", out var s) ? $"{s} stars" : "";
-        var scoreHint = source.Metadata.TryGetValue("score", out var sc) ? $"{sc} HN points" : "";
-        var langHint = source.Metadata.TryGetValue("language", out var l) ? l : "";
+        var stars = source.Metadata.TryGetValue("stars", out var s) ? s : null;
+        var score = source.Metadata.TryGetValue("score", out var sc) ? sc : null;
+        var language = source.Metadata.TryGetValue("language", out var l) ? l : null;
 
-        return $$"""
-        Analyze this project and output JSON with these fields:
-        {
-          "category": "framework|tool|library|article|other",
-          "techStack": ["tech1", "tech2"],
-          "highlight": "one sentence in Chinese why this is worth attention",
-          "suitability": "suitable for what scenarios",
-          "score": 1-10
-        }
-
-        Project: {{source.Title}}
-        Description: {{source.Description}}
-        {{(starsHint + " " + scoreHint).Trim()}}
-        Language: {{langHint}}
-        """;
+        return template
+            .Replace("{{Title}}", source.Title)
+            .Replace("{{Description}}", source.Description)
+            .Replace("{{Language}}", language ?? "")
+            .Replace("{{Stars}}", stars is not null ? $"Stars: {stars}  " : "")
+            .Replace("{{Score}}", score is not null ? $"HN Score: {score}  " : "");
     }
 
-    private static AnalyzedItem ParseResponse(string text, SourceItem source)
+    internal static AnalyzedItem ParseResponse(string text, SourceItem source)
     {
         var json = text.Trim();
         if (json.StartsWith("```"))
@@ -127,10 +120,11 @@ public class OpenAIAnalyzerAdapter : IAnalyzer
         if (root.TryGetProperty("techStack", out var ts))
             foreach (var tag in ts.EnumerateArray()) tags.Add(tag.GetString()!);
         var highlight = root.TryGetProperty("highlight", out var h) ? h.GetString() ?? "" : "";
+        var description = root.TryGetProperty("description", out var desc) ? desc.GetString() ?? "" : "";
         var suitability = root.TryGetProperty("suitability", out var su) ? su.GetString() ?? "" : "";
         var score = root.TryGetProperty("score", out var sc) ? sc.GetInt32() : 0;
 
         return new AnalyzedItem(source.ExternalId, category, new TechStack(tags),
-            new Highlight(highlight), suitability, Math.Clamp(score, 1, 10));
+            new Highlight(highlight), description, suitability, Math.Clamp(score, 1, 10));
     }
 }
