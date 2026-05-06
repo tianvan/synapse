@@ -53,7 +53,7 @@ GitHub Secrets required for `daily-digest.yml`: `OpenAI__ApiKey`, `OpenAI__BaseU
 
 Three GitHub Actions workflows:
 - `ingest.yml` — fetches sources every 6h, archives data via git push
-- `daily-digest.yml` — generates and delivers digest daily at 8:00 UTC
+- `daily-digest.yml` — generates and delivers digest daily at 8:00 UTC+8 (Beijing)
 - `pr-checks.yml` — runs tests on PR, enables auto-merge (squash) on pass
 
 Workflows that push data need `permissions: contents: write`. `pr-checks.yml` auto-merge uses `gh pr merge --auto --squash` and needs `GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}`.

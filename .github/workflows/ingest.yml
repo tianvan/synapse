@@ -2,7 +2,7 @@ name: Ingest Sources
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"  # every 6h → UTC+8: 08:00, 14:00, 20:00, 02:00 Beijing
   workflow_dispatch:
 
 permissions:
