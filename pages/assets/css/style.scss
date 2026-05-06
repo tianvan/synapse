@@ -364,38 +364,40 @@ body {
   border: 1px solid #e0d8c8;
 }
 
-// ---- Suitability ----
-.card-suitability {
-  margin-top: 8px;
+// ---- Description ----
+.card-description {
+  margin-top: 6px;
+  font-size: 13px;
+  color: $muted;
+  line-height: 1.6;
+}
+
+.podium-description {
+  margin-top: 6px;
   font-size: 12px;
   color: $muted;
   line-height: 1.55;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
 
-  summary {
-    cursor: pointer;
-    font-family: $font-ui;
-    font-size: 11px;
-    font-weight: 500;
-    color: $gold-dark;
-    user-select: none;
-    list-style: none;
+// ---- Suitability ----
+.card-suitability {
+  margin-top: 6px;
+  font-size: 12px;
+  color: $muted;
+  line-height: 1.55;
+  padding-left: 6px;
+  border-left: 2px solid rgba($gold, 0.25);
+}
 
-    &::-webkit-details-marker { display: none; }
-
-    &::after {
-      content: ' ▾';
-      font-size: 9px;
-      opacity: 0.5;
-    }
-  }
-
-  &[open] summary::after { content: ' ▴'; }
-
-  p {
-    margin-top: 6px;
-    padding-left: 6px;
-    border-left: 2px solid rgba($gold, 0.25);
-  }
+.podium-suitability {
+  margin-top: 6px;
+  font-size: 11px;
+  color: $muted;
+  line-height: 1.5;
 }
 
 // ---- Empty State ----
