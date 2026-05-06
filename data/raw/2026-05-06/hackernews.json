@@ -1,261 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:48027897"
-    },
-    "Type": 1,
-    "Title": ".de TLD offline due to DNSSEC?",
-    "Url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-    "Description": ".de TLD offline due to DNSSEC?",
-    "Metadata": {
-      "score": "533",
-      "author": "warpspin",
-      "commentCount": "251"
-    },
-    "FetchedAt": "2026-05-06T02:07:05.6991329+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48024540"
-    },
-    "Type": 1,
-    "Title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-    "Url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-    "Description": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-    "Metadata": {
-      "score": "454",
-      "author": "amrrs",
-      "commentCount": "200"
-    },
-    "FetchedAt": "2026-05-06T02:07:05.7148435+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48024859"
-    },
-    "Type": 1,
-    "Title": "Computer Use is 45x more expensive than structured APIs",
-    "Url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-    "Description": "Computer Use is 45x more expensive than structured APIs",
-    "Metadata": {
-      "score": "321",
-      "author": "palashawas",
-      "commentCount": "185"
-    },
-    "FetchedAt": "2026-05-06T02:07:05.7300916+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48023861"
-    },
-    "Type": 1,
-    "Title": "Three Inverse Laws of AI",
-    "Url": "https://susam.net/inverse-laws-of-robotics.html",
-    "Description": "Three Inverse Laws of AI",
-    "Metadata": {
-      "score": "364",
-      "author": "blenderob",
-      "commentCount": "248"
-    },
-    "FetchedAt": "2026-05-06T02:07:05.747376+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48028842"
-    },
-    "Type": 1,
-    "Title": "Write some software, give it away for free",
-    "Url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
-    "Description": "Write some software, give it away for free",
-    "Metadata": {
-      "score": "136",
-      "author": "nohell",
-      "commentCount": "98"
-    },
-    "FetchedAt": "2026-05-06T02:07:05.7642298+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48024129"
-    },
-    "Type": 1,
-    "Title": "EEVblog: The 555 Timer is 55 years old [video]",
-    "Url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
-    "Description": "EEVblog: The 555 Timer is 55 years old [video]",
-    "Metadata": {
-      "score": "230",
-      "author": "brudgers",
-      "commentCount": "58"
-    },
-    "FetchedAt": "2026-05-06T02:07:05.7798047+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48028546"
-    },
-    "Type": 1,
-    "Title": "Why most product tours get skipped",
-    "Url": "https://productonboarding.com/articles/why-product-tours-get-skipped",
-    "Description": "Why most product tours get skipped",
-    "Metadata": {
-      "score": "71",
-      "author": "pancomplex",
-      "commentCount": "62"
-    },
-    "FetchedAt": "2026-05-06T02:07:05.7943588+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48026342"
-    },
-    "Type": 1,
-    "Title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
-    "Url": "https://paletteinspiration.com/",
-    "Description": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
-    "Metadata": {
-      "score": "111",
-      "author": "ouli",
-      "commentCount": "41"
-    },
-    "FetchedAt": "2026-05-06T02:07:05.8094849+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:47997915"
-    },
-    "Type": 1,
-    "Title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
-    "Url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
-    "Description": "Wiki Builder: Skill to Build LLM Knowledge Bases",
-    "Metadata": {
-      "score": "9",
-      "author": "omarsar",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-05-06T02:07:05.8243333+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48026021"
-    },
-    "Type": 1,
-    "Title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
-    "Url": "https://arxiv.org/abs/2604.26752",
-    "Description": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
-    "Metadata": {
-      "score": "116",
-      "author": "gmays",
-      "commentCount": "23"
-    },
-    "FetchedAt": "2026-05-06T02:07:05.838519+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48023533"
-    },
-    "Type": 1,
-    "Title": "Agents for financial services and insurance",
-    "Url": "https://www.anthropic.com/news/finance-agents",
-    "Description": "Agents for financial services and insurance",
-    "Metadata": {
-      "score": "199",
-      "author": "louiereederson",
-      "commentCount": "151"
-    },
-    "FetchedAt": "2026-05-06T02:07:05.8529082+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48023496"
-    },
-    "Type": 1,
-    "Title": "Show HN: Airbyte Agents \u2013 context for agents across multiple data sources",
-    "Url": "https://news.ycombinator.com/item?id=48023496",
-    "Description": "Show HN: Airbyte Agents \u2013 context for agents across multiple data sources",
-    "Metadata": {
-      "score": "96",
-      "author": "mtricot",
-      "commentCount": "23"
-    },
-    "FetchedAt": "2026-05-06T02:07:05.8675577+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48024358"
-    },
-    "Type": 1,
-    "Title": "I\u0027m scared about biological computing",
-    "Url": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
-    "Description": "I\u0027m scared about biological computing",
-    "Metadata": {
-      "score": "146",
-      "author": "kuberwastaken",
-      "commentCount": "132"
-    },
-    "FetchedAt": "2026-05-06T02:07:05.8828228+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48019219"
-    },
-    "Type": 1,
-    "Title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-    "Url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-    "Description": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-    "Metadata": {
-      "score": "1251",
-      "author": "john-doe",
-      "commentCount": "852"
-    },
-    "FetchedAt": "2026-05-06T02:07:05.897188+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48021368"
-    },
-    "Type": 1,
-    "Title": "Today I\u0027ve made the difficult decision to reduce the size of Coinbase by ~14%",
-    "Url": "https://twitter.com/brian_armstrong/status/2051616759145185723",
-    "Description": "Today I\u0027ve made the difficult decision to reduce the size of Coinbase by ~14%",
-    "Metadata": {
-      "score": "268",
-      "author": "adrianmsmith",
-      "commentCount": "384"
-    },
-    "FetchedAt": "2026-05-06T02:07:05.9115029+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:47996740"
-    },
-    "Type": 1,
-    "Title": "I completed 100 Days of Java over 5 years and mapped the journey as a graph",
-    "Url": "https://mohibulsblog.netlify.app/java/100daysofjava/graph/",
-    "Description": "I completed 100 Days of Java over 5 years and mapped the journey as a graph",
-    "Metadata": {
-      "score": "28",
-      "author": "celurian92",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-05-06T02:07:05.9260964+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48026349"
-    },
-    "Type": 1,
-    "Title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
-    "Url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
-    "Description": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
-    "Metadata": {
-      "score": "272",
-      "author": "littlexsparkee",
-      "commentCount": "323"
-    },
-    "FetchedAt": "2026-05-06T02:07:05.9402548+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48020063"
     },
     "Type": 1,
@@ -448,5 +193,455 @@
       "commentCount": "28"
     },
     "FetchedAt": "2026-05-06T02:07:06.1478104+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48031684"
+    },
+    "Type": 1,
+    "Title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+    "Url": "https://blog.cloudflare.com/agents-stripe-projects/",
+    "Description": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+    "Metadata": {
+      "score": "256",
+      "author": "rolph",
+      "commentCount": "142"
+    },
+    "FetchedAt": "2026-05-06T08:12:07.3938658+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48005432"
+    },
+    "Type": 1,
+    "Title": "CARA 2.0 \u2013 \u201CI Built a Better Robot Dog\u201D",
+    "Url": "https://www.aaedmusa.com/projects/cara2",
+    "Description": "CARA 2.0 \u2013 \u201CI Built a Better Robot Dog\u201D",
+    "Metadata": {
+      "score": "100",
+      "author": "hakonjdjohnsen",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-05-06T08:12:07.4355756+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48031261"
+    },
+    "Type": 1,
+    "Title": "StarFighter 16-Inch",
+    "Url": "https://us.starlabs.systems/pages/starfighter",
+    "Description": "StarFighter 16-Inch",
+    "Metadata": {
+      "score": "257",
+      "author": "signa11",
+      "commentCount": "143"
+    },
+    "FetchedAt": "2026-05-06T08:12:07.4769338+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48027897"
+    },
+    "Type": 1,
+    "Title": "DNSSEC disruption affecting .de domains \u2013 Resolved",
+    "Url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
+    "Description": "DNSSEC disruption affecting .de domains \u2013 Resolved",
+    "Metadata": {
+      "score": "646",
+      "author": "warpspin",
+      "commentCount": "317"
+    },
+    "FetchedAt": "2026-05-06T08:12:07.5185546+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48031109"
+    },
+    "Type": 1,
+    "Title": "Telus Uses AI to Alter Call-Agent Accents",
+    "Url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+    "Description": "Telus Uses AI to Alter Call-Agent Accents",
+    "Metadata": {
+      "score": "134",
+      "author": "debo_",
+      "commentCount": "85"
+    },
+    "FetchedAt": "2026-05-06T08:12:07.5643013+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48031867"
+    },
+    "Type": 1,
+    "Title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
+    "Url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+    "Description": "245TB Micron 6600 ION Data Center SSD Now Shipping",
+    "Metadata": {
+      "score": "66",
+      "author": "neilfrndes",
+      "commentCount": "46"
+    },
+    "FetchedAt": "2026-05-06T08:12:07.6067959+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48024540"
+    },
+    "Type": 1,
+    "Title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+    "Url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+    "Description": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+    "Metadata": {
+      "score": "548",
+      "author": "amrrs",
+      "commentCount": "253"
+    },
+    "FetchedAt": "2026-05-06T08:12:07.6481271+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48030964"
+    },
+    "Type": 1,
+    "Title": "YouTube, your RSS feeds are broken",
+    "Url": "https://openrss.org/blog/youtube-your-feeds-are-broken",
+    "Description": "YouTube, your RSS feeds are broken",
+    "Metadata": {
+      "score": "99",
+      "author": "veeti",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-05-06T08:12:07.689546+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48028842"
+    },
+    "Type": 1,
+    "Title": "Write some software, give it away for free",
+    "Url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+    "Description": "Write some software, give it away for free",
+    "Metadata": {
+      "score": "251",
+      "author": "nohell",
+      "commentCount": "165"
+    },
+    "FetchedAt": "2026-05-06T08:12:07.731262+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48024859"
+    },
+    "Type": 1,
+    "Title": "Computer Use is 45x more expensive than structured APIs",
+    "Url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+    "Description": "Computer Use is 45x more expensive than structured APIs",
+    "Metadata": {
+      "score": "386",
+      "author": "palashawas",
+      "commentCount": "223"
+    },
+    "FetchedAt": "2026-05-06T08:12:07.773421+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48023861"
+    },
+    "Type": 1,
+    "Title": "Three Inverse Laws of AI",
+    "Url": "https://susam.net/inverse-laws-of-robotics.html",
+    "Description": "Three Inverse Laws of AI",
+    "Metadata": {
+      "score": "431",
+      "author": "blenderob",
+      "commentCount": "298"
+    },
+    "FetchedAt": "2026-05-06T08:12:07.8150766+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48024129"
+    },
+    "Type": 1,
+    "Title": "EEVblog: The 555 Timer is 55 years old [video]",
+    "Url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
+    "Description": "EEVblog: The 555 Timer is 55 years old [video]",
+    "Metadata": {
+      "score": "279",
+      "author": "brudgers",
+      "commentCount": "69"
+    },
+    "FetchedAt": "2026-05-06T08:12:07.8564238+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48031769"
+    },
+    "Type": 1,
+    "Title": "Ombudsman column: The Pentagon is trying to silence me",
+    "Url": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html",
+    "Description": "Ombudsman column: The Pentagon is trying to silence me",
+    "Metadata": {
+      "score": "194",
+      "author": "petethomas",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-05-06T08:12:07.8997507+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48028546"
+    },
+    "Type": 1,
+    "Title": "Why most product tours get skipped",
+    "Url": "https://productonboarding.com/articles/why-product-tours-get-skipped",
+    "Description": "Why most product tours get skipped",
+    "Metadata": {
+      "score": "142",
+      "author": "pancomplex",
+      "commentCount": "112"
+    },
+    "FetchedAt": "2026-05-06T08:12:07.9415267+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48003549"
+    },
+    "Type": 1,
+    "Title": "Make some art with your phone sensors",
+    "Url": "https://tautme.github.io/phone-sensors/sensor-etch.html",
+    "Description": "Make some art with your phone sensors",
+    "Metadata": {
+      "score": "33",
+      "author": "adm4",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-05-06T08:12:07.9833082+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48032976"
+    },
+    "Type": 1,
+    "Title": "Reverse-engineering the 1998 Ultima Online demo server",
+    "Url": "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html",
+    "Description": "Reverse-engineering the 1998 Ultima Online demo server",
+    "Metadata": {
+      "score": "9",
+      "author": "notsentient",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-05-06T08:12:08.0254046+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48032461"
+    },
+    "Type": 1,
+    "Title": "Knitting bullshit",
+    "Url": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
+    "Description": "Knitting bullshit",
+    "Metadata": {
+      "score": "11",
+      "author": "ColinEberhardt",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-06T08:12:08.0696655+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:47997915"
+    },
+    "Type": 1,
+    "Title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
+    "Url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
+    "Description": "Wiki Builder: Skill to Build LLM Knowledge Bases",
+    "Metadata": {
+      "score": "51",
+      "author": "omarsar",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-05-06T08:12:08.1144079+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48019219"
+    },
+    "Type": 1,
+    "Title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+    "Url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+    "Description": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+    "Metadata": {
+      "score": "1418",
+      "author": "john-doe",
+      "commentCount": "925"
+    },
+    "FetchedAt": "2026-05-06T08:12:08.1562695+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48021368"
+    },
+    "Type": 1,
+    "Title": "Today I\u0027ve made the difficult decision to reduce the size of Coinbase by ~14%",
+    "Url": "https://twitter.com/brian_armstrong/status/2051616759145185723",
+    "Description": "Today I\u0027ve made the difficult decision to reduce the size of Coinbase by ~14%",
+    "Metadata": {
+      "score": "353",
+      "author": "adrianmsmith",
+      "commentCount": "543"
+    },
+    "FetchedAt": "2026-05-06T08:12:08.1976866+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48026342"
+    },
+    "Type": 1,
+    "Title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+    "Url": "https://paletteinspiration.com/",
+    "Description": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+    "Metadata": {
+      "score": "159",
+      "author": "ouli",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-05-06T08:12:08.2394271+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48023496"
+    },
+    "Type": 1,
+    "Title": "Show HN: Airbyte Agents \u2013 context for agents across multiple data sources",
+    "Url": "https://news.ycombinator.com/item?id=48023496",
+    "Description": "Show HN: Airbyte Agents \u2013 context for agents across multiple data sources",
+    "Metadata": {
+      "score": "117",
+      "author": "mtricot",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-05-06T08:12:08.2814984+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48024358"
+    },
+    "Type": 1,
+    "Title": "I\u0027m scared about biological computing",
+    "Url": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
+    "Description": "I\u0027m scared about biological computing",
+    "Metadata": {
+      "score": "202",
+      "author": "kuberwastaken",
+      "commentCount": "167"
+    },
+    "FetchedAt": "2026-05-06T08:12:08.3237502+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48023533"
+    },
+    "Type": 1,
+    "Title": "Agents for financial services and insurance",
+    "Url": "https://www.anthropic.com/news/finance-agents",
+    "Description": "Agents for financial services and insurance",
+    "Metadata": {
+      "score": "235",
+      "author": "louiereederson",
+      "commentCount": "171"
+    },
+    "FetchedAt": "2026-05-06T08:12:08.365388+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48033381"
+    },
+    "Type": 1,
+    "Title": "Mark Cuban: OpenAI Will Never Return the $1T It\u0027s Investing [video]",
+    "Url": "https://www.youtube.com/watch?v=oEVHNvE_jDw",
+    "Description": "Mark Cuban: OpenAI Will Never Return the $1T It\u0027s Investing [video]",
+    "Metadata": {
+      "score": "7",
+      "author": "operatingthetan",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-06T08:12:08.4227004+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48026021"
+    },
+    "Type": 1,
+    "Title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+    "Url": "https://arxiv.org/abs/2604.26752",
+    "Description": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+    "Metadata": {
+      "score": "140",
+      "author": "gmays",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-05-06T08:12:08.4643628+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48032265"
+    },
+    "Type": 1,
+    "Title": "Multi-stroke text effect in CSS",
+    "Url": "https://yuanchuan.dev/multi-stroke-text-effect-in-css",
+    "Description": "Multi-stroke text effect in CSS",
+    "Metadata": {
+      "score": "7",
+      "author": "cheeaun",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-06T08:12:08.5068488+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:47999020"
+    },
+    "Type": 1,
+    "Title": "How to organize 3 acquired companies into one coherent website",
+    "Url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+    "Description": "How to organize 3 acquired companies into one coherent website",
+    "Metadata": {
+      "score": "6",
+      "author": "mooreds",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-06T08:12:08.5495647+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:47996740"
+    },
+    "Type": 1,
+    "Title": "I completed 100 Days of Java over 5 years and mapped the journey as a graph",
+    "Url": "https://mohibulsblog.netlify.app/java/100daysofjava/graph/",
+    "Description": "I completed 100 Days of Java over 5 years and mapped the journey as a graph",
+    "Metadata": {
+      "score": "53",
+      "author": "celurian92",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-05-06T08:12:08.5916061+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48026349"
+    },
+    "Type": 1,
+    "Title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
+    "Url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
+    "Description": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
+    "Metadata": {
+      "score": "327",
+      "author": "littlexsparkee",
+      "commentCount": "381"
+    },
+    "FetchedAt": "2026-05-06T08:12:08.6334788+00:00"
   }
 ]
