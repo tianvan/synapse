@@ -1,74 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:Hmbown/DeepSeek-TUI"
-    },
-    "Type": 0,
-    "Title": "Hmbown/DeepSeek-TUI",
-    "Url": "https://github.com/Hmbown/DeepSeek-TUI",
-    "Description": "Coding agent for DeepSeek models that runs in your terminal",
-    "Metadata": {
-      "owner": "Hmbown",
-      "repo": "DeepSeek-TUI",
-      "language": "Rust",
-      "stars": "6,175",
-      "topics": "cli, deepseek, llm, rust, terminal, tui"
-    },
-    "FetchedAt": "2026-05-07T08:22:03.1822765+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:addyosmani/agent-skills"
-    },
-    "Type": 0,
-    "Title": "addyosmani/agent-skills",
-    "Url": "https://github.com/addyosmani/agent-skills",
-    "Description": "Production-grade engineering skills for AI coding agents.",
-    "Metadata": {
-      "owner": "addyosmani",
-      "repo": "agent-skills",
-      "language": "Shell",
-      "stars": "800",
-      "topics": "agent-skills, antigravity, antigravity-ide, claude-code, cursor, skills"
-    },
-    "FetchedAt": "2026-05-07T08:22:03.4577965+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:PriorLabs/TabPFN"
-    },
-    "Type": 0,
-    "Title": "PriorLabs/TabPFN",
-    "Url": "https://github.com/PriorLabs/TabPFN",
-    "Description": "\u26A1 TabPFN: Foundation Model for Tabular Data \u26A1",
-    "Metadata": {
-      "owner": "PriorLabs",
-      "repo": "TabPFN",
-      "language": "Python",
-      "stars": "218",
-      "topics": "data-science, foundation-models, machine-learning, tabpfn, tabular-data"
-    },
-    "FetchedAt": "2026-05-07T08:22:03.6310498+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:docusealco/docuseal"
-    },
-    "Type": 0,
-    "Title": "docusealco/docuseal",
-    "Url": "https://github.com/docusealco/docuseal",
-    "Description": "Open source DocuSign alternative. Create, fill, and sign digital documents \u270D\uFE0F",
-    "Metadata": {
-      "owner": "docusealco",
-      "repo": "docuseal",
-      "language": "Ruby",
-      "stars": "774",
-      "topics": "document-signing, documents, e-signature, hotwired-turbo, open-source, pdf, pdf-sign, pdf-signature, ruby-on-rails, self-hosted, tailwindcss, vue, webpack"
-    },
-    "FetchedAt": "2026-05-07T08:22:03.8199845+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:LadybirdBrowser/ladybird"
     },
     "Type": 0,
@@ -99,22 +31,6 @@
       "stars": "666"
     },
     "FetchedAt": "2026-05-07T08:22:04.2001189+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:anthropics/financial-services"
-    },
-    "Type": 0,
-    "Title": "anthropics/financial-services",
-    "Url": "https://github.com/anthropics/financial-services",
-    "Description": "",
-    "Metadata": {
-      "owner": "anthropics",
-      "repo": "financial-services",
-      "language": "Python",
-      "stars": "641"
-    },
-    "FetchedAt": "2026-05-07T08:22:04.3544644+00:00"
   },
   {
     "ExternalId": {
@@ -199,5 +115,172 @@
       "topics": "agent, agentic, agentic-framework, agentic-workflow, ai, ai-agents, deep-research, harness, langchain, langgraph, langmanus, llm, multi-agent, nodejs, podcast, python, superagent, typescript"
     },
     "FetchedAt": "2026-05-07T08:22:05.3650781+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/financial-services"
+    },
+    "Type": 0,
+    "Title": "anthropics/financial-services",
+    "Url": "https://github.com/anthropics/financial-services",
+    "Description": "",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "financial-services",
+      "language": "Python",
+      "stars": "1,367"
+    },
+    "FetchedAt": "2026-05-07T13:47:48.0403983+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Hmbown/DeepSeek-TUI"
+    },
+    "Type": 0,
+    "Title": "Hmbown/DeepSeek-TUI",
+    "Url": "https://github.com/Hmbown/DeepSeek-TUI",
+    "Description": "Coding agent for DeepSeek models that runs in your terminal",
+    "Metadata": {
+      "owner": "Hmbown",
+      "repo": "DeepSeek-TUI",
+      "language": "Rust",
+      "stars": "5,787",
+      "topics": "cli, deepseek, llm, rust, terminal, tui"
+    },
+    "FetchedAt": "2026-05-07T13:47:48.2414738+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:z-lab/dflash"
+    },
+    "Type": 0,
+    "Title": "z-lab/dflash",
+    "Url": "https://github.com/z-lab/dflash",
+    "Description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+    "Metadata": {
+      "owner": "z-lab",
+      "repo": "dflash",
+      "language": "Python",
+      "stars": "654"
+    },
+    "FetchedAt": "2026-05-07T13:47:48.3599381+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "Shell",
+      "stars": "3,058",
+      "topics": "agent-skills, antigravity, antigravity-ide, claude-code, cursor, skills"
+    },
+    "FetchedAt": "2026-05-07T13:47:48.5175159+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:vercel-labs/open-agents"
+    },
+    "Type": 0,
+    "Title": "vercel-labs/open-agents",
+    "Url": "https://github.com/vercel-labs/open-agents",
+    "Description": "An open source template for building cloud agents.",
+    "Metadata": {
+      "owner": "vercel-labs",
+      "repo": "open-agents",
+      "language": "TypeScript",
+      "stars": "406",
+      "topics": "agent, agents, ai, background-agents"
+    },
+    "FetchedAt": "2026-05-07T13:47:48.651694+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:docusealco/docuseal"
+    },
+    "Type": 0,
+    "Title": "docusealco/docuseal",
+    "Url": "https://github.com/docusealco/docuseal",
+    "Description": "Open source DocuSign alternative. Create, fill, and sign digital documents \u270D\uFE0F",
+    "Metadata": {
+      "owner": "docusealco",
+      "repo": "docuseal",
+      "language": "Ruby",
+      "stars": "899",
+      "topics": "document-signing, documents, e-signature, hotwired-turbo, open-source, pdf, pdf-sign, pdf-signature, ruby-on-rails, self-hosted, tailwindcss, vue, webpack"
+    },
+    "FetchedAt": "2026-05-07T13:47:48.7694703+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:decolua/9router"
+    },
+    "Type": 0,
+    "Title": "decolua/9router",
+    "Url": "https://github.com/decolua/9router",
+    "Description": "\uD83C\uDD93 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40\u002B providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+    "Metadata": {
+      "owner": "decolua",
+      "repo": "9router",
+      "language": "JavaScript",
+      "stars": "130",
+      "topics": "ai-agents, ai-gateway, anthropic, chatgpt, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, gemini-cli, llm, llm-gateway, openai, openai-proxy, qwen, token-saver"
+    },
+    "FetchedAt": "2026-05-07T13:47:49.0357405+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:PriorLabs/TabPFN"
+    },
+    "Type": 0,
+    "Title": "PriorLabs/TabPFN",
+    "Url": "https://github.com/PriorLabs/TabPFN",
+    "Description": "\u26A1 TabPFN: Foundation Model for Tabular Data \u26A1",
+    "Metadata": {
+      "owner": "PriorLabs",
+      "repo": "TabPFN",
+      "language": "Python",
+      "stars": "233",
+      "topics": "data-science, foundation-models, machine-learning, tabpfn, tabular-data"
+    },
+    "FetchedAt": "2026-05-07T13:47:49.1286855+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:aaif-goose/goose"
+    },
+    "Type": 0,
+    "Title": "aaif-goose/goose",
+    "Url": "https://github.com/aaif-goose/goose",
+    "Description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "Metadata": {
+      "owner": "aaif-goose",
+      "repo": "goose",
+      "language": "Rust",
+      "stars": "111",
+      "topics": "acp, ai, ai-agents, mcp"
+    },
+    "FetchedAt": "2026-05-07T13:47:49.2608684+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Augani/openreel-video"
+    },
+    "Type": 0,
+    "Title": "Augani/openreel-video",
+    "Url": "https://github.com/Augani/openreel-video",
+    "Description": "OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.",
+    "Metadata": {
+      "owner": "Augani",
+      "repo": "openreel-video",
+      "language": "TypeScript",
+      "stars": "208"
+    },
+    "FetchedAt": "2026-05-07T13:47:49.4216977+00:00"
   }
 ]
