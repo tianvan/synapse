@@ -34,8 +34,3 @@ jobs:
           git diff --staged --quiet || git commit -m "chore: archive daily digest $(date +%F)"
           git push
 
-  deploy-pages:
-    needs: digest
-    uses: ./.github/workflows/deploy-pages.yml
-    permissions:
-      contents: write

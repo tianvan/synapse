@@ -4,8 +4,8 @@ on:
   push:
     paths:
       - 'pages/**'
+      - 'data/digests/**'
   workflow_dispatch:
-  workflow_call:
 
 permissions:
   contents: write
