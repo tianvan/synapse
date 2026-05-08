@@ -1,0 +1,169 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/financial-services"
+    },
+    "Type": 0,
+    "Title": "anthropics/financial-services",
+    "Url": "https://github.com/anthropics/financial-services",
+    "Description": "",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "financial-services",
+      "language": "Python",
+      "stars": "1,343"
+    },
+    "FetchedAt": "2026-05-08T02:25:33.5963788+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Hmbown/DeepSeek-TUI"
+    },
+    "Type": 0,
+    "Title": "Hmbown/DeepSeek-TUI",
+    "Url": "https://github.com/Hmbown/DeepSeek-TUI",
+    "Description": "Coding agent for DeepSeek models that runs in your terminal",
+    "Metadata": {
+      "owner": "Hmbown",
+      "repo": "DeepSeek-TUI",
+      "language": "Rust",
+      "stars": "5,799",
+      "topics": "cli, deepseek, llm, rust, terminal, tui"
+    },
+    "FetchedAt": "2026-05-08T02:25:33.8392961+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:z-lab/dflash"
+    },
+    "Type": 0,
+    "Title": "z-lab/dflash",
+    "Url": "https://github.com/z-lab/dflash",
+    "Description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+    "Metadata": {
+      "owner": "z-lab",
+      "repo": "dflash",
+      "language": "Python",
+      "stars": "671"
+    },
+    "FetchedAt": "2026-05-08T02:25:34.0053544+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "Shell",
+      "stars": "3,062",
+      "topics": "agent-skills, antigravity, antigravity-ide, claude-code, cursor, skills"
+    },
+    "FetchedAt": "2026-05-08T02:25:34.1847709+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:vercel-labs/open-agents"
+    },
+    "Type": 0,
+    "Title": "vercel-labs/open-agents",
+    "Url": "https://github.com/vercel-labs/open-agents",
+    "Description": "An open source template for building cloud agents.",
+    "Metadata": {
+      "owner": "vercel-labs",
+      "repo": "open-agents",
+      "language": "TypeScript",
+      "stars": "131",
+      "topics": "agent, agents, ai, background-agents"
+    },
+    "FetchedAt": "2026-05-08T02:25:34.3639671+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:docusealco/docuseal"
+    },
+    "Type": 0,
+    "Title": "docusealco/docuseal",
+    "Url": "https://github.com/docusealco/docuseal",
+    "Description": "Open source DocuSign alternative. Create, fill, and sign digital documents \u270D\uFE0F",
+    "Metadata": {
+      "owner": "docusealco",
+      "repo": "docuseal",
+      "language": "Ruby",
+      "stars": "900",
+      "topics": "document-signing, documents, e-signature, hotwired-turbo, open-source, pdf, pdf-sign, pdf-signature, ruby-on-rails, self-hosted, tailwindcss, vue, webpack"
+    },
+    "FetchedAt": "2026-05-08T02:25:34.5309976+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:decolua/9router"
+    },
+    "Type": 0,
+    "Title": "decolua/9router",
+    "Url": "https://github.com/decolua/9router",
+    "Description": "\uD83C\uDDFB\uD83C\uDDF3 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40\u002B providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+    "Metadata": {
+      "owner": "decolua",
+      "repo": "9router",
+      "language": "JavaScript",
+      "stars": "149",
+      "topics": "ai-agents, ai-gateway, anthropic, chatgpt, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, gemini-cli, llm, llm-gateway, openai, openai-proxy, qwen, token-saver"
+    },
+    "FetchedAt": "2026-05-08T02:25:34.7091308+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:PriorLabs/TabPFN"
+    },
+    "Type": 0,
+    "Title": "PriorLabs/TabPFN",
+    "Url": "https://github.com/PriorLabs/TabPFN",
+    "Description": "\u26A1 TabPFN: Foundation Model for Tabular Data \u26A1",
+    "Metadata": {
+      "owner": "PriorLabs",
+      "repo": "TabPFN",
+      "language": "Python",
+      "stars": "230",
+      "topics": "data-science, foundation-models, machine-learning, tabpfn, tabular-data"
+    },
+    "FetchedAt": "2026-05-08T02:25:34.868655+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:aaif-goose/goose"
+    },
+    "Type": 0,
+    "Title": "aaif-goose/goose",
+    "Url": "https://github.com/aaif-goose/goose",
+    "Description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "Metadata": {
+      "owner": "aaif-goose",
+      "repo": "goose",
+      "language": "Rust",
+      "stars": "390",
+      "topics": "acp, ai, ai-agents, mcp"
+    },
+    "FetchedAt": "2026-05-08T02:25:35.0458964+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Augani/openreel-video"
+    },
+    "Type": 0,
+    "Title": "Augani/openreel-video",
+    "Url": "https://github.com/Augani/openreel-video",
+    "Description": "OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.",
+    "Metadata": {
+      "owner": "Augani",
+      "repo": "openreel-video",
+      "language": "TypeScript",
+      "stars": "233"
+    },
+    "FetchedAt": "2026-05-08T02:25:35.2191819+00:00"
+  }
+]
