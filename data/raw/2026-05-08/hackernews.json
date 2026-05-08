@@ -1,66 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:48055913"
-    },
-    "Type": 1,
-    "Title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
-    "Url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-    "Description": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
-    "Metadata": {
-      "score": "252",
-      "author": "stefanpie",
-      "commentCount": "84"
-    },
-    "FetchedAt": "2026-05-08T02:25:35.7904483+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48053623"
-    },
-    "Type": 1,
-    "Title": "Dirtyfrag: Universal Linux LPE",
-    "Url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-    "Description": "Dirtyfrag: Universal Linux LPE",
-    "Metadata": {
-      "score": "433",
-      "author": "flipped",
-      "commentCount": "194"
-    },
-    "FetchedAt": "2026-05-08T02:25:35.889834+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48056227"
-    },
-    "Type": 1,
-    "Title": "Maybe you shouldn\u0027t install new software for a bit",
-    "Url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-    "Description": "Maybe you shouldn\u0027t install new software for a bit",
-    "Metadata": {
-      "score": "147",
-      "author": "psxuaw",
-      "commentCount": "74"
-    },
-    "FetchedAt": "2026-05-08T02:25:35.9613046+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48049653"
-    },
-    "Type": 1,
-    "Title": "The Burning Man MOOP Map",
-    "Url": "https://www.not-ship.com/burning-man-moop/",
-    "Description": "The Burning Man MOOP Map",
-    "Metadata": {
-      "score": "538",
-      "author": "speckx",
-      "commentCount": "286"
-    },
-    "FetchedAt": "2026-05-08T02:25:36.0368886+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48042817"
     },
     "Type": 1,
@@ -76,126 +16,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48051562"
-    },
-    "Type": 1,
-    "Title": "Agents need control flow, not more prompts",
-    "Url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-    "Description": "Agents need control flow, not more prompts",
-    "Metadata": {
-      "score": "339",
-      "author": "bsuh",
-      "commentCount": "186"
-    },
-    "FetchedAt": "2026-05-08T02:25:36.3172241+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48056268"
-    },
-    "Type": 1,
-    "Title": "Researchers discover advanced language processing in the unconscious human brain",
-    "Url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
-    "Description": "Researchers discover advanced language processing in the unconscious human brain",
-    "Metadata": {
-      "score": "47",
-      "author": "hhs",
-      "commentCount": "15"
-    },
-    "FetchedAt": "2026-05-08T02:25:36.3745079+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48054423"
-    },
-    "Type": 1,
-    "Title": "Building for the Future",
-    "Url": "https://blog.cloudflare.com/building-for-the-future/",
-    "Description": "Building for the Future",
-    "Metadata": {
-      "score": "273",
-      "author": "PriorityLeft",
-      "commentCount": "160"
-    },
-    "FetchedAt": "2026-05-08T02:25:36.4835796+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48052537"
-    },
-    "Type": 1,
-    "Title": "Natural Language Autoencoders: Turning Claude\u0027s Thoughts into Text",
-    "Url": "https://www.anthropic.com/research/natural-language-autoencoders",
-    "Description": "Natural Language Autoencoders: Turning Claude\u0027s Thoughts into Text",
-    "Metadata": {
-      "score": "202",
-      "author": "instagraham",
-      "commentCount": "69"
-    },
-    "FetchedAt": "2026-05-08T02:25:36.5627667+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48056749"
-    },
-    "Type": 1,
-    "Title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
-    "Url": "https://github.com/robertdfrench/ifuncd-up",
-    "Description": "GNU IFUNC is the real culprit behind CVE-2024-3094",
-    "Metadata": {
-      "score": "20",
-      "author": "foltik",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-05-08T02:25:36.7223079+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48050278"
-    },
-    "Type": 1,
-    "Title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-    "Url": "https://deepmind.google/blog/alphaevolve-impact/",
-    "Description": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-    "Metadata": {
-      "score": "245",
-      "author": "berlianta",
-      "commentCount": "102"
-    },
-    "FetchedAt": "2026-05-08T02:25:36.8197868+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48050751"
-    },
-    "Type": 1,
-    "Title": "DeepSeek 4 Flash local inference engine for Metal",
-    "Url": "https://github.com/antirez/ds4",
-    "Description": "DeepSeek 4 Flash local inference engine for Metal",
-    "Metadata": {
-      "score": "301",
-      "author": "tamnd",
-      "commentCount": "85"
-    },
-    "FetchedAt": "2026-05-08T02:25:36.8952663+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48056158"
-    },
-    "Type": 1,
-    "Title": "Nonprofit hospitals spend billions on consultants with no clear effect",
-    "Url": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
-    "Description": "Nonprofit hospitals spend billions on consultants with no clear effect",
-    "Metadata": {
-      "score": "71",
-      "author": "hhs",
-      "commentCount": "23"
-    },
-    "FetchedAt": "2026-05-08T02:25:36.953712+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48027346"
     },
     "Type": 1,
@@ -208,21 +28,6 @@
       "commentCount": "4"
     },
     "FetchedAt": "2026-05-08T02:25:37.0115533+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48053203"
-    },
-    "Type": 1,
-    "Title": "AI slop is killing online communities",
-    "Url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-    "Description": "AI slop is killing online communities",
-    "Metadata": {
-      "score": "460",
-      "author": "thm",
-      "commentCount": "447"
-    },
-    "FetchedAt": "2026-05-08T02:25:37.0680248+00:00"
   },
   {
     "ExternalId": {
@@ -253,36 +58,6 @@
       "commentCount": "5"
     },
     "FetchedAt": "2026-05-08T02:25:37.1828516+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48053842"
-    },
-    "Type": 1,
-    "Title": "Two Home Affairs officials suspended after AI \u0027hallucinations\u0027 found",
-    "Url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
-    "Description": "Two Home Affairs officials suspended after AI \u0027hallucinations\u0027 found",
-    "Metadata": {
-      "score": "56",
-      "author": "jruohonen",
-      "commentCount": "15"
-    },
-    "FetchedAt": "2026-05-08T02:25:37.2396043+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48050499"
-    },
-    "Type": 1,
-    "Title": "I want to live like Costco people",
-    "Url": "https://tastecooking.com/i-want-to-live-like-costco-people/",
-    "Description": "I want to live like Costco people",
-    "Metadata": {
-      "score": "245",
-      "author": "speckx",
-      "commentCount": "510"
-    },
-    "FetchedAt": "2026-05-08T02:25:37.2967037+00:00"
   },
   {
     "ExternalId": {
@@ -391,21 +166,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48056359"
-    },
-    "Type": 1,
-    "Title": "Gambling ads on social media reach more than twice as many men as women: study",
-    "Url": "https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women",
-    "Description": "Gambling ads on social media reach more than twice as many men as women: study",
-    "Metadata": {
-      "score": "7",
-      "author": "hhs",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-05-08T02:25:37.7520815+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48049764"
     },
     "Type": 1,
@@ -421,21 +181,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48053770"
-    },
-    "Type": 1,
-    "Title": "Creating for a niche",
-    "Url": "https://www.davesnider.com/posts/working-in-a-niche",
-    "Description": "Creating for a niche",
-    "Metadata": {
-      "score": "31",
-      "author": "snide",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-05-08T02:25:37.8671476+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48045939"
     },
     "Type": 1,
@@ -448,5 +193,455 @@
       "commentCount": "74"
     },
     "FetchedAt": "2026-05-08T02:25:37.9252014+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48055913"
+    },
+    "Type": 1,
+    "Title": "Canvas is down as ShinyHunters threatens to leak schools\u2019 data",
+    "Url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;thetech.com\u0026#x2F;2026\u0026#x2F;05\u0026#x2F;07\u0026#x2F;canvas-breach-26\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;thetech.com\u0026#x2F;2026\u0026#x2F;05\u0026#x2F;07\u0026#x2F;canvas-breach-26\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;techcrunch.com\u0026#x2F;2026\u0026#x2F;05\u0026#x2F;07\u0026#x2F;hackers-deface-school-login-pages-after-claiming-another-instructure-hack\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;techcrunch.com\u0026#x2F;2026\u0026#x2F;05\u0026#x2F;07\u0026#x2F;hackers-deface-school-logi...\u003C/a\u003E",
+    "Metadata": {
+      "score": "553",
+      "author": "stefanpie",
+      "commentCount": "341"
+    },
+    "FetchedAt": "2026-05-08T07:19:26.3371174+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48056227"
+    },
+    "Type": 1,
+    "Title": "Maybe you shouldn\u0027t install new software for a bit",
+    "Url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+    "Description": "Maybe you shouldn\u0027t install new software for a bit",
+    "Metadata": {
+      "score": "419",
+      "author": "psxuaw",
+      "commentCount": "212"
+    },
+    "FetchedAt": "2026-05-08T07:19:26.3660987+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48054423"
+    },
+    "Type": 1,
+    "Title": "Cloudflare to cut about 20% workforce",
+    "Url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;blog.cloudflare.com\u0026#x2F;building-for-the-future\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;blog.cloudflare.com\u0026#x2F;building-for-the-future\u0026#x2F;\u003C/a\u003E",
+    "Metadata": {
+      "score": "604",
+      "author": "PriorityLeft",
+      "commentCount": "361"
+    },
+    "FetchedAt": "2026-05-08T07:19:26.3952398+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48053623"
+    },
+    "Type": 1,
+    "Title": "Dirtyfrag: Universal Linux LPE",
+    "Url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+    "Description": "Dirtyfrag: Universal Linux LPE",
+    "Metadata": {
+      "score": "581",
+      "author": "flipped",
+      "commentCount": "231"
+    },
+    "FetchedAt": "2026-05-08T07:19:26.424217+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48058644"
+    },
+    "Type": 1,
+    "Title": "Blaise \u2013 A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+    "Url": "https://github.com/graemeg/blaise",
+    "Description": "Blaise \u2013 A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+    "Metadata": {
+      "score": "31",
+      "author": "peter_d_sherman",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-05-08T07:19:26.4536546+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48035420"
+    },
+    "Type": 1,
+    "Title": "Pinocchio is weirder than you remembered",
+    "Url": "https://storica.club/blog/pinocchio-in-italian/",
+    "Description": "Pinocchio is weirder than you remembered",
+    "Metadata": {
+      "score": "115",
+      "author": "cemsakarya",
+      "commentCount": "40"
+    },
+    "FetchedAt": "2026-05-08T07:19:26.4829204+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48049653"
+    },
+    "Type": 1,
+    "Title": "The map that keeps Burning Man honest",
+    "Url": "https://www.not-ship.com/burning-man-moop/",
+    "Description": "The map that keeps Burning Man honest",
+    "Metadata": {
+      "score": "619",
+      "author": "speckx",
+      "commentCount": "310"
+    },
+    "FetchedAt": "2026-05-08T07:19:26.5124073+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48051562"
+    },
+    "Type": 1,
+    "Title": "Agents need control flow, not more prompts",
+    "Url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+    "Description": "Agents need control flow, not more prompts",
+    "Metadata": {
+      "score": "435",
+      "author": "bsuh",
+      "commentCount": "212"
+    },
+    "FetchedAt": "2026-05-08T07:19:26.5412892+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48021023"
+    },
+    "Type": 1,
+    "Title": "A polynomial autoencoder beats PCA on transformer embeddings",
+    "Url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
+    "Description": "A polynomial autoencoder beats PCA on transformer embeddings",
+    "Metadata": {
+      "score": "17",
+      "author": "timvisee",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-05-08T07:19:26.569987+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48032393"
+    },
+    "Type": 1,
+    "Title": "Inventing Cyrillic",
+    "Url": "https://www.historytoday.com/archive/history-matters/inventing-cyrillic",
+    "Description": "Inventing Cyrillic",
+    "Metadata": {
+      "score": "18",
+      "author": "lermontov",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-08T07:19:26.5992826+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48056749"
+    },
+    "Type": 1,
+    "Title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
+    "Url": "https://github.com/robertdfrench/ifuncd-up",
+    "Description": "GNU IFUNC is the real culprit behind CVE-2024-3094",
+    "Metadata": {
+      "score": "69",
+      "author": "foltik",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-05-08T07:19:26.629022+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48056359"
+    },
+    "Type": 1,
+    "Title": "Gambling ads on social media reach more than twice as many men as women: study",
+    "Url": "https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women",
+    "Description": "Gambling ads on social media reach more than twice as many men as women: study",
+    "Metadata": {
+      "score": "55",
+      "author": "hhs",
+      "commentCount": "41"
+    },
+    "FetchedAt": "2026-05-08T07:19:26.6578339+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48052537"
+    },
+    "Type": 1,
+    "Title": "Natural Language Autoencoders: Turning Claude\u0027s Thoughts into Text",
+    "Url": "https://www.anthropic.com/research/natural-language-autoencoders",
+    "Description": "Natural Language Autoencoders: Turning Claude\u0027s Thoughts into Text",
+    "Metadata": {
+      "score": "256",
+      "author": "instagraham",
+      "commentCount": "86"
+    },
+    "FetchedAt": "2026-05-08T07:19:26.686529+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48036746"
+    },
+    "Type": 1,
+    "Title": "How to make SSE token streams resumable, cancellable, and multi-device",
+    "Url": "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/",
+    "Description": "How to make SSE token streams resumable, cancellable, and multi-device",
+    "Metadata": {
+      "score": "19",
+      "author": "zknill",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-08T07:19:26.7150553+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48036622"
+    },
+    "Type": 1,
+    "Title": "Los Alamos and the long path to detecting neutrinos",
+    "Url": "https://www.lanl.gov/media/publications/1663/from-ghost-particle-to-cosmic-messenger",
+    "Description": "Los Alamos and the long path to detecting neutrinos",
+    "Metadata": {
+      "score": "28",
+      "author": "LAsteNERD",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-05-08T07:19:26.7436514+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48056268"
+    },
+    "Type": 1,
+    "Title": "Plasticity and language in the anaesthetized human hippocampus",
+    "Url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.nature.com\u0026#x2F;articles\u0026#x2F;s41586-026-10448-0\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.nature.com\u0026#x2F;articles\u0026#x2F;s41586-026-10448-0\u003C/a\u003E",
+    "Metadata": {
+      "score": "95",
+      "author": "hhs",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-05-08T07:19:26.7722759+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48050278"
+    },
+    "Type": 1,
+    "Title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+    "Url": "https://deepmind.google/blog/alphaevolve-impact/",
+    "Description": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+    "Metadata": {
+      "score": "284",
+      "author": "berlianta",
+      "commentCount": "122"
+    },
+    "FetchedAt": "2026-05-08T07:19:26.8009217+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48050751"
+    },
+    "Type": 1,
+    "Title": "DeepSeek 4 Flash local inference engine for Metal",
+    "Url": "https://github.com/antirez/ds4",
+    "Description": "DeepSeek 4 Flash local inference engine for Metal",
+    "Metadata": {
+      "score": "361",
+      "author": "tamnd",
+      "commentCount": "99"
+    },
+    "FetchedAt": "2026-05-08T07:19:26.8302435+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48058337"
+    },
+    "Type": 1,
+    "Title": "Digging into Drama at the Document Foundation",
+    "Url": "https://lwn.net/Articles/1066418/",
+    "Description": "Digging into Drama at the Document Foundation",
+    "Metadata": {
+      "score": "13",
+      "author": "signa11",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-08T07:19:26.8598325+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48052371"
+    },
+    "Type": 1,
+    "Title": "Brazil\u0027s Pix payment system faces pressure from Visa and Mastercard",
+    "Url": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
+    "Description": "Brazil\u0027s Pix payment system faces pressure from Visa and Mastercard",
+    "Metadata": {
+      "score": "169",
+      "author": "wslh",
+      "commentCount": "119"
+    },
+    "FetchedAt": "2026-05-08T07:19:26.8884576+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48057901"
+    },
+    "Type": 1,
+    "Title": "Mojo 1.0 Beta",
+    "Url": "https://mojolang.org/",
+    "Description": "Mojo 1.0 Beta",
+    "Metadata": {
+      "score": "71",
+      "author": "sbt567",
+      "commentCount": "45"
+    },
+    "FetchedAt": "2026-05-08T07:19:26.917386+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48053203"
+    },
+    "Type": 1,
+    "Title": "AI slop is killing online communities",
+    "Url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+    "Description": "AI slop is killing online communities",
+    "Metadata": {
+      "score": "600",
+      "author": "thm",
+      "commentCount": "536"
+    },
+    "FetchedAt": "2026-05-08T07:19:26.9464378+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48032968"
+    },
+    "Type": 1,
+    "Title": "Singapore introduces caning for boys who bully others at school",
+    "Url": "https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies",
+    "Description": "Singapore introduces caning for boys who bully others at school",
+    "Metadata": {
+      "score": "150",
+      "author": "rustoo",
+      "commentCount": "171"
+    },
+    "FetchedAt": "2026-05-08T07:19:26.9750992+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48051079"
+    },
+    "Type": 1,
+    "Title": "Hardening Firefox with Claude Mythos Preview",
+    "Url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;arstechnica.com\u0026#x2F;information-technology\u0026#x2F;2026\u0026#x2F;05\u0026#x2F;mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;arstechnica.com\u0026#x2F;information-technology\u0026#x2F;2026\u0026#x2F;05\u0026#x2F;mozil...\u003C/a\u003E",
+    "Metadata": {
+      "score": "159",
+      "author": "HieronymusBosch",
+      "commentCount": "82"
+    },
+    "FetchedAt": "2026-05-08T07:19:27.0068824+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48056158"
+    },
+    "Type": 1,
+    "Title": "Nonprofit hospitals spend billions on consultants with no clear effect",
+    "Url": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
+    "Description": "Nonprofit hospitals spend billions on consultants with no clear effect",
+    "Metadata": {
+      "score": "133",
+      "author": "hhs",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-05-08T07:19:27.0357717+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48053842"
+    },
+    "Type": 1,
+    "Title": "Two Home Affairs officials suspended after AI \u0027hallucinations\u0027 found",
+    "Url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+    "Description": "Two Home Affairs officials suspended after AI \u0027hallucinations\u0027 found",
+    "Metadata": {
+      "score": "81",
+      "author": "jruohonen",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-05-08T07:19:27.0641137+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48050499"
+    },
+    "Type": 1,
+    "Title": "I want to live like Costco people",
+    "Url": "https://tastecooking.com/i-want-to-live-like-costco-people/",
+    "Description": "I want to live like Costco people",
+    "Metadata": {
+      "score": "282",
+      "author": "speckx",
+      "commentCount": "588"
+    },
+    "FetchedAt": "2026-05-08T07:19:27.0936037+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48040269"
+    },
+    "Type": 1,
+    "Title": "Programming Still Sucks",
+    "Url": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
+    "Description": "Programming Still Sucks",
+    "Metadata": {
+      "score": "590",
+      "author": "jeromechoo",
+      "commentCount": "295"
+    },
+    "FetchedAt": "2026-05-08T07:19:27.123237+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48053770"
+    },
+    "Type": 1,
+    "Title": "Creating for a niche",
+    "Url": "https://www.davesnider.com/posts/working-in-a-niche",
+    "Description": "Creating for a niche",
+    "Metadata": {
+      "score": "58",
+      "author": "snide",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-05-08T07:19:27.1516043+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48058340"
+    },
+    "Type": 1,
+    "Title": "US will start revoking passports for parents who owe child support",
+    "Url": "https://apnews.com/article/passports-unpaid-child-support-penalty-state-department-42d90cfa8a06ee349bb9145f668919b6",
+    "Description": "US will start revoking passports for parents who owe child support",
+    "Metadata": {
+      "score": "42",
+      "author": "OutOfHere",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-05-08T07:19:27.180315+00:00"
   }
 ]
