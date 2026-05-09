@@ -1,10 +1,12 @@
 name: Deploy to GitHub Pages
 
 on:
+  workflow_run:
+    workflows: ["Daily Digest"]
+    types: [completed]
   push:
     paths:
       - 'pages/**'
-      - 'data/digests/**'
   workflow_dispatch:
 
 permissions:
@@ -13,6 +15,7 @@ permissions:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     steps:
       - uses: actions/checkout@v4
 
