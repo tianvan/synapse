@@ -286,156 +286,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48082968"
-    },
-    "Type": 1,
-    "Title": "Space Cadet Pinball on Linux",
-    "Url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
-    "Description": "Space Cadet Pinball on Linux",
-    "Metadata": {
-      "score": "75",
-      "author": "jandeboevrie",
-      "commentCount": "20"
-    },
-    "FetchedAt": "2026-05-10T13:01:35.3505822+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48073201"
-    },
-    "Type": 1,
-    "Title": "I returned to AWS, and was reminded why I left",
-    "Url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
-    "Description": "I returned to AWS, and was reminded why I left",
-    "Metadata": {
-      "score": "72",
-      "author": "andrewstuart",
-      "commentCount": "23"
-    },
-    "FetchedAt": "2026-05-10T13:01:35.3804298+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48047930"
-    },
-    "Type": 1,
-    "Title": "Idempotency Is Easy Until the Second Request Is Different",
-    "Url": "https://blog.dochia.dev/blog/idempotency/",
-    "Description": "Idempotency Is Easy Until the Second Request Is Different",
-    "Metadata": {
-      "score": "134",
-      "author": "ludovicianul",
-      "commentCount": "59"
-    },
-    "FetchedAt": "2026-05-10T13:01:35.4085439+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48073680"
-    },
-    "Type": 1,
-    "Title": "Bun\u0027s experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-    "Url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xunroll.com\u0026#x2F;thread\u0026#x2F;2053047748191232310\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xunroll.com\u0026#x2F;thread\u0026#x2F;2053047748191232310\u003C/a\u003E\u003Cp\u003ERecent and related: \u003Ci\u003EZig \u2192 Rust porting guide\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48016880\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48016880\u003C/a\u003E - May 2026 (540 comments)",
-    "Metadata": {
-      "score": "611",
-      "author": "heldrida",
-      "commentCount": "587"
-    },
-    "FetchedAt": "2026-05-10T13:01:35.4360125+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48048684"
-    },
-    "Type": 1,
-    "Title": "The One Dollar Counterfeiter",
-    "Url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
-    "Description": "The One Dollar Counterfeiter",
-    "Metadata": {
-      "score": "193",
-      "author": "cainxinth",
-      "commentCount": "68"
-    },
-    "FetchedAt": "2026-05-10T13:01:35.4632459+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48080587"
-    },
-    "Type": 1,
-    "Title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-    "Url": "https://github.com/imtomt/ymawky",
-    "Description": "This is ymawky, a static file web server for MacOS written entirely in ARM64 assembly. It supports GET, PUT, DELETE, HEAD, and OPTIONS requests, and supports Range: bytes=X-Y headers (which allows scrubbing for video streaming). It decodes percent-encoded URLs, strictly enforces docroot, serves custom error pages for any HTTP error response, supports directory listing, and has (some) mitigations against slowloris-like attacks.\u003Cp\u003EI\u2019ve also written a more detailed writeup here: \u003Ca href=\u0022https:\u0026#x2",
-    "Metadata": {
-      "score": "321",
-      "author": "imtomt",
-      "commentCount": "150"
-    },
-    "FetchedAt": "2026-05-10T13:01:35.4991568+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48048407"
-    },
-    "Type": 1,
-    "Title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
-    "Url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
-    "Description": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
-    "Metadata": {
-      "score": "180",
-      "author": "dr_kiszonka",
-      "commentCount": "79"
-    },
-    "FetchedAt": "2026-05-10T13:01:35.5281407+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48083251"
-    },
-    "Type": 1,
-    "Title": "9 Mothers (YC P26) Is Hiring",
-    "Url": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
-    "Description": "9 Mothers (YC P26) Is Hiring",
-    "Metadata": {
-      "score": "1",
-      "author": "ukd1",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-05-10T13:01:35.5566867+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48037223"
-    },
-    "Type": 1,
-    "Title": "We see something that works, and then we understand it",
-    "Url": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
-    "Description": "We see something that works, and then we understand it",
-    "Metadata": {
-      "score": "133",
-      "author": "surprisetalk",
-      "commentCount": "46"
-    },
-    "FetchedAt": "2026-05-10T13:01:35.5849172+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48074265"
-    },
-    "Type": 1,
-    "Title": "Internet Archive Switzerland",
-    "Url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;internetarchive.ch\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;internetarchive.ch\u0026#x2F;\u003C/a\u003E",
-    "Metadata": {
-      "score": "637",
-      "author": "hggh",
-      "commentCount": "104"
-    },
-    "FetchedAt": "2026-05-10T13:01:35.6127774+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48080702"
     },
     "Type": 1,
@@ -451,36 +301,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48082396"
-    },
-    "Type": 1,
-    "Title": "Think Linear Algebra (2023)",
-    "Url": "https://allendowney.github.io/ThinkLinearAlgebra/index.html",
-    "Description": "Think Linear Algebra (2023)",
-    "Metadata": {
-      "score": "16",
-      "author": "tamnd",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-05-10T13:01:35.6696324+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48076173"
-    },
-    "Type": 1,
-    "Title": "I\u2019ve banned query strings",
-    "Url": "https://chrismorgan.info/no-query-strings",
-    "Description": "Related: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;susam.net\u0026#x2F;no-query-strings.html\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;susam.net\u0026#x2F;no-query-strings.html\u003C/a\u003E",
-    "Metadata": {
-      "score": "455",
-      "author": "susam",
-      "commentCount": "237"
-    },
-    "FetchedAt": "2026-05-10T13:01:35.697341+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48082676"
     },
     "Type": 1,
@@ -493,21 +313,6 @@
       "commentCount": "6"
     },
     "FetchedAt": "2026-05-10T13:01:35.7249257+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48083007"
-    },
-    "Type": 1,
-    "Title": "What\u0027s a Mathematician to Do?",
-    "Url": "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do",
-    "Description": "What\u0027s a Mathematician to Do?",
-    "Metadata": {
-      "score": "5",
-      "author": "ipnon",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-05-10T13:01:35.7525274+00:00"
   },
   {
     "ExternalId": {
@@ -616,21 +421,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48081469"
-    },
-    "Type": 1,
-    "Title": "Task Paralysis and AI",
-    "Url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
-    "Description": "Task Paralysis and AI",
-    "Metadata": {
-      "score": "51",
-      "author": "MrGilbert",
-      "commentCount": "42"
-    },
-    "FetchedAt": "2026-05-10T13:01:35.9790395+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48039249"
     },
     "Type": 1,
@@ -733,5 +523,455 @@
       "commentCount": "262"
     },
     "FetchedAt": "2026-05-10T13:01:36.17735+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48086190"
+    },
+    "Type": 1,
+    "Title": "Hardware Attestation as Monopoly Enabler",
+    "Url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+    "Description": "Hardware Attestation as Monopoly Enabler",
+    "Metadata": {
+      "score": "172",
+      "author": "ChuckMcM",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-05-10T18:51:12.7322018+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48086082"
+    },
+    "Type": 1,
+    "Title": "Incident Report: CVE-2024-YIKES",
+    "Url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+    "Description": "Incident Report: CVE-2024-YIKES",
+    "Metadata": {
+      "score": "72",
+      "author": "miniBill",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-05-10T18:51:12.7467043+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48085782"
+    },
+    "Type": 1,
+    "Title": "Tracesofhumanity.org by Joanna Rutkowska",
+    "Url": "https://tracesofhumanity.org/hello-world/",
+    "Description": "Tracesofhumanity.org by Joanna Rutkowska",
+    "Metadata": {
+      "score": "51",
+      "author": "alex77456",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-05-10T18:51:12.7610877+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48075429"
+    },
+    "Type": 1,
+    "Title": "Walking slower? Your ears, not your knees, might be the problem",
+    "Url": "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;m4P4K\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;m4P4K\u003C/a\u003E",
+    "Metadata": {
+      "score": "43",
+      "author": "marc__1",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-05-10T18:51:12.7758904+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48073201"
+    },
+    "Type": 1,
+    "Title": "I returned to AWS and was reminded why I left",
+    "Url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
+    "Description": "I returned to AWS and was reminded why I left",
+    "Metadata": {
+      "score": "474",
+      "author": "andrewstuart",
+      "commentCount": "368"
+    },
+    "FetchedAt": "2026-05-10T18:51:12.7892404+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48047930"
+    },
+    "Type": 1,
+    "Title": "Idempotency is easy until the second request is different",
+    "Url": "https://blog.dochia.dev/blog/idempotency/",
+    "Description": "Idempotency is easy until the second request is different",
+    "Metadata": {
+      "score": "231",
+      "author": "ludovicianul",
+      "commentCount": "140"
+    },
+    "FetchedAt": "2026-05-10T18:51:12.8028103+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48085055"
+    },
+    "Type": 1,
+    "Title": "The Locals Don\u0027t Know",
+    "Url": "https://www.quarter--mile.com/The-Locals-Dont-Know",
+    "Description": "The Locals Don\u0027t Know",
+    "Metadata": {
+      "score": "13",
+      "author": "herbertl",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-05-10T18:51:12.8170241+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48084432"
+    },
+    "Type": 1,
+    "Title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
+    "Url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
+    "Description": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
+    "Metadata": {
+      "score": "258",
+      "author": "iancmceachern",
+      "commentCount": "169"
+    },
+    "FetchedAt": "2026-05-10T18:51:12.8303772+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48064789"
+    },
+    "Type": 1,
+    "Title": "5x perf increase on writes with FPW disabled in Postgres",
+    "Url": "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes",
+    "Description": "5x perf increase on writes with FPW disabled in Postgres",
+    "Metadata": {
+      "score": "34",
+      "author": "sp_from_db",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-05-10T18:51:12.8446484+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48082968"
+    },
+    "Type": 1,
+    "Title": "Space Cadet Pinball on Linux",
+    "Url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
+    "Description": "Space Cadet Pinball on Linux",
+    "Metadata": {
+      "score": "257",
+      "author": "jandeboevrie",
+      "commentCount": "84"
+    },
+    "FetchedAt": "2026-05-10T18:51:12.8590593+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48083007"
+    },
+    "Type": 1,
+    "Title": "What\u0027s a mathematician to do? (2010)",
+    "Url": "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do",
+    "Description": "What\u0027s a mathematician to do? (2010)",
+    "Metadata": {
+      "score": "110",
+      "author": "ipnon",
+      "commentCount": "57"
+    },
+    "FetchedAt": "2026-05-10T18:51:12.87375+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48073680"
+    },
+    "Type": 1,
+    "Title": "Bun\u0027s experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+    "Url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xunroll.com\u0026#x2F;thread\u0026#x2F;2053047748191232310\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xunroll.com\u0026#x2F;thread\u0026#x2F;2053047748191232310\u003C/a\u003E\u003Cp\u003ERecent and related: \u003Ci\u003EZig \u2192 Rust porting guide\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48016880\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48016880\u003C/a\u003E - May 2026 (540 comments)",
+    "Metadata": {
+      "score": "678",
+      "author": "heldrida",
+      "commentCount": "644"
+    },
+    "FetchedAt": "2026-05-10T18:51:12.8882463+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48085330"
+    },
+    "Type": 1,
+    "Title": "Spain just became one of Europe\u0027s cheapest power markets. Here is how",
+    "Url": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes",
+    "Description": "Spain just became one of Europe\u0027s cheapest power markets. Here is how",
+    "Metadata": {
+      "score": "49",
+      "author": "marc__1",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-05-10T18:51:12.9017616+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48061602"
+    },
+    "Type": 1,
+    "Title": "Stop MitM on the first SSH connection, on any VPS or cloud provider",
+    "Url": "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html",
+    "Description": "Stop MitM on the first SSH connection, on any VPS or cloud provider",
+    "Metadata": {
+      "score": "9",
+      "author": "JoachimSchipper",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-05-10T18:51:12.9170987+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48048684"
+    },
+    "Type": 1,
+    "Title": "The One Dollar Counterfeiter",
+    "Url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
+    "Description": "The One Dollar Counterfeiter",
+    "Metadata": {
+      "score": "281",
+      "author": "cainxinth",
+      "commentCount": "119"
+    },
+    "FetchedAt": "2026-05-10T18:51:12.9312924+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48080587"
+    },
+    "Type": 1,
+    "Title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+    "Url": "https://github.com/imtomt/ymawky",
+    "Description": "This is ymawky, a static file web server for MacOS written entirely in ARM64 assembly. It supports GET, PUT, DELETE, HEAD, and OPTIONS requests, and supports Range: bytes=X-Y headers (which allows scrubbing for video streaming). It decodes percent-encoded URLs, strictly enforces docroot, serves custom error pages for any HTTP error response, supports directory listing, and has (some) mitigations against slowloris-like attacks.\u003Cp\u003EI\u2019ve also written a more detailed writeup here: \u003Ca href=\u0022https:\u0026#x2",
+    "Metadata": {
+      "score": "355",
+      "author": "imtomt",
+      "commentCount": "192"
+    },
+    "FetchedAt": "2026-05-10T18:51:12.9455144+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48084547"
+    },
+    "Type": 1,
+    "Title": "Shunting-Yard Animation",
+    "Url": "https://somethingorotherwhatever.com/shunting-yard-animation/",
+    "Description": "Shunting-Yard Animation",
+    "Metadata": {
+      "score": "25",
+      "author": "s1291",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-05-10T18:51:12.9589023+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48082396"
+    },
+    "Type": 1,
+    "Title": "Think Linear Algebra (2023)",
+    "Url": "https://allendowney.github.io/ThinkLinearAlgebra/index.html",
+    "Description": "Think Linear Algebra (2023)",
+    "Metadata": {
+      "score": "107",
+      "author": "tamnd",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-05-10T18:51:12.9727161+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48083580"
+    },
+    "Type": 1,
+    "Title": "Show HN: An index of indie web/blog indexes",
+    "Url": "https://theindex.fyi",
+    "Description": "I saw a comment here about how there are so many indexes of indie sites, blogs, etc but there wasn\u0026#x27;t an index of all the indexes. So I built it. It doesn\u0026#x27;t require a log in, just go browse! I\u0026#x27;ve curated about 30 or so, but there is a submission form if there are ones I am missing.\u003Cp\u003EAlso happy to take UI improvements because I am not great in that area!",
+    "Metadata": {
+      "score": "34",
+      "author": "rocketpastsix",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-05-10T18:51:12.9861235+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48083251"
+    },
+    "Type": 1,
+    "Title": "9 Mothers (YC P26) Is Hiring",
+    "Url": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
+    "Description": "9 Mothers (YC P26) Is Hiring",
+    "Metadata": {
+      "score": "1",
+      "author": "ukd1",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-10T18:51:13.0119163+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48081469"
+    },
+    "Type": 1,
+    "Title": "Task Paralysis and AI",
+    "Url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+    "Description": "Task Paralysis and AI",
+    "Metadata": {
+      "score": "127",
+      "author": "MrGilbert",
+      "commentCount": "79"
+    },
+    "FetchedAt": "2026-05-10T18:51:13.0263887+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48074265"
+    },
+    "Type": 1,
+    "Title": "Internet Archive Switzerland",
+    "Url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;internetarchive.ch\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;internetarchive.ch\u0026#x2F;\u003C/a\u003E",
+    "Metadata": {
+      "score": "671",
+      "author": "hggh",
+      "commentCount": "108"
+    },
+    "FetchedAt": "2026-05-10T18:51:13.0407097+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48048407"
+    },
+    "Type": 1,
+    "Title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
+    "Url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
+    "Description": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
+    "Metadata": {
+      "score": "267",
+      "author": "dr_kiszonka",
+      "commentCount": "121"
+    },
+    "FetchedAt": "2026-05-10T18:51:13.0555918+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48049577"
+    },
+    "Type": 1,
+    "Title": "The River Otter\u0027s Remarkable Comeback",
+    "Url": "https://www.rewildingmag.com/the-river-otters-remarkable-comeback/",
+    "Description": "The River Otter\u0027s Remarkable Comeback",
+    "Metadata": {
+      "score": "63",
+      "author": "surprisetalk",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-05-10T18:51:13.0705056+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48076173"
+    },
+    "Type": 1,
+    "Title": "I\u2019ve banned query strings",
+    "Url": "https://chrismorgan.info/no-query-strings",
+    "Description": "Related: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;susam.net\u0026#x2F;no-query-strings.html\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;susam.net\u0026#x2F;no-query-strings.html\u003C/a\u003E",
+    "Metadata": {
+      "score": "511",
+      "author": "susam",
+      "commentCount": "268"
+    },
+    "FetchedAt": "2026-05-10T18:51:13.0853459+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48083919"
+    },
+    "Type": 1,
+    "Title": "Academic Research Skills for Claude Code",
+    "Url": "https://github.com/Imbad0202/academic-research-skills",
+    "Description": "Academic Research Skills for Claude Code",
+    "Metadata": {
+      "score": "59",
+      "author": "arnon",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-05-10T18:51:13.1013143+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48084710"
+    },
+    "Type": 1,
+    "Title": "Chrome\u0027s AI features may be hogging 4GB of your computer storage",
+    "Url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+    "Description": "Chrome\u0027s AI features may be hogging 4GB of your computer storage",
+    "Metadata": {
+      "score": "58",
+      "author": "birdculture",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-05-10T18:51:13.1229554+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48037223"
+    },
+    "Type": 1,
+    "Title": "We see something that works, and then we understand it",
+    "Url": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
+    "Description": "We see something that works, and then we understand it",
+    "Metadata": {
+      "score": "170",
+      "author": "surprisetalk",
+      "commentCount": "66"
+    },
+    "FetchedAt": "2026-05-10T18:51:13.1574433+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48085095"
+    },
+    "Type": 1,
+    "Title": "GitHub is sinking",
+    "Url": "https://dbushell.com/2026/04/29/github-is-sinking/",
+    "Description": "GitHub is sinking",
+    "Metadata": {
+      "score": "100",
+      "author": "herbertl",
+      "commentCount": "71"
+    },
+    "FetchedAt": "2026-05-10T18:51:13.1863838+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48082039"
+    },
+    "Type": 1,
+    "Title": "Rotten Dot Com",
+    "Url": "https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/",
+    "Description": "Rotten Dot Com",
+    "Metadata": {
+      "score": "88",
+      "author": "lordgrenville",
+      "commentCount": "98"
+    },
+    "FetchedAt": "2026-05-10T18:51:13.2386303+00:00"
   }
 ]

@@ -68,140 +68,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:bytedance/UI-TARS-desktop"
-    },
-    "Type": 0,
-    "Title": "bytedance/UI-TARS-desktop",
-    "Url": "https://github.com/bytedance/UI-TARS-desktop",
-    "Description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-    "Metadata": {
-      "owner": "bytedance",
-      "repo": "UI-TARS-desktop",
-      "language": "TypeScript",
-      "stars": "656",
-      "topics": "agent, agent-tars, browser-use, computer-use, cowork, gui-agent, gui-operator, mcp, mcp-server, multimodal, tars, ui-tars, vision, vlm"
-    },
-    "FetchedAt": "2026-05-10T13:01:33.6076406+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:anthropics/financial-services"
-    },
-    "Type": 0,
-    "Title": "anthropics/financial-services",
-    "Url": "https://github.com/anthropics/financial-services",
-    "Description": "",
-    "Metadata": {
-      "owner": "anthropics",
-      "repo": "financial-services",
-      "language": "Python",
-      "stars": "1,479"
-    },
-    "FetchedAt": "2026-05-10T13:01:33.7536045+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:addyosmani/agent-skills"
-    },
-    "Type": 0,
-    "Title": "addyosmani/agent-skills",
-    "Url": "https://github.com/addyosmani/agent-skills",
-    "Description": "Production-grade engineering skills for AI coding agents.",
-    "Metadata": {
-      "owner": "addyosmani",
-      "repo": "agent-skills",
-      "language": "Shell",
-      "stars": "1,092",
-      "topics": "agent-skills, antigravity, antigravity-ide, claude-code, cursor, skills"
-    },
-    "FetchedAt": "2026-05-10T13:01:33.8697752+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:CloakHQ/CloakBrowser"
-    },
-    "Type": 0,
-    "Title": "CloakHQ/CloakBrowser",
-    "Url": "https://github.com/CloakHQ/CloakBrowser",
-    "Description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-    "Metadata": {
-      "owner": "CloakHQ",
-      "repo": "CloakBrowser",
-      "language": "Python",
-      "stars": "1,167",
-      "topics": "ai-agents, anti-detect, antidetect-browser, bot-detection, browser-automation, captcha-bypass, chromium, cloudflare, cloudflare-bypass, fingerprint, headless-browser, playwright, puppeteer, python, recaptcha, selenium, stealth-browser, undetected, web-scraping, webscraping"
-    },
-    "FetchedAt": "2026-05-10T13:01:33.9629053+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:HKUDS/AI-Trader"
-    },
-    "Type": 0,
-    "Title": "HKUDS/AI-Trader",
-    "Url": "https://github.com/HKUDS/AI-Trader",
-    "Description": "\u0022AI-Trader: 100% Fully-Automated Agent-Native Trading\u0022  ",
-    "Metadata": {
-      "owner": "HKUDS",
-      "repo": "AI-Trader",
-      "language": "Python",
-      "stars": "646"
-    },
-    "FetchedAt": "2026-05-10T13:01:34.0759209+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:jundot/omlx"
-    },
-    "Type": 0,
-    "Title": "jundot/omlx",
-    "Url": "https://github.com/jundot/omlx",
-    "Description": "LLM inference server with continuous batching \u0026 SSD caching for Apple Silicon \u2014 managed from the macOS menu bar",
-    "Metadata": {
-      "owner": "jundot",
-      "repo": "omlx",
-      "language": "Python",
-      "stars": "187",
-      "topics": "apple-silicon, inference-server, llm, macos, mlx, openai-api"
-    },
-    "FetchedAt": "2026-05-10T13:01:34.1852483+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:datawhalechina/easy-vibe"
-    },
-    "Type": 0,
-    "Title": "datawhalechina/easy-vibe",
-    "Url": "https://github.com/datawhalechina/easy-vibe",
-    "Description": "\uD83D\uDCBB vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
-    "Metadata": {
-      "owner": "datawhalechina",
-      "repo": "easy-vibe",
-      "language": "JavaScript",
-      "stars": "642",
-      "topics": "agent, ai, coding, course, deepseek, gemini, genai, gpt, llm, low-code, mcp, nextjs, no-code, openai, programming, tutorial, vibe-coding, vibecoding, vscode, workflow"
-    },
-    "FetchedAt": "2026-05-10T13:01:34.3042474+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:playcanvas/supersplat"
-    },
-    "Type": 0,
-    "Title": "playcanvas/supersplat",
-    "Url": "https://github.com/playcanvas/supersplat",
-    "Description": "3D Gaussian Splat Editor",
-    "Metadata": {
-      "owner": "playcanvas",
-      "repo": "supersplat",
-      "language": "TypeScript",
-      "stars": "604",
-      "topics": "3d-gaussian-splatting, 3dgs, gaussian-splatting, pcui, playcanvas, typescript, webgl, webgpu"
-    },
-    "FetchedAt": "2026-05-10T13:01:34.4645261+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:masterking32/MasterDnsVPN"
     },
     "Type": 0,
@@ -219,6 +85,140 @@
   },
   {
     "ExternalId": {
+      "Value": "github:bytedance/UI-TARS-desktop"
+    },
+    "Type": 0,
+    "Title": "bytedance/UI-TARS-desktop",
+    "Url": "https://github.com/bytedance/UI-TARS-desktop",
+    "Description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "Metadata": {
+      "owner": "bytedance",
+      "repo": "UI-TARS-desktop",
+      "language": "TypeScript",
+      "stars": "656",
+      "topics": "agent, agent-tars, browser-use, computer-use, cowork, gui-agent, gui-operator, mcp, mcp-server, multimodal, tars, ui-tars, vision, vlm"
+    },
+    "FetchedAt": "2026-05-10T18:51:11.3910048+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/financial-services"
+    },
+    "Type": 0,
+    "Title": "anthropics/financial-services",
+    "Url": "https://github.com/anthropics/financial-services",
+    "Description": "",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "financial-services",
+      "language": "Python",
+      "stars": "1,479"
+    },
+    "FetchedAt": "2026-05-10T18:51:11.5632955+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "Shell",
+      "stars": "1,092",
+      "topics": "agent-skills, antigravity, antigravity-ide, claude-code, cursor, skills"
+    },
+    "FetchedAt": "2026-05-10T18:51:11.6627135+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:CloakHQ/CloakBrowser"
+    },
+    "Type": 0,
+    "Title": "CloakHQ/CloakBrowser",
+    "Url": "https://github.com/CloakHQ/CloakBrowser",
+    "Description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+    "Metadata": {
+      "owner": "CloakHQ",
+      "repo": "CloakBrowser",
+      "language": "Python",
+      "stars": "567",
+      "topics": "ai-agents, anti-detect, antidetect-browser, bot-detection, browser-automation, captcha-bypass, chromium, cloudflare, cloudflare-bypass, fingerprint, headless-browser, playwright, puppeteer, python, recaptcha, selenium, stealth-browser, undetected, web-scraping, webscraping"
+    },
+    "FetchedAt": "2026-05-10T18:51:11.7398865+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/AI-Trader"
+    },
+    "Type": 0,
+    "Title": "HKUDS/AI-Trader",
+    "Url": "https://github.com/HKUDS/AI-Trader",
+    "Description": "\u0022AI-Trader: 100% Fully-Automated Agent-Native Trading\u0022  ",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "AI-Trader",
+      "language": "Python",
+      "stars": "255"
+    },
+    "FetchedAt": "2026-05-10T18:51:11.8323337+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jundot/omlx"
+    },
+    "Type": 0,
+    "Title": "jundot/omlx",
+    "Url": "https://github.com/jundot/omlx",
+    "Description": "LLM inference server with continuous batching \u0026 SSD caching for Apple Silicon \u2014 managed from the macOS menu bar",
+    "Metadata": {
+      "owner": "jundot",
+      "repo": "omlx",
+      "language": "Python",
+      "stars": "187",
+      "topics": "apple-silicon, inference-server, llm, macos, mlx, openai-api"
+    },
+    "FetchedAt": "2026-05-10T18:51:11.946525+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:datawhalechina/easy-vibe"
+    },
+    "Type": 0,
+    "Title": "datawhalechina/easy-vibe",
+    "Url": "https://github.com/datawhalechina/easy-vibe",
+    "Description": "\uD83D\uDCBB vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+    "Metadata": {
+      "owner": "datawhalechina",
+      "repo": "easy-vibe",
+      "language": "JavaScript",
+      "stars": "642",
+      "topics": "agent, ai, coding, course, deepseek, gemini, genai, gpt, llm, low-code, mcp, nextjs, no-code, openai, programming, tutorial, vibe-coding, vibecoding, vscode, workflow"
+    },
+    "FetchedAt": "2026-05-10T18:51:12.0218914+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:playcanvas/supersplat"
+    },
+    "Type": 0,
+    "Title": "playcanvas/supersplat",
+    "Url": "https://github.com/playcanvas/supersplat",
+    "Description": "3D Gaussian Splat Editor",
+    "Metadata": {
+      "owner": "playcanvas",
+      "repo": "supersplat",
+      "language": "TypeScript",
+      "stars": "604",
+      "topics": "3d-gaussian-splatting, 3dgs, gaussian-splatting, pcui, playcanvas, typescript, webgl, webgpu"
+    },
+    "FetchedAt": "2026-05-10T18:51:12.1657079+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:lsdefine/GenericAgent"
     },
     "Type": 0,
@@ -229,10 +229,10 @@
       "owner": "lsdefine",
       "repo": "GenericAgent",
       "language": "Python",
-      "stars": "538",
+      "stars": "170",
       "topics": "ai-agent, automation, autonomous-agent, browser-automation, claude, computer-control, desktop-automation, gemini, lightweight, llm-agent, memory-system, python, self-evolving, skill-tree, task-automation"
     },
-    "FetchedAt": "2026-05-10T13:01:34.6616043+00:00"
+    "FetchedAt": "2026-05-10T18:51:12.2486743+00:00"
   },
   {
     "ExternalId": {
@@ -249,7 +249,7 @@
       "stars": "806",
       "topics": "ai-agents, ai-gateway, anthropic, chatgpt, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, gemini-cli, llm, llm-gateway, openai, openai-proxy, qwen, token-saver"
     },
-    "FetchedAt": "2026-05-10T13:01:34.7637111+00:00"
+    "FetchedAt": "2026-05-10T18:51:12.3652496+00:00"
   },
   {
     "ExternalId": {
@@ -266,6 +266,6 @@
       "stars": "756",
       "topics": "agent, llm, rag, tutorial"
     },
-    "FetchedAt": "2026-05-10T13:01:34.857021+00:00"
+    "FetchedAt": "2026-05-10T18:51:12.467066+00:00"
   }
 ]
