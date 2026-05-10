@@ -1,0 +1,452 @@
+[
+  {
+    "ExternalId": {
+      "Value": "hn:48073680"
+    },
+    "Type": 1,
+    "Title": "Bun\u0027s experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+    "Url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xunroll.com\u0026#x2F;thread\u0026#x2F;2053047748191232310\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xunroll.com\u0026#x2F;thread\u0026#x2F;2053047748191232310\u003C/a\u003E\u003Cp\u003ERecent and related: \u003Ci\u003EZig \u2192 Rust porting guide\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48016880\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48016880\u003C/a\u003E - May 2026 (540 comments)",
+    "Metadata": {
+      "score": "429",
+      "author": "heldrida",
+      "commentCount": "412"
+    },
+    "FetchedAt": "2026-05-10T02:11:18.7750882+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48074265"
+    },
+    "Type": 1,
+    "Title": "Internet Archive Switzerland",
+    "Url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;internetarchive.ch\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;internetarchive.ch\u0026#x2F;\u003C/a\u003E",
+    "Metadata": {
+      "score": "539",
+      "author": "hggh",
+      "commentCount": "77"
+    },
+    "FetchedAt": "2026-05-10T02:11:18.8154131+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48049828"
+    },
+    "Type": 1,
+    "Title": "The Serial TTL connector we deserve",
+    "Url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
+    "Description": "The Serial TTL connector we deserve",
+    "Metadata": {
+      "score": "51",
+      "author": "kohlschuetter",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-05-10T02:11:18.8543013+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48076173"
+    },
+    "Type": 1,
+    "Title": "I\u2019ve banned query strings",
+    "Url": "https://chrismorgan.info/no-query-strings",
+    "Description": "Related: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;susam.net\u0026#x2F;no-query-strings.html\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;susam.net\u0026#x2F;no-query-strings.html\u003C/a\u003E",
+    "Metadata": {
+      "score": "269",
+      "author": "susam",
+      "commentCount": "152"
+    },
+    "FetchedAt": "2026-05-10T02:11:18.8895846+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48078575"
+    },
+    "Type": 1,
+    "Title": "Rust but Lisp",
+    "Url": "https://github.com/ThatXliner/rust-but-lisp",
+    "Description": "Rust but Lisp",
+    "Metadata": {
+      "score": "81",
+      "author": "thatxliner",
+      "commentCount": "40"
+    },
+    "FetchedAt": "2026-05-10T02:11:18.9258844+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48077971"
+    },
+    "Type": 1,
+    "Title": "Local privilege escalation via execve()",
+    "Url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+    "Description": "Local privilege escalation via execve()",
+    "Metadata": {
+      "score": "88",
+      "author": "Deeg9rie9usi",
+      "commentCount": "57"
+    },
+    "FetchedAt": "2026-05-10T02:11:18.9617079+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48076815"
+    },
+    "Type": 1,
+    "Title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+    "Url": "https://github.com/nooga/let-go",
+    "Description": "Let-go is a Clojure-like language (~90% compatible with JVM Clojure) written in pure Go. It ships as a ~10MB static binary and cold boots in ~7ms - that\u0026#x27;s about 50x faster than JVM and 3x faster than Babashka. It has decent throughput on algorithmic workloads - within ballpark of the GraalVM-backed sci.\u003Cp\u003EI started this project in 2021 as an elaborate practical joke: I wanted to have an excuse for writing Clojure while pretending to write Go.\u003Cp\u003EJokes aside, it turned out to be pretty decent",
+    "Metadata": {
+      "score": "93",
+      "author": "marcingas",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-05-10T02:11:18.9991379+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48076651"
+    },
+    "Type": 1,
+    "Title": "Zed Editor Theme-Builder",
+    "Url": "https://zed.dev/theme-builder",
+    "Description": "Zed Editor Theme-Builder",
+    "Metadata": {
+      "score": "158",
+      "author": "cuechan",
+      "commentCount": "44"
+    },
+    "FetchedAt": "2026-05-10T02:11:19.0351131+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48048902"
+    },
+    "Type": 1,
+    "Title": "Making your own programming language is easier than you think (but also harder)",
+    "Url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
+    "Description": "Making your own programming language is easier than you think (but also harder)",
+    "Metadata": {
+      "score": "51",
+      "author": "ibobev",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-05-10T02:11:19.0705381+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48076465"
+    },
+    "Type": 1,
+    "Title": "CPanel\u0027s Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+    "Url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+    "Description": "CPanel\u0027s Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+    "Metadata": {
+      "score": "110",
+      "author": "ggallas",
+      "commentCount": "60"
+    },
+    "FetchedAt": "2026-05-10T02:11:19.1070589+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48075366"
+    },
+    "Type": 1,
+    "Title": "Distributing Mac software is increasing my cortisol levels",
+    "Url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
+    "Description": "Distributing Mac software is increasing my cortisol levels",
+    "Metadata": {
+      "score": "210",
+      "author": "LorenDB",
+      "commentCount": "145"
+    },
+    "FetchedAt": "2026-05-10T02:11:19.1443776+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48038573"
+    },
+    "Type": 1,
+    "Title": "The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
+    "Url": "https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html",
+    "Description": "The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
+    "Metadata": {
+      "score": "19",
+      "author": "rsecora",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-10T02:11:19.1800343+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48039249"
+    },
+    "Type": 1,
+    "Title": "I\u0027m writing a history of Visual Basic, Chapter 1 is up",
+    "Url": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch",
+    "Description": "I\u0027m writing a history of Visual Basic, Chapter 1 is up",
+    "Metadata": {
+      "score": "19",
+      "author": "speckx",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-05-10T02:11:19.2160127+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48067786"
+    },
+    "Type": 1,
+    "Title": "Production engineering when trading billions of dollars a day [video]",
+    "Url": "https://www.youtube.com/watch?v=zR9PpXWsKFQ",
+    "Description": "Production engineering when trading billions of dollars a day [video]",
+    "Metadata": {
+      "score": "96",
+      "author": "abstrus",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-05-10T02:11:19.2516342+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48073246"
+    },
+    "Type": 1,
+    "Title": "LLMs corrupt your documents when you delegate",
+    "Url": "https://arxiv.org/abs/2604.15597",
+    "Description": "LLMs corrupt your documents when you delegate",
+    "Metadata": {
+      "score": "358",
+      "author": "rbanffy",
+      "commentCount": "138"
+    },
+    "FetchedAt": "2026-05-10T02:11:19.2874046+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48077395"
+    },
+    "Type": 1,
+    "Title": "Surfel-based global illumination on the web",
+    "Url": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
+    "Description": "Surfel-based global illumination on the web",
+    "Metadata": {
+      "score": "15",
+      "author": "vmg12",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-10T02:11:19.3234125+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48071262"
+    },
+    "Type": 1,
+    "Title": "A recent experience with ChatGPT 5.5 Pro",
+    "Url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;twitter.com\u0026#x2F;wtgowers\u0026#x2F;status\u0026#x2F;2052830948685676605\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;twitter.com\u0026#x2F;wtgowers\u0026#x2F;status\u0026#x2F;2052830948685676605\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;wtgowers\u0026#x2F;status\u0026#x2F;2052830948685676605\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;wtgowers\u0026#x2F;status\u0026#x2F;2052830948685676605\u003C/a\u003E",
+    "Metadata": {
+      "score": "608",
+      "author": "_alternator_",
+      "commentCount": "428"
+    },
+    "FetchedAt": "2026-05-10T02:11:19.3612271+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48077126"
+    },
+    "Type": 1,
+    "Title": "Meta\u0027s embrace of A.I. is making its employees miserable",
+    "Url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+    "Description": "Meta\u0027s embrace of A.I. is making its employees miserable",
+    "Metadata": {
+      "score": "300",
+      "author": "JumpCrisscross",
+      "commentCount": "265"
+    },
+    "FetchedAt": "2026-05-10T02:11:19.3965491+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48074952"
+    },
+    "Type": 1,
+    "Title": "The hypocrisy of cyberlibertarianism",
+    "Url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
+    "Description": "The hypocrisy of cyberlibertarianism",
+    "Metadata": {
+      "score": "265",
+      "author": "ColinWright",
+      "commentCount": "222"
+    },
+    "FetchedAt": "2026-05-10T02:11:19.4322214+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48072190"
+    },
+    "Type": 1,
+    "Title": "EU Parliamentary Research Service calls VPNs \u0022a loophole that needs closing\u0022",
+    "Url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
+    "Description": "EU Parliamentary Research Service calls VPNs \u0022a loophole that needs closing\u0022",
+    "Metadata": {
+      "score": "401",
+      "author": "muse900",
+      "commentCount": "279"
+    },
+    "FetchedAt": "2026-05-10T02:11:19.4677269+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48071940"
+    },
+    "Type": 1,
+    "Title": "Using Claude Code: The unreasonable effectiveness of HTML",
+    "Url": "https://twitter.com/trq212/status/2052809885763747935",
+    "Description": "Examples: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;thariqs.github.io\u0026#x2F;html-effectiveness\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;thariqs.github.io\u0026#x2F;html-effectiveness\u0026#x2F;\u003C/a\u003E\u003Cp\u003ERelated: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;simonwillison.net\u0026#x2F;2026\u0026#x2F;May\u0026#x2F;8\u0026#x2F;unreasonable-effectiveness-of-html\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;simonwillison.net\u0026#x2F;2026\u0026#x2F;May\u0026#x2F;8\u0026#x2F;unreasonable-effectiven...\u003C/a\u003E",
+    "Metadata": {
+      "score": "421",
+      "author": "pretext",
+      "commentCount": "238"
+    },
+    "FetchedAt": "2026-05-10T02:11:19.5037142+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48032381"
+    },
+    "Type": 1,
+    "Title": "The Trail of Jeremiah",
+    "Url": "https://theamericanscholar.org/on-the-trail-of-jeremiah/",
+    "Description": "The Trail of Jeremiah",
+    "Metadata": {
+      "score": "3",
+      "author": "samclemens",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-10T02:11:19.53938+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48078811"
+    },
+    "Type": 1,
+    "Title": "France Moves to Break Encrypted Messaging",
+    "Url": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
+    "Description": "France Moves to Break Encrypted Messaging",
+    "Metadata": {
+      "score": "83",
+      "author": "Cider9986",
+      "commentCount": "42"
+    },
+    "FetchedAt": "2026-05-10T02:11:19.5763311+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48078647"
+    },
+    "Type": 1,
+    "Title": "Getting arrested in Japan",
+    "Url": "https://sundaicity.com/blogs/getting-arrested-in-japan",
+    "Description": "Getting arrested in Japan",
+    "Metadata": {
+      "score": "148",
+      "author": "bane",
+      "commentCount": "158"
+    },
+    "FetchedAt": "2026-05-10T02:11:19.6125113+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48051951"
+    },
+    "Type": 1,
+    "Title": "OpenAI\u2019s WebRTC problem",
+    "Url": "https://moq.dev/blog/webrtc-is-the-problem/",
+    "Description": "OpenAI\u2019s WebRTC problem",
+    "Metadata": {
+      "score": "471",
+      "author": "atgctg",
+      "commentCount": "141"
+    },
+    "FetchedAt": "2026-05-10T02:11:19.6500007+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48046436"
+    },
+    "Type": 1,
+    "Title": "Mythical Man Month",
+    "Url": "https://martinfowler.com/bliki/MythicalManMonth.html",
+    "Description": "Mythical Man Month",
+    "Metadata": {
+      "score": "351",
+      "author": "ingve",
+      "commentCount": "195"
+    },
+    "FetchedAt": "2026-05-10T02:11:19.6851602+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48075528"
+    },
+    "Type": 1,
+    "Title": "PipeDream on the Acorn Archimedes",
+    "Url": "https://stonetools.ghost.io/pipedream-archimedes/",
+    "Description": "PipeDream on the Acorn Archimedes",
+    "Metadata": {
+      "score": "74",
+      "author": "msephton",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-05-10T02:11:19.7254466+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48074087"
+    },
+    "Type": 1,
+    "Title": "Forking the Web",
+    "Url": "https://dillo-browser.org/lab/web-fork/",
+    "Description": "Forking the Web",
+    "Metadata": {
+      "score": "108",
+      "author": "wrxd",
+      "commentCount": "117"
+    },
+    "FetchedAt": "2026-05-10T02:11:19.7604346+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48077966"
+    },
+    "Type": 1,
+    "Title": "I caught the car",
+    "Url": "https://undecidability.net/senior/",
+    "Description": "I caught the car",
+    "Metadata": {
+      "score": "39",
+      "author": "holden_nelson",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-05-10T02:11:19.7960619+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48036356"
+    },
+    "Type": 1,
+    "Title": "Random tie knots (2014)",
+    "Url": "https://tieknots.how/",
+    "Description": "Random tie knots (2014)",
+    "Metadata": {
+      "score": "12",
+      "author": "surprisetalk",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-10T02:11:19.8314078+00:00"
+  }
+]
