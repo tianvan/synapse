@@ -136,276 +136,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48086190"
-    },
-    "Type": 1,
-    "Title": "Hardware Attestation as Monopoly Enabler",
-    "Url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-    "Description": "Hardware Attestation as Monopoly Enabler",
-    "Metadata": {
-      "score": "1506",
-      "author": "ChuckMcM",
-      "commentCount": "489"
-    },
-    "FetchedAt": "2026-05-11T09:28:06.7840129+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48085821"
-    },
-    "Type": 1,
-    "Title": "Local AI needs to be the norm",
-    "Url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-    "Description": "Local AI needs to be the norm",
-    "Metadata": {
-      "score": "1112",
-      "author": "cylo",
-      "commentCount": "475"
-    },
-    "FetchedAt": "2026-05-11T09:28:06.8181938+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48090521"
-    },
-    "Type": 1,
-    "Title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
-    "Url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-    "Description": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
-    "Metadata": {
-      "score": "156",
-      "author": "susam",
-      "commentCount": "67"
-    },
-    "FetchedAt": "2026-05-11T09:28:06.8549667+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48090029"
-    },
-    "Type": 1,
-    "Title": "I\u0027m going back to writing code by hand",
-    "Url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-    "Description": "I\u0027m going back to writing code by hand",
-    "Metadata": {
-      "score": "336",
-      "author": "dropbox_miner",
-      "commentCount": "155"
-    },
-    "FetchedAt": "2026-05-11T09:28:06.9032676+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48089091"
-    },
-    "Type": 1,
-    "Title": "Running local models on an M4 with 24GB memory",
-    "Url": "https://jola.dev/posts/running-local-models-on-m4",
-    "Description": "Running local models on an M4 with 24GB memory",
-    "Metadata": {
-      "score": "299",
-      "author": "shintoist",
-      "commentCount": "92"
-    },
-    "FetchedAt": "2026-05-11T09:28:06.9370172+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48088576"
-    },
-    "Type": 1,
-    "Title": "Obsidian plugin was abused to deploy a remote access trojan",
-    "Url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
-    "Description": "Obsidian plugin was abused to deploy a remote access trojan",
-    "Metadata": {
-      "score": "207",
-      "author": "cmbailey",
-      "commentCount": "103"
-    },
-    "FetchedAt": "2026-05-11T09:28:06.9713111+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48089289"
-    },
-    "Type": 1,
-    "Title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-    "Url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-    "Description": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-    "Metadata": {
-      "score": "156",
-      "author": "cratermoon",
-      "commentCount": "40"
-    },
-    "FetchedAt": "2026-05-11T09:28:07.0050997+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48086082"
-    },
-    "Type": 1,
-    "Title": "Incident Report: CVE-2024-YIKES",
-    "Url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-    "Description": "Incident Report: CVE-2024-YIKES",
-    "Metadata": {
-      "score": "526",
-      "author": "miniBill",
-      "commentCount": "134"
-    },
-    "FetchedAt": "2026-05-11T09:28:07.0392336+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48091085"
-    },
-    "Type": 1,
-    "Title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
-    "Url": "https://matt.might.net/articles/implementing-a-programming-language/",
-    "Description": "7 lines of code, 3 minutes: Implement a programming language (2010)",
-    "Metadata": {
-      "score": "49",
-      "author": "azhenley",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-05-11T09:28:07.0722161+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48091737"
-    },
-    "Type": 1,
-    "Title": "Mythos Finds a Curl Vulnerability",
-    "Url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
-    "Description": "Mythos Finds a Curl Vulnerability",
-    "Metadata": {
-      "score": "116",
-      "author": "TangerineDream",
-      "commentCount": "46"
-    },
-    "FetchedAt": "2026-05-11T09:28:07.1095315+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48058260"
-    },
-    "Type": 1,
-    "Title": "Guitar tuner that uses phone accelerometer",
-    "Url": "https://tautme.github.io/phone-sensors/accel-tuner.html",
-    "Description": "Guitar tuner that uses phone accelerometer",
-    "Metadata": {
-      "score": "11",
-      "author": "adm4",
-      "commentCount": "7"
-    },
-    "FetchedAt": "2026-05-11T09:28:07.1437856+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48090276"
-    },
-    "Type": 1,
-    "Title": "Show HN: adamsreview \u2013 better multi-agent PR reviews for Claude Code",
-    "Url": "https://github.com/adamjgmiller/adamsreview",
-    "Description": "I built adamsreview, a Claude Code plugin that runs deeper, multi-stage PR reviews using parallel sub-agents, validation passes, persistent JSON state, and optional ensemble review via Codex CLI and PR bot comments.\u003Cp\u003EOn my own PRs, it has been catching dramatically more real bugs than Claude\u2019s built-in \u0026#x2F;review, \u0026#x2F;ultrareview, CodeRabbit, Greptile, and Codex\u2019s built-in review, while producing fewer false positives.\u003Cp\u003Eadamsreview is six Claude Code slash commands packaged as a plugin: re",
-    "Metadata": {
-      "score": "32",
-      "author": "adamthegoalie",
-      "commentCount": "8"
-    },
-    "FetchedAt": "2026-05-11T09:28:07.1907594+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48085993"
-    },
-    "Type": 1,
-    "Title": "Ask HN: What are you working on? (May 2026)",
-    "Url": "https://news.ycombinator.com/item?id=48085993",
-    "Description": "What are you working on?  Any new ideas that you\u0026#x27;re thinking about?",
-    "Metadata": {
-      "score": "184",
-      "author": "david927",
-      "commentCount": "668"
-    },
-    "FetchedAt": "2026-05-11T09:28:07.2256093+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48050666"
-    },
-    "Type": 1,
-    "Title": "First tunnel element of the Fehmarnbelt Tunnel immersed",
-    "Url": "https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/",
-    "Description": "First tunnel element of the Fehmarnbelt Tunnel immersed",
-    "Metadata": {
-      "score": "95",
-      "author": "robin_reala",
-      "commentCount": "30"
-    },
-    "FetchedAt": "2026-05-11T09:28:07.2590861+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48089049"
-    },
-    "Type": 1,
-    "Title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
-    "Url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
-    "Description": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
-    "Metadata": {
-      "score": "74",
-      "author": "adunk",
-      "commentCount": "21"
-    },
-    "FetchedAt": "2026-05-11T09:28:07.2920871+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48067698"
-    },
-    "Type": 1,
-    "Title": "Guy Goma\u0027s Accidental BBC Interview Lives on After 20 Years",
-    "Url": "https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.nytimes.com\u0026#x2F;2026\u0026#x2F;05\u0026#x2F;06\u0026#x2F;business\u0026#x2F;media\u0026#x2F;bbc-guy-goma-interview.html?unlocked_article_code=1.hlA.GiwW.3byWfPAySofD\u0026amp;smid=nytcore-android-share\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.nytimes.com\u0026#x2F;2026\u0026#x2F;05\u0026#x2F;06\u0026#x2F;business\u0026#x2F;media\u0026#x2F;bbc-guy-go...\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;xZgBI\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;xZgBI\u003C/a\u003E",
-    "Metadata": {
-      "score": "116",
-      "author": "nxobject",
-      "commentCount": "27"
-    },
-    "FetchedAt": "2026-05-11T09:28:07.3251008+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48058757"
-    },
-    "Type": 1,
-    "Title": "dBase: 1979-2026",
-    "Url": "https://delphinightmares.substack.com/p/dbase-1979-2026",
-    "Description": "dBase: 1979-2026",
-    "Metadata": {
-      "score": "72",
-      "author": "deeaceofbase",
-      "commentCount": "23"
-    },
-    "FetchedAt": "2026-05-11T09:28:07.3580504+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48059761"
-    },
-    "Type": 1,
-    "Title": "Phel v0.36.0 \u2013 Lisp on PHP, now with numeric tower and first-class Vars",
-    "Url": "https://github.com/phel-lang/phel-lang/releases/tag/v0.36.0",
-    "Description": "Phel v0.36.0 \u2013 Lisp on PHP, now with numeric tower and first-class Vars",
-    "Metadata": {
-      "score": "31",
-      "author": "Chemaclass",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-05-11T09:28:07.3906428+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48073201"
     },
     "Type": 1,
@@ -583,5 +313,455 @@
       "commentCount": "72"
     },
     "FetchedAt": "2026-05-11T09:28:07.8567935+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48093100"
+    },
+    "Type": 1,
+    "Title": "Ratty \u2013 A terminal emulator with inline 3D graphics",
+    "Url": "https://ratty-term.org/",
+    "Description": "Ratty \u2013 A terminal emulator with inline 3D graphics",
+    "Metadata": {
+      "score": "294",
+      "author": "orhunp_",
+      "commentCount": "87"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.0212194+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48086190"
+    },
+    "Type": 1,
+    "Title": "Hardware Attestation as Monopoly Enabler",
+    "Url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+    "Description": "Hardware Attestation as Monopoly Enabler",
+    "Metadata": {
+      "score": "1845",
+      "author": "ChuckMcM",
+      "commentCount": "609"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.0375673+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48067184"
+    },
+    "Type": 1,
+    "Title": "Driver accused of DUI tracks missing laptop to Illinois State trooper\u0027s house",
+    "Url": "https://abc7chicago.com/post/top-cop-driver-accused-dui-tracks-missing-laptop-illinois-state-police-trooper-kevin-bradleys-house/19060850/",
+    "Description": "Driver accused of DUI tracks missing laptop to Illinois State trooper\u0027s house",
+    "Metadata": {
+      "score": "161",
+      "author": "bryan0",
+      "commentCount": "89"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.0547337+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48085821"
+    },
+    "Type": 1,
+    "Title": "Local AI needs to be the norm",
+    "Url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+    "Description": "Local AI needs to be the norm",
+    "Metadata": {
+      "score": "1470",
+      "author": "cylo",
+      "commentCount": "572"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.0705692+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48070571"
+    },
+    "Type": 1,
+    "Title": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
+    "Url": "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/",
+    "Description": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
+    "Metadata": {
+      "score": "68",
+      "author": "littlexsparkee",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.0861461+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48092028"
+    },
+    "Type": 1,
+    "Title": "Gmail registration now requires scanning a QR code and sending a text message",
+    "Url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+    "Description": "Gmail registration now requires scanning a QR code and sending a text message",
+    "Metadata": {
+      "score": "125",
+      "author": "negura",
+      "commentCount": "65"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.1527665+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48090029"
+    },
+    "Type": 1,
+    "Title": "I\u0027m going back to writing code by hand",
+    "Url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+    "Description": "I\u0027m going back to writing code by hand",
+    "Metadata": {
+      "score": "630",
+      "author": "dropbox_miner",
+      "commentCount": "342"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.1682239+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48085685"
+    },
+    "Type": 1,
+    "Title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+    "Url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+    "Description": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+    "Metadata": {
+      "score": "13",
+      "author": "zdw",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.1869841+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48062977"
+    },
+    "Type": 1,
+    "Title": "Building a web server in aarch64 assembly to give my life (a lack of) meaning",
+    "Url": "https://imtomt.github.io/ymawky/",
+    "Description": "Building a web server in aarch64 assembly to give my life (a lack of) meaning",
+    "Metadata": {
+      "score": "8",
+      "author": "theanonymousone",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.2069332+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48089091"
+    },
+    "Type": 1,
+    "Title": "Running local models on an M4 with 24GB memory",
+    "Url": "https://jola.dev/posts/running-local-models-on-m4",
+    "Description": "Running local models on an M4 with 24GB memory",
+    "Metadata": {
+      "score": "434",
+      "author": "shintoist",
+      "commentCount": "129"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.2223085+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48090521"
+    },
+    "Type": 1,
+    "Title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
+    "Url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+    "Description": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
+    "Metadata": {
+      "score": "251",
+      "author": "susam",
+      "commentCount": "124"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.2399649+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48058260"
+    },
+    "Type": 1,
+    "Title": "Guitar tuner that uses phone accelerometer",
+    "Url": "https://tautme.github.io/phone-sensors/accel-tuner.html",
+    "Description": "Guitar tuner that uses phone accelerometer",
+    "Metadata": {
+      "score": "87",
+      "author": "adm4",
+      "commentCount": "46"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.2550623+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48068072"
+    },
+    "Type": 1,
+    "Title": "Classification of Amino Acids",
+    "Url": "https://www.khanacademy.org/test-prep/mcat/chemical-processes/amino-acids-peptides-proteins-5d/v/classification-amino-acids",
+    "Description": "Classification of Amino Acids",
+    "Metadata": {
+      "score": "31",
+      "author": "kamaraju",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.2701043+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48089289"
+    },
+    "Type": 1,
+    "Title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+    "Url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+    "Description": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+    "Metadata": {
+      "score": "252",
+      "author": "cratermoon",
+      "commentCount": "75"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.2852371+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48088576"
+    },
+    "Type": 1,
+    "Title": "Obsidian plugin was abused to deploy a remote access trojan",
+    "Url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+    "Description": "Obsidian plugin was abused to deploy a remote access trojan",
+    "Metadata": {
+      "score": "282",
+      "author": "cmbailey",
+      "commentCount": "159"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.300572+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48086082"
+    },
+    "Type": 1,
+    "Title": "Incident Report: CVE-2024-YIKES",
+    "Url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+    "Description": "Incident Report: CVE-2024-YIKES",
+    "Metadata": {
+      "score": "624",
+      "author": "miniBill",
+      "commentCount": "152"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.3167788+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48091737"
+    },
+    "Type": 1,
+    "Title": "Mythos Finds a Curl Vulnerability",
+    "Url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
+    "Description": "Mythos Finds a Curl Vulnerability",
+    "Metadata": {
+      "score": "368",
+      "author": "TangerineDream",
+      "commentCount": "156"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.3314629+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48093043"
+    },
+    "Type": 1,
+    "Title": "All Those A.I. Note Takers? They\u0027re Making Lawyers Nervous",
+    "Url": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
+    "Description": "All Those A.I. Note Takers? They\u0027re Making Lawyers Nervous",
+    "Metadata": {
+      "score": "94",
+      "author": "JumpCrisscross",
+      "commentCount": "62"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.3464908+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48092367"
+    },
+    "Type": 1,
+    "Title": "The Adventure Family Tree",
+    "Url": "https://mipmip.org/advfamily/advfamily.html",
+    "Description": "The Adventure Family Tree",
+    "Metadata": {
+      "score": "30",
+      "author": "exvi",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.3629781+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48091085"
+    },
+    "Type": 1,
+    "Title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
+    "Url": "https://matt.might.net/articles/implementing-a-programming-language/",
+    "Description": "7 lines of code, 3 minutes: Implement a programming language (2010)",
+    "Metadata": {
+      "score": "78",
+      "author": "azhenley",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.379325+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48050666"
+    },
+    "Type": 1,
+    "Title": "First tunnel element of the Fehmarnbelt Tunnel immersed",
+    "Url": "https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/",
+    "Description": "First tunnel element of the Fehmarnbelt Tunnel immersed",
+    "Metadata": {
+      "score": "130",
+      "author": "robin_reala",
+      "commentCount": "69"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.3955984+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48057790"
+    },
+    "Type": 1,
+    "Title": "Bliss (Photograph)",
+    "Url": "https://en.wikipedia.org/wiki/Bliss_(photograph)",
+    "Description": "Bliss (Photograph)",
+    "Metadata": {
+      "score": "53",
+      "author": "cainxinth",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.411805+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48089049"
+    },
+    "Type": 1,
+    "Title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
+    "Url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
+    "Description": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
+    "Metadata": {
+      "score": "124",
+      "author": "adunk",
+      "commentCount": "44"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.4266826+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48085993"
+    },
+    "Type": 1,
+    "Title": "Ask HN: What are you working on? (May 2026)",
+    "Url": "https://news.ycombinator.com/item?id=48085993",
+    "Description": "What are you working on?  Any new ideas that you\u0026#x27;re thinking about?",
+    "Metadata": {
+      "score": "215",
+      "author": "david927",
+      "commentCount": "791"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.4436298+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48093626"
+    },
+    "Type": 1,
+    "Title": "European Money Pours into Palantir",
+    "Url": "https://english.elpais.com/economy-and-business/branded/2026-04-11/european-money-pours-into-palantir-over-100-asset-managers-and-banks-boost-their-investments-in-the-controversial-tech-company.html",
+    "Description": "European Money Pours into Palantir",
+    "Metadata": {
+      "score": "42",
+      "author": "robtherobber",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.4586366+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48090276"
+    },
+    "Type": 1,
+    "Title": "Show HN: adamsreview \u2013 better multi-agent PR reviews for Claude Code",
+    "Url": "https://github.com/adamjgmiller/adamsreview",
+    "Description": "I built adamsreview, a Claude Code plugin that runs deeper, multi-stage PR reviews using parallel sub-agents, validation passes, persistent JSON state, and optional ensemble review via Codex CLI and PR bot comments.\u003Cp\u003EOn my own PRs, it has been catching dramatically more real bugs than Claude\u2019s built-in \u0026#x2F;review, \u0026#x2F;ultrareview, CodeRabbit, Greptile, and Codex\u2019s built-in review, while producing fewer false positives.\u003Cp\u003Eadamsreview is six Claude Code slash commands packaged as a plugin: re",
+    "Metadata": {
+      "score": "58",
+      "author": "adamthegoalie",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.4746381+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48067698"
+    },
+    "Type": 1,
+    "Title": "Guy Goma\u0027s Accidental BBC Interview Lives on After 20 Years",
+    "Url": "https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.nytimes.com\u0026#x2F;2026\u0026#x2F;05\u0026#x2F;06\u0026#x2F;business\u0026#x2F;media\u0026#x2F;bbc-guy-goma-interview.html?unlocked_article_code=1.hlA.GiwW.3byWfPAySofD\u0026amp;smid=nytcore-android-share\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.nytimes.com\u0026#x2F;2026\u0026#x2F;05\u0026#x2F;06\u0026#x2F;business\u0026#x2F;media\u0026#x2F;bbc-guy-go...\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;xZgBI\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;xZgBI\u003C/a\u003E",
+    "Metadata": {
+      "score": "150",
+      "author": "nxobject",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.4909729+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48059761"
+    },
+    "Type": 1,
+    "Title": "Phel v0.36.0 \u2013 Lisp on PHP, now with numeric tower and first-class Vars",
+    "Url": "https://github.com/phel-lang/phel-lang/releases/tag/v0.36.0",
+    "Description": "Phel v0.36.0 \u2013 Lisp on PHP, now with numeric tower and first-class Vars",
+    "Metadata": {
+      "score": "46",
+      "author": "Chemaclass",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.5067882+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48058757"
+    },
+    "Type": 1,
+    "Title": "dBase: 1979-2026",
+    "Url": "https://delphinightmares.substack.com/p/dbase-1979-2026",
+    "Description": "dBase: 1979-2026",
+    "Metadata": {
+      "score": "100",
+      "author": "deeaceofbase",
+      "commentCount": "45"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.5219047+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48094237"
+    },
+    "Type": 1,
+    "Title": "I keep tripping over \u0022true, false, true\u0022",
+    "Url": "https://allthingssmitty.com/2026/05/11/i-keep-tripping-over-true-false-true/",
+    "Description": "I keep tripping over \u0022true, false, true\u0022",
+    "Metadata": {
+      "score": "20",
+      "author": "AllThingsSmitty",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-05-11T14:32:54.5472372+00:00"
   }
 ]
