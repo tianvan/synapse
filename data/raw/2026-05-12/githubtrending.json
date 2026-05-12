@@ -18,40 +18,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:CloakHQ/CloakBrowser"
-    },
-    "Type": 0,
-    "Title": "CloakHQ/CloakBrowser",
-    "Url": "https://github.com/CloakHQ/CloakBrowser",
-    "Description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-    "Metadata": {
-      "owner": "CloakHQ",
-      "repo": "CloakBrowser",
-      "language": "Python",
-      "stars": "1,320",
-      "topics": "ai-agents, anti-detect, antidetect-browser, bot-detection, browser-automation, captcha-bypass, chromium, cloudflare, cloudflare-bypass, fingerprint, headless-browser, playwright, puppeteer, python, recaptcha, selenium, stealth-browser, undetected, web-scraping, webscraping"
-    },
-    "FetchedAt": "2026-05-12T08:29:48.70169+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:yikart/AiToEarn"
-    },
-    "Type": 0,
-    "Title": "yikart/AiToEarn",
-    "Url": "https://github.com/yikart/AiToEarn",
-    "Description": "Let\u0027s use AI to Earn!",
-    "Metadata": {
-      "owner": "yikart",
-      "repo": "AiToEarn",
-      "language": "TypeScript",
-      "stars": "427",
-      "topics": "auto-publish, douyin, douyin-api, electron-app, electron-react, kuaishou, kwai, published, shipinhao, tool, xiaohongshu"
-    },
-    "FetchedAt": "2026-05-12T08:29:48.8118896+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:playcanvas/supersplat"
     },
     "Type": 0,
@@ -103,39 +69,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:tinyhumansai/openhuman"
-    },
-    "Type": 0,
-    "Title": "tinyhumansai/openhuman",
-    "Url": "https://github.com/tinyhumansai/openhuman",
-    "Description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-    "Metadata": {
-      "owner": "tinyhumansai",
-      "repo": "openhuman",
-      "language": "Rust",
-      "stars": "366"
-    },
-    "FetchedAt": "2026-05-12T08:29:49.2832878+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:millionco/react-doctor"
-    },
-    "Type": 0,
-    "Title": "millionco/react-doctor",
-    "Url": "https://github.com/millionco/react-doctor",
-    "Description": "Your agent writes bad React. This catches it",
-    "Metadata": {
-      "owner": "millionco",
-      "repo": "react-doctor",
-      "language": "TypeScript",
-      "stars": "212",
-      "topics": "agents, code-review, doctor, react, skill"
-    },
-    "FetchedAt": "2026-05-12T08:29:49.4188856+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:Lordog/dive-into-llms"
     },
     "Type": 0,
@@ -169,23 +102,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:rasbt/LLMs-from-scratch"
-    },
-    "Type": 0,
-    "Title": "rasbt/LLMs-from-scratch",
-    "Url": "https://github.com/rasbt/LLMs-from-scratch",
-    "Description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-    "Metadata": {
-      "owner": "rasbt",
-      "repo": "LLMs-from-scratch",
-      "language": "Jupyter Notebook",
-      "stars": "337",
-      "topics": "ai, artificial-intelligence, chatbot, chatgpt, deep-learning, from-scratch, generative-ai, gpt, language-model, large-language-models, llm, machine-learning, neural-networks, python, pytorch, transformers"
-    },
-    "FetchedAt": "2026-05-12T08:29:49.715139+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:NousResearch/hermes-agent"
     },
     "Type": 0,
@@ -200,5 +116,156 @@
       "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw"
     },
     "FetchedAt": "2026-05-12T08:29:49.8031736+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:tinyhumansai/openhuman"
+    },
+    "Type": 0,
+    "Title": "tinyhumansai/openhuman",
+    "Url": "https://github.com/tinyhumansai/openhuman",
+    "Description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+    "Metadata": {
+      "owner": "tinyhumansai",
+      "repo": "openhuman",
+      "language": "Rust",
+      "stars": "1,042"
+    },
+    "FetchedAt": "2026-05-12T14:04:29.0642689+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:CloakHQ/CloakBrowser"
+    },
+    "Type": 0,
+    "Title": "CloakHQ/CloakBrowser",
+    "Url": "https://github.com/CloakHQ/CloakBrowser",
+    "Description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+    "Metadata": {
+      "owner": "CloakHQ",
+      "repo": "CloakBrowser",
+      "language": "Python",
+      "stars": "1,589",
+      "topics": "ai-agents, anti-detect, antidetect-browser, bot-detection, browser-automation, captcha-bypass, chromium, cloudflare, cloudflare-bypass, fingerprint, headless-browser, playwright, puppeteer, python, recaptcha, selenium, stealth-browser, undetected, web-scraping, webscraping"
+    },
+    "FetchedAt": "2026-05-12T14:04:29.6379664+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:apernet/hysteria"
+    },
+    "Type": 0,
+    "Title": "apernet/hysteria",
+    "Url": "https://github.com/apernet/hysteria",
+    "Description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+    "Metadata": {
+      "owner": "apernet",
+      "repo": "hysteria",
+      "language": "Go",
+      "stars": "28",
+      "topics": "censorship-circumvention, golang, http-proxy, hysteria, proxy, quic, relay, reliable-udp, socks5, tun, vpn"
+    },
+    "FetchedAt": "2026-05-12T14:04:29.9025056+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anonfaded/FadCam"
+    },
+    "Type": 0,
+    "Title": "anonfaded/FadCam",
+    "Url": "https://github.com/anonfaded/FadCam",
+    "Description": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
+    "Metadata": {
+      "owner": "anonfaded",
+      "repo": "FadCam",
+      "language": "Java",
+      "stars": "111",
+      "topics": "android-app, android-studio, cam, camera2-api, camerax, fadrec, ffmpeg-android, foss, java, material-design, material-ui, open-source, record-video, screenrecorder, screenrecordingapp, secret-recorder, video-editing, video-editing-tools"
+    },
+    "FetchedAt": "2026-05-12T14:04:30.1721089+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:millionco/react-doctor"
+    },
+    "Type": 0,
+    "Title": "millionco/react-doctor",
+    "Url": "https://github.com/millionco/react-doctor",
+    "Description": "Your agent writes bad React. This catches it",
+    "Metadata": {
+      "owner": "millionco",
+      "repo": "react-doctor",
+      "language": "TypeScript",
+      "stars": "804",
+      "topics": "agents, code-review, doctor, react, skill"
+    },
+    "FetchedAt": "2026-05-12T14:04:30.4073468+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:rasbt/LLMs-from-scratch"
+    },
+    "Type": 0,
+    "Title": "rasbt/LLMs-from-scratch",
+    "Url": "https://github.com/rasbt/LLMs-from-scratch",
+    "Description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "Metadata": {
+      "owner": "rasbt",
+      "repo": "LLMs-from-scratch",
+      "language": "Jupyter Notebook",
+      "stars": "776",
+      "topics": "ai, artificial-intelligence, chatbot, chatgpt, deep-learning, from-scratch, generative-ai, gpt, language-model, large-language-models, llm, machine-learning, neural-networks, python, pytorch, transformers"
+    },
+    "FetchedAt": "2026-05-12T14:04:30.6653849+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:datawhalechina/hello-agents"
+    },
+    "Type": 0,
+    "Title": "datawhalechina/hello-agents",
+    "Url": "https://github.com/datawhalechina/hello-agents",
+    "Description": "\uD83D\uDCDA \u300A\u4ECE\u96F6\u5F00\u59CB\u6784\u5EFA\u667A\u80FD\u4F53\u300B\u2014\u2014\u4ECE\u96F6\u5F00\u59CB\u7684\u667A\u80FD\u4F53\u539F\u7406\u4E0E\u5B9E\u8DF5\u6559\u7A0B",
+    "Metadata": {
+      "owner": "datawhalechina",
+      "repo": "hello-agents",
+      "language": "Python",
+      "stars": "1,248",
+      "topics": "agent, llm, rag, tutorial"
+    },
+    "FetchedAt": "2026-05-12T14:04:30.9914778+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:yikart/AiToEarn"
+    },
+    "Type": 0,
+    "Title": "yikart/AiToEarn",
+    "Url": "https://github.com/yikart/AiToEarn",
+    "Description": "Let\u0027s use AI to Earn!",
+    "Metadata": {
+      "owner": "yikart",
+      "repo": "AiToEarn",
+      "language": "TypeScript",
+      "stars": "1,264",
+      "topics": "auto-publish, douyin, douyin-api, electron-app, electron-react, kuaishou, kwai, published, shipinhao, tool, xiaohongshu"
+    },
+    "FetchedAt": "2026-05-12T14:04:31.2507471+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/AI-Trader"
+    },
+    "Type": 0,
+    "Title": "HKUDS/AI-Trader",
+    "Url": "https://github.com/HKUDS/AI-Trader",
+    "Description": "\u0022AI-Trader: 100% Fully-Automated Agent-Native Trading\u0022  ",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "AI-Trader",
+      "language": "Python",
+      "stars": "801"
+    },
+    "FetchedAt": "2026-05-12T14:04:31.5117779+00:00"
   }
 ]
