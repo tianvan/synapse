@@ -1,96 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:48100706"
-    },
-    "Type": 1,
-    "Title": "Postmortem: TanStack npm supply-chain compromise",
-    "Url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;TanStack\u0026#x2F;router\u0026#x2F;issues\u0026#x2F;7383\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;TanStack\u0026#x2F;router\u0026#x2F;issues\u0026#x2F;7383\u003C/a\u003E",
-    "Metadata": {
-      "score": "544",
-      "author": "varunsharma07",
-      "commentCount": "197"
-    },
-    "FetchedAt": "2026-05-12T02:15:10.3911711+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48100433"
-    },
-    "Type": 1,
-    "Title": "If AI writes your code, why use Python?",
-    "Url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-    "Description": "If AI writes your code, why use Python?",
-    "Metadata": {
-      "score": "170",
-      "author": "indigodaddy",
-      "commentCount": "175"
-    },
-    "FetchedAt": "2026-05-12T02:15:10.4073916+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48098261"
-    },
-    "Type": 1,
-    "Title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-    "Url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-    "Description": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-    "Metadata": {
-      "score": "240",
-      "author": "bookofjoe",
-      "commentCount": "47"
-    },
-    "FetchedAt": "2026-05-12T02:15:10.4271362+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48099616"
-    },
-    "Type": 1,
-    "Title": "Library for fast mapping of Java records to native memory",
-    "Url": "https://github.com/mamba-studio/TypedMemory",
-    "Description": "Library for fast mapping of Java records to native memory",
-    "Metadata": {
-      "score": "108",
-      "author": "joe_mwangi",
-      "commentCount": "25"
-    },
-    "FetchedAt": "2026-05-12T02:15:10.4432096+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48100662"
-    },
-    "Type": 1,
-    "Title": "I let AI build a tool to help me figure out what was waking me up at night",
-    "Url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
-    "Description": "I let AI build a tool to help me figure out what was waking me up at night",
-    "Metadata": {
-      "score": "76",
-      "author": "showmypost",
-      "commentCount": "83"
-    },
-    "FetchedAt": "2026-05-12T02:15:10.4568519+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48100500"
-    },
-    "Type": 1,
-    "Title": "GitLab announces workforce reduction and end of their CREDIT values",
-    "Url": "https://about.gitlab.com/blog/gitlab-act-2/",
-    "Description": "GitLab announces workforce reduction and end of their CREDIT values",
-    "Metadata": {
-      "score": "334",
-      "author": "AnonGitLabEmpl",
-      "commentCount": "320"
-    },
-    "FetchedAt": "2026-05-12T02:15:10.4713605+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48093100"
     },
     "Type": 1,
@@ -103,36 +13,6 @@
       "commentCount": "198"
     },
     "FetchedAt": "2026-05-12T02:15:10.4845286+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48060077"
-    },
-    "Type": 1,
-    "Title": "Nullsoft, 1997-2004 (2004)",
-    "Url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
-    "Description": "Nullsoft, 1997-2004 (2004)",
-    "Metadata": {
-      "score": "228",
-      "author": "downbad_",
-      "commentCount": "70"
-    },
-    "FetchedAt": "2026-05-12T02:15:10.4995233+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48100970"
-    },
-    "Type": 1,
-    "Title": "Griffin PowerMate driver for modern macOS",
-    "Url": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
-    "Description": "Griffin PowerMate driver for modern macOS",
-    "Metadata": {
-      "score": "43",
-      "author": "classichasclass",
-      "commentCount": "16"
-    },
-    "FetchedAt": "2026-05-12T02:15:10.5165413+00:00"
   },
   {
     "ExternalId": {
@@ -151,21 +31,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48074668"
-    },
-    "Type": 1,
-    "Title": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
-    "Url": "https://github.com/tsirysndr/rockbox-zig",
-    "Description": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
-    "Metadata": {
-      "score": "11",
-      "author": "tsiry",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-05-12T02:15:10.5510417+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48102360"
     },
     "Type": 1,
@@ -181,111 +46,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48094641"
-    },
-    "Type": 1,
-    "Title": "Google says criminal hackers used AI to find a major software flaw",
-    "Url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
-    "Description": "Unlocked: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.nytimes.com\u0026#x2F;2026\u0026#x2F;05\u0026#x2F;11\u0026#x2F;us\u0026#x2F;politics\u0026#x2F;google-hackers-attack-ai.html?unlocked_article_code=1.hlA.vW7Y.pO_0G8yLYoca\u0026amp;smid=nytcore-android-share\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.nytimes.com\u0026#x2F;2026\u0026#x2F;05\u0026#x2F;11\u0026#x2F;us\u0026#x2F;politics\u0026#x2F;google-hacker...\u003C/a\u003E, \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;I4Ui5\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;I4Ui5\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;apnews.com\u0026#x2F;article\u0026",
-    "Metadata": {
-      "score": "120",
-      "author": "donohoe",
-      "commentCount": "97"
-    },
-    "FetchedAt": "2026-05-12T02:15:10.579461+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48080316"
-    },
-    "Type": 1,
-    "Title": "Silverback Imfura took a chance, and ended up alone",
-    "Url": "https://gorillafund.org/mountain-gorillas/silverback-imfura-took-a-chance-and-ended-up-alone/",
-    "Description": "Silverback Imfura took a chance, and ended up alone",
-    "Metadata": {
-      "score": "32",
-      "author": "alex000kim",
-      "commentCount": "12"
-    },
-    "FetchedAt": "2026-05-12T02:15:10.5934267+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48100524"
-    },
-    "Type": 1,
-    "Title": "Interaction Models",
-    "Url": "https://thinkingmachines.ai/blog/interaction-models/",
-    "Description": "Interaction Models",
-    "Metadata": {
-      "score": "95",
-      "author": "smhx",
-      "commentCount": "9"
-    },
-    "FetchedAt": "2026-05-12T02:15:10.6096194+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48085685"
-    },
-    "Type": 1,
-    "Title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-    "Url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-    "Description": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-    "Metadata": {
-      "score": "217",
-      "author": "zdw",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-05-12T02:15:10.6233479+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48051555"
-    },
-    "Type": 1,
-    "Title": "The rise and fall of snake oil",
-    "Url": "https://www.historytoday.com/archive/history-matters/rise-and-fall-snake-oil",
-    "Description": "The rise and fall of snake oil",
-    "Metadata": {
-      "score": "29",
-      "author": "samizdis",
-      "commentCount": "17"
-    },
-    "FetchedAt": "2026-05-12T02:15:10.6377504+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48097078"
-    },
-    "Type": 1,
-    "Title": "Interfaze: A new model architecture built for high accuracy at scale",
-    "Url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
-    "Description": "Interfaze: A new model architecture built for high accuracy at scale",
-    "Metadata": {
-      "score": "112",
-      "author": "yoeven",
-      "commentCount": "30"
-    },
-    "FetchedAt": "2026-05-12T02:15:10.6524009+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48080201"
-    },
-    "Type": 1,
-    "Title": "Abstract Machines for Logic Programs",
-    "Url": "https://chrisistyping.bearblog.dev/abstract-machines-for-logic-programs/",
-    "Description": "Abstract Machines for Logic Programs",
-    "Metadata": {
-      "score": "14",
-      "author": "surprisetalk",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-05-12T02:15:10.6684974+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48100192"
     },
     "Type": 1,
@@ -298,21 +58,6 @@
       "commentCount": "18"
     },
     "FetchedAt": "2026-05-12T02:15:10.6845714+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48065429"
-    },
-    "Type": 1,
-    "Title": "AM\u00C1LIA and the future of European Portuguese LLMs",
-    "Url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
-    "Description": "AM\u00C1LIA and the future of European Portuguese LLMs",
-    "Metadata": {
-      "score": "117",
-      "author": "johnbarron",
-      "commentCount": "57"
-    },
-    "FetchedAt": "2026-05-12T02:15:10.6978953+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +193,455 @@
       "commentCount": "699"
     },
     "FetchedAt": "2026-05-12T02:15:10.830513+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48100706"
+    },
+    "Type": 1,
+    "Title": "Postmortem: TanStack NPM supply-chain compromise",
+    "Url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;TanStack\u0026#x2F;router\u0026#x2F;issues\u0026#x2F;7383\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;TanStack\u0026#x2F;router\u0026#x2F;issues\u0026#x2F;7383\u003C/a\u003E",
+    "Metadata": {
+      "score": "803",
+      "author": "varunsharma07",
+      "commentCount": "304"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.0620984+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48104428"
+    },
+    "Type": 1,
+    "Title": "Screenshots of Old Desktop OSes",
+    "Url": "http://www.typewritten.org/Media/",
+    "Description": "Screenshots of Old Desktop OSes",
+    "Metadata": {
+      "score": "105",
+      "author": "adunk",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.0919477+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48102700"
+    },
+    "Type": 1,
+    "Title": "They Live (1988) inspired Adblocker",
+    "Url": "https://github.com/davmlaw/they_live_adblocker",
+    "Description": "They Live (1988) inspired Adblocker",
+    "Metadata": {
+      "score": "190",
+      "author": "tokenburner",
+      "commentCount": "52"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.1228131+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48100433"
+    },
+    "Type": 1,
+    "Title": "If AI writes your code, why use Python?",
+    "Url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+    "Description": "If AI writes your code, why use Python?",
+    "Metadata": {
+      "score": "446",
+      "author": "indigodaddy",
+      "commentCount": "484"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.1537389+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48098261"
+    },
+    "Type": 1,
+    "Title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+    "Url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+    "Description": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+    "Metadata": {
+      "score": "321",
+      "author": "bookofjoe",
+      "commentCount": "66"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.1834306+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48104041"
+    },
+    "Type": 1,
+    "Title": "Extremely Low Frequencies",
+    "Url": "https://computer.rip/2026-05-09-extremely-low-frequencies.html",
+    "Description": "Extremely Low Frequencies",
+    "Metadata": {
+      "score": "60",
+      "author": "pinewurst",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.2131441+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48103042"
+    },
+    "Type": 1,
+    "Title": "Claude Platform on AWS",
+    "Url": "https://claude.com/blog/claude-platform-on-aws",
+    "Description": "Claude Platform on AWS",
+    "Metadata": {
+      "score": "125",
+      "author": "matrixhelix",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.2430393+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48103511"
+    },
+    "Type": 1,
+    "Title": "Software Internals Book Club",
+    "Url": "https://eatonphil.com/bookclub.html",
+    "Description": "Software Internals Book Club",
+    "Metadata": {
+      "score": "84",
+      "author": "aragonite",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.2749037+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48094641"
+    },
+    "Type": 1,
+    "Title": "Google says criminal hackers used AI to find a major software flaw",
+    "Url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+    "Description": "Unlocked: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.nytimes.com\u0026#x2F;2026\u0026#x2F;05\u0026#x2F;11\u0026#x2F;us\u0026#x2F;politics\u0026#x2F;google-hackers-attack-ai.html?unlocked_article_code=1.hlA.vW7Y.pO_0G8yLYoca\u0026amp;smid=nytcore-android-share\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.nytimes.com\u0026#x2F;2026\u0026#x2F;05\u0026#x2F;11\u0026#x2F;us\u0026#x2F;politics\u0026#x2F;google-hacker...\u003C/a\u003E, \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;I4Ui5\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;I4Ui5\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;apnews.com\u0026#x2F;article\u0026",
+    "Metadata": {
+      "score": "175",
+      "author": "donohoe",
+      "commentCount": "135"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.3095885+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48075131"
+    },
+    "Type": 1,
+    "Title": "Rtwatch: Watch videos with friends using WebRTC",
+    "Url": "https://github.com/pion/rtwatch",
+    "Description": "Rtwatch: Watch videos with friends using WebRTC",
+    "Metadata": {
+      "score": "9",
+      "author": "nateb2022",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.3406839+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48052710"
+    },
+    "Type": 1,
+    "Title": "A lost ancient script reveals how writing as we know it began",
+    "Url": "https://www.newscientist.com/article/2524042-a-lost-ancient-script-reveals-how-writing-as-we-know-it-really-began/",
+    "Description": "A lost ancient script reveals how writing as we know it began",
+    "Metadata": {
+      "score": "63",
+      "author": "emot",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.3710664+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48100662"
+    },
+    "Type": 1,
+    "Title": "I let AI build a tool to help me figure out what was waking me up at night",
+    "Url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+    "Description": "I let AI build a tool to help me figure out what was waking me up at night",
+    "Metadata": {
+      "score": "167",
+      "author": "showmypost",
+      "commentCount": "172"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.4021864+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48059831"
+    },
+    "Type": 1,
+    "Title": "I hate soldering",
+    "Url": "https://user8.bearblog.dev/rant/",
+    "Description": "I hate soldering",
+    "Metadata": {
+      "score": "98",
+      "author": "James72689",
+      "commentCount": "82"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.4304348+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48074668"
+    },
+    "Type": 1,
+    "Title": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
+    "Url": "https://github.com/tsirysndr/rockbox-zig",
+    "Description": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
+    "Metadata": {
+      "score": "73",
+      "author": "tsiry",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.4586282+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48060077"
+    },
+    "Type": 1,
+    "Title": "Nullsoft, 1997-2004 (2004)",
+    "Url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
+    "Description": "Nullsoft, 1997-2004 (2004)",
+    "Metadata": {
+      "score": "274",
+      "author": "downbad_",
+      "commentCount": "79"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.4866648+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48074589"
+    },
+    "Type": 1,
+    "Title": "Boriel BASIC",
+    "Url": "https://zxbasic.readthedocs.io/en/docs/",
+    "Description": "Boriel BASIC",
+    "Metadata": {
+      "score": "29",
+      "author": "AlexeyBrin",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.5150278+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48099616"
+    },
+    "Type": 1,
+    "Title": "Library for fast mapping of Java records to native memory",
+    "Url": "https://github.com/mamba-studio/TypedMemory",
+    "Description": "Library for fast mapping of Java records to native memory",
+    "Metadata": {
+      "score": "138",
+      "author": "joe_mwangi",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.5435361+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48100524"
+    },
+    "Type": 1,
+    "Title": "Interaction Models",
+    "Url": "https://thinkingmachines.ai/blog/interaction-models/",
+    "Description": "Interaction Models",
+    "Metadata": {
+      "score": "205",
+      "author": "smhx",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.572802+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48100500"
+    },
+    "Type": 1,
+    "Title": "GitLab announces workforce reduction and end of their CREDIT values",
+    "Url": "https://about.gitlab.com/blog/gitlab-act-2/",
+    "Description": "GitLab announces workforce reduction and end of their CREDIT values",
+    "Metadata": {
+      "score": "483",
+      "author": "AnonGitLabEmpl",
+      "commentCount": "480"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.6010078+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48076798"
+    },
+    "Type": 1,
+    "Title": "VGA Memory Access Is Complicated",
+    "Url": "https://www.os2museum.com/wp/learn-something-old-every-day-part-xxi-vga-memory-access-is-complicated/",
+    "Description": "VGA Memory Access Is Complicated",
+    "Metadata": {
+      "score": "51",
+      "author": "ingve",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.6303586+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48096842"
+    },
+    "Type": 1,
+    "Title": "Show HN: TikTok but for scientific papers",
+    "Url": "https://andreaturchet.github.io/website/index.html",
+    "Description": "Show HN: TikTok but for scientific papers",
+    "Metadata": {
+      "score": "116",
+      "author": "ciwrl",
+      "commentCount": "57"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.6602664+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48063979"
+    },
+    "Type": 1,
+    "Title": "When semiconductor materials misbehave",
+    "Url": "https://semiengineering.com/when-semiconductor-materials-misbehave/",
+    "Description": "When semiconductor materials misbehave",
+    "Metadata": {
+      "score": "10",
+      "author": "PaulHoule",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.6897628+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48051555"
+    },
+    "Type": 1,
+    "Title": "The rise and fall of snake oil",
+    "Url": "https://www.historytoday.com/archive/history-matters/rise-and-fall-snake-oil",
+    "Description": "The rise and fall of snake oil",
+    "Metadata": {
+      "score": "67",
+      "author": "samizdis",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.7190912+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48097078"
+    },
+    "Type": 1,
+    "Title": "Interfaze: A new model architecture built for high accuracy at scale",
+    "Url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
+    "Description": "Interfaze: A new model architecture built for high accuracy at scale",
+    "Metadata": {
+      "score": "139",
+      "author": "yoeven",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.7493057+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48085685"
+    },
+    "Type": 1,
+    "Title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+    "Url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+    "Description": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+    "Metadata": {
+      "score": "236",
+      "author": "zdw",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.7801844+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48100970"
+    },
+    "Type": 1,
+    "Title": "Griffin PowerMate driver for modern macOS",
+    "Url": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
+    "Description": "Griffin PowerMate driver for modern macOS",
+    "Metadata": {
+      "score": "73",
+      "author": "classichasclass",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.8098895+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48080316"
+    },
+    "Type": 1,
+    "Title": "Silverback Imfura took a chance, and ended up alone",
+    "Url": "https://gorillafund.org/mountain-gorillas/silverback-imfura-took-a-chance-and-ended-up-alone/",
+    "Description": "Silverback Imfura took a chance, and ended up alone",
+    "Metadata": {
+      "score": "58",
+      "author": "alex000kim",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.8398446+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48081634"
+    },
+    "Type": 1,
+    "Title": "High-precision HDC reference instrument for the Sol Star System",
+    "Url": "https://pypi.org/project/ephemerides-spectral/",
+    "Description": "High-precision HDC reference instrument for the Sol Star System",
+    "Metadata": {
+      "score": "10",
+      "author": "lemonforest",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.8693346+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48080201"
+    },
+    "Type": 1,
+    "Title": "Abstract Machines for Logic Programs",
+    "Url": "https://chrisistyping.bearblog.dev/abstract-machines-for-logic-programs/",
+    "Description": "Abstract Machines for Logic Programs",
+    "Metadata": {
+      "score": "44",
+      "author": "surprisetalk",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.899055+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48065429"
+    },
+    "Type": 1,
+    "Title": "AM\u00C1LIA and the future of European Portuguese LLMs",
+    "Url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
+    "Description": "AM\u00C1LIA and the future of European Portuguese LLMs",
+    "Metadata": {
+      "score": "135",
+      "author": "johnbarron",
+      "commentCount": "65"
+    },
+    "FetchedAt": "2026-05-12T08:29:50.9288461+00:00"
   }
 ]
