@@ -151,36 +151,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48117810"
-    },
-    "Type": 1,
-    "Title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
-    "Url": "https://arxiv.org/abs/2605.08419",
-    "Description": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
-    "Metadata": {
-      "score": "147",
-      "author": "matt_d",
-      "commentCount": "33"
-    },
-    "FetchedAt": "2026-05-13T08:36:27.1708384+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48115127"
-    },
-    "Type": 1,
-    "Title": "Restore full BambuNetwork support for Bambu Lab printers",
-    "Url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-    "Description": "Restore full BambuNetwork support for Bambu Lab printers",
-    "Metadata": {
-      "score": "401",
-      "author": "Murfalo",
-      "commentCount": "175"
-    },
-    "FetchedAt": "2026-05-13T08:36:27.203859+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48033483"
     },
     "Type": 1,
@@ -193,126 +163,6 @@
       "commentCount": "70"
     },
     "FetchedAt": "2026-05-13T08:36:27.2370873+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48111545"
-    },
-    "Type": 1,
-    "Title": "Googlebook",
-    "Url": "https://googlebook.google/",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.reddit.com\u0026#x2F;r\u0026#x2F;Android\u0026#x2F;comments\u0026#x2F;1tb8xls\u0026#x2F;introducing_googlebook_a_new_category_of_laptops\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.reddit.com\u0026#x2F;r\u0026#x2F;Android\u0026#x2F;comments\u0026#x2F;1tb8xls\u0026#x2F;introducin...\u003C/a\u003E",
-    "Metadata": {
-      "score": "756",
-      "author": "tambourine_man",
-      "commentCount": "1268"
-    },
-    "FetchedAt": "2026-05-13T08:36:27.2701328+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48111896"
-    },
-    "Type": 1,
-    "Title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-    "Url": "https://github.com/cactus-compute/needle",
-    "Description": "Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok\u0026#x2F;s prefill and 1200 tok\u0026#x2F;s decode on consumer devices.\u003Cp\u003EWe were always frustrated by the little effort made towards building agentic models that run on budget phones, so we conducted investigations that led to an observation: agentic experiences are built upon tool calling, and massive models are overkill for it. Tool calling is fundamentally retrieval-and-assem",
-    "Metadata": {
-      "score": "437",
-      "author": "HenryNdubuaku",
-      "commentCount": "149"
-    },
-    "FetchedAt": "2026-05-13T08:36:27.3025398+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48113895"
-    },
-    "Type": 1,
-    "Title": "How to make your text look futuristic (2016)",
-    "Url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-    "Description": "How to make your text look futuristic (2016)",
-    "Metadata": {
-      "score": "326",
-      "author": "_vaporwave_",
-      "commentCount": "37"
-    },
-    "FetchedAt": "2026-05-13T08:36:27.3361248+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48115823"
-    },
-    "Type": 1,
-    "Title": "Kraftwerk\u0027s radical 1976 track",
-    "Url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
-    "Description": "Kraftwerk\u0027s radical 1976 track",
-    "Metadata": {
-      "score": "148",
-      "author": "tcp_handshaker",
-      "commentCount": "88"
-    },
-    "FetchedAt": "2026-05-13T08:36:27.3789541+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48112042"
-    },
-    "Type": 1,
-    "Title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-    "Url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-    "Description": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-    "Metadata": {
-      "score": "309",
-      "author": "chizhik-pyzhik",
-      "commentCount": "145"
-    },
-    "FetchedAt": "2026-05-13T08:36:27.4126186+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48109460"
-    },
-    "Type": 1,
-    "Title": "Why senior developers fail to communicate their expertise",
-    "Url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-    "Description": "Why senior developers fail to communicate their expertise",
-    "Metadata": {
-      "score": "544",
-      "author": "nilirl",
-      "commentCount": "234"
-    },
-    "FetchedAt": "2026-05-13T08:36:27.4448656+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48091898"
-    },
-    "Type": 1,
-    "Title": "Traceway: MIT-licensed observability stack you can self-host in ~90s",
-    "Url": "https://github.com/tracewayapp/traceway",
-    "Description": "Traceway: MIT-licensed observability stack you can self-host in ~90s",
-    "Metadata": {
-      "score": "92",
-      "author": "sebakubisz",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-05-13T08:36:27.4771698+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48116207"
-    },
-    "Type": 1,
-    "Title": "My graduation cap runs Rust",
-    "Url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
-    "Description": "My graduation cap runs Rust",
-    "Metadata": {
-      "score": "149",
-      "author": "ericswpark",
-      "commentCount": "43"
-    },
-    "FetchedAt": "2026-05-13T08:36:27.5100842+00:00"
   },
   {
     "ExternalId": {
@@ -346,66 +196,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48107997"
-    },
-    "Type": 1,
-    "Title": "Rendering the Sky, Sunsets, and Planets",
-    "Url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-    "Description": "Rendering the Sky, Sunsets, and Planets",
-    "Metadata": {
-      "score": "468",
-      "author": "ibobev",
-      "commentCount": "38"
-    },
-    "FetchedAt": "2026-05-13T08:36:27.6071828+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48114356"
-    },
-    "Type": 1,
-    "Title": "Scrcpy v4.0",
-    "Url": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
-    "Description": "Scrcpy v4.0",
-    "Metadata": {
-      "score": "162",
-      "author": "xnx",
-      "commentCount": "22"
-    },
-    "FetchedAt": "2026-05-13T08:36:27.6391167+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48116064"
-    },
-    "Type": 1,
-    "Title": "When \u0022idle\u0022 isn\u0027t idle: how a Linux kernel optimization became a QUIC bug",
-    "Url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
-    "Description": "When \u0022idle\u0022 isn\u0027t idle: how a Linux kernel optimization became a QUIC bug",
-    "Metadata": {
-      "score": "83",
-      "author": "sbulaev",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-05-13T08:36:27.6720101+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48111765"
-    },
-    "Type": 1,
-    "Title": "Quack: The DuckDB Client-Server Protocol",
-    "Url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
-    "Description": "Quack: The DuckDB Client-Server Protocol",
-    "Metadata": {
-      "score": "274",
-      "author": "aduffy",
-      "commentCount": "56"
-    },
-    "FetchedAt": "2026-05-13T08:36:27.7038016+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48087643"
     },
     "Type": 1,
@@ -418,21 +208,6 @@
       "commentCount": "9"
     },
     "FetchedAt": "2026-05-13T08:36:27.7378755+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48109970"
-    },
-    "Type": 1,
-    "Title": "The Future of Obsidian Plugins",
-    "Url": "https://obsidian.md/blog/future-of-plugins/",
-    "Description": "The Future of Obsidian Plugins",
-    "Metadata": {
-      "score": "369",
-      "author": "xz18r",
-      "commentCount": "138"
-    },
-    "FetchedAt": "2026-05-13T08:36:27.7702936+00:00"
   },
   {
     "ExternalId": {
@@ -511,21 +286,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48111243"
-    },
-    "Type": 1,
-    "Title": "As researchers age, they produce less disruptive work",
-    "Url": "https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650",
-    "Description": "As researchers age, they produce less disruptive work",
-    "Metadata": {
-      "score": "65",
-      "author": "Brajeshwar",
-      "commentCount": "61"
-    },
-    "FetchedAt": "2026-05-13T08:36:27.9614278+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48116781"
     },
     "Type": 1,
@@ -583,5 +343,455 @@
       "commentCount": "41"
     },
     "FetchedAt": "2026-05-13T08:36:28.0904101+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48120629"
+    },
+    "Type": 1,
+    "Title": "I Moved My Digital Stack to Europe",
+    "Url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
+    "Description": "I Moved My Digital Stack to Europe",
+    "Metadata": {
+      "score": "374",
+      "author": "monokai_nl",
+      "commentCount": "261"
+    },
+    "FetchedAt": "2026-05-13T14:14:57.3161497+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48121266"
+    },
+    "Type": 1,
+    "Title": "Why I\u0027m leaving GitHub for Forgejo",
+    "Url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
+    "Description": "Why I\u0027m leaving GitHub for Forgejo",
+    "Metadata": {
+      "score": "136",
+      "author": "jorijn",
+      "commentCount": "93"
+    },
+    "FetchedAt": "2026-05-13T14:14:57.3483409+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48121929"
+    },
+    "Type": 1,
+    "Title": "The US Is Winning the AI Race",
+    "Url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+    "Description": "The US Is Winning the AI Race",
+    "Metadata": {
+      "score": "11",
+      "author": "akrylov",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-13T14:14:57.3819111+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48091812"
+    },
+    "Type": 1,
+    "Title": "Preserving Fisher-Price Pixter",
+    "Url": "https://dmitry.gr/?r=05.Projects\u0026proj=37.%20Pixter",
+    "Description": "Preserving Fisher-Price Pixter",
+    "Metadata": {
+      "score": "103",
+      "author": "dmitrygr",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-05-13T14:14:57.4128832+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48093578"
+    },
+    "Type": 1,
+    "Title": "An idiot\u0027s guide to lead optimisation for proteins",
+    "Url": "https://magnusross.github.io/posts/protein-lead-optimisation-1/",
+    "Description": "An idiot\u0027s guide to lead optimisation for proteins",
+    "Metadata": {
+      "score": "23",
+      "author": "magni121",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-13T14:14:57.4438708+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48121299"
+    },
+    "Type": 1,
+    "Title": "Dutch suicide prevention website shares data with tech companies without consent",
+    "Url": "https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies",
+    "Description": "Dutch suicide prevention website shares data with tech companies without consent",
+    "Metadata": {
+      "score": "80",
+      "author": "giuliomagnifico",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-05-13T14:14:57.4745076+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48089921"
+    },
+    "Type": 1,
+    "Title": "New stainless steel can survive conditions for hydrogen production in seawater",
+    "Url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.sciencedirect.com\u0026#x2F;science\u0026#x2F;article\u0026#x2F;abs\u0026#x2F;pii\u0026#x2F;S1369702123002390?via%3Dihub\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.sciencedirect.com\u0026#x2F;science\u0026#x2F;article\u0026#x2F;abs\u0026#x2F;pii\u0026#x2F;S13697...\u003C/a\u003E",
+    "Metadata": {
+      "score": "163",
+      "author": "HardwareLust",
+      "commentCount": "54"
+    },
+    "FetchedAt": "2026-05-13T14:14:57.5062877+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48115127"
+    },
+    "Type": 1,
+    "Title": "Restore full BambuNetwork support for Bambu Lab printers",
+    "Url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+    "Description": "Restore full BambuNetwork support for Bambu Lab printers",
+    "Metadata": {
+      "score": "544",
+      "author": "Murfalo",
+      "commentCount": "238"
+    },
+    "FetchedAt": "2026-05-13T14:14:57.5414004+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48117810"
+    },
+    "Type": 1,
+    "Title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+    "Url": "https://arxiv.org/abs/2605.08419",
+    "Description": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+    "Metadata": {
+      "score": "244",
+      "author": "matt_d",
+      "commentCount": "58"
+    },
+    "FetchedAt": "2026-05-13T14:14:57.5767983+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48120776"
+    },
+    "Type": 1,
+    "Title": "Substrate (YC S24) Is Hiring a Technical Success Manager",
+    "Url": "https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager",
+    "Description": "Substrate (YC S24) Is Hiring a Technical Success Manager",
+    "Metadata": {
+      "score": "1",
+      "author": "kunle",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-13T14:14:57.6073642+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48077924"
+    },
+    "Type": 1,
+    "Title": "Reverting the incremental GC in Python 3.14 and 3.15",
+    "Url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
+    "Description": "Reverting the incremental GC in Python 3.14 and 3.15",
+    "Metadata": {
+      "score": "15",
+      "author": "curiousgal",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-13T14:14:57.6382197+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48078452"
+    },
+    "Type": 1,
+    "Title": "Web Server on a Nintendo Wii",
+    "Url": "http://wii.sjmulder.nl/",
+    "Description": "Web Server on a Nintendo Wii",
+    "Metadata": {
+      "score": "52",
+      "author": "adunk",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-05-13T14:14:57.6708461+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48111545"
+    },
+    "Type": 1,
+    "Title": "Googlebook",
+    "Url": "https://googlebook.google/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.reddit.com\u0026#x2F;r\u0026#x2F;Android\u0026#x2F;comments\u0026#x2F;1tb8xls\u0026#x2F;introducing_googlebook_a_new_category_of_laptops\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.reddit.com\u0026#x2F;r\u0026#x2F;Android\u0026#x2F;comments\u0026#x2F;1tb8xls\u0026#x2F;introducin...\u003C/a\u003E",
+    "Metadata": {
+      "score": "849",
+      "author": "tambourine_man",
+      "commentCount": "1390"
+    },
+    "FetchedAt": "2026-05-13T14:14:57.7015577+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48120351"
+    },
+    "Type": 1,
+    "Title": "Using OR-Tools CP-SAT for Scheduling Problems",
+    "Url": "https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html",
+    "Description": "Using OR-Tools CP-SAT for Scheduling Problems",
+    "Metadata": {
+      "score": "28",
+      "author": "akutlay",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-05-13T14:14:57.7335492+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48111896"
+    },
+    "Type": 1,
+    "Title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+    "Url": "https://github.com/cactus-compute/needle",
+    "Description": "Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok\u0026#x2F;s prefill and 1200 tok\u0026#x2F;s decode on consumer devices.\u003Cp\u003EWe were always frustrated by the little effort made towards building agentic models that run on budget phones, so we conducted investigations that led to an observation: agentic experiences are built upon tool calling, and massive models are overkill for it. Tool calling is fundamentally retrieval-and-assem",
+    "Metadata": {
+      "score": "546",
+      "author": "HenryNdubuaku",
+      "commentCount": "157"
+    },
+    "FetchedAt": "2026-05-13T14:14:57.768183+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48121717"
+    },
+    "Type": 1,
+    "Title": "Software Developers Say AI Is Rotting Their Brains",
+    "Url": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/",
+    "Description": "Software Developers Say AI Is Rotting Their Brains",
+    "Metadata": {
+      "score": "26",
+      "author": "SpyCoder77",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-05-13T14:14:57.8034545+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48119326"
+    },
+    "Type": 1,
+    "Title": "Cost of enum-to-string: C\u002B\u002B26 reflection vs. the old ways",
+    "Url": "https://vittorioromeo.com/index/blog/refl_enum_to_string.html",
+    "Description": "Cost of enum-to-string: C\u002B\u002B26 reflection vs. the old ways",
+    "Metadata": {
+      "score": "33",
+      "author": "sagacity",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-05-13T14:14:57.8343761+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48062447"
+    },
+    "Type": 1,
+    "Title": "The Boring Part of Bell Labs (2025)",
+    "Url": "https://acesounderglass.com/2025/11/15/the-boring-part-of-bell-labs/",
+    "Description": "The Boring Part of Bell Labs (2025)",
+    "Metadata": {
+      "score": "65",
+      "author": "surprisetalk",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-05-13T14:14:57.8694754+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48113895"
+    },
+    "Type": 1,
+    "Title": "How to make your text look futuristic (2016)",
+    "Url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+    "Description": "How to make your text look futuristic (2016)",
+    "Metadata": {
+      "score": "414",
+      "author": "_vaporwave_",
+      "commentCount": "55"
+    },
+    "FetchedAt": "2026-05-13T14:14:57.9033886+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48109460"
+    },
+    "Type": 1,
+    "Title": "Why senior developers fail to communicate their expertise",
+    "Url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+    "Description": "Why senior developers fail to communicate their expertise",
+    "Metadata": {
+      "score": "670",
+      "author": "nilirl",
+      "commentCount": "290"
+    },
+    "FetchedAt": "2026-05-13T14:14:57.9367939+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48112042"
+    },
+    "Type": 1,
+    "Title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+    "Url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+    "Description": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+    "Metadata": {
+      "score": "346",
+      "author": "chizhik-pyzhik",
+      "commentCount": "180"
+    },
+    "FetchedAt": "2026-05-13T14:14:57.9674409+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48114356"
+    },
+    "Type": 1,
+    "Title": "Scrcpy v4.0",
+    "Url": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
+    "Description": "Scrcpy v4.0",
+    "Metadata": {
+      "score": "279",
+      "author": "xnx",
+      "commentCount": "41"
+    },
+    "FetchedAt": "2026-05-13T14:14:58.0012575+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48116064"
+    },
+    "Type": 1,
+    "Title": "When \u201Cidle\u201D isn\u0027t idle: how a Linux kernel optimization became a QUIC bug",
+    "Url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
+    "Description": "When \u201Cidle\u201D isn\u0027t idle: how a Linux kernel optimization became a QUIC bug",
+    "Metadata": {
+      "score": "128",
+      "author": "sbulaev",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-05-13T14:14:58.0347641+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48091898"
+    },
+    "Type": 1,
+    "Title": "Traceway: MIT-licensed observability stack you can self-host in ~90s",
+    "Url": "https://github.com/tracewayapp/traceway",
+    "Description": "Traceway: MIT-licensed observability stack you can self-host in ~90s",
+    "Metadata": {
+      "score": "138",
+      "author": "sebakubisz",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-05-13T14:14:58.0681764+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48107997"
+    },
+    "Type": 1,
+    "Title": "Rendering the Sky, Sunsets, and Planets",
+    "Url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+    "Description": "Rendering the Sky, Sunsets, and Planets",
+    "Metadata": {
+      "score": "505",
+      "author": "ibobev",
+      "commentCount": "40"
+    },
+    "FetchedAt": "2026-05-13T14:14:58.0989002+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48111765"
+    },
+    "Type": 1,
+    "Title": "Quack: The DuckDB Client-Server Protocol",
+    "Url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
+    "Description": "Quack: The DuckDB Client-Server Protocol",
+    "Metadata": {
+      "score": "331",
+      "author": "aduffy",
+      "commentCount": "71"
+    },
+    "FetchedAt": "2026-05-13T14:14:58.1313917+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48115823"
+    },
+    "Type": 1,
+    "Title": "Kraftwerk\u0027s radical 1976 track",
+    "Url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
+    "Description": "Kraftwerk\u0027s radical 1976 track",
+    "Metadata": {
+      "score": "203",
+      "author": "tcp_handshaker",
+      "commentCount": "166"
+    },
+    "FetchedAt": "2026-05-13T14:14:58.168192+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48116207"
+    },
+    "Type": 1,
+    "Title": "My graduation cap runs Rust",
+    "Url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
+    "Description": "My graduation cap runs Rust",
+    "Metadata": {
+      "score": "183",
+      "author": "ericswpark",
+      "commentCount": "70"
+    },
+    "FetchedAt": "2026-05-13T14:14:58.2021358+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48109970"
+    },
+    "Type": 1,
+    "Title": "The Future of Obsidian Plugins",
+    "Url": "https://obsidian.md/blog/future-of-plugins/",
+    "Description": "The Future of Obsidian Plugins",
+    "Metadata": {
+      "score": "417",
+      "author": "xz18r",
+      "commentCount": "151"
+    },
+    "FetchedAt": "2026-05-13T14:14:58.2345096+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48111243"
+    },
+    "Type": 1,
+    "Title": "As researchers age, they produce less disruptive work",
+    "Url": "https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650",
+    "Description": "As researchers age, they produce less disruptive work",
+    "Metadata": {
+      "score": "108",
+      "author": "Brajeshwar",
+      "commentCount": "102"
+    },
+    "FetchedAt": "2026-05-13T14:14:58.2693135+00:00"
   }
 ]
