@@ -1,96 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:48129694"
-    },
-    "Type": 1,
-    "Title": "Scorched Earth 2000 is back",
-    "Url": "http://www.scorch2000.com/web/",
-    "Description": "Scorched Earth 2000 is back",
-    "Metadata": {
-      "score": "76",
-      "author": "meshko",
-      "commentCount": "26"
-    },
-    "FetchedAt": "2026-05-14T02:31:19.5984015+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48087887"
-    },
-    "Type": 1,
-    "Title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-    "Url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-    "Description": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-    "Metadata": {
-      "score": "550",
-      "author": "haunter",
-      "commentCount": "353"
-    },
-    "FetchedAt": "2026-05-14T02:31:19.6153974+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48122635"
-    },
-    "Type": 1,
-    "Title": "Setting up a free *.city.state.us locality domain (2025)",
-    "Url": "https://fredchan.org/blog/locality-domains-guide/",
-    "Description": "Setting up a free *.city.state.us locality domain (2025)",
-    "Metadata": {
-      "score": "505",
-      "author": "speckx",
-      "commentCount": "161"
-    },
-    "FetchedAt": "2026-05-14T02:31:19.6373528+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48073979"
-    },
-    "Type": 1,
-    "Title": "A History of IDEs at Google",
-    "Url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
-    "Description": "A History of IDEs at Google",
-    "Metadata": {
-      "score": "284",
-      "author": "laurentlb",
-      "commentCount": "210"
-    },
-    "FetchedAt": "2026-05-14T02:31:19.652836+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48096760"
-    },
-    "Type": 1,
-    "Title": "Chess puzzle I found in my dad\u0027s old book",
-    "Url": "https://ardoedo.it/kempelen/",
-    "Description": "Chess puzzle I found in my dad\u0027s old book",
-    "Metadata": {
-      "score": "95",
-      "author": "Eswo",
-      "commentCount": "28"
-    },
-    "FetchedAt": "2026-05-14T02:31:19.6709429+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48118727"
-    },
-    "Type": 1,
-    "Title": "The Emacsification of Software",
-    "Url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
-    "Description": "The Emacsification of Software",
-    "Metadata": {
-      "score": "202",
-      "author": "rdslw",
-      "commentCount": "139"
-    },
-    "FetchedAt": "2026-05-14T02:31:19.6862411+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48095782"
     },
     "Type": 1,
@@ -103,81 +13,6 @@
       "commentCount": "5"
     },
     "FetchedAt": "2026-05-14T02:31:19.7014681+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48126848"
-    },
-    "Type": 1,
-    "Title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
-    "Url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
-    "Description": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
-    "Metadata": {
-      "score": "264",
-      "author": "bookofjoe",
-      "commentCount": "367"
-    },
-    "FetchedAt": "2026-05-14T02:31:19.7171013+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48115438"
-    },
-    "Type": 1,
-    "Title": "Twin brothers wipe 96 government databases minutes after being fired",
-    "Url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
-    "Description": "Twin brothers wipe 96 government databases minutes after being fired",
-    "Metadata": {
-      "score": "316",
-      "author": "jnord",
-      "commentCount": "240"
-    },
-    "FetchedAt": "2026-05-14T02:31:19.7326465+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48080755"
-    },
-    "Type": 1,
-    "Title": "Xs of Y \u2013 roguelike that names itself every run. Written in 4kLoC",
-    "Url": "https://github.com/nooga/xsofy",
-    "Description": "Xs of Y \u2013 roguelike that names itself every run. Written in 4kLoC",
-    "Metadata": {
-      "score": "162",
-      "author": "andsoitis",
-      "commentCount": "70"
-    },
-    "FetchedAt": "2026-05-14T02:31:19.7503277+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48124436"
-    },
-    "Type": 1,
-    "Title": "Launch HN: Ardent (YC P26) \u2013 Postgres sandboxes in seconds with zero migration",
-    "Url": "https://www.tryardent.com/",
-    "Description": "Hey HN! We\u2019re Vikram and Evan from Ardent (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;tryardent.com\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;tryardent.com\u003C/a\u003E). We\u0026#x27;re building database sandboxes for you and your coding agents.\u003Cp\u003EIn the last two years coding agents have gotten dramatically more capable at handling complex engineering tasks. But without access to a realistic sandbox at the DB layer for testing, they ship garbage that can take down production databases. I spent over a year building an AI Data Engineer that failed ",
-    "Metadata": {
-      "score": "69",
-      "author": "vc289",
-      "commentCount": "32"
-    },
-    "FetchedAt": "2026-05-14T02:31:19.7665665+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48121929"
-    },
-    "Type": 1,
-    "Title": "The US is winning the AI race where it matters most: commercialization",
-    "Url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-    "Description": "The US is winning the AI race where it matters most: commercialization",
-    "Metadata": {
-      "score": "166",
-      "author": "akrylov",
-      "commentCount": "473"
-    },
-    "FetchedAt": "2026-05-14T02:31:19.7823582+00:00"
   },
   {
     "ExternalId": {
@@ -208,21 +43,6 @@
       "commentCount": "0"
     },
     "FetchedAt": "2026-05-14T02:31:19.8158512+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48077924"
-    },
-    "Type": 1,
-    "Title": "Reverting the incremental GC in Python 3.14 and 3.15",
-    "Url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
-    "Description": "Reverting the incremental GC in Python 3.14 and 3.15",
-    "Metadata": {
-      "score": "204",
-      "author": "curiousgal",
-      "commentCount": "79"
-    },
-    "FetchedAt": "2026-05-14T02:31:19.8323002+00:00"
   },
   {
     "ExternalId": {
@@ -268,21 +88,6 @@
       "commentCount": "16"
     },
     "FetchedAt": "2026-05-14T02:31:19.8790527+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48111896"
-    },
-    "Type": 1,
-    "Title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-    "Url": "https://github.com/cactus-compute/needle",
-    "Description": "Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok\u0026#x2F;s prefill and 1200 tok\u0026#x2F;s decode on consumer devices.\u003Cp\u003EWe were always frustrated by the little effort made towards building agentic models that run on budget phones, so we conducted investigations that led to an observation: agentic experiences are built upon tool calling, and massive models are overkill for it. Tool calling is fundamentally retrieval-and-assem",
-    "Metadata": {
-      "score": "641",
-      "author": "HenryNdubuaku",
-      "commentCount": "184"
-    },
-    "FetchedAt": "2026-05-14T02:31:19.8960496+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +253,455 @@
       "commentCount": "1"
     },
     "FetchedAt": "2026-05-14T02:31:20.0819859+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48130950"
+    },
+    "Type": 1,
+    "Title": "Claude for Small Business",
+    "Url": "https://www.anthropic.com/news/claude-for-small-business",
+    "Description": "Claude for Small Business",
+    "Metadata": {
+      "score": "201",
+      "author": "neilfrndes",
+      "commentCount": "127"
+    },
+    "FetchedAt": "2026-05-14T08:30:17.6361839+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48129694"
+    },
+    "Type": 1,
+    "Title": "Scorched Earth 2000 \u2013 Web",
+    "Url": "http://www.scorch2000.com/web/",
+    "Description": "Scorched Earth 2000 \u2013 Web",
+    "Metadata": {
+      "score": "231",
+      "author": "meshko",
+      "commentCount": "94"
+    },
+    "FetchedAt": "2026-05-14T08:30:17.6704365+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48087887"
+    },
+    "Type": 1,
+    "Title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+    "Url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+    "Description": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+    "Metadata": {
+      "score": "694",
+      "author": "haunter",
+      "commentCount": "450"
+    },
+    "FetchedAt": "2026-05-14T08:30:17.7050727+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48132030"
+    },
+    "Type": 1,
+    "Title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
+    "Url": "https://classic7.lol/",
+    "Description": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
+    "Metadata": {
+      "score": "10",
+      "author": "jandeboevrie",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-05-14T08:30:17.7400675+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48130711"
+    },
+    "Type": 1,
+    "Title": "Arena AI Model ELO History",
+    "Url": "https://mayerwin.github.io/AI-Arena-History/",
+    "Description": "Hi HN,\u003Cp\u003EI built a live tracker to visualize the lifecycle and performance changes of flagship AI models.\u003Cp\u003EWe\u0026#x27;ve all experienced the phenomenon where a flagship model feels amazing at launch, but weeks later, it suddenly feels a bit off. I wanted to see if this was just a feeling or a measurable reality, so I built a dashboard to track historical ELO ratings from Arena AI.\u003Cp\u003EInstead of a massive spaghetti chart of every single model variant, the logic plots exactly ONE continuous curve per",
+    "Metadata": {
+      "score": "54",
+      "author": "mayerwin",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-05-14T08:30:17.7740457+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48122635"
+    },
+    "Type": 1,
+    "Title": "Setting up a free *.city.state.us locality domain (2025)",
+    "Url": "https://fredchan.org/blog/locality-domains-guide/",
+    "Description": "Setting up a free *.city.state.us locality domain (2025)",
+    "Metadata": {
+      "score": "553",
+      "author": "speckx",
+      "commentCount": "173"
+    },
+    "FetchedAt": "2026-05-14T08:30:17.8086089+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48125617"
+    },
+    "Type": 1,
+    "Title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
+    "Url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
+    "Description": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
+    "Metadata": {
+      "score": "205",
+      "author": "tosh",
+      "commentCount": "213"
+    },
+    "FetchedAt": "2026-05-14T08:30:17.8433161+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48073979"
+    },
+    "Type": 1,
+    "Title": "A History of IDEs at Google",
+    "Url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+    "Description": "A History of IDEs at Google",
+    "Metadata": {
+      "score": "359",
+      "author": "laurentlb",
+      "commentCount": "241"
+    },
+    "FetchedAt": "2026-05-14T08:30:17.8800355+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48118727"
+    },
+    "Type": 1,
+    "Title": "The Emacsification of Software",
+    "Url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
+    "Description": "The Emacsification of Software",
+    "Metadata": {
+      "score": "288",
+      "author": "rdslw",
+      "commentCount": "188"
+    },
+    "FetchedAt": "2026-05-14T08:30:17.9160856+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48102901"
+    },
+    "Type": 1,
+    "Title": "Extraordinary Ordinals",
+    "Url": "https://text.marvinborner.de/2026-04-09-17.html",
+    "Description": "Extraordinary Ordinals",
+    "Metadata": {
+      "score": "19",
+      "author": "marvinborner",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-05-14T08:30:17.9511763+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48132159"
+    },
+    "Type": 1,
+    "Title": "What the Hell Was Going on with Cigarette Ads in the 70s?",
+    "Url": "https://tohippo.com/what-the-hell-was-going-on-with-cigarette-ads-in-the-70s/",
+    "Description": "What the Hell Was Going on with Cigarette Ads in the 70s?",
+    "Metadata": {
+      "score": "4",
+      "author": "Vasbarlog",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-05-14T08:30:17.9865868+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48130123"
+    },
+    "Type": 1,
+    "Title": "Cisco workforce reductions",
+    "Url": "https://blogs.cisco.com/news/our-path-forward",
+    "Description": "Cisco workforce reductions",
+    "Metadata": {
+      "score": "187",
+      "author": "ahmedomran8",
+      "commentCount": "172"
+    },
+    "FetchedAt": "2026-05-14T08:30:18.0211183+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48115438"
+    },
+    "Type": 1,
+    "Title": "Twin brothers wipe 96 government databases minutes after being fired",
+    "Url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
+    "Description": "Twin brothers wipe 96 government databases minutes after being fired",
+    "Metadata": {
+      "score": "406",
+      "author": "jnord",
+      "commentCount": "311"
+    },
+    "FetchedAt": "2026-05-14T08:30:18.0548703+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48130186"
+    },
+    "Type": 1,
+    "Title": "Show HN: Nibble",
+    "Url": "https://github.com/glouw/nibble",
+    "Description": "An attempt at a single pass LLVM frontend in ~3000 lines of C without external dependencies, malloc, or an AST. Included are some graphical examples. The IR isn\u0026#x27;t perfect, and the README touches on one particular downfall",
+    "Metadata": {
+      "score": "51",
+      "author": "glouwbug",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-05-14T08:30:18.0889671+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48129934"
+    },
+    "Type": 1,
+    "Title": "Avoiding and reducing microplastic false positives from dry glove contact",
+    "Url": "https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c",
+    "Description": "Avoiding and reducing microplastic false positives from dry glove contact",
+    "Metadata": {
+      "score": "40",
+      "author": "efavdb",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-14T08:30:18.1228352+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48129953"
+    },
+    "Type": 1,
+    "Title": "delta time",
+    "Url": "https://www.deltatime.life/",
+    "Description": "delta time",
+    "Metadata": {
+      "score": "44",
+      "author": "mxfh",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-05-14T08:30:18.1584298+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48096760"
+    },
+    "Type": 1,
+    "Title": "Chess puzzle I found in my dad\u0027s old book",
+    "Url": "https://ardoedo.it/kempelen/",
+    "Description": "Chess puzzle I found in my dad\u0027s old book",
+    "Metadata": {
+      "score": "151",
+      "author": "Eswo",
+      "commentCount": "40"
+    },
+    "FetchedAt": "2026-05-14T08:30:18.193133+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48121929"
+    },
+    "Type": 1,
+    "Title": "The US is winning the AI race where it matters most: commercialization",
+    "Url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+    "Description": "The US is winning the AI race where it matters most: commercialization",
+    "Metadata": {
+      "score": "196",
+      "author": "akrylov",
+      "commentCount": "532"
+    },
+    "FetchedAt": "2026-05-14T08:30:18.2273695+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48080755"
+    },
+    "Type": 1,
+    "Title": "Xs of Y \u2013 roguelike that names itself every run. Written in 4kLoC",
+    "Url": "https://github.com/nooga/xsofy",
+    "Description": "Xs of Y \u2013 roguelike that names itself every run. Written in 4kLoC",
+    "Metadata": {
+      "score": "181",
+      "author": "andsoitis",
+      "commentCount": "76"
+    },
+    "FetchedAt": "2026-05-14T08:30:18.2622309+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48126848"
+    },
+    "Type": 1,
+    "Title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
+    "Url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
+    "Description": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
+    "Metadata": {
+      "score": "322",
+      "author": "bookofjoe",
+      "commentCount": "475"
+    },
+    "FetchedAt": "2026-05-14T08:30:18.2972233+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48111896"
+    },
+    "Type": 1,
+    "Title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+    "Url": "https://github.com/cactus-compute/needle",
+    "Description": "Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok\u0026#x2F;s prefill and 1200 tok\u0026#x2F;s decode on consumer devices.\u003Cp\u003EWe were always frustrated by the little effort made towards building agentic models that run on budget phones, so we conducted investigations that led to an observation: agentic experiences are built upon tool calling, and massive models are overkill for it. Tool calling is fundamentally retrieval-and-assem",
+    "Metadata": {
+      "score": "670",
+      "author": "HenryNdubuaku",
+      "commentCount": "188"
+    },
+    "FetchedAt": "2026-05-14T08:30:18.3317629+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48124436"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Ardent (YC P26) \u2013 Postgres sandboxes in seconds with zero migration",
+    "Url": "https://www.tryardent.com/",
+    "Description": "Hey HN! We\u2019re Vikram and Evan from Ardent (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;tryardent.com\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;tryardent.com\u003C/a\u003E). We\u0026#x27;re building database sandboxes for you and your coding agents.\u003Cp\u003EIn the last two years coding agents have gotten dramatically more capable at handling complex engineering tasks. But without access to a realistic sandbox at the DB layer for testing, they ship garbage that can take down production databases. I spent over a year building an AI Data Engineer that failed ",
+    "Metadata": {
+      "score": "85",
+      "author": "vc289",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-05-14T08:30:18.3671104+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48130519"
+    },
+    "Type": 1,
+    "Title": "Microsoft BitLocker \u2013 YellowKey zero-day exploit",
+    "Url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
+    "Description": "Microsoft BitLocker \u2013 YellowKey zero-day exploit",
+    "Metadata": {
+      "score": "145",
+      "author": "cookiengineer",
+      "commentCount": "80"
+    },
+    "FetchedAt": "2026-05-14T08:30:18.4018717+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48109772"
+    },
+    "Type": 1,
+    "Title": "Heritability of human life span is ~50% when heritability is redefined",
+    "Url": "https://dynomight.net/lifespan/",
+    "Description": "Heritability of human life span is ~50% when heritability is redefined",
+    "Metadata": {
+      "score": "95",
+      "author": "surprisetalk",
+      "commentCount": "54"
+    },
+    "FetchedAt": "2026-05-14T08:30:18.4365387+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48104285"
+    },
+    "Type": 1,
+    "Title": "Notes from Optimizing CPU-Bound Go Hot Paths",
+    "Url": "https://blog.andr2i.com/posts/2026-05-03-notes-from-optimizing-cpu-bound-go-hot-paths",
+    "Description": "Notes from Optimizing CPU-Bound Go Hot Paths",
+    "Metadata": {
+      "score": "9",
+      "author": "nnx",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-14T08:30:18.4724968+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48130679"
+    },
+    "Type": 1,
+    "Title": "A Claude Code and Codex Skill for Deliberate Skill Development",
+    "Url": "https://github.com/DrCatHicks/learning-opportunities",
+    "Description": "A Claude Code and Codex Skill for Deliberate Skill Development",
+    "Metadata": {
+      "score": "33",
+      "author": "cdrnsf",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-05-14T08:30:18.5371262+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48094986"
+    },
+    "Type": 1,
+    "Title": "How can Apple deal with the memory shortage?",
+    "Url": "https://asymco.com/2026/05/11/the-great-memory-panic-of-2026/",
+    "Description": "How can Apple deal with the memory shortage?",
+    "Metadata": {
+      "score": "93",
+      "author": "tambourine_man",
+      "commentCount": "94"
+    },
+    "FetchedAt": "2026-05-14T08:30:18.5846092+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48077924"
+    },
+    "Type": 1,
+    "Title": "Reverting the incremental GC in Python 3.14 and 3.15",
+    "Url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
+    "Description": "Reverting the incremental GC in Python 3.14 and 3.15",
+    "Metadata": {
+      "score": "225",
+      "author": "curiousgal",
+      "commentCount": "90"
+    },
+    "FetchedAt": "2026-05-14T08:30:18.6353584+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48111652"
+    },
+    "Type": 1,
+    "Title": "The Deathbed Notes of Henry James (1968)",
+    "Url": "https://www.theatlantic.com/past/docs/unbound/flashbks/james/jnote.htm",
+    "Description": "The Deathbed Notes of Henry James (1968)",
+    "Metadata": {
+      "score": "3",
+      "author": "Hooke",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-14T08:30:18.6695138+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48099347"
+    },
+    "Type": 1,
+    "Title": "Golden Testing a CAD Library",
+    "Url": "https://doscienceto.it/blog/posts/2026-04-27-golden-testing-cad.html",
+    "Description": "Golden Testing a CAD Library",
+    "Metadata": {
+      "score": "21",
+      "author": "PaulHoule",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-05-14T08:30:18.7034497+00:00"
   }
 ]
