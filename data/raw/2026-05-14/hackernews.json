@@ -496,81 +496,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48134743"
-    },
-    "Type": 1,
-    "Title": "Computer Hobby Movement in Canada",
-    "Url": "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada",
-    "Description": "Computer Hobby Movement in Canada",
-    "Metadata": {
-      "score": "22",
-      "author": "rbanffy",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-05-14T13:52:12.6736149+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48133561"
-    },
-    "Type": 1,
-    "Title": "Show HN: Running the second public ODoH relay",
-    "Url": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
-    "Description": "Every privacy-focused DNS service requires an account: NextDNS, Cloudflare for Families, Apple\u0026#x27;s iCloud Private Relay (paid, iOS-only). The protocol that doesn\u2019t require one - ODoH - had basically one well-known public relay operator (Frank Denis on Fastly Compute, default in dnscrypt-proxy). I built a second one and the client to talk to it.",
-    "Metadata": {
-      "score": "62",
-      "author": "rdme",
-      "commentCount": "17"
-    },
-    "FetchedAt": "2026-05-14T13:52:12.7333319+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48130950"
-    },
-    "Type": 1,
-    "Title": "Claude for Small Business",
-    "Url": "https://www.anthropic.com/news/claude-for-small-business",
-    "Description": "Claude for Small Business",
-    "Metadata": {
-      "score": "372",
-      "author": "neilfrndes",
-      "commentCount": "333"
-    },
-    "FetchedAt": "2026-05-14T13:52:12.7791957+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48133908"
-    },
-    "Type": 1,
-    "Title": "Myths about /dev/urandom (2014)",
-    "Url": "https://www.2uo.de/myths-about-urandom/",
-    "Description": "Myths about /dev/urandom (2014)",
-    "Metadata": {
-      "score": "25",
-      "author": "signa11",
-      "commentCount": "20"
-    },
-    "FetchedAt": "2026-05-14T13:52:12.837836+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48099688"
-    },
-    "Type": 1,
-    "Title": "The Tree House: A voyage to the source of a backyard dream",
-    "Url": "https://www.laphamsquarterly.org/roundtable/tree-house",
-    "Description": "The Tree House: A voyage to the source of a backyard dream",
-    "Metadata": {
-      "score": "22",
-      "author": "Caiero",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-05-14T13:52:12.8810058+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48087887"
     },
     "Type": 1,
@@ -628,21 +553,6 @@
       "commentCount": "1"
     },
     "FetchedAt": "2026-05-14T13:52:13.1494452+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48084012"
-    },
-    "Type": 1,
-    "Title": "Leaving the Physical World",
-    "Url": "https://www.eff.org/pages/leaving-physical-world",
-    "Description": "Leaving the Physical World",
-    "Metadata": {
-      "score": "76",
-      "author": "andsoitis",
-      "commentCount": "27"
-    },
-    "FetchedAt": "2026-05-14T13:52:13.2089002+00:00"
   },
   {
     "ExternalId": {
@@ -928,5 +838,455 @@
       "commentCount": "614"
     },
     "FetchedAt": "2026-05-14T13:52:13.9989378+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48138136"
+    },
+    "Type": 1,
+    "Title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+    "Url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+    "Description": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+    "Metadata": {
+      "score": "231",
+      "author": "arkadiyt",
+      "commentCount": "88"
+    },
+    "FetchedAt": "2026-05-14T19:30:25.8133114+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48137145"
+    },
+    "Type": 1,
+    "Title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+    "Url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+    "Description": "RTX 5090 and M4 MacBook Air: Can It Game?",
+    "Metadata": {
+      "score": "315",
+      "author": "allenleee",
+      "commentCount": "84"
+    },
+    "FetchedAt": "2026-05-14T19:30:25.8731919+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48138268"
+    },
+    "Type": 1,
+    "Title": "New Nginx Exploit",
+    "Url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+    "Description": "New Nginx Exploit",
+    "Metadata": {
+      "score": "139",
+      "author": "hetsaraiya",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-05-14T19:30:25.9433487+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48139219"
+    },
+    "Type": 1,
+    "Title": "First public macOS kernel memory corruption exploit on Apple M5",
+    "Url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+    "Description": "First public macOS kernel memory corruption exploit on Apple M5",
+    "Metadata": {
+      "score": "24",
+      "author": "quadrige",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-05-14T19:30:26.0106927+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48136262"
+    },
+    "Type": 1,
+    "Title": "A message from President Kornbluth about funding and the talent pipeline",
+    "Url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
+    "Description": "A message from President Kornbluth about funding and the talent pipeline",
+    "Metadata": {
+      "score": "495",
+      "author": "dmayo",
+      "commentCount": "511"
+    },
+    "FetchedAt": "2026-05-14T19:30:26.0685455+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48139316"
+    },
+    "Type": 1,
+    "Title": "The Power of a Free Popsicle (2018)",
+    "Url": "https://www.gsb.stanford.edu/insights/power-free-popsicle",
+    "Description": "The Power of a Free Popsicle (2018)",
+    "Metadata": {
+      "score": "13",
+      "author": "NaOH",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-14T19:30:26.1259963+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48137553"
+    },
+    "Type": 1,
+    "Title": "HDD Firmware Hacking",
+    "Url": "https://icode4.coffee/?p=1465",
+    "Description": "HDD Firmware Hacking",
+    "Metadata": {
+      "score": "54",
+      "author": "jsploit",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-05-14T19:30:26.1971094+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48134743"
+    },
+    "Type": 1,
+    "Title": "Computer Hobby Movement in Canada",
+    "Url": "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada",
+    "Description": "Computer Hobby Movement in Canada",
+    "Metadata": {
+      "score": "149",
+      "author": "rbanffy",
+      "commentCount": "40"
+    },
+    "FetchedAt": "2026-05-14T19:30:26.2557108+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48139355"
+    },
+    "Type": 1,
+    "Title": "The AI Zombification of Universities",
+    "Url": "https://www.thenewcritic.com/p/the-great-zombification",
+    "Description": "The AI Zombification of Universities",
+    "Metadata": {
+      "score": "12",
+      "author": "rmdmphilosopher",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-14T19:30:26.3110203+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48139144"
+    },
+    "Type": 1,
+    "Title": "You Don\u0027t Align an AI, You Align with It",
+    "Url": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
+    "Description": "You Don\u0027t Align an AI, You Align with It",
+    "Metadata": {
+      "score": "16",
+      "author": "danieltanfh95",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-05-14T19:30:26.3660891+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48138063"
+    },
+    "Type": 1,
+    "Title": "Terranox AI (YC W26) Is Hiring a Founding AI/ML Engineer and Summer AI/ML Intern",
+    "Url": "https://www.workatastartup.com/companies/terranox-ai",
+    "Description": "Terranox AI (YC W26) Is Hiring a Founding AI/ML Engineer and Summer AI/ML Intern",
+    "Metadata": {
+      "score": "1",
+      "author": "jadecheclair",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-14T19:30:26.4386518+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48100368"
+    },
+    "Type": 1,
+    "Title": "Fossils show millipede and centipede ancestors evolved legs underwater",
+    "Url": "https://phys.org/news/2026-05-ancient-sea-fossils-millipede-centipede.html",
+    "Description": "Fossils show millipede and centipede ancestors evolved legs underwater",
+    "Metadata": {
+      "score": "51",
+      "author": "gmays",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-05-14T19:30:26.5279883+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48108621"
+    },
+    "Type": 1,
+    "Title": "Int a = 5; a = a\u002B\u002B \u002B \u002B\u002Ba; a =? (2011)",
+    "Url": "https://gynvael.coldwind.pl/?id=372",
+    "Description": "Int a = 5; a = a\u002B\u002B \u002B \u002B\u002Ba; a =? (2011)",
+    "Metadata": {
+      "score": "27",
+      "author": "e-topy",
+      "commentCount": "48"
+    },
+    "FetchedAt": "2026-05-14T19:30:26.5838428+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48139148"
+    },
+    "Type": 1,
+    "Title": "AI is making me dumb",
+    "Url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+    "Description": "AI is making me dumb",
+    "Metadata": {
+      "score": "176",
+      "author": "Eighth",
+      "commentCount": "121"
+    },
+    "FetchedAt": "2026-05-14T19:30:26.6561644+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48136992"
+    },
+    "Type": 1,
+    "Title": "The conflation of money and things",
+    "Url": "https://lithub.com/is-it-even-real-on-the-conflation-of-money-and-things/",
+    "Description": "The conflation of money and things",
+    "Metadata": {
+      "score": "46",
+      "author": "bookofjoe",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-05-14T19:30:26.7126619+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48126241"
+    },
+    "Type": 1,
+    "Title": "EditLens: Quantifying the extent of AI editing in text (2025)",
+    "Url": "https://arxiv.org/abs/2510.03154",
+    "Description": "EditLens: Quantifying the extent of AI editing in text (2025)",
+    "Metadata": {
+      "score": "23",
+      "author": "horseradish",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-14T19:30:26.7753738+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48130950"
+    },
+    "Type": 1,
+    "Title": "Claude for Small Business",
+    "Url": "https://www.anthropic.com/news/claude-for-small-business",
+    "Description": "Claude for Small Business",
+    "Metadata": {
+      "score": "492",
+      "author": "neilfrndes",
+      "commentCount": "441"
+    },
+    "FetchedAt": "2026-05-14T19:30:26.8519442+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48138332"
+    },
+    "Type": 1,
+    "Title": "What\u0027s in a GGUF, besides the weights \u2013 and what\u0027s still missing?",
+    "Url": "https://nobodywho.ooo/posts/whats-in-a-gguf/",
+    "Description": "What\u0027s in a GGUF, besides the weights \u2013 and what\u0027s still missing?",
+    "Metadata": {
+      "score": "20",
+      "author": "bashbjorn",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-05-14T19:30:26.9074774+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48079933"
+    },
+    "Type": 1,
+    "Title": "60fps Video on a CGA? \u2013 The GlyphBlaster",
+    "Url": "https://martypc.blogspot.com/2026/05/60fps-video-on-cga-glyphblaster.html",
+    "Description": "60fps Video on a CGA? \u2013 The GlyphBlaster",
+    "Metadata": {
+      "score": "45",
+      "author": "tambourine_man",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-05-14T19:30:26.9847588+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48099240"
+    },
+    "Type": 1,
+    "Title": "London\u0027s Smallest Public Sculptures",
+    "Url": "https://lookup.london/londons-smallest-public-sculptures/",
+    "Description": "London\u0027s Smallest Public Sculptures",
+    "Metadata": {
+      "score": "5",
+      "author": "susam",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-14T19:30:27.042779+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48133561"
+    },
+    "Type": 1,
+    "Title": "Show HN: Running the second public ODoH relay",
+    "Url": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
+    "Description": "Every privacy-focused DNS service requires an account: NextDNS, Cloudflare for Families, Apple\u0026#x27;s iCloud Private Relay (paid, iOS-only). The protocol that doesn\u2019t require one - ODoH - had basically one well-known public relay operator (Frank Denis on Fastly Compute, default in dnscrypt-proxy). I built a second one and the client to talk to it.",
+    "Metadata": {
+      "score": "103",
+      "author": "rdme",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-05-14T19:30:27.099468+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48139912"
+    },
+    "Type": 1,
+    "Title": "Germany\u0027s Sovereign Tech Fund Backs KDE with \u20AC1.3M",
+    "Url": "https://www.theregister.com/oses/2026/05/14/kde-bags-13m-as-europe-realizes-it-might-need-an-os-of-its-own/5240562",
+    "Description": "Germany\u0027s Sovereign Tech Fund Backs KDE with \u20AC1.3M",
+    "Metadata": {
+      "score": "9",
+      "author": "Lihh27",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-14T19:30:27.1549034+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48132488"
+    },
+    "Type": 1,
+    "Title": "Rewrite Bun in Rust has been merged",
+    "Url": "https://github.com/oven-sh/bun/pull/30412",
+    "Description": "Rewrite Bun in Rust has been merged",
+    "Metadata": {
+      "score": "280",
+      "author": "Chaoses",
+      "commentCount": "338"
+    },
+    "FetchedAt": "2026-05-14T19:30:27.2121751+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48139220"
+    },
+    "Type": 1,
+    "Title": "Understanding the Linux Kernel: The Linux Kernel Startup",
+    "Url": "https://internals-for-interns.com/posts/linux-kernel-startup/",
+    "Description": "Understanding the Linux Kernel: The Linux Kernel Startup",
+    "Metadata": {
+      "score": "16",
+      "author": "valyala",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-14T19:30:27.2762227+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48139547"
+    },
+    "Type": 1,
+    "Title": "German intelligence offices snub Palantir software",
+    "Url": "https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897",
+    "Description": "German intelligence offices snub Palantir software",
+    "Metadata": {
+      "score": "13",
+      "author": "abawany",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-14T19:30:27.3334644+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48133908"
+    },
+    "Type": 1,
+    "Title": "Myths about /dev/urandom (2014)",
+    "Url": "https://www.2uo.de/myths-about-urandom/",
+    "Description": "Myths about /dev/urandom (2014)",
+    "Metadata": {
+      "score": "73",
+      "author": "signa11",
+      "commentCount": "40"
+    },
+    "FetchedAt": "2026-05-14T19:30:27.3899415+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48084012"
+    },
+    "Type": 1,
+    "Title": "Leaving the Physical World",
+    "Url": "https://www.eff.org/pages/leaving-physical-world",
+    "Description": "Leaving the Physical World",
+    "Metadata": {
+      "score": "164",
+      "author": "andsoitis",
+      "commentCount": "75"
+    },
+    "FetchedAt": "2026-05-14T19:30:27.4450098+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48099688"
+    },
+    "Type": 1,
+    "Title": "The Tree House: A voyage to the source of a backyard dream",
+    "Url": "https://www.laphamsquarterly.org/roundtable/tree-house",
+    "Description": "The Tree House: A voyage to the source of a backyard dream",
+    "Metadata": {
+      "score": "60",
+      "author": "Caiero",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-05-14T19:30:27.506104+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48139115"
+    },
+    "Type": 1,
+    "Title": "Grok Build",
+    "Url": "https://x.ai/news/grok-build-cli",
+    "Description": "Grok Build",
+    "Metadata": {
+      "score": "46",
+      "author": "meetpateltech",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-05-14T19:30:27.5618223+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48138913"
+    },
+    "Type": 1,
+    "Title": "DIY open-source ultrasound hardware on the rp2040/rp2350",
+    "Url": "http://un0rick.cc/pic0rick",
+    "Description": "DIY open-source ultrasound hardware on the rp2040/rp2350",
+    "Metadata": {
+      "score": "5",
+      "author": "kelu124",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-14T19:30:27.6164642+00:00"
   }
 ]
