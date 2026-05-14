@@ -256,66 +256,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48130950"
-    },
-    "Type": 1,
-    "Title": "Claude for Small Business",
-    "Url": "https://www.anthropic.com/news/claude-for-small-business",
-    "Description": "Claude for Small Business",
-    "Metadata": {
-      "score": "201",
-      "author": "neilfrndes",
-      "commentCount": "127"
-    },
-    "FetchedAt": "2026-05-14T08:30:17.6361839+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48129694"
-    },
-    "Type": 1,
-    "Title": "Scorched Earth 2000 \u2013 Web",
-    "Url": "http://www.scorch2000.com/web/",
-    "Description": "Scorched Earth 2000 \u2013 Web",
-    "Metadata": {
-      "score": "231",
-      "author": "meshko",
-      "commentCount": "94"
-    },
-    "FetchedAt": "2026-05-14T08:30:17.6704365+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48087887"
-    },
-    "Type": 1,
-    "Title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-    "Url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-    "Description": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-    "Metadata": {
-      "score": "694",
-      "author": "haunter",
-      "commentCount": "450"
-    },
-    "FetchedAt": "2026-05-14T08:30:17.7050727+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48132030"
-    },
-    "Type": 1,
-    "Title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
-    "Url": "https://classic7.lol/",
-    "Description": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
-    "Metadata": {
-      "score": "10",
-      "author": "jandeboevrie",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-05-14T08:30:17.7400675+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48130711"
     },
     "Type": 1,
@@ -328,81 +268,6 @@
       "commentCount": "29"
     },
     "FetchedAt": "2026-05-14T08:30:17.7740457+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48122635"
-    },
-    "Type": 1,
-    "Title": "Setting up a free *.city.state.us locality domain (2025)",
-    "Url": "https://fredchan.org/blog/locality-domains-guide/",
-    "Description": "Setting up a free *.city.state.us locality domain (2025)",
-    "Metadata": {
-      "score": "553",
-      "author": "speckx",
-      "commentCount": "173"
-    },
-    "FetchedAt": "2026-05-14T08:30:17.8086089+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48125617"
-    },
-    "Type": 1,
-    "Title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
-    "Url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
-    "Description": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
-    "Metadata": {
-      "score": "205",
-      "author": "tosh",
-      "commentCount": "213"
-    },
-    "FetchedAt": "2026-05-14T08:30:17.8433161+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48073979"
-    },
-    "Type": 1,
-    "Title": "A History of IDEs at Google",
-    "Url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
-    "Description": "A History of IDEs at Google",
-    "Metadata": {
-      "score": "359",
-      "author": "laurentlb",
-      "commentCount": "241"
-    },
-    "FetchedAt": "2026-05-14T08:30:17.8800355+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48118727"
-    },
-    "Type": 1,
-    "Title": "The Emacsification of Software",
-    "Url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
-    "Description": "The Emacsification of Software",
-    "Metadata": {
-      "score": "288",
-      "author": "rdslw",
-      "commentCount": "188"
-    },
-    "FetchedAt": "2026-05-14T08:30:17.9160856+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48102901"
-    },
-    "Type": 1,
-    "Title": "Extraordinary Ordinals",
-    "Url": "https://text.marvinborner.de/2026-04-09-17.html",
-    "Description": "Extraordinary Ordinals",
-    "Metadata": {
-      "score": "19",
-      "author": "marvinborner",
-      "commentCount": "9"
-    },
-    "FetchedAt": "2026-05-14T08:30:17.9511763+00:00"
   },
   {
     "ExternalId": {
@@ -451,36 +316,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48130186"
-    },
-    "Type": 1,
-    "Title": "Show HN: Nibble",
-    "Url": "https://github.com/glouw/nibble",
-    "Description": "An attempt at a single pass LLVM frontend in ~3000 lines of C without external dependencies, malloc, or an AST. Included are some graphical examples. The IR isn\u0026#x27;t perfect, and the README touches on one particular downfall",
-    "Metadata": {
-      "score": "51",
-      "author": "glouwbug",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-05-14T08:30:18.0889671+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48129934"
-    },
-    "Type": 1,
-    "Title": "Avoiding and reducing microplastic false positives from dry glove contact",
-    "Url": "https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c",
-    "Description": "Avoiding and reducing microplastic false positives from dry glove contact",
-    "Metadata": {
-      "score": "40",
-      "author": "efavdb",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-05-14T08:30:18.1228352+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48129953"
     },
     "Type": 1,
@@ -493,36 +328,6 @@
       "commentCount": "21"
     },
     "FetchedAt": "2026-05-14T08:30:18.1584298+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48096760"
-    },
-    "Type": 1,
-    "Title": "Chess puzzle I found in my dad\u0027s old book",
-    "Url": "https://ardoedo.it/kempelen/",
-    "Description": "Chess puzzle I found in my dad\u0027s old book",
-    "Metadata": {
-      "score": "151",
-      "author": "Eswo",
-      "commentCount": "40"
-    },
-    "FetchedAt": "2026-05-14T08:30:18.193133+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48121929"
-    },
-    "Type": 1,
-    "Title": "The US is winning the AI race where it matters most: commercialization",
-    "Url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-    "Description": "The US is winning the AI race where it matters most: commercialization",
-    "Metadata": {
-      "score": "196",
-      "author": "akrylov",
-      "commentCount": "532"
-    },
-    "FetchedAt": "2026-05-14T08:30:18.2273695+00:00"
   },
   {
     "ExternalId": {
@@ -553,21 +358,6 @@
       "commentCount": "475"
     },
     "FetchedAt": "2026-05-14T08:30:18.2972233+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48111896"
-    },
-    "Type": 1,
-    "Title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-    "Url": "https://github.com/cactus-compute/needle",
-    "Description": "Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok\u0026#x2F;s prefill and 1200 tok\u0026#x2F;s decode on consumer devices.\u003Cp\u003EWe were always frustrated by the little effort made towards building agentic models that run on budget phones, so we conducted investigations that led to an observation: agentic experiences are built upon tool calling, and massive models are overkill for it. Tool calling is fundamentally retrieval-and-assem",
-    "Metadata": {
-      "score": "670",
-      "author": "HenryNdubuaku",
-      "commentCount": "188"
-    },
-    "FetchedAt": "2026-05-14T08:30:18.3317629+00:00"
   },
   {
     "ExternalId": {
@@ -631,21 +421,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48130679"
-    },
-    "Type": 1,
-    "Title": "A Claude Code and Codex Skill for Deliberate Skill Development",
-    "Url": "https://github.com/DrCatHicks/learning-opportunities",
-    "Description": "A Claude Code and Codex Skill for Deliberate Skill Development",
-    "Metadata": {
-      "score": "33",
-      "author": "cdrnsf",
-      "commentCount": "8"
-    },
-    "FetchedAt": "2026-05-14T08:30:18.5371262+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48094986"
     },
     "Type": 1,
@@ -703,5 +478,455 @@
       "commentCount": "4"
     },
     "FetchedAt": "2026-05-14T08:30:18.7034497+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48134993"
+    },
+    "Type": 1,
+    "Title": "USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought",
+    "Url": "https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought",
+    "Description": "USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought",
+    "Metadata": {
+      "score": "43",
+      "author": "littlexsparkee",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-05-14T13:52:12.6093813+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48134743"
+    },
+    "Type": 1,
+    "Title": "Computer Hobby Movement in Canada",
+    "Url": "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada",
+    "Description": "Computer Hobby Movement in Canada",
+    "Metadata": {
+      "score": "22",
+      "author": "rbanffy",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-14T13:52:12.6736149+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48133561"
+    },
+    "Type": 1,
+    "Title": "Show HN: Running the second public ODoH relay",
+    "Url": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
+    "Description": "Every privacy-focused DNS service requires an account: NextDNS, Cloudflare for Families, Apple\u0026#x27;s iCloud Private Relay (paid, iOS-only). The protocol that doesn\u2019t require one - ODoH - had basically one well-known public relay operator (Frank Denis on Fastly Compute, default in dnscrypt-proxy). I built a second one and the client to talk to it.",
+    "Metadata": {
+      "score": "62",
+      "author": "rdme",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-05-14T13:52:12.7333319+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48130950"
+    },
+    "Type": 1,
+    "Title": "Claude for Small Business",
+    "Url": "https://www.anthropic.com/news/claude-for-small-business",
+    "Description": "Claude for Small Business",
+    "Metadata": {
+      "score": "372",
+      "author": "neilfrndes",
+      "commentCount": "333"
+    },
+    "FetchedAt": "2026-05-14T13:52:12.7791957+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48133908"
+    },
+    "Type": 1,
+    "Title": "Myths about /dev/urandom (2014)",
+    "Url": "https://www.2uo.de/myths-about-urandom/",
+    "Description": "Myths about /dev/urandom (2014)",
+    "Metadata": {
+      "score": "25",
+      "author": "signa11",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-05-14T13:52:12.837836+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48099688"
+    },
+    "Type": 1,
+    "Title": "The Tree House: A voyage to the source of a backyard dream",
+    "Url": "https://www.laphamsquarterly.org/roundtable/tree-house",
+    "Description": "The Tree House: A voyage to the source of a backyard dream",
+    "Metadata": {
+      "score": "22",
+      "author": "Caiero",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-14T13:52:12.8810058+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48087887"
+    },
+    "Type": 1,
+    "Title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+    "Url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+    "Description": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+    "Metadata": {
+      "score": "833",
+      "author": "haunter",
+      "commentCount": "522"
+    },
+    "FetchedAt": "2026-05-14T13:52:12.9140277+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48134869"
+    },
+    "Type": 1,
+    "Title": "The Whole Anthropic Kerfuffle",
+    "Url": "https://twitter.com/josevalim/status/2054887621336174799",
+    "Description": "The Whole Anthropic Kerfuffle",
+    "Metadata": {
+      "score": "32",
+      "author": "tosh",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-05-14T13:52:13.0104879+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48129694"
+    },
+    "Type": 1,
+    "Title": "Scorched Earth 2000 \u2013 Web",
+    "Url": "http://www.scorch2000.com/web/",
+    "Description": "Scorched Earth 2000 \u2013 Web",
+    "Metadata": {
+      "score": "311",
+      "author": "meshko",
+      "commentCount": "125"
+    },
+    "FetchedAt": "2026-05-14T13:52:13.0630262+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48134014"
+    },
+    "Type": 1,
+    "Title": "The European Union backs Italy\u0027s right to make Meta pay for news",
+    "Url": "https://www.niemanlab.org/2026/05/the-eu-backs-italys-right-to-make-meta-pay-for-news/",
+    "Description": "The European Union backs Italy\u0027s right to make Meta pay for news",
+    "Metadata": {
+      "score": "12",
+      "author": "giuliomagnifico",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-14T13:52:13.1494452+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48084012"
+    },
+    "Type": 1,
+    "Title": "Leaving the Physical World",
+    "Url": "https://www.eff.org/pages/leaving-physical-world",
+    "Description": "Leaving the Physical World",
+    "Metadata": {
+      "score": "76",
+      "author": "andsoitis",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-05-14T13:52:13.2089002+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48122635"
+    },
+    "Type": 1,
+    "Title": "Setting up a free *.city.state.us locality domain (2025)",
+    "Url": "https://fredchan.org/blog/locality-domains-guide/",
+    "Description": "Setting up a free *.city.state.us locality domain (2025)",
+    "Metadata": {
+      "score": "582",
+      "author": "speckx",
+      "commentCount": "183"
+    },
+    "FetchedAt": "2026-05-14T13:52:13.3236587+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48130679"
+    },
+    "Type": 1,
+    "Title": "A Claude Code and Codex Skill for Deliberate Skill Development",
+    "Url": "https://github.com/DrCatHicks/learning-opportunities",
+    "Description": "A Claude Code and Codex Skill for Deliberate Skill Development",
+    "Metadata": {
+      "score": "118",
+      "author": "cdrnsf",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-05-14T13:52:13.4337388+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48093244"
+    },
+    "Type": 1,
+    "Title": "Saying Goodbye to one line of APL",
+    "Url": "https://homewithinnowhere.com/posts/2026-05-10-one-line.html#fnref1",
+    "Description": "Saying Goodbye to one line of APL",
+    "Metadata": {
+      "score": "24",
+      "author": "tosh",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-05-14T13:52:13.4894005+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48125617"
+    },
+    "Type": 1,
+    "Title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
+    "Url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
+    "Description": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
+    "Metadata": {
+      "score": "263",
+      "author": "tosh",
+      "commentCount": "320"
+    },
+    "FetchedAt": "2026-05-14T13:52:13.5264172+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48073979"
+    },
+    "Type": 1,
+    "Title": "A History of IDEs at Google",
+    "Url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+    "Description": "A History of IDEs at Google",
+    "Metadata": {
+      "score": "406",
+      "author": "laurentlb",
+      "commentCount": "265"
+    },
+    "FetchedAt": "2026-05-14T13:52:13.5570888+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48118727"
+    },
+    "Type": 1,
+    "Title": "The Emacsification of Software",
+    "Url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
+    "Description": "The Emacsification of Software",
+    "Metadata": {
+      "score": "340",
+      "author": "rdslw",
+      "commentCount": "214"
+    },
+    "FetchedAt": "2026-05-14T13:52:13.5885707+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48084516"
+    },
+    "Type": 1,
+    "Title": "Technical Dimensions of Live Feedback in Programming Systems",
+    "Url": "https://joshuahhh.com/dims-of-feedback/",
+    "Description": "Technical Dimensions of Live Feedback in Programming Systems",
+    "Metadata": {
+      "score": "29",
+      "author": "tobr",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-05-14T13:52:13.6200435+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48134084"
+    },
+    "Type": 1,
+    "Title": "The Siri for Families Apple Will Never Build",
+    "Url": "https://taoofmac.com/space/blog/2026/05/14/1220",
+    "Description": "The Siri for Families Apple Will Never Build",
+    "Metadata": {
+      "score": "31",
+      "author": "rcarmo",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-05-14T13:52:13.6508382+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48133493"
+    },
+    "Type": 1,
+    "Title": "Pipes, Forks, and Zombies",
+    "Url": "https://cs61.seas.harvard.edu/wiki/2017/Shell3/",
+    "Description": "Pipes, Forks, and Zombies",
+    "Metadata": {
+      "score": "7",
+      "author": "tosh",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-14T13:52:13.683155+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48134808"
+    },
+    "Type": 1,
+    "Title": "Claude Account Suspended Seconds After Purchase?",
+    "Url": "https://news.ycombinator.com/item?id=48134808",
+    "Description": "I literally created a new account, pressed submit on the credit card dialog, the purchase goes through and i get logged out. I try to log in, and it says I\u0026#x27;m banned. I check my mail box and I see an email with an invoice and another that I\u0026#x27;m in violation of the ToS, submitted within the same minute LOL.\u003Cp\u003EIs this some kind of joke? :O",
+    "Metadata": {
+      "score": "9",
+      "author": "AnthropicWHAT",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-05-14T13:52:13.7154822+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48132030"
+    },
+    "Type": 1,
+    "Title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
+    "Url": "https://classic7.lol/",
+    "Description": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
+    "Metadata": {
+      "score": "111",
+      "author": "jandeboevrie",
+      "commentCount": "107"
+    },
+    "FetchedAt": "2026-05-14T13:52:13.7471315+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48134429"
+    },
+    "Type": 1,
+    "Title": "Sam Altman\u0027s Business Dealings Under GOP Scrutiny Ahead of OpenAI\u0027s IPO",
+    "Url": "https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d",
+    "Description": "Sam Altman\u0027s Business Dealings Under GOP Scrutiny Ahead of OpenAI\u0027s IPO",
+    "Metadata": {
+      "score": "19",
+      "author": "1vuio0pswjnm7",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-05-14T13:52:13.77857+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48079587"
+    },
+    "Type": 1,
+    "Title": "Swift bricks to be installed on all new buildings in Scotland",
+    "Url": "https://www.theguardian.com/environment/2026/jan/28/swift-bricks-to-be-installed-in-all-new-buildings-in-scotland-after-holyrood-backs-ruling",
+    "Description": "Swift bricks to be installed on all new buildings in Scotland",
+    "Metadata": {
+      "score": "26",
+      "author": "bookofjoe",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-05-14T13:52:13.8093276+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48096760"
+    },
+    "Type": 1,
+    "Title": "Chess puzzle I found in my dad\u0027s old book",
+    "Url": "https://ardoedo.it/kempelen/",
+    "Description": "Chess puzzle I found in my dad\u0027s old book",
+    "Metadata": {
+      "score": "194",
+      "author": "Eswo",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-05-14T13:52:13.8411841+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48129934"
+    },
+    "Type": 1,
+    "Title": "Avoiding and reducing microplastic false positives from dry glove contact",
+    "Url": "https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c",
+    "Description": "Avoiding and reducing microplastic false positives from dry glove contact",
+    "Metadata": {
+      "score": "71",
+      "author": "efavdb",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-05-14T13:52:13.873786+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48102901"
+    },
+    "Type": 1,
+    "Title": "Extraordinary Ordinals",
+    "Url": "https://text.marvinborner.de/2026-04-09-17.html",
+    "Description": "Extraordinary Ordinals",
+    "Metadata": {
+      "score": "33",
+      "author": "marvinborner",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-05-14T13:52:13.9054558+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48130186"
+    },
+    "Type": 1,
+    "Title": "Show HN: Nibble",
+    "Url": "https://github.com/glouw/nibble",
+    "Description": "An attempt at a single pass LLVM frontend in ~3000 lines of C without external dependencies, malloc, or an AST. Included are some graphical examples. The IR isn\u0026#x27;t perfect, and the README touches on one particular downfall",
+    "Metadata": {
+      "score": "72",
+      "author": "glouwbug",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-05-14T13:52:13.9360266+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48111896"
+    },
+    "Type": 1,
+    "Title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+    "Url": "https://github.com/cactus-compute/needle",
+    "Description": "Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok\u0026#x2F;s prefill and 1200 tok\u0026#x2F;s decode on consumer devices.\u003Cp\u003EWe were always frustrated by the little effort made towards building agentic models that run on budget phones, so we conducted investigations that led to an observation: agentic experiences are built upon tool calling, and massive models are overkill for it. Tool calling is fundamentally retrieval-and-assem",
+    "Metadata": {
+      "score": "694",
+      "author": "HenryNdubuaku",
+      "commentCount": "197"
+    },
+    "FetchedAt": "2026-05-14T13:52:13.9670426+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48121929"
+    },
+    "Type": 1,
+    "Title": "The US is winning the AI race where it matters most: commercialization",
+    "Url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+    "Description": "The US is winning the AI race where it matters most: commercialization",
+    "Metadata": {
+      "score": "217",
+      "author": "akrylov",
+      "commentCount": "614"
+    },
+    "FetchedAt": "2026-05-14T13:52:13.9989378+00:00"
   }
 ]
