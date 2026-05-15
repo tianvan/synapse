@@ -421,36 +421,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48145524"
-    },
-    "Type": 1,
-    "Title": "Ask HN: How to be SOC2 Type 2 compliant as a solo-entreprenuer?",
-    "Url": "https://news.ycombinator.com/item?id=48145524",
-    "Description": "Is it possible? Do you know success cases w\u0026#x2F;o spending 20\u002Bk $ on auditors? My customers bombards me with question about certification of my app Perfect Wiki, I need help with finding the best way to show them that my app could be trusted.",
-    "Metadata": {
-      "score": "15",
-      "author": "sochix",
-      "commentCount": "23"
-    },
-    "FetchedAt": "2026-05-15T08:41:05.2016538+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48147058"
-    },
-    "Type": 1,
-    "Title": "O(x)Caml in Space",
-    "Url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
-    "Description": "O(x)Caml in Space",
-    "Metadata": {
-      "score": "123",
-      "author": "yminsky",
-      "commentCount": "16"
-    },
-    "FetchedAt": "2026-05-15T13:48:38.9334886+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48146369"
     },
     "Type": 1,
@@ -463,36 +433,6 @@
       "commentCount": "35"
     },
     "FetchedAt": "2026-05-15T13:48:38.9660865+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48146129"
-    },
-    "Type": 1,
-    "Title": "Explore Wikipedia Like a Windows XP Desktop",
-    "Url": "https://explorer.samismith.com/",
-    "Description": "Explore Wikipedia Like a Windows XP Desktop",
-    "Metadata": {
-      "score": "261",
-      "author": "smusamashah",
-      "commentCount": "64"
-    },
-    "FetchedAt": "2026-05-15T13:48:38.9988561+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48147603"
-    },
-    "Type": 1,
-    "Title": "Radicle: Sovereign {code forge} built on Git",
-    "Url": "https://radicle.dev/",
-    "Description": "Radicle: Sovereign {code forge} built on Git",
-    "Metadata": {
-      "score": "50",
-      "author": "KolmogorovComp",
-      "commentCount": "10"
-    },
-    "FetchedAt": "2026-05-15T13:48:39.0316683+00:00"
   },
   {
     "ExternalId": {
@@ -586,21 +526,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48142108"
-    },
-    "Type": 1,
-    "Title": "A few words on DS4",
-    "Url": "https://antirez.com/news/165",
-    "Description": "A few words on DS4",
-    "Metadata": {
-      "score": "364",
-      "author": "caust1c",
-      "commentCount": "147"
-    },
-    "FetchedAt": "2026-05-15T13:48:39.2625753+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48147637"
     },
     "Type": 1,
@@ -613,51 +538,6 @@
       "commentCount": "37"
     },
     "FetchedAt": "2026-05-15T13:48:39.2951544+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48137629"
-    },
-    "Type": 1,
-    "Title": "Building ML framework with Rust and Category Theory",
-    "Url": "https://hghalebi.github.io/category_theory_transformer_rs/",
-    "Description": "Building ML framework with Rust and Category Theory",
-    "Metadata": {
-      "score": "58",
-      "author": "adamnemecek",
-      "commentCount": "15"
-    },
-    "FetchedAt": "2026-05-15T13:48:39.3277837+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48146877"
-    },
-    "Type": 1,
-    "Title": "NanoTDB \u2013 Golang Append-Only Time Series DB",
-    "Url": "https://github.com/aymanhs/nanotdb",
-    "Description": "NanoTDB \u2013 Golang Append-Only Time Series DB",
-    "Metadata": {
-      "score": "12",
-      "author": "aymanhs72",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-05-15T13:48:39.3604874+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48144380"
-    },
-    "Type": 1,
-    "Title": "Details of the Daring Airdrop at Tristan Da Cunha",
-    "Url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
-    "Description": "Details of the Daring Airdrop at Tristan Da Cunha",
-    "Metadata": {
-      "score": "190",
-      "author": "kspacewalk2",
-      "commentCount": "68"
-    },
-    "FetchedAt": "2026-05-15T13:48:39.3947549+00:00"
   },
   {
     "ExternalId": {
@@ -691,21 +571,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48139219"
-    },
-    "Type": 1,
-    "Title": "First public macOS kernel memory corruption exploit on Apple M5",
-    "Url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-    "Description": "First public macOS kernel memory corruption exploit on Apple M5",
-    "Metadata": {
-      "score": "394",
-      "author": "quadrige",
-      "commentCount": "104"
-    },
-    "FetchedAt": "2026-05-15T13:48:39.4970498+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48147945"
     },
     "Type": 1,
@@ -733,51 +598,6 @@
       "commentCount": "21"
     },
     "FetchedAt": "2026-05-15T13:48:39.5642312+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48140529"
-    },
-    "Type": 1,
-    "Title": "Codex is now in the ChatGPT mobile app",
-    "Url": "https://openai.com/index/work-with-codex-from-anywhere/",
-    "Description": "Codex is now in the ChatGPT mobile app",
-    "Metadata": {
-      "score": "384",
-      "author": "mikeevans",
-      "commentCount": "189"
-    },
-    "FetchedAt": "2026-05-15T13:48:39.5970737+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48148337"
-    },
-    "Type": 1,
-    "Title": "Amazon workers under pressure to up their AI usage\u2013so they\u0027re making up tasks",
-    "Url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
-    "Description": "Amazon workers under pressure to up their AI usage\u2013so they\u0027re making up tasks",
-    "Metadata": {
-      "score": "7",
-      "author": "hackernj",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-05-15T13:48:39.6343324+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48138268"
-    },
-    "Type": 1,
-    "Title": "New Nginx Exploit",
-    "Url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-    "Description": "New Nginx Exploit",
-    "Metadata": {
-      "score": "402",
-      "author": "hetsaraiya",
-      "commentCount": "90"
-    },
-    "FetchedAt": "2026-05-15T13:48:39.6685841+00:00"
   },
   {
     "ExternalId": {
@@ -883,5 +703,455 @@
       "commentCount": "45"
     },
     "FetchedAt": "2026-05-15T13:48:39.9322088+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48150431"
+    },
+    "Type": 1,
+    "Title": "Project Gutenberg \u2013 keeps getting better",
+    "Url": "https://www.gutenberg.org/",
+    "Description": "Project Gutenberg \u2013 keeps getting better",
+    "Metadata": {
+      "score": "375",
+      "author": "JSeiko",
+      "commentCount": "115"
+    },
+    "FetchedAt": "2026-05-15T19:21:11.7944726+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48148460"
+    },
+    "Type": 1,
+    "Title": "A 0-click exploit chain for the Pixel 10",
+    "Url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+    "Description": "A 0-click exploit chain for the Pixel 10",
+    "Metadata": {
+      "score": "242",
+      "author": "happyhardcore",
+      "commentCount": "99"
+    },
+    "FetchedAt": "2026-05-15T19:21:11.8103068+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48151237"
+    },
+    "Type": 1,
+    "Title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
+    "Url": "https://github.com/gdevic/FPGA-Calculator",
+    "Description": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
+    "Metadata": {
+      "score": "39",
+      "author": "gdevic",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-05-15T19:21:11.8248565+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48150900"
+    },
+    "Type": 1,
+    "Title": "Bun Rust rewrite: \u0022codebase fails basic miri checks, allows for UB in safe rust\u0022",
+    "Url": "https://github.com/oven-sh/bun/issues/30719",
+    "Description": "Bun Rust rewrite: \u0022codebase fails basic miri checks, allows for UB in safe rust\u0022",
+    "Metadata": {
+      "score": "187",
+      "author": "ndiddy",
+      "commentCount": "111"
+    },
+    "FetchedAt": "2026-05-15T19:21:11.8418291+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48151383"
+    },
+    "Type": 1,
+    "Title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
+    "Url": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
+    "Description": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
+    "Metadata": {
+      "score": "147",
+      "author": "tencentshill",
+      "commentCount": "74"
+    },
+    "FetchedAt": "2026-05-15T19:21:11.8596271+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48150069"
+    },
+    "Type": 1,
+    "Title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
+    "Url": "https://github.com/neilsonnn/image-blaster",
+    "Description": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
+    "Metadata": {
+      "score": "56",
+      "author": "MattRogish",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-05-15T19:21:11.8753197+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48150097"
+    },
+    "Type": 1,
+    "Title": "I built Zenith: a live local-first fixed viewport planetarium",
+    "Url": "https://smorgasb.org/zenith-tech/",
+    "Description": "I built Zenith: a live local-first fixed viewport planetarium",
+    "Metadata": {
+      "score": "47",
+      "author": "surprisetalk",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-05-15T19:21:11.8912292+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48136981"
+    },
+    "Type": 1,
+    "Title": "Show HN: Watch a neural net learn to play Snake",
+    "Url": "https://ppo.gradexp.xyz/",
+    "Description": "In browser PPO training demo, made possible by tinygrad: TinyJit -\u0026gt; WebGPU kernels.\u003Cp\u003ERequires WebGPU.",
+    "Metadata": {
+      "score": "67",
+      "author": "c1b",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-05-15T19:21:11.9077813+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48147058"
+    },
+    "Type": 1,
+    "Title": "O(x)Caml in Space",
+    "Url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
+    "Description": "O(x)Caml in Space",
+    "Metadata": {
+      "score": "200",
+      "author": "yminsky",
+      "commentCount": "47"
+    },
+    "FetchedAt": "2026-05-15T19:21:11.924702+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48146129"
+    },
+    "Type": 1,
+    "Title": "Explore Wikipedia Like a Windows XP Desktop",
+    "Url": "https://explorer.samismith.com/",
+    "Description": "Explore Wikipedia Like a Windows XP Desktop",
+    "Metadata": {
+      "score": "412",
+      "author": "smusamashah",
+      "commentCount": "104"
+    },
+    "FetchedAt": "2026-05-15T19:21:11.939701+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48151034"
+    },
+    "Type": 1,
+    "Title": "Hightouch (YC S19) Is Hiring",
+    "Url": "https://hightouch.com/careers",
+    "Description": "Hightouch (YC S19) Is Hiring",
+    "Metadata": {
+      "score": "1",
+      "author": "joshwget",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-15T19:21:11.9554261+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48148726"
+    },
+    "Type": 1,
+    "Title": "ASCII by Jason Scott",
+    "Url": "https://ascii.textfiles.com/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260501220231\u0026#x2F;https:\u0026#x2F;\u0026#x2F;ascii.textfiles.com\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260501220231\u0026#x2F;https:\u0026#x2F;\u0026#x2F;ascii.tex...\u003C/a\u003E",
+    "Metadata": {
+      "score": "101",
+      "author": "bookofjoe",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-05-15T19:21:11.971809+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48147603"
+    },
+    "Type": 1,
+    "Title": "Radicle: Sovereign {code forge} built on Git",
+    "Url": "https://radicle.dev/",
+    "Description": "Radicle: Sovereign {code forge} built on Git",
+    "Metadata": {
+      "score": "172",
+      "author": "KolmogorovComp",
+      "commentCount": "45"
+    },
+    "FetchedAt": "2026-05-15T19:21:11.9869117+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48148309"
+    },
+    "Type": 1,
+    "Title": "High dimensional geometry is transforming the MRI industry (2017) [pdf]",
+    "Url": "https://www.ams.org/government/DonohoPresentation06-28-17Final.pdf",
+    "Description": "High dimensional geometry is transforming the MRI industry (2017) [pdf]",
+    "Metadata": {
+      "score": "65",
+      "author": "nill0",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-05-15T19:21:12.0020739+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48151317"
+    },
+    "Type": 1,
+    "Title": "Feedr v0.8.0 \u2013 a TUI RSS reader, now read the full article from your terminal",
+    "Url": "https://github.com/bahdotsh/feedr",
+    "Description": "Feedr v0.8.0 \u2013 a TUI RSS reader, now read the full article from your terminal",
+    "Metadata": {
+      "score": "12",
+      "author": "bahdotshxx",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-05-15T19:21:12.0183933+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48146908"
+    },
+    "Type": 1,
+    "Title": "A new book on Steve Jobs at NeXT",
+    "Url": "https://spectrum.ieee.org/steve-jobs-next-computer",
+    "Description": "A new book on Steve Jobs at NeXT",
+    "Metadata": {
+      "score": "132",
+      "author": "rbanffy",
+      "commentCount": "113"
+    },
+    "FetchedAt": "2026-05-15T19:21:12.0329685+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48148337"
+    },
+    "Type": 1,
+    "Title": "Amazon workers under pressure to up their AI usage are making up tasks",
+    "Url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+    "Description": "Amazon workers under pressure to up their AI usage are making up tasks",
+    "Metadata": {
+      "score": "244",
+      "author": "hackernj",
+      "commentCount": "242"
+    },
+    "FetchedAt": "2026-05-15T19:21:12.0479694+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48151058"
+    },
+    "Type": 1,
+    "Title": "Show HN: Sx \u2013 an open-source package manager for AI skills, MCPs, and commands",
+    "Url": "https://github.com/sleuth-io/sx",
+    "Description": "Show HN: Sx \u2013 an open-source package manager for AI skills, MCPs, and commands",
+    "Metadata": {
+      "score": "16",
+      "author": "detkin",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-05-15T19:21:12.063825+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48122172"
+    },
+    "Type": 1,
+    "Title": "The nuclear-physics infrastructure behind PET scans",
+    "Url": "https://www.lanl.gov/media/publications/1663/proton-power-for-public-health",
+    "Description": "The nuclear-physics infrastructure behind PET scans",
+    "Metadata": {
+      "score": "3",
+      "author": "LAsteNERD",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-15T19:21:12.0785095+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48152553"
+    },
+    "Type": 1,
+    "Title": "ABC News has taken all FiveThirtyEight articles offline",
+    "Url": "https://twitter.com/baseballot/status/2055309076209492208",
+    "Description": "ABC News has taken all FiveThirtyEight articles offline",
+    "Metadata": {
+      "score": "10",
+      "author": "cmsparks",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-15T19:21:12.0950608+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48142108"
+    },
+    "Type": 1,
+    "Title": "A few words on DS4",
+    "Url": "https://antirez.com/news/165",
+    "Description": "A few words on DS4",
+    "Metadata": {
+      "score": "401",
+      "author": "caust1c",
+      "commentCount": "168"
+    },
+    "FetchedAt": "2026-05-15T19:21:12.1104303+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48145524"
+    },
+    "Type": 1,
+    "Title": "Ask HN: How to be SOC2 Type 2 compliant as a solo-entreprenuer?",
+    "Url": "https://news.ycombinator.com/item?id=48145524",
+    "Description": "Is it possible? Do you know success cases w\u0026#x2F;o spending 20\u002Bk $ on auditors? My customers bombards me with question about certification of my app Perfect Wiki, I need help with finding the best way to show them that my app could be trusted.",
+    "Metadata": {
+      "score": "95",
+      "author": "sochix",
+      "commentCount": "90"
+    },
+    "FetchedAt": "2026-05-15T19:21:12.1252797+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48151767"
+    },
+    "Type": 1,
+    "Title": "Waymo recalls 3,800 robotaxis after they drive into flood waters",
+    "Url": "https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html",
+    "Description": "Waymo recalls 3,800 robotaxis after they drive into flood waters",
+    "Metadata": {
+      "score": "39",
+      "author": "drob518",
+      "commentCount": "43"
+    },
+    "FetchedAt": "2026-05-15T19:21:12.1399028+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48144380"
+    },
+    "Type": 1,
+    "Title": "Details of the Daring Airdrop at Tristan Da Cunha",
+    "Url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+    "Description": "Details of the Daring Airdrop at Tristan Da Cunha",
+    "Metadata": {
+      "score": "240",
+      "author": "kspacewalk2",
+      "commentCount": "90"
+    },
+    "FetchedAt": "2026-05-15T19:21:12.1547526+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48146877"
+    },
+    "Type": 1,
+    "Title": "NanoTDB \u2013 Golang Append-Only Time Series DB",
+    "Url": "https://github.com/aymanhs/nanotdb",
+    "Description": "NanoTDB \u2013 Golang Append-Only Time Series DB",
+    "Metadata": {
+      "score": "45",
+      "author": "aymanhs72",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-05-15T19:21:12.1693341+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48137629"
+    },
+    "Type": 1,
+    "Title": "Building ML framework with Rust and Category Theory",
+    "Url": "https://hghalebi.github.io/category_theory_transformer_rs/",
+    "Description": "Building ML framework with Rust and Category Theory",
+    "Metadata": {
+      "score": "86",
+      "author": "adamnemecek",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-05-15T19:21:12.1838989+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48139219"
+    },
+    "Type": 1,
+    "Title": "First public macOS kernel memory corruption exploit on Apple M5",
+    "Url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+    "Description": "First public macOS kernel memory corruption exploit on Apple M5",
+    "Metadata": {
+      "score": "427",
+      "author": "quadrige",
+      "commentCount": "116"
+    },
+    "FetchedAt": "2026-05-15T19:21:12.1983859+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48150971"
+    },
+    "Type": 1,
+    "Title": "We don\u0027t know why Malawi is poor",
+    "Url": "https://newsletter.deenamousa.com/p/we-dont-know-why-malawi-is-poor",
+    "Description": "We don\u0027t know why Malawi is poor",
+    "Metadata": {
+      "score": "69",
+      "author": "alphabetatango",
+      "commentCount": "76"
+    },
+    "FetchedAt": "2026-05-15T19:21:12.2147613+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48140529"
+    },
+    "Type": 1,
+    "Title": "Codex is now in the ChatGPT mobile app",
+    "Url": "https://openai.com/index/work-with-codex-from-anywhere/",
+    "Description": "Codex is now in the ChatGPT mobile app",
+    "Metadata": {
+      "score": "450",
+      "author": "mikeevans",
+      "commentCount": "226"
+    },
+    "FetchedAt": "2026-05-15T19:21:12.2296543+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48138268"
+    },
+    "Type": 1,
+    "Title": "New Nginx Exploit",
+    "Url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+    "Description": "New Nginx Exploit",
+    "Metadata": {
+      "score": "427",
+      "author": "hetsaraiya",
+      "commentCount": "97"
+    },
+    "FetchedAt": "2026-05-15T19:21:12.2446689+00:00"
   }
 ]
