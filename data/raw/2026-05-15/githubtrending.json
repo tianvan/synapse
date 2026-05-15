@@ -1,56 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:ruvnet/RuView"
-    },
-    "Type": 0,
-    "Title": "ruvnet/RuView",
-    "Url": "https://github.com/ruvnet/RuView",
-    "Description": "\u03C0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
-    "Metadata": {
-      "owner": "ruvnet",
-      "repo": "RuView",
-      "language": "Rust",
-      "stars": "1,715",
-      "topics": "agentic-ai, densepose, esp32, firmware, mcu, mincut, monitoring, pose-estimation, rf, self, self-learning, spatial-intelligence, wifi, wifi-hacking, wifi-security, world-model"
-    },
-    "FetchedAt": "2026-05-15T08:41:01.9023369+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:tinyhumansai/openhuman"
-    },
-    "Type": 0,
-    "Title": "tinyhumansai/openhuman",
-    "Url": "https://github.com/tinyhumansai/openhuman",
-    "Description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-    "Metadata": {
-      "owner": "tinyhumansai",
-      "repo": "openhuman",
-      "language": "Rust",
-      "stars": "3,329"
-    },
-    "FetchedAt": "2026-05-15T08:41:02.1319436+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:K-Dense-AI/scientific-agent-skills"
-    },
-    "Type": 0,
-    "Title": "K-Dense-AI/scientific-agent-skills",
-    "Url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-    "Description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-    "Metadata": {
-      "owner": "K-Dense-AI",
-      "repo": "scientific-agent-skills",
-      "language": "Python",
-      "stars": "654",
-      "topics": "agent-skills, ai-scientist, bioinformatics, chemoinformatics, claude, claude-skills, claudecode, clinical-research, computational-biology, data-analysis, drug-discovery, genomics, materials-science, metabolomics, proteomics, scientific-computing, scientific-visualization"
-    },
-    "FetchedAt": "2026-05-15T08:41:02.279548+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:shiyu-coder/Kronos"
     },
     "Type": 0,
@@ -84,40 +34,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:influxdata/telegraf"
-    },
-    "Type": 0,
-    "Title": "influxdata/telegraf",
-    "Url": "https://github.com/influxdata/telegraf",
-    "Description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
-    "Metadata": {
-      "owner": "influxdata",
-      "repo": "telegraf",
-      "language": "Go",
-      "stars": "215",
-      "topics": "golang, hacktoberfest, influxdb, json, kafka, logs, metrics, modbus, monitoring, mqtt, opcua, t, telegraf, telemetry-collection, time-series, windows-eventlog, xpath"
-    },
-    "FetchedAt": "2026-05-15T08:41:02.7491808+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:supertone-inc/supertonic"
-    },
-    "Type": 0,
-    "Title": "supertone-inc/supertonic",
-    "Url": "https://github.com/supertone-inc/supertonic",
-    "Description": "Lightning-Fast, On-Device, Multilingual TTS \u2014 running natively via ONNX.",
-    "Metadata": {
-      "owner": "supertone-inc",
-      "repo": "supertonic",
-      "language": "Swift",
-      "stars": "1,128",
-      "topics": "cpp, csharp, go, ios, java, lightweight, nodejs, on-device, python, rust, swift, text-to-speech, tts, web"
-    },
-    "FetchedAt": "2026-05-15T08:41:02.9011266+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:Genymobile/scrcpy"
     },
     "Type": 0,
@@ -132,23 +48,6 @@
       "topics": "android, c, ffmpeg, libav, mirroring, recording, screen, sdl2"
     },
     "FetchedAt": "2026-05-15T08:41:03.0461268+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:NVIDIA-AI-Blueprints/video-search-and-summarization"
-    },
-    "Type": 0,
-    "Title": "NVIDIA-AI-Blueprints/video-search-and-summarization",
-    "Url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
-    "Description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
-    "Metadata": {
-      "owner": "NVIDIA-AI-Blueprints",
-      "repo": "video-search-and-summarization",
-      "language": "Python",
-      "stars": "62",
-      "topics": "agents, llm, rag, skills, video-analytics, video-search, vlm"
-    },
-    "FetchedAt": "2026-05-15T08:41:03.2111916+00:00"
   },
   {
     "ExternalId": {
@@ -199,5 +98,157 @@
       "stars": "915"
     },
     "FetchedAt": "2026-05-15T08:41:03.6447778+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:tinyhumansai/openhuman"
+    },
+    "Type": 0,
+    "Title": "tinyhumansai/openhuman",
+    "Url": "https://github.com/tinyhumansai/openhuman",
+    "Description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+    "Metadata": {
+      "owner": "tinyhumansai",
+      "repo": "openhuman",
+      "language": "Rust",
+      "stars": "1,272"
+    },
+    "FetchedAt": "2026-05-15T13:48:37.0657011+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:K-Dense-AI/scientific-agent-skills"
+    },
+    "Type": 0,
+    "Title": "K-Dense-AI/scientific-agent-skills",
+    "Url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "Description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+    "Metadata": {
+      "owner": "K-Dense-AI",
+      "repo": "scientific-agent-skills",
+      "language": "Python",
+      "stars": "643",
+      "topics": "agent-skills, ai-scientist, bioinformatics, chemoinformatics, claude, claude-skills, claudecode, clinical-research, computational-biology, data-analysis, drug-discovery, genomics, materials-science, metabolomics, proteomics, scientific-computing, scientific-visualization"
+    },
+    "FetchedAt": "2026-05-15T13:48:37.3405685+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:supertone-inc/supertonic"
+    },
+    "Type": 0,
+    "Title": "supertone-inc/supertonic",
+    "Url": "https://github.com/supertone-inc/supertonic",
+    "Description": "Lightning-Fast, On-Device, Multilingual TTS \u2014 running natively via ONNX.",
+    "Metadata": {
+      "owner": "supertone-inc",
+      "repo": "supertonic",
+      "language": "Swift",
+      "stars": "712",
+      "topics": "cpp, csharp, go, ios, java, lightweight, nodejs, on-device, python, rust, swift, text-to-speech, tts, web"
+    },
+    "FetchedAt": "2026-05-15T13:48:37.5016806+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ruvnet/RuView"
+    },
+    "Type": 0,
+    "Title": "ruvnet/RuView",
+    "Url": "https://github.com/ruvnet/RuView",
+    "Description": "\u03C0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+    "Metadata": {
+      "owner": "ruvnet",
+      "repo": "RuView",
+      "language": "Rust",
+      "stars": "1,865",
+      "topics": "agentic-ai, densepose, esp32, firmware, mcu, mincut, monitoring, pose-estimation, rf, self, self-learning, spatial-intelligence, wifi, wifi-hacking, wifi-security, world-model"
+    },
+    "FetchedAt": "2026-05-15T13:48:37.6899588+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:influxdata/telegraf"
+    },
+    "Type": 0,
+    "Title": "influxdata/telegraf",
+    "Url": "https://github.com/influxdata/telegraf",
+    "Description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "Metadata": {
+      "owner": "influxdata",
+      "repo": "telegraf",
+      "language": "Go",
+      "stars": "213",
+      "topics": "golang, hacktoberfest, influxdb, json, kafka, logs, metrics, modbus, monitoring, mqtt, opcua, t, telegraf, telemetry-collection, time-series, windows-eventlog, xpath"
+    },
+    "FetchedAt": "2026-05-15T13:48:37.8214379+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/skills"
+    },
+    "Type": 0,
+    "Title": "anthropics/skills",
+    "Url": "https://github.com/anthropics/skills",
+    "Description": "Public repository for Agent Skills",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "skills",
+      "language": "Python",
+      "stars": "625",
+      "topics": "agent-skills"
+    },
+    "FetchedAt": "2026-05-15T13:48:37.9838683+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NVIDIA-AI-Blueprints/video-search-and-summarization"
+    },
+    "Type": 0,
+    "Title": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+    "Url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+    "Description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+    "Metadata": {
+      "owner": "NVIDIA-AI-Blueprints",
+      "repo": "video-search-and-summarization",
+      "language": "Python",
+      "stars": "305",
+      "topics": "agents, llm, rag, skills, video-analytics, video-search, vlm"
+    },
+    "FetchedAt": "2026-05-15T13:48:38.158985+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:oven-sh/bun"
+    },
+    "Type": 0,
+    "Title": "oven-sh/bun",
+    "Url": "https://github.com/oven-sh/bun",
+    "Description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
+    "Metadata": {
+      "owner": "oven-sh",
+      "repo": "bun",
+      "language": "Rust",
+      "stars": "289",
+      "topics": "bun, bundler, javascript, javascriptcore, jsx, nodejs, npm, react, transpiler, typescript, zig, ziglang"
+    },
+    "FetchedAt": "2026-05-15T13:48:38.3448257+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:joeseesun/qiaomu-anything-to-notebooklm"
+    },
+    "Type": 0,
+    "Title": "joeseesun/qiaomu-anything-to-notebooklm",
+    "Url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
+    "Description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries \u2192 Podcast/PPT/MindMap/Quiz etc.",
+    "Metadata": {
+      "owner": "joeseesun",
+      "repo": "qiaomu-anything-to-notebooklm",
+      "language": "Python",
+      "stars": "465",
+      "topics": "automation, claude, mcp, notebooklm, skill"
+    },
+    "FetchedAt": "2026-05-15T13:48:38.5239875+00:00"
   }
 ]
