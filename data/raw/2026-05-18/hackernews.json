@@ -136,111 +136,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48173429"
-    },
-    "Type": 1,
-    "Title": "GenCAD",
-    "Url": "https://gencad.github.io/",
-    "Description": "GenCAD",
-    "Metadata": {
-      "score": "307",
-      "author": "dagenix",
-      "commentCount": "77"
-    },
-    "FetchedAt": "2026-05-18T09:45:05.6292551+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48155450"
-    },
-    "Type": 1,
-    "Title": "Crystals found inside wreckage from the first nuclear bomb test",
-    "Url": "https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/",
-    "Description": "Crystals found inside wreckage from the first nuclear bomb test",
-    "Metadata": {
-      "score": "72",
-      "author": "jumploops",
-      "commentCount": "21"
-    },
-    "FetchedAt": "2026-05-18T09:45:05.6626417+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48175140"
-    },
-    "Type": 1,
-    "Title": "It is time to give up the dualism introduced by the debate on consciousness",
-    "Url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
-    "Description": "It is time to give up the dualism introduced by the debate on consciousness",
-    "Metadata": {
-      "score": "77",
-      "author": "ahalbert4",
-      "commentCount": "197"
-    },
-    "FetchedAt": "2026-05-18T09:45:05.6959111+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48168668"
-    },
-    "Type": 1,
-    "Title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-    "Url": "https://github.com/tech4bot/rk3562deb",
-    "Description": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-    "Metadata": {
-      "score": "365",
-      "author": "tech4bot",
-      "commentCount": "169"
-    },
-    "FetchedAt": "2026-05-18T09:45:05.7298571+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48152754"
-    },
-    "Type": 1,
-    "Title": "Ask an Astronaut: 333 hours of Q\u0026A footage with astronauts",
-    "Url": "https://askanastronaut.issinrealtime.org/",
-    "Description": "Ask an Astronaut: 333 hours of Q\u0026A footage with astronauts",
-    "Metadata": {
-      "score": "145",
-      "author": "gaws",
-      "commentCount": "12"
-    },
-    "FetchedAt": "2026-05-18T09:45:05.7628103+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48151251"
-    },
-    "Type": 1,
-    "Title": "Jank now has its own custom IR",
-    "Url": "https://jank-lang.org/blog/2026-05-08-optimization/",
-    "Description": "Jank now has its own custom IR",
-    "Metadata": {
-      "score": "139",
-      "author": "DASD",
-      "commentCount": "16"
-    },
-    "FetchedAt": "2026-05-18T09:45:05.7966595+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48169874"
-    },
-    "Type": 1,
-    "Title": "Show HN: Semble \u2013 Code search for agents that uses 98% fewer tokens than grep",
-    "Url": "https://github.com/MinishLab/semble",
-    "Description": "Hey HN! We (Stephan and Thomas) recently open-sourced Semble. We kept running into the same problem while using Claude Code on large codebases: when the agent can\u0026#x27;t find something directly, it falls back to grep, reading full files or launching subagents. This uses a lot of tokens, and often still misses the relevant code. There are existing tools for this, but they were either too slow to index on demand, needed API keys, or had poor retrieval quality.\u003Cp\u003ESemble is our solution for this. It",
-    "Metadata": {
-      "score": "321",
-      "author": "Bibabomas",
-      "commentCount": "111"
-    },
-    "FetchedAt": "2026-05-18T09:45:05.8299673+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48160964"
     },
     "Type": 1,
@@ -253,36 +148,6 @@
       "commentCount": "2"
     },
     "FetchedAt": "2026-05-18T09:45:05.8629039+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48173962"
-    },
-    "Type": 1,
-    "Title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
-    "Url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
-    "Description": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
-    "Metadata": {
-      "score": "129",
-      "author": "HellMood",
-      "commentCount": "30"
-    },
-    "FetchedAt": "2026-05-18T09:45:05.8962065+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48173268"
-    },
-    "Type": 1,
-    "Title": "Prolog Coding Horror",
-    "Url": "https://www.metalevel.at/prolog/horror",
-    "Description": "Prolog Coding Horror",
-    "Metadata": {
-      "score": "140",
-      "author": "RohanAdwankar",
-      "commentCount": "56"
-    },
-    "FetchedAt": "2026-05-18T09:45:05.9296648+00:00"
   },
   {
     "ExternalId": {
@@ -316,21 +181,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48157229"
-    },
-    "Type": 1,
-    "Title": "A Good Lemma Is Worth a Thousand Theorems (2007)",
-    "Url": "https://sites.math.rutgers.edu/~zeilberg/Opinion82.html",
-    "Description": "A Good Lemma Is Worth a Thousand Theorems (2007)",
-    "Metadata": {
-      "score": "59",
-      "author": "susam",
-      "commentCount": "12"
-    },
-    "FetchedAt": "2026-05-18T09:45:06.0300782+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48173468"
     },
     "Type": 1,
@@ -346,21 +196,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48155936"
-    },
-    "Type": 1,
-    "Title": "Magical Realism: \u201CNorthern Exposure\u201D 25 Years Later (2015)",
-    "Url": "https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later",
-    "Description": "Magical Realism: \u201CNorthern Exposure\u201D 25 Years Later (2015)",
-    "Metadata": {
-      "score": "116",
-      "author": "walterbell",
-      "commentCount": "49"
-    },
-    "FetchedAt": "2026-05-18T09:45:06.0969374+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48165980"
     },
     "Type": 1,
@@ -373,36 +208,6 @@
       "commentCount": "262"
     },
     "FetchedAt": "2026-05-18T09:45:06.1311108+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48176762"
-    },
-    "Type": 1,
-    "Title": "Why is Google Maps back to showing old satellite images of Altadena?",
-    "Url": "https://www.reddit.com/r/pasadena/s/94BHlkE84r",
-    "Description": "Why is Google Maps back to showing old satellite images of Altadena?",
-    "Metadata": {
-      "score": "16",
-      "author": "tgrowazay",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-05-18T09:45:06.1644707+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48150690"
-    },
-    "Type": 1,
-    "Title": "Build a Radio Wave Detector with Balls of Aluminum Foil",
-    "Url": "https://www.wired.com/story/build-a-radio-wave-detector-with-balls-of-aluminum-foil/",
-    "Description": "Build a Radio Wave Detector with Balls of Aluminum Foil",
-    "Metadata": {
-      "score": "12",
-      "author": "Brajeshwar",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-05-18T09:45:06.1980748+00:00"
   },
   {
     "ExternalId": {
@@ -583,5 +388,455 @@
       "commentCount": "319"
     },
     "FetchedAt": "2026-05-18T09:45:06.6040628+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48179677"
+    },
+    "Type": 1,
+    "Title": "Show HN: Files.md \u2013 Open-source alternative to Obsidian",
+    "Url": "https://github.com/zakirullin/files.md",
+    "Description": "Show HN: Files.md \u2013 Open-source alternative to Obsidian",
+    "Metadata": {
+      "score": "107",
+      "author": "zakirullin",
+      "commentCount": "53"
+    },
+    "FetchedAt": "2026-05-18T14:57:41.728392+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48179931"
+    },
+    "Type": 1,
+    "Title": "Shame them, shun them, ban them, beat them",
+    "Url": "https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat",
+    "Description": "Shame them, shun them, ban them, beat them",
+    "Metadata": {
+      "score": "8",
+      "author": "mday27",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-18T14:57:42.1727025+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48180204"
+    },
+    "Type": 1,
+    "Title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
+    "Url": "https://github.com/2b2tplace/1m_release",
+    "Description": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
+    "Metadata": {
+      "score": "6",
+      "author": "exploraz",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-05-18T14:57:42.6179592+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48151990"
+    },
+    "Type": 1,
+    "Title": "The Aperiodic Table",
+    "Url": "https://blog.jgc.org/2026/05/the-aperiodic-table.html",
+    "Description": "The Aperiodic Table",
+    "Metadata": {
+      "score": "29",
+      "author": "jgrahamc",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-05-18T14:57:43.1095657+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48179183"
+    },
+    "Type": 1,
+    "Title": "\u0027We mould trees to grow into the shape of chairs\u0027",
+    "Url": "https://www.bbc.co.uk/news/articles/cvg0yy3gp71o",
+    "Description": "\u0027We mould trees to grow into the shape of chairs\u0027",
+    "Metadata": {
+      "score": "65",
+      "author": "bauc",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-05-18T14:57:43.5458155+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48135096"
+    },
+    "Type": 1,
+    "Title": "Math Jokes in Alice in Wonderland",
+    "Url": "https://storica.club/blog/alice-is-math-jokes/",
+    "Description": "Math Jokes in Alice in Wonderland",
+    "Metadata": {
+      "score": "67",
+      "author": "yekbun123",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-05-18T14:57:43.9854541+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48178692"
+    },
+    "Type": 1,
+    "Title": "Linux security mailing list \u0027almost unmanageable\u0027",
+    "Url": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
+    "Description": "Linux security mailing list \u0027almost unmanageable\u0027",
+    "Metadata": {
+      "score": "95",
+      "author": "jonbaer",
+      "commentCount": "40"
+    },
+    "FetchedAt": "2026-05-18T14:57:44.4273763+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48179029"
+    },
+    "Type": 1,
+    "Title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
+    "Url": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
+    "Description": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
+    "Metadata": {
+      "score": "79",
+      "author": "Bender",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-05-18T14:57:44.8891481+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48177300"
+    },
+    "Type": 1,
+    "Title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
+    "Url": "http://www.csl.sri.com/users/neumann/psos.pdf",
+    "Description": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
+    "Metadata": {
+      "score": "78",
+      "author": "rurban",
+      "commentCount": "44"
+    },
+    "FetchedAt": "2026-05-18T14:57:45.3425414+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48167177"
+    },
+    "Type": 1,
+    "Title": "Porting my 3D points renderer on a ZX Spectrum 48K",
+    "Url": "https://github.com/ttsiodras/3D-on-a-ZX-Spectrum-48K/",
+    "Description": "Porting my 3D points renderer on a ZX Spectrum 48K",
+    "Metadata": {
+      "score": "49",
+      "author": "ttsiodras",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-05-18T14:57:45.8187199+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48178184"
+    },
+    "Type": 1,
+    "Title": "Show HN: Auto-identity-remove \u2013 Automated data broker opt-out runner for macOS",
+    "Url": "https://github.com/stephenlthorn/auto-identity-remove",
+    "Description": "Show HN: Auto-identity-remove \u2013 Automated data broker opt-out runner for macOS",
+    "Metadata": {
+      "score": "282",
+      "author": "stephenlthorn",
+      "commentCount": "112"
+    },
+    "FetchedAt": "2026-05-18T14:57:46.3442646+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48175140"
+    },
+    "Type": 1,
+    "Title": "It is time to give up the dualism introduced by the debate on consciousness",
+    "Url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
+    "Description": "It is time to give up the dualism introduced by the debate on consciousness",
+    "Metadata": {
+      "score": "189",
+      "author": "ahalbert4",
+      "commentCount": "486"
+    },
+    "FetchedAt": "2026-05-18T14:57:46.8162098+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48173429"
+    },
+    "Type": 1,
+    "Title": "GenCAD",
+    "Url": "https://gencad.github.io/",
+    "Description": "GenCAD",
+    "Metadata": {
+      "score": "389",
+      "author": "dagenix",
+      "commentCount": "102"
+    },
+    "FetchedAt": "2026-05-18T14:57:47.302306+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48178510"
+    },
+    "Type": 1,
+    "Title": "When Kierkegaard Got Cancelled",
+    "Url": "https://www.plough.com/en/topics/faith/discipleship/when-kierkegaard-got-cancelled",
+    "Description": "When Kierkegaard Got Cancelled",
+    "Metadata": {
+      "score": "9",
+      "author": "bookofjoe",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-05-18T14:57:47.8096247+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48180091"
+    },
+    "Type": 1,
+    "Title": "Actually, Democracy Dies in H.R.",
+    "Url": "https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;RKltX\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;RKltX\u003C/a\u003E",
+    "Metadata": {
+      "score": "30",
+      "author": "mitchbob",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-05-18T14:57:48.2821972+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48155450"
+    },
+    "Type": 1,
+    "Title": "Crystals found inside wreckage from the first nuclear bomb test",
+    "Url": "https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/",
+    "Description": "Crystals found inside wreckage from the first nuclear bomb test",
+    "Metadata": {
+      "score": "131",
+      "author": "jumploops",
+      "commentCount": "57"
+    },
+    "FetchedAt": "2026-05-18T14:57:48.6150756+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48163389"
+    },
+    "Type": 1,
+    "Title": "The Quiet Renovation at Bitwarden",
+    "Url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
+    "Description": "The Quiet Renovation at Bitwarden",
+    "Metadata": {
+      "score": "8",
+      "author": "DaSHacka",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-18T14:57:48.9275986+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48168668"
+    },
+    "Type": 1,
+    "Title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+    "Url": "https://github.com/tech4bot/rk3562deb",
+    "Description": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+    "Metadata": {
+      "score": "407",
+      "author": "tech4bot",
+      "commentCount": "207"
+    },
+    "FetchedAt": "2026-05-18T14:57:49.2997248+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48179021"
+    },
+    "Type": 1,
+    "Title": "AI eats the world (Spring 26) [pdf]",
+    "Url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+    "Description": "AI eats the world (Spring 26) [pdf]",
+    "Metadata": {
+      "score": "100",
+      "author": "topherjaynes",
+      "commentCount": "53"
+    },
+    "FetchedAt": "2026-05-18T14:57:49.7541532+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48152754"
+    },
+    "Type": 1,
+    "Title": "Ask an Astronaut: 333 hours of Q\u0026A footage with astronauts",
+    "Url": "https://askanastronaut.issinrealtime.org/",
+    "Description": "Ask an Astronaut: 333 hours of Q\u0026A footage with astronauts",
+    "Metadata": {
+      "score": "176",
+      "author": "gaws",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-05-18T14:57:50.2849598+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48151251"
+    },
+    "Type": 1,
+    "Title": "Jank now has its own custom IR",
+    "Url": "https://jank-lang.org/blog/2026-05-08-optimization/",
+    "Description": "Jank now has its own custom IR",
+    "Metadata": {
+      "score": "186",
+      "author": "DASD",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-05-18T14:57:50.8247372+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48169874"
+    },
+    "Type": 1,
+    "Title": "Show HN: Semble \u2013 Code search for agents that uses 98% fewer tokens than grep",
+    "Url": "https://github.com/MinishLab/semble",
+    "Description": "Hey HN! We (Stephan and Thomas) recently open-sourced Semble. We kept running into the same problem while using Claude Code on large codebases: when the agent can\u0026#x27;t find something directly, it falls back to grep, reading full files or launching subagents. This uses a lot of tokens, and often still misses the relevant code. There are existing tools for this, but they were either too slow to index on demand, needed API keys, or had poor retrieval quality.\u003Cp\u003ESemble is our solution for this. It",
+    "Metadata": {
+      "score": "391",
+      "author": "Bibabomas",
+      "commentCount": "130"
+    },
+    "FetchedAt": "2026-05-18T14:57:51.165813+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48150690"
+    },
+    "Type": 1,
+    "Title": "Build a Radio Wave Detector with Balls of Aluminum Foil",
+    "Url": "https://www.wired.com/story/build-a-radio-wave-detector-with-balls-of-aluminum-foil/",
+    "Description": "Build a Radio Wave Detector with Balls of Aluminum Foil",
+    "Metadata": {
+      "score": "42",
+      "author": "Brajeshwar",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-05-18T14:57:51.7664725+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48177163"
+    },
+    "Type": 1,
+    "Title": "Don\u0027t Answer the First Question",
+    "Url": "https://lalitm.com/post/dont-answer-the-first-question/",
+    "Description": "Don\u0027t Answer the First Question",
+    "Metadata": {
+      "score": "29",
+      "author": "lalitmaganti",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-05-18T14:57:52.1982548+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48177716"
+    },
+    "Type": 1,
+    "Title": "NASA still maintains some of the Voyager spacecraft code from the 70s era",
+    "Url": "https://spacedaily.com/nasa-still-maintains-some-of-the-voyager-spacecraft-code-in-a-1970s-era-programming-language-that-almost-nobody-on-earth-fully-understands-anymore-and-the-handful-of-engineers-who-do-are-now-in-their/",
+    "Description": "NASA still maintains some of the Voyager spacecraft code from the 70s era",
+    "Metadata": {
+      "score": "45",
+      "author": "redbell",
+      "commentCount": "49"
+    },
+    "FetchedAt": "2026-05-18T14:57:53.2124861+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48173962"
+    },
+    "Type": 1,
+    "Title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
+    "Url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
+    "Description": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
+    "Metadata": {
+      "score": "173",
+      "author": "HellMood",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-05-18T14:57:53.5983524+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48176762"
+    },
+    "Type": 1,
+    "Title": "Why is Google Maps back to showing old satellite images of Altadena?",
+    "Url": "https://www.reddit.com/r/pasadena/s/94BHlkE84r",
+    "Description": "Why is Google Maps back to showing old satellite images of Altadena?",
+    "Metadata": {
+      "score": "79",
+      "author": "tgrowazay",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-05-18T14:57:54.0222615+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48173268"
+    },
+    "Type": 1,
+    "Title": "Prolog Coding Horror",
+    "Url": "https://www.metalevel.at/prolog/horror",
+    "Description": "Prolog Coding Horror",
+    "Metadata": {
+      "score": "171",
+      "author": "RohanAdwankar",
+      "commentCount": "66"
+    },
+    "FetchedAt": "2026-05-18T14:57:54.5446647+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48155936"
+    },
+    "Type": 1,
+    "Title": "Magical Realism: \u201CNorthern Exposure\u201D 25 Years Later (2015)",
+    "Url": "https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later",
+    "Description": "Magical Realism: \u201CNorthern Exposure\u201D 25 Years Later (2015)",
+    "Metadata": {
+      "score": "130",
+      "author": "walterbell",
+      "commentCount": "75"
+    },
+    "FetchedAt": "2026-05-18T14:57:55.1064199+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48157229"
+    },
+    "Type": 1,
+    "Title": "A Good Lemma Is Worth a Thousand Theorems (2007)",
+    "Url": "https://sites.math.rutgers.edu/~zeilberg/Opinion82.html",
+    "Description": "A Good Lemma Is Worth a Thousand Theorems (2007)",
+    "Metadata": {
+      "score": "78",
+      "author": "susam",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-05-18T14:57:55.692942+00:00"
   }
 ]
