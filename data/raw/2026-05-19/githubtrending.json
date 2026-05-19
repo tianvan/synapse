@@ -1,55 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:tinyhumansai/openhuman"
-    },
-    "Type": 0,
-    "Title": "tinyhumansai/openhuman",
-    "Url": "https://github.com/tinyhumansai/openhuman",
-    "Description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-    "Metadata": {
-      "owner": "tinyhumansai",
-      "repo": "openhuman",
-      "language": "Rust",
-      "stars": "3,941"
-    },
-    "FetchedAt": "2026-05-19T09:30:15.1483501+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:Imbad0202/academic-research-skills"
-    },
-    "Type": 0,
-    "Title": "Imbad0202/academic-research-skills",
-    "Url": "https://github.com/Imbad0202/academic-research-skills",
-    "Description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "Metadata": {
-      "owner": "Imbad0202",
-      "repo": "academic-research-skills",
-      "language": "Python",
-      "stars": "1,439",
-      "topics": "academic-pipeline, academic-writing, ai-research, claude, claude-code, literature-review, peer-review, prompt-engineering"
-    },
-    "FetchedAt": "2026-05-19T09:30:15.3372979+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:HKUDS/CLI-Anything"
-    },
-    "Type": 0,
-    "Title": "HKUDS/CLI-Anything",
-    "Url": "https://github.com/HKUDS/CLI-Anything",
-    "Description": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/",
-    "Metadata": {
-      "owner": "HKUDS",
-      "repo": "CLI-Anything",
-      "language": "Python",
-      "stars": "1,049"
-    },
-    "FetchedAt": "2026-05-19T09:30:15.4423539+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:K-Dense-AI/scientific-agent-skills"
     },
     "Type": 0,
@@ -118,23 +69,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:CloakHQ/CloakBrowser"
-    },
-    "Type": 0,
-    "Title": "CloakHQ/CloakBrowser",
-    "Url": "https://github.com/CloakHQ/CloakBrowser",
-    "Description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-    "Metadata": {
-      "owner": "CloakHQ",
-      "repo": "CloakBrowser",
-      "language": "Python",
-      "stars": "1,420",
-      "topics": "ai-agents, anti-detect, antidetect-browser, bot-detection, browser-automation, captcha-bypass, chromium, cloudflare, cloudflare-bypass, fingerprint, headless-browser, playwright, puppeteer, python, recaptcha, selenium, stealth-browser, undetected, web-scraping, webscraping"
-    },
-    "FetchedAt": "2026-05-19T09:30:16.154937+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:tech-leads-club/agent-skills"
     },
     "Type": 0,
@@ -169,23 +103,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:humanlayer/12-factor-agents"
-    },
-    "Type": 0,
-    "Title": "humanlayer/12-factor-agents",
-    "Url": "https://github.com/humanlayer/12-factor-agents",
-    "Description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
-    "Metadata": {
-      "owner": "humanlayer",
-      "repo": "12-factor-agents",
-      "language": "TypeScript",
-      "stars": "399",
-      "topics": "12-factor, 12-factor-agents, agents, ai, context-window, framework, llms, memory, orchestration, prompt-engineering, rag"
-    },
-    "FetchedAt": "2026-05-19T09:30:16.5809194+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:NVlabs/Sana"
     },
     "Type": 0,
@@ -203,23 +120,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:microsoft/ai-agents-for-beginners"
-    },
-    "Type": 0,
-    "Title": "microsoft/ai-agents-for-beginners",
-    "Url": "https://github.com/microsoft/ai-agents-for-beginners",
-    "Description": "12 Lessons to Get Started Building AI Agents",
-    "Metadata": {
-      "owner": "microsoft",
-      "repo": "ai-agents-for-beginners",
-      "language": "Jupyter Notebook",
-      "stars": "1,012",
-      "topics": "agentic-ai, agentic-framework, agentic-rag, ai-agents, ai-agents-framework, autogen, generative-ai, semantic-kernel"
-    },
-    "FetchedAt": "2026-05-19T09:30:16.8903645+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:ZhuLinsen/daily_stock_analysis"
     },
     "Type": 0,
@@ -234,5 +134,252 @@
       "topics": "a-stock, ai-agent, aigc, llm, quant, quantitative-finance, quantitative-trading"
     },
     "FetchedAt": "2026-05-19T09:30:17.0020131+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:tinyhumansai/openhuman"
+    },
+    "Type": 0,
+    "Title": "tinyhumansai/openhuman",
+    "Url": "https://github.com/tinyhumansai/openhuman",
+    "Description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+    "Metadata": {
+      "owner": "tinyhumansai",
+      "repo": "openhuman",
+      "language": "Rust",
+      "stars": "3,991"
+    },
+    "FetchedAt": "2026-05-19T14:42:53.7637459+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/CLI-Anything"
+    },
+    "Type": 0,
+    "Title": "HKUDS/CLI-Anything",
+    "Url": "https://github.com/HKUDS/CLI-Anything",
+    "Description": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "CLI-Anything",
+      "language": "Python",
+      "stars": "1,027"
+    },
+    "FetchedAt": "2026-05-19T14:42:54.0681483+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Imbad0202/academic-research-skills"
+    },
+    "Type": 0,
+    "Title": "Imbad0202/academic-research-skills",
+    "Url": "https://github.com/Imbad0202/academic-research-skills",
+    "Description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "Metadata": {
+      "owner": "Imbad0202",
+      "repo": "academic-research-skills",
+      "language": "Python",
+      "stars": "3,184",
+      "topics": "academic-pipeline, academic-writing, ai-research, claude, claude-code, literature-review, peer-review, prompt-engineering"
+    },
+    "FetchedAt": "2026-05-19T14:42:54.2840278+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-plugins-official"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-plugins-official",
+    "Url": "https://github.com/anthropics/claude-plugins-official",
+    "Description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-plugins-official",
+      "language": "Python",
+      "stars": "127",
+      "topics": "claude-code, mcp, skills"
+    },
+    "FetchedAt": "2026-05-19T14:42:54.4830236+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:CloakHQ/CloakBrowser"
+    },
+    "Type": 0,
+    "Title": "CloakHQ/CloakBrowser",
+    "Url": "https://github.com/CloakHQ/CloakBrowser",
+    "Description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+    "Metadata": {
+      "owner": "CloakHQ",
+      "repo": "CloakBrowser",
+      "language": "Python",
+      "stars": "1,466",
+      "topics": "ai-agents, anti-detect, antidetect-browser, bot-detection, browser-automation, captcha-bypass, chromium, cloudflare, cloudflare-bypass, fingerprint, headless-browser, playwright, puppeteer, python, recaptcha, selenium, stealth-browser, undetected, web-scraping, webscraping"
+    },
+    "FetchedAt": "2026-05-19T14:42:54.6802632+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:rtk-ai/rtk"
+    },
+    "Type": 0,
+    "Title": "rtk-ai/rtk",
+    "Url": "https://github.com/rtk-ai/rtk",
+    "Description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+    "Metadata": {
+      "owner": "rtk-ai",
+      "repo": "rtk",
+      "language": "Rust",
+      "stars": "667",
+      "topics": "agentic-coding, ai-coding, anthropic, claude-code, cli, command-line-tool, cost-reduction, developer-tools, llm, open-source, productivity, rust, token-optimization"
+    },
+    "FetchedAt": "2026-05-19T14:42:54.8865667+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:colbymchenry/codegraph"
+    },
+    "Type": 0,
+    "Title": "colbymchenry/codegraph",
+    "Url": "https://github.com/colbymchenry/codegraph",
+    "Description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode \u2014 fewer tokens, fewer tool calls, 100% local",
+    "Metadata": {
+      "owner": "colbymchenry",
+      "repo": "codegraph",
+      "language": "TypeScript",
+      "stars": "1,869"
+    },
+    "FetchedAt": "2026-05-19T14:42:55.118374+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:multica-ai/andrej-karpathy-skills"
+    },
+    "Type": 0,
+    "Title": "multica-ai/andrej-karpathy-skills",
+    "Url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "Description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy\u0027s observations on LLM coding pitfalls.",
+    "Metadata": {
+      "owner": "multica-ai",
+      "repo": "andrej-karpathy-skills",
+      "stars": "2,014"
+    },
+    "FetchedAt": "2026-05-19T14:42:55.3153413+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:humanlayer/12-factor-agents"
+    },
+    "Type": 0,
+    "Title": "humanlayer/12-factor-agents",
+    "Url": "https://github.com/humanlayer/12-factor-agents",
+    "Description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+    "Metadata": {
+      "owner": "humanlayer",
+      "repo": "12-factor-agents",
+      "language": "TypeScript",
+      "stars": "733",
+      "topics": "12-factor, 12-factor-agents, agents, ai, context-window, framework, llms, memory, orchestration, prompt-engineering, rag"
+    },
+    "FetchedAt": "2026-05-19T14:42:55.5181848+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Diolinux/PhotoGIMP"
+    },
+    "Type": 0,
+    "Title": "Diolinux/PhotoGIMP",
+    "Url": "https://github.com/Diolinux/PhotoGIMP",
+    "Description": "A Patch for GIMP 3\u002B for Photoshop Users",
+    "Metadata": {
+      "owner": "Diolinux",
+      "repo": "PhotoGIMP",
+      "language": "CSS",
+      "stars": "930"
+    },
+    "FetchedAt": "2026-05-19T14:42:55.6875667+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Alishahryar1/free-claude-code"
+    },
+    "Type": 0,
+    "Title": "Alishahryar1/free-claude-code",
+    "Url": "https://github.com/Alishahryar1/free-claude-code",
+    "Description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+    "Metadata": {
+      "owner": "Alishahryar1",
+      "repo": "free-claude-code",
+      "language": "Python",
+      "stars": "543"
+    },
+    "FetchedAt": "2026-05-19T14:42:55.8875457+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pascalorg/editor"
+    },
+    "Type": 0,
+    "Title": "pascalorg/editor",
+    "Url": "https://github.com/pascalorg/editor",
+    "Description": "Create and share 3D architectural projects.",
+    "Metadata": {
+      "owner": "pascalorg",
+      "repo": "editor",
+      "language": "TypeScript",
+      "stars": "88"
+    },
+    "FetchedAt": "2026-05-19T14:42:56.10324+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:frappe/erpnext"
+    },
+    "Type": 0,
+    "Title": "frappe/erpnext",
+    "Url": "https://github.com/frappe/erpnext",
+    "Description": "Free and Open Source Enterprise Resource Planning (ERP)",
+    "Metadata": {
+      "owner": "frappe",
+      "repo": "erpnext",
+      "language": "Python",
+      "stars": "65",
+      "topics": "accounting, asset-management, crm, distribution, erp, erpnext, frappe, healthcare, hrms, manufacturing, point-of-sale, procurement, project-management, python, retail, support"
+    },
+    "FetchedAt": "2026-05-19T14:42:56.3172008+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:microsoft/ai-agents-for-beginners"
+    },
+    "Type": 0,
+    "Title": "microsoft/ai-agents-for-beginners",
+    "Url": "https://github.com/microsoft/ai-agents-for-beginners",
+    "Description": "12 Lessons to Get Started Building AI Agents",
+    "Metadata": {
+      "owner": "microsoft",
+      "repo": "ai-agents-for-beginners",
+      "language": "Jupyter Notebook",
+      "stars": "820",
+      "topics": "agentic-ai, agentic-framework, agentic-rag, ai-agents, ai-agents-framework, autogen, generative-ai, semantic-kernel"
+    },
+    "FetchedAt": "2026-05-19T14:42:56.5317445+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/ViMax"
+    },
+    "Type": 0,
+    "Title": "HKUDS/ViMax",
+    "Url": "https://github.com/HKUDS/ViMax",
+    "Description": "\u0022ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\u0022",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "ViMax",
+      "language": "Python",
+      "stars": "504",
+      "topics": "agentic-aigc, video-generation"
+    },
+    "FetchedAt": "2026-05-19T14:42:56.7962789+00:00"
   }
 ]
