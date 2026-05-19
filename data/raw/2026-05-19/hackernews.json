@@ -1,81 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:48187054"
-    },
-    "Type": 1,
-    "Title": "Click (2016)",
-    "Url": "https://clickclickclick.click/",
-    "Description": "Click (2016)",
-    "Metadata": {
-      "score": "209",
-      "author": "andrewzeno",
-      "commentCount": "49"
-    },
-    "FetchedAt": "2026-05-19T02:36:34.7244001+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48187201"
-    },
-    "Type": 1,
-    "Title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
-    "Url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
-    "Description": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
-    "Metadata": {
-      "score": "118",
-      "author": "cucho",
-      "commentCount": "70"
-    },
-    "FetchedAt": "2026-05-19T02:36:34.7846939+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48136909"
-    },
-    "Type": 1,
-    "Title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
-    "Url": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
-    "Description": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
-    "Metadata": {
-      "score": "15",
-      "author": "surprisetalk",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-05-19T02:36:34.8164212+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48182281"
-    },
-    "Type": 1,
-    "Title": "Anthropic acquires Stainless",
-    "Url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-    "Description": "Anthropic acquires Stainless",
-    "Metadata": {
-      "score": "372",
-      "author": "tomeraberbach",
-      "commentCount": "255"
-    },
-    "FetchedAt": "2026-05-19T02:36:34.8493081+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48184322"
-    },
-    "Type": 1,
-    "Title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-    "Url": "https://hyperpolyglot.org/lisp",
-    "Description": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-    "Metadata": {
-      "score": "134",
-      "author": "veqq",
-      "commentCount": "28"
-    },
-    "FetchedAt": "2026-05-19T02:36:34.9001997+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48181125"
     },
     "Type": 1,
@@ -88,36 +13,6 @@
       "commentCount": "191"
     },
     "FetchedAt": "2026-05-19T02:36:34.9348017+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48183301"
-    },
-    "Type": 1,
-    "Title": "We let AIs run radio stations",
-    "Url": "https://andonlabs.com/blog/andon-fm",
-    "Description": "Hey HN!\u003Cp\u003EI\u0026#x27;m Lukas from Andon Labs. We let AIs run companies without humans in the loop and report to the public on what can go wrong. Previously, we\u0026#x27;ve done experiments in retail (vending machines, stores, and cafes), but we just launched one in the media sector. We gave four AI agents all the tools they need to both broadcast radio shows live and handle all the business side of running a media company. The agents\u0026#x27; revenue is so far terrible (you can try to strike a sponsor deal",
-    "Metadata": {
-      "score": "177",
-      "author": "lukaspetersson",
-      "commentCount": "164"
-    },
-    "FetchedAt": "2026-05-19T02:36:34.9661921+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48123359"
-    },
-    "Type": 1,
-    "Title": "Show HN: Number Gacha, a gacha game distilled to its essence",
-    "Url": "https://isabisabel.com/gacha/",
-    "Description": "Number Gacha is a half-parody, half-real gacha game where you roll, unwrap, and battle numbers. Play on Desktop for the best experience!",
-    "Metadata": {
-      "score": "56",
-      "author": "babel16",
-      "commentCount": "20"
-    },
-    "FetchedAt": "2026-05-19T02:36:34.9984811+00:00"
   },
   {
     "ExternalId": {
@@ -166,21 +61,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48182754"
-    },
-    "Type": 1,
-    "Title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-    "Url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-    "Description": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-    "Metadata": {
-      "score": "808",
-      "author": "nycdatasci",
-      "commentCount": "424"
-    },
-    "FetchedAt": "2026-05-19T02:36:35.123516+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48176873"
     },
     "Type": 1,
@@ -211,36 +91,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48183748"
-    },
-    "Type": 1,
-    "Title": "Agora-1: The Multi-Agent World Model",
-    "Url": "https://odyssey.ml/introducing-agora-1",
-    "Description": "Agora-1: The Multi-Agent World Model",
-    "Metadata": {
-      "score": "83",
-      "author": "olivercameron",
-      "commentCount": "16"
-    },
-    "FetchedAt": "2026-05-19T02:36:35.220458+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48156186"
-    },
-    "Type": 1,
-    "Title": "Two computers, one monitor, zero fiddling (2025)",
-    "Url": "https://alexplescan.com/posts/2025/08/16/kvm/",
-    "Description": "Two computers, one monitor, zero fiddling (2025)",
-    "Metadata": {
-      "score": "177",
-      "author": "ankitg12",
-      "commentCount": "97"
-    },
-    "FetchedAt": "2026-05-19T02:36:35.2510985+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48174409"
     },
     "Type": 1,
@@ -253,21 +103,6 @@
       "commentCount": "5"
     },
     "FetchedAt": "2026-05-19T02:36:35.2835918+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48167187"
-    },
-    "Type": 1,
-    "Title": "When can the C\u002B\u002B compiler devirtualize a call?",
-    "Url": "https://quuxplusone.github.io/blog/2021/02/15/devirtualization/",
-    "Description": "When can the C\u002B\u002B compiler devirtualize a call?",
-    "Metadata": {
-      "score": "16",
-      "author": "lionkor",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-05-19T02:36:35.3150712+00:00"
   },
   {
     "ExternalId": {
@@ -361,21 +196,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48185938"
-    },
-    "Type": 1,
-    "Title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
-    "Url": "https://arxiv.org/abs/2601.10160",
-    "Description": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
-    "Metadata": {
-      "score": "25",
-      "author": "anigbrowl",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-05-19T02:36:36.3050018+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48182592"
     },
     "Type": 1,
@@ -448,5 +268,455 @@
       "commentCount": "7"
     },
     "FetchedAt": "2026-05-19T02:36:36.498551+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48188183"
+    },
+    "Type": 1,
+    "Title": "The last six months in LLMs in five minutes",
+    "Url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+    "Description": "The last six months in LLMs in five minutes",
+    "Metadata": {
+      "score": "420",
+      "author": "yakkomajuri",
+      "commentCount": "279"
+    },
+    "FetchedAt": "2026-05-19T09:30:17.3496405+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48161772"
+    },
+    "Type": 1,
+    "Title": "Kv4p HT \u2013 A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
+    "Url": "https://www.kv4p.com/",
+    "Description": "Kv4p HT \u2013 A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
+    "Metadata": {
+      "score": "91",
+      "author": "krupan",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-05-19T09:30:17.3787071+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48188787"
+    },
+    "Type": 1,
+    "Title": "Peter Neumann has died",
+    "Url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
+    "Description": "Peter Neumann has died",
+    "Metadata": {
+      "score": "95",
+      "author": "pabs3",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-05-19T09:30:17.4079217+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48187054"
+    },
+    "Type": 1,
+    "Title": "Click (2016)",
+    "Url": "https://clickclickclick.click/",
+    "Description": "Click (2016)",
+    "Metadata": {
+      "score": "298",
+      "author": "andrewzeno",
+      "commentCount": "71"
+    },
+    "FetchedAt": "2026-05-19T09:30:17.4373892+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48189368"
+    },
+    "Type": 1,
+    "Title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+    "Url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+    "Description": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+    "Metadata": {
+      "score": "82",
+      "author": "theanonymousone",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-05-19T09:30:17.4664172+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48165283"
+    },
+    "Type": 1,
+    "Title": "The lasting influence of Netscape Time",
+    "Url": "https://thehistoryoftheweb.com/the-lasting-influence-of-netscape-time/",
+    "Description": "The lasting influence of Netscape Time",
+    "Metadata": {
+      "score": "23",
+      "author": "zdw",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-05-19T09:30:17.4974646+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48189178"
+    },
+    "Type": 1,
+    "Title": "PyTorch Landscape",
+    "Url": "https://pytorch.landscape2.io",
+    "Description": "PyTorch Landscape",
+    "Metadata": {
+      "score": "41",
+      "author": "salamo",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-05-19T09:30:17.5267457+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48166744"
+    },
+    "Type": 1,
+    "Title": "Polypad",
+    "Url": "https://polypad.amplify.com/",
+    "Description": "Polypad",
+    "Metadata": {
+      "score": "48",
+      "author": "ivank",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-05-19T09:30:17.55602+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48182281"
+    },
+    "Type": 1,
+    "Title": "Anthropic acquires Stainless",
+    "Url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+    "Description": "Anthropic acquires Stainless",
+    "Metadata": {
+      "score": "450",
+      "author": "tomeraberbach",
+      "commentCount": "301"
+    },
+    "FetchedAt": "2026-05-19T09:30:17.5861512+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48182516"
+    },
+    "Type": 1,
+    "Title": "Cursor Introduces Composer 2.5",
+    "Url": "https://cursor.com/blog/composer-2-5",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;twitter.com\u0026#x2F;cursor_ai\u0026#x2F;status\u0026#x2F;2056415413077233983\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;twitter.com\u0026#x2F;cursor_ai\u0026#x2F;status\u0026#x2F;2056415413077233983\u003C/a\u003E",
+    "Metadata": {
+      "score": "143",
+      "author": "asar",
+      "commentCount": "99"
+    },
+    "FetchedAt": "2026-05-19T09:30:17.6157869+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48187201"
+    },
+    "Type": 1,
+    "Title": "Pope Leo XIV\u2019s first encyclical Magnifica humanitas to be published May 25",
+    "Url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+    "Description": "Pope Leo XIV\u2019s first encyclical Magnifica humanitas to be published May 25",
+    "Metadata": {
+      "score": "220",
+      "author": "cucho",
+      "commentCount": "130"
+    },
+    "FetchedAt": "2026-05-19T09:30:17.6456941+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48136909"
+    },
+    "Type": 1,
+    "Title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
+    "Url": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
+    "Description": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
+    "Metadata": {
+      "score": "120",
+      "author": "surprisetalk",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-05-19T09:30:17.6751682+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48180204"
+    },
+    "Type": 1,
+    "Title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
+    "Url": "https://github.com/2b2tplace/1m_release",
+    "Description": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
+    "Metadata": {
+      "score": "141",
+      "author": "exploraz",
+      "commentCount": "85"
+    },
+    "FetchedAt": "2026-05-19T09:30:17.7053724+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48165797"
+    },
+    "Type": 1,
+    "Title": "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
+    "Url": "https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314",
+    "Description": "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
+    "Metadata": {
+      "score": "5",
+      "author": "vi_sextus_vi",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-19T09:30:17.7358453+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48183301"
+    },
+    "Type": 1,
+    "Title": "We let AIs run radio stations",
+    "Url": "https://andonlabs.com/blog/andon-fm",
+    "Description": "Hey HN!\u003Cp\u003EI\u0026#x27;m Lukas from Andon Labs. We let AIs run companies without humans in the loop and report to the public on what can go wrong. Previously, we\u0026#x27;ve done experiments in retail (vending machines, stores, and cafes), but we just launched one in the media sector. We gave four AI agents all the tools they need to both broadcast radio shows live and handle all the business side of running a media company. The agents\u0026#x27; revenue is so far terrible (you can try to strike a sponsor deal",
+    "Metadata": {
+      "score": "260",
+      "author": "lukaspetersson",
+      "commentCount": "209"
+    },
+    "FetchedAt": "2026-05-19T09:30:17.805178+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48184322"
+    },
+    "Type": 1,
+    "Title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+    "Url": "https://hyperpolyglot.org/lisp",
+    "Description": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+    "Metadata": {
+      "score": "157",
+      "author": "veqq",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-05-19T09:30:17.8345408+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48165030"
+    },
+    "Type": 1,
+    "Title": "Make ZIP files smaller with ZIP Shrinker",
+    "Url": "https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/",
+    "Description": "Make ZIP files smaller with ZIP Shrinker",
+    "Metadata": {
+      "score": "23",
+      "author": "zdw",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-05-19T09:30:17.8640158+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48123359"
+    },
+    "Type": 1,
+    "Title": "Show HN: Number Gacha, a gacha game distilled to its essence",
+    "Url": "https://isabisabel.com/gacha/",
+    "Description": "Number Gacha is a half-parody, half-real gacha game where you roll, unwrap, and battle numbers. Play on Desktop for the best experience!",
+    "Metadata": {
+      "score": "151",
+      "author": "babel16",
+      "commentCount": "60"
+    },
+    "FetchedAt": "2026-05-19T09:30:17.8940189+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48167187"
+    },
+    "Type": 1,
+    "Title": "When can the C\u002B\u002B compiler devirtualize a call?",
+    "Url": "https://quuxplusone.github.io/blog/2021/02/15/devirtualization/",
+    "Description": "When can the C\u002B\u002B compiler devirtualize a call?",
+    "Metadata": {
+      "score": "61",
+      "author": "lionkor",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-05-19T09:30:17.9235011+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48189044"
+    },
+    "Type": 1,
+    "Title": "Show HN: Hsrs \u2013 Type-Safe Haskell Bindings Generator for Rust",
+    "Url": "https://github.com/harmont-dev/hsrs",
+    "Description": "Hey everyone! I\u0026#x27;ve been working on hsrs, a type-safe Haskell Bindings Generator for Rust.\u003Cp\u003EI couldn\u0026#x27;t really find any bindings generator that would create type-safe, rich bindings for Haskell from Rust. Naturally, both languages have rich type systems, so I was amazed that no awesome bindings generator already existed, hence I decided to write my own. hsrs feels very similar to pyo3 and napi-rs, and if you\u0026#x27;ve used those, hsrs will feel right at home.\u003Cp\u003EWhat\u0026#x27;s unique about hs",
+    "Metadata": {
+      "score": "27",
+      "author": "suis_siva",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-05-19T09:30:17.9542829+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48188665"
+    },
+    "Type": 1,
+    "Title": "Peter Salus has died",
+    "Url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
+    "Description": "Peter Salus has died",
+    "Metadata": {
+      "score": "131",
+      "author": "speckx",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-05-19T09:30:17.9851231+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48165944"
+    },
+    "Type": 1,
+    "Title": "Anyone on the Internet Can Ring Your Doorbell",
+    "Url": "https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell",
+    "Description": "Anyone on the Internet Can Ring Your Doorbell",
+    "Metadata": {
+      "score": "100",
+      "author": "jrdres",
+      "commentCount": "63"
+    },
+    "FetchedAt": "2026-05-19T09:30:18.0153162+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48188996"
+    },
+    "Type": 1,
+    "Title": "LLMCap \u2013 A proxy that hard-stops LLM API calls when you hit a dollar cap",
+    "Url": "https://www.llmcap.io/",
+    "Description": "LLMCap \u2013 A proxy that hard-stops LLM API calls when you hit a dollar cap",
+    "Metadata": {
+      "score": "18",
+      "author": "cfaruk",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-05-19T09:30:18.0459825+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48179021"
+    },
+    "Type": 1,
+    "Title": "AI eats the world (Spring 26) [pdf]",
+    "Url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+    "Description": "AI eats the world (Spring 26) [pdf]",
+    "Metadata": {
+      "score": "224",
+      "author": "topherjaynes",
+      "commentCount": "123"
+    },
+    "FetchedAt": "2026-05-19T09:30:18.0765044+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48182754"
+    },
+    "Type": 1,
+    "Title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "Url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+    "Description": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "Metadata": {
+      "score": "952",
+      "author": "nycdatasci",
+      "commentCount": "468"
+    },
+    "FetchedAt": "2026-05-19T09:30:18.1140231+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48156186"
+    },
+    "Type": 1,
+    "Title": "Two computers, one monitor, zero fiddling (2025)",
+    "Url": "https://alexplescan.com/posts/2025/08/16/kvm/",
+    "Description": "Two computers, one monitor, zero fiddling (2025)",
+    "Metadata": {
+      "score": "214",
+      "author": "ankitg12",
+      "commentCount": "127"
+    },
+    "FetchedAt": "2026-05-19T09:30:18.1438866+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48172253"
+    },
+    "Type": 1,
+    "Title": "Consider the Sister",
+    "Url": "https://www.thesmallbow.com/p/consider-the-sister-2b94",
+    "Description": "Consider the Sister",
+    "Metadata": {
+      "score": "4",
+      "author": "NaOH",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-05-19T09:30:18.1742569+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48158780"
+    },
+    "Type": 1,
+    "Title": "Why is it called Kent House?",
+    "Url": "https://diamondgeezer.blogspot.com/2026/05/kent-house.html",
+    "Description": "Why is it called Kent House?",
+    "Metadata": {
+      "score": "30",
+      "author": "susam",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-05-19T09:30:18.2042054+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48185938"
+    },
+    "Type": 1,
+    "Title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+    "Url": "https://arxiv.org/abs/2601.10160",
+    "Description": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+    "Metadata": {
+      "score": "53",
+      "author": "anigbrowl",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-05-19T09:30:18.2344569+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48183748"
+    },
+    "Type": 1,
+    "Title": "Agora-1: The Multi-Agent World Model",
+    "Url": "https://odyssey.ml/introducing-agora-1",
+    "Description": "Agora-1: The Multi-Agent World Model",
+    "Metadata": {
+      "score": "107",
+      "author": "olivercameron",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-05-19T09:30:18.2639231+00:00"
   }
 ]
