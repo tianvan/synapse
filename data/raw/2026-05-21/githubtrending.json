@@ -1,0 +1,200 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:colbymchenry/codegraph"
+    },
+    "Type": 0,
+    "Title": "colbymchenry/codegraph",
+    "Url": "https://github.com/colbymchenry/codegraph",
+    "Description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode \u2014 fewer tokens, fewer tool calls, 100% local",
+    "Metadata": {
+      "owner": "colbymchenry",
+      "repo": "codegraph",
+      "language": "TypeScript",
+      "stars": "2,123"
+    },
+    "FetchedAt": "2026-05-21T02:38:12.2184257+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Imbad0202/academic-research-skills"
+    },
+    "Type": 0,
+    "Title": "Imbad0202/academic-research-skills",
+    "Url": "https://github.com/Imbad0202/academic-research-skills",
+    "Description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "Metadata": {
+      "owner": "Imbad0202",
+      "repo": "academic-research-skills",
+      "language": "Python",
+      "stars": "1,667",
+      "topics": "academic-pipeline, academic-writing, ai-research, claude, claude-code, literature-review, peer-review, prompt-engineering"
+    },
+    "FetchedAt": "2026-05-21T02:38:12.4929335+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:tinyhumansai/openhuman"
+    },
+    "Type": 0,
+    "Title": "tinyhumansai/openhuman",
+    "Url": "https://github.com/tinyhumansai/openhuman",
+    "Description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+    "Metadata": {
+      "owner": "tinyhumansai",
+      "repo": "openhuman",
+      "language": "Rust",
+      "stars": "3,394"
+    },
+    "FetchedAt": "2026-05-21T02:38:12.6459133+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:multica-ai/andrej-karpathy-skills"
+    },
+    "Type": 0,
+    "Title": "multica-ai/andrej-karpathy-skills",
+    "Url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "Description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy\u0027s observations on LLM coding pitfalls.",
+    "Metadata": {
+      "owner": "multica-ai",
+      "repo": "andrej-karpathy-skills",
+      "stars": "2,679"
+    },
+    "FetchedAt": "2026-05-21T02:38:12.80181+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/CLI-Anything"
+    },
+    "Type": 0,
+    "Title": "HKUDS/CLI-Anything",
+    "Url": "https://github.com/HKUDS/CLI-Anything",
+    "Description": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "CLI-Anything",
+      "language": "Python",
+      "stars": "890"
+    },
+    "FetchedAt": "2026-05-21T02:38:12.9499354+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:can1357/oh-my-pi"
+    },
+    "Type": 0,
+    "Title": "can1357/oh-my-pi",
+    "Url": "https://github.com/can1357/oh-my-pi",
+    "Description": "\u2325  AI Coding agent for the terminal \u2014 hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "Metadata": {
+      "owner": "can1357",
+      "repo": "oh-my-pi",
+      "language": "TypeScript",
+      "stars": "270",
+      "topics": "ai-agent, ai-coding-agent, anthropic, bun, claude, cli, coding-assistant, llm, mcp, multi-provider, openai, rust, terminal, tui, typescript"
+    },
+    "FetchedAt": "2026-05-21T02:38:13.0921569+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-plugins-official"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-plugins-official",
+    "Url": "https://github.com/anthropics/claude-plugins-official",
+    "Description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-plugins-official",
+      "language": "Python",
+      "stars": "674",
+      "topics": "claude-code, mcp, skills"
+    },
+    "FetchedAt": "2026-05-21T02:38:13.2327693+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:rmyndharis/OpenWA"
+    },
+    "Type": 0,
+    "Title": "rmyndharis/OpenWA",
+    "Url": "https://github.com/rmyndharis/OpenWA",
+    "Description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+    "Metadata": {
+      "owner": "rmyndharis",
+      "repo": "OpenWA",
+      "language": "TypeScript",
+      "stars": "741",
+      "topics": "api, gateway, whatsapp"
+    },
+    "FetchedAt": "2026-05-21T02:38:13.39684+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:truelockmc/streambert"
+    },
+    "Type": 0,
+    "Title": "truelockmc/streambert",
+    "Url": "https://github.com/truelockmc/streambert",
+    "Description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
+    "Metadata": {
+      "owner": "truelockmc",
+      "repo": "streambert",
+      "language": "JavaScript",
+      "stars": "582",
+      "topics": "anime, anime-downloader, anime-scraper, downloader, electron, modern-ui, movies, movies-streaming, piracy, series, streaming, streaming-video, tmdb-api, tv"
+    },
+    "FetchedAt": "2026-05-21T02:38:13.5510672+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:opentoonz/opentoonz"
+    },
+    "Type": 0,
+    "Title": "opentoonz/opentoonz",
+    "Url": "https://github.com/opentoonz/opentoonz",
+    "Description": "OpenToonz - An open-source full-featured 2D animation creation software",
+    "Metadata": {
+      "owner": "opentoonz",
+      "repo": "opentoonz",
+      "language": "C\u002B\u002B",
+      "stars": "236"
+    },
+    "FetchedAt": "2026-05-21T02:38:13.685877+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ggml-org/llama.cpp"
+    },
+    "Type": 0,
+    "Title": "ggml-org/llama.cpp",
+    "Url": "https://github.com/ggml-org/llama.cpp",
+    "Description": "LLM inference in C/C\u002B\u002B",
+    "Metadata": {
+      "owner": "ggml-org",
+      "repo": "llama.cpp",
+      "language": "C\u002B\u002B",
+      "stars": "309",
+      "topics": "ggml"
+    },
+    "FetchedAt": "2026-05-21T02:38:13.8321701+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/ViMax"
+    },
+    "Type": 0,
+    "Title": "HKUDS/ViMax",
+    "Url": "https://github.com/HKUDS/ViMax",
+    "Description": "\u0022ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\u0022",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "ViMax",
+      "language": "Python",
+      "stars": "674",
+      "topics": "agentic-aigc, video-generation"
+    },
+    "FetchedAt": "2026-05-21T02:38:13.9897514+00:00"
+  }
+]
