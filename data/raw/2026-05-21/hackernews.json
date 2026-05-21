@@ -166,21 +166,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48219060"
-    },
-    "Type": 1,
-    "Title": "Vivaldi 8.0",
-    "Url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
-    "Description": "Vivaldi 8.0",
-    "Metadata": {
-      "score": "83",
-      "author": "OuterVale",
-      "commentCount": "33"
-    },
-    "FetchedAt": "2026-05-21T09:00:47.4353837+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48219340"
     },
     "Type": 1,
@@ -466,21 +451,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48220647"
-    },
-    "Type": 1,
-    "Title": "Flipper One \u2013 we need your help",
-    "Url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-    "Description": "Flipper One \u2013 we need your help",
-    "Metadata": {
-      "score": "458",
-      "author": "sandebert",
-      "commentCount": "238"
-    },
-    "FetchedAt": "2026-05-21T14:47:28.8978033+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48222529"
     },
     "Type": 1,
@@ -493,66 +463,6 @@
       "commentCount": "36"
     },
     "FetchedAt": "2026-05-21T14:47:28.9314604+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48220105"
-    },
-    "Type": 1,
-    "Title": "Google officially announces that ads will be included in AI Mode search results",
-    "Url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-    "Description": "Google officially announces that ads will be included in AI Mode search results",
-    "Metadata": {
-      "score": "360",
-      "author": "sofumel",
-      "commentCount": "306"
-    },
-    "FetchedAt": "2026-05-21T14:47:28.9653794+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48220696"
-    },
-    "Type": 1,
-    "Title": "Python 3.15: features that didn\u0027t make the headlines",
-    "Url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
-    "Description": "Python 3.15: features that didn\u0027t make the headlines",
-    "Metadata": {
-      "score": "142",
-      "author": "rbanffy",
-      "commentCount": "67"
-    },
-    "FetchedAt": "2026-05-21T14:47:28.9989452+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48221415"
-    },
-    "Type": 1,
-    "Title": "FatGid: FreeBSD 14.x kernel local privilege escalation",
-    "Url": "https://fatgid.io/",
-    "Description": "FatGid: FreeBSD 14.x kernel local privilege escalation",
-    "Metadata": {
-      "score": "33",
-      "author": "WhyNotHugo",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-05-21T14:47:29.0326768+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48220639"
-    },
-    "Type": 1,
-    "Title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
-    "Url": "https://spectrum.ieee.org/trinity-nuclear-test",
-    "Description": "Lost Images from the 1945 Trinity Nuclear Test Restored",
-    "Metadata": {
-      "score": "87",
-      "author": "pseudolus",
-      "commentCount": "22"
-    },
-    "FetchedAt": "2026-05-21T14:47:29.0659633+00:00"
   },
   {
     "ExternalId": {
@@ -601,21 +511,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48223303"
-    },
-    "Type": 1,
-    "Title": "Michael Keating has died at the age of 79 (1947\u20132026)",
-    "Url": "https://www.bigfinish.com/news/v/michael-keating-1947-2026",
-    "Description": "Michael Keating has died at the age of 79 (1947\u20132026)",
-    "Metadata": {
-      "score": "4",
-      "author": "speckx",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-05-21T14:47:29.2016351+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48221230"
     },
     "Type": 1,
@@ -646,21 +541,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48219918"
-    },
-    "Type": 1,
-    "Title": "Show HN: Rmux \u2013 A programmable terminal multiplexer with a Playwright-style SDK",
-    "Url": "https://github.com/helvesec/rmux",
-    "Description": "Author here. RMUX started from a frustration: I\u0026#x27;ve used tmux for years and got tired of scraping output with grep and sleeps to automate anything. So I rebuilt the multiplexer from scratch in Rust, with a programmable layer on top.\u003Cp\u003ETwo surfaces: a tmux-compatible CLI (~90 commands, your keybindings just work), and a typed async Rust SDK on the same daemon \u2014 stable pane IDs, structured snapshots, locator-style waits. The idea is Playwright-style automation, but for terminals.\u003Cp\u003ENative on L",
-    "Metadata": {
-      "score": "122",
-      "author": "shideneyu",
-      "commentCount": "60"
-    },
-    "FetchedAt": "2026-05-21T14:47:29.3027992+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48207660"
     },
     "Type": 1,
@@ -673,21 +553,6 @@
       "commentCount": "403"
     },
     "FetchedAt": "2026-05-21T14:47:29.3361002+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48222105"
-    },
-    "Type": 1,
-    "Title": "Magic the Gathering format: Fun 40",
-    "Url": "https://fabiensanglard.net/mtg/fun//index.html",
-    "Description": "Magic the Gathering format: Fun 40",
-    "Metadata": {
-      "score": "24",
-      "author": "ibobev",
-      "commentCount": "21"
-    },
-    "FetchedAt": "2026-05-21T14:47:29.3712549+00:00"
   },
   {
     "ExternalId": {
@@ -706,21 +571,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48221915"
-    },
-    "Type": 1,
-    "Title": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
-    "Url": "https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/",
-    "Description": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
-    "Metadata": {
-      "score": "42",
-      "author": "cdrnsf",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-05-21T14:47:29.4387178+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48193487"
     },
     "Type": 1,
@@ -733,21 +583,6 @@
       "commentCount": "0"
     },
     "FetchedAt": "2026-05-21T14:47:29.4733978+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48183097"
-    },
-    "Type": 1,
-    "Title": "What Do G\u00F6del\u0027s Incompleteness Theorems Mean?",
-    "Url": "https://www.quantamagazine.org/what-do-godels-incompleteness-theorems-truly-mean-20260518/",
-    "Description": "What Do G\u00F6del\u0027s Incompleteness Theorems Mean?",
-    "Metadata": {
-      "score": "50",
-      "author": "baruchel",
-      "commentCount": "12"
-    },
-    "FetchedAt": "2026-05-21T14:47:29.5067741+00:00"
   },
   {
     "ExternalId": {
@@ -898,5 +733,455 @@
       "commentCount": "94"
     },
     "FetchedAt": "2026-05-21T14:47:29.8695965+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48226588"
+    },
+    "Type": 1,
+    "Title": "Amazon, Facebook, FBI have access to a private intelligence-sharing network",
+    "Url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
+    "Description": "Amazon, Facebook, FBI have access to a private intelligence-sharing network",
+    "Metadata": {
+      "score": "280",
+      "author": "root-parent",
+      "commentCount": "90"
+    },
+    "FetchedAt": "2026-05-21T19:45:31.556356+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48226944"
+    },
+    "Type": 1,
+    "Title": "BBEdit 16",
+    "Url": "https://www.barebones.com/products/bbedit/bbedit16.html",
+    "Description": "BBEdit 16",
+    "Metadata": {
+      "score": "110",
+      "author": "qaz_plm",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-05-21T19:45:31.5932038+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48225297"
+    },
+    "Type": 1,
+    "Title": "Project Hail Mary \u2013 Stellar Navigation Chart",
+    "Url": "https://valhovey.github.io/gaia-mary/",
+    "Description": "Project Hail Mary \u2013 Stellar Navigation Chart",
+    "Metadata": {
+      "score": "221",
+      "author": "speleo",
+      "commentCount": "66"
+    },
+    "FetchedAt": "2026-05-21T19:45:31.6309514+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48225838"
+    },
+    "Type": 1,
+    "Title": "More than 340 local news outlets are limiting the Internet Archive\u0027s access",
+    "Url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
+    "Description": "More than 340 local news outlets are limiting the Internet Archive\u0027s access",
+    "Metadata": {
+      "score": "104",
+      "author": "jaredwiener",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-05-21T19:45:31.6692376+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48220647"
+    },
+    "Type": 1,
+    "Title": "Flipper One \u2013 we need your help",
+    "Url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+    "Description": "Flipper One \u2013 we need your help",
+    "Metadata": {
+      "score": "872",
+      "author": "sandebert",
+      "commentCount": "377"
+    },
+    "FetchedAt": "2026-05-21T19:45:31.7086018+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48222733"
+    },
+    "Type": 1,
+    "Title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+    "Url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+    "Description": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+    "Metadata": {
+      "score": "190",
+      "author": "asenna",
+      "commentCount": "64"
+    },
+    "FetchedAt": "2026-05-21T19:45:31.7447739+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48226703"
+    },
+    "Type": 1,
+    "Title": "Where are all the UK red telephone kiosks?",
+    "Url": "https://www.thek6project.co.uk/",
+    "Description": "Where are all the UK red telephone kiosks?",
+    "Metadata": {
+      "score": "28",
+      "author": "Kaibeezy",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-05-21T19:45:31.7821653+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48220696"
+    },
+    "Type": 1,
+    "Title": "Python 3.15: features that didn\u0027t make the headlines",
+    "Url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+    "Description": "Python 3.15: features that didn\u0027t make the headlines",
+    "Metadata": {
+      "score": "261",
+      "author": "rbanffy",
+      "commentCount": "123"
+    },
+    "FetchedAt": "2026-05-21T19:45:31.8197179+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48223362"
+    },
+    "Type": 1,
+    "Title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+    "Url": "https://freenet.org/",
+    "Description": "For the past 5 years or so I\u0026#x27;ve been working on a ground-up redesign of Freenet, my peer-to-peer project from the early 2000s (now renamed Hyphanet).\u003Cp\u003EThe new Freenet has been up and running since December along with some early applications like River[1], our decentralized group chat and Delta - a decentralized CMS. Users have already started to build their own apps on Freenet including games, and we have some interesting apps in development like Atlas, a search\u0026#x2F;recommendation engine.",
+    "Metadata": {
+      "score": "18",
+      "author": "sanity",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-21T19:45:31.8583474+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48220639"
+    },
+    "Type": 1,
+    "Title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
+    "Url": "https://spectrum.ieee.org/trinity-nuclear-test",
+    "Description": "Lost Images from the 1945 Trinity Nuclear Test Restored",
+    "Metadata": {
+      "score": "224",
+      "author": "pseudolus",
+      "commentCount": "70"
+    },
+    "FetchedAt": "2026-05-21T19:45:31.8952975+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48225852"
+    },
+    "Type": 1,
+    "Title": "ParadeDB (YC S23) Is Hiring Distributed Systems/Platform Engineers",
+    "Url": "https://news.ycombinator.com/item?id=48225852",
+    "Description": "ParadeDB (YC S23) Is Hiring Distributed Systems/Platform Engineers",
+    "Metadata": {
+      "score": "1",
+      "author": "philippemnoel",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-21T19:45:31.9318151+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48225040"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Runtime (YC P26) \u2013 Sandboxed coding agents for everyone on a team",
+    "Url": "https://www.runtm.com/",
+    "Description": "Hey HN, We\u0026#x27;re Gus and Carlos from Runtime (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;runtm.com\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;runtm.com\u003C/a\u003E). We\u0026#x27;re building infra that lets your whole team (including non-engineers) ship with Claude Code, Codex, and other agents without engineering having to handhold every session.\u003Cp\u003EAfter Mentum (YC S21) was acquired, I personally shipped 4 full-stack products in 3 months using coding agents. When I tried to roll the same workflow out to the rest of the team, it fell apart: Most",
+    "Metadata": {
+      "score": "38",
+      "author": "gustrigos",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-05-21T19:45:31.9687942+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48225596"
+    },
+    "Type": 1,
+    "Title": "Show HN: Agent.email \u2013 sign up via curl, claim with a human OTP",
+    "Url": "https://news.ycombinator.com/item?id=48225596",
+    "Description": "Hi HN! We\u0026#x27;re Haakam, Michael, and Adi from AgentMail- a ycs25 company. We give AI agents their own email inboxes. Recently, we ran an experiment called Agent.Email. It\u0026#x27;s a signup flow designed specifically for AI agents instead of humans.\u003Cp\u003EThe inspiration came from a few comments we received when we did our seed launch a few months back. They all came from the very apt observation that agents not being able to sign up to a product made for agents without human credentials was ironic a",
+    "Metadata": {
+      "score": "20",
+      "author": "adisingh13",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-05-21T19:45:32.0060488+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48191192"
+    },
+    "Type": 1,
+    "Title": "Bournegol???",
+    "Url": "https://oldhome.schmorp.de/marc/bournegol.html",
+    "Description": "Bournegol???",
+    "Metadata": {
+      "score": "18",
+      "author": "greyface-",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-05-21T19:45:32.0437203+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48190373"
+    },
+    "Type": 1,
+    "Title": "Mounting Git commits as folders with NFS",
+    "Url": "https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/",
+    "Description": "Mounting Git commits as folders with NFS",
+    "Metadata": {
+      "score": "66",
+      "author": "pvtmert",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-05-21T19:45:32.0811849+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48220105"
+    },
+    "Type": 1,
+    "Title": "We\u0027re testing new ad formats in Search and expanding our Direct Offers pilot",
+    "Url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+    "Description": "We\u0027re testing new ad formats in Search and expanding our Direct Offers pilot",
+    "Metadata": {
+      "score": "503",
+      "author": "sofumel",
+      "commentCount": "424"
+    },
+    "FetchedAt": "2026-05-21T19:45:32.1176258+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48193089"
+    },
+    "Type": 1,
+    "Title": "When Rails-way does not work anymore?",
+    "Url": "https://paweldabrowski.com/farewell-to-rails-way/when-rails-way-does-not-work",
+    "Description": "When Rails-way does not work anymore?",
+    "Metadata": {
+      "score": "6",
+      "author": "pdabrowski6",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-21T19:45:32.1542431+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48224768"
+    },
+    "Type": 1,
+    "Title": "Museum of Pocket Calculating Devices",
+    "Url": "https://www.calculators.de/",
+    "Description": "Museum of Pocket Calculating Devices",
+    "Metadata": {
+      "score": "39",
+      "author": "ohjeez",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-05-21T19:45:32.1917509+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48199011"
+    },
+    "Type": 1,
+    "Title": "What Is Happening to Publishing?",
+    "Url": "https://resobscura.substack.com/p/what-is-happening-to-publishing",
+    "Description": "What Is Happening to Publishing?",
+    "Metadata": {
+      "score": "50",
+      "author": "benbreen",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-05-21T19:45:32.2282843+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48221896"
+    },
+    "Type": 1,
+    "Title": "Show HN: I Dedicated 4 Years to Mastering Offline Password Cracking",
+    "Url": "https://news.ycombinator.com/item?id=48221896",
+    "Description": "Hi everyone,\u003Cp\u003EI am Bojta Lepenye, and first of all, I want to thank the core developers of Hashcat. In my experience, it is quite literally the most capable tool available for offline password cracking across a wide range of use cases.\u003Cp\u003EI have spent the last 4 years (from age 14 to 18) extensively working with Hashcat and the tools surrounding it, and I have documented what I have learned throughout that time (since January 18, 2022) in my first book. During that period, I also had to continuo",
+    "Metadata": {
+      "score": "175",
+      "author": "bojta-lepenye",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-05-21T19:45:32.2653682+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48221415"
+    },
+    "Type": 1,
+    "Title": "FatGid: FreeBSD 14.x kernel local privilege escalation",
+    "Url": "https://fatgid.io/",
+    "Description": "FatGid: FreeBSD 14.x kernel local privilege escalation",
+    "Metadata": {
+      "score": "74",
+      "author": "WhyNotHugo",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-05-21T19:45:32.3029099+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48226038"
+    },
+    "Type": 1,
+    "Title": "Chewing gum restores dad\u0027s taste and smell years after Covid",
+    "Url": "https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/",
+    "Description": "Chewing gum restores dad\u0027s taste and smell years after Covid",
+    "Metadata": {
+      "score": "73",
+      "author": "speckx",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-05-21T19:45:32.3402729+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48219060"
+    },
+    "Type": 1,
+    "Title": "Vivaldi 8.0",
+    "Url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
+    "Description": "Vivaldi 8.0",
+    "Metadata": {
+      "score": "280",
+      "author": "OuterVale",
+      "commentCount": "209"
+    },
+    "FetchedAt": "2026-05-21T19:45:32.3774291+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48223303"
+    },
+    "Type": 1,
+    "Title": "Michael Keating has died",
+    "Url": "https://www.bigfinish.com/news/v/michael-keating-1947-2026",
+    "Description": "Michael Keating has died",
+    "Metadata": {
+      "score": "76",
+      "author": "speckx",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-05-21T19:45:32.4154502+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48227068"
+    },
+    "Type": 1,
+    "Title": "Serving Netflix Video Traffic at 400Gb/S and Beyond (2022) [pdf]",
+    "Url": "https://nabstreamingsummit.com/wp-content/uploads/2022/05/2022-Streaming-Summit-Netflix.pdf",
+    "Description": "Serving Netflix Video Traffic at 400Gb/S and Beyond (2022) [pdf]",
+    "Metadata": {
+      "score": "16",
+      "author": "tosh",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-05-21T19:45:32.4523396+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48223693"
+    },
+    "Type": 1,
+    "Title": "We Reverse-Engineered Docker Sandbox\u0027s Undocumented MicroVM API",
+    "Url": "https://rivet.dev/blog/2026-02-04-we-reverse-engineered-docker-sandbox-undocumented-microvm-api/",
+    "Description": "We Reverse-Engineered Docker Sandbox\u0027s Undocumented MicroVM API",
+    "Metadata": {
+      "score": "51",
+      "author": "yakkomajuri",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-05-21T19:45:32.4887428+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48222105"
+    },
+    "Type": 1,
+    "Title": "Magic the Gathering format: Fun 40",
+    "Url": "https://fabiensanglard.net/mtg/fun/",
+    "Description": "Magic the Gathering format: Fun 40",
+    "Metadata": {
+      "score": "65",
+      "author": "ibobev",
+      "commentCount": "73"
+    },
+    "FetchedAt": "2026-05-21T19:45:32.5254513+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48183097"
+    },
+    "Type": 1,
+    "Title": "What Do G\u00F6del\u0027s Incompleteness Theorems Mean?",
+    "Url": "https://www.quantamagazine.org/what-do-godels-incompleteness-theorems-truly-mean-20260518/",
+    "Description": "What Do G\u00F6del\u0027s Incompleteness Theorems Mean?",
+    "Metadata": {
+      "score": "116",
+      "author": "baruchel",
+      "commentCount": "51"
+    },
+    "FetchedAt": "2026-05-21T19:45:32.563517+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48219918"
+    },
+    "Type": 1,
+    "Title": "Show HN: Rmux \u2013 A programmable terminal multiplexer with a Playwright-style SDK",
+    "Url": "https://github.com/helvesec/rmux",
+    "Description": "Author here. RMUX started from a frustration: I\u0026#x27;ve used tmux for years and got tired of scraping output with grep and sleeps to automate anything. So I rebuilt the multiplexer from scratch in Rust, with a programmable layer on top.\u003Cp\u003ETwo surfaces: a tmux-compatible CLI (~90 commands, your keybindings just work), and a typed async Rust SDK on the same daemon \u2014 stable pane IDs, structured snapshots, locator-style waits. The idea is Playwright-style automation, but for terminals.\u003Cp\u003ENative on L",
+    "Metadata": {
+      "score": "154",
+      "author": "shideneyu",
+      "commentCount": "73"
+    },
+    "FetchedAt": "2026-05-21T19:45:32.6000345+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48221915"
+    },
+    "Type": 1,
+    "Title": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
+    "Url": "https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/",
+    "Description": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
+    "Metadata": {
+      "score": "194",
+      "author": "cdrnsf",
+      "commentCount": "67"
+    },
+    "FetchedAt": "2026-05-21T19:45:32.6373701+00:00"
   }
 ]
