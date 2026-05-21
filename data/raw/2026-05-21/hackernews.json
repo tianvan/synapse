@@ -166,66 +166,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48212493"
-    },
-    "Type": 1,
-    "Title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-    "Url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;x.com\u0026#x2F;wtgowers\u0026#x2F;status\u0026#x2F;2057175727271800912\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;x.com\u0026#x2F;wtgowers\u0026#x2F;status\u0026#x2F;2057175727271800912\u003C/a\u003E, \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;wtgowers\u0026#x2F;status\u0026#x2F;2057175727271800912\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;wtgowers\u0026#x2F;status\u0026#x2F;2057175727271800912\u003C/a\u003E",
-    "Metadata": {
-      "score": "1123",
-      "author": "tedsanders",
-      "commentCount": "814"
-    },
-    "FetchedAt": "2026-05-21T09:00:47.2062927+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48207660"
-    },
-    "Type": 1,
-    "Title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-    "Url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-    "Description": "Previous thread in sequence:\u003Cp\u003E\u003Ci\u003EGitHub is investigating unauthorized access to their internal repositories\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48201316\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48201316\u003C/a\u003E - May 2026 (321 comments)",
-    "Metadata": {
-      "score": "813",
-      "author": "Timofeibu",
-      "commentCount": "330"
-    },
-    "FetchedAt": "2026-05-21T09:00:47.2634553+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48216983"
-    },
-    "Type": 1,
-    "Title": "Haskell Foundation 2026 Update",
-    "Url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
-    "Description": "Haskell Foundation 2026 Update",
-    "Metadata": {
-      "score": "108",
-      "author": "azhenley",
-      "commentCount": "29"
-    },
-    "FetchedAt": "2026-05-21T09:00:47.3210117+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48215979"
-    },
-    "Type": 1,
-    "Title": "Show HN: I reverse engineered Apple\u0027s video wallpapers",
-    "Url": "https://github.com/kageroumado/phosphene",
-    "Description": "Ever since Apple introduced their video wallpapers I wanted to be able to put custom videos there. I decided to reverse engineer and see what I can do.\u003Cp\u003EI built Phosphene to sell it, but the existing competitors were polished enough that the time it would have taken to catch up wasn\u0026#x27;t going to pay off. So I\u0026#x27;m open-sourcing it.\u003Cp\u003EWallpaperExtensionKit.framework is what powers macOS wallpapers. It controls what\u2019s shows in the Settings app. It took a lot of trial and error to replicate t",
-    "Metadata": {
-      "score": "265",
-      "author": "kageroumado",
-      "commentCount": "53"
-    },
-    "FetchedAt": "2026-05-21T09:00:47.3786801+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48219060"
     },
     "Type": 1,
@@ -238,36 +178,6 @@
       "commentCount": "33"
     },
     "FetchedAt": "2026-05-21T09:00:47.4353837+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48188302"
-    },
-    "Type": 1,
-    "Title": "New features in GCC 16: Improved error messages and SARIF output",
-    "Url": "https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output",
-    "Description": "New features in GCC 16: Improved error messages and SARIF output",
-    "Metadata": {
-      "score": "70",
-      "author": "siteshwar",
-      "commentCount": "10"
-    },
-    "FetchedAt": "2026-05-21T09:00:47.4924384+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48216016"
-    },
-    "Type": 1,
-    "Title": "The Letter S, by Donald Knuth (1980) [pdf]",
-    "Url": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
-    "Description": "The Letter S, by Donald Knuth (1980) [pdf]",
-    "Metadata": {
-      "score": "159",
-      "author": "bambax",
-      "commentCount": "20"
-    },
-    "FetchedAt": "2026-05-21T09:00:47.5501003+00:00"
   },
   {
     "ExternalId": {
@@ -286,51 +196,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48215418"
-    },
-    "Type": 1,
-    "Title": "DOS Zone",
-    "Url": "https://dos.zone/",
-    "Description": "DOS Zone",
-    "Metadata": {
-      "score": "248",
-      "author": "rglover",
-      "commentCount": "48"
-    },
-    "FetchedAt": "2026-05-21T09:00:47.6645465+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48212046"
-    },
-    "Type": 1,
-    "Title": "Flipper One Tech Specs",
-    "Url": "https://docs.flipper.net/one/general/tech-specs",
-    "Description": "Flipper One Tech Specs",
-    "Metadata": {
-      "score": "363",
-      "author": "gregsadetsky",
-      "commentCount": "130"
-    },
-    "FetchedAt": "2026-05-21T09:00:47.7214359+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48214017"
-    },
-    "Type": 1,
-    "Title": "Anthropic is expanding to Colossus2. Will use GB200",
-    "Url": "https://twitter.com/nottombrown/status/2057194829986300375",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;nottombrown\u0026#x2F;status\u0026#x2F;2057194829986300375\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;nottombrown\u0026#x2F;status\u0026#x2F;2057194829986300375\u003C/a\u003E",
-    "Metadata": {
-      "score": "184",
-      "author": "aurareturn",
-      "commentCount": "168"
-    },
-    "FetchedAt": "2026-05-21T09:00:47.7795512+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48183563"
     },
     "Type": 1,
@@ -343,21 +208,6 @@
       "commentCount": "2"
     },
     "FetchedAt": "2026-05-21T09:00:47.8378517+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48174920"
-    },
-    "Type": 1,
-    "Title": "How fast is N tokens per second really?",
-    "Url": "https://mikeveerman.github.io/tokenspeed/",
-    "Description": "How fast is N tokens per second really?",
-    "Metadata": {
-      "score": "405",
-      "author": "hexagr",
-      "commentCount": "78"
-    },
-    "FetchedAt": "2026-05-21T09:00:47.8954635+00:00"
   },
   {
     "ExternalId": {
@@ -388,21 +238,6 @@
       "commentCount": "55"
     },
     "FetchedAt": "2026-05-21T09:00:48.0106341+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48191572"
-    },
-    "Type": 1,
-    "Title": "All the bugs they found",
-    "Url": "https://andreapivetta.com/posts/all-the-bugs-they-found.html",
-    "Description": "All the bugs they found",
-    "Metadata": {
-      "score": "16",
-      "author": "ziggy42",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-05-21T09:00:48.0674116+00:00"
   },
   {
     "ExternalId": {
@@ -613,5 +448,455 @@
       "commentCount": "8"
     },
     "FetchedAt": "2026-05-21T09:00:48.8715029+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48222383"
+    },
+    "Type": 1,
+    "Title": "AI is just unauthorised plagiarism at a bigger scale",
+    "Url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+    "Description": "AI is just unauthorised plagiarism at a bigger scale",
+    "Metadata": {
+      "score": "283",
+      "author": "speckx",
+      "commentCount": "161"
+    },
+    "FetchedAt": "2026-05-21T14:47:28.8640162+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48220647"
+    },
+    "Type": 1,
+    "Title": "Flipper One \u2013 we need your help",
+    "Url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+    "Description": "Flipper One \u2013 we need your help",
+    "Metadata": {
+      "score": "458",
+      "author": "sandebert",
+      "commentCount": "238"
+    },
+    "FetchedAt": "2026-05-21T14:47:28.8978033+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48222529"
+    },
+    "Type": 1,
+    "Title": "Google\u0027s Antigravity Bait and Switch",
+    "Url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+    "Description": "Google\u0027s Antigravity Bait and Switch",
+    "Metadata": {
+      "score": "72",
+      "author": "ssiddharth",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-05-21T14:47:28.9314604+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48220105"
+    },
+    "Type": 1,
+    "Title": "Google officially announces that ads will be included in AI Mode search results",
+    "Url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+    "Description": "Google officially announces that ads will be included in AI Mode search results",
+    "Metadata": {
+      "score": "360",
+      "author": "sofumel",
+      "commentCount": "306"
+    },
+    "FetchedAt": "2026-05-21T14:47:28.9653794+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48220696"
+    },
+    "Type": 1,
+    "Title": "Python 3.15: features that didn\u0027t make the headlines",
+    "Url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+    "Description": "Python 3.15: features that didn\u0027t make the headlines",
+    "Metadata": {
+      "score": "142",
+      "author": "rbanffy",
+      "commentCount": "67"
+    },
+    "FetchedAt": "2026-05-21T14:47:28.9989452+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48221415"
+    },
+    "Type": 1,
+    "Title": "FatGid: FreeBSD 14.x kernel local privilege escalation",
+    "Url": "https://fatgid.io/",
+    "Description": "FatGid: FreeBSD 14.x kernel local privilege escalation",
+    "Metadata": {
+      "score": "33",
+      "author": "WhyNotHugo",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-21T14:47:29.0326768+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48220639"
+    },
+    "Type": 1,
+    "Title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
+    "Url": "https://spectrum.ieee.org/trinity-nuclear-test",
+    "Description": "Lost Images from the 1945 Trinity Nuclear Test Restored",
+    "Metadata": {
+      "score": "87",
+      "author": "pseudolus",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-05-21T14:47:29.0659633+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48222241"
+    },
+    "Type": 1,
+    "Title": "US employers spend more than $1.5B a year to fight labor unions, report finds",
+    "Url": "https://www.theguardian.com/us-news/2026/may/20/how-much-companies-spend-fight-unions",
+    "Description": "US employers spend more than $1.5B a year to fight labor unions, report finds",
+    "Metadata": {
+      "score": "92",
+      "author": "robtherobber",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-05-21T14:47:29.1011236+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48221877"
+    },
+    "Type": 1,
+    "Title": "Who Wins and Who Loses in Prediction Markets? Evidence from Polymarket",
+    "Url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103",
+    "Description": "Who Wins and Who Loses in Prediction Markets? Evidence from Polymarket",
+    "Metadata": {
+      "score": "23",
+      "author": "vcf",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-05-21T14:47:29.1349862+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48212493"
+    },
+    "Type": 1,
+    "Title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "Url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;x.com\u0026#x2F;wtgowers\u0026#x2F;status\u0026#x2F;2057175727271800912\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;x.com\u0026#x2F;wtgowers\u0026#x2F;status\u0026#x2F;2057175727271800912\u003C/a\u003E, \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;wtgowers\u0026#x2F;status\u0026#x2F;2057175727271800912\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;wtgowers\u0026#x2F;status\u0026#x2F;2057175727271800912\u003C/a\u003E",
+    "Metadata": {
+      "score": "1291",
+      "author": "tedsanders",
+      "commentCount": "942"
+    },
+    "FetchedAt": "2026-05-21T14:47:29.1684919+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48223303"
+    },
+    "Type": 1,
+    "Title": "Michael Keating has died at the age of 79 (1947\u20132026)",
+    "Url": "https://www.bigfinish.com/news/v/michael-keating-1947-2026",
+    "Description": "Michael Keating has died at the age of 79 (1947\u20132026)",
+    "Metadata": {
+      "score": "4",
+      "author": "speckx",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-21T14:47:29.2016351+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48221230"
+    },
+    "Type": 1,
+    "Title": "Cekura (YC F24) Is Hiring",
+    "Url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
+    "Description": "Cekura (YC F24) Is Hiring",
+    "Metadata": {
+      "score": "1",
+      "author": "atarus",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-21T14:47:29.2348185+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48222366"
+    },
+    "Type": 1,
+    "Title": "Hating AI Is Good",
+    "Url": "https://www.thehandbasket.co/p/hating-ai-is-good-actually",
+    "Description": "Hating AI Is Good",
+    "Metadata": {
+      "score": "217",
+      "author": "cdrnsf",
+      "commentCount": "222"
+    },
+    "FetchedAt": "2026-05-21T14:47:29.2687736+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48219918"
+    },
+    "Type": 1,
+    "Title": "Show HN: Rmux \u2013 A programmable terminal multiplexer with a Playwright-style SDK",
+    "Url": "https://github.com/helvesec/rmux",
+    "Description": "Author here. RMUX started from a frustration: I\u0026#x27;ve used tmux for years and got tired of scraping output with grep and sleeps to automate anything. So I rebuilt the multiplexer from scratch in Rust, with a programmable layer on top.\u003Cp\u003ETwo surfaces: a tmux-compatible CLI (~90 commands, your keybindings just work), and a typed async Rust SDK on the same daemon \u2014 stable pane IDs, structured snapshots, locator-style waits. The idea is Playwright-style automation, but for terminals.\u003Cp\u003ENative on L",
+    "Metadata": {
+      "score": "122",
+      "author": "shideneyu",
+      "commentCount": "60"
+    },
+    "FetchedAt": "2026-05-21T14:47:29.3027992+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48207660"
+    },
+    "Type": 1,
+    "Title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+    "Url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+    "Description": "Previous thread in sequence:\u003Cp\u003E\u003Ci\u003EGitHub is investigating unauthorized access to their internal repositories\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48201316\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48201316\u003C/a\u003E - May 2026 (321 comments)",
+    "Metadata": {
+      "score": "952",
+      "author": "Timofeibu",
+      "commentCount": "403"
+    },
+    "FetchedAt": "2026-05-21T14:47:29.3361002+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48222105"
+    },
+    "Type": 1,
+    "Title": "Magic the Gathering format: Fun 40",
+    "Url": "https://fabiensanglard.net/mtg/fun//index.html",
+    "Description": "Magic the Gathering format: Fun 40",
+    "Metadata": {
+      "score": "24",
+      "author": "ibobev",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-05-21T14:47:29.3712549+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48220446"
+    },
+    "Type": 1,
+    "Title": "IBM invented semiconductor manufacturing automation",
+    "Url": "https://spectrum.ieee.org/semiconductor-fabrication",
+    "Description": "IBM invented semiconductor manufacturing automation",
+    "Metadata": {
+      "score": "27",
+      "author": "rbanffy",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-21T14:47:29.4044231+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48221915"
+    },
+    "Type": 1,
+    "Title": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
+    "Url": "https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/",
+    "Description": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
+    "Metadata": {
+      "score": "42",
+      "author": "cdrnsf",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-05-21T14:47:29.4387178+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48193487"
+    },
+    "Type": 1,
+    "Title": "The Palomar Lights",
+    "Url": "https://comics.phillyharper.com/",
+    "Description": "The Palomar Lights",
+    "Metadata": {
+      "score": "6",
+      "author": "tardismechanic",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-21T14:47:29.4733978+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48183097"
+    },
+    "Type": 1,
+    "Title": "What Do G\u00F6del\u0027s Incompleteness Theorems Mean?",
+    "Url": "https://www.quantamagazine.org/what-do-godels-incompleteness-theorems-truly-mean-20260518/",
+    "Description": "What Do G\u00F6del\u0027s Incompleteness Theorems Mean?",
+    "Metadata": {
+      "score": "50",
+      "author": "baruchel",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-05-21T14:47:29.5067741+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48219992"
+    },
+    "Type": 1,
+    "Title": "No Slop Grenade",
+    "Url": "https://noslopgrenade.com/",
+    "Description": "No Slop Grenade",
+    "Metadata": {
+      "score": "198",
+      "author": "napolux",
+      "commentCount": "111"
+    },
+    "FetchedAt": "2026-05-21T14:47:29.5666088+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48215979"
+    },
+    "Type": 1,
+    "Title": "Show HN: I reverse engineered Apple\u0027s video wallpapers",
+    "Url": "https://github.com/kageroumado/phosphene",
+    "Description": "Ever since Apple introduced their video wallpapers I wanted to be able to put custom videos there. I decided to reverse engineer and see what I can do.\u003Cp\u003EI built Phosphene to sell it, but the existing competitors were polished enough that the time it would have taken to catch up wasn\u0026#x27;t going to pay off. So I\u0026#x27;m open-sourcing it.\u003Cp\u003EWallpaperExtensionKit.framework is what powers macOS wallpapers. It controls what\u2019s shows in the Settings app. It took a lot of trial and error to replicate t",
+    "Metadata": {
+      "score": "356",
+      "author": "kageroumado",
+      "commentCount": "82"
+    },
+    "FetchedAt": "2026-05-21T14:47:29.5997116+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48212046"
+    },
+    "Type": 1,
+    "Title": "Flipper One Tech Specs",
+    "Url": "https://docs.flipper.net/one/general/tech-specs",
+    "Description": "Flipper One Tech Specs",
+    "Metadata": {
+      "score": "464",
+      "author": "gregsadetsky",
+      "commentCount": "153"
+    },
+    "FetchedAt": "2026-05-21T14:47:29.6327516+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48216983"
+    },
+    "Type": 1,
+    "Title": "Haskell Foundation 2026 Update",
+    "Url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
+    "Description": "Haskell Foundation 2026 Update",
+    "Metadata": {
+      "score": "153",
+      "author": "azhenley",
+      "commentCount": "53"
+    },
+    "FetchedAt": "2026-05-21T14:47:29.6659401+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48216016"
+    },
+    "Type": 1,
+    "Title": "The Letter S, by Donald Knuth (1980) [pdf]",
+    "Url": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
+    "Description": "The Letter S, by Donald Knuth (1980) [pdf]",
+    "Metadata": {
+      "score": "228",
+      "author": "bambax",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-05-21T14:47:29.7002523+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48215418"
+    },
+    "Type": 1,
+    "Title": "DOS Zone",
+    "Url": "https://dos.zone/",
+    "Description": "DOS Zone",
+    "Metadata": {
+      "score": "308",
+      "author": "rglover",
+      "commentCount": "71"
+    },
+    "FetchedAt": "2026-05-21T14:47:29.7343089+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48191572"
+    },
+    "Type": 1,
+    "Title": "All the bugs they found",
+    "Url": "https://andreapivetta.com/posts/all-the-bugs-they-found.html",
+    "Description": "All the bugs they found",
+    "Metadata": {
+      "score": "68",
+      "author": "ziggy42",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-05-21T14:47:29.7684804+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48188302"
+    },
+    "Type": 1,
+    "Title": "New features in GCC 16: Improved error messages and SARIF output",
+    "Url": "https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output",
+    "Description": "New features in GCC 16: Improved error messages and SARIF output",
+    "Metadata": {
+      "score": "114",
+      "author": "siteshwar",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-05-21T14:47:29.8030923+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48214017"
+    },
+    "Type": 1,
+    "Title": "Anthropic is expanding to Colossus2. Will use GB200",
+    "Url": "https://twitter.com/nottombrown/status/2057194829986300375",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;nottombrown\u0026#x2F;status\u0026#x2F;2057194829986300375\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;nottombrown\u0026#x2F;status\u0026#x2F;2057194829986300375\u003C/a\u003E",
+    "Metadata": {
+      "score": "257",
+      "author": "aurareturn",
+      "commentCount": "284"
+    },
+    "FetchedAt": "2026-05-21T14:47:29.8364696+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48174920"
+    },
+    "Type": 1,
+    "Title": "How fast is N tokens per second really?",
+    "Url": "https://mikeveerman.github.io/tokenspeed/",
+    "Description": "How fast is N tokens per second really?",
+    "Metadata": {
+      "score": "461",
+      "author": "hexagr",
+      "commentCount": "94"
+    },
+    "FetchedAt": "2026-05-21T14:47:29.8695965+00:00"
   }
 ]

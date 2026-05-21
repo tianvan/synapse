@@ -1,39 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:colbymchenry/codegraph"
-    },
-    "Type": 0,
-    "Title": "colbymchenry/codegraph",
-    "Url": "https://github.com/colbymchenry/codegraph",
-    "Description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode \u2014 fewer tokens, fewer tool calls, 100% local",
-    "Metadata": {
-      "owner": "colbymchenry",
-      "repo": "codegraph",
-      "language": "TypeScript",
-      "stars": "2,123"
-    },
-    "FetchedAt": "2026-05-21T09:00:44.6055788+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:Imbad0202/academic-research-skills"
-    },
-    "Type": 0,
-    "Title": "Imbad0202/academic-research-skills",
-    "Url": "https://github.com/Imbad0202/academic-research-skills",
-    "Description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "Metadata": {
-      "owner": "Imbad0202",
-      "repo": "academic-research-skills",
-      "language": "Python",
-      "stars": "1,667",
-      "topics": "academic-pipeline, academic-writing, ai-research, claude, claude-code, literature-review, peer-review, prompt-engineering"
-    },
-    "FetchedAt": "2026-05-21T09:00:44.8334277+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:tinyhumansai/openhuman"
     },
     "Type": 0,
@@ -47,105 +14,6 @@
       "stars": "3,394"
     },
     "FetchedAt": "2026-05-21T09:00:45.0104976+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:multica-ai/andrej-karpathy-skills"
-    },
-    "Type": 0,
-    "Title": "multica-ai/andrej-karpathy-skills",
-    "Url": "https://github.com/multica-ai/andrej-karpathy-skills",
-    "Description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy\u0027s observations on LLM coding pitfalls.",
-    "Metadata": {
-      "owner": "multica-ai",
-      "repo": "andrej-karpathy-skills",
-      "stars": "2,679"
-    },
-    "FetchedAt": "2026-05-21T09:00:45.2143578+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:HKUDS/CLI-Anything"
-    },
-    "Type": 0,
-    "Title": "HKUDS/CLI-Anything",
-    "Url": "https://github.com/HKUDS/CLI-Anything",
-    "Description": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/",
-    "Metadata": {
-      "owner": "HKUDS",
-      "repo": "CLI-Anything",
-      "language": "Python",
-      "stars": "890"
-    },
-    "FetchedAt": "2026-05-21T09:00:45.4151648+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:can1357/oh-my-pi"
-    },
-    "Type": 0,
-    "Title": "can1357/oh-my-pi",
-    "Url": "https://github.com/can1357/oh-my-pi",
-    "Description": "\u2325  AI Coding agent for the terminal \u2014 hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-    "Metadata": {
-      "owner": "can1357",
-      "repo": "oh-my-pi",
-      "language": "TypeScript",
-      "stars": "270",
-      "topics": "ai-agent, ai-coding-agent, anthropic, bun, claude, cli, coding-assistant, llm, mcp, multi-provider, openai, rust, terminal, tui, typescript"
-    },
-    "FetchedAt": "2026-05-21T09:00:45.6045083+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:anthropics/claude-plugins-official"
-    },
-    "Type": 0,
-    "Title": "anthropics/claude-plugins-official",
-    "Url": "https://github.com/anthropics/claude-plugins-official",
-    "Description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "Metadata": {
-      "owner": "anthropics",
-      "repo": "claude-plugins-official",
-      "language": "Python",
-      "stars": "674",
-      "topics": "claude-code, mcp, skills"
-    },
-    "FetchedAt": "2026-05-21T09:00:45.7677658+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:rmyndharis/OpenWA"
-    },
-    "Type": 0,
-    "Title": "rmyndharis/OpenWA",
-    "Url": "https://github.com/rmyndharis/OpenWA",
-    "Description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
-    "Metadata": {
-      "owner": "rmyndharis",
-      "repo": "OpenWA",
-      "language": "TypeScript",
-      "stars": "741",
-      "topics": "api, gateway, whatsapp"
-    },
-    "FetchedAt": "2026-05-21T09:00:45.9765398+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:truelockmc/streambert"
-    },
-    "Type": 0,
-    "Title": "truelockmc/streambert",
-    "Url": "https://github.com/truelockmc/streambert",
-    "Description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
-    "Metadata": {
-      "owner": "truelockmc",
-      "repo": "streambert",
-      "language": "JavaScript",
-      "stars": "582",
-      "topics": "anime, anime-downloader, anime-scraper, downloader, electron, modern-ui, movies, movies-streaming, piracy, series, streaming, streaming-video, tmdb-api, tv"
-    },
-    "FetchedAt": "2026-05-21T09:00:46.1374397+00:00"
   },
   {
     "ExternalId": {
@@ -196,5 +64,254 @@
       "topics": "agentic-aigc, video-generation"
     },
     "FetchedAt": "2026-05-21T09:00:46.7210028+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-plugins-official"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-plugins-official",
+    "Url": "https://github.com/anthropics/claude-plugins-official",
+    "Description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-plugins-official",
+      "language": "Python",
+      "stars": "891",
+      "topics": "claude-code, mcp, skills"
+    },
+    "FetchedAt": "2026-05-21T14:47:26.6184666+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:colbymchenry/codegraph"
+    },
+    "Type": 0,
+    "Title": "colbymchenry/codegraph",
+    "Url": "https://github.com/colbymchenry/codegraph",
+    "Description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode \u2014 fewer tokens, fewer tool calls, 100% local",
+    "Metadata": {
+      "owner": "colbymchenry",
+      "repo": "codegraph",
+      "language": "TypeScript",
+      "stars": "4,222"
+    },
+    "FetchedAt": "2026-05-21T14:47:26.8620084+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:multica-ai/andrej-karpathy-skills"
+    },
+    "Type": 0,
+    "Title": "multica-ai/andrej-karpathy-skills",
+    "Url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "Description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy\u0027s observations on LLM coding pitfalls.",
+    "Metadata": {
+      "owner": "multica-ai",
+      "repo": "andrej-karpathy-skills",
+      "stars": "2,590"
+    },
+    "FetchedAt": "2026-05-21T14:47:26.9693978+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:dotnet/skills"
+    },
+    "Type": 0,
+    "Title": "dotnet/skills",
+    "Url": "https://github.com/dotnet/skills",
+    "Description": "Repository for skills to assist AI coding agents with .NET and C#",
+    "Metadata": {
+      "owner": "dotnet",
+      "repo": "skills",
+      "language": "C#",
+      "stars": "96",
+      "topics": "agent-skills"
+    },
+    "FetchedAt": "2026-05-21T14:47:27.0897243+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/CLI-Anything"
+    },
+    "Type": 0,
+    "Title": "HKUDS/CLI-Anything",
+    "Url": "https://github.com/HKUDS/CLI-Anything",
+    "Description": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "CLI-Anything",
+      "language": "Python",
+      "stars": "644"
+    },
+    "FetchedAt": "2026-05-21T14:47:27.2762287+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:rmyndharis/OpenWA"
+    },
+    "Type": 0,
+    "Title": "rmyndharis/OpenWA",
+    "Url": "https://github.com/rmyndharis/OpenWA",
+    "Description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+    "Metadata": {
+      "owner": "rmyndharis",
+      "repo": "OpenWA",
+      "language": "TypeScript",
+      "stars": "704",
+      "topics": "api, gateway, whatsapp"
+    },
+    "FetchedAt": "2026-05-21T14:47:27.3906249+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ChromeDevTools/chrome-devtools-mcp"
+    },
+    "Type": 0,
+    "Title": "ChromeDevTools/chrome-devtools-mcp",
+    "Url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "Description": "Chrome DevTools for coding agents",
+    "Metadata": {
+      "owner": "ChromeDevTools",
+      "repo": "chrome-devtools-mcp",
+      "language": "TypeScript",
+      "stars": "132",
+      "topics": "browser, chrome, chrome-devtools, debugging, devtools, mcp, mcp-server, puppeteer"
+    },
+    "FetchedAt": "2026-05-21T14:47:27.550898+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:teng-lin/notebooklm-py"
+    },
+    "Type": 0,
+    "Title": "teng-lin/notebooklm-py",
+    "Url": "https://github.com/teng-lin/notebooklm-py",
+    "Description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM\u0027s features\u2014including capabilities the web UI doesn\u0027t expose\u2014via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+    "Metadata": {
+      "owner": "teng-lin",
+      "repo": "notebooklm-py",
+      "language": "Python",
+      "stars": "182",
+      "topics": "agentic-skill, api, claude, claude-skills, google-notebooklm, notebooklm, notebooklm-api, notebooklm-skill, openclaw-skills, podcast-generator, python, python-api, sdk, skills"
+    },
+    "FetchedAt": "2026-05-21T14:47:27.6957228+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:can1357/oh-my-pi"
+    },
+    "Type": 0,
+    "Title": "can1357/oh-my-pi",
+    "Url": "https://github.com/can1357/oh-my-pi",
+    "Description": "\u2325  AI Coding agent for the terminal \u2014 hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "Metadata": {
+      "owner": "can1357",
+      "repo": "oh-my-pi",
+      "language": "TypeScript",
+      "stars": "483",
+      "topics": "ai-agent, ai-coding-agent, anthropic, bun, claude, cli, coding-assistant, llm, mcp, multi-provider, openai, rust, terminal, tui, typescript"
+    },
+    "FetchedAt": "2026-05-21T14:47:27.808581+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:antoinezambelli/forge"
+    },
+    "Type": 0,
+    "Title": "antoinezambelli/forge",
+    "Url": "https://github.com/antoinezambelli/forge",
+    "Description": "A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows",
+    "Metadata": {
+      "owner": "antoinezambelli",
+      "repo": "forge",
+      "language": "Python",
+      "stars": "449",
+      "topics": "agentic-ai, agentic-workflow, agents, function-calling, llama-cpp, llamafile, llm, ollama, python, self-hosted, tool-calling"
+    },
+    "FetchedAt": "2026-05-21T14:47:27.9501141+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:multica-ai/multica"
+    },
+    "Type": 0,
+    "Title": "multica-ai/multica",
+    "Url": "https://github.com/multica-ai/multica",
+    "Description": "The open-source managed agents platform. Turn coding agents into real teammates \u2014 assign tasks, track progress, compound skills.",
+    "Metadata": {
+      "owner": "multica-ai",
+      "repo": "multica",
+      "language": "Go",
+      "stars": "511"
+    },
+    "FetchedAt": "2026-05-21T14:47:28.0677487+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Imbad0202/academic-research-skills"
+    },
+    "Type": 0,
+    "Title": "Imbad0202/academic-research-skills",
+    "Url": "https://github.com/Imbad0202/academic-research-skills",
+    "Description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "Metadata": {
+      "owner": "Imbad0202",
+      "repo": "academic-research-skills",
+      "language": "Python",
+      "stars": "2,502",
+      "topics": "academic-pipeline, academic-writing, ai-research, claude, claude-code, literature-review, peer-review, prompt-engineering"
+    },
+    "FetchedAt": "2026-05-21T14:47:28.1856058+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:trimstray/the-book-of-secret-knowledge"
+    },
+    "Type": 0,
+    "Title": "trimstray/the-book-of-secret-knowledge",
+    "Url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "Description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "Metadata": {
+      "owner": "trimstray",
+      "repo": "the-book-of-secret-knowledge",
+      "stars": "429",
+      "topics": "awesome, awesome-list, bsd, cheatsheets, devops, guidelines, hacking, hacks, howtos, linux, lists, manuals, one-liners, pentesters, resources, search-engines, security, security-researchers, sysops"
+    },
+    "FetchedAt": "2026-05-21T14:47:28.2940549+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:truelockmc/streambert"
+    },
+    "Type": 0,
+    "Title": "truelockmc/streambert",
+    "Url": "https://github.com/truelockmc/streambert",
+    "Description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
+    "Metadata": {
+      "owner": "truelockmc",
+      "repo": "streambert",
+      "language": "JavaScript",
+      "stars": "1,057",
+      "topics": "anime, anime-downloader, anime-scraper, downloader, electron, modern-ui, movies, movies-streaming, piracy, series, streaming, streaming-video, tmdb-api, tv"
+    },
+    "FetchedAt": "2026-05-21T14:47:28.4446783+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Lum1104/Understand-Anything"
+    },
+    "Type": 0,
+    "Title": "Lum1104/Understand-Anything",
+    "Url": "https://github.com/Lum1104/Understand-Anything",
+    "Description": "Graphs that teach \u003E graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+    "Metadata": {
+      "owner": "Lum1104",
+      "repo": "Understand-Anything",
+      "language": "TypeScript",
+      "stars": "188",
+      "topics": "antigravity-skills, business-knowledge, claude-code, claude-skills, codebase-analysis, codex, codex-skills, developer-tools-ai-agent, gemini-cli-skills, karpathy-llm-wiki, knowledge-base, knowledge-graph, memory, opencode-skills, pi-agent, understandcode, vibe-coding"
+    },
+    "FetchedAt": "2026-05-21T14:47:28.5706212+00:00"
   }
 ]
