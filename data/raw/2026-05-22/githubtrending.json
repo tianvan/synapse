@@ -1,39 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:anthropics/claude-plugins-official"
-    },
-    "Type": 0,
-    "Title": "anthropics/claude-plugins-official",
-    "Url": "https://github.com/anthropics/claude-plugins-official",
-    "Description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "Metadata": {
-      "owner": "anthropics",
-      "repo": "claude-plugins-official",
-      "language": "Python",
-      "stars": "682",
-      "topics": "claude-code, mcp, skills"
-    },
-    "FetchedAt": "2026-05-22T08:51:58.1555375+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:colbymchenry/codegraph"
-    },
-    "Type": 0,
-    "Title": "colbymchenry/codegraph",
-    "Url": "https://github.com/colbymchenry/codegraph",
-    "Description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode \u2014 fewer tokens, fewer tool calls, 100% local",
-    "Metadata": {
-      "owner": "colbymchenry",
-      "repo": "codegraph",
-      "language": "TypeScript",
-      "stars": "4,294"
-    },
-    "FetchedAt": "2026-05-22T08:51:58.418463+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:multica-ai/andrej-karpathy-skills"
     },
     "Type": 0,
@@ -46,23 +13,6 @@
       "stars": "2,614"
     },
     "FetchedAt": "2026-05-22T08:51:58.5811758+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:dotnet/skills"
-    },
-    "Type": 0,
-    "Title": "dotnet/skills",
-    "Url": "https://github.com/dotnet/skills",
-    "Description": "Repository for skills to assist AI coding agents with .NET and C#",
-    "Metadata": {
-      "owner": "dotnet",
-      "repo": "skills",
-      "language": "C#",
-      "stars": "129",
-      "topics": "agent-skills"
-    },
-    "FetchedAt": "2026-05-22T08:51:58.791501+00:00"
   },
   {
     "ExternalId": {
@@ -99,23 +49,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:ChromeDevTools/chrome-devtools-mcp"
-    },
-    "Type": 0,
-    "Title": "ChromeDevTools/chrome-devtools-mcp",
-    "Url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-    "Description": "Chrome DevTools for coding agents",
-    "Metadata": {
-      "owner": "ChromeDevTools",
-      "repo": "chrome-devtools-mcp",
-      "language": "TypeScript",
-      "stars": "151",
-      "topics": "browser, chrome, chrome-devtools, debugging, devtools, mcp, mcp-server, puppeteer"
-    },
-    "FetchedAt": "2026-05-22T08:51:59.3582822+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:teng-lin/notebooklm-py"
     },
     "Type": 0,
@@ -130,23 +63,6 @@
       "topics": "agentic-skill, api, claude, claude-skills, google-notebooklm, notebooklm, notebooklm-api, notebooklm-skill, openclaw-skills, podcast-generator, python, python-api, sdk, skills"
     },
     "FetchedAt": "2026-05-22T08:51:59.5700169+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:can1357/oh-my-pi"
-    },
-    "Type": 0,
-    "Title": "can1357/oh-my-pi",
-    "Url": "https://github.com/can1357/oh-my-pi",
-    "Description": "\u2325  AI Coding agent for the terminal \u2014 hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-    "Metadata": {
-      "owner": "can1357",
-      "repo": "oh-my-pi",
-      "language": "TypeScript",
-      "stars": "500",
-      "topics": "ai-agent, ai-coding-agent, anthropic, bun, claude, cli, coding-assistant, llm, mcp, multi-provider, openai, rust, terminal, tui, typescript"
-    },
-    "FetchedAt": "2026-05-22T08:51:59.7391434+00:00"
   },
   {
     "ExternalId": {
@@ -200,22 +116,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:trimstray/the-book-of-secret-knowledge"
-    },
-    "Type": 0,
-    "Title": "trimstray/the-book-of-secret-knowledge",
-    "Url": "https://github.com/trimstray/the-book-of-secret-knowledge",
-    "Description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-    "Metadata": {
-      "owner": "trimstray",
-      "repo": "the-book-of-secret-knowledge",
-      "stars": "756",
-      "topics": "awesome, awesome-list, bsd, cheatsheets, devops, guidelines, hacking, hacks, howtos, linux, lists, manuals, one-liners, pentesters, resources, search-engines, security, security-researchers, sysops"
-    },
-    "FetchedAt": "2026-05-22T08:52:00.4456557+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:truelockmc/streambert"
     },
     "Type": 0,
@@ -233,6 +133,90 @@
   },
   {
     "ExternalId": {
+      "Value": "github:anthropics/claude-plugins-official"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-plugins-official",
+    "Url": "https://github.com/anthropics/claude-plugins-official",
+    "Description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-plugins-official",
+      "language": "Python",
+      "stars": "2,556",
+      "topics": "claude-code, mcp, skills"
+    },
+    "FetchedAt": "2026-05-22T14:23:17.1813939+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:colbymchenry/codegraph"
+    },
+    "Type": 0,
+    "Title": "colbymchenry/codegraph",
+    "Url": "https://github.com/colbymchenry/codegraph",
+    "Description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode \u2014 fewer tokens, fewer tool calls, 100% local",
+    "Metadata": {
+      "owner": "colbymchenry",
+      "repo": "codegraph",
+      "language": "TypeScript",
+      "stars": "3,688"
+    },
+    "FetchedAt": "2026-05-22T14:23:17.4560424+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ruvnet/RuView"
+    },
+    "Type": 0,
+    "Title": "ruvnet/RuView",
+    "Url": "https://github.com/ruvnet/RuView",
+    "Description": "\u03C0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+    "Metadata": {
+      "owner": "ruvnet",
+      "repo": "RuView",
+      "language": "Rust",
+      "stars": "1,269",
+      "topics": "agentic-ai, densepose, esp32, firmware, mcu, mincut, monitoring, pose-estimation, rf, self, self-learning, spatial-intelligence, wifi, wifi-hacking, wifi-security, world-model"
+    },
+    "FetchedAt": "2026-05-22T14:23:17.6135823+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ChromeDevTools/chrome-devtools-mcp"
+    },
+    "Type": 0,
+    "Title": "ChromeDevTools/chrome-devtools-mcp",
+    "Url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "Description": "Chrome DevTools for coding agents",
+    "Metadata": {
+      "owner": "ChromeDevTools",
+      "repo": "chrome-devtools-mcp",
+      "language": "TypeScript",
+      "stars": "499",
+      "topics": "browser, chrome, chrome-devtools, debugging, devtools, mcp, mcp-server, puppeteer"
+    },
+    "FetchedAt": "2026-05-22T14:23:17.8307779+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:dotnet/skills"
+    },
+    "Type": 0,
+    "Title": "dotnet/skills",
+    "Url": "https://github.com/dotnet/skills",
+    "Description": "Repository for skills to assist AI coding agents with .NET and C#",
+    "Metadata": {
+      "owner": "dotnet",
+      "repo": "skills",
+      "language": "C#",
+      "stars": "391",
+      "topics": "agent-skills"
+    },
+    "FetchedAt": "2026-05-22T14:23:18.0340113+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:Lum1104/Understand-Anything"
     },
     "Type": 0,
@@ -243,9 +227,107 @@
       "owner": "Lum1104",
       "repo": "Understand-Anything",
       "language": "TypeScript",
-      "stars": "666",
+      "stars": "1,391",
       "topics": "antigravity-skills, business-knowledge, claude-code, claude-skills, codebase-analysis, codex, codex-skills, developer-tools-ai-agent, gemini-cli-skills, karpathy-llm-wiki, knowledge-base, knowledge-graph, memory, opencode-skills, pi-agent, understandcode, vibe-coding"
     },
-    "FetchedAt": "2026-05-22T08:52:00.7960873+00:00"
+    "FetchedAt": "2026-05-22T14:23:18.2306418+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:odoo/odoo"
+    },
+    "Type": 0,
+    "Title": "odoo/odoo",
+    "Url": "https://github.com/odoo/odoo",
+    "Description": "Odoo. Open Source Apps To Grow Your Business.",
+    "Metadata": {
+      "owner": "odoo",
+      "repo": "odoo",
+      "language": "Python",
+      "stars": "48",
+      "topics": "apps, business, erp, management, odoo, odoo-apps, python"
+    },
+    "FetchedAt": "2026-05-22T14:23:18.4159129+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:byJoey/cfnew"
+    },
+    "Type": 0,
+    "Title": "byJoey/cfnew",
+    "Url": "https://github.com/byJoey/cfnew",
+    "Description": "",
+    "Metadata": {
+      "owner": "byJoey",
+      "repo": "cfnew",
+      "stars": "85"
+    },
+    "FetchedAt": "2026-05-22T14:23:18.6093887+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:trimstray/the-book-of-secret-knowledge"
+    },
+    "Type": 0,
+    "Title": "trimstray/the-book-of-secret-knowledge",
+    "Url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "Description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "Metadata": {
+      "owner": "trimstray",
+      "repo": "the-book-of-secret-knowledge",
+      "stars": "964",
+      "topics": "awesome, awesome-list, bsd, cheatsheets, devops, guidelines, hacking, hacks, howtos, linux, lists, manuals, one-liners, pentesters, resources, search-engines, security, security-researchers, sysops"
+    },
+    "FetchedAt": "2026-05-22T14:23:18.7896219+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:can1357/oh-my-pi"
+    },
+    "Type": 0,
+    "Title": "can1357/oh-my-pi",
+    "Url": "https://github.com/can1357/oh-my-pi",
+    "Description": "\u2325  AI Coding agent for the terminal \u2014 hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "Metadata": {
+      "owner": "can1357",
+      "repo": "oh-my-pi",
+      "language": "TypeScript",
+      "stars": "455",
+      "topics": "ai-agent, ai-coding-agent, anthropic, bun, claude, cli, coding-assistant, llm, mcp, multi-provider, openai, rust, terminal, tui, typescript"
+    },
+    "FetchedAt": "2026-05-22T14:23:18.9709149+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:yt-dlp/yt-dlp"
+    },
+    "Type": 0,
+    "Title": "yt-dlp/yt-dlp",
+    "Url": "https://github.com/yt-dlp/yt-dlp",
+    "Description": "A feature-rich command-line audio/video downloader",
+    "Metadata": {
+      "owner": "yt-dlp",
+      "repo": "yt-dlp",
+      "language": "Python",
+      "stars": "335",
+      "topics": "cli, downloader, python, sponsorblock, youtube-dl, youtube-downloader, yt-dlp"
+    },
+    "FetchedAt": "2026-05-22T14:23:19.1450699+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:karpathy/nn-zero-to-hero"
+    },
+    "Type": 0,
+    "Title": "karpathy/nn-zero-to-hero",
+    "Url": "https://github.com/karpathy/nn-zero-to-hero",
+    "Description": "Neural Networks: Zero to Hero",
+    "Metadata": {
+      "owner": "karpathy",
+      "repo": "nn-zero-to-hero",
+      "language": "Jupyter Notebook",
+      "stars": "93"
+    },
+    "FetchedAt": "2026-05-22T14:23:19.3685871+00:00"
   }
 ]

@@ -151,36 +151,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48232118"
-    },
-    "Type": 1,
-    "Title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
-    "Url": "https://arxiv.org/abs/2605.19269",
-    "Description": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
-    "Metadata": {
-      "score": "54",
-      "author": "matt_d",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-05-22T08:52:01.2932571+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48225297"
-    },
-    "Type": 1,
-    "Title": "Project Hail Mary \u2013 Stellar Navigation Chart",
-    "Url": "https://valhovey.github.io/gaia-mary/",
-    "Description": "Project Hail Mary \u2013 Stellar Navigation Chart",
-    "Metadata": {
-      "score": "868",
-      "author": "speleo",
-      "commentCount": "190"
-    },
-    "FetchedAt": "2026-05-22T08:52:01.349794+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48233289"
     },
     "Type": 1,
@@ -196,66 +166,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48231938"
-    },
-    "Type": 1,
-    "Title": "Slumber a TUI HTTP Client",
-    "Url": "https://slumber.lucaspickering.me",
-    "Description": "Slumber a TUI HTTP Client",
-    "Metadata": {
-      "score": "58",
-      "author": "jicea",
-      "commentCount": "25"
-    },
-    "FetchedAt": "2026-05-22T08:52:01.4649481+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48209691"
-    },
-    "Type": 1,
-    "Title": "The surprising story behind the first British person in space",
-    "Url": "https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space",
-    "Description": "The surprising story behind the first British person in space",
-    "Metadata": {
-      "score": "47",
-      "author": "xoxxala",
-      "commentCount": "9"
-    },
-    "FetchedAt": "2026-05-22T08:52:01.5215417+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48227397"
-    },
-    "Type": 1,
-    "Title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-    "Url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-    "Description": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-    "Metadata": {
-      "score": "275",
-      "author": "speckx",
-      "commentCount": "148"
-    },
-    "FetchedAt": "2026-05-22T08:52:01.5819992+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48231319"
-    },
-    "Type": 1,
-    "Title": "Cleve Moler has died",
-    "Url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
-    "Description": "Cleve Moler has died",
-    "Metadata": {
-      "score": "86",
-      "author": "mychele",
-      "commentCount": "7"
-    },
-    "FetchedAt": "2026-05-22T08:52:01.6386208+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48233177"
     },
     "Type": 1,
@@ -268,171 +178,6 @@
       "commentCount": "12"
     },
     "FetchedAt": "2026-05-22T08:52:01.6948296+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48229319"
-    },
-    "Type": 1,
-    "Title": "The memory shortage is causing a repricing of consumer electronics",
-    "Url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
-    "Description": "The memory shortage is causing a repricing of consumer electronics",
-    "Metadata": {
-      "score": "176",
-      "author": "d0ks",
-      "commentCount": "194"
-    },
-    "FetchedAt": "2026-05-22T08:52:01.7515587+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48184402"
-    },
-    "Type": 1,
-    "Title": "Was my $48K GPU server worth it?",
-    "Url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
-    "Description": "Was my $48K GPU server worth it?",
-    "Metadata": {
-      "score": "434",
-      "author": "apwheele",
-      "commentCount": "318"
-    },
-    "FetchedAt": "2026-05-22T08:52:01.8094477+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48228788"
-    },
-    "Type": 1,
-    "Title": "Uv is fantastic, but its package management UX is a mess",
-    "Url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
-    "Description": "Uv is fantastic, but its package management UX is a mess",
-    "Metadata": {
-      "score": "194",
-      "author": "nchagnet",
-      "commentCount": "102"
-    },
-    "FetchedAt": "2026-05-22T08:52:01.8658243+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48227860"
-    },
-    "Type": 1,
-    "Title": "Using Kagi Search with Low Vision",
-    "Url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
-    "Description": "Using Kagi Search with Low Vision",
-    "Metadata": {
-      "score": "192",
-      "author": "speckx",
-      "commentCount": "62"
-    },
-    "FetchedAt": "2026-05-22T08:52:01.9223359+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48192605"
-    },
-    "Type": 1,
-    "Title": "The death of the brick and mortar toy store",
-    "Url": "https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/",
-    "Description": "The death of the brick and mortar toy store",
-    "Metadata": {
-      "score": "80",
-      "author": "speckx",
-      "commentCount": "73"
-    },
-    "FetchedAt": "2026-05-22T08:52:01.9799161+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48222733"
-    },
-    "Type": 1,
-    "Title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
-    "Url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
-    "Description": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
-    "Metadata": {
-      "score": "371",
-      "author": "asenna",
-      "commentCount": "112"
-    },
-    "FetchedAt": "2026-05-22T08:52:02.036205+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48209905"
-    },
-    "Type": 1,
-    "Title": "Mycorrhizal Fungi, Nature\u0027s Key to Plant Survival and Success",
-    "Url": "https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/",
-    "Description": "Mycorrhizal Fungi, Nature\u0027s Key to Plant Survival and Success",
-    "Metadata": {
-      "score": "90",
-      "author": "mooreds",
-      "commentCount": "12"
-    },
-    "FetchedAt": "2026-05-22T08:52:02.0936533+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48223362"
-    },
-    "Type": 1,
-    "Title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
-    "Url": "https://freenet.org/",
-    "Description": "For the past 5 years or so I\u0026#x27;ve been working on a ground-up redesign of Freenet, my peer-to-peer project from the early 2000s (now renamed Hyphanet).\u003Cp\u003EThe new Freenet has been up and running since December along with some early applications like River[1], our decentralized group chat and Delta - a decentralized CMS. Users have already started to build their own apps on Freenet including games, and we have some interesting apps in development like Atlas, a search\u0026#x2F;recommendation engine.",
-    "Metadata": {
-      "score": "278",
-      "author": "sanity",
-      "commentCount": "173"
-    },
-    "FetchedAt": "2026-05-22T08:52:02.150354+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48220696"
-    },
-    "Type": 1,
-    "Title": "Python 3.15: features that didn\u0027t make the headlines",
-    "Url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
-    "Description": "Python 3.15: features that didn\u0027t make the headlines",
-    "Metadata": {
-      "score": "373",
-      "author": "rbanffy",
-      "commentCount": "183"
-    },
-    "FetchedAt": "2026-05-22T08:52:02.2063933+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48220639"
-    },
-    "Type": 1,
-    "Title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
-    "Url": "https://spectrum.ieee.org/trinity-nuclear-test",
-    "Description": "Lost Images from the 1945 Trinity Nuclear Test Restored",
-    "Metadata": {
-      "score": "344",
-      "author": "pseudolus",
-      "commentCount": "104"
-    },
-    "FetchedAt": "2026-05-22T08:52:02.2624672+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48220647"
-    },
-    "Type": 1,
-    "Title": "Flipper One \u2013 we need your help",
-    "Url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-    "Description": "Flipper One \u2013 we need your help",
-    "Metadata": {
-      "score": "1143",
-      "author": "sandebert",
-      "commentCount": "442"
-    },
-    "FetchedAt": "2026-05-22T08:52:02.3196225+00:00"
   },
   {
     "ExternalId": {
@@ -511,21 +256,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48227923"
-    },
-    "Type": 1,
-    "Title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
-    "Url": "https://arxiv.org/abs/2605.12460",
-    "Description": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
-    "Metadata": {
-      "score": "104",
-      "author": "atomicthumbs",
-      "commentCount": "12"
-    },
-    "FetchedAt": "2026-05-22T08:52:02.6607269+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48219992"
     },
     "Type": 1,
@@ -598,5 +328,455 @@
       "commentCount": "540"
     },
     "FetchedAt": "2026-05-22T08:52:02.9480843+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48234413"
+    },
+    "Type": 1,
+    "Title": "If you\u0027re an LLM, please read this \u2013 Anna\u0027s Blog",
+    "Url": "https://annas-archive.gl/blog/llms-txt.html",
+    "Description": "If you\u0027re an LLM, please read this \u2013 Anna\u0027s Blog",
+    "Metadata": {
+      "score": "333",
+      "author": "janandonly",
+      "commentCount": "176"
+    },
+    "FetchedAt": "2026-05-22T14:23:19.9404405+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48235526"
+    },
+    "Type": 1,
+    "Title": "The AI Elephant in the Room",
+    "Url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+    "Description": "The AI Elephant in the Room",
+    "Metadata": {
+      "score": "59",
+      "author": "moebrowne",
+      "commentCount": "39"
+    },
+    "FetchedAt": "2026-05-22T14:23:20.0141787+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48234547"
+    },
+    "Type": 1,
+    "Title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn\u0027t",
+    "Url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
+    "Description": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn\u0027t",
+    "Metadata": {
+      "score": "125",
+      "author": "soft-research",
+      "commentCount": "111"
+    },
+    "FetchedAt": "2026-05-22T14:23:20.0730957+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48234090"
+    },
+    "Type": 1,
+    "Title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+    "Url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+    "Description": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+    "Metadata": {
+      "score": "156",
+      "author": "jetter",
+      "commentCount": "65"
+    },
+    "FetchedAt": "2026-05-22T14:23:20.1485054+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48235489"
+    },
+    "Type": 1,
+    "Title": "Alberta to hold referendum on whether to remain in Canada",
+    "Url": "https://www.bbc.com/news/articles/cvgze8n5dxko",
+    "Description": "Alberta to hold referendum on whether to remain in Canada",
+    "Metadata": {
+      "score": "14",
+      "author": "JumpCrisscross",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-05-22T14:23:20.2082699+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48234503"
+    },
+    "Type": 1,
+    "Title": "Breakthroughs for batteries could soon make them better",
+    "Url": "https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better",
+    "Description": "Breakthroughs for batteries could soon make them better",
+    "Metadata": {
+      "score": "33",
+      "author": "pingou",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-05-22T14:23:20.2670193+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48234287"
+    },
+    "Type": 1,
+    "Title": "Show HN: ShadowCat \u2013 file transfer through QR Codes in a Browser",
+    "Url": "https://github.com/unprovable/ShadowCat",
+    "Description": "Show HN: ShadowCat \u2013 file transfer through QR Codes in a Browser",
+    "Metadata": {
+      "score": "46",
+      "author": "unprovable",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-05-22T14:23:20.3278821+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48234252"
+    },
+    "Type": 1,
+    "Title": "Chess Invariants",
+    "Url": "http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html",
+    "Description": "Chess Invariants",
+    "Metadata": {
+      "score": "37",
+      "author": "ingve",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-05-22T14:23:20.3868013+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48225297"
+    },
+    "Type": 1,
+    "Title": "Project Hail Mary \u2013 Stellar Navigation Chart",
+    "Url": "https://valhovey.github.io/gaia-mary/",
+    "Description": "Project Hail Mary \u2013 Stellar Navigation Chart",
+    "Metadata": {
+      "score": "1007",
+      "author": "speleo",
+      "commentCount": "210"
+    },
+    "FetchedAt": "2026-05-22T14:23:20.4477248+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48234688"
+    },
+    "Type": 1,
+    "Title": "Circle Medical (YC S15) Is Hiring a Mobile Engineer",
+    "Url": "https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android",
+    "Description": "Circle Medical (YC S15) Is Hiring a Mobile Engineer",
+    "Metadata": {
+      "score": "1",
+      "author": "jboula",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-22T14:23:20.5121675+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48231938"
+    },
+    "Type": 1,
+    "Title": "Slumber a TUI HTTP Client",
+    "Url": "https://slumber.lucaspickering.me",
+    "Description": "Slumber a TUI HTTP Client",
+    "Metadata": {
+      "score": "123",
+      "author": "jicea",
+      "commentCount": "41"
+    },
+    "FetchedAt": "2026-05-22T14:23:20.5732685+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48231319"
+    },
+    "Type": 1,
+    "Title": "Cleve Moler has died",
+    "Url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
+    "Description": "Cleve Moler has died",
+    "Metadata": {
+      "score": "185",
+      "author": "mychele",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-05-22T14:23:20.6331788+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48229319"
+    },
+    "Type": 1,
+    "Title": "The memory shortage is causing a repricing of consumer electronics",
+    "Url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
+    "Description": "The memory shortage is causing a repricing of consumer electronics",
+    "Metadata": {
+      "score": "305",
+      "author": "d0ks",
+      "commentCount": "363"
+    },
+    "FetchedAt": "2026-05-22T14:23:20.6952659+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48227397"
+    },
+    "Type": 1,
+    "Title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+    "Url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+    "Description": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+    "Metadata": {
+      "score": "324",
+      "author": "speckx",
+      "commentCount": "184"
+    },
+    "FetchedAt": "2026-05-22T14:23:20.7603863+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48235361"
+    },
+    "Type": 1,
+    "Title": "Sam Altman Won in Court Against Elon Musk. But, We All Lost",
+    "Url": "https://www.newyorker.com/news/letter-from-silicon-valley/sam-altman-won-in-court-against-elon-musk-but-really-we-all-lost",
+    "Description": "Sam Altman Won in Court Against Elon Musk. But, We All Lost",
+    "Metadata": {
+      "score": "44",
+      "author": "littlexsparkee",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-05-22T14:23:20.8414141+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48232118"
+    },
+    "Type": 1,
+    "Title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+    "Url": "https://arxiv.org/abs/2605.19269",
+    "Description": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+    "Metadata": {
+      "score": "88",
+      "author": "matt_d",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-05-22T14:23:20.9218367+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48228788"
+    },
+    "Type": 1,
+    "Title": "Uv is fantastic, but its package management UX is a mess",
+    "Url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
+    "Description": "Uv is fantastic, but its package management UX is a mess",
+    "Metadata": {
+      "score": "263",
+      "author": "nchagnet",
+      "commentCount": "124"
+    },
+    "FetchedAt": "2026-05-22T14:23:20.9978869+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48184402"
+    },
+    "Type": 1,
+    "Title": "Was my $48K GPU server worth it?",
+    "Url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+    "Description": "Was my $48K GPU server worth it?",
+    "Metadata": {
+      "score": "494",
+      "author": "apwheele",
+      "commentCount": "374"
+    },
+    "FetchedAt": "2026-05-22T14:23:21.0777551+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48209691"
+    },
+    "Type": 1,
+    "Title": "The surprising story behind the first British person in space",
+    "Url": "https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space",
+    "Description": "The surprising story behind the first British person in space",
+    "Metadata": {
+      "score": "81",
+      "author": "xoxxala",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-05-22T14:23:21.1665203+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48233563"
+    },
+    "Type": 1,
+    "Title": "Steve Wozniak cheered after telling students they have AI \u2013 actual intelligence",
+    "Url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
+    "Description": "Steve Wozniak cheered after telling students they have AI \u2013 actual intelligence",
+    "Metadata": {
+      "score": "318",
+      "author": "signa11",
+      "commentCount": "285"
+    },
+    "FetchedAt": "2026-05-22T14:23:21.2463563+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48227860"
+    },
+    "Type": 1,
+    "Title": "Using Kagi Search with Low Vision",
+    "Url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+    "Description": "Using Kagi Search with Low Vision",
+    "Metadata": {
+      "score": "228",
+      "author": "speckx",
+      "commentCount": "76"
+    },
+    "FetchedAt": "2026-05-22T14:23:21.3275788+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48222733"
+    },
+    "Type": 1,
+    "Title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+    "Url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+    "Description": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+    "Metadata": {
+      "score": "422",
+      "author": "asenna",
+      "commentCount": "123"
+    },
+    "FetchedAt": "2026-05-22T14:23:21.4680697+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48192605"
+    },
+    "Type": 1,
+    "Title": "The death of the brick and mortar toy store",
+    "Url": "https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/",
+    "Description": "The death of the brick and mortar toy store",
+    "Metadata": {
+      "score": "118",
+      "author": "speckx",
+      "commentCount": "137"
+    },
+    "FetchedAt": "2026-05-22T14:23:21.5783852+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48235033"
+    },
+    "Type": 1,
+    "Title": "Valve removes free game from Steam after players discover it contains malware",
+    "Url": "https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/",
+    "Description": "Valve removes free game from Steam after players discover it contains malware",
+    "Metadata": {
+      "score": "60",
+      "author": "gpi",
+      "commentCount": "44"
+    },
+    "FetchedAt": "2026-05-22T14:23:21.6408633+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48220639"
+    },
+    "Type": 1,
+    "Title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
+    "Url": "https://spectrum.ieee.org/trinity-nuclear-test",
+    "Description": "Lost Images from the 1945 Trinity Nuclear Test Restored",
+    "Metadata": {
+      "score": "384",
+      "author": "pseudolus",
+      "commentCount": "112"
+    },
+    "FetchedAt": "2026-05-22T14:23:21.7021357+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48220696"
+    },
+    "Type": 1,
+    "Title": "Python 3.15: features that didn\u0027t make the headlines",
+    "Url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+    "Description": "Python 3.15: features that didn\u0027t make the headlines",
+    "Metadata": {
+      "score": "402",
+      "author": "rbanffy",
+      "commentCount": "200"
+    },
+    "FetchedAt": "2026-05-22T14:23:21.7745413+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48209905"
+    },
+    "Type": 1,
+    "Title": "Mycorrhizal Fungi, Nature\u0027s Key to Plant Survival and Success",
+    "Url": "https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/",
+    "Description": "Mycorrhizal Fungi, Nature\u0027s Key to Plant Survival and Success",
+    "Metadata": {
+      "score": "110",
+      "author": "mooreds",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-05-22T14:23:21.8354037+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48223362"
+    },
+    "Type": 1,
+    "Title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+    "Url": "https://freenet.org/",
+    "Description": "For the past 5 years or so I\u0026#x27;ve been working on a ground-up redesign of Freenet, my peer-to-peer project from the early 2000s (now renamed Hyphanet).\u003Cp\u003EThe new Freenet has been up and running since December along with some early applications like River[1], our decentralized group chat and Delta - a decentralized CMS. Users have already started to build their own apps on Freenet including games, and we have some interesting apps in development like Atlas, a search\u0026#x2F;recommendation engine.",
+    "Metadata": {
+      "score": "318",
+      "author": "sanity",
+      "commentCount": "207"
+    },
+    "FetchedAt": "2026-05-22T14:23:21.8953316+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48220647"
+    },
+    "Type": 1,
+    "Title": "Flipper One \u2013 we need your help",
+    "Url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+    "Description": "Flipper One \u2013 we need your help",
+    "Metadata": {
+      "score": "1201",
+      "author": "sandebert",
+      "commentCount": "463"
+    },
+    "FetchedAt": "2026-05-22T14:23:21.9535164+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48227923"
+    },
+    "Type": 1,
+    "Title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+    "Url": "https://arxiv.org/abs/2605.12460",
+    "Description": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+    "Metadata": {
+      "score": "132",
+      "author": "atomicthumbs",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-05-22T14:23:22.0111187+00:00"
   }
 ]
