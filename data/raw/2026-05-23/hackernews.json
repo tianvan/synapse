@@ -1,21 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:48242959"
-    },
-    "Type": 1,
-    "Title": "SpaceX launches Starship v3 rocket",
-    "Url": "https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505",
-    "Description": "SpaceX launches Starship v3 rocket",
-    "Metadata": {
-      "score": "133",
-      "author": "busymom0",
-      "commentCount": "48"
-    },
-    "FetchedAt": "2026-05-23T02:25:35.1835591+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48241172"
     },
     "Type": 1,
@@ -133,36 +118,6 @@
       "commentCount": "186"
     },
     "FetchedAt": "2026-05-23T02:25:36.4520261+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48207043"
-    },
-    "Type": 1,
-    "Title": "Sp.h is the standard library that C deserves",
-    "Url": "https://spader.zone/sp/",
-    "Description": "Sp.h is the standard library that C deserves",
-    "Metadata": {
-      "score": "90",
-      "author": "dboon",
-      "commentCount": "81"
-    },
-    "FetchedAt": "2026-05-23T08:08:43.1645373+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48194645"
-    },
-    "Type": 1,
-    "Title": "Kindle loyalists scramble as Amazon turns page on old e-readers",
-    "Url": "https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/",
-    "Description": "Kindle loyalists scramble as Amazon turns page on old e-readers",
-    "Metadata": {
-      "score": "11",
-      "author": "cf100clunk",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-05-23T08:08:43.2103041+00:00"
   },
   {
     "ExternalId": {
@@ -331,36 +286,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48247004"
-    },
-    "Type": 1,
-    "Title": "80386 Microcode Disassembled",
-    "Url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-    "Description": "80386 Microcode Disassembled",
-    "Metadata": {
-      "score": "44",
-      "author": "nand2mario",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-05-23T13:07:24.7623386+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48246889"
-    },
-    "Type": 1,
-    "Title": "Making Deep Learning Go Brrrr from First Principles",
-    "Url": "https://horace.io/brrr_intro.html",
-    "Description": "Making Deep Learning Go Brrrr from First Principles",
-    "Metadata": {
-      "score": "20",
-      "author": "tosh",
-      "commentCount": "8"
-    },
-    "FetchedAt": "2026-05-23T13:07:24.7997914+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48246614"
     },
     "Type": 1,
@@ -373,51 +298,6 @@
       "commentCount": "56"
     },
     "FetchedAt": "2026-05-23T13:07:24.8353499+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48241997"
-    },
-    "Type": 1,
-    "Title": "Shipping a laptop to a refugee camp in Uganda",
-    "Url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-    "Description": "Shipping a laptop to a refugee camp in Uganda",
-    "Metadata": {
-      "score": "544",
-      "author": "lexandstuff",
-      "commentCount": "193"
-    },
-    "FetchedAt": "2026-05-23T13:07:24.8838284+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48245262"
-    },
-    "Type": 1,
-    "Title": "Rubish: A Unix shell written in pure Ruby",
-    "Url": "https://github.com/amatsuda/rubish",
-    "Description": "Rubish: A Unix shell written in pure Ruby",
-    "Metadata": {
-      "score": "82",
-      "author": "winebarrel",
-      "commentCount": "42"
-    },
-    "FetchedAt": "2026-05-23T13:07:24.9894306+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48237163"
-    },
-    "Type": 1,
-    "Title": "Why Japanese companies do so many different things",
-    "Url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-    "Description": "Why Japanese companies do so many different things",
-    "Metadata": {
-      "score": "741",
-      "author": "d0ks",
-      "commentCount": "344"
-    },
-    "FetchedAt": "2026-05-23T13:07:25.0341342+00:00"
   },
   {
     "ExternalId": {
@@ -538,21 +418,6 @@
       "commentCount": "6"
     },
     "FetchedAt": "2026-05-23T13:07:25.2991214+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48240419"
-    },
-    "Type": 1,
-    "Title": "Project Glasswing: An Initial Update",
-    "Url": "https://www.anthropic.com/research/glasswing-initial-update",
-    "Description": "Project Glasswing: An Initial Update",
-    "Metadata": {
-      "score": "465",
-      "author": "louiereederson",
-      "commentCount": "280"
-    },
-    "FetchedAt": "2026-05-23T13:07:25.3335948+00:00"
   },
   {
     "ExternalId": {
@@ -763,5 +628,455 @@
       "commentCount": "17"
     },
     "FetchedAt": "2026-05-23T13:07:25.7982344+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48247325"
+    },
+    "Type": 1,
+    "Title": "On The \u003Cdl\u003E (2021)",
+    "Url": "https://benmyers.dev/blog/on-the-dl/",
+    "Description": "On The \u003Cdl\u003E (2021)",
+    "Metadata": {
+      "score": "268",
+      "author": "ravenical",
+      "commentCount": "81"
+    },
+    "FetchedAt": "2026-05-23T18:59:00.977148+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48214311"
+    },
+    "Type": 1,
+    "Title": "My two-part desk setup",
+    "Url": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
+    "Description": "My two-part desk setup",
+    "Metadata": {
+      "score": "73",
+      "author": "James72689",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.0084152+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48248954"
+    },
+    "Type": 1,
+    "Title": "Reverse engineering circuitry in a Spacelab computer from 1980",
+    "Url": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
+    "Description": "Reverse engineering circuitry in a Spacelab computer from 1980",
+    "Metadata": {
+      "score": "44",
+      "author": "elpocko",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.0414937+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48249747"
+    },
+    "Type": 1,
+    "Title": "Texas woman arrested for Facebook post about town water quality",
+    "Url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
+    "Description": "Texas woman arrested for Facebook post about town water quality",
+    "Metadata": {
+      "score": "111",
+      "author": "abawany",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.0737731+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48241335"
+    },
+    "Type": 1,
+    "Title": "Hengefinder: Finding When the Sun Aligns with Your Street",
+    "Url": "https://victoriaritvo.com/blog/hengefinder/",
+    "Description": "Hengefinder: Finding When the Sun Aligns with Your Street",
+    "Metadata": {
+      "score": "29",
+      "author": "evakhoury",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.1065701+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48248014"
+    },
+    "Type": 1,
+    "Title": "z386: An Open-Source 80386 Built Around Original Microcode",
+    "Url": "https://nand2mario.github.io/posts/2026/z386/",
+    "Description": "z386: An Open-Source 80386 Built Around Original Microcode",
+    "Metadata": {
+      "score": "76",
+      "author": "wicket",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.1403283+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48241890"
+    },
+    "Type": 1,
+    "Title": "Green card seekers must leave U.S. to apply, Trump administration says",
+    "Url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.uscis.gov\u0026#x2F;newsroom\u0026#x2F;news-releases\u0026#x2F;us-citizenship-and-immigration-services-will-grant-adjustment-of-status-only-in-extraordinary\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.uscis.gov\u0026#x2F;newsroom\u0026#x2F;news-releases\u0026#x2F;us-citizenship-...\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.uscis.gov\u0026#x2F;sites\u0026#x2F;default\u0026#x2F;files\u0026#x2F;document\u0026#x2F;memos\u0026#x2F;PM-602-0199-AdjustmentOfStatusAndDiscretion-20260521.pdf\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.uscis.gov\u0026#x2F;",
+    "Metadata": {
+      "score": "85",
+      "author": "tlhunter",
+      "commentCount": "368"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.1718039+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48247004"
+    },
+    "Type": 1,
+    "Title": "80386 Microcode Disassembled",
+    "Url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+    "Description": "80386 Microcode Disassembled",
+    "Metadata": {
+      "score": "169",
+      "author": "nand2mario",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.2044698+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48199314"
+    },
+    "Type": 1,
+    "Title": "PHP\u0027s Oddities",
+    "Url": "https://flowtwo.io/post/php%27s-oddities",
+    "Description": "PHP\u0027s Oddities",
+    "Metadata": {
+      "score": "49",
+      "author": "thejoeflow",
+      "commentCount": "53"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.2378332+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48247208"
+    },
+    "Type": 1,
+    "Title": "The Art of Money Getting",
+    "Url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
+    "Description": "The Art of Money Getting",
+    "Metadata": {
+      "score": "107",
+      "author": "dxs",
+      "commentCount": "70"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.2691589+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48249743"
+    },
+    "Type": 1,
+    "Title": "Iowa lawmakers to mandate students take Center for Intellectual Freedom classes",
+    "Url": "https://www.kcrg.com/2026/05/20/iowa-lawmakers-move-mandate-students-take-center-intellectual-freedom-classes-amid-low-enrollment/",
+    "Description": "Iowa lawmakers to mandate students take Center for Intellectual Freedom classes",
+    "Metadata": {
+      "score": "7",
+      "author": "hn_acker",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.3015342+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48248775"
+    },
+    "Type": 1,
+    "Title": "Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT",
+    "Url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+    "Description": "Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT",
+    "Metadata": {
+      "score": "119",
+      "author": "embedding-shape",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.3327155+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48246889"
+    },
+    "Type": 1,
+    "Title": "Making Deep Learning Go Brrrr from First Principles (2022)",
+    "Url": "https://horace.io/brrr_intro.html",
+    "Description": "Making Deep Learning Go Brrrr from First Principles (2022)",
+    "Metadata": {
+      "score": "118",
+      "author": "tosh",
+      "commentCount": "43"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.3646455+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48242959"
+    },
+    "Type": 1,
+    "Title": "SpaceX launches Starship v3 rocket",
+    "Url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-v3-megarocket-first-test-flight",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.nbcnews.com\u0026#x2F;now\u0026#x2F;video\u0026#x2F;spacex-successfully-launches-prototype-of-starship-rocket-263835205505\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.nbcnews.com\u0026#x2F;now\u0026#x2F;video\u0026#x2F;spacex-successfully-launch...\u003C/a\u003E [video]",
+    "Metadata": {
+      "score": "253",
+      "author": "busymom0",
+      "commentCount": "173"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.3965299+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48248861"
+    },
+    "Type": 1,
+    "Title": "Evaluating Spec CPU2026",
+    "Url": "https://chipsandcheese.com/p/evaluating-spec-cpu2026",
+    "Description": "Evaluating Spec CPU2026",
+    "Metadata": {
+      "score": "11",
+      "author": "zdw",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.4274979+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48247876"
+    },
+    "Type": 1,
+    "Title": "Oura says it gets government demands for user data",
+    "Url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
+    "Description": "Oura says it gets government demands for user data",
+    "Metadata": {
+      "score": "206",
+      "author": "donohoe",
+      "commentCount": "123"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.4591175+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48246232"
+    },
+    "Type": 1,
+    "Title": "- -dangerously-skip-reading-code",
+    "Url": "https://olano.dev/blog/dangerously-skip/",
+    "Description": "- -dangerously-skip-reading-code",
+    "Metadata": {
+      "score": "41",
+      "author": "fagnerbrack",
+      "commentCount": "50"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.4910807+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48240419"
+    },
+    "Type": 1,
+    "Title": "Project Glasswing: An Initial Update",
+    "Url": "https://www.anthropic.com/research/glasswing-initial-update",
+    "Description": "Project Glasswing: An Initial Update",
+    "Metadata": {
+      "score": "501",
+      "author": "louiereederson",
+      "commentCount": "297"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.5242781+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48222492"
+    },
+    "Type": 1,
+    "Title": "Highest Random Weight in Elixir",
+    "Url": "https://jola.dev/posts/highest-random-weight-in-elixir",
+    "Description": "Highest Random Weight in Elixir",
+    "Metadata": {
+      "score": "45",
+      "author": "shintoist",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.5568798+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48248238"
+    },
+    "Type": 1,
+    "Title": "Lisp in Vim (2019)",
+    "Url": "https://susam.net/lisp-in-vim.html",
+    "Description": "Lisp in Vim (2019)",
+    "Metadata": {
+      "score": "33",
+      "author": "whent",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.5889123+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48194645"
+    },
+    "Type": 1,
+    "Title": "Kindle loyalists scramble as Amazon turns page on old e-readers",
+    "Url": "https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/",
+    "Description": "Kindle loyalists scramble as Amazon turns page on old e-readers",
+    "Metadata": {
+      "score": "50",
+      "author": "cf100clunk",
+      "commentCount": "65"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.6211539+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48207043"
+    },
+    "Type": 1,
+    "Title": "sp.h: Fixing C by giving it a high quality, ultra portable standard library",
+    "Url": "https://spader.zone/sp/",
+    "Description": "sp.h: Fixing C by giving it a high quality, ultra portable standard library",
+    "Metadata": {
+      "score": "131",
+      "author": "dboon",
+      "commentCount": "131"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.6531281+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48241997"
+    },
+    "Type": 1,
+    "Title": "Shipping a laptop to a refugee camp in Uganda",
+    "Url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+    "Description": "Shipping a laptop to a refugee camp in Uganda",
+    "Metadata": {
+      "score": "633",
+      "author": "lexandstuff",
+      "commentCount": "219"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.6838298+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48245262"
+    },
+    "Type": 1,
+    "Title": "Rubish: A Unix shell written in pure Ruby",
+    "Url": "https://github.com/amatsuda/rubish",
+    "Description": "Rubish: A Unix shell written in pure Ruby",
+    "Metadata": {
+      "score": "146",
+      "author": "winebarrel",
+      "commentCount": "87"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.7146526+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48237163"
+    },
+    "Type": 1,
+    "Title": "Why Japanese companies do so many different things",
+    "Url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+    "Description": "Why Japanese companies do so many different things",
+    "Metadata": {
+      "score": "812",
+      "author": "d0ks",
+      "commentCount": "379"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.7455803+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48219853"
+    },
+    "Type": 1,
+    "Title": "AI Engineering from Scratch",
+    "Url": "https://aiengineeringfromscratch.com",
+    "Description": "AI Engineering from Scratch",
+    "Metadata": {
+      "score": "51",
+      "author": "rippeltippel",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.7766247+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48196831"
+    },
+    "Type": 1,
+    "Title": "We made our filesystem 47\u00D7 faster by deleting it",
+    "Url": "https://microsandbox.dev/blog/oci-filesystem-47x-faster",
+    "Description": "We made our filesystem 47\u00D7 faster by deleting it",
+    "Metadata": {
+      "score": "4",
+      "author": "appcypher",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.8070148+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48247737"
+    },
+    "Type": 1,
+    "Title": "The FBI Wants \u0027Near Real-Time\u0027 Access to US License Plate Readers",
+    "Url": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/",
+    "Description": "The FBI Wants \u0027Near Real-Time\u0027 Access to US License Plate Readers",
+    "Metadata": {
+      "score": "140",
+      "author": "Brajeshwar",
+      "commentCount": "68"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.8388385+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48246917"
+    },
+    "Type": 1,
+    "Title": "Electrobun 2.0 will be decoupled from Bun due to the Rust rewrite",
+    "Url": "https://twitter.com/i/status/2058064720553222567",
+    "Description": "Electrobun 2.0 will be decoupled from Bun due to the Rust rewrite",
+    "Metadata": {
+      "score": "77",
+      "author": "bundie",
+      "commentCount": "75"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.8706457+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48198615"
+    },
+    "Type": 1,
+    "Title": "Solving the \u201CZork\u201D Mystery",
+    "Url": "https://www.dpolakovic.space/blogs/zork-part2",
+    "Description": "Solving the \u201CZork\u201D Mystery",
+    "Metadata": {
+      "score": "39",
+      "author": "dpola",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-05-23T18:59:01.9022717+00:00"
   }
 ]
