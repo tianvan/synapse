@@ -1,39 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:anthropics/claude-plugins-official"
-    },
-    "Type": 0,
-    "Title": "anthropics/claude-plugins-official",
-    "Url": "https://github.com/anthropics/claude-plugins-official",
-    "Description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "Metadata": {
-      "owner": "anthropics",
-      "repo": "claude-plugins-official",
-      "language": "Python",
-      "stars": "2,549",
-      "topics": "claude-code, mcp, skills"
-    },
-    "FetchedAt": "2026-05-23T08:08:41.3411775+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:colbymchenry/codegraph"
-    },
-    "Type": 0,
-    "Title": "colbymchenry/codegraph",
-    "Url": "https://github.com/colbymchenry/codegraph",
-    "Description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent \u2014 fewer tokens, fewer tool calls, 100% local",
-    "Metadata": {
-      "owner": "colbymchenry",
-      "repo": "codegraph",
-      "language": "TypeScript",
-      "stars": "3,684"
-    },
-    "FetchedAt": "2026-05-23T08:08:41.5262598+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:ruvnet/RuView"
     },
     "Type": 0,
@@ -51,74 +18,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:ChromeDevTools/chrome-devtools-mcp"
-    },
-    "Type": 0,
-    "Title": "ChromeDevTools/chrome-devtools-mcp",
-    "Url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-    "Description": "Chrome DevTools for coding agents",
-    "Metadata": {
-      "owner": "ChromeDevTools",
-      "repo": "chrome-devtools-mcp",
-      "language": "TypeScript",
-      "stars": "501",
-      "topics": "browser, chrome, chrome-devtools, debugging, devtools, mcp, mcp-server, puppeteer"
-    },
-    "FetchedAt": "2026-05-23T08:08:41.7143871+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:dotnet/skills"
-    },
-    "Type": 0,
-    "Title": "dotnet/skills",
-    "Url": "https://github.com/dotnet/skills",
-    "Description": "Repository for skills to assist AI coding agents with .NET and C#",
-    "Metadata": {
-      "owner": "dotnet",
-      "repo": "skills",
-      "language": "C#",
-      "stars": "389",
-      "topics": "agent-skills"
-    },
-    "FetchedAt": "2026-05-23T08:08:41.8508265+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:Lum1104/Understand-Anything"
-    },
-    "Type": 0,
-    "Title": "Lum1104/Understand-Anything",
-    "Url": "https://github.com/Lum1104/Understand-Anything",
-    "Description": "Graphs that teach \u003E graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-    "Metadata": {
-      "owner": "Lum1104",
-      "repo": "Understand-Anything",
-      "language": "TypeScript",
-      "stars": "1,393",
-      "topics": "antigravity-skills, business-knowledge, claude-code, claude-skills, codebase-analysis, codex, codex-skills, developer-tools-ai-agent, gemini-cli-skills, karpathy-llm-wiki, knowledge-base, knowledge-graph, memory, opencode-skills, pi-agent, understandcode, vibe-coding"
-    },
-    "FetchedAt": "2026-05-23T08:08:41.9453834+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:odoo/odoo"
-    },
-    "Type": 0,
-    "Title": "odoo/odoo",
-    "Url": "https://github.com/odoo/odoo",
-    "Description": "Odoo. Open Source Apps To Grow Your Business.",
-    "Metadata": {
-      "owner": "odoo",
-      "repo": "odoo",
-      "language": "Python",
-      "stars": "79",
-      "topics": "apps, business, erp, management, odoo, odoo-apps, python"
-    },
-    "FetchedAt": "2026-05-23T08:08:42.0407399+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:byJoey/cfnew"
     },
     "Type": 0,
@@ -131,22 +30,6 @@
       "stars": "87"
     },
     "FetchedAt": "2026-05-23T08:08:42.1523072+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:trimstray/the-book-of-secret-knowledge"
-    },
-    "Type": 0,
-    "Title": "trimstray/the-book-of-secret-knowledge",
-    "Url": "https://github.com/trimstray/the-book-of-secret-knowledge",
-    "Description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-    "Metadata": {
-      "owner": "trimstray",
-      "repo": "the-book-of-secret-knowledge",
-      "stars": "969",
-      "topics": "awesome, awesome-list, bsd, cheatsheets, devops, guidelines, hacking, hacks, howtos, linux, lists, manuals, one-liners, pentesters, resources, search-engines, security, security-researchers, sysops"
-    },
-    "FetchedAt": "2026-05-23T08:08:42.2972629+00:00"
   },
   {
     "ExternalId": {
@@ -167,23 +50,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:yt-dlp/yt-dlp"
-    },
-    "Type": 0,
-    "Title": "yt-dlp/yt-dlp",
-    "Url": "https://github.com/yt-dlp/yt-dlp",
-    "Description": "A feature-rich command-line audio/video downloader",
-    "Metadata": {
-      "owner": "yt-dlp",
-      "repo": "yt-dlp",
-      "language": "Python",
-      "stars": "444",
-      "topics": "cli, downloader, python, sponsorblock, youtube-dl, youtube-downloader, yt-dlp"
-    },
-    "FetchedAt": "2026-05-23T08:08:42.5476015+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:karpathy/nn-zero-to-hero"
     },
     "Type": 0,
@@ -197,5 +63,204 @@
       "stars": "159"
     },
     "FetchedAt": "2026-05-23T08:08:42.6773809+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Lum1104/Understand-Anything"
+    },
+    "Type": 0,
+    "Title": "Lum1104/Understand-Anything",
+    "Url": "https://github.com/Lum1104/Understand-Anything",
+    "Description": "Graphs that teach \u003E graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+    "Metadata": {
+      "owner": "Lum1104",
+      "repo": "Understand-Anything",
+      "language": "TypeScript",
+      "stars": "2,331",
+      "topics": "antigravity-skills, business-knowledge, claude-code, claude-skills, codebase-analysis, codex, codex-skills, developer-tools-ai-agent, gemini-cli-skills, karpathy-llm-wiki, knowledge-base, knowledge-graph, memory, opencode-skills, pi-agent, understandcode, vibe-coding"
+    },
+    "FetchedAt": "2026-05-23T13:07:23.2344964+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-plugins-official"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-plugins-official",
+    "Url": "https://github.com/anthropics/claude-plugins-official",
+    "Description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-plugins-official",
+      "language": "Python",
+      "stars": "2,172",
+      "topics": "claude-code, mcp, skills"
+    },
+    "FetchedAt": "2026-05-23T13:07:23.3466147+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:colbymchenry/codegraph"
+    },
+    "Type": 0,
+    "Title": "colbymchenry/codegraph",
+    "Url": "https://github.com/colbymchenry/codegraph",
+    "Description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent \u2014 fewer tokens, fewer tool calls, 100% local",
+    "Metadata": {
+      "owner": "colbymchenry",
+      "repo": "codegraph",
+      "language": "TypeScript",
+      "stars": "2,434"
+    },
+    "FetchedAt": "2026-05-23T13:07:23.4758152+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:multica-ai/andrej-karpathy-skills"
+    },
+    "Type": 0,
+    "Title": "multica-ai/andrej-karpathy-skills",
+    "Url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "Description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy\u0027s observations on LLM coding pitfalls.",
+    "Metadata": {
+      "owner": "multica-ai",
+      "repo": "andrej-karpathy-skills",
+      "stars": "3,152"
+    },
+    "FetchedAt": "2026-05-23T13:07:23.5759554+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:dotnet/skills"
+    },
+    "Type": 0,
+    "Title": "dotnet/skills",
+    "Url": "https://github.com/dotnet/skills",
+    "Description": "Repository for skills to assist AI coding agents with .NET and C#",
+    "Metadata": {
+      "owner": "dotnet",
+      "repo": "skills",
+      "language": "C#",
+      "stars": "262",
+      "topics": "agent-skills"
+    },
+    "FetchedAt": "2026-05-23T13:07:23.6807143+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ChromeDevTools/chrome-devtools-mcp"
+    },
+    "Type": 0,
+    "Title": "ChromeDevTools/chrome-devtools-mcp",
+    "Url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "Description": "Chrome DevTools for coding agents",
+    "Metadata": {
+      "owner": "ChromeDevTools",
+      "repo": "chrome-devtools-mcp",
+      "language": "TypeScript",
+      "stars": "437",
+      "topics": "browser, chrome, chrome-devtools, debugging, devtools, mcp, mcp-server, puppeteer"
+    },
+    "FetchedAt": "2026-05-23T13:07:23.7813203+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:multica-ai/multica"
+    },
+    "Type": 0,
+    "Title": "multica-ai/multica",
+    "Url": "https://github.com/multica-ai/multica",
+    "Description": "The open-source managed agents platform. Turn coding agents into real teammates \u2014 assign tasks, track progress, compound skills.",
+    "Metadata": {
+      "owner": "multica-ai",
+      "repo": "multica",
+      "language": "TypeScript",
+      "stars": "879"
+    },
+    "FetchedAt": "2026-05-23T13:07:23.9145604+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:trimstray/the-book-of-secret-knowledge"
+    },
+    "Type": 0,
+    "Title": "trimstray/the-book-of-secret-knowledge",
+    "Url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "Description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "Metadata": {
+      "owner": "trimstray",
+      "repo": "the-book-of-secret-knowledge",
+      "stars": "628",
+      "topics": "awesome, awesome-list, bsd, cheatsheets, devops, guidelines, hacking, hacks, howtos, linux, lists, manuals, one-liners, pentesters, resources, search-engines, security, security-researchers, sysops"
+    },
+    "FetchedAt": "2026-05-23T13:07:24.0085291+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:odoo/odoo"
+    },
+    "Type": 0,
+    "Title": "odoo/odoo",
+    "Url": "https://github.com/odoo/odoo",
+    "Description": "Odoo. Open Source Apps To Grow Your Business.",
+    "Metadata": {
+      "owner": "odoo",
+      "repo": "odoo",
+      "language": "Python",
+      "stars": "386",
+      "topics": "apps, business, erp, management, odoo, odoo-apps, python"
+    },
+    "FetchedAt": "2026-05-23T13:07:24.0962568+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NVlabs/LongLive"
+    },
+    "Type": 0,
+    "Title": "NVlabs/LongLive",
+    "Url": "https://github.com/NVlabs/LongLive",
+    "Description": "LongLive 2.0: Infra - Long Video Gen",
+    "Metadata": {
+      "owner": "NVlabs",
+      "repo": "LongLive",
+      "language": "Python",
+      "stars": "79",
+      "topics": "infra, long, nvfp4, parallel, real-time, video-generation"
+    },
+    "FetchedAt": "2026-05-23T13:07:24.1866237+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:yt-dlp/yt-dlp"
+    },
+    "Type": 0,
+    "Title": "yt-dlp/yt-dlp",
+    "Url": "https://github.com/yt-dlp/yt-dlp",
+    "Description": "A feature-rich command-line audio/video downloader",
+    "Metadata": {
+      "owner": "yt-dlp",
+      "repo": "yt-dlp",
+      "language": "Python",
+      "stars": "745",
+      "topics": "cli, downloader, python, sponsorblock, youtube-dl, youtube-downloader, yt-dlp"
+    },
+    "FetchedAt": "2026-05-23T13:07:24.29108+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:janestreet/magic-trace"
+    },
+    "Type": 0,
+    "Title": "janestreet/magic-trace",
+    "Url": "https://github.com/janestreet/magic-trace",
+    "Description": "magic-trace collects and displays high-resolution traces of what a process is doing",
+    "Metadata": {
+      "owner": "janestreet",
+      "repo": "magic-trace",
+      "language": "OCaml",
+      "stars": "70",
+      "topics": "intel, introspection, performance-tools, profile, tracing, visualizer, x86"
+    },
+    "FetchedAt": "2026-05-23T13:07:24.3845649+00:00"
   }
 ]
