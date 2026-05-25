@@ -166,96 +166,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48243666"
-    },
-    "Type": 1,
-    "Title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
-    "Url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
-    "Description": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
-    "Metadata": {
-      "score": "123",
-      "author": "kelseyfrog",
-      "commentCount": "40"
-    },
-    "FetchedAt": "2026-05-25T09:53:33.9806274+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48264635"
-    },
-    "Type": 1,
-    "Title": "Show HN: Geomatic \u2013 a command-driven geometry studio enabled with autodiff",
-    "Url": "https://www.tinyvolt.com/geomatic",
-    "Description": "All commands have the format \u0060output = \\func inputs\u0060 or just \u0060\\function inputs\u0060. Points and scalars are built on the fly. Eg \u0060\\line a b\u0060 to an empty canvas creates points \u0060a\u0060 and \u0060b\u0060, and joins them with a line.\u003Cp\u003EOne can use broadcasting semantics similar to NumPy and PyTorch in a visual setting (imagine creating a list of circles where one dim corresponds to radius and another to the center). One can also use backpropagation, run gradient descent or visualize vector fields. Almost everything i",
-    "Metadata": {
-      "score": "8",
-      "author": "nivter",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-05-25T09:53:34.0129227+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48258015"
-    },
-    "Type": 1,
-    "Title": "Show HN: Audiomass \u2013 a free, open-source multitrack audio editor for the web",
-    "Url": "https://audiomass.co/?multitrack=1",
-    "Description": "Show HN: Audiomass \u2013 a free, open-source multitrack audio editor for the web",
-    "Metadata": {
-      "score": "365",
-      "author": "pantelisk",
-      "commentCount": "81"
-    },
-    "FetchedAt": "2026-05-25T09:53:34.0469444+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48256953"
-    },
-    "Type": 1,
-    "Title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-    "Url": "https://esengine.github.io/DeepSeek-Reasonix/",
-    "Description": "Related ongoing thread:\u003Cp\u003E\u003Ci\u003EDeepSeek makes the V4 Pro price discount permanent\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48237663\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48237663\u003C/a\u003E - May 2026 (384 comments)",
-    "Metadata": {
-      "score": "561",
-      "author": "Alifatisk",
-      "commentCount": "233"
-    },
-    "FetchedAt": "2026-05-25T09:53:34.0799792+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48259808"
-    },
-    "Type": 1,
-    "Title": "Migrating from Go to Rust",
-    "Url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-    "Description": "Migrating from Go to Rust",
-    "Metadata": {
-      "score": "280",
-      "author": "jabits",
-      "commentCount": "273"
-    },
-    "FetchedAt": "2026-05-25T09:53:34.1130337+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48263253"
-    },
-    "Type": 1,
-    "Title": "Jira Is Turing-Complete",
-    "Url": "https://seriot.ch/computation/jira.html",
-    "Description": "Jira Is Turing-Complete",
-    "Metadata": {
-      "score": "174",
-      "author": "vinhnx",
-      "commentCount": "75"
-    },
-    "FetchedAt": "2026-05-25T09:53:34.144659+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48228608"
     },
     "Type": 1,
@@ -268,126 +178,6 @@
       "commentCount": "56"
     },
     "FetchedAt": "2026-05-25T09:53:34.1768874+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48245916"
-    },
-    "Type": 1,
-    "Title": "White Rabbit \u2013 sub-nanosecond synchronization for large distributed systems",
-    "Url": "https://ohwr.org/projects/white-rabbit/",
-    "Description": "White Rabbit \u2013 sub-nanosecond synchronization for large distributed systems",
-    "Metadata": {
-      "score": "99",
-      "author": "michaelsbradley",
-      "commentCount": "24"
-    },
-    "FetchedAt": "2026-05-25T09:53:34.247903+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48242546"
-    },
-    "Type": 1,
-    "Title": "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
-    "Url": "https://phabricator.services.mozilla.com/D301917",
-    "Description": "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
-    "Metadata": {
-      "score": "93",
-      "author": "luu",
-      "commentCount": "28"
-    },
-    "FetchedAt": "2026-05-25T09:53:34.2796092+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48260117"
-    },
-    "Type": 1,
-    "Title": "A fundamental principle of aeronautical engineering has been overturned",
-    "Url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
-    "Description": "A fundamental principle of aeronautical engineering has been overturned",
-    "Metadata": {
-      "score": "163",
-      "author": "littlexsparkee",
-      "commentCount": "79"
-    },
-    "FetchedAt": "2026-05-25T09:53:34.3117058+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48236122"
-    },
-    "Type": 1,
-    "Title": "Bytecode VMs in surprising places (2024)",
-    "Url": "https://dubroy.com/blog/bytecode-vms-in-surprising-places/",
-    "Description": "Bytecode VMs in surprising places (2024)",
-    "Metadata": {
-      "score": "17",
-      "author": "azhenley",
-      "commentCount": "8"
-    },
-    "FetchedAt": "2026-05-25T09:53:34.344578+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48223997"
-    },
-    "Type": 1,
-    "Title": "I spent 50 hours drawing a line graph",
-    "Url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-    "Description": "I spent 50 hours drawing a line graph",
-    "Metadata": {
-      "score": "542",
-      "author": "dougdude3339",
-      "commentCount": "93"
-    },
-    "FetchedAt": "2026-05-25T09:53:34.3783336+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48240025"
-    },
-    "Type": 1,
-    "Title": "I love my Bluetooth keyboard",
-    "Url": "https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/",
-    "Description": "I love my Bluetooth keyboard",
-    "Metadata": {
-      "score": "77",
-      "author": "evakhoury",
-      "commentCount": "67"
-    },
-    "FetchedAt": "2026-05-25T09:53:34.4102274+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48259861"
-    },
-    "Type": 1,
-    "Title": "Defeating Git Rigour Fatigue with Jujutsu",
-    "Url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
-    "Description": "Defeating Git Rigour Fatigue with Jujutsu",
-    "Metadata": {
-      "score": "121",
-      "author": "ikesau",
-      "commentCount": "128"
-    },
-    "FetchedAt": "2026-05-25T09:53:34.4437899+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48253386"
-    },
-    "Type": 1,
-    "Title": "Microsoft open-sources \u201Cthe earliest DOS source code discovered to date\u201D",
-    "Url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;opensource.microsoft.com\u0026#x2F;blog\u0026#x2F;2026\u0026#x2F;04\u0026#x2F;28\u0026#x2F;continuing-the-story-of-early-dos-development\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;opensource.microsoft.com\u0026#x2F;blog\u0026#x2F;2026\u0026#x2F;04\u0026#x2F;28\u0026#x2F;continuing-...\u003C/a\u003E",
-    "Metadata": {
-      "score": "474",
-      "author": "DamnInteresting",
-      "commentCount": "167"
-    },
-    "FetchedAt": "2026-05-25T09:53:34.478187+00:00"
   },
   {
     "ExternalId": {
@@ -448,21 +238,6 @@
       "commentCount": "54"
     },
     "FetchedAt": "2026-05-25T09:53:34.6066038+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48259192"
-    },
-    "Type": 1,
-    "Title": "Building Pi with Pi",
-    "Url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
-    "Description": "Building Pi with Pi",
-    "Metadata": {
-      "score": "88",
-      "author": "mplanchard",
-      "commentCount": "63"
-    },
-    "FetchedAt": "2026-05-25T09:53:34.6399695+00:00"
   },
   {
     "ExternalId": {
@@ -613,5 +388,455 @@
       "commentCount": "34"
     },
     "FetchedAt": "2026-05-25T09:53:34.9607761+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48266051"
+    },
+    "Type": 1,
+    "Title": "Search engines alternatives now that Google isn\u0027t Google anymore",
+    "Url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+    "Description": "Search engines alternatives now that Google isn\u0027t Google anymore",
+    "Metadata": {
+      "score": "284",
+      "author": "elorant",
+      "commentCount": "229"
+    },
+    "FetchedAt": "2026-05-25T14:39:42.1479822+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48266895"
+    },
+    "Type": 1,
+    "Title": "2026 HIPAA Security Rule Update",
+    "Url": "https://medcurity.com/hipaa-security-rule-2026-update/",
+    "Description": "2026 HIPAA Security Rule Update",
+    "Metadata": {
+      "score": "23",
+      "author": "mooreds",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-05-25T14:39:42.1913844+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48265206"
+    },
+    "Type": 1,
+    "Title": "Magnifica Humanitas (Encyclical Letter)",
+    "Url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+    "Description": "Magnifica Humanitas (Encyclical Letter)",
+    "Metadata": {
+      "score": "381",
+      "author": "theletterf",
+      "commentCount": "142"
+    },
+    "FetchedAt": "2026-05-25T14:39:42.2357226+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48267126"
+    },
+    "Type": 1,
+    "Title": "C extensions, portability, and alternative compilers",
+    "Url": "https://lemon.rip/w/6-c-extensions-compilers/",
+    "Description": "C extensions, portability, and alternative compilers",
+    "Metadata": {
+      "score": "12",
+      "author": "xngbuilds",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-25T14:39:42.280141+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48266906"
+    },
+    "Type": 1,
+    "Title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+    "Url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+    "Description": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+    "Metadata": {
+      "score": "22",
+      "author": "jruohonen",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-25T14:39:42.3230834+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48267324"
+    },
+    "Type": 1,
+    "Title": "Hive (YC S14) is hiring sr back-end developers (CA/US remote OK)",
+    "Url": "https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481",
+    "Description": "Hive (YC S14) is hiring sr back-end developers (CA/US remote OK)",
+    "Metadata": {
+      "score": "1",
+      "author": "patman_h",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-25T14:39:42.3672143+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48266485"
+    },
+    "Type": 1,
+    "Title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+    "Url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
+    "Description": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+    "Metadata": {
+      "score": "113",
+      "author": "benwerd",
+      "commentCount": "39"
+    },
+    "FetchedAt": "2026-05-25T14:39:42.4115543+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48265876"
+    },
+    "Type": 1,
+    "Title": "Leave Me Behind",
+    "Url": "http://androidessence.com/leave-me-behind/",
+    "Description": "Leave Me Behind",
+    "Metadata": {
+      "score": "137",
+      "author": "mooreds",
+      "commentCount": "94"
+    },
+    "FetchedAt": "2026-05-25T14:39:42.4551957+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48265056"
+    },
+    "Type": 1,
+    "Title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
+    "Url": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
+    "Description": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
+    "Metadata": {
+      "score": "58",
+      "author": "rbanffy",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-05-25T14:39:42.5007532+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48243666"
+    },
+    "Type": 1,
+    "Title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
+    "Url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
+    "Description": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
+    "Metadata": {
+      "score": "212",
+      "author": "kelseyfrog",
+      "commentCount": "104"
+    },
+    "FetchedAt": "2026-05-25T14:39:42.5485309+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48258015"
+    },
+    "Type": 1,
+    "Title": "Show HN: Audiomass \u2013 a free, open-source multitrack audio editor for the web",
+    "Url": "https://audiomass.co/?multitrack=1",
+    "Description": "Show HN: Audiomass \u2013 a free, open-source multitrack audio editor for the web",
+    "Metadata": {
+      "score": "433",
+      "author": "pantelisk",
+      "commentCount": "92"
+    },
+    "FetchedAt": "2026-05-25T14:39:42.5997628+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48219373"
+    },
+    "Type": 1,
+    "Title": "The physicists who convinced Fermilab to send Brazil\u0027s emails",
+    "Url": "https://buttondown.com/blog/brazil-fermilab-email",
+    "Description": "The physicists who convinced Fermilab to send Brazil\u0027s emails",
+    "Metadata": {
+      "score": "16",
+      "author": "maguay",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-05-25T14:39:42.7109681+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48236816"
+    },
+    "Type": 1,
+    "Title": "AI errno(2) values",
+    "Url": "https://www.netmeister.org/blog/ai-errno.html",
+    "Description": "AI errno(2) values",
+    "Metadata": {
+      "score": "53",
+      "author": "zdw",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-05-25T14:39:42.7550416+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48256953"
+    },
+    "Type": 1,
+    "Title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+    "Url": "https://esengine.github.io/DeepSeek-Reasonix/",
+    "Description": "Related ongoing thread:\u003Cp\u003E\u003Ci\u003EDeepSeek makes the V4 Pro price discount permanent\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48237663\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48237663\u003C/a\u003E - May 2026 (384 comments)",
+    "Metadata": {
+      "score": "617",
+      "author": "Alifatisk",
+      "commentCount": "255"
+    },
+    "FetchedAt": "2026-05-25T14:39:42.7988392+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48264635"
+    },
+    "Type": 1,
+    "Title": "Show HN: Geomatic \u2013 a command-driven geometry studio enabled with autodiff",
+    "Url": "https://www.tinyvolt.com/geomatic",
+    "Description": "All commands have the format \u0060output = \\func inputs\u0060 or just \u0060\\function inputs\u0060. Points and scalars are built on the fly. Eg \u0060\\line a b\u0060 to an empty canvas creates points \u0060a\u0060 and \u0060b\u0060, and joins them with a line.\u003Cp\u003EOne can use broadcasting semantics similar to NumPy and PyTorch in a visual setting (imagine creating a list of circles where one dim corresponds to radius and another to the center). One can also use backpropagation, run gradient descent or visualize vector fields. Almost everything i",
+    "Metadata": {
+      "score": "38",
+      "author": "nivter",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-05-25T14:39:42.8429715+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48259808"
+    },
+    "Type": 1,
+    "Title": "Migrating from Go to Rust",
+    "Url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+    "Description": "Migrating from Go to Rust",
+    "Metadata": {
+      "score": "362",
+      "author": "jabits",
+      "commentCount": "351"
+    },
+    "FetchedAt": "2026-05-25T14:39:42.8857342+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48266435"
+    },
+    "Type": 1,
+    "Title": "Pope Leo: opaque AI run by few firms risks \u0022New Forms of Dehumanization\u0022",
+    "Url": "https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/",
+    "Description": "Pope Leo: opaque AI run by few firms risks \u0022New Forms of Dehumanization\u0022",
+    "Metadata": {
+      "score": "21",
+      "author": "embedding-shape",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-05-25T14:39:42.9295158+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48236122"
+    },
+    "Type": 1,
+    "Title": "Bytecode VMs in surprising places (2024)",
+    "Url": "https://dubroy.com/blog/bytecode-vms-in-surprising-places/",
+    "Description": "Bytecode VMs in surprising places (2024)",
+    "Metadata": {
+      "score": "73",
+      "author": "azhenley",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-05-25T14:39:42.9741816+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48266422"
+    },
+    "Type": 1,
+    "Title": "Microsoft pulls plug on plans for 244-acre data center in Caledonia",
+    "Url": "https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback",
+    "Description": "Microsoft pulls plug on plans for 244-acre data center in Caledonia",
+    "Metadata": {
+      "score": "12",
+      "author": "cdrnsf",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-05-25T14:39:43.0178088+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48245916"
+    },
+    "Type": 1,
+    "Title": "White Rabbit \u2013 sub-nanosecond synchronization for large distributed systems",
+    "Url": "https://ohwr.org/projects/white-rabbit/",
+    "Description": "White Rabbit \u2013 sub-nanosecond synchronization for large distributed systems",
+    "Metadata": {
+      "score": "141",
+      "author": "michaelsbradley",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-05-25T14:39:43.0608339+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48204632"
+    },
+    "Type": 1,
+    "Title": "Notes about reading messages with the Python email packages",
+    "Url": "https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes",
+    "Description": "Notes about reading messages with the Python email packages",
+    "Metadata": {
+      "score": "35",
+      "author": "ankitg12",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-25T14:39:43.1043419+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48223997"
+    },
+    "Type": 1,
+    "Title": "I spent 50 hours drawing a line graph",
+    "Url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+    "Description": "I spent 50 hours drawing a line graph",
+    "Metadata": {
+      "score": "587",
+      "author": "dougdude3339",
+      "commentCount": "96"
+    },
+    "FetchedAt": "2026-05-25T14:39:43.1473999+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48263253"
+    },
+    "Type": 1,
+    "Title": "Jira Is Turing-Complete",
+    "Url": "https://seriot.ch/computation/jira.html",
+    "Description": "Jira Is Turing-Complete",
+    "Metadata": {
+      "score": "236",
+      "author": "vinhnx",
+      "commentCount": "107"
+    },
+    "FetchedAt": "2026-05-25T14:39:43.1908609+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48260117"
+    },
+    "Type": 1,
+    "Title": "A fundamental principle of aeronautical engineering has been overturned",
+    "Url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+    "Description": "A fundamental principle of aeronautical engineering has been overturned",
+    "Metadata": {
+      "score": "197",
+      "author": "littlexsparkee",
+      "commentCount": "99"
+    },
+    "FetchedAt": "2026-05-25T14:39:43.2709443+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48265049"
+    },
+    "Type": 1,
+    "Title": "Rising seas will swallow New Orleans. People need to start relocating now",
+    "Url": "https://www.cnn.com/2026/05/25/climate/new-orleans-sea-level-rise-relocation",
+    "Description": "Rising seas will swallow New Orleans. People need to start relocating now",
+    "Metadata": {
+      "score": "65",
+      "author": "breve",
+      "commentCount": "62"
+    },
+    "FetchedAt": "2026-05-25T14:39:43.3134675+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48242546"
+    },
+    "Type": 1,
+    "Title": "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
+    "Url": "https://phabricator.services.mozilla.com/D301917",
+    "Description": "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
+    "Metadata": {
+      "score": "131",
+      "author": "luu",
+      "commentCount": "43"
+    },
+    "FetchedAt": "2026-05-25T14:39:43.3557876+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48253386"
+    },
+    "Type": 1,
+    "Title": "Microsoft open-sources \u201Cthe earliest DOS source code discovered to date\u201D",
+    "Url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;opensource.microsoft.com\u0026#x2F;blog\u0026#x2F;2026\u0026#x2F;04\u0026#x2F;28\u0026#x2F;continuing-the-story-of-early-dos-development\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;opensource.microsoft.com\u0026#x2F;blog\u0026#x2F;2026\u0026#x2F;04\u0026#x2F;28\u0026#x2F;continuing-...\u003C/a\u003E",
+    "Metadata": {
+      "score": "489",
+      "author": "DamnInteresting",
+      "commentCount": "178"
+    },
+    "FetchedAt": "2026-05-25T14:39:43.399011+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48240025"
+    },
+    "Type": 1,
+    "Title": "I love my Bluetooth keyboard",
+    "Url": "https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/",
+    "Description": "I love my Bluetooth keyboard",
+    "Metadata": {
+      "score": "124",
+      "author": "evakhoury",
+      "commentCount": "124"
+    },
+    "FetchedAt": "2026-05-25T14:39:43.4415503+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48259861"
+    },
+    "Type": 1,
+    "Title": "Defeating Git Rigour Fatigue with Jujutsu",
+    "Url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+    "Description": "Defeating Git Rigour Fatigue with Jujutsu",
+    "Metadata": {
+      "score": "155",
+      "author": "ikesau",
+      "commentCount": "150"
+    },
+    "FetchedAt": "2026-05-25T14:39:43.4847652+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48259192"
+    },
+    "Type": 1,
+    "Title": "Building Pi with Pi",
+    "Url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
+    "Description": "Building Pi with Pi",
+    "Metadata": {
+      "score": "137",
+      "author": "mplanchard",
+      "commentCount": "116"
+    },
+    "FetchedAt": "2026-05-25T14:39:43.5273249+00:00"
   }
 ]

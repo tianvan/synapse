@@ -1,23 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:Lum1104/Understand-Anything"
-    },
-    "Type": 0,
-    "Title": "Lum1104/Understand-Anything",
-    "Url": "https://github.com/Lum1104/Understand-Anything",
-    "Description": "Graphs that teach \u003E graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-    "Metadata": {
-      "owner": "Lum1104",
-      "repo": "Understand-Anything",
-      "language": "TypeScript",
-      "stars": "3,999",
-      "topics": "antigravity-skills, business-knowledge, claude-code, claude-skills, codebase-analysis, codex, codex-skills, developer-tools-ai-agent, gemini-cli-skills, karpathy-llm-wiki, knowledge-base, knowledge-graph, memory, opencode-skills, pi-agent, understandcode, vibe-coding"
-    },
-    "FetchedAt": "2026-05-25T09:53:32.0968666+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:anthropics/claude-plugins-official"
     },
     "Type": 0,
@@ -32,37 +15,6 @@
       "topics": "claude-code, mcp, skills"
     },
     "FetchedAt": "2026-05-25T09:53:32.2692503+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:anthropics/knowledge-work-plugins"
-    },
-    "Type": 0,
-    "Title": "anthropics/knowledge-work-plugins",
-    "Url": "https://github.com/anthropics/knowledge-work-plugins",
-    "Description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-    "Metadata": {
-      "owner": "anthropics",
-      "repo": "knowledge-work-plugins",
-      "language": "Python",
-      "stars": "550"
-    },
-    "FetchedAt": "2026-05-25T09:53:32.4065108+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:multica-ai/andrej-karpathy-skills"
-    },
-    "Type": 0,
-    "Title": "multica-ai/andrej-karpathy-skills",
-    "Url": "https://github.com/multica-ai/andrej-karpathy-skills",
-    "Description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy\u0027s observations on LLM coding pitfalls.",
-    "Metadata": {
-      "owner": "multica-ai",
-      "repo": "andrej-karpathy-skills",
-      "stars": "2,551"
-    },
-    "FetchedAt": "2026-05-25T09:53:32.5404903+00:00"
   },
   {
     "ExternalId": {
@@ -98,22 +50,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:colbymchenry/codegraph"
-    },
-    "Type": 0,
-    "Title": "colbymchenry/codegraph",
-    "Url": "https://github.com/colbymchenry/codegraph",
-    "Description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent \u2014 fewer tokens, fewer tool calls, 100% local",
-    "Metadata": {
-      "owner": "colbymchenry",
-      "repo": "codegraph",
-      "language": "TypeScript",
-      "stars": "3,003"
-    },
-    "FetchedAt": "2026-05-25T09:53:32.8906442+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:multica-ai/multica"
     },
     "Type": 0,
@@ -127,39 +63,6 @@
       "stars": "585"
     },
     "FetchedAt": "2026-05-25T09:53:32.9987678+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:shiyu-coder/Kronos"
-    },
-    "Type": 0,
-    "Title": "shiyu-coder/Kronos",
-    "Url": "https://github.com/shiyu-coder/Kronos",
-    "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "Metadata": {
-      "owner": "shiyu-coder",
-      "repo": "Kronos",
-      "language": "Python",
-      "stars": "106"
-    },
-    "FetchedAt": "2026-05-25T09:53:33.1139073+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:manaflow-ai/cmux"
-    },
-    "Type": 0,
-    "Title": "manaflow-ai/cmux",
-    "Url": "https://github.com/manaflow-ai/cmux",
-    "Description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
-    "Metadata": {
-      "owner": "manaflow-ai",
-      "repo": "cmux",
-      "language": "Swift",
-      "stars": "696",
-      "topics": "amp, claude-code, codex, gemini, ghostty, opencode, terminal, tmux"
-    },
-    "FetchedAt": "2026-05-25T09:53:33.2258544+00:00"
   },
   {
     "ExternalId": {
@@ -211,5 +114,200 @@
       "topics": "agent-skills"
     },
     "FetchedAt": "2026-05-25T09:53:33.6162355+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Lum1104/Understand-Anything"
+    },
+    "Type": 0,
+    "Title": "Lum1104/Understand-Anything",
+    "Url": "https://github.com/Lum1104/Understand-Anything",
+    "Description": "Graphs that teach \u003E graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+    "Metadata": {
+      "owner": "Lum1104",
+      "repo": "Understand-Anything",
+      "language": "TypeScript",
+      "stars": "5,625",
+      "topics": "antigravity-skills, business-knowledge, claude-code, claude-skills, codebase-analysis, codex, codex-skills, developer-tools-ai-agent, gemini-cli-skills, karpathy-llm-wiki, knowledge-base, knowledge-graph, memory, opencode-skills, pi-agent, understandcode, vibe-coding"
+    },
+    "FetchedAt": "2026-05-25T14:39:39.7086598+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/knowledge-work-plugins"
+    },
+    "Type": 0,
+    "Title": "anthropics/knowledge-work-plugins",
+    "Url": "https://github.com/anthropics/knowledge-work-plugins",
+    "Description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "knowledge-work-plugins",
+      "language": "Python",
+      "stars": "1,448"
+    },
+    "FetchedAt": "2026-05-25T14:39:40.0062909+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:colbymchenry/codegraph"
+    },
+    "Type": 0,
+    "Title": "colbymchenry/codegraph",
+    "Url": "https://github.com/colbymchenry/codegraph",
+    "Description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent \u2014 fewer tokens, fewer tool calls, 100% local",
+    "Metadata": {
+      "owner": "colbymchenry",
+      "repo": "codegraph",
+      "language": "TypeScript",
+      "stars": "3,171"
+    },
+    "FetchedAt": "2026-05-25T14:39:40.1717722+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:manaflow-ai/cmux"
+    },
+    "Type": 0,
+    "Title": "manaflow-ai/cmux",
+    "Url": "https://github.com/manaflow-ai/cmux",
+    "Description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+    "Metadata": {
+      "owner": "manaflow-ai",
+      "repo": "cmux",
+      "language": "Swift",
+      "stars": "598",
+      "topics": "amp, claude-code, codex, gemini, ghostty, opencode, terminal, tmux"
+    },
+    "FetchedAt": "2026-05-25T14:39:40.3481727+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:multica-ai/andrej-karpathy-skills"
+    },
+    "Type": 0,
+    "Title": "multica-ai/andrej-karpathy-skills",
+    "Url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "Description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy\u0027s observations on LLM coding pitfalls.",
+    "Metadata": {
+      "owner": "multica-ai",
+      "repo": "andrej-karpathy-skills",
+      "stars": "2,753"
+    },
+    "FetchedAt": "2026-05-25T14:39:40.5214791+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:paperless-ngx/paperless-ngx"
+    },
+    "Type": 0,
+    "Title": "paperless-ngx/paperless-ngx",
+    "Url": "https://github.com/paperless-ngx/paperless-ngx",
+    "Description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+    "Metadata": {
+      "owner": "paperless-ngx",
+      "repo": "paperless-ngx",
+      "language": "Python",
+      "stars": "151",
+      "topics": "angular, archiving, django, dms, document-management, document-management-system, hacktoberfest, machine-learning, ocr, optical-character-recognition, pdf"
+    },
+    "FetchedAt": "2026-05-25T14:39:40.686458+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-cookbooks"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-cookbooks",
+    "Url": "https://github.com/anthropics/claude-cookbooks",
+    "Description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-cookbooks",
+      "language": "Jupyter Notebook",
+      "stars": "108"
+    },
+    "FetchedAt": "2026-05-25T14:39:40.8501568+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:moeru-ai/airi"
+    },
+    "Type": 0,
+    "Title": "moeru-ai/airi",
+    "Url": "https://github.com/moeru-ai/airi",
+    "Description": "\uD83D\uDC96\uD83E\uDDF8 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama\u0027s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "Metadata": {
+      "owner": "moeru-ai",
+      "repo": "airi",
+      "language": "TypeScript",
+      "stars": "32",
+      "topics": "ai-companion, ai-vtuber, airi, digital-life, grok-companion, live2d, neuro-sama, neurosama, openclaw, vrm, vtuber"
+    },
+    "FetchedAt": "2026-05-25T14:39:41.0268212+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:shiyu-coder/Kronos"
+    },
+    "Type": 0,
+    "Title": "shiyu-coder/Kronos",
+    "Url": "https://github.com/shiyu-coder/Kronos",
+    "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "Metadata": {
+      "owner": "shiyu-coder",
+      "repo": "Kronos",
+      "language": "Python",
+      "stars": "243"
+    },
+    "FetchedAt": "2026-05-25T14:39:41.1947106+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Axorax/awesome-free-apps"
+    },
+    "Type": 0,
+    "Title": "Axorax/awesome-free-apps",
+    "Url": "https://github.com/Axorax/awesome-free-apps",
+    "Description": "Curated list of the best free apps for PC and mobile",
+    "Metadata": {
+      "owner": "Axorax",
+      "repo": "awesome-free-apps",
+      "language": "JavaScript",
+      "stars": "141",
+      "topics": "android, awesome, awesome-list, free-apps, ios, linux, macos, microsoft, mobile, windows"
+    },
+    "FetchedAt": "2026-05-25T14:39:41.3622127+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:hardikpandya/stop-slop"
+    },
+    "Type": 0,
+    "Title": "hardikpandya/stop-slop",
+    "Url": "https://github.com/hardikpandya/stop-slop",
+    "Description": "A skill file for removing AI tells from prose",
+    "Metadata": {
+      "owner": "hardikpandya",
+      "repo": "stop-slop",
+      "stars": "353"
+    },
+    "FetchedAt": "2026-05-25T14:39:41.5175716+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:garrytan/gstack"
+    },
+    "Type": 0,
+    "Title": "garrytan/gstack",
+    "Url": "https://github.com/garrytan/gstack",
+    "Description": "Use Garry Tan\u0027s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "Metadata": {
+      "owner": "garrytan",
+      "repo": "gstack",
+      "language": "TypeScript",
+      "stars": "600"
+    },
+    "FetchedAt": "2026-05-25T14:39:41.6866026+00:00"
   }
 ]
