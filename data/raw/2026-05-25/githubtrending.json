@@ -1,0 +1,215 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:Lum1104/Understand-Anything"
+    },
+    "Type": 0,
+    "Title": "Lum1104/Understand-Anything",
+    "Url": "https://github.com/Lum1104/Understand-Anything",
+    "Description": "Graphs that teach \u003E graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+    "Metadata": {
+      "owner": "Lum1104",
+      "repo": "Understand-Anything",
+      "language": "TypeScript",
+      "stars": "3,999",
+      "topics": "antigravity-skills, business-knowledge, claude-code, claude-skills, codebase-analysis, codex, codex-skills, developer-tools-ai-agent, gemini-cli-skills, karpathy-llm-wiki, knowledge-base, knowledge-graph, memory, opencode-skills, pi-agent, understandcode, vibe-coding"
+    },
+    "FetchedAt": "2026-05-25T02:43:45.157324+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-plugins-official"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-plugins-official",
+    "Url": "https://github.com/anthropics/claude-plugins-official",
+    "Description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-plugins-official",
+      "language": "Python",
+      "stars": "1,173",
+      "topics": "claude-code, mcp, skills"
+    },
+    "FetchedAt": "2026-05-25T02:43:45.4417168+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/knowledge-work-plugins"
+    },
+    "Type": 0,
+    "Title": "anthropics/knowledge-work-plugins",
+    "Url": "https://github.com/anthropics/knowledge-work-plugins",
+    "Description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "knowledge-work-plugins",
+      "language": "Python",
+      "stars": "550"
+    },
+    "FetchedAt": "2026-05-25T02:43:45.6169526+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:multica-ai/andrej-karpathy-skills"
+    },
+    "Type": 0,
+    "Title": "multica-ai/andrej-karpathy-skills",
+    "Url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "Description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy\u0027s observations on LLM coding pitfalls.",
+    "Metadata": {
+      "owner": "multica-ai",
+      "repo": "andrej-karpathy-skills",
+      "stars": "2,551"
+    },
+    "FetchedAt": "2026-05-25T02:43:45.7706813+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:earendil-works/pi"
+    },
+    "Type": 0,
+    "Title": "earendil-works/pi",
+    "Url": "https://github.com/earendil-works/pi",
+    "Description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI \u0026 web UI libraries, Slack bot, vLLM pods",
+    "Metadata": {
+      "owner": "earendil-works",
+      "repo": "pi",
+      "language": "TypeScript",
+      "stars": "456"
+    },
+    "FetchedAt": "2026-05-25T02:43:45.9339844+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Alishahryar1/free-claude-code"
+    },
+    "Type": 0,
+    "Title": "Alishahryar1/free-claude-code",
+    "Url": "https://github.com/Alishahryar1/free-claude-code",
+    "Description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+    "Metadata": {
+      "owner": "Alishahryar1",
+      "repo": "free-claude-code",
+      "language": "Python",
+      "stars": "553"
+    },
+    "FetchedAt": "2026-05-25T02:43:46.0852829+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:colbymchenry/codegraph"
+    },
+    "Type": 0,
+    "Title": "colbymchenry/codegraph",
+    "Url": "https://github.com/colbymchenry/codegraph",
+    "Description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent \u2014 fewer tokens, fewer tool calls, 100% local",
+    "Metadata": {
+      "owner": "colbymchenry",
+      "repo": "codegraph",
+      "language": "TypeScript",
+      "stars": "3,003"
+    },
+    "FetchedAt": "2026-05-25T02:43:46.2182439+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:multica-ai/multica"
+    },
+    "Type": 0,
+    "Title": "multica-ai/multica",
+    "Url": "https://github.com/multica-ai/multica",
+    "Description": "The open-source managed agents platform. Turn coding agents into real teammates \u2014 assign tasks, track progress, compound skills.",
+    "Metadata": {
+      "owner": "multica-ai",
+      "repo": "multica",
+      "language": "TypeScript",
+      "stars": "585"
+    },
+    "FetchedAt": "2026-05-25T02:43:46.3495689+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:shiyu-coder/Kronos"
+    },
+    "Type": 0,
+    "Title": "shiyu-coder/Kronos",
+    "Url": "https://github.com/shiyu-coder/Kronos",
+    "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "Metadata": {
+      "owner": "shiyu-coder",
+      "repo": "Kronos",
+      "language": "Python",
+      "stars": "106"
+    },
+    "FetchedAt": "2026-05-25T02:43:46.5003616+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:manaflow-ai/cmux"
+    },
+    "Type": 0,
+    "Title": "manaflow-ai/cmux",
+    "Url": "https://github.com/manaflow-ai/cmux",
+    "Description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+    "Metadata": {
+      "owner": "manaflow-ai",
+      "repo": "cmux",
+      "language": "Swift",
+      "stars": "696",
+      "topics": "amp, claude-code, codex, gemini, ghostty, opencode, terminal, tmux"
+    },
+    "FetchedAt": "2026-05-25T02:43:46.6387941+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:666ghj/MiroFish"
+    },
+    "Type": 0,
+    "Title": "666ghj/MiroFish",
+    "Url": "https://github.com/666ghj/MiroFish",
+    "Description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. \u7B80\u6D01\u901A\u7528\u7684\u7FA4\u4F53\u667A\u80FD\u5F15\u64CE\uFF0C\u9884\u6D4B\u4E07\u7269",
+    "Metadata": {
+      "owner": "666ghj",
+      "repo": "MiroFish",
+      "language": "Python",
+      "stars": "197",
+      "topics": "agent-memory, financial-forecasting, future-prediction, knowledge-graph, llms, multi-agent-simulation, public-opinion-analysis, python3, social-prediction, swarm-intelligence"
+    },
+    "FetchedAt": "2026-05-25T02:43:46.79966+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:codecrafters-io/build-your-own-x"
+    },
+    "Type": 0,
+    "Title": "codecrafters-io/build-your-own-x",
+    "Url": "https://github.com/codecrafters-io/build-your-own-x",
+    "Description": "Master programming by recreating your favorite technologies from scratch.",
+    "Metadata": {
+      "owner": "codecrafters-io",
+      "repo": "build-your-own-x",
+      "language": "Markdown",
+      "stars": "550",
+      "topics": "awesome-list, free, programming, tutorial-code, tutorial-exercises, tutorials"
+    },
+    "FetchedAt": "2026-05-25T02:43:46.9298437+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:dotnet/skills"
+    },
+    "Type": 0,
+    "Title": "dotnet/skills",
+    "Url": "https://github.com/dotnet/skills",
+    "Description": "Repository for skills to assist AI coding agents with .NET and C#",
+    "Metadata": {
+      "owner": "dotnet",
+      "repo": "skills",
+      "language": "C#",
+      "stars": "183",
+      "topics": "agent-skills"
+    },
+    "FetchedAt": "2026-05-25T02:43:47.1059362+00:00"
+  }
+]
