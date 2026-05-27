@@ -466,66 +466,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48291947"
-    },
-    "Type": 1,
-    "Title": "Mini Micro Fantasy Computer",
-    "Url": "https://miniscript.org/MiniMicro/index.html#about",
-    "Description": "Mini Micro Fantasy Computer",
-    "Metadata": {
-      "score": "138",
-      "author": "nicoloren",
-      "commentCount": "57"
-    },
-    "FetchedAt": "2026-05-27T14:59:53.3817592+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48293014"
-    },
-    "Type": 1,
-    "Title": "XLIDE: VBA without excel",
-    "Url": "https://github.com/WilliamSmithEdward/xlide_vscode",
-    "Description": "XLIDE: VBA without excel",
-    "Metadata": {
-      "score": "34",
-      "author": "sts153",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-05-27T14:59:53.4119114+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48247005"
-    },
-    "Type": 1,
-    "Title": "Matrix Multiplications on GPUs Run Faster When Given \u0022Predictable\u0022 Data",
-    "Url": "https://www.thonking.ai/p/strangely-matrix-multiplications",
-    "Description": "Matrix Multiplications on GPUs Run Faster When Given \u0022Predictable\u0022 Data",
-    "Metadata": {
-      "score": "52",
-      "author": "tosh",
-      "commentCount": "8"
-    },
-    "FetchedAt": "2026-05-27T14:59:53.4432333+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48291225"
-    },
-    "Type": 1,
-    "Title": "All of human cooking compressed into 2 megabytes",
-    "Url": "https://arxiv.org/abs/2605.22391",
-    "Description": "All of human cooking compressed into 2 megabytes",
-    "Metadata": {
-      "score": "161",
-      "author": "josefchen",
-      "commentCount": "65"
-    },
-    "FetchedAt": "2026-05-27T14:59:53.4736627+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48284711"
     },
     "Type": 1,
@@ -568,36 +508,6 @@
       "commentCount": "243"
     },
     "FetchedAt": "2026-05-27T14:59:53.5645898+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48277723"
-    },
-    "Type": 1,
-    "Title": "Raft Consensus with a Minority of Nodes",
-    "Url": "https://padhye.org/raft-minority/",
-    "Description": "Raft Consensus with a Minority of Nodes",
-    "Metadata": {
-      "score": "86",
-      "author": "moarbugs",
-      "commentCount": "10"
-    },
-    "FetchedAt": "2026-05-27T14:59:53.6049543+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48287468"
-    },
-    "Type": 1,
-    "Title": "Cloudflare Flagship",
-    "Url": "https://developers.cloudflare.com/flagship/",
-    "Description": "Cloudflare Flagship",
-    "Metadata": {
-      "score": "297",
-      "author": "tjek",
-      "commentCount": "153"
-    },
-    "FetchedAt": "2026-05-27T14:59:53.6362359+00:00"
   },
   {
     "ExternalId": {
@@ -703,21 +613,6 @@
       "commentCount": "357"
     },
     "FetchedAt": "2026-05-27T14:59:53.8732538+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48268185"
-    },
-    "Type": 1,
-    "Title": "My new obsession: A horse-racing board game of pure luck",
-    "Url": "https://alexanderbjoy.com/horse-race-board-game/",
-    "Description": "My new obsession: A horse-racing board game of pure luck",
-    "Metadata": {
-      "score": "4",
-      "author": "surprisetalk",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-05-27T14:59:53.9048957+00:00"
   },
   {
     "ExternalId": {
@@ -898,5 +793,455 @@
       "commentCount": "32"
     },
     "FetchedAt": "2026-05-27T14:59:54.2788162+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48296794"
+    },
+    "Type": 1,
+    "Title": "I think Anthropic and OpenAI have found product-market fit",
+    "Url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+    "Description": "I think Anthropic and OpenAI have found product-market fit",
+    "Metadata": {
+      "score": "327",
+      "author": "simonw",
+      "commentCount": "411"
+    },
+    "FetchedAt": "2026-05-27T20:05:00.6475708+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48297645"
+    },
+    "Type": 1,
+    "Title": "SimCity 3k in 4k (2025)",
+    "Url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+    "Description": "SimCity 3k in 4k (2025)",
+    "Metadata": {
+      "score": "149",
+      "author": "speckx",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-05-27T20:05:00.7074553+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48299220"
+    },
+    "Type": 1,
+    "Title": "What Apple and Google are doing to your push notifications",
+    "Url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+    "Description": "What Apple and Google are doing to your push notifications",
+    "Metadata": {
+      "score": "32",
+      "author": "iamacyborg",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-05-27T20:05:00.7616972+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48299753"
+    },
+    "Type": 1,
+    "Title": "YouTube to automatically label AI-generated videos",
+    "Url": "https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/",
+    "Description": "YouTube to automatically label AI-generated videos",
+    "Metadata": {
+      "score": "11",
+      "author": "nopg",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-05-27T20:05:00.8022347+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48296649"
+    },
+    "Type": 1,
+    "Title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+    "Url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+    "Description": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+    "Metadata": {
+      "score": "398",
+      "author": "HelloUsername",
+      "commentCount": "208"
+    },
+    "FetchedAt": "2026-05-27T20:05:00.8398046+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48295892"
+    },
+    "Type": 1,
+    "Title": "Last.fm is now independent",
+    "Url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
+    "Description": "Last.fm is now independent",
+    "Metadata": {
+      "score": "426",
+      "author": "twistslider",
+      "commentCount": "127"
+    },
+    "FetchedAt": "2026-05-27T20:05:00.9139381+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48296994"
+    },
+    "Type": 1,
+    "Title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
+    "Url": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
+    "Description": "Canada to order military plane fleet from Sweden in shift from US suppliers",
+    "Metadata": {
+      "score": "145",
+      "author": "tosh",
+      "commentCount": "62"
+    },
+    "FetchedAt": "2026-05-27T20:05:00.9488613+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48266323"
+    },
+    "Type": 1,
+    "Title": "In-Browser Container Builds",
+    "Url": "https://ochagavia.nl/blog/fully-in-browser-container-builds/",
+    "Description": "In-Browser Container Builds",
+    "Metadata": {
+      "score": "28",
+      "author": "wofo",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-05-27T20:05:00.983198+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48291947"
+    },
+    "Type": 1,
+    "Title": "Mini Micro Fantasy Computer",
+    "Url": "https://miniscript.org/MiniMicro/index.html#about",
+    "Description": "Mini Micro Fantasy Computer",
+    "Metadata": {
+      "score": "211",
+      "author": "nicoloren",
+      "commentCount": "78"
+    },
+    "FetchedAt": "2026-05-27T20:05:01.0157893+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48295679"
+    },
+    "Type": 1,
+    "Title": "Tech CEOs are apparently suffering from AI psychosis",
+    "Url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+    "Description": "Tech CEOs are apparently suffering from AI psychosis",
+    "Metadata": {
+      "score": "375",
+      "author": "IAmGraydon",
+      "commentCount": "184"
+    },
+    "FetchedAt": "2026-05-27T20:05:01.056565+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48297976"
+    },
+    "Type": 1,
+    "Title": "Valve raises Steam Deck prices by more than $200",
+    "Url": "https://www.theverge.com/games/938340/valve-steam-deck-price-increase",
+    "Description": "Valve raises Steam Deck prices by more than $200",
+    "Metadata": {
+      "score": "137",
+      "author": "droidjj",
+      "commentCount": "96"
+    },
+    "FetchedAt": "2026-05-27T20:05:01.1137262+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48297116"
+    },
+    "Type": 1,
+    "Title": "Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles",
+    "Url": "https://www.ycombinator.com/companies/reflex/jobs",
+    "Description": "Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles",
+    "Metadata": {
+      "score": "1",
+      "author": "apetuskey",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-27T20:05:01.1456693+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48296622"
+    },
+    "Type": 1,
+    "Title": "Stress disrupts hippocampal integration of overlapping events, memory inference",
+    "Url": "https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08",
+    "Description": "Stress disrupts hippocampal integration of overlapping events, memory inference",
+    "Metadata": {
+      "score": "22",
+      "author": "gmays",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-27T20:05:01.1827139+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48297723"
+    },
+    "Type": 1,
+    "Title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
+    "Url": "https://arxiv.org/abs/2605.21779",
+    "Description": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
+    "Metadata": {
+      "score": "17",
+      "author": "root-parent",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-05-27T20:05:01.2426176+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48297467"
+    },
+    "Type": 1,
+    "Title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+    "Url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
+    "Description": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+    "Metadata": {
+      "score": "41",
+      "author": "ChrisArchitect",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-05-27T20:05:01.3035164+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48299335"
+    },
+    "Type": 1,
+    "Title": "On Labubu and the Hyperreal",
+    "Url": "https://2earth.github.io/website/20260525.html",
+    "Description": "On Labubu and the Hyperreal",
+    "Metadata": {
+      "score": "3",
+      "author": "2earth",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-27T20:05:01.360016+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48247005"
+    },
+    "Type": 1,
+    "Title": "Matrix Multiplications on GPUs Run Faster When Given \u0022Predictable\u0022 Data (2024)",
+    "Url": "https://www.thonking.ai/p/strangely-matrix-multiplications",
+    "Description": "Matrix Multiplications on GPUs Run Faster When Given \u0022Predictable\u0022 Data (2024)",
+    "Metadata": {
+      "score": "125",
+      "author": "tosh",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-05-27T20:05:01.4032438+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48296359"
+    },
+    "Type": 1,
+    "Title": "Training our own AI models",
+    "Url": "https://posthog.com/blog/training-ai-models",
+    "Description": "Training our own AI models",
+    "Metadata": {
+      "score": "164",
+      "author": "tartieret",
+      "commentCount": "108"
+    },
+    "FetchedAt": "2026-05-27T20:05:01.4407486+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48291225"
+    },
+    "Type": 1,
+    "Title": "All of human cooking compressed into 2 megabytes",
+    "Url": "https://arxiv.org/abs/2605.22391",
+    "Description": "All of human cooking compressed into 2 megabytes",
+    "Metadata": {
+      "score": "309",
+      "author": "josefchen",
+      "commentCount": "124"
+    },
+    "FetchedAt": "2026-05-27T20:05:01.4726943+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48262703"
+    },
+    "Type": 1,
+    "Title": "Freediving, Embodiment and Humanity \u2013 Joanna Rutkowska",
+    "Url": "https://tracesofhumanity.org/freediving-embodiment-and-humanity/",
+    "Description": "Freediving, Embodiment and Humanity \u2013 Joanna Rutkowska",
+    "Metadata": {
+      "score": "4",
+      "author": "transpute",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-27T20:05:01.5116126+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48270514"
+    },
+    "Type": 1,
+    "Title": "A Comma and a Question Mark, Redux: Quick Terminal Helpers Using Pi",
+    "Url": "https://z3ugma.github.io/2026/05/25/a-comma-and-a-question-mark/",
+    "Description": "A Comma and a Question Mark, Redux: Quick Terminal Helpers Using Pi",
+    "Metadata": {
+      "score": "22",
+      "author": "z3ugma",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-05-27T20:05:01.5476101+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48295071"
+    },
+    "Type": 1,
+    "Title": "Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS",
+    "Url": "https://tinycld.org/",
+    "Description": "Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS",
+    "Metadata": {
+      "score": "41",
+      "author": "nathanstitt",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-05-27T20:05:01.5796922+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48294791"
+    },
+    "Type": 1,
+    "Title": "Show HN: I made an emergency page for my family",
+    "Url": "https://help.delduca.org",
+    "Description": "I have a bad memory and can\u0026#x27;t memorize some important numbers, so I created this project.\u003Cp\u003EI\u0026#x27;ve always been concerned about being without my phone (getting robbed - which is common in Brazil - running out of battery, having it break, etc.), so I decided to create a page that sends SMS messages (LLM-summarized) and emails with more detailed information such as geolocation, IP address, and the full message.\u003Cp\u003EIt\u2019s a simple page that allows sending one or more messages, with recipients b",
+    "Metadata": {
+      "score": "56",
+      "author": "delduca",
+      "commentCount": "67"
+    },
+    "FetchedAt": "2026-05-27T20:05:01.611798+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48268185"
+    },
+    "Type": 1,
+    "Title": "My new obsession: A horse-racing board game of pure luck",
+    "Url": "https://alexanderbjoy.com/horse-race-board-game/",
+    "Description": "My new obsession: A horse-racing board game of pure luck",
+    "Metadata": {
+      "score": "42",
+      "author": "surprisetalk",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-05-27T20:05:01.6451833+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48264328"
+    },
+    "Type": 1,
+    "Title": "Theseus: Translating Win32 to WASM",
+    "Url": "https://neugierig.org/software/blog/2026/05/theseus-wasm.html",
+    "Description": "Theseus: Translating Win32 to WASM",
+    "Metadata": {
+      "score": "49",
+      "author": "ingve",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-05-27T20:05:01.6769553+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48254336"
+    },
+    "Type": 1,
+    "Title": "Human Bottlenecks",
+    "Url": "https://borretti.me/article/human-bottlenecks",
+    "Description": "Human Bottlenecks",
+    "Metadata": {
+      "score": "18",
+      "author": "zdw",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-05-27T20:05:01.7107243+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48293014"
+    },
+    "Type": 1,
+    "Title": "XLIDE: VBA without excel",
+    "Url": "https://github.com/WilliamSmithEdward/xlide_vscode",
+    "Description": "XLIDE: VBA without excel",
+    "Metadata": {
+      "score": "54",
+      "author": "sts153",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-05-27T20:05:01.7427018+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48287468"
+    },
+    "Type": 1,
+    "Title": "Cloudflare Flagship",
+    "Url": "https://developers.cloudflare.com/flagship/",
+    "Description": "Cloudflare Flagship",
+    "Metadata": {
+      "score": "334",
+      "author": "tjek",
+      "commentCount": "165"
+    },
+    "FetchedAt": "2026-05-27T20:05:01.7752422+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48277723"
+    },
+    "Type": 1,
+    "Title": "Raft Consensus with a Minority of Nodes",
+    "Url": "https://padhye.org/raft-minority/",
+    "Description": "Raft Consensus with a Minority of Nodes",
+    "Metadata": {
+      "score": "110",
+      "author": "moarbugs",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-05-27T20:05:01.8073445+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48292560"
+    },
+    "Type": 1,
+    "Title": "Atomically precise mechanosynthesis of carbon structures on hydrogenated Silicon",
+    "Url": "https://arxiv.org/abs/2605.27250",
+    "Description": "Atomically precise mechanosynthesis of carbon structures on hydrogenated Silicon",
+    "Metadata": {
+      "score": "47",
+      "author": "gene-h",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-05-27T20:05:01.8394657+00:00"
   }
 ]
