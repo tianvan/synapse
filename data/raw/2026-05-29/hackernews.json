@@ -526,36 +526,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48322389"
-    },
-    "Type": 1,
-    "Title": "Local Git Remotes",
-    "Url": "https://cblgh.org/posts/local-git-remotes/",
-    "Description": "Local Git Remotes",
-    "Metadata": {
-      "score": "31",
-      "author": "surprisetalk",
-      "commentCount": "21"
-    },
-    "FetchedAt": "2026-05-29T14:46:25.8272724+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48322241"
-    },
-    "Type": 1,
-    "Title": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building",
-    "Url": "https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/",
-    "Description": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building",
-    "Metadata": {
-      "score": "27",
-      "author": "surprisetalk",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-05-29T14:46:25.8860731+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48321264"
     },
     "Type": 1,
@@ -571,21 +541,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48322267"
-    },
-    "Type": 1,
-    "Title": "Poll: How often do you check \u0022newest\u0022?",
-    "Url": "https://news.ycombinator.com/item?id=48322267",
-    "Description": "Poll: How often do you check \u0022newest\u0022?",
-    "Metadata": {
-      "score": "13",
-      "author": "ColinWright",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-05-29T14:46:26.0034774+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48318174"
     },
     "Type": 1,
@@ -598,36 +553,6 @@
       "commentCount": "51"
     },
     "FetchedAt": "2026-05-29T14:46:26.0609278+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48322030"
-    },
-    "Type": 1,
-    "Title": "Cedana (YC S23) Is Hiring",
-    "Url": "https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc",
-    "Description": "Cedana (YC S23) Is Hiring",
-    "Metadata": {
-      "score": "1",
-      "author": "neelm",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-05-29T14:46:26.1180664+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48321076"
-    },
-    "Type": 1,
-    "Title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
-    "Url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
-    "Description": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
-    "Metadata": {
-      "score": "104",
-      "author": "NicoConstant",
-      "commentCount": "52"
-    },
-    "FetchedAt": "2026-05-29T14:46:26.175299+00:00"
   },
   {
     "ExternalId": {
@@ -691,36 +616,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48322118"
-    },
-    "Type": 1,
-    "Title": "We should be more tired than the model",
-    "Url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
-    "Description": "We should be more tired than the model",
-    "Metadata": {
-      "score": "69",
-      "author": "tosh",
-      "commentCount": "69"
-    },
-    "FetchedAt": "2026-05-29T14:46:26.4648369+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48322929"
-    },
-    "Type": 1,
-    "Title": "Expertise in the Age of AI",
-    "Url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
-    "Description": "Expertise in the Age of AI",
-    "Metadata": {
-      "score": "5",
-      "author": "brilee",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-05-29T14:46:26.5221439+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48318522"
     },
     "Type": 1,
@@ -778,21 +673,6 @@
       "commentCount": "41"
     },
     "FetchedAt": "2026-05-29T14:46:26.7562342+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48321631"
-    },
-    "Type": 1,
-    "Title": "Is AI causing a repeat of Front end\u0027s Lost Decade?",
-    "Url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
-    "Description": "Is AI causing a repeat of Front end\u0027s Lost Decade?",
-    "Metadata": {
-      "score": "143",
-      "author": "xyzal",
-      "commentCount": "142"
-    },
-    "FetchedAt": "2026-05-29T14:46:26.8172611+00:00"
   },
   {
     "ExternalId": {
@@ -898,5 +778,455 @@
       "commentCount": "1"
     },
     "FetchedAt": "2026-05-29T14:46:27.2249728+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48326802"
+    },
+    "Type": 1,
+    "Title": "SQLite is all you need for durable workflows",
+    "Url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+    "Description": "SQLite is all you need for durable workflows",
+    "Metadata": {
+      "score": "147",
+      "author": "tomasol",
+      "commentCount": "75"
+    },
+    "FetchedAt": "2026-05-29T20:10:54.3883281+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48324712"
+    },
+    "Type": 1,
+    "Title": "The dead economy theory",
+    "Url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+    "Description": "The dead economy theory",
+    "Metadata": {
+      "score": "353",
+      "author": "WillDaSilva",
+      "commentCount": "477"
+    },
+    "FetchedAt": "2026-05-29T20:10:54.4461284+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48325340"
+    },
+    "Type": 1,
+    "Title": "Notes from the Mistral AI Now Summit in Paris",
+    "Url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+    "Description": "Notes from the Mistral AI Now Summit in Paris",
+    "Metadata": {
+      "score": "227",
+      "author": "vnglst",
+      "commentCount": "57"
+    },
+    "FetchedAt": "2026-05-29T20:10:54.5250604+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48328365"
+    },
+    "Type": 1,
+    "Title": "The California State Assembly Has Passed the \u0027Protect Our Games Act\u0027",
+    "Url": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
+    "Description": "The California State Assembly Has Passed the \u0027Protect Our Games Act\u0027",
+    "Metadata": {
+      "score": "17",
+      "author": "TechTechTech",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-29T20:10:54.5817279+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48327809"
+    },
+    "Type": 1,
+    "Title": "On Rendering Diffs",
+    "Url": "https://pierre.computer/writing/on-rendering-diffs",
+    "Description": "On Rendering Diffs",
+    "Metadata": {
+      "score": "52",
+      "author": "amadeus",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-05-29T20:10:54.6409729+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48327367"
+    },
+    "Type": 1,
+    "Title": "Rothko for your current weather conditions",
+    "Url": "https://rothko.joonas.wtf/",
+    "Description": "Rothko for your current weather conditions",
+    "Metadata": {
+      "score": "55",
+      "author": "jxmorris12",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-05-29T20:10:54.71364+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48323992"
+    },
+    "Type": 1,
+    "Title": "Bijou64: A variable-length integer encoding",
+    "Url": "https://www.inkandswitch.com/tangents/bijou64/",
+    "Description": "Bijou64: A variable-length integer encoding",
+    "Metadata": {
+      "score": "173",
+      "author": "justinweiss",
+      "commentCount": "63"
+    },
+    "FetchedAt": "2026-05-29T20:10:54.814194+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48323869"
+    },
+    "Type": 1,
+    "Title": "It\u0027s hard to justify buying a Framework 12",
+    "Url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=aPVAnwuSjfk\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=aPVAnwuSjfk\u003C/a\u003E",
+    "Metadata": {
+      "score": "137",
+      "author": "watermelon0",
+      "commentCount": "229"
+    },
+    "FetchedAt": "2026-05-29T20:10:54.8794376+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48325306"
+    },
+    "Type": 1,
+    "Title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+    "Url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+    "Description": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+    "Metadata": {
+      "score": "65",
+      "author": "simjnd",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-05-29T20:10:54.9410399+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48324499"
+    },
+    "Type": 1,
+    "Title": "GTA 6 Developers Unionize",
+    "Url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+    "Description": "GTA 6 Developers Unionize",
+    "Metadata": {
+      "score": "429",
+      "author": "AndrewKemendo",
+      "commentCount": "267"
+    },
+    "FetchedAt": "2026-05-29T20:10:55.0127251+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48327962"
+    },
+    "Type": 1,
+    "Title": "Shift will clean homes for free to train future robots",
+    "Url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+    "Description": "Shift will clean homes for free to train future robots",
+    "Metadata": {
+      "score": "9",
+      "author": "evilsimon",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-05-29T20:10:55.0690896+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48326561"
+    },
+    "Type": 1,
+    "Title": "Letter from the Duke of Wellington to the British Foreign Office (1809)",
+    "Url": "https://wellsoc.org/society-member-pages/anecdotes-of-wellington/",
+    "Description": "Slightly more readable link: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;cns.gatech.edu\u0026#x2F;CNS\u0026#x2F;GTaccountProcs.pdf\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;cns.gatech.edu\u0026#x2F;CNS\u0026#x2F;GTaccountProcs.pdf\u003C/a\u003E",
+    "Metadata": {
+      "score": "25",
+      "author": "backuprestore",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-05-29T20:10:55.1952479+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48325624"
+    },
+    "Type": 1,
+    "Title": "Show HN: TV Explorer. Adding advanced UI to free online TV",
+    "Url": "https://tvexplorer.live",
+    "Description": "Show HN: TV Explorer. Adding advanced UI to free online TV",
+    "Metadata": {
+      "score": "51",
+      "author": "dtagames",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-05-29T20:10:55.2514319+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48324910"
+    },
+    "Type": 1,
+    "Title": "CAPTCHAs can still detect AI agents",
+    "Url": "https://research.roundtable.ai/captchas-detect-ai/",
+    "Description": "CAPTCHAs can still detect AI agents",
+    "Metadata": {
+      "score": "52",
+      "author": "timshell",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-05-29T20:10:55.309255+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48321631"
+    },
+    "Type": 1,
+    "Title": "Is AI causing a repeat of frontend\u2019s lost decade?",
+    "Url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+    "Description": "Is AI causing a repeat of frontend\u2019s lost decade?",
+    "Metadata": {
+      "score": "212",
+      "author": "xyzal",
+      "commentCount": "197"
+    },
+    "FetchedAt": "2026-05-29T20:10:55.36575+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48326659"
+    },
+    "Type": 1,
+    "Title": "Robinhood now lets your AI agents trade stocks",
+    "Url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+    "Description": "Robinhood now lets your AI agents trade stocks",
+    "Metadata": {
+      "score": "58",
+      "author": "wapasta",
+      "commentCount": "95"
+    },
+    "FetchedAt": "2026-05-29T20:10:55.4217353+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48322241"
+    },
+    "Type": 1,
+    "Title": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building",
+    "Url": "https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/",
+    "Description": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building",
+    "Metadata": {
+      "score": "127",
+      "author": "surprisetalk",
+      "commentCount": "47"
+    },
+    "FetchedAt": "2026-05-29T20:10:55.4784647+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48322118"
+    },
+    "Type": 1,
+    "Title": "We should be more tired than the model",
+    "Url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
+    "Description": "We should be more tired than the model",
+    "Metadata": {
+      "score": "123",
+      "author": "tosh",
+      "commentCount": "100"
+    },
+    "FetchedAt": "2026-05-29T20:10:55.5356073+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48328088"
+    },
+    "Type": 1,
+    "Title": "CVE-Bench: testing LLM agents on real-world vulnerability patches",
+    "Url": "https://giovannigatti.github.io/cve-bench/",
+    "Description": "CVE-Bench: testing LLM agents on real-world vulnerability patches",
+    "Metadata": {
+      "score": "4",
+      "author": "logickkk1",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-29T20:10:55.5928501+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48323683"
+    },
+    "Type": 1,
+    "Title": "I am retiring from tech to live offline",
+    "Url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
+    "Description": "I am retiring from tech to live offline",
+    "Metadata": {
+      "score": "620",
+      "author": "PinkG",
+      "commentCount": "427"
+    },
+    "FetchedAt": "2026-05-29T20:10:55.6487399+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48322389"
+    },
+    "Type": 1,
+    "Title": "Local Git remotes",
+    "Url": "https://cblgh.org/posts/local-git-remotes/",
+    "Description": "Local Git remotes",
+    "Metadata": {
+      "score": "71",
+      "author": "surprisetalk",
+      "commentCount": "57"
+    },
+    "FetchedAt": "2026-05-29T20:10:55.7051134+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48322030"
+    },
+    "Type": 1,
+    "Title": "Cedana (YC S23) Is Hiring",
+    "Url": "https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc",
+    "Description": "Cedana (YC S23) Is Hiring",
+    "Metadata": {
+      "score": "1",
+      "author": "neelm",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-29T20:10:55.7622619+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48328184"
+    },
+    "Type": 1,
+    "Title": "Show HN: Tiny-vLLM \u2013 high performance LLM inference engine in C\u002B\u002B and CUDA",
+    "Url": "https://github.com/jmaczan/tiny-vllm",
+    "Description": "Show HN: Tiny-vLLM \u2013 high performance LLM inference engine in C\u002B\u002B and CUDA",
+    "Metadata": {
+      "score": "5",
+      "author": "yu3zhou4",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-29T20:10:55.8204746+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48322929"
+    },
+    "Type": 1,
+    "Title": "Expertise in the age of AI",
+    "Url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
+    "Description": "Expertise in the age of AI",
+    "Metadata": {
+      "score": "80",
+      "author": "brilee",
+      "commentCount": "79"
+    },
+    "FetchedAt": "2026-05-29T20:10:55.8785195+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48322753"
+    },
+    "Type": 1,
+    "Title": "Someone used my open source project to phish people",
+    "Url": "https://andrej.sh/posts/phishing-through-my-open-source-project",
+    "Description": "Someone used my open source project to phish people",
+    "Metadata": {
+      "score": "69",
+      "author": "andrejsshell",
+      "commentCount": "39"
+    },
+    "FetchedAt": "2026-05-29T20:10:55.9343686+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48321076"
+    },
+    "Type": 1,
+    "Title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+    "Url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+    "Description": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+    "Metadata": {
+      "score": "184",
+      "author": "NicoConstant",
+      "commentCount": "83"
+    },
+    "FetchedAt": "2026-05-29T20:10:55.9925315+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48311485"
+    },
+    "Type": 1,
+    "Title": "ATLAS: Autoformalized Textbook Library At Scale",
+    "Url": "https://github.com/facebookresearch/atlas-lean",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;twitter.com\u0026#x2F;arnal_charles\u0026#x2F;status\u0026#x2F;2060009395107377282\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;twitter.com\u0026#x2F;arnal_charles\u0026#x2F;status\u0026#x2F;2060009395107377282\u003C/a\u003E, \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;arnal_charles\u0026#x2F;status\u0026#x2F;2060009395107377282\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;arnal_charles\u0026#x2F;status\u0026#x2F;2060009395107377282\u003C/a\u003E\u003Cp\u003EPaper: \u003Ci\u003EFormalizing Mathematics at Scale\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;arxiv.org\u0026#x2F;abs\u0026",
+    "Metadata": {
+      "score": "23",
+      "author": "vrm",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-05-29T20:10:56.0488388+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48307802"
+    },
+    "Type": 1,
+    "Title": "Durable execution, the hard way",
+    "Url": "https://github.com/hatchet-dev/durable-execution-the-hard-way",
+    "Description": "Durable execution, the hard way",
+    "Metadata": {
+      "score": "43",
+      "author": "abelanger",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-05-29T20:10:56.1056675+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48327222"
+    },
+    "Type": 1,
+    "Title": "AI will be used to estimate age of asylum seekers from next year",
+    "Url": "https://www.bbc.co.uk/news/articles/ce3pe36qe7ro",
+    "Description": "AI will be used to estimate age of asylum seekers from next year",
+    "Metadata": {
+      "score": "26",
+      "author": "vylorn",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-05-29T20:10:56.1939986+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48322267"
+    },
+    "Type": 1,
+    "Title": "Poll: How often do you check \u0022newest\u0022?",
+    "Url": "https://news.ycombinator.com/item?id=48322267",
+    "Description": "Poll: How often do you check \u0022newest\u0022?",
+    "Metadata": {
+      "score": "70",
+      "author": "ColinWright",
+      "commentCount": "86"
+    },
+    "FetchedAt": "2026-05-29T20:10:56.2572298+00:00"
   }
 ]
