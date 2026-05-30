@@ -346,36 +346,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48334515"
-    },
-    "Type": 1,
-    "Title": "Pandoc Templates",
-    "Url": "https://pandoc-templates.org/",
-    "Description": "Pandoc Templates",
-    "Metadata": {
-      "score": "147",
-      "author": "ankitg12",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-05-30T13:09:38.2208538+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48334048"
-    },
-    "Type": 1,
-    "Title": "Zig: Build System Reworked",
-    "Url": "https://ziglang.org/devlog/2026/#2026-05-26",
-    "Description": "Zig: Build System Reworked",
-    "Metadata": {
-      "score": "160",
-      "author": "tosh",
-      "commentCount": "50"
-    },
-    "FetchedAt": "2026-05-30T13:09:38.2647776+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48335135"
     },
     "Type": 1,
@@ -406,51 +376,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48334949"
-    },
-    "Type": 1,
-    "Title": "Show HN: Helios \u2013 what plug-in solar could generate for any address in Britain",
-    "Url": "https://helios.southlondonscientific.com/",
-    "Description": "Plug-in solar panels (no electrician needed) have just become legal in the UK and will go on sale soon. Helios estimates how much electricity a typical installation could generate at a given address and what that\u0026#x27;s worth against your tariff.\u003Cp\u003EIt uses UK government LIDAR data to reflect the actual skyline, so it knows whether there\u0026#x27;s a building or a hill blocking the sun.\u003Cp\u003ECaveats:\n- Outside LIDAR coverage (most of Scotland and Wales) it falls back to a synthetic horizon (less accurat",
-    "Metadata": {
-      "score": "21",
-      "author": "ruaraidh",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-05-30T13:09:38.3989103+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48326802"
-    },
-    "Type": 1,
-    "Title": "SQLite is all you need for durable workflows",
-    "Url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-    "Description": "SQLite is all you need for durable workflows",
-    "Metadata": {
-      "score": "589",
-      "author": "tomasol",
-      "commentCount": "299"
-    },
-    "FetchedAt": "2026-05-30T13:09:38.4442882+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48281772"
-    },
-    "Type": 1,
-    "Title": "What Happened to the Locusts?",
-    "Url": "https://explosion-scratch.github.io/locusts/",
-    "Description": "What Happened to the Locusts?",
-    "Metadata": {
-      "score": "54",
-      "author": "explosion-s",
-      "commentCount": "10"
-    },
-    "FetchedAt": "2026-05-30T13:09:38.4884359+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48333820"
     },
     "Type": 1,
@@ -463,36 +388,6 @@
       "commentCount": "205"
     },
     "FetchedAt": "2026-05-30T13:09:38.5326707+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48334854"
-    },
-    "Type": 1,
-    "Title": "Openrsync: An implementation of rsync, by the OpenBSD team",
-    "Url": "https://github.com/kristapsdz/openrsync",
-    "Description": "Openrsync: An implementation of rsync, by the OpenBSD team",
-    "Metadata": {
-      "score": "12",
-      "author": "sph",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-05-30T13:09:38.5770399+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48298912"
-    },
-    "Type": 1,
-    "Title": "IXI\u0027s autofocusing lenses are almost ready to replace multifocal glasses",
-    "Url": "https://www.engadget.com/wearables/ixis-autofocusing-lenses-multifocal-glasses-ces-2026-212608427.html",
-    "Description": "IXI\u0027s autofocusing lenses are almost ready to replace multifocal glasses",
-    "Metadata": {
-      "score": "13",
-      "author": "amichail",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-05-30T13:09:38.6206536+00:00"
   },
   {
     "ExternalId": {
@@ -526,66 +421,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48325340"
-    },
-    "Type": 1,
-    "Title": "Notes from the Mistral AI Now Summit",
-    "Url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-    "Description": "Notes from the Mistral AI Now Summit",
-    "Metadata": {
-      "score": "399",
-      "author": "vnglst",
-      "commentCount": "174"
-    },
-    "FetchedAt": "2026-05-30T13:09:38.7546392+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48284494"
-    },
-    "Type": 1,
-    "Title": "Snowboard Kids 2 is 100% Decompiled",
-    "Url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
-    "Description": "Snowboard Kids 2 is 100% Decompiled",
-    "Metadata": {
-      "score": "235",
-      "author": "GaggiX",
-      "commentCount": "94"
-    },
-    "FetchedAt": "2026-05-30T13:09:38.7997825+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48283410"
-    },
-    "Type": 1,
-    "Title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
-    "Url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
-    "Description": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
-    "Metadata": {
-      "score": "176",
-      "author": "rented_mule",
-      "commentCount": "41"
-    },
-    "FetchedAt": "2026-05-30T13:09:38.8430957+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48330436"
-    },
-    "Type": 1,
-    "Title": "MCP is dead?",
-    "Url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-    "Description": "MCP is dead?",
-    "Metadata": {
-      "score": "283",
-      "author": "nadis",
-      "commentCount": "266"
-    },
-    "FetchedAt": "2026-05-30T13:09:38.8873308+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48323869"
     },
     "Type": 1,
@@ -601,21 +436,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48324712"
-    },
-    "Type": 1,
-    "Title": "The dead economy theory",
-    "Url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-    "Description": "The dead economy theory",
-    "Metadata": {
-      "score": "1083",
-      "author": "WillDaSilva",
-      "commentCount": "1219"
-    },
-    "FetchedAt": "2026-05-30T13:09:38.9763022+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48335442"
     },
     "Type": 1,
@@ -628,21 +448,6 @@
       "commentCount": "2"
     },
     "FetchedAt": "2026-05-30T13:09:39.0250055+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48328405"
-    },
-    "Type": 1,
-    "Title": "The Last Technical Interview",
-    "Url": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
-    "Description": "The Last Technical Interview",
-    "Metadata": {
-      "score": "141",
-      "author": "headalgorithm",
-      "commentCount": "111"
-    },
-    "FetchedAt": "2026-05-30T13:09:39.0732928+00:00"
   },
   {
     "ExternalId": {
@@ -766,21 +571,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48333440"
-    },
-    "Type": 1,
-    "Title": "Macsurf, \u0022modern\u0022 web browser for macOS 9",
-    "Url": "https://github.com/mplsllc/macsurf",
-    "Description": "Macsurf, \u0022modern\u0022 web browser for macOS 9",
-    "Metadata": {
-      "score": "13",
-      "author": "gattilorenz",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-05-30T13:09:39.4726491+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48328184"
     },
     "Type": 1,
@@ -793,5 +583,455 @@
       "commentCount": "13"
     },
     "FetchedAt": "2026-05-30T13:09:39.517472+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48338660"
+    },
+    "Type": 1,
+    "Title": "OpenRouter raises $113M Series B",
+    "Url": "https://openrouter.ai/announcements/series-b",
+    "Description": "OpenRouter raises $113M Series B",
+    "Metadata": {
+      "score": "138",
+      "author": "freeCandy",
+      "commentCount": "58"
+    },
+    "FetchedAt": "2026-05-30T19:02:38.5525781+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48338673"
+    },
+    "Type": 1,
+    "Title": "Zig ELF Linker Improvements Devlog",
+    "Url": "https://ziglang.org/devlog/2026/#2026-05-30",
+    "Description": "Zig ELF Linker Improvements Devlog",
+    "Metadata": {
+      "score": "66",
+      "author": "kristoff_it",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-05-30T19:02:38.5686527+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48336564"
+    },
+    "Type": 1,
+    "Title": "Voxel Space",
+    "Url": "https://s-macke.github.io/VoxelSpace/",
+    "Description": "Voxel Space",
+    "Metadata": {
+      "score": "178",
+      "author": "davikr",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-05-30T19:02:38.5852569+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48339180"
+    },
+    "Type": 1,
+    "Title": "Hormuz crisis side effect: a sharp rise in container shipping rates",
+    "Url": "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates",
+    "Description": "Hormuz crisis side effect: a sharp rise in container shipping rates",
+    "Metadata": {
+      "score": "14",
+      "author": "mooreds",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-05-30T19:02:38.6020975+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48338656"
+    },
+    "Type": 1,
+    "Title": "Microcode inside the Intel 8087 floating-point chip: register exchange",
+    "Url": "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html",
+    "Description": "Microcode inside the Intel 8087 floating-point chip: register exchange",
+    "Metadata": {
+      "score": "33",
+      "author": "pwg",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-05-30T19:02:38.6183192+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48334854"
+    },
+    "Type": 1,
+    "Title": "Openrsync: An implementation of rsync, by the OpenBSD team",
+    "Url": "https://github.com/kristapsdz/openrsync",
+    "Description": "Openrsync: An implementation of rsync, by the OpenBSD team",
+    "Metadata": {
+      "score": "237",
+      "author": "sph",
+      "commentCount": "106"
+    },
+    "FetchedAt": "2026-05-30T19:02:38.6368637+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48337808"
+    },
+    "Type": 1,
+    "Title": "Werner Herzog in conversation with Paul Cronin (2014)",
+    "Url": "https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/",
+    "Description": "Werner Herzog in conversation with Paul Cronin (2014)",
+    "Metadata": {
+      "score": "40",
+      "author": "Michelangelo11",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-05-30T19:02:38.6552748+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48338887"
+    },
+    "Type": 1,
+    "Title": "Let\u0027s talk about EU Sovereignty (2025)",
+    "Url": "https://musings.martyn.berlin/lets-talk-about-eu-sovereignty",
+    "Description": "Let\u0027s talk about EU Sovereignty (2025)",
+    "Metadata": {
+      "score": "14",
+      "author": "mooreds",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-05-30T19:02:38.6717686+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48334515"
+    },
+    "Type": 1,
+    "Title": "Pandoc Templates",
+    "Url": "https://pandoc-templates.org/",
+    "Description": "Pandoc Templates",
+    "Metadata": {
+      "score": "299",
+      "author": "ankitg12",
+      "commentCount": "43"
+    },
+    "FetchedAt": "2026-05-30T19:02:38.6891461+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48286745"
+    },
+    "Type": 1,
+    "Title": "Navier-Stokes fluid simulation explained with Godot game engine",
+    "Url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
+    "Description": "Navier-Stokes fluid simulation explained with Godot game engine",
+    "Metadata": {
+      "score": "124",
+      "author": "myzek",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-05-30T19:02:38.7062089+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48282335"
+    },
+    "Type": 1,
+    "Title": "It Takes Two Neurons to Ride a Bicycle",
+    "Url": "https://fermatslibrary.com/s/it-takes-two-neurons-to-ride-a-bicycle#email-newsletter",
+    "Description": "It Takes Two Neurons to Ride a Bicycle",
+    "Metadata": {
+      "score": "59",
+      "author": "malshe",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-05-30T19:02:38.7222581+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48337987"
+    },
+    "Type": 1,
+    "Title": "Downdetector and Speedtest sold to Accenture for $1.2B",
+    "Url": "https://www.theverge.com/tech/889234/downdetector-ookla-speedtest-sold-accenture",
+    "Description": "Downdetector and Speedtest sold to Accenture for $1.2B",
+    "Metadata": {
+      "score": "96",
+      "author": "Garbage",
+      "commentCount": "54"
+    },
+    "FetchedAt": "2026-05-30T19:02:38.784529+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48298912"
+    },
+    "Type": 1,
+    "Title": "IXI\u0027s autofocusing lenses are almost ready to replace multifocal glasses",
+    "Url": "https://www.engadget.com/wearables/ixis-autofocusing-lenses-multifocal-glasses-ces-2026-212608427.html",
+    "Description": "IXI\u0027s autofocusing lenses are almost ready to replace multifocal glasses",
+    "Metadata": {
+      "score": "111",
+      "author": "amichail",
+      "commentCount": "46"
+    },
+    "FetchedAt": "2026-05-30T19:02:38.8268387+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48334048"
+    },
+    "Type": 1,
+    "Title": "Zig: Build System Reworked",
+    "Url": "https://ziglang.org/devlog/2026/#2026-05-26",
+    "Description": "Zig: Build System Reworked",
+    "Metadata": {
+      "score": "288",
+      "author": "tosh",
+      "commentCount": "181"
+    },
+    "FetchedAt": "2026-05-30T19:02:38.844536+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48309505"
+    },
+    "Type": 1,
+    "Title": "Searching for Birds",
+    "Url": "https://SearchingForBirds.VisualCinnamon.com/",
+    "Description": "Searching for Birds",
+    "Metadata": {
+      "score": "4",
+      "author": "robin_reala",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-05-30T19:02:38.8609661+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48334949"
+    },
+    "Type": 1,
+    "Title": "Show HN: Helios \u2013 what plug-in solar could generate for any address in Britain",
+    "Url": "https://helios.southlondonscientific.com/",
+    "Description": "Plug-in solar panels (no electrician needed) have just become legal in the UK and will go on sale soon. Helios estimates how much electricity a typical installation could generate at a given address and what that\u0026#x27;s worth against your tariff.\u003Cp\u003EIt uses UK government LIDAR data to reflect the actual skyline, so it knows whether there\u0026#x27;s a building or a hill blocking the sun.\u003Cp\u003ECaveats:\n- Outside LIDAR coverage (most of Scotland and Wales) it falls back to a synthetic horizon (less accurat",
+    "Metadata": {
+      "score": "86",
+      "author": "ruaraidh",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-05-30T19:02:38.8775756+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48281772"
+    },
+    "Type": 1,
+    "Title": "What Happened to the Locusts?",
+    "Url": "https://explosion-scratch.github.io/locusts/",
+    "Description": "What Happened to the Locusts?",
+    "Metadata": {
+      "score": "157",
+      "author": "explosion-s",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-05-30T19:02:38.9688636+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48322853"
+    },
+    "Type": 1,
+    "Title": "Stateless Actors",
+    "Url": "https://www.massicotte.org/stateless-actors/",
+    "Description": "Stateless Actors",
+    "Metadata": {
+      "score": "9",
+      "author": "frizlab",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-05-30T19:02:38.9947618+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48326802"
+    },
+    "Type": 1,
+    "Title": "SQLite is all you need for durable workflows",
+    "Url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+    "Description": "SQLite is all you need for durable workflows",
+    "Metadata": {
+      "score": "648",
+      "author": "tomasol",
+      "commentCount": "347"
+    },
+    "FetchedAt": "2026-05-30T19:02:39.0109589+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48322025"
+    },
+    "Type": 1,
+    "Title": "Testing the WWI concrete ships and WWII concrete barges",
+    "Url": "https://thecretefleet.com/blog/f/testing-the-wwi-concrete-ships-and-wwii-concrete-barges",
+    "Description": "Testing the WWI concrete ships and WWII concrete barges",
+    "Metadata": {
+      "score": "33",
+      "author": "surprisetalk",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-05-30T19:02:39.0364811+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48336312"
+    },
+    "Type": 1,
+    "Title": "Memory decline after menopause linked to loss of estrogen production in brain",
+    "Url": "https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue",
+    "Description": "Memory decline after menopause linked to loss of estrogen production in brain",
+    "Metadata": {
+      "score": "107",
+      "author": "gmays",
+      "commentCount": "48"
+    },
+    "FetchedAt": "2026-05-30T19:02:39.0630987+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48337137"
+    },
+    "Type": 1,
+    "Title": "A Probabilistic Algorithm for Repairing All Roads in Lebanon via Papal Visits (2025)",
+    "Url": "https://sigbovik.org/2026/proceedings.pdf#%5B%7B%22num%22%3A13%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C72%2C720%2Cnull%5D",
+    "Description": "A Probabilistic Algorithm for Repairing All Roads in Lebanon via Papal Visits (2025)",
+    "Metadata": {
+      "score": "66",
+      "author": "kmstout",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-05-30T19:02:39.116688+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48325340"
+    },
+    "Type": 1,
+    "Title": "Notes from the Mistral AI Now Summit",
+    "Url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+    "Description": "Notes from the Mistral AI Now Summit",
+    "Metadata": {
+      "score": "438",
+      "author": "vnglst",
+      "commentCount": "191"
+    },
+    "FetchedAt": "2026-05-30T19:02:39.1486041+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48333440"
+    },
+    "Type": 1,
+    "Title": "Macsurf, \u0022modern\u0022 web browser for macOS 9",
+    "Url": "https://github.com/mplsllc/macsurf",
+    "Description": "Macsurf, \u0022modern\u0022 web browser for macOS 9",
+    "Metadata": {
+      "score": "94",
+      "author": "gattilorenz",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-05-30T19:02:39.1667149+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48330436"
+    },
+    "Type": 1,
+    "Title": "MCP is dead?",
+    "Url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+    "Description": "MCP is dead?",
+    "Metadata": {
+      "score": "361",
+      "author": "nadis",
+      "commentCount": "344"
+    },
+    "FetchedAt": "2026-05-30T19:02:39.1831004+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48337409"
+    },
+    "Type": 1,
+    "Title": "Ask HN: What Is the State of App Development in 2026?",
+    "Url": "https://news.ycombinator.com/item?id=48337409",
+    "Description": "What is going on in the world of pure IOS\u0026#x2F;Android app development?\u003Cp\u003EHow is AI\u0026#x2F;LLMs affecting app development?\nwhat has changed in App Development in the past 2-5 years?\nWhat does a career in only app development look like nowadays?\u003Cp\u003EThank you!",
+    "Metadata": {
+      "score": "43",
+      "author": "karakoram",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-05-30T19:02:39.2567757+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48284494"
+    },
+    "Type": 1,
+    "Title": "Snowboard Kids 2 is 100% Decompiled",
+    "Url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
+    "Description": "Snowboard Kids 2 is 100% Decompiled",
+    "Metadata": {
+      "score": "267",
+      "author": "GaggiX",
+      "commentCount": "101"
+    },
+    "FetchedAt": "2026-05-30T19:02:39.2753275+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48328405"
+    },
+    "Type": 1,
+    "Title": "The Last Technical Interview",
+    "Url": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
+    "Description": "The Last Technical Interview",
+    "Metadata": {
+      "score": "212",
+      "author": "headalgorithm",
+      "commentCount": "205"
+    },
+    "FetchedAt": "2026-05-30T19:02:39.29364+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48283410"
+    },
+    "Type": 1,
+    "Title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
+    "Url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
+    "Description": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
+    "Metadata": {
+      "score": "214",
+      "author": "rented_mule",
+      "commentCount": "67"
+    },
+    "FetchedAt": "2026-05-30T19:02:39.3123508+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48324712"
+    },
+    "Type": 1,
+    "Title": "The dead economy theory",
+    "Url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+    "Description": "The dead economy theory",
+    "Metadata": {
+      "score": "1207",
+      "author": "WillDaSilva",
+      "commentCount": "1323"
+    },
+    "FetchedAt": "2026-05-30T19:02:39.3283977+00:00"
   }
 ]
