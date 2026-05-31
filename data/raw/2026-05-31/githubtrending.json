@@ -1,0 +1,305 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:microsoft/markitdown"
+    },
+    "Type": 0,
+    "Title": "microsoft/markitdown",
+    "Url": "https://github.com/microsoft/markitdown",
+    "Description": "Python tool for converting files and office documents to Markdown.",
+    "Metadata": {
+      "owner": "microsoft",
+      "repo": "markitdown",
+      "language": "Python",
+      "stars": "2,470",
+      "topics": "autogen, autogen-extension, langchain, markdown, microsoft-office, openai, pdf"
+    },
+    "FetchedAt": "2026-05-31T02:44:37.9521524+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:harry0703/MoneyPrinterTurbo"
+    },
+    "Type": 0,
+    "Title": "harry0703/MoneyPrinterTurbo",
+    "Url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "Description": "\u5229\u7528AI\u5927\u6A21\u578B\uFF0C\u4E00\u952E\u751F\u6210\u9AD8\u6E05\u77ED\u89C6\u9891 Generate short videos with one click using AI LLM.",
+    "Metadata": {
+      "owner": "harry0703",
+      "repo": "MoneyPrinterTurbo",
+      "language": "Python",
+      "stars": "2,768",
+      "topics": "ai, automation, chatgpt, moviepy, python, shortvideo, tiktok"
+    },
+    "FetchedAt": "2026-05-31T02:44:38.2152765+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-code"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-code",
+    "Url": "https://github.com/anthropics/claude-code",
+    "Description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-code",
+      "language": "Python",
+      "stars": "592"
+    },
+    "FetchedAt": "2026-05-31T02:44:38.3918358+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cursor/plugins"
+    },
+    "Type": 0,
+    "Title": "cursor/plugins",
+    "Url": "https://github.com/cursor/plugins",
+    "Description": "Cursor plugin specification and official plugins",
+    "Metadata": {
+      "owner": "cursor",
+      "repo": "plugins",
+      "language": "TypeScript",
+      "stars": "205"
+    },
+    "FetchedAt": "2026-05-31T02:44:38.5824847+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:revfactory/harness"
+    },
+    "Type": 0,
+    "Title": "revfactory/harness",
+    "Url": "https://github.com/revfactory/harness",
+    "Description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+    "Metadata": {
+      "owner": "revfactory",
+      "repo": "harness",
+      "language": "HTML",
+      "stars": "55",
+      "topics": "claude-code, claude-code-plugin, harness, harness-engineering"
+    },
+    "FetchedAt": "2026-05-31T02:44:38.7746707+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:EveryInc/compound-engineering-plugin"
+    },
+    "Type": 0,
+    "Title": "EveryInc/compound-engineering-plugin",
+    "Url": "https://github.com/EveryInc/compound-engineering-plugin",
+    "Description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+    "Metadata": {
+      "owner": "EveryInc",
+      "repo": "compound-engineering-plugin",
+      "language": "TypeScript",
+      "stars": "349",
+      "topics": "compound, engineering"
+    },
+    "FetchedAt": "2026-05-31T02:44:38.9206714+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:OpenBMB/VoxCPM"
+    },
+    "Type": 0,
+    "Title": "OpenBMB/VoxCPM",
+    "Url": "https://github.com/OpenBMB/VoxCPM",
+    "Description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "Metadata": {
+      "owner": "OpenBMB",
+      "repo": "VoxCPM",
+      "language": "Python",
+      "stars": "779",
+      "topics": "audio, deeplearning, minicpm, multilingual, python, pytorch, speech, speech-synthesis, text-to-speech, tts, tts-model, voice-cloning, voice-design, voxcpm"
+    },
+    "FetchedAt": "2026-05-31T02:44:39.084577+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:galilai-group/stable-worldmodel"
+    },
+    "Type": 0,
+    "Title": "galilai-group/stable-worldmodel",
+    "Url": "https://github.com/galilai-group/stable-worldmodel",
+    "Description": "A platform for reproducible world model research and evaluation",
+    "Metadata": {
+      "owner": "galilai-group",
+      "repo": "stable-worldmodel",
+      "language": "Python",
+      "stars": "318",
+      "topics": "deep-learning, jepa, model-predictive-control, pytorch, world-model"
+    },
+    "FetchedAt": "2026-05-31T02:44:39.2553844+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Crosstalk-Solutions/project-nomad"
+    },
+    "Type": 0,
+    "Title": "Crosstalk-Solutions/project-nomad",
+    "Url": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "Description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered\u2014anytime, anywhere.",
+    "Metadata": {
+      "owner": "Crosstalk-Solutions",
+      "repo": "project-nomad",
+      "language": "TypeScript",
+      "stars": "469"
+    },
+    "FetchedAt": "2026-05-31T02:44:39.4171126+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:run-llama/liteparse"
+    },
+    "Type": 0,
+    "Title": "run-llama/liteparse",
+    "Url": "https://github.com/run-llama/liteparse",
+    "Description": "A fast, helpful, and open-source document parser",
+    "Metadata": {
+      "owner": "run-llama",
+      "repo": "liteparse",
+      "language": "Rust",
+      "stars": "925",
+      "topics": "document-ocr, document-processing, ocr, ocr-recognition, pdf, pdf-parser, text-extraction"
+    },
+    "FetchedAt": "2026-05-31T02:44:39.624744+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:chen08209/FlClash"
+    },
+    "Type": 0,
+    "Title": "chen08209/FlClash",
+    "Url": "https://github.com/chen08209/FlClash",
+    "Description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+    "Metadata": {
+      "owner": "chen08209",
+      "repo": "FlClash",
+      "language": "Dart",
+      "stars": "187",
+      "topics": "clash, clash-meta, flutter, hysteria, multi-platform, proxy, v2ray, vless, vpn"
+    },
+    "FetchedAt": "2026-05-31T02:44:39.7860667+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:FareedKhan-dev/train-llm-from-scratch"
+    },
+    "Type": 0,
+    "Title": "FareedKhan-dev/train-llm-from-scratch",
+    "Url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+    "Description": "A straightforward method for training your LLM, from downloading data to generating text.",
+    "Metadata": {
+      "owner": "FareedKhan-dev",
+      "repo": "train-llm-from-scratch",
+      "language": "Jupyter Notebook",
+      "stars": "327",
+      "topics": "gemini, large-language-models, llm, openai, training, transformers"
+    },
+    "FetchedAt": "2026-05-31T02:44:39.9417864+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ruvnet/RuView"
+    },
+    "Type": 0,
+    "Title": "ruvnet/RuView",
+    "Url": "https://github.com/ruvnet/RuView",
+    "Description": "\u03C0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+    "Metadata": {
+      "owner": "ruvnet",
+      "repo": "RuView",
+      "language": "Rust",
+      "stars": "655",
+      "topics": "awesome, claude, densepose, esp32, firmware, home-assistant, home-automation, iot, monitoring, networking, npm, pose-estimation, react, rf, self-learning, skills, spatial-intelligence, typescript, wifi, wifi-security"
+    },
+    "FetchedAt": "2026-05-31T02:44:40.0853579+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:DataTalksClub/data-engineering-zoomcamp"
+    },
+    "Type": 0,
+    "Title": "DataTalksClub/data-engineering-zoomcamp",
+    "Url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "Description": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here \uD83D\uDC47\uD83C\uDFFC",
+    "Metadata": {
+      "owner": "DataTalksClub",
+      "repo": "data-engineering-zoomcamp",
+      "language": "Jupyter Notebook",
+      "stars": "274",
+      "topics": "course, data-engineering, dbt, docker, free, kafka, kestra, spark"
+    },
+    "FetchedAt": "2026-05-31T02:44:40.2373883+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:OpenMOSS/MOSS-TTS"
+    },
+    "Type": 0,
+    "Title": "OpenMOSS/MOSS-TTS",
+    "Url": "https://github.com/OpenMOSS/MOSS-TTS",
+    "Description": "MOSS\u2011TTS Family is an open\u2011source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high\u2011fidelity, high\u2011expressiveness, and complex real\u2011world scenarios, covering stable long\u2011form speech, multi\u2011speaker dialogue, voice/character design, environmental sound effects, and real\u2011time streaming TTS.",
+    "Metadata": {
+      "owner": "OpenMOSS",
+      "repo": "MOSS-TTS",
+      "language": "Python",
+      "stars": "62",
+      "topics": "audio, audio-tokenizer, llm, multimodal, text-to-speech, voice-cloning"
+    },
+    "FetchedAt": "2026-05-31T02:44:40.4076459+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:dreammis/social-auto-upload"
+    },
+    "Type": 0,
+    "Title": "dreammis/social-auto-upload",
+    "Url": "https://github.com/dreammis/social-auto-upload",
+    "Description": "\u81EA\u52A8\u5316\u4E0A\u4F20\u89C6\u9891\u5230\u793E\u4EA4\u5A92\u4F53\uFF1A\u6296\u97F3\u3001\u5C0F\u7EA2\u4E66\u3001\u89C6\u9891\u53F7\u3001tiktok\u3001youtube\u3001bilibili",
+    "Metadata": {
+      "owner": "dreammis",
+      "repo": "social-auto-upload",
+      "language": "Python",
+      "stars": "73",
+      "topics": "bilibili, douyin, tiktok, xiaohongshu, youtube"
+    },
+    "FetchedAt": "2026-05-31T02:44:40.5767956+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/skills"
+    },
+    "Type": 0,
+    "Title": "anthropics/skills",
+    "Url": "https://github.com/anthropics/skills",
+    "Description": "Public repository for Agent Skills",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "skills",
+      "language": "Python",
+      "stars": "454",
+      "topics": "agent-skills"
+    },
+    "FetchedAt": "2026-05-31T02:44:40.7295004+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:codecrafters-io/build-your-own-x"
+    },
+    "Type": 0,
+    "Title": "codecrafters-io/build-your-own-x",
+    "Url": "https://github.com/codecrafters-io/build-your-own-x",
+    "Description": "Master programming by recreating your favorite technologies from scratch.",
+    "Metadata": {
+      "owner": "codecrafters-io",
+      "repo": "build-your-own-x",
+      "language": "Markdown",
+      "stars": "817",
+      "topics": "awesome-list, free, programming, tutorial-code, tutorial-exercises, tutorials"
+    },
+    "FetchedAt": "2026-05-31T02:44:40.8998019+00:00"
+  }
+]
