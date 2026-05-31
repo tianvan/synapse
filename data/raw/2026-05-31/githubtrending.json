@@ -1,56 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:microsoft/markitdown"
-    },
-    "Type": 0,
-    "Title": "microsoft/markitdown",
-    "Url": "https://github.com/microsoft/markitdown",
-    "Description": "Python tool for converting files and office documents to Markdown.",
-    "Metadata": {
-      "owner": "microsoft",
-      "repo": "markitdown",
-      "language": "Python",
-      "stars": "2,470",
-      "topics": "autogen, autogen-extension, langchain, markdown, microsoft-office, openai, pdf"
-    },
-    "FetchedAt": "2026-05-31T08:37:02.19239+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:harry0703/MoneyPrinterTurbo"
-    },
-    "Type": 0,
-    "Title": "harry0703/MoneyPrinterTurbo",
-    "Url": "https://github.com/harry0703/MoneyPrinterTurbo",
-    "Description": "\u5229\u7528AI\u5927\u6A21\u578B\uFF0C\u4E00\u952E\u751F\u6210\u9AD8\u6E05\u77ED\u89C6\u9891 Generate short videos with one click using AI LLM.",
-    "Metadata": {
-      "owner": "harry0703",
-      "repo": "MoneyPrinterTurbo",
-      "language": "Python",
-      "stars": "2,768",
-      "topics": "ai, automation, chatgpt, moviepy, python, shortvideo, tiktok"
-    },
-    "FetchedAt": "2026-05-31T08:37:02.3533768+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:anthropics/claude-code"
-    },
-    "Type": 0,
-    "Title": "anthropics/claude-code",
-    "Url": "https://github.com/anthropics/claude-code",
-    "Description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-    "Metadata": {
-      "owner": "anthropics",
-      "repo": "claude-code",
-      "language": "Python",
-      "stars": "592"
-    },
-    "FetchedAt": "2026-05-31T08:37:02.4453389+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:cursor/plugins"
     },
     "Type": 0,
@@ -64,57 +14,6 @@
       "stars": "205"
     },
     "FetchedAt": "2026-05-31T08:37:02.5580556+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:revfactory/harness"
-    },
-    "Type": 0,
-    "Title": "revfactory/harness",
-    "Url": "https://github.com/revfactory/harness",
-    "Description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-    "Metadata": {
-      "owner": "revfactory",
-      "repo": "harness",
-      "language": "HTML",
-      "stars": "55",
-      "topics": "claude-code, claude-code-plugin, harness, harness-engineering"
-    },
-    "FetchedAt": "2026-05-31T08:37:02.6662155+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:EveryInc/compound-engineering-plugin"
-    },
-    "Type": 0,
-    "Title": "EveryInc/compound-engineering-plugin",
-    "Url": "https://github.com/EveryInc/compound-engineering-plugin",
-    "Description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-    "Metadata": {
-      "owner": "EveryInc",
-      "repo": "compound-engineering-plugin",
-      "language": "TypeScript",
-      "stars": "349",
-      "topics": "compound, engineering"
-    },
-    "FetchedAt": "2026-05-31T08:37:02.7462159+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:OpenBMB/VoxCPM"
-    },
-    "Type": 0,
-    "Title": "OpenBMB/VoxCPM",
-    "Url": "https://github.com/OpenBMB/VoxCPM",
-    "Description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-    "Metadata": {
-      "owner": "OpenBMB",
-      "repo": "VoxCPM",
-      "language": "Python",
-      "stars": "779",
-      "topics": "audio, deeplearning, minicpm, multilingual, python, pytorch, speech, speech-synthesis, text-to-speech, tts, tts-model, voice-cloning, voice-design, voxcpm"
-    },
-    "FetchedAt": "2026-05-31T08:37:02.8542447+00:00"
   },
   {
     "ExternalId": {
@@ -132,22 +31,6 @@
       "topics": "deep-learning, jepa, model-predictive-control, pytorch, world-model"
     },
     "FetchedAt": "2026-05-31T08:37:02.9401671+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:Crosstalk-Solutions/project-nomad"
-    },
-    "Type": 0,
-    "Title": "Crosstalk-Solutions/project-nomad",
-    "Url": "https://github.com/Crosstalk-Solutions/project-nomad",
-    "Description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered\u2014anytime, anywhere.",
-    "Metadata": {
-      "owner": "Crosstalk-Solutions",
-      "repo": "project-nomad",
-      "language": "TypeScript",
-      "stars": "469"
-    },
-    "FetchedAt": "2026-05-31T08:37:03.067831+00:00"
   },
   {
     "ExternalId": {
@@ -182,23 +65,6 @@
       "topics": "clash, clash-meta, flutter, hysteria, multi-platform, proxy, v2ray, vless, vpn"
     },
     "FetchedAt": "2026-05-31T08:37:03.2705925+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:FareedKhan-dev/train-llm-from-scratch"
-    },
-    "Type": 0,
-    "Title": "FareedKhan-dev/train-llm-from-scratch",
-    "Url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-    "Description": "A straightforward method for training your LLM, from downloading data to generating text.",
-    "Metadata": {
-      "owner": "FareedKhan-dev",
-      "repo": "train-llm-from-scratch",
-      "language": "Jupyter Notebook",
-      "stars": "327",
-      "topics": "gemini, large-language-models, llm, openai, training, transformers"
-    },
-    "FetchedAt": "2026-05-31T08:37:03.3768253+00:00"
   },
   {
     "ExternalId": {
@@ -287,6 +153,207 @@
   },
   {
     "ExternalId": {
+      "Value": "github:harry0703/MoneyPrinterTurbo"
+    },
+    "Type": 0,
+    "Title": "harry0703/MoneyPrinterTurbo",
+    "Url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "Description": "\u5229\u7528AI\u5927\u6A21\u578B\uFF0C\u4E00\u952E\u751F\u6210\u9AD8\u6E05\u77ED\u89C6\u9891 Generate short videos with one click using AI LLM.",
+    "Metadata": {
+      "owner": "harry0703",
+      "repo": "MoneyPrinterTurbo",
+      "language": "Python",
+      "stars": "1,937",
+      "topics": "ai, automation, chatgpt, moviepy, python, shortvideo, tiktok"
+    },
+    "FetchedAt": "2026-05-31T13:20:53.7096681+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:microsoft/markitdown"
+    },
+    "Type": 0,
+    "Title": "microsoft/markitdown",
+    "Url": "https://github.com/microsoft/markitdown",
+    "Description": "Python tool for converting files and office documents to Markdown.",
+    "Metadata": {
+      "owner": "microsoft",
+      "repo": "markitdown",
+      "language": "Python",
+      "stars": "2,759",
+      "topics": "autogen, autogen-extension, langchain, markdown, microsoft-office, openai, pdf"
+    },
+    "FetchedAt": "2026-05-31T13:20:53.9673158+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:nesquena/hermes-webui"
+    },
+    "Type": 0,
+    "Title": "nesquena/hermes-webui",
+    "Url": "https://github.com/nesquena/hermes-webui",
+    "Description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+    "Metadata": {
+      "owner": "nesquena",
+      "repo": "hermes-webui",
+      "language": "Python",
+      "stars": "320",
+      "topics": "agent, ai-agents, hermes, hermes-agent, nous-research"
+    },
+    "FetchedAt": "2026-05-31T13:20:54.1725774+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:EveryInc/compound-engineering-plugin"
+    },
+    "Type": 0,
+    "Title": "EveryInc/compound-engineering-plugin",
+    "Url": "https://github.com/EveryInc/compound-engineering-plugin",
+    "Description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+    "Metadata": {
+      "owner": "EveryInc",
+      "repo": "compound-engineering-plugin",
+      "language": "TypeScript",
+      "stars": "243",
+      "topics": "compound, engineering"
+    },
+    "FetchedAt": "2026-05-31T13:20:54.339345+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:github/docs"
+    },
+    "Type": 0,
+    "Title": "github/docs",
+    "Url": "https://github.com/github/docs",
+    "Description": "The open-source repo for docs.github.com",
+    "Metadata": {
+      "owner": "github",
+      "repo": "docs",
+      "language": "TypeScript",
+      "stars": "20",
+      "topics": "docs, works-with-codespaces"
+    },
+    "FetchedAt": "2026-05-31T13:20:54.5287822+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:OpenBMB/VoxCPM"
+    },
+    "Type": 0,
+    "Title": "OpenBMB/VoxCPM",
+    "Url": "https://github.com/OpenBMB/VoxCPM",
+    "Description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "Metadata": {
+      "owner": "OpenBMB",
+      "repo": "VoxCPM",
+      "language": "Python",
+      "stars": "779",
+      "topics": "audio, deeplearning, minicpm, multilingual, python, pytorch, speech, speech-synthesis, text-to-speech, tts, tts-model, voice-cloning, voice-design, voxcpm"
+    },
+    "FetchedAt": "2026-05-31T13:20:54.7457824+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:revfactory/harness"
+    },
+    "Type": 0,
+    "Title": "revfactory/harness",
+    "Url": "https://github.com/revfactory/harness",
+    "Description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+    "Metadata": {
+      "owner": "revfactory",
+      "repo": "harness",
+      "language": "HTML",
+      "stars": "55",
+      "topics": "claude-code, claude-code-plugin, harness, harness-engineering"
+    },
+    "FetchedAt": "2026-05-31T13:20:54.9346791+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:FareedKhan-dev/train-llm-from-scratch"
+    },
+    "Type": 0,
+    "Title": "FareedKhan-dev/train-llm-from-scratch",
+    "Url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+    "Description": "A straightforward method for training your LLM, from downloading data to generating text.",
+    "Metadata": {
+      "owner": "FareedKhan-dev",
+      "repo": "train-llm-from-scratch",
+      "language": "Jupyter Notebook",
+      "stars": "327",
+      "topics": "gemini, large-language-models, llm, openai, training, transformers"
+    },
+    "FetchedAt": "2026-05-31T13:20:55.0973312+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:supermemoryai/supermemory"
+    },
+    "Type": 0,
+    "Title": "supermemoryai/supermemory",
+    "Url": "https://github.com/supermemoryai/supermemory",
+    "Description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+    "Metadata": {
+      "owner": "supermemoryai",
+      "repo": "supermemory",
+      "language": "TypeScript",
+      "stars": "236",
+      "topics": "agent-memory, ai-memory, cloudflare-kv, cloudflare-pages, cloudflare-workers, drizzle-orm, memory, postgres, remix, tailwindcss, typescript, vite"
+    },
+    "FetchedAt": "2026-05-31T13:20:55.2771237+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Crosstalk-Solutions/project-nomad"
+    },
+    "Type": 0,
+    "Title": "Crosstalk-Solutions/project-nomad",
+    "Url": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "Description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered\u2014anytime, anywhere.",
+    "Metadata": {
+      "owner": "Crosstalk-Solutions",
+      "repo": "project-nomad",
+      "language": "TypeScript",
+      "stars": "372"
+    },
+    "FetchedAt": "2026-05-31T13:20:55.4834903+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-code"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-code",
+    "Url": "https://github.com/anthropics/claude-code",
+    "Description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-code",
+      "language": "Python",
+      "stars": "490"
+    },
+    "FetchedAt": "2026-05-31T13:20:55.671402+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:emmabostian/developer-portfolios"
+    },
+    "Type": 0,
+    "Title": "emmabostian/developer-portfolios",
+    "Url": "https://github.com/emmabostian/developer-portfolios",
+    "Description": "A list of developer portfolios for your inspiration",
+    "Metadata": {
+      "owner": "emmabostian",
+      "repo": "developer-portfolios",
+      "language": "Python",
+      "stars": "67"
+    },
+    "FetchedAt": "2026-05-31T13:20:55.8403985+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:codecrafters-io/build-your-own-x"
     },
     "Type": 0,
@@ -297,9 +364,9 @@
       "owner": "codecrafters-io",
       "repo": "build-your-own-x",
       "language": "Markdown",
-      "stars": "817",
+      "stars": "1,112",
       "topics": "awesome-list, free, programming, tutorial-code, tutorial-exercises, tutorials"
     },
-    "FetchedAt": "2026-05-31T08:37:03.9865821+00:00"
+    "FetchedAt": "2026-05-31T13:20:56.0084365+00:00"
   }
 ]
