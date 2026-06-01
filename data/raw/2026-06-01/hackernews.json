@@ -196,51 +196,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48353348"
-    },
-    "Type": 1,
-    "Title": "A 10 year old Xeon is all you need",
-    "Url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-    "Description": "A 10 year old Xeon is all you need",
-    "Metadata": {
-      "score": "167",
-      "author": "cafkafk",
-      "commentCount": "65"
-    },
-    "FetchedAt": "2026-06-01T11:13:40.0716102+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48311587"
-    },
-    "Type": 1,
-    "Title": "Tracing HTTP Requests with Go\u0027s net/HTTP/httptrace",
-    "Url": "https://blainsmith.com/articles/httptrace-with-go/",
-    "Description": "Tracing HTTP Requests with Go\u0027s net/HTTP/httptrace",
-    "Metadata": {
-      "score": "38",
-      "author": "speckx",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-06-01T11:13:40.103785+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48350598"
-    },
-    "Type": 1,
-    "Title": "Chuwi Minibook X",
-    "Url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
-    "Description": "Chuwi Minibook X",
-    "Metadata": {
-      "score": "299",
-      "author": "thcipriani",
-      "commentCount": "225"
-    },
-    "FetchedAt": "2026-06-01T11:13:40.1356638+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48345840"
     },
     "Type": 1,
@@ -268,21 +223,6 @@
       "commentCount": "0"
     },
     "FetchedAt": "2026-06-01T11:13:40.1972463+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48354224"
-    },
-    "Type": 1,
-    "Title": "Cessation of public development of Kefir C compiler",
-    "Url": "https://kefir.protopopov.lv/posts/announce2.html",
-    "Description": "Cessation of public development of Kefir C compiler",
-    "Metadata": {
-      "score": "35",
-      "author": "f311a",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-06-01T11:13:40.2281651+00:00"
   },
   {
     "ExternalId": {
@@ -643,5 +583,455 @@
       "commentCount": "269"
     },
     "FetchedAt": "2026-06-01T11:13:40.9824347+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48359102"
+    },
+    "Type": 1,
+    "Title": "The newest Instagram \u201Cexploit\u201D is the goofiest I\u0027ve seen",
+    "Url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+    "Description": "The newest Instagram \u201Cexploit\u201D is the goofiest I\u0027ve seen",
+    "Metadata": {
+      "score": "205",
+      "author": "ssiddharth",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.1035336+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48359232"
+    },
+    "Type": 1,
+    "Title": "AI Agent Guidelines for CS336 at Stanford",
+    "Url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+    "Description": "AI Agent Guidelines for CS336 at Stanford",
+    "Metadata": {
+      "score": "39",
+      "author": "prakashqwerty",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.1171245+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48357905"
+    },
+    "Type": 1,
+    "Title": "Lifelike biochemistry continued to unfold in sterilized soil",
+    "Url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
+    "Description": "Lifelike biochemistry continued to unfold in sterilized soil",
+    "Metadata": {
+      "score": "85",
+      "author": "speckx",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.1302636+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48357075"
+    },
+    "Type": 1,
+    "Title": "CS336: Language Modeling from Scratch",
+    "Url": "https://cs336.stanford.edu/",
+    "Description": "CS336: Language Modeling from Scratch",
+    "Metadata": {
+      "score": "154",
+      "author": "kristianpaul",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.1437856+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48356625"
+    },
+    "Type": 1,
+    "Title": "Malicious npm packages detected across Red Hat Cloud Services",
+    "Url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
+    "Description": "Malicious npm packages detected across Red Hat Cloud Services",
+    "Metadata": {
+      "score": "618",
+      "author": "kurmiashish",
+      "commentCount": "325"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.1575111+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48356490"
+    },
+    "Type": 1,
+    "Title": "Flipper Zero Zig Template",
+    "Url": "https://github.com/NishantJoshi00/flipper-template",
+    "Description": "Flipper Zero Zig Template",
+    "Metadata": {
+      "score": "79",
+      "author": "Nars088",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.1722904+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48356603"
+    },
+    "Type": 1,
+    "Title": "Windows GOG DOS Games on M-Series Macs",
+    "Url": "https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/",
+    "Description": "Windows GOG DOS Games on M-Series Macs",
+    "Metadata": {
+      "score": "74",
+      "author": "f055",
+      "commentCount": "49"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.1876314+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48357725"
+    },
+    "Type": 1,
+    "Title": "Ask HN: Who is hiring? (June 2026)",
+    "Url": "https://news.ycombinator.com/item?id=48357725",
+    "Description": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is \u003Ci\u003Enot\u003C/i\u003E an option.\u003Cp\u003EPlease only post if you personally are part of the hiring company\u2014no\nrecruiting firms or job boards. One post per company. If it isn\u0026#x27;t a household name,\nexplain what your company does.\u003Cp\u003EPlease only post if you are actively filling a position and are committed\nto replying to applicants.\u003Cp\u003ECommenters: please don\u0026#x27;t reply",
+    "Metadata": {
+      "score": "54",
+      "author": "whoishiring",
+      "commentCount": "82"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.2029824+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48357154"
+    },
+    "Type": 1,
+    "Title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
+    "Url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
+    "Description": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
+    "Metadata": {
+      "score": "263",
+      "author": "speckx",
+      "commentCount": "105"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.2164464+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48312443"
+    },
+    "Type": 1,
+    "Title": "I made my phone slow on purpose",
+    "Url": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
+    "Description": "I made my phone slow on purpose",
+    "Metadata": {
+      "score": "56",
+      "author": "gcampos",
+      "commentCount": "48"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.2295325+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48353348"
+    },
+    "Type": 1,
+    "Title": "A 10 year old Xeon is all you need",
+    "Url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+    "Description": "A 10 year old Xeon is all you need",
+    "Metadata": {
+      "score": "528",
+      "author": "cafkafk",
+      "commentCount": "233"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.244053+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48356312"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Expanse (YC P26) \u2013 Unlock Wasted GPU Capacity",
+    "Url": "https://news.ycombinator.com/item?id=48356312",
+    "Description": "Hey HN, we\u2019re Ismaeel, Eren, Yafet and Nikodem. We built Expanse (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;expanse.sh\u0026#x2F;\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;expanse.sh\u0026#x2F;\u003C/a\u003E) to increase the effective capacity of your HPC\u0026#x2F;GPU clusters running schedulers\u0026#x2F;orchestrators like Kubernetes and SLURM. We read the source code, job submission script, and the hardware a workload is about to run on to predict what the job actually needs before the cluster sees it. We also flag failures we think are about to happen and su",
+    "Metadata": {
+      "score": "46",
+      "author": "ismaeel_bashir",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.2592849+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48357724"
+    },
+    "Type": 1,
+    "Title": "Ask HN: Who wants to be hired? (June 2026)",
+    "Url": "https://news.ycombinator.com/item?id=48357724",
+    "Description": "Share your information if you are looking for work. Please use this format:\u003Cp\u003E\u003Cpre\u003E\u003Ccode\u003E  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  R\u00E9sum\u00E9\u0026#x2F;CV:\n  Email:\n\u003C/code\u003E\u003C/pre\u003E\nPlease only post if you are personally looking for work. Agencies, recruiters, job boards,\nand so on, are off topic here.\u003Cp\u003EReaders: please only email these addresses to discuss work opportunities.\u003Cp\u003ESearchers: try \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;nthesis.ai\u0026#x2F;public\u0026#x2F;hn-wants-to-be-hired\u0022 rel=\u0022nofollow\u0022\u003Eht",
+    "Metadata": {
+      "score": "21",
+      "author": "whoishiring",
+      "commentCount": "84"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.2728371+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48358515"
+    },
+    "Type": 1,
+    "Title": "Can You Stop a Hypersonic Missile?",
+    "Url": "https://protortyp.github.io/posts/can-you-stop-a-hypersonic/",
+    "Description": "Can You Stop a Hypersonic Missile?",
+    "Metadata": {
+      "score": "38",
+      "author": "protortyp",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.2858144+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48311003"
+    },
+    "Type": 1,
+    "Title": "Only 17% of all 64-bit Integers are products of two 32-bit integers",
+    "Url": "https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/",
+    "Description": "Only 17% of all 64-bit Integers are products of two 32-bit integers",
+    "Metadata": {
+      "score": "119",
+      "author": "sebg",
+      "commentCount": "58"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.301618+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48356847"
+    },
+    "Type": 1,
+    "Title": "Sysadmining Like It\u0027s 2009",
+    "Url": "https://lambdacreate.com/posts/sysadmining-like-its-2009",
+    "Description": "Sysadmining Like It\u0027s 2009",
+    "Metadata": {
+      "score": "51",
+      "author": "yacin",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.3156433+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48356468"
+    },
+    "Type": 1,
+    "Title": "Linux Basics for Hackers (2019)",
+    "Url": "https://github.com/ahegazy0/linux-basics-for-hackers-notes",
+    "Description": "Linux Basics for Hackers (2019)",
+    "Metadata": {
+      "score": "65",
+      "author": "ibobev",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.3311474+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48359130"
+    },
+    "Type": 1,
+    "Title": "DuckDuckGo makes its \u0027no-AI\u0027 search engine easier to access as its traffic booms",
+    "Url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+    "Description": "DuckDuckGo makes its \u0027no-AI\u0027 search engine easier to access as its traffic booms",
+    "Metadata": {
+      "score": "145",
+      "author": "jaredwiener",
+      "commentCount": "78"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.3454478+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48335704"
+    },
+    "Type": 1,
+    "Title": "Handmade Hawaiian Islands Map",
+    "Url": "https://www.notesfromtheroad.com/roam/hawaiian-islands-map.html",
+    "Description": "Handmade Hawaiian Islands Map",
+    "Metadata": {
+      "score": "7",
+      "author": "bovermyer",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.3624424+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48358646"
+    },
+    "Type": 1,
+    "Title": "Anthropic confidentially submits draft S-1 to the SEC",
+    "Url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+    "Description": "Anthropic confidentially submits draft S-1 to the SEC",
+    "Metadata": {
+      "score": "170",
+      "author": "surprisetalk",
+      "commentCount": "103"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.3813553+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48331587"
+    },
+    "Type": 1,
+    "Title": "\u0022The Apple Boogie\u0022 1987 Mac Promo Album Cassette Tape [video]",
+    "Url": "https://www.youtube.com/watch?v=chJHB-btMNI",
+    "Description": "\u0022The Apple Boogie\u0022 1987 Mac Promo Album Cassette Tape [video]",
+    "Metadata": {
+      "score": "30",
+      "author": "1970-01-01",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.395115+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48352939"
+    },
+    "Type": 1,
+    "Title": "Nvidia RTX Spark",
+    "Url": "https://www.nvidia.com/en-us/products/rtx-spark/",
+    "Description": "Nvidia RTX Spark",
+    "Metadata": {
+      "score": "111",
+      "author": "shenli3514",
+      "commentCount": "92"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.4093501+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48356741"
+    },
+    "Type": 1,
+    "Title": "Radxa Dragon Q8B: A Laptop Cosplaying as an SBC?",
+    "Url": "https://bret.dk/radxa-dragon-q8b-a-laptop-cosplaying-as-an-sbc/",
+    "Description": "Radxa Dragon Q8B: A Laptop Cosplaying as an SBC?",
+    "Metadata": {
+      "score": "27",
+      "author": "gainsurier",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.4250982+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48357355"
+    },
+    "Type": 1,
+    "Title": "KDE at 30",
+    "Url": "https://kde.org/anniversaries/30/",
+    "Description": "KDE at 30",
+    "Metadata": {
+      "score": "119",
+      "author": "Kye",
+      "commentCount": "51"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.4395797+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48311587"
+    },
+    "Type": 1,
+    "Title": "Tracing HTTP Requests with Go\u0027s net/HTTP/httptrace",
+    "Url": "https://blainsmith.com/articles/httptrace-with-go/",
+    "Description": "Tracing HTTP Requests with Go\u0027s net/HTTP/httptrace",
+    "Metadata": {
+      "score": "139",
+      "author": "speckx",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.4541941+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48352627"
+    },
+    "Type": 1,
+    "Title": "Surface Laptop Ultra",
+    "Url": "https://blogs.windows.com/devices/2026/05/31/introducing-surface-laptop-ultra-made-for-world-makers/",
+    "Description": "Surface Laptop Ultra",
+    "Metadata": {
+      "score": "39",
+      "author": "berlianta",
+      "commentCount": "71"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.4684088+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48356946"
+    },
+    "Type": 1,
+    "Title": "Show HN: A CSS 3D Engine (no WebGL)",
+    "Url": "https://github.com/LayoutitStudio/polycss",
+    "Description": "Show HN: A CSS 3D Engine (no WebGL)",
+    "Metadata": {
+      "score": "22",
+      "author": "rofko",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.4828636+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48354224"
+    },
+    "Type": 1,
+    "Title": "Cessation of public development of Kefir C compiler",
+    "Url": "https://kefir.protopopov.lv/posts/announce2.html",
+    "Description": "Cessation of public development of Kefir C compiler",
+    "Metadata": {
+      "score": "108",
+      "author": "f311a",
+      "commentCount": "69"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.4999131+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48356654"
+    },
+    "Type": 1,
+    "Title": "Nvidia Cosmos 3",
+    "Url": "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/",
+    "Description": "Nvidia Cosmos 3",
+    "Metadata": {
+      "score": "110",
+      "author": "tosh",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.5134034+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48350598"
+    },
+    "Type": 1,
+    "Title": "Chuwi Minibook X",
+    "Url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
+    "Description": "Chuwi Minibook X",
+    "Metadata": {
+      "score": "364",
+      "author": "thcipriani",
+      "commentCount": "275"
+    },
+    "FetchedAt": "2026-06-01T17:22:43.5307952+00:00"
   }
 ]
