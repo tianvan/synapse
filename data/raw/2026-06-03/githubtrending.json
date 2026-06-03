@@ -1,23 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:microsoft/markitdown"
-    },
-    "Type": 0,
-    "Title": "microsoft/markitdown",
-    "Url": "https://github.com/microsoft/markitdown",
-    "Description": "Python tool for converting files and office documents to Markdown.",
-    "Metadata": {
-      "owner": "microsoft",
-      "repo": "markitdown",
-      "language": "Python",
-      "stars": "2,006",
-      "topics": "autogen, autogen-extension, langchain, markdown, microsoft-office, openai, pdf"
-    },
-    "FetchedAt": "2026-06-03T16:22:25.4179169+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:reconurge/flowsint"
     },
     "Type": 0,
@@ -85,20 +68,88 @@
   },
   {
     "ExternalId": {
-      "Value": "github:supermemoryai/supermemory"
+      "Value": "github:aquasecurity/trivy"
     },
     "Type": 0,
-    "Title": "supermemoryai/supermemory",
-    "Url": "https://github.com/supermemoryai/supermemory",
-    "Description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+    "Title": "aquasecurity/trivy",
+    "Url": "https://github.com/aquasecurity/trivy",
+    "Description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
     "Metadata": {
-      "owner": "supermemoryai",
-      "repo": "supermemory",
-      "language": "TypeScript",
-      "stars": "601",
-      "topics": "agent-memory, ai-memory, cloudflare-kv, cloudflare-pages, cloudflare-workers, drizzle-orm, memory, postgres, remix, tailwindcss, typescript, vite"
+      "owner": "aquasecurity",
+      "repo": "trivy",
+      "language": "Go",
+      "stars": "26",
+      "topics": "containers, devsecops, docker, go, golang, hacktoberfest, iac, infrastructure-as-code, kubernetes, misconfiguration, security, security-tools, vulnerability, vulnerability-detection, vulnerability-scanners"
     },
-    "FetchedAt": "2026-06-03T16:22:26.6156668+00:00"
+    "FetchedAt": "2026-06-03T20:49:02.5138458+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NousResearch/hermes-agent"
+    },
+    "Type": 0,
+    "Title": "NousResearch/hermes-agent",
+    "Url": "https://github.com/NousResearch/hermes-agent",
+    "Description": "The agent that grows with you",
+    "Metadata": {
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "language": "Python",
+      "stars": "1,736",
+      "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw"
+    },
+    "FetchedAt": "2026-06-03T20:49:02.6572839+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:microsoft/markitdown"
+    },
+    "Type": 0,
+    "Title": "microsoft/markitdown",
+    "Url": "https://github.com/microsoft/markitdown",
+    "Description": "Python tool for converting files and office documents to Markdown.",
+    "Metadata": {
+      "owner": "microsoft",
+      "repo": "markitdown",
+      "language": "Python",
+      "stars": "2,006",
+      "topics": "autogen, autogen-extension, langchain, markdown, microsoft-office, openai, pdf"
+    },
+    "FetchedAt": "2026-06-03T20:49:02.7670798+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:opendataloader-project/opendataloader-pdf"
+    },
+    "Type": 0,
+    "Title": "opendataloader-project/opendataloader-pdf",
+    "Url": "https://github.com/opendataloader-project/opendataloader-pdf",
+    "Description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+    "Metadata": {
+      "owner": "opendataloader-project",
+      "repo": "opendataloader-pdf",
+      "language": "Java",
+      "stars": "573",
+      "topics": "a11y, accessibility, ai, bounding-box, document-parsing, eaa, html, json, markdown, ocr, ocr-recognition, pdf, pdf-accessibility, pdf-converter, pdf-extraction, pdf-parser, pdf-ua, rag, tables, tagged-pdf"
+    },
+    "FetchedAt": "2026-06-03T20:49:02.8786579+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:odoo/odoo"
+    },
+    "Type": 0,
+    "Title": "odoo/odoo",
+    "Url": "https://github.com/odoo/odoo",
+    "Description": "Odoo. Open Source Apps To Grow Your Business.",
+    "Metadata": {
+      "owner": "odoo",
+      "repo": "odoo",
+      "language": "Python",
+      "stars": "29",
+      "topics": "apps, business, erp, management, odoo, odoo-apps, python"
+    },
+    "FetchedAt": "2026-06-03T20:49:02.9958621+00:00"
   },
   {
     "ExternalId": {
@@ -115,6 +166,56 @@
       "stars": "702",
       "topics": "ai, ai-companion, ai-vtuber, ai-waifu, chatbots, live2d, live2d-web, llm, neuro-sama, ollama"
     },
-    "FetchedAt": "2026-06-03T16:22:26.8446568+00:00"
+    "FetchedAt": "2026-06-03T20:49:03.1271549+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jwasham/coding-interview-university"
+    },
+    "Type": 0,
+    "Title": "jwasham/coding-interview-university",
+    "Url": "https://github.com/jwasham/coding-interview-university",
+    "Description": "A complete computer science study plan to become a software engineer.",
+    "Metadata": {
+      "owner": "jwasham",
+      "repo": "coding-interview-university",
+      "stars": "459",
+      "topics": "algorithm, algorithms, coding-interview, coding-interviews, computer-science, data-structures, interview, interview-prep, interview-preparation, programming-interviews, software-engineering, study-plan"
+    },
+    "FetchedAt": "2026-06-03T20:49:03.2544005+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:supermemoryai/supermemory"
+    },
+    "Type": 0,
+    "Title": "supermemoryai/supermemory",
+    "Url": "https://github.com/supermemoryai/supermemory",
+    "Description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+    "Metadata": {
+      "owner": "supermemoryai",
+      "repo": "supermemory",
+      "language": "TypeScript",
+      "stars": "601",
+      "topics": "agent-memory, ai-memory, cloudflare-kv, cloudflare-pages, cloudflare-workers, drizzle-orm, memory, postgres, remix, tailwindcss, typescript, vite"
+    },
+    "FetchedAt": "2026-06-03T20:49:03.3698862+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/Vibe-Trading"
+    },
+    "Type": 0,
+    "Title": "HKUDS/Vibe-Trading",
+    "Url": "https://github.com/HKUDS/Vibe-Trading",
+    "Description": "\u0022Vibe-Trading: Your Personal Trading Agent\u0022",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "Vibe-Trading",
+      "language": "Python",
+      "stars": "221",
+      "topics": "ai-agent, algorithmic-trading, backtesting, fintech, llm, mcp, multi-agent, python, quantitative-finance, trading"
+    },
+    "FetchedAt": "2026-06-03T20:49:03.4813184+00:00"
   }
 ]

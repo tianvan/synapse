@@ -436,96 +436,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48384482"
-    },
-    "Type": 1,
-    "Title": "DaVinci Resolve 21",
-    "Url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
-    "Description": "DaVinci Resolve 21",
-    "Metadata": {
-      "score": "133",
-      "author": "pentagrama",
-      "commentCount": "61"
-    },
-    "FetchedAt": "2026-06-03T16:22:27.2447608+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48385114"
-    },
-    "Type": 1,
-    "Title": "A Post-Quantum Future for Let\u0027s Encrypt",
-    "Url": "https://letsencrypt.org/2026/06/03/pq-certs",
-    "Description": "A Post-Quantum Future for Let\u0027s Encrypt",
-    "Metadata": {
-      "score": "54",
-      "author": "SGran",
-      "commentCount": "14"
-    },
-    "FetchedAt": "2026-06-03T16:22:27.2893495+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48382310"
-    },
-    "Type": 1,
-    "Title": "Hacking your PC using your speaker without ever touching it",
-    "Url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-    "Description": "Hacking your PC using your speaker without ever touching it",
-    "Metadata": {
-      "score": "437",
-      "author": "xx_ns",
-      "commentCount": "75"
-    },
-    "FetchedAt": "2026-06-03T16:22:27.3321048+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48383220"
-    },
-    "Type": 1,
-    "Title": "Meta workers can opt out of being tracked at work up to 30 min",
-    "Url": "https://www.bbc.com/news/articles/c93x0k194yno",
-    "Description": "Meta workers can opt out of being tracked at work up to 30 min",
-    "Metadata": {
-      "score": "375",
-      "author": "reconnecting",
-      "commentCount": "335"
-    },
-    "FetchedAt": "2026-06-03T16:22:27.3751886+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48382382"
-    },
-    "Type": 1,
-    "Title": "Every Byte Matters",
-    "Url": "https://fzakaria.com/2026/06/01/every-byte-matters",
-    "Description": "Every Byte Matters",
-    "Metadata": {
-      "score": "167",
-      "author": "ingve",
-      "commentCount": "77"
-    },
-    "FetchedAt": "2026-06-03T16:22:27.4172053+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48382142"
-    },
-    "Type": 1,
-    "Title": "PlayStation Architecture",
-    "Url": "https://www.copetti.org/writings/consoles/playstation/",
-    "Description": "PlayStation Architecture",
-    "Metadata": {
-      "score": "148",
-      "author": "gregsadetsky",
-      "commentCount": "25"
-    },
-    "FetchedAt": "2026-06-03T16:22:27.4589207+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48371562"
     },
     "Type": 1,
@@ -538,21 +448,6 @@
       "commentCount": "85"
     },
     "FetchedAt": "2026-06-03T16:22:27.5008328+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48374552"
-    },
-    "Type": 1,
-    "Title": "Show HN: Edsger \u2013 A handwritten Clojure REPL for the reMarkable 2",
-    "Url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
-    "Description": "Show HN: Edsger \u2013 A handwritten Clojure REPL for the reMarkable 2",
-    "Metadata": {
-      "score": "180",
-      "author": "nathell",
-      "commentCount": "26"
-    },
-    "FetchedAt": "2026-06-03T16:22:27.543843+00:00"
   },
   {
     "ExternalId": {
@@ -613,21 +508,6 @@
       "commentCount": "2"
     },
     "FetchedAt": "2026-06-03T16:22:27.7155632+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48382305"
-    },
-    "Type": 1,
-    "Title": "What I\u0027ve learned about the trombone",
-    "Url": "http://bryanhu.com/blog/posts/what-ive-learned-about-the-trombone/",
-    "Description": "What I\u0027ve learned about the trombone",
-    "Metadata": {
-      "score": "50",
-      "author": "bookofjoe",
-      "commentCount": "37"
-    },
-    "FetchedAt": "2026-06-03T16:22:27.7580123+00:00"
   },
   {
     "ExternalId": {
@@ -883,5 +763,455 @@
       "commentCount": "153"
     },
     "FetchedAt": "2026-06-03T16:22:28.4825355+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48388324"
+    },
+    "Type": 1,
+    "Title": "Elixir v1.20: Now a gradually typed language",
+    "Url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+    "Description": "Elixir v1.20: Now a gradually typed language",
+    "Metadata": {
+      "score": "239",
+      "author": "cloud8421",
+      "commentCount": "66"
+    },
+    "FetchedAt": "2026-06-03T20:49:03.7683992+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48385906"
+    },
+    "Type": 1,
+    "Title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+    "Url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+    "Description": "Gemma 4 12B: A unified, encoder-free multimodal model",
+    "Metadata": {
+      "score": "513",
+      "author": "rvz",
+      "commentCount": "186"
+    },
+    "FetchedAt": "2026-06-03T20:49:03.7978478+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48384355"
+    },
+    "Type": 1,
+    "Title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+    "Url": "https://burntsushi.net/encephalitis/",
+    "Description": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+    "Metadata": {
+      "score": "309",
+      "author": "Tomte",
+      "commentCount": "80"
+    },
+    "FetchedAt": "2026-06-03T20:49:03.8257258+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48384482"
+    },
+    "Type": 1,
+    "Title": "DaVinci Resolve 21",
+    "Url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+    "Description": "DaVinci Resolve 21",
+    "Metadata": {
+      "score": "305",
+      "author": "pentagrama",
+      "commentCount": "142"
+    },
+    "FetchedAt": "2026-06-03T20:49:03.853548+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48386725"
+    },
+    "Type": 1,
+    "Title": "Gooey: A GPU-accelerated UI framework for Zig",
+    "Url": "https://github.com/duanebester/gooey",
+    "Description": "Gooey: A GPU-accelerated UI framework for Zig",
+    "Metadata": {
+      "score": "92",
+      "author": "ksec",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-06-03T20:49:03.8817036+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48385965"
+    },
+    "Type": 1,
+    "Title": "ESP32-S31",
+    "Url": "https://www.espressif.com/en/products/socs/esp32-s31",
+    "Description": "ESP32-S31",
+    "Metadata": {
+      "score": "202",
+      "author": "volemo",
+      "commentCount": "103"
+    },
+    "FetchedAt": "2026-06-03T20:49:03.9112308+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48356449"
+    },
+    "Type": 1,
+    "Title": "Stop Killing Games",
+    "Url": "https://jxself.org/stop-killing-games.shtml",
+    "Description": "Stop Killing Games",
+    "Metadata": {
+      "score": "83",
+      "author": "amcclure",
+      "commentCount": "80"
+    },
+    "FetchedAt": "2026-06-03T20:49:03.9403145+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48382310"
+    },
+    "Type": 1,
+    "Title": "Hacking your PC using your speaker without ever touching it",
+    "Url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+    "Description": "Hacking your PC using your speaker without ever touching it",
+    "Metadata": {
+      "score": "576",
+      "author": "xx_ns",
+      "commentCount": "95"
+    },
+    "FetchedAt": "2026-06-03T20:49:03.9686417+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48383056"
+    },
+    "Type": 1,
+    "Title": "Uber\u0027s $1,500/month AI limit is a useful signal for AI tool pricing",
+    "Url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+    "Description": "Uber\u0027s $1,500/month AI limit is a useful signal for AI tool pricing",
+    "Metadata": {
+      "score": "211",
+      "author": "pdyc",
+      "commentCount": "265"
+    },
+    "FetchedAt": "2026-06-03T20:49:04.0200525+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48385114"
+    },
+    "Type": 1,
+    "Title": "A Post-Quantum Future for Let\u0027s Encrypt",
+    "Url": "https://letsencrypt.org/2026/06/03/pq-certs",
+    "Description": "A Post-Quantum Future for Let\u0027s Encrypt",
+    "Metadata": {
+      "score": "169",
+      "author": "SGran",
+      "commentCount": "94"
+    },
+    "FetchedAt": "2026-06-03T20:49:04.048752+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48387095"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Hyper (YC P26) \u2013 Company brain to power agentic development",
+    "Url": "https://news.ycombinator.com/item?id=48387095",
+    "Description": "Hey HN, we\u2019re Shalin \u0026amp; Kanyes, best friends who\u0026#x27;ve been hacking together for 10\u002Byrs, and now founders of Hyper (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;heyhyper.ai\u0026#x2F;\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;heyhyper.ai\u0026#x2F;\u003C/a\u003E). Hyper is a shared \u201Ccompany brain\u201D that plugs into information flowing inside a company to make AI agents and automations better and ultimately save people time.\u003Cp\u003EModels have gotten good enough that they can (mostly) take on long-horizon, complex tasks. We believe the bottleneck now is that",
+    "Metadata": {
+      "score": "34",
+      "author": "shalinshah",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-06-03T20:49:04.0787545+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48387251"
+    },
+    "Type": 1,
+    "Title": "Embryos shape their limbs: a key discovery of \u0022genetic brakes\u0022",
+    "Url": "https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes",
+    "Description": "Embryos shape their limbs: a key discovery of \u0022genetic brakes\u0022",
+    "Metadata": {
+      "score": "29",
+      "author": "gmays",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-03T20:49:04.106852+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48386463"
+    },
+    "Type": 1,
+    "Title": "Angular v22",
+    "Url": "https://blog.angular.dev/announcing-angular-v22-c52bb83a4664",
+    "Description": "Angular v22",
+    "Metadata": {
+      "score": "67",
+      "author": "Klaster_1",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-06-03T20:49:04.1347837+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48386588"
+    },
+    "Type": 1,
+    "Title": "Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers",
+    "Url": "https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai",
+    "Description": "Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers",
+    "Metadata": {
+      "score": "1",
+      "author": "suchintan",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-03T20:49:04.1638962+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48386238"
+    },
+    "Type": 1,
+    "Title": "MacBook Neo Is So Popular That Apple Doubled Production",
+    "Url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
+    "Description": "MacBook Neo Is So Popular That Apple Doubled Production",
+    "Metadata": {
+      "score": "215",
+      "author": "tosh",
+      "commentCount": "209"
+    },
+    "FetchedAt": "2026-06-03T20:49:04.1924184+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48388253"
+    },
+    "Type": 1,
+    "Title": "Rootshell: A new E2EE email service hosted in Iceland",
+    "Url": "https://rootshell.is",
+    "Description": "Rootshell: A new E2EE email service hosted in Iceland",
+    "Metadata": {
+      "score": "19",
+      "author": "sc0rt",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-06-03T20:49:04.2210618+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48389586"
+    },
+    "Type": 1,
+    "Title": "Show HN: Mnemo \u2013 local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
+    "Url": "https://github.com/zaydmulani09/mnemo",
+    "Description": "Show HN: Mnemo \u2013 local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
+    "Metadata": {
+      "score": "4",
+      "author": "zaydmulani",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-03T20:49:04.2879454+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48388870"
+    },
+    "Type": 1,
+    "Title": "Brume is a 24-voice multi-timbral desktop synth for the CM5",
+    "Url": "https://brume.aftertone.co/",
+    "Description": "Brume is a 24-voice multi-timbral desktop synth for the CM5",
+    "Metadata": {
+      "score": "9",
+      "author": "oceanwaves",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-06-03T20:49:04.3238894+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48383220"
+    },
+    "Type": 1,
+    "Title": "Meta workers can opt out of being tracked at work up to 30 min",
+    "Url": "https://www.bbc.com/news/articles/c93x0k194yno",
+    "Description": "Meta workers can opt out of being tracked at work up to 30 min",
+    "Metadata": {
+      "score": "593",
+      "author": "reconnecting",
+      "commentCount": "551"
+    },
+    "FetchedAt": "2026-06-03T20:49:04.353279+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48338215"
+    },
+    "Type": 1,
+    "Title": "Fluid Simulation for Dummies (2006)",
+    "Url": "https://www.mikeash.com/pyblog/fluid-simulation-for-dummies.html",
+    "Description": "Fluid Simulation for Dummies (2006)",
+    "Metadata": {
+      "score": "47",
+      "author": "sebg",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-06-03T20:49:04.3816279+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48387270"
+    },
+    "Type": 1,
+    "Title": "Artificial intelligence is not conscious \u2013 Ted Chiang",
+    "Url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260603173839\u0026#x2F;https:\u0026#x2F;\u0026#x2F;www.theatlantic.com\u0026#x2F;philosophy\u0026#x2F;2026\u0026#x2F;06\u0026#x2F;no-artificial-intelligence-is-not-conscious\u0026#x2F;687378\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260603173839\u0026#x2F;https:\u0026#x2F;\u0026#x2F;www.theat...\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;bcpZl\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;bcpZl\u003C/a\u003E",
+    "Metadata": {
+      "score": "86",
+      "author": "lordleft",
+      "commentCount": "80"
+    },
+    "FetchedAt": "2026-06-03T20:49:04.4109624+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48382382"
+    },
+    "Type": 1,
+    "Title": "Every Byte Matters",
+    "Url": "https://fzakaria.com/2026/06/01/every-byte-matters",
+    "Description": "Every Byte Matters",
+    "Metadata": {
+      "score": "213",
+      "author": "ingve",
+      "commentCount": "102"
+    },
+    "FetchedAt": "2026-06-03T20:49:04.4394022+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48382142"
+    },
+    "Type": 1,
+    "Title": "PlayStation Architecture",
+    "Url": "https://www.copetti.org/writings/consoles/playstation/",
+    "Description": "PlayStation Architecture",
+    "Metadata": {
+      "score": "214",
+      "author": "gregsadetsky",
+      "commentCount": "43"
+    },
+    "FetchedAt": "2026-06-03T20:49:04.4689619+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48382052"
+    },
+    "Type": 1,
+    "Title": "Mathematicians issue warning as AI rapidly gains ground",
+    "Url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+    "Description": "Mathematicians issue warning as AI rapidly gains ground",
+    "Metadata": {
+      "score": "109",
+      "author": "pseudolus",
+      "commentCount": "140"
+    },
+    "FetchedAt": "2026-06-03T20:49:04.4975471+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48386133"
+    },
+    "Type": 1,
+    "Title": "New Texas Instruments 5532 chips are not the 5532s we\u2019ve used for decades",
+    "Url": "https://groupdiy.com/threads/the-new-ti-5532-chips-are-not-5532s-weve-used-for-decades.93707/",
+    "Description": "New Texas Instruments 5532 chips are not the 5532s we\u2019ve used for decades",
+    "Metadata": {
+      "score": "41",
+      "author": "SpikedCola",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-06-03T20:49:04.5264585+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48389284"
+    },
+    "Type": 1,
+    "Title": "A Man Who Reads Books for a Living (One Every Two Days)",
+    "Url": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/",
+    "Description": "A Man Who Reads Books for a Living (One Every Two Days)",
+    "Metadata": {
+      "score": "6",
+      "author": "gmays",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-03T20:49:04.5555543+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48365509"
+    },
+    "Type": 1,
+    "Title": "GoPro warned it may not survive",
+    "Url": "https://thenextweb.com/news/gopro-going-concern-ai-memory-crisis-default",
+    "Description": "GoPro warned it may not survive",
+    "Metadata": {
+      "score": "33",
+      "author": "mmh0000",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-06-03T20:49:04.5842749+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48382305"
+    },
+    "Type": 1,
+    "Title": "What I\u0027ve learned about the trombone",
+    "Url": "http://bryanhu.com/blog/posts/what-ive-learned-about-the-trombone/",
+    "Description": "What I\u0027ve learned about the trombone",
+    "Metadata": {
+      "score": "69",
+      "author": "bookofjoe",
+      "commentCount": "62"
+    },
+    "FetchedAt": "2026-06-03T20:49:04.6128197+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48388710"
+    },
+    "Type": 1,
+    "Title": "Building iOS Apps with Doom Emacs",
+    "Url": "https://wassimans.com/blog/building-ios-apps-with-doom-emacs/",
+    "Description": "Building iOS Apps with Doom Emacs",
+    "Metadata": {
+      "score": "13",
+      "author": "wassimans",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-06-03T20:49:04.6408578+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48374552"
+    },
+    "Type": 1,
+    "Title": "Show HN: Edsger \u2013 A handwritten Clojure REPL for the reMarkable 2",
+    "Url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
+    "Description": "Show HN: Edsger \u2013 A handwritten Clojure REPL for the reMarkable 2",
+    "Metadata": {
+      "score": "222",
+      "author": "nathell",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-06-03T20:49:04.6747088+00:00"
   }
 ]
