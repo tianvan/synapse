@@ -421,66 +421,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48383667"
-    },
-    "Type": 1,
-    "Title": "Mouseless \u2013 keyboard-driven control of macOS/Linux/Windows",
-    "Url": "https://mouseless.click",
-    "Description": "Mouseless \u2013 keyboard-driven control of macOS/Linux/Windows",
-    "Metadata": {
-      "score": "108",
-      "author": "riddley",
-      "commentCount": "65"
-    },
-    "FetchedAt": "2026-06-05T14:30:28.3544251+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48409664"
-    },
-    "Type": 1,
-    "Title": "Tracing a powerful GNSS interference source over Europe",
-    "Url": "https://arxiv.org/abs/2606.03673",
-    "Description": "Tracing a powerful GNSS interference source over Europe",
-    "Metadata": {
-      "score": "218",
-      "author": "mimorigasaka",
-      "commentCount": "90"
-    },
-    "FetchedAt": "2026-06-05T14:30:28.3824332+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48382047"
-    },
-    "Type": 1,
-    "Title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
-    "Url": "https://redis.io/blog/announcing-redis-8-8/",
-    "Description": "Redis 8.8: New array data structure, rate limiter, performance improvements",
-    "Metadata": {
-      "score": "93",
-      "author": "ksec",
-      "commentCount": "41"
-    },
-    "FetchedAt": "2026-06-05T14:30:28.4100109+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48409675"
-    },
-    "Type": 1,
-    "Title": "Entanglement Builds Space-Time. Now \u0022Magic\u0022 Gives It Gravity",
-    "Url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
-    "Description": "Entanglement Builds Space-Time. Now \u0022Magic\u0022 Gives It Gravity",
-    "Metadata": {
-      "score": "93",
-      "author": "rbanffy",
-      "commentCount": "65"
-    },
-    "FetchedAt": "2026-06-05T14:30:28.4387521+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48409191"
     },
     "Type": 1,
@@ -493,36 +433,6 @@
       "commentCount": "367"
     },
     "FetchedAt": "2026-06-05T14:30:28.4669365+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48380174"
-    },
-    "Type": 1,
-    "Title": "Cooldown Support for Ruby Bundler",
-    "Url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
-    "Description": "Cooldown Support for Ruby Bundler",
-    "Metadata": {
-      "score": "12",
-      "author": "calyhre",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-06-05T14:30:28.493773+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48408016"
-    },
-    "Type": 1,
-    "Title": "C\u002B\u002B: The Documentary",
-    "Url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-    "Description": "C\u002B\u002B: The Documentary",
-    "Metadata": {
-      "score": "245",
-      "author": "ingve",
-      "commentCount": "153"
-    },
-    "FetchedAt": "2026-06-05T14:30:28.5316686+00:00"
   },
   {
     "ExternalId": {
@@ -568,21 +478,6 @@
       "commentCount": "33"
     },
     "FetchedAt": "2026-06-05T14:30:28.6557357+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48411227"
-    },
-    "Type": 1,
-    "Title": "Nango (YC W23, dev infra) is hiring staff back end engineers",
-    "Url": "https://nango.dev/careers",
-    "Description": "Nango (YC W23, dev infra) is hiring staff back end engineers",
-    "Metadata": {
-      "score": "1",
-      "author": "bastienbeurier",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-06-05T14:30:28.6841049+00:00"
   },
   {
     "ExternalId": {
@@ -736,21 +631,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48409955"
-    },
-    "Type": 1,
-    "Title": "Show HN: Lowfat \u2013 pluggable CLI filter that saved 91.8% of my LLM tokens",
-    "Url": "https://github.com/zdk/lowfat",
-    "Description": "Hi HN,\u003Cp\u003ENot sure if anyone would be interested.\u003Cp\u003EBut, just wanted to share that I\u0026#x27;ve been maintaining my small tool called \u0026#x27;lowfat\u0026#x27; that helps me filters some of my verbose CLI output.\u003Cp\u003EIt\u0026#x27;s a single binary, works as an agent hook or a shell wrapper. \nIt has a plugin system to customize filters per command.\u003Cp\u003EThe idea is pretty simple: agents don\u0026#x27;t need the full kubectl get -o yaml or any 10k-line dump to make decisions. \nSo that lowfat sits in between, strips the noi",
-    "Metadata": {
-      "score": "37",
-      "author": "zdkaster",
-      "commentCount": "22"
-    },
-    "FetchedAt": "2026-06-05T14:30:28.9948379+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48406358"
     },
     "Type": 1,
@@ -868,5 +748,455 @@
       "commentCount": "399"
     },
     "FetchedAt": "2026-06-05T14:30:29.2231729+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48413464"
+    },
+    "Type": 1,
+    "Title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+    "Url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+    "Description": "Astronauts told to return to ISS after sheltering over air leak repairs",
+    "Metadata": {
+      "score": "279",
+      "author": "janpot",
+      "commentCount": "182"
+    },
+    "FetchedAt": "2026-06-05T19:44:25.7394737+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48416936"
+    },
+    "Type": 1,
+    "Title": "GitHub Accidentally Deletes Slack and Teams Subscriptions",
+    "Url": "https://www.githubstatus.com/incidents/2nmfnbknhlnv",
+    "Description": "GitHub Accidentally Deletes Slack and Teams Subscriptions",
+    "Metadata": {
+      "score": "39",
+      "author": "SparkyDogs",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-06-05T19:44:25.7692511+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48414367"
+    },
+    "Type": 1,
+    "Title": "pg_durable: Microsoft open sources in-database durable execution",
+    "Url": "https://github.com/microsoft/pg_durable",
+    "Description": "pg_durable: Microsoft open sources in-database durable execution",
+    "Metadata": {
+      "score": "189",
+      "author": "coffeemug",
+      "commentCount": "42"
+    },
+    "FetchedAt": "2026-06-05T19:44:25.7990659+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48414653"
+    },
+    "Type": 1,
+    "Title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+    "Url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+    "Description": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+    "Metadata": {
+      "score": "143",
+      "author": "theanonymousone",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-06-05T19:44:25.8294511+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48415987"
+    },
+    "Type": 1,
+    "Title": "Cloudflare CEO Is Lying to You About the Bot Traffic Jump",
+    "Url": "https://www.flyingpenguin.com/cloudflare-ceo-is-lying-to-you-about-the-bot-traffic-jump/",
+    "Description": "Cloudflare CEO Is Lying to You About the Bot Traffic Jump",
+    "Metadata": {
+      "score": "130",
+      "author": "speckx",
+      "commentCount": "76"
+    },
+    "FetchedAt": "2026-06-05T19:44:25.8590466+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48414027"
+    },
+    "Type": 1,
+    "Title": "Conventional Commits encourages focus on the wrong things",
+    "Url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+    "Description": "Conventional Commits encourages focus on the wrong things",
+    "Metadata": {
+      "score": "180",
+      "author": "jsve",
+      "commentCount": "133"
+    },
+    "FetchedAt": "2026-06-05T19:44:25.8895177+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48383667"
+    },
+    "Type": 1,
+    "Title": "Mouseless \u2013 keyboard-driven control of macOS/Linux/Windows",
+    "Url": "https://mouseless.click",
+    "Description": "Mouseless \u2013 keyboard-driven control of macOS/Linux/Windows",
+    "Metadata": {
+      "score": "338",
+      "author": "riddley",
+      "commentCount": "163"
+    },
+    "FetchedAt": "2026-06-05T19:44:25.9202899+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48413500"
+    },
+    "Type": 1,
+    "Title": "New method turns ocean water into drinking water, without waste",
+    "Url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+    "Description": "New method turns ocean water into drinking water, without waste",
+    "Metadata": {
+      "score": "84",
+      "author": "speckx",
+      "commentCount": "44"
+    },
+    "FetchedAt": "2026-06-05T19:44:25.9514502+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48398925"
+    },
+    "Type": 1,
+    "Title": "My Agent Skill for Test-Driven Development",
+    "Url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+    "Description": "My Agent Skill for Test-Driven Development",
+    "Metadata": {
+      "score": "27",
+      "author": "laxmena",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-06-05T19:44:25.9838283+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48416635"
+    },
+    "Type": 1,
+    "Title": "Transformers Are Inherently Succinct",
+    "Url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
+    "Description": "This paper is being published at ICLR 2026 (top AI conference), and was selected as one of three outstanding papers.",
+    "Metadata": {
+      "score": "15",
+      "author": "brandonb",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-06-05T19:44:26.0139086+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48415217"
+    },
+    "Type": 1,
+    "Title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+    "Url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;gds.blog.gov.uk\u0026#x2F;2026\u0026#x2F;06\u0026#x2F;02\u0026#x2F;building-for-the-future-making-change-simple-on-gov-uk-pay\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;gds.blog.gov.uk\u0026#x2F;2026\u0026#x2F;06\u0026#x2F;02\u0026#x2F;building-for-the-future-m...\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.adyen.com\u0026#x2F;press-and-media\u0026#x2F;adyen-payments-gov-uk\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.adyen.com\u0026#x2F;press-and-media\u0026#x2F;adyen-payments-gov-uk\u003C/a\u003E",
+    "Metadata": {
+      "score": "143",
+      "author": "toomuchtodo",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-06-05T19:44:26.0446605+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48413072"
+    },
+    "Type": 1,
+    "Title": "I tested every IP KVM in my Homelab",
+    "Url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+    "Description": "I tested every IP KVM in my Homelab",
+    "Metadata": {
+      "score": "160",
+      "author": "vquemener",
+      "commentCount": "47"
+    },
+    "FetchedAt": "2026-06-05T19:44:26.0763505+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48411635"
+    },
+    "Type": 1,
+    "Title": "Did Claude increase bugs in rsync?",
+    "Url": "https://alexispurslane.github.io/rsync-analysis/",
+    "Description": "Did Claude increase bugs in rsync?",
+    "Metadata": {
+      "score": "131",
+      "author": "logicprog",
+      "commentCount": "130"
+    },
+    "FetchedAt": "2026-06-05T19:44:26.1065662+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48414869"
+    },
+    "Type": 1,
+    "Title": "Launch HN: General Instinct (YC P26) \u2013 Frontier models on edge devices",
+    "Url": "https://news.ycombinator.com/item?id=48414869",
+    "Description": "Hey HN, Guanming and Bill here from General Instinct (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;general-instinct.com\u0026#x2F;\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;general-instinct.com\u0026#x2F;\u003C/a\u003E).\u003Cp\u003EAfter years of working in robotics, we kept running into the same problem: the best models never fit the hardware we actually had available.\u003Cp\u003EThe models that performed best were usually designed around datacenter assumptions: large GPUs, lots of memory bandwidth, and reliable network access. But most physical systems have the opposite ",
+    "Metadata": {
+      "score": "25",
+      "author": "guanming0717",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-06-05T19:44:26.136437+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48414978"
+    },
+    "Type": 1,
+    "Title": "Mantine-datatable (and others) compromised \u2013 owner account suspended",
+    "Url": "https://github.com/icflorescu/mantine-datatable/discussions/813",
+    "Description": "Mantine-datatable (and others) compromised \u2013 owner account suspended",
+    "Metadata": {
+      "score": "46",
+      "author": "justsomehuman",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-06-05T19:44:26.1658049+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48380174"
+    },
+    "Type": 1,
+    "Title": "Cooldown Support for Ruby Bundler",
+    "Url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
+    "Description": "Cooldown Support for Ruby Bundler",
+    "Metadata": {
+      "score": "121",
+      "author": "calyhre",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-06-05T19:44:26.1959822+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48402744"
+    },
+    "Type": 1,
+    "Title": "\u0022Maybe later\u0022 was a feature",
+    "Url": "https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/",
+    "Description": "\u0022Maybe later\u0022 was a feature",
+    "Metadata": {
+      "score": "21",
+      "author": "arnorhs",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-06-05T19:44:26.2254917+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48400653"
+    },
+    "Type": 1,
+    "Title": "Do the Hardest Thing",
+    "Url": "https://justinjackson.ca/hard-thing",
+    "Description": "Do the Hardest Thing",
+    "Metadata": {
+      "score": "30",
+      "author": "levhawk",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-06-05T19:44:26.2549283+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48398689"
+    },
+    "Type": 1,
+    "Title": "Inside FAISS: Billion-Scale Similarity Search",
+    "Url": "https://fremaconsulting.ch/blog/faiss",
+    "Description": "Author here. I wrote this as a visual companion to the 2017 FAISS paper (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;arxiv.org\u0026#x2F;abs\u0026#x2F;1702.08734\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;arxiv.org\u0026#x2F;abs\u0026#x2F;1702.08734\u003C/a\u003E), focused on the parts I found hardest to grok from text alone.\u003Cp\u003EThe article covers a subset of what FAISS does, with the paper as the source of truth. NSG, FastScan, IMI are not covered here, they\u0026#x27;ll get their own articles. I\u0026#x27;d be especially interested in feedback on:\u003Cp\u003E- the IVF",
+    "Metadata": {
+      "score": "13",
+      "author": "tohms",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-05T19:44:26.2864611+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48415633"
+    },
+    "Type": 1,
+    "Title": "Sakana AI\u0027s Recursive Self-Improvement (RSI) Lab",
+    "Url": "https://sakana.ai/rsi-lab/",
+    "Description": "Sakana AI\u0027s Recursive Self-Improvement (RSI) Lab",
+    "Metadata": {
+      "score": "21",
+      "author": "hardmaru",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-06-05T19:44:26.3161677+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48411227"
+    },
+    "Type": 1,
+    "Title": "Nango (YC W23, dev infra) is hiring staff back end engineers",
+    "Url": "https://nango.dev/careers",
+    "Description": "Nango (YC W23, dev infra) is hiring staff back end engineers",
+    "Metadata": {
+      "score": "1",
+      "author": "bastienbeurier",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-05T19:44:26.3453704+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48409664"
+    },
+    "Type": 1,
+    "Title": "Tracing a powerful GNSS interference source over Europe",
+    "Url": "https://arxiv.org/abs/2606.03673",
+    "Description": "Tracing a powerful GNSS interference source over Europe",
+    "Metadata": {
+      "score": "321",
+      "author": "mimorigasaka",
+      "commentCount": "172"
+    },
+    "FetchedAt": "2026-06-05T19:44:26.3746133+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48406174"
+    },
+    "Type": 1,
+    "Title": "Ask HN: What was your \u0022oh shit\u0022 moment with GenAI?",
+    "Url": "https://news.ycombinator.com/item?id=48406174",
+    "Description": "Most of us were amused when DALL-E and its peers went mainstream, and we were quick to point out the obvious flaws.\u003Cp\u003EThen ChatGPT hit the scene and again, many of us dismissed it as a parlor trick that would never amount to much.\u003Cp\u003EUsing LLMs for coding initially was a only small step up from basic code completion, and a welcome farewell to Stack Overflow.\u003Cp\u003EI am curious: what was the specific moment that you went from those quaint, dismissive observations to a slightly panicked,\n\u0026quot;Uh Oh\u0026qu",
+    "Metadata": {
+      "score": "14",
+      "author": "andrehacker",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-06-05T19:44:26.4062665+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48382047"
+    },
+    "Type": 1,
+    "Title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
+    "Url": "https://redis.io/blog/announcing-redis-8-8/",
+    "Description": "Redis 8.8: New array data structure, rate limiter, performance improvements",
+    "Metadata": {
+      "score": "180",
+      "author": "ksec",
+      "commentCount": "80"
+    },
+    "FetchedAt": "2026-06-05T19:44:26.4366481+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48413295"
+    },
+    "Type": 1,
+    "Title": "Dutch gov\u0027t will only allow European company to operate DigiD platform",
+    "Url": "https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform",
+    "Description": "Dutch gov\u0027t will only allow European company to operate DigiD platform",
+    "Metadata": {
+      "score": "191",
+      "author": "TechTechTech",
+      "commentCount": "63"
+    },
+    "FetchedAt": "2026-06-05T19:44:26.4666559+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48416845"
+    },
+    "Type": 1,
+    "Title": "Three of our worst VC stories",
+    "Url": "https://twitter.com/eastdakota/status/2062860530360959273",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;eastdakota\u0026#x2F;status\u0026#x2F;2062860530360959273\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;eastdakota\u0026#x2F;status\u0026#x2F;2062860530360959273\u003C/a\u003E",
+    "Metadata": {
+      "score": "4",
+      "author": "orgonon",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-05T19:44:26.4972494+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48413254"
+    },
+    "Type": 1,
+    "Title": "India\u0027s surprise baby bust",
+    "Url": "https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;ZDxIe\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;ZDxIe\u003C/a\u003E",
+    "Metadata": {
+      "score": "57",
+      "author": "hakonbogen",
+      "commentCount": "273"
+    },
+    "FetchedAt": "2026-06-05T19:44:26.5269991+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48408016"
+    },
+    "Type": 1,
+    "Title": "C\u002B\u002B: The Documentary",
+    "Url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+    "Description": "C\u002B\u002B: The Documentary",
+    "Metadata": {
+      "score": "329",
+      "author": "ingve",
+      "commentCount": "239"
+    },
+    "FetchedAt": "2026-06-05T19:44:26.5564085+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48409955"
+    },
+    "Type": 1,
+    "Title": "Show HN: Lowfat \u2013 pluggable CLI filter that saved 91.8% of my LLM tokens",
+    "Url": "https://github.com/zdk/lowfat",
+    "Description": "Hi HN, not sure if anyone would be interested, but just wanted to share that I\u0026#x27;ve been maintaining my small tool called \u0026#x27;lowfat\u0026#x27; that helps me filters some of my verbose CLI output. It\u0026#x27;s a single binary, works as an agent hook or a shell wrapper. It has a plugin system to customize filters per command.\u003Cp\u003EThe idea is pretty simple: agents don\u0026#x27;t need the full kubectl get -o yaml or any 10k-line dump to make decisions. \nSo that lowfat sits in between, strips the noise, and ",
+    "Metadata": {
+      "score": "69",
+      "author": "zdkaster",
+      "commentCount": "45"
+    },
+    "FetchedAt": "2026-06-05T19:44:26.5869674+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48409675"
+    },
+    "Type": 1,
+    "Title": "Entanglement Builds Space-Time. Now \u0022Magic\u0022 Gives It Gravity",
+    "Url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
+    "Description": "Entanglement Builds Space-Time. Now \u0022Magic\u0022 Gives It Gravity",
+    "Metadata": {
+      "score": "145",
+      "author": "rbanffy",
+      "commentCount": "143"
+    },
+    "FetchedAt": "2026-06-05T19:44:26.6173797+00:00"
   }
 ]
