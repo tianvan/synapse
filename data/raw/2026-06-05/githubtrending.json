@@ -1,0 +1,186 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:NousResearch/hermes-agent"
+    },
+    "Type": 0,
+    "Title": "NousResearch/hermes-agent",
+    "Url": "https://github.com/NousResearch/hermes-agent",
+    "Description": "The agent that grows with you",
+    "Metadata": {
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "language": "Python",
+      "stars": "1,913",
+      "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw"
+    },
+    "FetchedAt": "2026-06-05T02:42:19.7760355+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:PaddlePaddle/PaddleOCR"
+    },
+    "Type": 0,
+    "Title": "PaddlePaddle/PaddleOCR",
+    "Url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "Description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100\u002B languages.",
+    "Metadata": {
+      "owner": "PaddlePaddle",
+      "repo": "PaddleOCR",
+      "language": "Python",
+      "stars": "141",
+      "topics": "ai4science, chineseocr, document-parsing, document-translation, kie, ocr, paddleocr-vl, pdf-extractor-rag, pdf-parser, pdf2markdown, pp-ocr, pp-structure, rag"
+    },
+    "FetchedAt": "2026-06-05T02:42:20.0754696+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:github/spec-kit"
+    },
+    "Type": 0,
+    "Title": "github/spec-kit",
+    "Url": "https://github.com/github/spec-kit",
+    "Description": "\uD83D\uDCAB Toolkit to help you get started with Spec-Driven Development",
+    "Metadata": {
+      "owner": "github",
+      "repo": "spec-kit",
+      "language": "Python",
+      "stars": "321",
+      "topics": "ai, copilot, development, engineering, prd, spec, spec-driven"
+    },
+    "FetchedAt": "2026-06-05T02:42:20.2312408+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NVIDIA/cosmos"
+    },
+    "Type": 0,
+    "Title": "NVIDIA/cosmos",
+    "Url": "https://github.com/NVIDIA/cosmos",
+    "Description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+    "Metadata": {
+      "owner": "NVIDIA",
+      "repo": "cosmos",
+      "language": "Jupyter Notebook",
+      "stars": "133"
+    },
+    "FetchedAt": "2026-06-05T02:42:20.3810592+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:lfnovo/open-notebook"
+    },
+    "Type": 0,
+    "Title": "lfnovo/open-notebook",
+    "Url": "https://github.com/lfnovo/open-notebook",
+    "Description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "Metadata": {
+      "owner": "lfnovo",
+      "repo": "open-notebook",
+      "language": "TypeScript",
+      "stars": "212",
+      "topics": "assistant, learning, note-taking, notebook, notes-app, self-learning"
+    },
+    "FetchedAt": "2026-06-05T02:42:20.5381059+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Open-LLM-VTuber/Open-LLM-VTuber"
+    },
+    "Type": 0,
+    "Title": "Open-LLM-VTuber/Open-LLM-VTuber",
+    "Url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+    "Description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+    "Metadata": {
+      "owner": "Open-LLM-VTuber",
+      "repo": "Open-LLM-VTuber",
+      "language": "Python",
+      "stars": "581",
+      "topics": "ai, ai-companion, ai-vtuber, ai-waifu, chatbots, live2d, live2d-web, llm, neuro-sama, ollama"
+    },
+    "FetchedAt": "2026-06-05T02:42:20.6700595+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jwasham/coding-interview-university"
+    },
+    "Type": 0,
+    "Title": "jwasham/coding-interview-university",
+    "Url": "https://github.com/jwasham/coding-interview-university",
+    "Description": "A complete computer science study plan to become a software engineer.",
+    "Metadata": {
+      "owner": "jwasham",
+      "repo": "coding-interview-university",
+      "stars": "632",
+      "topics": "algorithm, algorithms, coding-interview, coding-interviews, computer-science, data-structures, interview, interview-prep, interview-preparation, programming-interviews, software-engineering, study-plan"
+    },
+    "FetchedAt": "2026-06-05T02:42:20.8232213+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:github/copilot-sdk"
+    },
+    "Type": 0,
+    "Title": "github/copilot-sdk",
+    "Url": "https://github.com/github/copilot-sdk",
+    "Description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+    "Metadata": {
+      "owner": "github",
+      "repo": "copilot-sdk",
+      "language": "Java",
+      "stars": "38"
+    },
+    "FetchedAt": "2026-06-05T02:42:20.9945849+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:aquasecurity/trivy"
+    },
+    "Type": 0,
+    "Title": "aquasecurity/trivy",
+    "Url": "https://github.com/aquasecurity/trivy",
+    "Description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "Metadata": {
+      "owner": "aquasecurity",
+      "repo": "trivy",
+      "language": "Go",
+      "stars": "255",
+      "topics": "containers, devsecops, docker, go, golang, hacktoberfest, iac, infrastructure-as-code, kubernetes, misconfiguration, security, security-tools, vulnerability, vulnerability-detection, vulnerability-scanners"
+    },
+    "FetchedAt": "2026-06-05T02:42:21.1472525+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:reconurge/flowsint"
+    },
+    "Type": 0,
+    "Title": "reconurge/flowsint",
+    "Url": "https://github.com/reconurge/flowsint",
+    "Description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+    "Metadata": {
+      "owner": "reconurge",
+      "repo": "flowsint",
+      "language": "TypeScript",
+      "stars": "308",
+      "topics": "investigation, osint, python, recon"
+    },
+    "FetchedAt": "2026-06-05T02:42:21.3069331+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mvanhorn/last30days-skill"
+    },
+    "Type": 0,
+    "Title": "mvanhorn/last30days-skill",
+    "Url": "https://github.com/mvanhorn/last30days-skill",
+    "Description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "Metadata": {
+      "owner": "mvanhorn",
+      "repo": "last30days-skill",
+      "language": "Python",
+      "stars": "199",
+      "topics": "ai-prompts, ai-skill, bluesky, claude, claude-code, clawhub, deep-research, hackernews, instagram, openclaw, polymarket, recency, reddit, research, social-media, tiktok, trends, twitter, web-search, youtube"
+    },
+    "FetchedAt": "2026-06-05T02:42:21.4653676+00:00"
+  }
+]
