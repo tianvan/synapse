@@ -1,0 +1,219 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:NousResearch/hermes-agent"
+    },
+    "Type": 0,
+    "Title": "NousResearch/hermes-agent",
+    "Url": "https://github.com/NousResearch/hermes-agent",
+    "Description": "The agent that grows with you",
+    "Metadata": {
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "language": "Python",
+      "stars": "1,845",
+      "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw"
+    },
+    "FetchedAt": "2026-06-06T02:30:27.1055314+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:CopilotKit/CopilotKit"
+    },
+    "Type": 0,
+    "Title": "CopilotKit/CopilotKit",
+    "Url": "https://github.com/CopilotKit/CopilotKit",
+    "Description": "The Frontend Stack for Agents \u0026 Generative UI. React \u002B Angular.  Makers of the AG-UI Protocol",
+    "Metadata": {
+      "owner": "CopilotKit",
+      "repo": "CopilotKit",
+      "language": "TypeScript",
+      "stars": "366",
+      "topics": "agent, agent-native, agentic-ai, agents, ai, ai-agent, ai-assistant, assistant, assistant-chat-bots, copilot, copilot-chat, generative-ui, js, llm, nextjs, open-source, react, reactjs, ts, typescript"
+    },
+    "FetchedAt": "2026-06-06T02:30:27.3730932+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:lfnovo/open-notebook"
+    },
+    "Type": 0,
+    "Title": "lfnovo/open-notebook",
+    "Url": "https://github.com/lfnovo/open-notebook",
+    "Description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "Metadata": {
+      "owner": "lfnovo",
+      "repo": "open-notebook",
+      "language": "TypeScript",
+      "stars": "1,152",
+      "topics": "assistant, learning, note-taking, notebook, notes-app, self-learning"
+    },
+    "FetchedAt": "2026-06-06T02:30:27.5508634+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Panniantong/Agent-Reach"
+    },
+    "Type": 0,
+    "Title": "Panniantong/Agent-Reach",
+    "Url": "https://github.com/Panniantong/Agent-Reach",
+    "Description": "Give your AI agent eyes to see the entire internet. Read \u0026 search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+    "Metadata": {
+      "owner": "Panniantong",
+      "repo": "Agent-Reach",
+      "language": "Python",
+      "stars": "148",
+      "topics": "agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript"
+    },
+    "FetchedAt": "2026-06-06T02:30:27.7426747+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NVIDIA/cosmos"
+    },
+    "Type": 0,
+    "Title": "NVIDIA/cosmos",
+    "Url": "https://github.com/NVIDIA/cosmos",
+    "Description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+    "Metadata": {
+      "owner": "NVIDIA",
+      "repo": "cosmos",
+      "language": "Jupyter Notebook",
+      "stars": "479"
+    },
+    "FetchedAt": "2026-06-06T02:30:27.9302028+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:666ghj/MiroFish"
+    },
+    "Type": 0,
+    "Title": "666ghj/MiroFish",
+    "Url": "https://github.com/666ghj/MiroFish",
+    "Description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. \u7B80\u6D01\u901A\u7528\u7684\u7FA4\u4F53\u667A\u80FD\u5F15\u64CE\uFF0C\u9884\u6D4B\u4E07\u7269",
+    "Metadata": {
+      "owner": "666ghj",
+      "repo": "MiroFish",
+      "language": "Python",
+      "stars": "320",
+      "topics": "agent-memory, financial-forecasting, future-prediction, knowledge-graph, llms, multi-agent-simulation, public-opinion-analysis, python3, social-prediction, swarm-intelligence"
+    },
+    "FetchedAt": "2026-06-06T02:30:28.1597456+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mvanhorn/last30days-skill"
+    },
+    "Type": 0,
+    "Title": "mvanhorn/last30days-skill",
+    "Url": "https://github.com/mvanhorn/last30days-skill",
+    "Description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "Metadata": {
+      "owner": "mvanhorn",
+      "repo": "last30days-skill",
+      "language": "Python",
+      "stars": "731",
+      "topics": "ai-prompts, ai-skill, bluesky, claude, claude-code, clawhub, deep-research, hackernews, instagram, openclaw, polymarket, recency, reddit, research, social-media, tiktok, trends, twitter, web-search, youtube"
+    },
+    "FetchedAt": "2026-06-06T02:30:28.3360796+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:PaddlePaddle/PaddleOCR"
+    },
+    "Type": 0,
+    "Title": "PaddlePaddle/PaddleOCR",
+    "Url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "Description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100\u002B languages.",
+    "Metadata": {
+      "owner": "PaddlePaddle",
+      "repo": "PaddleOCR",
+      "language": "Python",
+      "stars": "747",
+      "topics": "ai4science, chineseocr, document-parsing, document-translation, kie, ocr, paddleocr-vl, pdf-extractor-rag, pdf-parser, pdf2markdown, pp-ocr, pp-structure, rag"
+    },
+    "FetchedAt": "2026-06-06T02:30:28.4885615+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:openai/plugins"
+    },
+    "Type": 0,
+    "Title": "openai/plugins",
+    "Url": "https://github.com/openai/plugins",
+    "Description": "OpenAI Plugins",
+    "Metadata": {
+      "owner": "openai",
+      "repo": "plugins",
+      "language": "JavaScript",
+      "stars": "49"
+    },
+    "FetchedAt": "2026-06-06T02:30:28.6802034+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:MemPalace/mempalace"
+    },
+    "Type": 0,
+    "Title": "MemPalace/mempalace",
+    "Url": "https://github.com/MemPalace/mempalace",
+    "Description": "The best-benchmarked open-source AI memory system. And it\u0027s free.",
+    "Metadata": {
+      "owner": "MemPalace",
+      "repo": "mempalace",
+      "language": "Python",
+      "stars": "227",
+      "topics": "ai, chromadb, llm, mcp, memory, python"
+    },
+    "FetchedAt": "2026-06-06T02:30:28.8631328+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:aquasecurity/trivy"
+    },
+    "Type": 0,
+    "Title": "aquasecurity/trivy",
+    "Url": "https://github.com/aquasecurity/trivy",
+    "Description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "Metadata": {
+      "owner": "aquasecurity",
+      "repo": "trivy",
+      "language": "Go",
+      "stars": "207",
+      "topics": "containers, devsecops, docker, go, golang, hacktoberfest, iac, infrastructure-as-code, kubernetes, misconfiguration, security, security-tools, vulnerability, vulnerability-detection, vulnerability-scanners"
+    },
+    "FetchedAt": "2026-06-06T02:30:29.0180941+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jwasham/coding-interview-university"
+    },
+    "Type": 0,
+    "Title": "jwasham/coding-interview-university",
+    "Url": "https://github.com/jwasham/coding-interview-university",
+    "Description": "A complete computer science study plan to become a software engineer.",
+    "Metadata": {
+      "owner": "jwasham",
+      "repo": "coding-interview-university",
+      "stars": "745",
+      "topics": "algorithm, algorithms, coding-interview, coding-interviews, computer-science, data-structures, interview, interview-prep, interview-preparation, programming-interviews, software-engineering, study-plan"
+    },
+    "FetchedAt": "2026-06-06T02:30:29.2270795+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:github/copilot-sdk"
+    },
+    "Type": 0,
+    "Title": "github/copilot-sdk",
+    "Url": "https://github.com/github/copilot-sdk",
+    "Description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+    "Metadata": {
+      "owner": "github",
+      "repo": "copilot-sdk",
+      "language": "Java",
+      "stars": "309"
+    },
+    "FetchedAt": "2026-06-06T02:30:29.4158717+00:00"
+  }
+]
