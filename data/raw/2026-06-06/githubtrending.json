@@ -18,57 +18,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:CopilotKit/CopilotKit"
-    },
-    "Type": 0,
-    "Title": "CopilotKit/CopilotKit",
-    "Url": "https://github.com/CopilotKit/CopilotKit",
-    "Description": "The Frontend Stack for Agents \u0026 Generative UI. React \u002B Angular.  Makers of the AG-UI Protocol",
-    "Metadata": {
-      "owner": "CopilotKit",
-      "repo": "CopilotKit",
-      "language": "TypeScript",
-      "stars": "366",
-      "topics": "agent, agent-native, agentic-ai, agents, ai, ai-agent, ai-assistant, assistant, assistant-chat-bots, copilot, copilot-chat, generative-ui, js, llm, nextjs, open-source, react, reactjs, ts, typescript"
-    },
-    "FetchedAt": "2026-06-06T08:26:13.6502217+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:lfnovo/open-notebook"
-    },
-    "Type": 0,
-    "Title": "lfnovo/open-notebook",
-    "Url": "https://github.com/lfnovo/open-notebook",
-    "Description": "An Open Source implementation of Notebook LM with more flexibility and features",
-    "Metadata": {
-      "owner": "lfnovo",
-      "repo": "open-notebook",
-      "language": "TypeScript",
-      "stars": "1,152",
-      "topics": "assistant, learning, note-taking, notebook, notes-app, self-learning"
-    },
-    "FetchedAt": "2026-06-06T08:26:13.7656426+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:Panniantong/Agent-Reach"
-    },
-    "Type": 0,
-    "Title": "Panniantong/Agent-Reach",
-    "Url": "https://github.com/Panniantong/Agent-Reach",
-    "Description": "Give your AI agent eyes to see the entire internet. Read \u0026 search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
-    "Metadata": {
-      "owner": "Panniantong",
-      "repo": "Agent-Reach",
-      "language": "Python",
-      "stars": "148",
-      "topics": "agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript"
-    },
-    "FetchedAt": "2026-06-06T08:26:13.8662849+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:NVIDIA/cosmos"
     },
     "Type": 0,
@@ -102,90 +51,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:mvanhorn/last30days-skill"
-    },
-    "Type": 0,
-    "Title": "mvanhorn/last30days-skill",
-    "Url": "https://github.com/mvanhorn/last30days-skill",
-    "Description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-    "Metadata": {
-      "owner": "mvanhorn",
-      "repo": "last30days-skill",
-      "language": "Python",
-      "stars": "731",
-      "topics": "ai-prompts, ai-skill, bluesky, claude, claude-code, clawhub, deep-research, hackernews, instagram, openclaw, polymarket, recency, reddit, research, social-media, tiktok, trends, twitter, web-search, youtube"
-    },
-    "FetchedAt": "2026-06-06T08:26:14.1513795+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:PaddlePaddle/PaddleOCR"
-    },
-    "Type": 0,
-    "Title": "PaddlePaddle/PaddleOCR",
-    "Url": "https://github.com/PaddlePaddle/PaddleOCR",
-    "Description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100\u002B languages.",
-    "Metadata": {
-      "owner": "PaddlePaddle",
-      "repo": "PaddleOCR",
-      "language": "Python",
-      "stars": "747",
-      "topics": "ai4science, chineseocr, document-parsing, document-translation, kie, ocr, paddleocr-vl, pdf-extractor-rag, pdf-parser, pdf2markdown, pp-ocr, pp-structure, rag"
-    },
-    "FetchedAt": "2026-06-06T08:26:14.2430833+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:openai/plugins"
-    },
-    "Type": 0,
-    "Title": "openai/plugins",
-    "Url": "https://github.com/openai/plugins",
-    "Description": "OpenAI Plugins",
-    "Metadata": {
-      "owner": "openai",
-      "repo": "plugins",
-      "language": "JavaScript",
-      "stars": "49"
-    },
-    "FetchedAt": "2026-06-06T08:26:14.4267238+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:MemPalace/mempalace"
-    },
-    "Type": 0,
-    "Title": "MemPalace/mempalace",
-    "Url": "https://github.com/MemPalace/mempalace",
-    "Description": "The best-benchmarked open-source AI memory system. And it\u0027s free.",
-    "Metadata": {
-      "owner": "MemPalace",
-      "repo": "mempalace",
-      "language": "Python",
-      "stars": "227",
-      "topics": "ai, chromadb, llm, mcp, memory, python"
-    },
-    "FetchedAt": "2026-06-06T08:26:14.6146884+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:aquasecurity/trivy"
-    },
-    "Type": 0,
-    "Title": "aquasecurity/trivy",
-    "Url": "https://github.com/aquasecurity/trivy",
-    "Description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-    "Metadata": {
-      "owner": "aquasecurity",
-      "repo": "trivy",
-      "language": "Go",
-      "stars": "207",
-      "topics": "containers, devsecops, docker, go, golang, hacktoberfest, iac, infrastructure-as-code, kubernetes, misconfiguration, security, security-tools, vulnerability, vulnerability-detection, vulnerability-scanners"
-    },
-    "FetchedAt": "2026-06-06T08:26:14.7213565+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:jwasham/coding-interview-university"
     },
     "Type": 0,
@@ -215,5 +80,222 @@
       "stars": "309"
     },
     "FetchedAt": "2026-06-06T08:26:14.9456461+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mvanhorn/last30days-skill"
+    },
+    "Type": 0,
+    "Title": "mvanhorn/last30days-skill",
+    "Url": "https://github.com/mvanhorn/last30days-skill",
+    "Description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "Metadata": {
+      "owner": "mvanhorn",
+      "repo": "last30days-skill",
+      "language": "Python",
+      "stars": "441",
+      "topics": "ai-prompts, ai-skill, bluesky, claude, claude-code, clawhub, deep-research, hackernews, instagram, openclaw, polymarket, recency, reddit, research, social-media, tiktok, trends, twitter, web-search, youtube"
+    },
+    "FetchedAt": "2026-06-06T13:14:44.2518353+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:CopilotKit/CopilotKit"
+    },
+    "Type": 0,
+    "Title": "CopilotKit/CopilotKit",
+    "Url": "https://github.com/CopilotKit/CopilotKit",
+    "Description": "The Frontend Stack for Agents \u0026 Generative UI. React \u002B Angular.  Makers of the AG-UI Protocol",
+    "Metadata": {
+      "owner": "CopilotKit",
+      "repo": "CopilotKit",
+      "language": "TypeScript",
+      "stars": "613",
+      "topics": "agent, agent-native, agentic-ai, agents, ai, ai-agent, ai-assistant, assistant, assistant-chat-bots, copilot, copilot-chat, generative-ui, js, llm, nextjs, open-source, react, reactjs, ts, typescript"
+    },
+    "FetchedAt": "2026-06-06T13:14:44.504642+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:MemPalace/mempalace"
+    },
+    "Type": 0,
+    "Title": "MemPalace/mempalace",
+    "Url": "https://github.com/MemPalace/mempalace",
+    "Description": "The best-benchmarked open-source AI memory system. And it\u0027s free.",
+    "Metadata": {
+      "owner": "MemPalace",
+      "repo": "mempalace",
+      "language": "Python",
+      "stars": "441",
+      "topics": "ai, chromadb, llm, mcp, memory, python"
+    },
+    "FetchedAt": "2026-06-06T13:14:44.6216675+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:openai/plugins"
+    },
+    "Type": 0,
+    "Title": "openai/plugins",
+    "Url": "https://github.com/openai/plugins",
+    "Description": "OpenAI Plugins",
+    "Metadata": {
+      "owner": "openai",
+      "repo": "plugins",
+      "language": "JavaScript",
+      "stars": "215"
+    },
+    "FetchedAt": "2026-06-06T13:14:44.7778614+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Panniantong/Agent-Reach"
+    },
+    "Type": 0,
+    "Title": "Panniantong/Agent-Reach",
+    "Url": "https://github.com/Panniantong/Agent-Reach",
+    "Description": "Give your AI agent eyes to see the entire internet. Read \u0026 search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+    "Metadata": {
+      "owner": "Panniantong",
+      "repo": "Agent-Reach",
+      "language": "Python",
+      "stars": "700",
+      "topics": "agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript"
+    },
+    "FetchedAt": "2026-06-06T13:14:44.9317877+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:nginx/nginx"
+    },
+    "Type": 0,
+    "Title": "nginx/nginx",
+    "Url": "https://github.com/nginx/nginx",
+    "Description": "The official NGINX Open Source repository.",
+    "Metadata": {
+      "owner": "nginx",
+      "repo": "nginx",
+      "language": "C",
+      "stars": "39",
+      "topics": "content-cache, http, http2, http3, https, load-balancer, mail-proxy-server, nginx, quic, reverse-proxy, security, tcp-proxy-server, tls, udp-proxy-server, web-server"
+    },
+    "FetchedAt": "2026-06-06T13:14:45.0644654+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:aquasecurity/trivy"
+    },
+    "Type": 0,
+    "Title": "aquasecurity/trivy",
+    "Url": "https://github.com/aquasecurity/trivy",
+    "Description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "Metadata": {
+      "owner": "aquasecurity",
+      "repo": "trivy",
+      "language": "Go",
+      "stars": "159",
+      "topics": "containers, devsecops, docker, go, golang, hacktoberfest, iac, infrastructure-as-code, kubernetes, misconfiguration, security, security-tools, vulnerability, vulnerability-detection, vulnerability-scanners"
+    },
+    "FetchedAt": "2026-06-06T13:14:45.2402252+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:golang/go"
+    },
+    "Type": 0,
+    "Title": "golang/go",
+    "Url": "https://github.com/golang/go",
+    "Description": "The Go programming language",
+    "Metadata": {
+      "owner": "golang",
+      "repo": "go",
+      "language": "Go",
+      "stars": "24",
+      "topics": "go, golang, language, programming-language"
+    },
+    "FetchedAt": "2026-06-06T13:14:45.4377424+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:lfnovo/open-notebook"
+    },
+    "Type": 0,
+    "Title": "lfnovo/open-notebook",
+    "Url": "https://github.com/lfnovo/open-notebook",
+    "Description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "Metadata": {
+      "owner": "lfnovo",
+      "repo": "open-notebook",
+      "language": "TypeScript",
+      "stars": "783",
+      "topics": "assistant, learning, note-taking, notebook, notes-app, self-learning"
+    },
+    "FetchedAt": "2026-06-06T13:14:45.611249+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:openai/whisper"
+    },
+    "Type": 0,
+    "Title": "openai/whisper",
+    "Url": "https://github.com/openai/whisper",
+    "Description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+    "Metadata": {
+      "owner": "openai",
+      "repo": "whisper",
+      "language": "Python",
+      "stars": "116"
+    },
+    "FetchedAt": "2026-06-06T13:14:45.7571947+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:microsoft/mxc"
+    },
+    "Type": 0,
+    "Title": "microsoft/mxc",
+    "Url": "https://github.com/microsoft/mxc",
+    "Description": "Policy-driven, layered isolation and containment ",
+    "Metadata": {
+      "owner": "microsoft",
+      "repo": "mxc",
+      "language": "Rust",
+      "stars": "57"
+    },
+    "FetchedAt": "2026-06-06T13:14:45.9450783+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:PaddlePaddle/PaddleOCR"
+    },
+    "Type": 0,
+    "Title": "PaddlePaddle/PaddleOCR",
+    "Url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "Description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100\u002B languages.",
+    "Metadata": {
+      "owner": "PaddlePaddle",
+      "repo": "PaddleOCR",
+      "language": "Python",
+      "stars": "449",
+      "topics": "ai4science, chineseocr, document-parsing, document-translation, kie, ocr, paddleocr-vl, pdf-extractor-rag, pdf-parser, pdf2markdown, pp-ocr, pp-structure, rag"
+    },
+    "FetchedAt": "2026-06-06T13:14:46.1253719+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:microsoft/VibeVoice"
+    },
+    "Type": 0,
+    "Title": "microsoft/VibeVoice",
+    "Url": "https://github.com/microsoft/VibeVoice",
+    "Description": "Open-Source Frontier Voice AI",
+    "Metadata": {
+      "owner": "microsoft",
+      "repo": "VibeVoice",
+      "language": "Python",
+      "stars": "219"
+    },
+    "FetchedAt": "2026-06-06T13:14:46.2760531+00:00"
   }
 ]
