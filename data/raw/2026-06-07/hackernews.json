@@ -16,141 +16,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48416264"
-    },
-    "Type": 1,
-    "Title": "Harness engineering: Leveraging Codex in an agent-first world",
-    "Url": "https://openai.com/index/harness-engineering/",
-    "Description": "Harness engineering: Leveraging Codex in an agent-first world",
-    "Metadata": {
-      "score": "83",
-      "author": "pramodbiligiri",
-      "commentCount": "45"
-    },
-    "FetchedAt": "2026-06-07T02:48:35.3286768+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48428025"
-    },
-    "Type": 1,
-    "Title": "Ntsc-rs \u2013 open-source video emulation of analog TV and VHS artifacts",
-    "Url": "https://ntsc.rs/",
-    "Description": "Ntsc-rs \u2013 open-source video emulation of analog TV and VHS artifacts",
-    "Metadata": {
-      "score": "280",
-      "author": "gregsadetsky",
-      "commentCount": "67"
-    },
-    "FetchedAt": "2026-06-07T02:48:35.3629043+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48430539"
-    },
-    "Type": 1,
-    "Title": "Public Domain Image Archive",
-    "Url": "https://pdimagearchive.org/",
-    "Description": "Public Domain Image Archive",
-    "Metadata": {
-      "score": "31",
-      "author": "davidbarker",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-06-07T02:48:35.3962965+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48405815"
-    },
-    "Type": 1,
-    "Title": "Introducing Boron Buckyballs: Theory that B80 cages can\u2019t be made is disproved",
-    "Url": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06",
-    "Description": "Introducing Boron Buckyballs: Theory that B80 cages can\u2019t be made is disproved",
-    "Metadata": {
-      "score": "42",
-      "author": "crescit_eundo",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-06-07T02:48:35.4293361+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48430923"
-    },
-    "Type": 1,
-    "Title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-    "Url": "https://arxiv.org/abs/2601.14470",
-    "Description": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-    "Metadata": {
-      "score": "14",
-      "author": "Anon84",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-06-07T02:48:35.46218+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48425528"
-    },
-    "Type": 1,
-    "Title": "Moving beyond fork() \u002B exec()",
-    "Url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
-    "Description": "Moving beyond fork() \u002B exec()",
-    "Metadata": {
-      "score": "262",
-      "author": "jwilk",
-      "commentCount": "264"
-    },
-    "FetchedAt": "2026-06-07T02:48:35.4957275+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48427643"
-    },
-    "Type": 1,
-    "Title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-    "Url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-    "Description": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-    "Metadata": {
-      "score": "451",
-      "author": "speckx",
-      "commentCount": "163"
-    },
-    "FetchedAt": "2026-06-07T02:48:35.5310425+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48425723"
-    },
-    "Type": 1,
-    "Title": "Zeroserve: A zero-config web server you can script with eBPF",
-    "Url": "https://su3.io/posts/introducing-zeroserve",
-    "Description": "Zeroserve: A zero-config web server you can script with eBPF",
-    "Metadata": {
-      "score": "197",
-      "author": "losfair",
-      "commentCount": "52"
-    },
-    "FetchedAt": "2026-06-07T02:48:35.5639274+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48424605"
-    },
-    "Type": 1,
-    "Title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
-    "Url": "https://twitter.com/lemire/status/2062880075117113739",
-    "Description": "Nvidia is proposing a beast of a CPU system for Windows PCs",
-    "Metadata": {
-      "score": "238",
-      "author": "tosh",
-      "commentCount": "437"
-    },
-    "FetchedAt": "2026-06-07T02:48:35.5980393+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48430693"
     },
     "Type": 1,
@@ -163,21 +28,6 @@
       "commentCount": "6"
     },
     "FetchedAt": "2026-06-07T02:48:35.6324487+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48428475"
-    },
-    "Type": 1,
-    "Title": "Sem: New primitive for code understanding \u2013 not LSPs, but entities on top of Git",
-    "Url": "https://ataraxy-labs.github.io/sem/",
-    "Description": "Sem: New primitive for code understanding \u2013 not LSPs, but entities on top of Git",
-    "Metadata": {
-      "score": "63",
-      "author": "rohanucla",
-      "commentCount": "27"
-    },
-    "FetchedAt": "2026-06-07T02:48:35.6655897+00:00"
   },
   {
     "ExternalId": {
@@ -196,21 +46,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48417490"
-    },
-    "Type": 1,
-    "Title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
-    "Url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
-    "Description": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
-    "Metadata": {
-      "score": "161",
-      "author": "toephu2",
-      "commentCount": "726"
-    },
-    "FetchedAt": "2026-06-07T02:48:35.7324603+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48426202"
     },
     "Type": 1,
@@ -223,36 +58,6 @@
       "commentCount": "59"
     },
     "FetchedAt": "2026-06-07T02:48:35.7663623+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48423762"
-    },
-    "Type": 1,
-    "Title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
-    "Url": "https://pokeemerald.com/",
-    "Description": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
-    "Metadata": {
-      "score": "281",
-      "author": "tripplyons",
-      "commentCount": "81"
-    },
-    "FetchedAt": "2026-06-07T02:48:35.8004927+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48372138"
-    },
-    "Type": 1,
-    "Title": "Show HN: Infinite canvas notes in the non-Euclidean Poincar\u00E9 disk",
-    "Url": "https://uonr.github.io/poincake/",
-    "Description": "Hi!\u003Cp\u003EThis is an infinite canvas note-taking tool where notes are laid out in a non-Euclidean, hyperbolic geometric space. As you drag and navigate through the view, you\u2019ll experience a unique fluid distortion that naturally leverages your brain\u0026#x27;s spatial memory.\u003Cp\u003EI\u2019ve been obsessed with the concept of space in HCI for years. Many modern UI patterns are essentially workarounds for the lack of screen real estate. While researching zoom-based UIs a while back, I stumbled upon old HCI papers ",
-    "Metadata": {
-      "score": "128",
-      "author": "uonr",
-      "commentCount": "23"
-    },
-    "FetchedAt": "2026-06-07T02:48:35.8348459+00:00"
   },
   {
     "ExternalId": {
@@ -271,21 +76,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48406174"
-    },
-    "Type": 1,
-    "Title": "Ask HN: What was your \u0022oh shit\u0022 moment with GenAI?",
-    "Url": "https://news.ycombinator.com/item?id=48406174",
-    "Description": "Most of us were amused when DALL-E and its peers went mainstream, and we were quick to point out the obvious flaws.\u003Cp\u003EThen ChatGPT hit the scene and again, many of us dismissed it as a parlor trick that would never amount to much.\u003Cp\u003EUsing LLMs for coding initially was a only small step up from basic code completion, and a welcome farewell to Stack Overflow.\u003Cp\u003EI am curious: what was the specific moment that you went from those quaint, dismissive observations to a slightly panicked,\n\u0026quot;Uh Oh\u0026qu",
-    "Metadata": {
-      "score": "559",
-      "author": "andrehacker",
-      "commentCount": "955"
-    },
-    "FetchedAt": "2026-06-07T02:48:35.9031968+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48429957"
     },
     "Type": 1,
@@ -298,21 +88,6 @@
       "commentCount": "0"
     },
     "FetchedAt": "2026-06-07T02:48:35.9360998+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48425611"
-    },
-    "Type": 1,
-    "Title": "Motorola effectively bricked its entire line of WiFi routers without explanation",
-    "Url": "https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down",
-    "Description": "Motorola effectively bricked its entire line of WiFi routers without explanation",
-    "Metadata": {
-      "score": "78",
-      "author": "thisislife2",
-      "commentCount": "26"
-    },
-    "FetchedAt": "2026-06-07T02:48:35.9696757+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +223,455 @@
       "commentCount": "8"
     },
     "FetchedAt": "2026-06-07T02:48:36.2746471+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48432199"
+    },
+    "Type": 1,
+    "Title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+    "Url": "https://www.ioccc.org/2025/",
+    "Description": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+    "Metadata": {
+      "score": "118",
+      "author": "matt_d",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-06-07T08:47:19.9579107+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48431981"
+    },
+    "Type": 1,
+    "Title": "I design with Claude more than Figma now",
+    "Url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+    "Description": "I design with Claude more than Figma now",
+    "Metadata": {
+      "score": "122",
+      "author": "MrBuddyCasino",
+      "commentCount": "84"
+    },
+    "FetchedAt": "2026-06-07T08:47:19.9997476+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48431461"
+    },
+    "Type": 1,
+    "Title": "Valve P2P networking broken for more than 2 months",
+    "Url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+    "Description": "Valve P2P networking broken for more than 2 months",
+    "Metadata": {
+      "score": "139",
+      "author": "babuskov",
+      "commentCount": "65"
+    },
+    "FetchedAt": "2026-06-07T08:47:20.0424999+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48431286"
+    },
+    "Type": 1,
+    "Title": "Field of clones: How horse replicas came to dominate polo",
+    "Url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
+    "Description": "Field of clones: How horse replicas came to dominate polo",
+    "Metadata": {
+      "score": "75",
+      "author": "gscott",
+      "commentCount": "39"
+    },
+    "FetchedAt": "2026-06-07T08:47:20.0850447+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48389368"
+    },
+    "Type": 1,
+    "Title": "My Software North Star",
+    "Url": "https://kristoff.it/blog/north-star/",
+    "Description": "My Software North Star",
+    "Metadata": {
+      "score": "51",
+      "author": "kristoff_it",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-06-07T08:47:20.1284396+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48430923"
+    },
+    "Type": 1,
+    "Title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+    "Url": "https://arxiv.org/abs/2601.14470",
+    "Description": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+    "Metadata": {
+      "score": "94",
+      "author": "Anon84",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-06-07T08:47:20.1703269+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48415457"
+    },
+    "Type": 1,
+    "Title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
+    "Url": "https://symbolica.io/posts/symbolica_2_0_release/",
+    "Description": "Symbolica 2.0: Programmable Symbols for Python and Rust",
+    "Metadata": {
+      "score": "74",
+      "author": "mmastrac",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-06-07T08:47:20.2144532+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48428025"
+    },
+    "Type": 1,
+    "Title": "Ntsc-rs \u2013 open-source video emulation of analog TV and VHS artifacts",
+    "Url": "https://ntsc.rs/",
+    "Description": "Ntsc-rs \u2013 open-source video emulation of analog TV and VHS artifacts",
+    "Metadata": {
+      "score": "335",
+      "author": "gregsadetsky",
+      "commentCount": "88"
+    },
+    "FetchedAt": "2026-06-07T08:47:20.2566073+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48416264"
+    },
+    "Type": 1,
+    "Title": "Harness engineering: Leveraging Codex in an agent-first world",
+    "Url": "https://openai.com/index/harness-engineering/",
+    "Description": "Harness engineering: Leveraging Codex in an agent-first world",
+    "Metadata": {
+      "score": "186",
+      "author": "pramodbiligiri",
+      "commentCount": "118"
+    },
+    "FetchedAt": "2026-06-07T08:47:20.2991273+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48430539"
+    },
+    "Type": 1,
+    "Title": "Public Domain Image Archive",
+    "Url": "https://pdimagearchive.org/",
+    "Description": "Public Domain Image Archive",
+    "Metadata": {
+      "score": "103",
+      "author": "davidbarker",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-06-07T08:47:20.3427675+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48431085"
+    },
+    "Type": 1,
+    "Title": "How Liminalism Became the Defining Aesthetic of Our Time",
+    "Url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
+    "Description": "How Liminalism Became the Defining Aesthetic of Our Time",
+    "Metadata": {
+      "score": "58",
+      "author": "zeech",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-06-07T08:47:20.3851293+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48400151"
+    },
+    "Type": 1,
+    "Title": "Speculative KV coding: losslessly compressing KV cache by up to ~4\u00D7",
+    "Url": "https://fergusfinn.com/blog/kv-entropy-coder/",
+    "Description": "Speculative KV coding: losslessly compressing KV cache by up to ~4\u00D7",
+    "Metadata": {
+      "score": "11",
+      "author": "kkm",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-06-07T08:47:20.4289315+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48393252"
+    },
+    "Type": 1,
+    "Title": "Biohub releases a world model of protein biology",
+    "Url": "https://biohub.org/news/world-model-of-protein-biology/",
+    "Description": "Biohub releases a world model of protein biology",
+    "Metadata": {
+      "score": "64",
+      "author": "gmays",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-06-07T08:47:20.4707501+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48430282"
+    },
+    "Type": 1,
+    "Title": "Human-Like Neural Nets by Catapulting",
+    "Url": "https://gwern.net/llm-catapult",
+    "Description": "Human-Like Neural Nets by Catapulting",
+    "Metadata": {
+      "score": "33",
+      "author": "telotortium",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-06-07T08:47:20.5137102+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48405815"
+    },
+    "Type": 1,
+    "Title": "Introducing Boron Buckyballs: Theory that B80 cages can\u2019t be made is disproved",
+    "Url": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06",
+    "Description": "Introducing Boron Buckyballs: Theory that B80 cages can\u2019t be made is disproved",
+    "Metadata": {
+      "score": "81",
+      "author": "crescit_eundo",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-06-07T08:47:20.5559811+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48431079"
+    },
+    "Type": 1,
+    "Title": "Show HN: Oproxy \u2013 inspect and modify network traffic from the browser",
+    "Url": "https://github.com/sauravrao637/oproxy",
+    "Description": "Show HN: Oproxy \u2013 inspect and modify network traffic from the browser",
+    "Metadata": {
+      "score": "44",
+      "author": "sauravrao637",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-06-07T08:47:20.5980432+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48425528"
+    },
+    "Type": 1,
+    "Title": "Moving beyond fork() \u002B exec()",
+    "Url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+    "Description": "Moving beyond fork() \u002B exec()",
+    "Metadata": {
+      "score": "294",
+      "author": "jwilk",
+      "commentCount": "292"
+    },
+    "FetchedAt": "2026-06-07T08:47:20.6417553+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48410427"
+    },
+    "Type": 1,
+    "Title": "Arithmetic Without Numbers \u2013 How LLMs Do Math",
+    "Url": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
+    "Description": "Arithmetic Without Numbers \u2013 How LLMs Do Math",
+    "Metadata": {
+      "score": "17",
+      "author": "old_sound",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-06-07T08:47:20.6854085+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48424605"
+    },
+    "Type": 1,
+    "Title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+    "Url": "https://twitter.com/lemire/status/2062880075117113739",
+    "Description": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+    "Metadata": {
+      "score": "276",
+      "author": "tosh",
+      "commentCount": "467"
+    },
+    "FetchedAt": "2026-06-07T08:47:20.727324+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48427643"
+    },
+    "Type": 1,
+    "Title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+    "Url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+    "Description": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+    "Metadata": {
+      "score": "570",
+      "author": "speckx",
+      "commentCount": "206"
+    },
+    "FetchedAt": "2026-06-07T08:47:20.7724758+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48425723"
+    },
+    "Type": 1,
+    "Title": "Zeroserve: A zero-config web server you can script with eBPF",
+    "Url": "https://su3.io/posts/introducing-zeroserve",
+    "Description": "Zeroserve: A zero-config web server you can script with eBPF",
+    "Metadata": {
+      "score": "228",
+      "author": "losfair",
+      "commentCount": "55"
+    },
+    "FetchedAt": "2026-06-07T08:47:20.8142449+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48417490"
+    },
+    "Type": 1,
+    "Title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+    "Url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+    "Description": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+    "Metadata": {
+      "score": "236",
+      "author": "toephu2",
+      "commentCount": "811"
+    },
+    "FetchedAt": "2026-06-07T08:47:20.8571481+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48428475"
+    },
+    "Type": 1,
+    "Title": "Sem: New primitive for code understanding \u2013 not LSPs, but entities on top of Git",
+    "Url": "https://ataraxy-labs.github.io/sem/",
+    "Description": "Sem: New primitive for code understanding \u2013 not LSPs, but entities on top of Git",
+    "Metadata": {
+      "score": "114",
+      "author": "rohanucla",
+      "commentCount": "47"
+    },
+    "FetchedAt": "2026-06-07T08:47:20.8994151+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48425611"
+    },
+    "Type": 1,
+    "Title": "Motorola effectively bricked its entire line of WiFi routers without explanation",
+    "Url": "https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down",
+    "Description": "Motorola effectively bricked its entire line of WiFi routers without explanation",
+    "Metadata": {
+      "score": "137",
+      "author": "thisislife2",
+      "commentCount": "65"
+    },
+    "FetchedAt": "2026-06-07T08:47:20.9415368+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48406174"
+    },
+    "Type": 1,
+    "Title": "Ask HN: What was your \u0022oh shit\u0022 moment with GenAI?",
+    "Url": "https://news.ycombinator.com/item?id=48406174",
+    "Description": "Most of us were amused when DALL-E and its peers went mainstream, and we were quick to point out the obvious flaws.\u003Cp\u003EThen ChatGPT hit the scene and again, many of us dismissed it as a parlor trick that would never amount to much.\u003Cp\u003EUsing LLMs for coding initially was a only small step up from basic code completion, and a welcome farewell to Stack Overflow.\u003Cp\u003EI am curious: what was the specific moment that you went from those quaint, dismissive observations to a slightly panicked,\n\u0026quot;Uh Oh\u0026qu",
+    "Metadata": {
+      "score": "609",
+      "author": "andrehacker",
+      "commentCount": "1011"
+    },
+    "FetchedAt": "2026-06-07T08:47:20.9850116+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48423762"
+    },
+    "Type": 1,
+    "Title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+    "Url": "https://pokeemerald.com/",
+    "Description": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+    "Metadata": {
+      "score": "315",
+      "author": "tripplyons",
+      "commentCount": "90"
+    },
+    "FetchedAt": "2026-06-07T08:47:21.0270976+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48431257"
+    },
+    "Type": 1,
+    "Title": "Show HN: TakoVM \u2013 Isolated model and tool execution used by enterprises",
+    "Url": "https://github.com/las7/TakoVM",
+    "Description": "Show HN: TakoVM \u2013 Isolated model and tool execution used by enterprises",
+    "Metadata": {
+      "score": "19",
+      "author": "sakuraiben",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-06-07T08:47:21.0690975+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48395648"
+    },
+    "Type": 1,
+    "Title": "Show HN: Free animated icon library for Vue",
+    "Url": "https://respeak-io.github.io/lucide-motion-vue/",
+    "Description": "Hi everyone!\u003Cp\u003ETim here, maintainer of the lucide-motion-vue library. I build this as a way to use nice animated icons in my webapps. We were already on lucide, and found animate-ui animated icons as a great collection, unfortunately React only or made to be used with shadcn.\u003Cp\u003ESo I ported the library to Vue, and combined it with another library (lucide-animated.com). As both libraries dont share the same animations and\u0026#x2F;or icons, this creates the largest animated icons library for vue that ",
+    "Metadata": {
+      "score": "20",
+      "author": "evolabs",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-06-07T08:47:21.1134293+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48372138"
+    },
+    "Type": 1,
+    "Title": "Show HN: Infinite canvas notes in the non-Euclidean Poincar\u00E9 disk",
+    "Url": "https://uonr.github.io/poincake/",
+    "Description": "Hi!\u003Cp\u003EThis is an infinite canvas note-taking tool where notes are laid out in a non-Euclidean, hyperbolic geometric space. As you drag and navigate through the view, you\u2019ll experience a unique fluid distortion that naturally leverages your brain\u0026#x27;s spatial memory.\u003Cp\u003EI\u2019ve been obsessed with the concept of space in HCI for years. Many modern UI patterns are essentially workarounds for the lack of screen real estate. While researching zoom-based UIs a while back, I stumbled upon old HCI papers ",
+    "Metadata": {
+      "score": "162",
+      "author": "uonr",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-06-07T08:47:21.156618+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48431952"
+    },
+    "Type": 1,
+    "Title": "The circus freaks of open source",
+    "Url": "https://drewdevault.com/blog/Circus-freaks-of-FOSS/",
+    "Description": "The circus freaks of open source",
+    "Metadata": {
+      "score": "77",
+      "author": "keyle",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-06-07T08:47:21.198156+00:00"
   }
 ]
