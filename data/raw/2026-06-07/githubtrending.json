@@ -1,23 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:mvanhorn/last30days-skill"
-    },
-    "Type": 0,
-    "Title": "mvanhorn/last30days-skill",
-    "Url": "https://github.com/mvanhorn/last30days-skill",
-    "Description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-    "Metadata": {
-      "owner": "mvanhorn",
-      "repo": "last30days-skill",
-      "language": "Python",
-      "stars": "439",
-      "topics": "ai-prompts, ai-skill, bluesky, claude, claude-code, clawhub, deep-research, hackernews, instagram, openclaw, polymarket, recency, reddit, research, social-media, tiktok, trends, twitter, web-search, youtube"
-    },
-    "FetchedAt": "2026-06-07T08:47:17.5541055+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:CopilotKit/CopilotKit"
     },
     "Type": 0,
@@ -49,22 +32,6 @@
       "topics": "ai, chromadb, llm, mcp, memory, python"
     },
     "FetchedAt": "2026-06-07T08:47:17.9764292+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:openai/plugins"
-    },
-    "Type": 0,
-    "Title": "openai/plugins",
-    "Url": "https://github.com/openai/plugins",
-    "Description": "OpenAI Plugins",
-    "Metadata": {
-      "owner": "openai",
-      "repo": "plugins",
-      "language": "JavaScript",
-      "stars": "213"
-    },
-    "FetchedAt": "2026-06-07T08:47:18.1564701+00:00"
   },
   {
     "ExternalId": {
@@ -136,23 +103,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:lfnovo/open-notebook"
-    },
-    "Type": 0,
-    "Title": "lfnovo/open-notebook",
-    "Url": "https://github.com/lfnovo/open-notebook",
-    "Description": "An Open Source implementation of Notebook LM with more flexibility and features",
-    "Metadata": {
-      "owner": "lfnovo",
-      "repo": "open-notebook",
-      "language": "TypeScript",
-      "stars": "794",
-      "topics": "assistant, learning, note-taking, notebook, notes-app, self-learning"
-    },
-    "FetchedAt": "2026-06-07T08:47:18.9335163+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:openai/whisper"
     },
     "Type": 0,
@@ -215,5 +165,222 @@
       "stars": "216"
     },
     "FetchedAt": "2026-06-07T08:47:19.5396452+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mvanhorn/last30days-skill"
+    },
+    "Type": 0,
+    "Title": "mvanhorn/last30days-skill",
+    "Url": "https://github.com/mvanhorn/last30days-skill",
+    "Description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "Metadata": {
+      "owner": "mvanhorn",
+      "repo": "last30days-skill",
+      "language": "Python",
+      "stars": "1,097",
+      "topics": "ai-prompts, ai-skill, bluesky, claude, claude-code, clawhub, deep-research, hackernews, instagram, openclaw, polymarket, recency, reddit, research, social-media, tiktok, trends, twitter, web-search, youtube"
+    },
+    "FetchedAt": "2026-06-07T13:26:00.1308369+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NousResearch/hermes-agent"
+    },
+    "Type": 0,
+    "Title": "NousResearch/hermes-agent",
+    "Url": "https://github.com/NousResearch/hermes-agent",
+    "Description": "The agent that grows with you",
+    "Metadata": {
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "language": "Python",
+      "stars": "1,117",
+      "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw"
+    },
+    "FetchedAt": "2026-06-07T13:26:00.2374614+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:lfnovo/open-notebook"
+    },
+    "Type": 0,
+    "Title": "lfnovo/open-notebook",
+    "Url": "https://github.com/lfnovo/open-notebook",
+    "Description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "Metadata": {
+      "owner": "lfnovo",
+      "repo": "open-notebook",
+      "language": "TypeScript",
+      "stars": "555",
+      "topics": "assistant, learning, note-taking, notebook, notes-app, self-learning"
+    },
+    "FetchedAt": "2026-06-07T13:26:00.3375885+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:yikart/AiToEarn"
+    },
+    "Type": 0,
+    "Title": "yikart/AiToEarn",
+    "Url": "https://github.com/yikart/AiToEarn",
+    "Description": "Let\u0027s use AI to Earn!",
+    "Metadata": {
+      "owner": "yikart",
+      "repo": "AiToEarn",
+      "language": "TypeScript",
+      "stars": "180",
+      "topics": "auto-publish, douyin, douyin-api, electron-app, electron-react, kuaishou, kwai, published, shipinhao, tool, xiaohongshu"
+    },
+    "FetchedAt": "2026-06-07T13:26:00.4238064+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:aaif-goose/goose"
+    },
+    "Type": 0,
+    "Title": "aaif-goose/goose",
+    "Url": "https://github.com/aaif-goose/goose",
+    "Description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "Metadata": {
+      "owner": "aaif-goose",
+      "repo": "goose",
+      "language": "Rust",
+      "stars": "262",
+      "topics": "acp, ai, ai-agents, mcp"
+    },
+    "FetchedAt": "2026-06-07T13:26:00.5308039+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Crosstalk-Solutions/project-nomad"
+    },
+    "Type": 0,
+    "Title": "Crosstalk-Solutions/project-nomad",
+    "Url": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "Description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered\u2014anytime, anywhere.",
+    "Metadata": {
+      "owner": "Crosstalk-Solutions",
+      "repo": "project-nomad",
+      "language": "TypeScript",
+      "stars": "304"
+    },
+    "FetchedAt": "2026-06-07T13:26:00.6382779+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ggml-org/llama.cpp"
+    },
+    "Type": 0,
+    "Title": "ggml-org/llama.cpp",
+    "Url": "https://github.com/ggml-org/llama.cpp",
+    "Description": "LLM inference in C/C\u002B\u002B",
+    "Metadata": {
+      "owner": "ggml-org",
+      "repo": "llama.cpp",
+      "language": "C\u002B\u002B",
+      "stars": "199",
+      "topics": "ggml"
+    },
+    "FetchedAt": "2026-06-07T13:26:00.7274874+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:RyanCodrai/turbovec"
+    },
+    "Type": 0,
+    "Title": "RyanCodrai/turbovec",
+    "Url": "https://github.com/RyanCodrai/turbovec",
+    "Description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+    "Metadata": {
+      "owner": "RyanCodrai",
+      "repo": "turbovec",
+      "language": "Python",
+      "stars": "1,533",
+      "topics": "ann, avx512, embedding, embeddings, faiss, nearest-neighbor, neon, python, quant, quantization, rag, rust, simd, turboquant, vector-search"
+    },
+    "FetchedAt": "2026-06-07T13:26:00.8117255+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:TapXWorld/ChinaTextbook"
+    },
+    "Type": 0,
+    "Title": "TapXWorld/ChinaTextbook",
+    "Url": "https://github.com/TapXWorld/ChinaTextbook",
+    "Description": "\u6240\u6709\u5C0F\u521D\u9AD8\u3001\u5927\u5B66PDF\u6559\u6750\u3002",
+    "Metadata": {
+      "owner": "TapXWorld",
+      "repo": "ChinaTextbook",
+      "language": "Roff",
+      "stars": "355"
+    },
+    "FetchedAt": "2026-06-07T13:26:00.8996553+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:openai/plugins"
+    },
+    "Type": 0,
+    "Title": "openai/plugins",
+    "Url": "https://github.com/openai/plugins",
+    "Description": "OpenAI Plugins",
+    "Metadata": {
+      "owner": "openai",
+      "repo": "plugins",
+      "language": "JavaScript",
+      "stars": "262"
+    },
+    "FetchedAt": "2026-06-07T13:26:00.9889672+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:refactoringhq/tolaria"
+    },
+    "Type": 0,
+    "Title": "refactoringhq/tolaria",
+    "Url": "https://github.com/refactoringhq/tolaria",
+    "Description": "Desktop app to manage markdown knowledge bases",
+    "Metadata": {
+      "owner": "refactoringhq",
+      "repo": "tolaria",
+      "language": "TypeScript",
+      "stars": "242"
+    },
+    "FetchedAt": "2026-06-07T13:26:01.113486+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HunxByts/GhostTrack"
+    },
+    "Type": 0,
+    "Title": "HunxByts/GhostTrack",
+    "Url": "https://github.com/HunxByts/GhostTrack",
+    "Description": "Useful tool to track location or mobile number",
+    "Metadata": {
+      "owner": "HunxByts",
+      "repo": "GhostTrack",
+      "language": "Python",
+      "stars": "21",
+      "topics": "cybersecurity, fyp, hacking, hacking-tool, indonesia, information, information-gathering, ip-geolocation, linux, osint, osint-python, osint-tool, pentesting, phone-number, python, python-hacking, termux, termux-hacks, termux-tool"
+    },
+    "FetchedAt": "2026-06-07T13:26:01.2036503+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:microsoft/pg_durable"
+    },
+    "Type": 0,
+    "Title": "microsoft/pg_durable",
+    "Url": "https://github.com/microsoft/pg_durable",
+    "Description": "PostgreSQL in-database durable execution",
+    "Metadata": {
+      "owner": "microsoft",
+      "repo": "pg_durable",
+      "language": "Rust",
+      "stars": "314",
+      "topics": "ai-pipelines, ai-workflows, durable-execution, durable-functions, durable-workflows, postgresql"
+    },
+    "FetchedAt": "2026-06-07T13:26:01.2992039+00:00"
   }
 ]
