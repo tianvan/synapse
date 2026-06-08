@@ -1,23 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:mvanhorn/last30days-skill"
-    },
-    "Type": 0,
-    "Title": "mvanhorn/last30days-skill",
-    "Url": "https://github.com/mvanhorn/last30days-skill",
-    "Description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-    "Metadata": {
-      "owner": "mvanhorn",
-      "repo": "last30days-skill",
-      "language": "Python",
-      "stars": "1,111",
-      "topics": "ai-prompts, ai-skill, bluesky, claude, claude-code, clawhub, deep-research, hackernews, instagram, openclaw, polymarket, recency, reddit, research, social-media, tiktok, trends, twitter, web-search, youtube"
-    },
-    "FetchedAt": "2026-06-08T10:21:54.98956+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:NousResearch/hermes-agent"
     },
     "Type": 0,
@@ -69,23 +52,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:aaif-goose/goose"
-    },
-    "Type": 0,
-    "Title": "aaif-goose/goose",
-    "Url": "https://github.com/aaif-goose/goose",
-    "Description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-    "Metadata": {
-      "owner": "aaif-goose",
-      "repo": "goose",
-      "language": "Rust",
-      "stars": "322",
-      "topics": "acp, ai, ai-agents, mcp"
-    },
-    "FetchedAt": "2026-06-08T10:21:55.8255472+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:Crosstalk-Solutions/project-nomad"
     },
     "Type": 0,
@@ -116,71 +82,6 @@
       "topics": "ggml"
     },
     "FetchedAt": "2026-06-08T10:21:56.2185045+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:RyanCodrai/turbovec"
-    },
-    "Type": 0,
-    "Title": "RyanCodrai/turbovec",
-    "Url": "https://github.com/RyanCodrai/turbovec",
-    "Description": "A vector index built on TurboQuant, written in Rust with Python bindings",
-    "Metadata": {
-      "owner": "RyanCodrai",
-      "repo": "turbovec",
-      "language": "Python",
-      "stars": "1,554",
-      "topics": "ann, avx512, embedding, embeddings, faiss, nearest-neighbor, neon, python, quant, quantization, rag, rust, simd, turboquant, vector-search"
-    },
-    "FetchedAt": "2026-06-08T10:21:56.4321957+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:TapXWorld/ChinaTextbook"
-    },
-    "Type": 0,
-    "Title": "TapXWorld/ChinaTextbook",
-    "Url": "https://github.com/TapXWorld/ChinaTextbook",
-    "Description": "\u6240\u6709\u5C0F\u521D\u9AD8\u3001\u5927\u5B66PDF\u6559\u6750\u3002",
-    "Metadata": {
-      "owner": "TapXWorld",
-      "repo": "ChinaTextbook",
-      "language": "Roff",
-      "stars": "350"
-    },
-    "FetchedAt": "2026-06-08T10:21:56.6075574+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:openai/plugins"
-    },
-    "Type": 0,
-    "Title": "openai/plugins",
-    "Url": "https://github.com/openai/plugins",
-    "Description": "OpenAI Plugins",
-    "Metadata": {
-      "owner": "openai",
-      "repo": "plugins",
-      "language": "JavaScript",
-      "stars": "262"
-    },
-    "FetchedAt": "2026-06-08T10:21:56.7815482+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:refactoringhq/tolaria"
-    },
-    "Type": 0,
-    "Title": "refactoringhq/tolaria",
-    "Url": "https://github.com/refactoringhq/tolaria",
-    "Description": "Desktop app to manage markdown knowledge bases",
-    "Metadata": {
-      "owner": "refactoringhq",
-      "repo": "tolaria",
-      "language": "TypeScript",
-      "stars": "245"
-    },
-    "FetchedAt": "2026-06-08T10:21:57.0027571+00:00"
   },
   {
     "ExternalId": {
@@ -215,5 +116,222 @@
       "topics": "ai-pipelines, ai-workflows, durable-execution, durable-functions, durable-workflows, postgresql"
     },
     "FetchedAt": "2026-06-08T10:21:57.3701024+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mvanhorn/last30days-skill"
+    },
+    "Type": 0,
+    "Title": "mvanhorn/last30days-skill",
+    "Url": "https://github.com/mvanhorn/last30days-skill",
+    "Description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "Metadata": {
+      "owner": "mvanhorn",
+      "repo": "last30days-skill",
+      "language": "Python",
+      "stars": "3,558",
+      "topics": "ai-prompts, ai-skill, bluesky, claude, claude-code, clawhub, deep-research, hackernews, instagram, openclaw, polymarket, recency, reddit, research, social-media, tiktok, trends, twitter, web-search, youtube"
+    },
+    "FetchedAt": "2026-06-08T15:34:21.4216451+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:RyanCodrai/turbovec"
+    },
+    "Type": 0,
+    "Title": "RyanCodrai/turbovec",
+    "Url": "https://github.com/RyanCodrai/turbovec",
+    "Description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+    "Metadata": {
+      "owner": "RyanCodrai",
+      "repo": "turbovec",
+      "language": "Python",
+      "stars": "1,730",
+      "topics": "ann, avx512, embedding, embeddings, faiss, nearest-neighbor, neon, python, quant, quantization, rag, rust, simd, turboquant, vector-search"
+    },
+    "FetchedAt": "2026-06-08T15:34:21.6624287+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google/skills"
+    },
+    "Type": 0,
+    "Title": "google/skills",
+    "Url": "https://github.com/google/skills",
+    "Description": "Agent Skills for Google products and technologies",
+    "Metadata": {
+      "owner": "google",
+      "repo": "skills",
+      "language": "Python",
+      "stars": "481",
+      "topics": "google, googlecloud, skills"
+    },
+    "FetchedAt": "2026-06-08T15:34:21.8783011+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:refactoringhq/tolaria"
+    },
+    "Type": 0,
+    "Title": "refactoringhq/tolaria",
+    "Url": "https://github.com/refactoringhq/tolaria",
+    "Description": "Desktop app to manage markdown knowledge bases",
+    "Metadata": {
+      "owner": "refactoringhq",
+      "repo": "tolaria",
+      "language": "TypeScript",
+      "stars": "649"
+    },
+    "FetchedAt": "2026-06-08T15:34:22.1010188+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Panniantong/Agent-Reach"
+    },
+    "Type": 0,
+    "Title": "Panniantong/Agent-Reach",
+    "Url": "https://github.com/Panniantong/Agent-Reach",
+    "Description": "Give your AI agent eyes to see the entire internet. Read \u0026 search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+    "Metadata": {
+      "owner": "Panniantong",
+      "repo": "Agent-Reach",
+      "language": "Python",
+      "stars": "961",
+      "topics": "agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript"
+    },
+    "FetchedAt": "2026-06-08T15:34:22.2883733+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:phuryn/pm-skills"
+    },
+    "Type": 0,
+    "Title": "phuryn/pm-skills",
+    "Url": "https://github.com/phuryn/pm-skills",
+    "Description": "PM Skills Marketplace: 100\u002B agentic skills, commands, and plugins \u2014 from discovery to strategy, execution, launch, and growth.",
+    "Metadata": {
+      "owner": "phuryn",
+      "repo": "pm-skills",
+      "stars": "112",
+      "topics": "agent-skill-repository, agent-skills, agentic-skills, claude-code-marketplace, claude-code-plugins, claude-cowork-plugin, product-management"
+    },
+    "FetchedAt": "2026-06-08T15:34:22.4892589+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:openai/plugins"
+    },
+    "Type": 0,
+    "Title": "openai/plugins",
+    "Url": "https://github.com/openai/plugins",
+    "Description": "OpenAI Plugins",
+    "Metadata": {
+      "owner": "openai",
+      "repo": "plugins",
+      "language": "JavaScript",
+      "stars": "296"
+    },
+    "FetchedAt": "2026-06-08T15:34:22.6616753+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Andyyyy64/whichllm"
+    },
+    "Type": 0,
+    "Title": "Andyyyy64/whichllm",
+    "Url": "https://github.com/Andyyyy64/whichllm",
+    "Description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+    "Metadata": {
+      "owner": "Andyyyy64",
+      "repo": "whichllm",
+      "language": "Python",
+      "stars": "103",
+      "topics": "ai, apple-silicon, benchmarks, cli, command-line-tool, gguf, gpu, huggingface, inference, llm, local-llm, ollama, python, vram"
+    },
+    "FetchedAt": "2026-06-08T15:34:22.8421209+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:MemPalace/mempalace"
+    },
+    "Type": 0,
+    "Title": "MemPalace/mempalace",
+    "Url": "https://github.com/MemPalace/mempalace",
+    "Description": "The best-benchmarked open-source AI memory system. And it\u0027s free.",
+    "Metadata": {
+      "owner": "MemPalace",
+      "repo": "mempalace",
+      "language": "Python",
+      "stars": "452",
+      "topics": "ai, chromadb, llm, mcp, memory, python"
+    },
+    "FetchedAt": "2026-06-08T15:34:23.0214322+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:roboflow/supervision"
+    },
+    "Type": 0,
+    "Title": "roboflow/supervision",
+    "Url": "https://github.com/roboflow/supervision",
+    "Description": "We write your reusable computer vision tools. \uD83D\uDC9C",
+    "Metadata": {
+      "owner": "roboflow",
+      "repo": "supervision",
+      "language": "Python",
+      "stars": "957",
+      "topics": "classification, coco, computer-vision, deep-learning, hacktoberfest, image-processing, instance-segmentation, low-code, machine-learning, metrics, object-detection, oriented-bounding-box, pascal-voc, python, pytorch, tensorflow, tracking, video-processing, yolo"
+    },
+    "FetchedAt": "2026-06-08T15:34:23.2216429+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:CopilotKit/CopilotKit"
+    },
+    "Type": 0,
+    "Title": "CopilotKit/CopilotKit",
+    "Url": "https://github.com/CopilotKit/CopilotKit",
+    "Description": "The Frontend Stack for Agents \u0026 Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+    "Metadata": {
+      "owner": "CopilotKit",
+      "repo": "CopilotKit",
+      "language": "TypeScript",
+      "stars": "398",
+      "topics": "agent, agent-native, agentic-ai, agents, ai, ai-agent, ai-assistant, assistant, assistant-chat-bots, copilot, copilot-chat, generative-ui, js, llm, nextjs, open-source, react, reactjs, ts, typescript"
+    },
+    "FetchedAt": "2026-06-08T15:34:23.4815652+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:TapXWorld/ChinaTextbook"
+    },
+    "Type": 0,
+    "Title": "TapXWorld/ChinaTextbook",
+    "Url": "https://github.com/TapXWorld/ChinaTextbook",
+    "Description": "\u6240\u6709\u5C0F\u521D\u9AD8\u3001\u5927\u5B66PDF\u6559\u6750\u3002",
+    "Metadata": {
+      "owner": "TapXWorld",
+      "repo": "ChinaTextbook",
+      "language": "Roff",
+      "stars": "593"
+    },
+    "FetchedAt": "2026-06-08T15:34:23.6548584+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:aaif-goose/goose"
+    },
+    "Type": 0,
+    "Title": "aaif-goose/goose",
+    "Url": "https://github.com/aaif-goose/goose",
+    "Description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "Metadata": {
+      "owner": "aaif-goose",
+      "repo": "goose",
+      "language": "Rust",
+      "stars": "699",
+      "topics": "acp, ai, ai-agents, mcp"
+    },
+    "FetchedAt": "2026-06-08T15:34:23.8435653+00:00"
   }
 ]
