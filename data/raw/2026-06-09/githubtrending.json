@@ -1,40 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:mvanhorn/last30days-skill"
-    },
-    "Type": 0,
-    "Title": "mvanhorn/last30days-skill",
-    "Url": "https://github.com/mvanhorn/last30days-skill",
-    "Description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-    "Metadata": {
-      "owner": "mvanhorn",
-      "repo": "last30days-skill",
-      "language": "Python",
-      "stars": "3,558",
-      "topics": "ai-prompts, ai-skill, bluesky, claude, claude-code, clawhub, deep-research, hackernews, instagram, openclaw, polymarket, recency, reddit, research, social-media, tiktok, trends, twitter, web-search, youtube"
-    },
-    "FetchedAt": "2026-06-09T09:28:27.0449799+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:RyanCodrai/turbovec"
-    },
-    "Type": 0,
-    "Title": "RyanCodrai/turbovec",
-    "Url": "https://github.com/RyanCodrai/turbovec",
-    "Description": "A vector index built on TurboQuant, written in Rust with Python bindings",
-    "Metadata": {
-      "owner": "RyanCodrai",
-      "repo": "turbovec",
-      "language": "Python",
-      "stars": "1,729",
-      "topics": "ann, avx512, embedding, embeddings, faiss, nearest-neighbor, neon, python, quant, quantization, rag, rust, simd, turboquant, vector-search"
-    },
-    "FetchedAt": "2026-06-09T09:28:27.3312808+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:google/skills"
     },
     "Type": 0,
@@ -49,22 +15,6 @@
       "topics": "google, googlecloud, skills"
     },
     "FetchedAt": "2026-06-09T09:28:27.4883843+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:refactoringhq/tolaria"
-    },
-    "Type": 0,
-    "Title": "refactoringhq/tolaria",
-    "Url": "https://github.com/refactoringhq/tolaria",
-    "Description": "Desktop app to manage markdown knowledge bases",
-    "Metadata": {
-      "owner": "refactoringhq",
-      "repo": "tolaria",
-      "language": "TypeScript",
-      "stars": "651"
-    },
-    "FetchedAt": "2026-06-09T09:28:27.6861553+00:00"
   },
   {
     "ExternalId": {
@@ -85,55 +35,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:phuryn/pm-skills"
-    },
-    "Type": 0,
-    "Title": "phuryn/pm-skills",
-    "Url": "https://github.com/phuryn/pm-skills",
-    "Description": "PM Skills Marketplace: 100\u002B agentic skills, commands, and plugins \u2014 from discovery to strategy, execution, launch, and growth.",
-    "Metadata": {
-      "owner": "phuryn",
-      "repo": "pm-skills",
-      "stars": "164",
-      "topics": "agent-skill-repository, agent-skills, agentic-skills, claude-code-marketplace, claude-code-plugins, claude-cowork-plugin, product-management"
-    },
-    "FetchedAt": "2026-06-09T09:28:28.0082545+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:openai/plugins"
-    },
-    "Type": 0,
-    "Title": "openai/plugins",
-    "Url": "https://github.com/openai/plugins",
-    "Description": "OpenAI Plugins",
-    "Metadata": {
-      "owner": "openai",
-      "repo": "plugins",
-      "language": "JavaScript",
-      "stars": "296"
-    },
-    "FetchedAt": "2026-06-09T09:28:28.1652322+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:Andyyyy64/whichllm"
-    },
-    "Type": 0,
-    "Title": "Andyyyy64/whichllm",
-    "Url": "https://github.com/Andyyyy64/whichllm",
-    "Description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
-    "Metadata": {
-      "owner": "Andyyyy64",
-      "repo": "whichllm",
-      "language": "Python",
-      "stars": "143",
-      "topics": "ai, apple-silicon, benchmarks, cli, command-line-tool, gguf, gpu, huggingface, inference, llm, local-llm, ollama, python, vram"
-    },
-    "FetchedAt": "2026-06-09T09:28:28.3473152+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:MemPalace/mempalace"
     },
     "Type": 0,
@@ -148,23 +49,6 @@
       "topics": "ai, chromadb, llm, mcp, memory, python"
     },
     "FetchedAt": "2026-06-09T09:28:28.4934237+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:roboflow/supervision"
-    },
-    "Type": 0,
-    "Title": "roboflow/supervision",
-    "Url": "https://github.com/roboflow/supervision",
-    "Description": "We write your reusable computer vision tools. \uD83D\uDC9C",
-    "Metadata": {
-      "owner": "roboflow",
-      "repo": "supervision",
-      "language": "Python",
-      "stars": "1,288",
-      "topics": "classification, coco, computer-vision, deep-learning, hacktoberfest, image-processing, instance-segmentation, low-code, machine-learning, metrics, object-detection, oriented-bounding-box, pascal-voc, python, pytorch, tensorflow, tracking, video-processing, yolo"
-    },
-    "FetchedAt": "2026-06-09T09:28:28.6532483+00:00"
   },
   {
     "ExternalId": {
@@ -185,19 +69,70 @@
   },
   {
     "ExternalId": {
-      "Value": "github:TapXWorld/ChinaTextbook"
+      "Value": "github:mvanhorn/last30days-skill"
     },
     "Type": 0,
-    "Title": "TapXWorld/ChinaTextbook",
-    "Url": "https://github.com/TapXWorld/ChinaTextbook",
-    "Description": "\u6240\u6709\u5C0F\u521D\u9AD8\u3001\u5927\u5B66PDF\u6559\u6750\u3002",
+    "Title": "mvanhorn/last30days-skill",
+    "Url": "https://github.com/mvanhorn/last30days-skill",
+    "Description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
     "Metadata": {
-      "owner": "TapXWorld",
-      "repo": "ChinaTextbook",
-      "language": "Roff",
-      "stars": "592"
+      "owner": "mvanhorn",
+      "repo": "last30days-skill",
+      "language": "Python",
+      "stars": "3,177",
+      "topics": "ai-prompts, ai-skill, bluesky, claude, claude-code, clawhub, deep-research, hackernews, instagram, openclaw, polymarket, recency, reddit, research, social-media, tiktok, trends, twitter, web-search, youtube"
     },
-    "FetchedAt": "2026-06-09T09:28:29.0563142+00:00"
+    "FetchedAt": "2026-06-09T14:31:57.5214326+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:RyanCodrai/turbovec"
+    },
+    "Type": 0,
+    "Title": "RyanCodrai/turbovec",
+    "Url": "https://github.com/RyanCodrai/turbovec",
+    "Description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+    "Metadata": {
+      "owner": "RyanCodrai",
+      "repo": "turbovec",
+      "language": "Python",
+      "stars": "1,800",
+      "topics": "ann, avx512, embedding, embeddings, faiss, nearest-neighbor, neon, python, quant, quantization, rag, rust, simd, turboquant, vector-search"
+    },
+    "FetchedAt": "2026-06-09T14:31:57.77215+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:roboflow/supervision"
+    },
+    "Type": 0,
+    "Title": "roboflow/supervision",
+    "Url": "https://github.com/roboflow/supervision",
+    "Description": "We write your reusable computer vision tools. \uD83D\uDC9C",
+    "Metadata": {
+      "owner": "roboflow",
+      "repo": "supervision",
+      "language": "Python",
+      "stars": "735",
+      "topics": "classification, coco, computer-vision, deep-learning, hacktoberfest, image-processing, instance-segmentation, low-code, machine-learning, metrics, object-detection, oriented-bounding-box, pascal-voc, python, pytorch, tensorflow, tracking, video-processing, yolo"
+    },
+    "FetchedAt": "2026-06-09T14:31:57.9631893+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:refactoringhq/tolaria"
+    },
+    "Type": 0,
+    "Title": "refactoringhq/tolaria",
+    "Url": "https://github.com/refactoringhq/tolaria",
+    "Description": "Desktop app to manage markdown knowledge bases",
+    "Metadata": {
+      "owner": "refactoringhq",
+      "repo": "tolaria",
+      "language": "TypeScript",
+      "stars": "821"
+    },
+    "FetchedAt": "2026-06-09T14:31:58.1969428+00:00"
   },
   {
     "ExternalId": {
@@ -211,9 +146,125 @@
       "owner": "aaif-goose",
       "repo": "goose",
       "language": "Rust",
-      "stars": "699",
+      "stars": "490",
       "topics": "acp, ai, ai-agents, mcp"
     },
-    "FetchedAt": "2026-06-09T09:28:29.2328104+00:00"
+    "FetchedAt": "2026-06-09T14:31:58.4172694+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Andyyyy64/whichllm"
+    },
+    "Type": 0,
+    "Title": "Andyyyy64/whichllm",
+    "Url": "https://github.com/Andyyyy64/whichllm",
+    "Description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+    "Metadata": {
+      "owner": "Andyyyy64",
+      "repo": "whichllm",
+      "language": "Python",
+      "stars": "631",
+      "topics": "ai, apple-silicon, benchmarks, cli, command-line-tool, gguf, gpu, huggingface, inference, llm, local-llm, ollama, python, vram"
+    },
+    "FetchedAt": "2026-06-09T14:31:58.6205112+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:TapXWorld/ChinaTextbook"
+    },
+    "Type": 0,
+    "Title": "TapXWorld/ChinaTextbook",
+    "Url": "https://github.com/TapXWorld/ChinaTextbook",
+    "Description": "\u6240\u6709\u5C0F\u521D\u9AD8\u3001\u5927\u5B66PDF\u6559\u6750\u3002",
+    "Metadata": {
+      "owner": "TapXWorld",
+      "repo": "ChinaTextbook",
+      "language": "Roff",
+      "stars": "517"
+    },
+    "FetchedAt": "2026-06-09T14:31:58.8179734+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:yikart/AiToEarn"
+    },
+    "Type": 0,
+    "Title": "yikart/AiToEarn",
+    "Url": "https://github.com/yikart/AiToEarn",
+    "Description": "Let\u0027s use AI to Earn!",
+    "Metadata": {
+      "owner": "yikart",
+      "repo": "AiToEarn",
+      "language": "TypeScript",
+      "stars": "786",
+      "topics": "auto-publish, douyin, douyin-api, electron-app, electron-react, kuaishou, kwai, published, shipinhao, tool, xiaohongshu"
+    },
+    "FetchedAt": "2026-06-09T14:31:59.0185709+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:phuryn/pm-skills"
+    },
+    "Type": 0,
+    "Title": "phuryn/pm-skills",
+    "Url": "https://github.com/phuryn/pm-skills",
+    "Description": "PM Skills Marketplace: 100\u002B agentic skills, commands, and plugins \u2014 from discovery to strategy, execution, launch, and growth.",
+    "Metadata": {
+      "owner": "phuryn",
+      "repo": "pm-skills",
+      "stars": "808",
+      "topics": "agent-skill-repository, agent-skills, agentic-skills, claude-code-marketplace, claude-code-plugins, claude-cowork-plugin, product-management"
+    },
+    "FetchedAt": "2026-06-09T14:31:59.2226001+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:openai/plugins"
+    },
+    "Type": 0,
+    "Title": "openai/plugins",
+    "Url": "https://github.com/openai/plugins",
+    "Description": "OpenAI Plugins",
+    "Metadata": {
+      "owner": "openai",
+      "repo": "plugins",
+      "language": "JavaScript",
+      "stars": "284"
+    },
+    "FetchedAt": "2026-06-09T14:31:59.4005503+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:maziyarpanahi/openmed"
+    },
+    "Type": 0,
+    "Title": "maziyarpanahi/openmed",
+    "Url": "https://github.com/maziyarpanahi/openmed",
+    "Description": "open-source healthcare ai",
+    "Metadata": {
+      "owner": "maziyarpanahi",
+      "repo": "openmed",
+      "language": "Python",
+      "stars": "165",
+      "topics": "bert, deepseek, healthcare, ios, llm, mlx, ner, on-device, on-premise, pii, pii-detection, qwen, sovereign-ai, swift, swift-package, swiftui"
+    },
+    "FetchedAt": "2026-06-09T14:31:59.6101759+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "Shell",
+      "stars": "348",
+      "topics": "agent-skills, antigravity, antigravity-ide, claude-code, cursor, skills"
+    },
+    "FetchedAt": "2026-06-09T14:31:59.7965893+00:00"
   }
 ]
