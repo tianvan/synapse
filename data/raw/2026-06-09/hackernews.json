@@ -1,21 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:48450142"
-    },
-    "Type": 1,
-    "Title": "Apple reveals new AI architecture built around Google Gemini models",
-    "Url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-    "Description": "Apple reveals new AI architecture built around Google Gemini models",
-    "Metadata": {
-      "score": "357",
-      "author": "unclefuzzy",
-      "commentCount": "322"
-    },
-    "FetchedAt": "2026-06-09T02:29:04.1054313+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48419000"
     },
     "Type": 1,
@@ -28,81 +13,6 @@
       "commentCount": "6"
     },
     "FetchedAt": "2026-06-09T02:29:04.1379826+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48449084"
-    },
-    "Type": 1,
-    "Title": "Siri AI",
-    "Url": "https://www.apple.com/apple-intelligence/",
-    "Description": "Siri AI",
-    "Metadata": {
-      "score": "424",
-      "author": "0xedb",
-      "commentCount": "374"
-    },
-    "FetchedAt": "2026-06-09T02:29:04.1709485+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48445554"
-    },
-    "Type": 1,
-    "Title": "Show HN: Performative-UI \u2013 A react component library of design tropes",
-    "Url": "https://vorpus.github.io/performativeUI/",
-    "Description": "hope you enjoy",
-    "Metadata": {
-      "score": "799",
-      "author": "lizhang",
-      "commentCount": "156"
-    },
-    "FetchedAt": "2026-06-09T02:29:04.204278+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48446428"
-    },
-    "Type": 1,
-    "Title": "xAI is looking more like a datacentre REIT than a frontier lab",
-    "Url": "https://martinalderson.com/posts/xais-new-rental-business/",
-    "Description": "xAI is looking more like a datacentre REIT than a frontier lab",
-    "Metadata": {
-      "score": "407",
-      "author": "martinald",
-      "commentCount": "323"
-    },
-    "FetchedAt": "2026-06-09T02:29:04.2372483+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48446639"
-    },
-    "Type": 1,
-    "Title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-    "Url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-    "Description": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-    "Metadata": {
-      "score": "503",
-      "author": "gainsurier",
-      "commentCount": "350"
-    },
-    "FetchedAt": "2026-06-09T02:29:04.270455+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48413655"
-    },
-    "Type": 1,
-    "Title": "Looking Forward to Postgres 19: Query Hints",
-    "Url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
-    "Description": "Looking Forward to Postgres 19: Query Hints",
-    "Metadata": {
-      "score": "65",
-      "author": "jjgreen",
-      "commentCount": "7"
-    },
-    "FetchedAt": "2026-06-09T02:29:04.3025697+00:00"
   },
   {
     "ExternalId": {
@@ -121,51 +31,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48447062"
-    },
-    "Type": 1,
-    "Title": "EU-banned pesticides found in rice, tea and spices",
-    "Url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
-    "Description": "EU-banned pesticides found in rice, tea and spices",
-    "Metadata": {
-      "score": "248",
-      "author": "john-titor",
-      "commentCount": "90"
-    },
-    "FetchedAt": "2026-06-09T02:29:04.3688687+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48449665"
-    },
-    "Type": 1,
-    "Title": "Apple Core AI Framework",
-    "Url": "https://developer.apple.com/documentation/coreai/",
-    "Description": "Apple Core AI Framework",
-    "Metadata": {
-      "score": "205",
-      "author": "hmokiguess",
-      "commentCount": "44"
-    },
-    "FetchedAt": "2026-06-09T02:29:04.4016906+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48447806"
-    },
-    "Type": 1,
-    "Title": "Show HN: Gitdot \u2013 a better GitHub. Open-source, written in Rust",
-    "Url": "https://gitdot.io/",
-    "Description": "What works now: user signups, org creations, private\u0026#x2F;public repos, and importing GitHub repositories (both as read-only mirrors and full migrations). So basically, you can create, push and pull to a repo, but we don\u0026#x27;t have many features quite yet (issues, PRs, CI).\u003Cp\u003EWhat is a bit unique is: 1) we built it in Rust and 2) the website is a little odd. Its design is inspired by CLIs (e.g., fzf, broot, vim) instead of web apps, and as such, lacks some affordances that you might typically e",
-    "Metadata": {
-      "score": "157",
-      "author": "baepaul",
-      "commentCount": "126"
-    },
-    "FetchedAt": "2026-06-09T02:29:04.4339419+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48455233"
     },
     "Type": 1,
@@ -178,66 +43,6 @@
       "commentCount": "13"
     },
     "FetchedAt": "2026-06-09T02:29:04.4662618+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48450065"
-    },
-    "Type": 1,
-    "Title": "Why are cells small?",
-    "Url": "https://burrito.bio/essays/what-limits-a-cells-size",
-    "Description": "Why are cells small?",
-    "Metadata": {
-      "score": "110",
-      "author": "mailyk",
-      "commentCount": "52"
-    },
-    "FetchedAt": "2026-06-09T02:29:04.4984441+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48450646"
-    },
-    "Type": 1,
-    "Title": "Surveillance is not safety: A statement on the UK\u0027s latest threat to privacy [pdf]",
-    "Url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
-    "Description": "Surveillance is not safety: A statement on the UK\u0027s latest threat to privacy [pdf]",
-    "Metadata": {
-      "score": "434",
-      "author": "g0xA52A2A",
-      "commentCount": "160"
-    },
-    "FetchedAt": "2026-06-09T02:29:04.531544+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48451723"
-    },
-    "Type": 1,
-    "Title": "FrontierCode",
-    "Url": "https://cognition.ai/blog/frontier-code",
-    "Description": "FrontierCode",
-    "Metadata": {
-      "score": "104",
-      "author": "streamer45",
-      "commentCount": "19"
-    },
-    "FetchedAt": "2026-06-09T02:29:04.5641626+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48449187"
-    },
-    "Type": 1,
-    "Title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
-    "Url": "https://news.ycombinator.com/item?id=48449187",
-    "Description": "Ask HN: What are tools you have made for yourself since the advent of AI?",
-    "Metadata": {
-      "score": "156",
-      "author": "aryamaan",
-      "commentCount": "286"
-    },
-    "FetchedAt": "2026-06-09T02:29:04.596585+00:00"
   },
   {
     "ExternalId": {
@@ -256,21 +61,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48448313"
-    },
-    "Type": 1,
-    "Title": "Ask HN: Why hasn\u0027t there been a real competitor to Ticketmaster yet?",
-    "Url": "https://news.ycombinator.com/item?id=48448313",
-    "Description": "It feels like every event\u0026#x2F;venue is selling tickets exclusively through Ticketmaster.  Every other ticketing platform seems to only hold resale tickets in their inventory which just transfers the tickets to your Ticketmaster account when bought. With all the hate Ticketmaster has gotten and all the other ticketing platforms out there, I\u0026#x27;m surprised Ticketmaster still has a hold of pretty much the entire market. How are they doing this? Why haven\u0026#x27;t the other platforms been able to c",
-    "Metadata": {
-      "score": "84",
-      "author": "mdni007",
-      "commentCount": "83"
-    },
-    "FetchedAt": "2026-06-09T02:29:04.6612026+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48445171"
     },
     "Type": 1,
@@ -283,21 +73,6 @@
       "commentCount": "44"
     },
     "FetchedAt": "2026-06-09T02:29:04.694022+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48446893"
-    },
-    "Type": 1,
-    "Title": "AI is slowing down",
-    "Url": "https://www.wheresyoured.at/ai-is-slowing-down/",
-    "Description": "AI is slowing down",
-    "Metadata": {
-      "score": "412",
-      "author": "crescit_eundo",
-      "commentCount": "437"
-    },
-    "FetchedAt": "2026-06-09T02:29:04.7276192+00:00"
   },
   {
     "ExternalId": {
@@ -343,21 +118,6 @@
       "commentCount": "20"
     },
     "FetchedAt": "2026-06-09T02:29:04.8269366+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48452000"
-    },
-    "Type": 1,
-    "Title": "Apple bets cheaper AI will woo small developers",
-    "Url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
-    "Description": "Apple bets cheaper AI will woo small developers",
-    "Metadata": {
-      "score": "17",
-      "author": "jbernardo95",
-      "commentCount": "8"
-    },
-    "FetchedAt": "2026-06-09T02:29:04.891407+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +208,455 @@
       "commentCount": "49"
     },
     "FetchedAt": "2026-06-09T02:29:05.0891409+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48457830"
+    },
+    "Type": 1,
+    "Title": "Microsoft\u0027s open source tools were hacked to steal passwords of AI developers",
+    "Url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+    "Description": "Microsoft\u0027s open source tools were hacked to steal passwords of AI developers",
+    "Metadata": {
+      "score": "110",
+      "author": "raffael_de",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-06-09T09:28:29.6690905+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48458257"
+    },
+    "Type": 1,
+    "Title": "Forever Young: how one molecule can lock plants in a youthful state.(2025)",
+    "Url": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age",
+    "Description": "Forever Young: how one molecule can lock plants in a youthful state.(2025)",
+    "Metadata": {
+      "score": "13",
+      "author": "bryanrasmussen",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-09T09:28:29.7109378+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48421858"
+    },
+    "Type": 1,
+    "Title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+    "Url": "https://opencv.org/opencv-5/",
+    "Description": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+    "Metadata": {
+      "score": "147",
+      "author": "ternaus",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-06-09T09:28:29.7550726+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48450142"
+    },
+    "Type": 1,
+    "Title": "Apple reveals new AI architecture built around Google Gemini models",
+    "Url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+    "Description": "Apple reveals new AI architecture built around Google Gemini models",
+    "Metadata": {
+      "score": "587",
+      "author": "unclefuzzy",
+      "commentCount": "448"
+    },
+    "FetchedAt": "2026-06-09T09:28:29.7970047+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48458636"
+    },
+    "Type": 1,
+    "Title": "Eagle Computer: The rise and fall of an early PC clone",
+    "Url": "https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/",
+    "Description": "Eagle Computer: The rise and fall of an early PC clone",
+    "Metadata": {
+      "score": "3",
+      "author": "giuliomagnifico",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-09T09:28:29.838613+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48456245"
+    },
+    "Type": 1,
+    "Title": "Porting the ThinkPad X61 to Coreboot",
+    "Url": "https://blog.aheymans.xyz/post/thinkpad_x61/",
+    "Description": "Porting the ThinkPad X61 to Coreboot",
+    "Metadata": {
+      "score": "68",
+      "author": "walterbell",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-06-09T09:28:29.8815206+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48449084"
+    },
+    "Type": 1,
+    "Title": "Siri AI",
+    "Url": "https://www.apple.com/apple-intelligence/",
+    "Description": "Siri AI",
+    "Metadata": {
+      "score": "571",
+      "author": "0xedb",
+      "commentCount": "527"
+    },
+    "FetchedAt": "2026-06-09T09:28:29.9248828+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48447111"
+    },
+    "Type": 1,
+    "Title": "Old\u0027aVista \u2013 The most powerful guide to the old Internet",
+    "Url": "https://oldavista.com/",
+    "Description": "Old\u0027aVista \u2013 The most powerful guide to the old Internet",
+    "Metadata": {
+      "score": "103",
+      "author": "abnercoimbre",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-06-09T09:28:29.968208+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48437743"
+    },
+    "Type": 1,
+    "Title": "Thi.ng \u2013 open-source building blocks for computational design and art",
+    "Url": "https://thi.ng",
+    "Description": "Thi.ng \u2013 open-source building blocks for computational design and art",
+    "Metadata": {
+      "score": "32",
+      "author": "nmstoker",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-06-09T09:28:30.0112349+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48446428"
+    },
+    "Type": 1,
+    "Title": "xAI is looking more like a datacentre REIT than a frontier lab",
+    "Url": "https://martinalderson.com/posts/xais-new-rental-business/",
+    "Description": "xAI is looking more like a datacentre REIT than a frontier lab",
+    "Metadata": {
+      "score": "556",
+      "author": "martinald",
+      "commentCount": "435"
+    },
+    "FetchedAt": "2026-06-09T09:28:30.0533305+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48445554"
+    },
+    "Type": 1,
+    "Title": "Show HN: Performative-UI \u2013 A react component library of design tropes",
+    "Url": "https://vorpus.github.io/performativeUI/",
+    "Description": "hope you enjoy",
+    "Metadata": {
+      "score": "972",
+      "author": "lizhang",
+      "commentCount": "178"
+    },
+    "FetchedAt": "2026-06-09T09:28:30.0953357+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48447062"
+    },
+    "Type": 1,
+    "Title": "EU-banned pesticides found in rice, tea and spices",
+    "Url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
+    "Description": "EU-banned pesticides found in rice, tea and spices",
+    "Metadata": {
+      "score": "408",
+      "author": "john-titor",
+      "commentCount": "181"
+    },
+    "FetchedAt": "2026-06-09T09:28:30.1372265+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48446639"
+    },
+    "Type": 1,
+    "Title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+    "Url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+    "Description": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+    "Metadata": {
+      "score": "567",
+      "author": "gainsurier",
+      "commentCount": "418"
+    },
+    "FetchedAt": "2026-06-09T09:28:30.1790319+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48449665"
+    },
+    "Type": 1,
+    "Title": "Apple Core AI Framework",
+    "Url": "https://developer.apple.com/documentation/coreai/",
+    "Description": "Apple Core AI Framework",
+    "Metadata": {
+      "score": "295",
+      "author": "hmokiguess",
+      "commentCount": "75"
+    },
+    "FetchedAt": "2026-06-09T09:28:30.221579+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48457181"
+    },
+    "Type": 1,
+    "Title": "Facebook is paying people overseas promoting Alberta separatism",
+    "Url": "https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966",
+    "Description": "Facebook is paying people overseas promoting Alberta separatism",
+    "Metadata": {
+      "score": "111",
+      "author": "vrganj",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-06-09T09:28:30.2637642+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48413655"
+    },
+    "Type": 1,
+    "Title": "Looking Forward to Postgres 19: Query Hints",
+    "Url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
+    "Description": "Looking Forward to Postgres 19: Query Hints",
+    "Metadata": {
+      "score": "155",
+      "author": "jjgreen",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-06-09T09:28:30.3072065+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48447806"
+    },
+    "Type": 1,
+    "Title": "Show HN: Gitdot \u2013 A better GitHub. Open-source, written in Rust",
+    "Url": "https://gitdot.io/",
+    "Description": "What works now: user signups, org creations, private\u0026#x2F;public repos, and importing GitHub repositories (both as read-only mirrors and full migrations). So basically, you can create, push and pull to a repo, but we don\u0026#x27;t have many features quite yet (issues, PRs, CI).\u003Cp\u003EWhat is a bit unique is: 1) we built it in Rust and 2) the website is a little odd. Its design is inspired by CLIs (e.g., fzf, broot, vim) instead of web apps, and as such, lacks some affordances that you might typically e",
+    "Metadata": {
+      "score": "255",
+      "author": "baepaul",
+      "commentCount": "222"
+    },
+    "FetchedAt": "2026-06-09T09:28:30.3569397+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48456015"
+    },
+    "Type": 1,
+    "Title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
+    "Url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+    "Description": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
+    "Metadata": {
+      "score": "1",
+      "author": "davidchl",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-09T09:28:30.3985423+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48430821"
+    },
+    "Type": 1,
+    "Title": "Passing DBs through continuations",
+    "Url": "https://remy.wang/blog/cps.html",
+    "Description": "Passing DBs through continuations",
+    "Metadata": {
+      "score": "54",
+      "author": "remywang",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-06-09T09:28:30.4413494+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48449187"
+    },
+    "Type": 1,
+    "Title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+    "Url": "https://news.ycombinator.com/item?id=48449187",
+    "Description": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+    "Metadata": {
+      "score": "299",
+      "author": "aryamaan",
+      "commentCount": "488"
+    },
+    "FetchedAt": "2026-06-09T09:28:30.4837549+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48433356"
+    },
+    "Type": 1,
+    "Title": "H2JVM \u2013 A Haskell Library for Writing JVM Bytecode",
+    "Url": "https://discourse.haskell.org/t/h2jvm-a-haskell-library-for-writing-jvm-bytecode/14182",
+    "Description": "H2JVM \u2013 A Haskell Library for Writing JVM Bytecode",
+    "Metadata": {
+      "score": "4",
+      "author": "rowbin",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-09T09:28:30.5266018+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48451723"
+    },
+    "Type": 1,
+    "Title": "FrontierCode",
+    "Url": "https://cognition.ai/blog/frontier-code",
+    "Description": "FrontierCode",
+    "Metadata": {
+      "score": "189",
+      "author": "streamer45",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-06-09T09:28:30.5682369+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48448313"
+    },
+    "Type": 1,
+    "Title": "Ask HN: Why hasn\u0027t there been a real competitor to Ticketmaster yet?",
+    "Url": "https://news.ycombinator.com/item?id=48448313",
+    "Description": "It feels like every event\u0026#x2F;venue is selling tickets exclusively through Ticketmaster.  Every other ticketing platform seems to only hold resale tickets in their inventory which just transfers the tickets to your Ticketmaster account when bought. With all the hate Ticketmaster has gotten and all the other ticketing platforms out there, I\u0026#x27;m surprised Ticketmaster still has a hold of pretty much the entire market. How are they doing this? Why haven\u0026#x27;t the other platforms been able to c",
+    "Metadata": {
+      "score": "167",
+      "author": "mdni007",
+      "commentCount": "140"
+    },
+    "FetchedAt": "2026-06-09T09:28:30.6105861+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48450065"
+    },
+    "Type": 1,
+    "Title": "Why are cells small?",
+    "Url": "https://burrito.bio/essays/what-limits-a-cells-size",
+    "Description": "Why are cells small?",
+    "Metadata": {
+      "score": "148",
+      "author": "mailyk",
+      "commentCount": "68"
+    },
+    "FetchedAt": "2026-06-09T09:28:30.6530247+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48450646"
+    },
+    "Type": 1,
+    "Title": "Surveillance is not safety: A statement on the UK\u0027s latest threat to privacy [pdf]",
+    "Url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
+    "Description": "Surveillance is not safety: A statement on the UK\u0027s latest threat to privacy [pdf]",
+    "Metadata": {
+      "score": "564",
+      "author": "g0xA52A2A",
+      "commentCount": "207"
+    },
+    "FetchedAt": "2026-06-09T09:28:30.6965691+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48438595"
+    },
+    "Type": 1,
+    "Title": "How much do amd64 microarchitecture levels help in Go?",
+    "Url": "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/",
+    "Description": "How much do amd64 microarchitecture levels help in Go?",
+    "Metadata": {
+      "score": "54",
+      "author": "zdw",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-06-09T09:28:30.7391994+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48450694"
+    },
+    "Type": 1,
+    "Title": "I\u0027m building a parallel internet, and it\u0027s called The Thinnernet",
+    "Url": "https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html",
+    "Description": "I\u0027m building a parallel internet, and it\u0027s called The Thinnernet",
+    "Metadata": {
+      "score": "83",
+      "author": "initramfs",
+      "commentCount": "81"
+    },
+    "FetchedAt": "2026-06-09T09:28:30.7809701+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48446893"
+    },
+    "Type": 1,
+    "Title": "AI is slowing down",
+    "Url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+    "Description": "AI is slowing down",
+    "Metadata": {
+      "score": "547",
+      "author": "crescit_eundo",
+      "commentCount": "566"
+    },
+    "FetchedAt": "2026-06-09T09:28:30.8238034+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48455928"
+    },
+    "Type": 1,
+    "Title": "Job: Head of Stonehenge",
+    "Url": "https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449",
+    "Description": "Job: Head of Stonehenge",
+    "Metadata": {
+      "score": "157",
+      "author": "mooreds",
+      "commentCount": "124"
+    },
+    "FetchedAt": "2026-06-09T09:28:30.8668608+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48452000"
+    },
+    "Type": 1,
+    "Title": "Apple bets cheaper AI will woo small developers",
+    "Url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+    "Description": "Apple bets cheaper AI will woo small developers",
+    "Metadata": {
+      "score": "64",
+      "author": "jbernardo95",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-06-09T09:28:30.9096562+00:00"
   }
 ]
