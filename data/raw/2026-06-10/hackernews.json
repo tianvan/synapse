@@ -166,66 +166,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48469658"
-    },
-    "Type": 1,
-    "Title": "macOS Container Machines",
-    "Url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
-    "Description": "macOS Container Machines",
-    "Metadata": {
-      "score": "744",
-      "author": "timsneath",
-      "commentCount": "279"
-    },
-    "FetchedAt": "2026-06-10T09:43:07.5657126+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48472877"
-    },
-    "Type": 1,
-    "Title": "Mercedes\u2011Benz starts large\u2011scale production of electric axial flux motor",
-    "Url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
-    "Description": "Mercedes\u2011Benz starts large\u2011scale production of electric axial flux motor",
-    "Metadata": {
-      "score": "52",
-      "author": "raffael_de",
-      "commentCount": "18"
-    },
-    "FetchedAt": "2026-06-10T09:43:07.6220397+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48463808"
-    },
-    "Type": 1,
-    "Title": "Claude Fable 5",
-    "Url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-    "Description": "System Card [pdf]: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www-cdn.anthropic.com\u0026#x2F;d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www-cdn.anthropic.com\u0026#x2F;d00db56fa754a1b115b6dd7cb2e3c3...\u003C/a\u003E",
-    "Metadata": {
-      "score": "2232",
-      "author": "Philpax",
-      "commentCount": "1722"
-    },
-    "FetchedAt": "2026-06-10T09:43:07.6960468+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48467705"
-    },
-    "Type": 1,
-    "Title": "Upcoming breaking changes for npm v12",
-    "Url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
-    "Description": "Upcoming breaking changes for npm v12",
-    "Metadata": {
-      "score": "363",
-      "author": "plasma",
-      "commentCount": "138"
-    },
-    "FetchedAt": "2026-06-10T09:43:07.7524349+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48437587"
     },
     "Type": 1,
@@ -256,66 +196,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48470248"
-    },
-    "Type": 1,
-    "Title": "German ruling declares Google liable for false answers in AI Overviews",
-    "Url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-    "Description": "German ruling declares Google liable for false answers in AI Overviews",
-    "Metadata": {
-      "score": "531",
-      "author": "ahlCVA",
-      "commentCount": "307"
-    },
-    "FetchedAt": "2026-06-10T09:43:07.9239135+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48470581"
-    },
-    "Type": 1,
-    "Title": "Rich Sutton on AI creativity and discovery",
-    "Url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=K5LAFEjTlBA\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=K5LAFEjTlBA\u003C/a\u003E",
-    "Metadata": {
-      "score": "112",
-      "author": "yimby",
-      "commentCount": "56"
-    },
-    "FetchedAt": "2026-06-10T09:43:07.9802668+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48468766"
-    },
-    "Type": 1,
-    "Title": "RIP software hackathons. Long live the hardware hackathon",
-    "Url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
-    "Description": "RIP software hackathons. Long live the hardware hackathon",
-    "Metadata": {
-      "score": "172",
-      "author": "ozcap",
-      "commentCount": "72"
-    },
-    "FetchedAt": "2026-06-10T09:43:08.0367805+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48473166"
-    },
-    "Type": 1,
-    "Title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
-    "Url": "https://news.ycombinator.com/item?id=48473166",
-    "Description": "\u0026gt; For Fable 5, Mythos 5, and future models on Bedrock with similar or higher capability levels, Anthropic will require 30-day retention for all traffic on Mythos-class models. Retaining data for a limited period allows Anthropic to detect patterns of misuse that are not visible from a single exchange. Once you opt into data retention, your data will leave AWS\u2019s data and security boundary.\u003Cp\u003EFrom the announcement here: https:\u0026#x2F;\u0026#x2F;aws.amazon.com\u0026#x2F;blogs\u0026#x2F;aws\u0026#x2F;anthropic-claude-",
-    "Metadata": {
-      "score": "32",
-      "author": "TomAnthony",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-06-10T09:43:08.0946877+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48471048"
     },
     "Type": 1,
@@ -331,96 +211,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48466277"
-    },
-    "Type": 1,
-    "Title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-    "Url": "https://aarushgupta.io/posts/kan-fpga/",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260609200156\u0026#x2F;https:\u0026#x2F;\u0026#x2F;aarushgupta.io\u0026#x2F;posts\u0026#x2F;kan-fpga\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260609200156\u0026#x2F;https:\u0026#x2F;\u0026#x2F;aarushgup...\u003C/a\u003E",
-    "Metadata": {
-      "score": "226",
-      "author": "ag2718",
-      "commentCount": "31"
-    },
-    "FetchedAt": "2026-06-10T09:43:08.2075361+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48464140"
-    },
-    "Type": 1,
-    "Title": "What it feels like to work with Mythos",
-    "Url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
-    "Description": "What it feels like to work with Mythos",
-    "Metadata": {
-      "score": "273",
-      "author": "swolpers",
-      "commentCount": "230"
-    },
-    "FetchedAt": "2026-06-10T09:43:08.2661607+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48431213"
-    },
-    "Type": 1,
-    "Title": "The oldest surviving animated feature film at 100",
-    "Url": "https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film",
-    "Description": "The oldest surviving animated feature film at 100",
-    "Metadata": {
-      "score": "105",
-      "author": "1659447091",
-      "commentCount": "12"
-    },
-    "FetchedAt": "2026-06-10T09:43:08.3223579+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48468370"
-    },
-    "Type": 1,
-    "Title": "Surprise, Pay $1000",
-    "Url": "https://forestwalk.ai/blog/surprise-blacksmith-costs/",
-    "Description": "Surprise, Pay $1000",
-    "Metadata": {
-      "score": "155",
-      "author": "apike",
-      "commentCount": "57"
-    },
-    "FetchedAt": "2026-06-10T09:43:08.3789573+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48427468"
-    },
-    "Type": 1,
-    "Title": "More Molly Guards",
-    "Url": "https://unsung.aresluna.org/more-molly-guards/",
-    "Description": "More Molly Guards",
-    "Metadata": {
-      "score": "121",
-      "author": "zdw",
-      "commentCount": "15"
-    },
-    "FetchedAt": "2026-06-10T09:43:08.4373857+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48443644"
-    },
-    "Type": 1,
-    "Title": "Reviving Papers with Code",
-    "Url": "https://paperswithcode.co/",
-    "Description": "Reviving Papers with Code",
-    "Metadata": {
-      "score": "10",
-      "author": "nielz_r",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-06-10T09:43:08.4948735+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48467896"
     },
     "Type": 1,
@@ -433,21 +223,6 @@
       "commentCount": "397"
     },
     "FetchedAt": "2026-06-10T09:43:08.5526242+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48421858"
-    },
-    "Type": 1,
-    "Title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
-    "Url": "https://opencv.org/opencv-5/",
-    "Description": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
-    "Metadata": {
-      "score": "760",
-      "author": "ternaus",
-      "commentCount": "136"
-    },
-    "FetchedAt": "2026-06-10T09:43:08.6090981+00:00"
   },
   {
     "ExternalId": {
@@ -478,21 +253,6 @@
       "commentCount": "8"
     },
     "FetchedAt": "2026-06-10T09:43:08.722619+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48411102"
-    },
-    "Type": 1,
-    "Title": "I Thought I Knew How Electrolysis Worked [video]",
-    "Url": "https://www.youtube.com/watch?v=eq7fR9ISuCw",
-    "Description": "I Thought I Knew How Electrolysis Worked [video]",
-    "Metadata": {
-      "score": "21",
-      "author": "tambourine_man",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-06-10T09:43:08.77904+00:00"
   },
   {
     "ExternalId": {
@@ -613,5 +373,455 @@
       "commentCount": "147"
     },
     "FetchedAt": "2026-06-10T09:43:09.5764483+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48475483"
+    },
+    "Type": 1,
+    "Title": "Building an HTML-first site doubled our users overnight",
+    "Url": "https://mohkohn.co.uk/writing/html-first/",
+    "Description": "Building an HTML-first site doubled our users overnight",
+    "Metadata": {
+      "score": "258",
+      "author": "edent",
+      "commentCount": "105"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.541792+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48476466"
+    },
+    "Type": 1,
+    "Title": "PgDog is funded and coming to a database near you",
+    "Url": "https://pgdog.dev/blog/our-funding-announcement",
+    "Description": "PgDog is funded and coming to a database near you",
+    "Metadata": {
+      "score": "53",
+      "author": "levkk",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.5805752+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48472877"
+    },
+    "Type": 1,
+    "Title": "Mercedes\u2011Benz starts large\u2011scale production of electric axial flux motor",
+    "Url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
+    "Description": "Mercedes\u2011Benz starts large\u2011scale production of electric axial flux motor",
+    "Metadata": {
+      "score": "315",
+      "author": "raffael_de",
+      "commentCount": "178"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.5956996+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48475100"
+    },
+    "Type": 1,
+    "Title": "All 9,300 Japanese train station, animated by the year it opened (1872\u20132026)",
+    "Url": "https://jivx.com/eki",
+    "Description": "All 9,300 Japanese train station, animated by the year it opened (1872\u20132026)",
+    "Metadata": {
+      "score": "76",
+      "author": "momentmaker",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.6279917+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48469658"
+    },
+    "Type": 1,
+    "Title": "macOS Container Machines",
+    "Url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+    "Description": "macOS Container Machines",
+    "Metadata": {
+      "score": "998",
+      "author": "timsneath",
+      "commentCount": "348"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.6452176+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48475938"
+    },
+    "Type": 1,
+    "Title": "I Hate (Most) Keyboard \u0027Fn\u0027 Keys",
+    "Url": "https://danq.me/2026/06/09/fn-keys/",
+    "Description": "I Hate (Most) Keyboard \u0027Fn\u0027 Keys",
+    "Metadata": {
+      "score": "118",
+      "author": "speckx",
+      "commentCount": "97"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.6592903+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48463808"
+    },
+    "Type": 1,
+    "Title": "Claude Fable 5",
+    "Url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "Description": "System Card [pdf]: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www-cdn.anthropic.com\u0026#x2F;d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www-cdn.anthropic.com\u0026#x2F;d00db56fa754a1b115b6dd7cb2e3c3...\u003C/a\u003E",
+    "Metadata": {
+      "score": "2427",
+      "author": "Philpax",
+      "commentCount": "1919"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.676079+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48442932"
+    },
+    "Type": 1,
+    "Title": "Buy a train, bridge or tracks from the Swiss Railway",
+    "Url": "https://sbbresale.ch/",
+    "Description": "Buy a train, bridge or tracks from the Swiss Railway",
+    "Metadata": {
+      "score": "84",
+      "author": "kisamoto",
+      "commentCount": "45"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.6914163+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48445702"
+    },
+    "Type": 1,
+    "Title": "Who Runs Your Rust Future? Hands-On Intro to Async Rust",
+    "Url": "https://aibodh.com/posts/async-rust-chapter-1-hands-on-intro-to-async-rust/",
+    "Description": "Who Runs Your Rust Future? Hands-On Intro to Async Rust",
+    "Metadata": {
+      "score": "32",
+      "author": "febin",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.7067229+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48473166"
+    },
+    "Type": 1,
+    "Title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+    "Url": "https://news.ycombinator.com/item?id=48473166",
+    "Description": "\u0026gt; For Fable 5, Mythos 5, and future models on Bedrock with similar or higher capability levels, Anthropic will require 30-day retention for all traffic on Mythos-class models. Retaining data for a limited period allows Anthropic to detect patterns of misuse that are not visible from a single exchange. Once you opt into data retention, your data will leave AWS\u2019s data and security boundary.\u003Cp\u003EFrom the announcement here: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;aws.amazon.com\u0026#x2F;blogs\u0026#x2F;aws\u0026#x2F;anthropi",
+    "Metadata": {
+      "score": "264",
+      "author": "TomAnthony",
+      "commentCount": "167"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.7222152+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48443644"
+    },
+    "Type": 1,
+    "Title": "Reviving Papers with Code",
+    "Url": "https://paperswithcode.co/",
+    "Description": "Reviving Papers with Code",
+    "Metadata": {
+      "score": "119",
+      "author": "nielz_r",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.7359975+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48476136"
+    },
+    "Type": 1,
+    "Title": "A \u20AC0.01 bank transfer could compromise a banking AI agent",
+    "Url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+    "Description": "A \u20AC0.01 bank transfer could compromise a banking AI agent",
+    "Metadata": {
+      "score": "10",
+      "author": "tvissers",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.7505578+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48451789"
+    },
+    "Type": 1,
+    "Title": "Hacking for Defense Stanford 2026 \u2013 Lessons Learned Presentations",
+    "Url": "https://steveblank.com/2026/06/08/g-for-defense-stanford-2026-lessons-learned-presentations/",
+    "Description": "Hacking for Defense Stanford 2026 \u2013 Lessons Learned Presentations",
+    "Metadata": {
+      "score": "55",
+      "author": "sblank",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.7654266+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48473845"
+    },
+    "Type": 1,
+    "Title": "Show HN: macOS menu bar gauges for your Claude Code quota",
+    "Url": "https://github.com/grzegorz-raczek-unit8/claude-quota",
+    "Description": "Show HN: macOS menu bar gauges for your Claude Code quota",
+    "Metadata": {
+      "score": "39",
+      "author": "grzracz",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.7791838+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48467705"
+    },
+    "Type": 1,
+    "Title": "Upcoming breaking changes for npm v12",
+    "Url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+    "Description": "Upcoming breaking changes for npm v12",
+    "Metadata": {
+      "score": "437",
+      "author": "plasma",
+      "commentCount": "177"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.8134574+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48433525"
+    },
+    "Type": 1,
+    "Title": "Magnetoelectric antennas could transform how underwater robots talk",
+    "Url": "https://newatlas.com/engineering/magnetoelectric-antennas-submarine-robots-communications/",
+    "Description": "Magnetoelectric antennas could transform how underwater robots talk",
+    "Metadata": {
+      "score": "50",
+      "author": "breve",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.8286163+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48447378"
+    },
+    "Type": 1,
+    "Title": "\u0027They take you out of life, out of time\u0027: a journey into Spain\u0027s cave paintings",
+    "Url": "https://www.theguardian.com/science/2026/jun/02/journey-into-spain-palaeolithic-cave-paintings-altamira",
+    "Description": "\u0027They take you out of life, out of time\u0027: a journey into Spain\u0027s cave paintings",
+    "Metadata": {
+      "score": "8",
+      "author": "NaOH",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.8442506+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48470248"
+    },
+    "Type": 1,
+    "Title": "German ruling declares Google liable for false answers in AI Overviews",
+    "Url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+    "Description": "German ruling declares Google liable for false answers in AI Overviews",
+    "Metadata": {
+      "score": "803",
+      "author": "ahlCVA",
+      "commentCount": "443"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.8593609+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48470581"
+    },
+    "Type": 1,
+    "Title": "Rich Sutton on AI creativity and discovery",
+    "Url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=K5LAFEjTlBA\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=K5LAFEjTlBA\u003C/a\u003E",
+    "Metadata": {
+      "score": "174",
+      "author": "yimby",
+      "commentCount": "87"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.875888+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48476474"
+    },
+    "Type": 1,
+    "Title": "Notes on DeepSeek",
+    "Url": "https://twitter.com/NikoMcCarty/status/2064686557400100884",
+    "Description": "Notes on DeepSeek",
+    "Metadata": {
+      "score": "30",
+      "author": "vinhnx",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.8928829+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48476751"
+    },
+    "Type": 1,
+    "Title": "Britain Became as Poor as Mississippi",
+    "Url": "https://www.theatlantic.com/magazine/2026/07/uk-productivity-economy-reform-party/687303/",
+    "Description": "Britain Became as Poor as Mississippi",
+    "Metadata": {
+      "score": "44",
+      "author": "SanjayMehta",
+      "commentCount": "46"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.9072793+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48468766"
+    },
+    "Type": 1,
+    "Title": "RIP software hackathons. Long live the hardware hackathon",
+    "Url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+    "Description": "RIP software hackathons. Long live the hardware hackathon",
+    "Metadata": {
+      "score": "235",
+      "author": "ozcap",
+      "commentCount": "113"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.9221682+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48468370"
+    },
+    "Type": 1,
+    "Title": "Surprise, pay $1000",
+    "Url": "https://forestwalk.ai/blog/surprise-blacksmith-costs/",
+    "Description": "Surprise, pay $1000",
+    "Metadata": {
+      "score": "277",
+      "author": "apike",
+      "commentCount": "122"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.9366105+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48466277"
+    },
+    "Type": 1,
+    "Title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+    "Url": "https://aarushgupta.io/posts/kan-fpga/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260609200156\u0026#x2F;https:\u0026#x2F;\u0026#x2F;aarushgupta.io\u0026#x2F;posts\u0026#x2F;kan-fpga\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260609200156\u0026#x2F;https:\u0026#x2F;\u0026#x2F;aarushgup...\u003C/a\u003E",
+    "Metadata": {
+      "score": "261",
+      "author": "ag2718",
+      "commentCount": "39"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.9519838+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48464140"
+    },
+    "Type": 1,
+    "Title": "What it feels like to work with Mythos",
+    "Url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "Description": "What it feels like to work with Mythos",
+    "Metadata": {
+      "score": "333",
+      "author": "swolpers",
+      "commentCount": "293"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.967545+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48411102"
+    },
+    "Type": 1,
+    "Title": "I thought I knew how electrolysis worked [video]",
+    "Url": "https://www.youtube.com/watch?v=eq7fR9ISuCw",
+    "Description": "I thought I knew how electrolysis worked [video]",
+    "Metadata": {
+      "score": "81",
+      "author": "tambourine_man",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.9836812+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48476067"
+    },
+    "Type": 1,
+    "Title": "ICE denies having a protester database. A letter to Congress sheds more light",
+    "Url": "https://www.npr.org/2026/06/10/nx-s1-5843159/ice-protester-database-dhs",
+    "Description": "ICE denies having a protester database. A letter to Congress sheds more light",
+    "Metadata": {
+      "score": "84",
+      "author": "Jimmc414",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-06-10T14:58:31.9976636+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48431213"
+    },
+    "Type": 1,
+    "Title": "The oldest surviving animated feature film at 100",
+    "Url": "https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film",
+    "Description": "The oldest surviving animated feature film at 100",
+    "Metadata": {
+      "score": "137",
+      "author": "1659447091",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-06-10T14:58:32.0132137+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48421858"
+    },
+    "Type": 1,
+    "Title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+    "Url": "https://opencv.org/opencv-5/",
+    "Description": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+    "Metadata": {
+      "score": "798",
+      "author": "ternaus",
+      "commentCount": "143"
+    },
+    "FetchedAt": "2026-06-10T14:58:32.0277499+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48427468"
+    },
+    "Type": 1,
+    "Title": "More Molly Guards",
+    "Url": "https://unsung.aresluna.org/more-molly-guards/",
+    "Description": "More Molly Guards",
+    "Metadata": {
+      "score": "164",
+      "author": "zdw",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-06-10T14:58:32.0431768+00:00"
   }
 ]
