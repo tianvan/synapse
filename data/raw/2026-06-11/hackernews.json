@@ -376,36 +376,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48490826"
-    },
-    "Type": 1,
-    "Title": "MiMo Code Is Now Released and Open-Source",
-    "Url": "https://mimo.xiaomi.com/mimocode",
-    "Description": "MiMo Code Is Now Released and Open-Source",
-    "Metadata": {
-      "score": "83",
-      "author": "apeters",
-      "commentCount": "39"
-    },
-    "FetchedAt": "2026-06-11T15:40:53.9224098+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48489402"
-    },
-    "Type": 1,
-    "Title": "Lines of Code Got a Better Publicist",
-    "Url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
-    "Description": "Lines of Code Got a Better Publicist",
-    "Metadata": {
-      "score": "199",
-      "author": "RyeCombinator",
-      "commentCount": "126"
-    },
-    "FetchedAt": "2026-06-11T15:40:53.9965634+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48490532"
     },
     "Type": 1,
@@ -418,66 +388,6 @@
       "commentCount": "10"
     },
     "FetchedAt": "2026-06-11T15:40:54.0621429+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48490715"
-    },
-    "Type": 1,
-    "Title": "Nextcloud Hub 26 Spring: Built together, designed for the future",
-    "Url": "https://nextcloud.com/blog/nextcloud-hub26-spring/",
-    "Description": "Nextcloud Hub 26 Spring: Built together, designed for the future",
-    "Metadata": {
-      "score": "57",
-      "author": "doener",
-      "commentCount": "25"
-    },
-    "FetchedAt": "2026-06-11T15:40:54.1916915+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48487029"
-    },
-    "Type": 1,
-    "Title": "Pok\u00E9mon Go Scans Trained the Navigation Tech for Military Drones",
-    "Url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
-    "Description": "Pok\u00E9mon Go Scans Trained the Navigation Tech for Military Drones",
-    "Metadata": {
-      "score": "550",
-      "author": "vrganj",
-      "commentCount": "252"
-    },
-    "FetchedAt": "2026-06-11T15:40:54.3066454+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48489917"
-    },
-    "Type": 1,
-    "Title": "Open Reproduction of DeepSeek-R1",
-    "Url": "https://github.com/huggingface/open-r1",
-    "Description": "Open Reproduction of DeepSeek-R1",
-    "Metadata": {
-      "score": "64",
-      "author": "yogthos",
-      "commentCount": "8"
-    },
-    "FetchedAt": "2026-06-11T15:40:54.3656132+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48491486"
-    },
-    "Type": 1,
-    "Title": "FPS.cob: A first person shooter in COBOL",
-    "Url": "https://github.com/icitry/FPS.cob",
-    "Description": "FPS.cob: A first person shooter in COBOL",
-    "Metadata": {
-      "score": "10",
-      "author": "MBCook",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-06-11T15:40:54.4544804+00:00"
   },
   {
     "ExternalId": {
@@ -823,5 +733,455 @@
       "commentCount": "78"
     },
     "FetchedAt": "2026-06-11T15:40:56.2697439+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48490024"
+    },
+    "Type": 1,
+    "Title": "Show HN: Homebrew 6.0.0",
+    "Url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+    "Description": "Today, I\u2019m proud to announce Homebrew 6.0.0. The most significant changes since 5.1.0 are a new tap trust security mechanism, the new faster, smaller, default internal Homebrew JSON API, sandboxing on Linux, better defaults informed by our user survey, many brew bundle improvements, improved performance and initial support for macOS 27 (Golden Gate).\u003Cp\u003EHappy to discuss any questions here!",
+    "Metadata": {
+      "score": "576",
+      "author": "mikemcquaid",
+      "commentCount": "139"
+    },
+    "FetchedAt": "2026-06-11T20:12:19.3056605+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48490826"
+    },
+    "Type": 1,
+    "Title": "MiMo Code is now released and open-source",
+    "Url": "https://mimo.xiaomi.com/mimocode",
+    "Description": "MiMo Code is now released and open-source",
+    "Metadata": {
+      "score": "332",
+      "author": "apeters",
+      "commentCount": "180"
+    },
+    "FetchedAt": "2026-06-11T20:12:19.3385289+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48491830"
+    },
+    "Type": 1,
+    "Title": "Petition to Withdraw Canada\u0027s Bill C-22",
+    "Url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
+    "Description": "Petition to Withdraw Canada\u0027s Bill C-22",
+    "Metadata": {
+      "score": "214",
+      "author": "hmokiguess",
+      "commentCount": "79"
+    },
+    "FetchedAt": "2026-06-11T20:12:19.3708989+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48492215"
+    },
+    "Type": 1,
+    "Title": "The RCE that AMD wouldn\u0027t fix",
+    "Url": "https://mrbruh.com/amd2/",
+    "Description": "The RCE that AMD wouldn\u0027t fix",
+    "Metadata": {
+      "score": "149",
+      "author": "MrBruh",
+      "commentCount": "42"
+    },
+    "FetchedAt": "2026-06-11T20:12:19.4046666+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48474274"
+    },
+    "Type": 1,
+    "Title": "Emacs appearances in pop culture",
+    "Url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+    "Description": "Emacs appearances in pop culture",
+    "Metadata": {
+      "score": "152",
+      "author": "ggcr",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-06-11T20:12:19.4368541+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48492533"
+    },
+    "Type": 1,
+    "Title": "Software Is Made Between Commits",
+    "Url": "https://zed.dev/blog/introducing-deltadb",
+    "Description": "Software Is Made Between Commits",
+    "Metadata": {
+      "score": "133",
+      "author": "jeremy_k",
+      "commentCount": "77"
+    },
+    "FetchedAt": "2026-06-11T20:12:19.4703095+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48492304"
+    },
+    "Type": 1,
+    "Title": "Waymo Premier",
+    "Url": "https://waymo.com/blog/2026/06/waymo-premier/",
+    "Description": "Waymo Premier",
+    "Metadata": {
+      "score": "99",
+      "author": "boulos",
+      "commentCount": "217"
+    },
+    "FetchedAt": "2026-06-11T20:12:19.5037146+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48447598"
+    },
+    "Type": 1,
+    "Title": "Ear Training Practice Exercises",
+    "Url": "https://tonedear.com/",
+    "Description": "Ear Training Practice Exercises",
+    "Metadata": {
+      "score": "35",
+      "author": "mattbit",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-06-11T20:12:19.5372443+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48489402"
+    },
+    "Type": 1,
+    "Title": "Lines of code got a better publicist",
+    "Url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+    "Description": "Lines of code got a better publicist",
+    "Metadata": {
+      "score": "310",
+      "author": "RyeCombinator",
+      "commentCount": "203"
+    },
+    "FetchedAt": "2026-06-11T20:12:19.5894321+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48462070"
+    },
+    "Type": 1,
+    "Title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
+    "Url": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;social.treehouse.systems\u0026#x2F;@AsahiLinux\u0026#x2F;116719749555082847\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;social.treehouse.systems\u0026#x2F;@AsahiLinux\u0026#x2F;116719749555082...\u003C/a\u003E",
+    "Metadata": {
+      "score": "143",
+      "author": "josephcsible",
+      "commentCount": "57"
+    },
+    "FetchedAt": "2026-06-11T20:12:19.622168+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48452001"
+    },
+    "Type": 1,
+    "Title": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
+    "Url": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;twitter.com\u0026#x2F;dante_leoncini\u0026#x2F;status\u0026#x2F;2063035015068307905\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;twitter.com\u0026#x2F;dante_leoncini\u0026#x2F;status\u0026#x2F;206303501506830790...\u003C/a\u003E",
+    "Metadata": {
+      "score": "126",
+      "author": "ljf",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-06-11T20:12:19.6547426+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48489917"
+    },
+    "Type": 1,
+    "Title": "Open Reproduction of DeepSeek-R1",
+    "Url": "https://github.com/huggingface/open-r1",
+    "Description": "Open Reproduction of DeepSeek-R1",
+    "Metadata": {
+      "score": "160",
+      "author": "yogthos",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-06-11T20:12:19.6882343+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48487029"
+    },
+    "Type": 1,
+    "Title": "Pok\u00E9mon Go Scans Trained the Navigation Tech for Military Drones",
+    "Url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+    "Description": "Pok\u00E9mon Go Scans Trained the Navigation Tech for Military Drones",
+    "Metadata": {
+      "score": "636",
+      "author": "vrganj",
+      "commentCount": "296"
+    },
+    "FetchedAt": "2026-06-11T20:12:19.7208651+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48492210"
+    },
+    "Type": 1,
+    "Title": "Claude Fable 5: mid-tier results on coding tasks",
+    "Url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+    "Description": "Claude Fable 5: mid-tier results on coding tasks",
+    "Metadata": {
+      "score": "69",
+      "author": "bugvader",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-06-11T20:12:19.7549089+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48492306"
+    },
+    "Type": 1,
+    "Title": "Solar generates more energy in US than coal for first time",
+    "Url": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
+    "Description": "Solar generates more energy in US than coal for first time",
+    "Metadata": {
+      "score": "305",
+      "author": "neilfrndes",
+      "commentCount": "133"
+    },
+    "FetchedAt": "2026-06-11T20:12:19.7904712+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48493447"
+    },
+    "Type": 1,
+    "Title": "Building agents without harness engineering",
+    "Url": "https://rajitkhanna.com/agents/",
+    "Description": "Building agents without harness engineering",
+    "Metadata": {
+      "score": "8",
+      "author": "rajit",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-11T20:12:19.8237586+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48428959"
+    },
+    "Type": 1,
+    "Title": "Discovery of Cold War-era rare Eastern Bloc computers in a German hangar",
+    "Url": "https://computerhistory.org/stories/explorers-of-the-lost-computers/",
+    "Description": "Discovery of Cold War-era rare Eastern Bloc computers in a German hangar",
+    "Metadata": {
+      "score": "61",
+      "author": "andrewstuart",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-06-11T20:12:19.8569564+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48446673"
+    },
+    "Type": 1,
+    "Title": "How Terry Tao became an evangelist for AI in math",
+    "Url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
+    "Description": "How Terry Tao became an evangelist for AI in math",
+    "Metadata": {
+      "score": "86",
+      "author": "Tomte",
+      "commentCount": "56"
+    },
+    "FetchedAt": "2026-06-11T20:12:19.8914293+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48491486"
+    },
+    "Type": 1,
+    "Title": "FPS.cob: A first person shooter in COBOL",
+    "Url": "https://github.com/icitry/FPS.cob",
+    "Description": "FPS.cob: A first person shooter in COBOL",
+    "Metadata": {
+      "score": "77",
+      "author": "MBCook",
+      "commentCount": "45"
+    },
+    "FetchedAt": "2026-06-11T20:12:19.9254272+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48495197"
+    },
+    "Type": 1,
+    "Title": "Who Runs the Ransomware Group \u0027The Gentlemen?\u0027",
+    "Url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+    "Description": "Who Runs the Ransomware Group \u0027The Gentlemen?\u0027",
+    "Metadata": {
+      "score": "8",
+      "author": "Bender",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-11T20:12:19.9588+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48452174"
+    },
+    "Type": 1,
+    "Title": "Pozzo: A Fast Lucky Number Checker",
+    "Url": "https://github.com/Robert-Cunningham/pozzo",
+    "Description": "Pozzo: A Fast Lucky Number Checker",
+    "Metadata": {
+      "score": "5",
+      "author": "robertvc",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-11T20:12:19.9938531+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48462928"
+    },
+    "Type": 1,
+    "Title": "Show HN: Claw Patrol, a security firewall for agents",
+    "Url": "https://github.com/denoland/clawpatrol",
+    "Description": "At Deno we\u0026#x27;ve been using OpenClaw and other agents increasingly for addressing production problems in Deno Deploy - when a PagerDuty alert fires, the agent starts researching the cause and making fixes.\u003Cp\u003EIn order to do this, the agent needs access to real production systems - postgres, kubernetes, gcp, clickhouse, github, etc. But this is dangerous to say the least - we want destructive actions to be reviewed by other LLMs, approved by humans, and logged appropriately.\u003Cp\u003EClaw Patrol termin",
+    "Metadata": {
+      "score": "62",
+      "author": "rough-sea",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-06-11T20:12:20.0272444+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48476214"
+    },
+    "Type": 1,
+    "Title": "Fully autonomous drones have killed human soldiers for the first time",
+    "Url": "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/",
+    "Description": "Fully autonomous drones have killed human soldiers for the first time",
+    "Metadata": {
+      "score": "128",
+      "author": "deadgopher",
+      "commentCount": "98"
+    },
+    "FetchedAt": "2026-06-11T20:12:20.0605861+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48468495"
+    },
+    "Type": 1,
+    "Title": "Programming a GBA Game on an iPhone",
+    "Url": "https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html",
+    "Description": "Programming a GBA Game on an iPhone",
+    "Metadata": {
+      "score": "26",
+      "author": "akkartik",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-06-11T20:12:20.0935845+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48490715"
+    },
+    "Type": 1,
+    "Title": "Nextcloud Hub 26 Spring: Built together, designed for the future",
+    "Url": "https://nextcloud.com/blog/nextcloud-hub26-spring/",
+    "Description": "Nextcloud Hub 26 Spring: Built together, designed for the future",
+    "Metadata": {
+      "score": "108",
+      "author": "doener",
+      "commentCount": "81"
+    },
+    "FetchedAt": "2026-06-11T20:12:20.1278889+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48486484"
+    },
+    "Type": 1,
+    "Title": "Show HN: I built a Red Flag Warning zone-check tool for the East Bay in 48h",
+    "Url": "https://redflag-check.info",
+    "Description": "Hey HN. I\u0026#x27;m a high schooler in Fremont, CA. Tuesday morning I got a county-wide AC Alert text telling everyone in Alameda County to prepare a go-bag for an East Bay Hills Red Flag Warning that starts tonight at 11 PM. The text went to ~half a million phones.\u003Cp\u003EThe actual NWS warning polygon only covers East Bay Hills (NWS zone CAZ515). Most people who got the text don\u0026#x27;t need a go-bag tonight. Some in the hills don\u0026#x27;t realize how close they are. So I built this tool - \u003Ca href=\u0022https",
+    "Metadata": {
+      "score": "6",
+      "author": "vedant28t",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-11T20:12:20.1620495+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48451013"
+    },
+    "Type": 1,
+    "Title": "SVG-Line: Better Status Bars for Emacs \u2013 Charlie Holland\u0027s Blog",
+    "Url": "https://www.chiply.dev/post-svg-line",
+    "Description": "SVG-Line: Better Status Bars for Emacs \u2013 Charlie Holland\u0027s Blog",
+    "Metadata": {
+      "score": "70",
+      "author": "rbanffy",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-06-11T20:12:20.1944209+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48433351"
+    },
+    "Type": 1,
+    "Title": "A new era for software testing",
+    "Url": "https://antirez.com/news/168",
+    "Description": "A new era for software testing",
+    "Metadata": {
+      "score": "84",
+      "author": "Chrisszz",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-06-11T20:12:20.2277093+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48442880"
+    },
+    "Type": 1,
+    "Title": "Doing nothing at work",
+    "Url": "https://www.seangoedecke.com/doing-nothing-at-work/",
+    "Description": "Doing nothing at work",
+    "Metadata": {
+      "score": "254",
+      "author": "Sukram21",
+      "commentCount": "79"
+    },
+    "FetchedAt": "2026-06-11T20:12:20.2620918+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48489229"
+    },
+    "Type": 1,
+    "Title": "Anthropic apologizes for invisible Claude Fable guardrails",
+    "Url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260611122253\u0026#x2F;https:\u0026#x2F;\u0026#x2F;www.theverge.com\u0026#x2F;ai-artificial-intelligence\u0026#x2F;948280\u0026#x2F;anthropic-claude-fable-invisible-distillation-guardrail\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260611122253\u0026#x2F;https:\u0026#x2F;\u0026#x2F;www.theve...\u003C/a\u003E, \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;y4V4k\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;y4V4k\u003C/a\u003E",
+    "Metadata": {
+      "score": "209",
+      "author": "rarisma",
+      "commentCount": "236"
+    },
+    "FetchedAt": "2026-06-11T20:12:20.2954948+00:00"
   }
 ]
