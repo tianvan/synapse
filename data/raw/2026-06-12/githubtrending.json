@@ -1,0 +1,214 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:apple/container"
+    },
+    "Type": 0,
+    "Title": "apple/container",
+    "Url": "https://github.com/apple/container",
+    "Description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",
+    "Metadata": {
+      "owner": "apple",
+      "repo": "container",
+      "language": "Swift",
+      "stars": "2,430"
+    },
+    "FetchedAt": "2026-06-12T02:48:36.7802482+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "Shell",
+      "stars": "3,278",
+      "topics": "agent-skills, antigravity, antigravity-ide, claude-code, cursor, skills"
+    },
+    "FetchedAt": "2026-06-12T02:48:36.9380959+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:maziyarpanahi/openmed"
+    },
+    "Type": 0,
+    "Title": "maziyarpanahi/openmed",
+    "Url": "https://github.com/maziyarpanahi/openmed",
+    "Description": "open-source healthcare ai",
+    "Metadata": {
+      "owner": "maziyarpanahi",
+      "repo": "openmed",
+      "language": "Python",
+      "stars": "426",
+      "topics": "bert, deepseek, healthcare, ios, llm, mlx, ner, on-device, on-premise, pii, pii-detection, qwen, sovereign-ai, swift, swift-package, swiftui"
+    },
+    "FetchedAt": "2026-06-12T02:48:37.0410769+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:phuryn/pm-skills"
+    },
+    "Type": 0,
+    "Title": "phuryn/pm-skills",
+    "Url": "https://github.com/phuryn/pm-skills",
+    "Description": "PM Skills Marketplace: 100\u002B agentic skills, commands, and plugins \u2014 from discovery to strategy, execution, launch, and growth.",
+    "Metadata": {
+      "owner": "phuryn",
+      "repo": "pm-skills",
+      "stars": "1,978",
+      "topics": "agent-skill-repository, agent-skills, agentic-skills, claude-code-marketplace, claude-code-plugins, claude-cowork-plugin, product-management"
+    },
+    "FetchedAt": "2026-06-12T02:48:37.1510906+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NVIDIA/SkillSpector"
+    },
+    "Type": 0,
+    "Title": "NVIDIA/SkillSpector",
+    "Url": "https://github.com/NVIDIA/SkillSpector",
+    "Description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+    "Metadata": {
+      "owner": "NVIDIA",
+      "repo": "SkillSpector",
+      "language": "Python",
+      "stars": "319"
+    },
+    "FetchedAt": "2026-06-12T02:48:37.2495105+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:refactoringhq/tolaria"
+    },
+    "Type": 0,
+    "Title": "refactoringhq/tolaria",
+    "Url": "https://github.com/refactoringhq/tolaria",
+    "Description": "Desktop app to manage markdown knowledge bases",
+    "Metadata": {
+      "owner": "refactoringhq",
+      "repo": "tolaria",
+      "language": "TypeScript",
+      "stars": "604"
+    },
+    "FetchedAt": "2026-06-12T02:48:37.3834831+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:restic/restic"
+    },
+    "Type": 0,
+    "Title": "restic/restic",
+    "Url": "https://github.com/restic/restic",
+    "Description": "Fast, secure, efficient backup program",
+    "Metadata": {
+      "owner": "restic",
+      "repo": "restic",
+      "language": "Go",
+      "stars": "61",
+      "topics": "backup, dedupe, deduplication, go, restic, secure-by-default"
+    },
+    "FetchedAt": "2026-06-12T02:48:37.5056974+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:kenn-io/agentsview"
+    },
+    "Type": 0,
+    "Title": "kenn-io/agentsview",
+    "Url": "https://github.com/kenn-io/agentsview",
+    "Description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
+    "Metadata": {
+      "owner": "kenn-io",
+      "repo": "agentsview",
+      "language": "Go",
+      "stars": "114"
+    },
+    "FetchedAt": "2026-06-12T02:48:37.612586+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alchaincyf/zhangxuefeng-skill"
+    },
+    "Type": 0,
+    "Title": "alchaincyf/zhangxuefeng-skill",
+    "Url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+    "Description": "\u5F20\u96EA\u5CF0.skill \u2014 \u5F20\u96EA\u5CF0\u7684\u8BA4\u77E5\u64CD\u4F5C\u7CFB\u7EDF\u3002\u9AD8\u8003\u5FD7\u613F/\u8003\u7814/\u804C\u4E1A\u89C4\u5212\u7684\u5B9E\u6218\u601D\u7EF4\u6846\u67B6\u3002\u7531\u5973\u5A32.skill\u751F\u6210\u3002",
+    "Metadata": {
+      "owner": "alchaincyf",
+      "repo": "zhangxuefeng-skill",
+      "stars": "89"
+    },
+    "FetchedAt": "2026-06-12T02:48:37.7195575+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:TapXWorld/ChinaTextbook"
+    },
+    "Type": 0,
+    "Title": "TapXWorld/ChinaTextbook",
+    "Url": "https://github.com/TapXWorld/ChinaTextbook",
+    "Description": "\u6240\u6709\u5C0F\u521D\u9AD8\u3001\u5927\u5B66PDF\u6559\u6750\u3002",
+    "Metadata": {
+      "owner": "TapXWorld",
+      "repo": "ChinaTextbook",
+      "language": "Roff",
+      "stars": "88"
+    },
+    "FetchedAt": "2026-06-12T02:48:37.8048622+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:hexo-ai/sia"
+    },
+    "Type": 0,
+    "Title": "hexo-ai/sia",
+    "Url": "https://github.com/hexo-ai/sia",
+    "Description": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
+    "Metadata": {
+      "owner": "hexo-ai",
+      "repo": "sia",
+      "language": "Python",
+      "stars": "199"
+    },
+    "FetchedAt": "2026-06-12T02:48:37.8932388+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mattermost/mattermost"
+    },
+    "Type": 0,
+    "Title": "mattermost/mattermost",
+    "Url": "https://github.com/mattermost/mattermost",
+    "Description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+    "Metadata": {
+      "owner": "mattermost",
+      "repo": "mattermost",
+      "language": "TypeScript",
+      "stars": "53",
+      "topics": "collaboration, golang, hacktoberfest, mattermost, monorepo, react, react-native"
+    },
+    "FetchedAt": "2026-06-12T02:48:37.9795051+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:bannedbook/fanqiang"
+    },
+    "Type": 0,
+    "Title": "bannedbook/fanqiang",
+    "Url": "https://github.com/bannedbook/fanqiang",
+    "Description": "\u7FFB\u5899-\u79D1\u5B66\u4E0A\u7F51",
+    "Metadata": {
+      "owner": "bannedbook",
+      "repo": "fanqiang",
+      "language": "Kotlin",
+      "stars": "161",
+      "topics": "brook, daze, fanqiang, goflyway, lightsocks, proxy, psiphon, shadowsocks, ssr, trojan, v2ray"
+    },
+    "FetchedAt": "2026-06-12T02:48:38.090681+00:00"
+  }
+]
