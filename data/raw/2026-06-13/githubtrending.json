@@ -1,0 +1,152 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "Shell",
+      "stars": "2,656",
+      "topics": "agent-skills, antigravity, antigravity-ide, claude-code, cursor, skills"
+    },
+    "FetchedAt": "2026-06-13T02:41:09.1783903+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mattermost/mattermost"
+    },
+    "Type": 0,
+    "Title": "mattermost/mattermost",
+    "Url": "https://github.com/mattermost/mattermost",
+    "Description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+    "Metadata": {
+      "owner": "mattermost",
+      "repo": "mattermost",
+      "language": "TypeScript",
+      "stars": "388",
+      "topics": "collaboration, golang, hacktoberfest, mattermost, monorepo, react, react-native"
+    },
+    "FetchedAt": "2026-06-13T02:41:09.3549724+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:apple/container"
+    },
+    "Type": 0,
+    "Title": "apple/container",
+    "Url": "https://github.com/apple/container",
+    "Description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",
+    "Metadata": {
+      "owner": "apple",
+      "repo": "container",
+      "language": "Swift",
+      "stars": "3,504"
+    },
+    "FetchedAt": "2026-06-13T02:41:09.5706334+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:iptv-org/iptv"
+    },
+    "Type": 0,
+    "Title": "iptv-org/iptv",
+    "Url": "https://github.com/iptv-org/iptv",
+    "Description": "Collection of publicly available IPTV channels from all over the world",
+    "Metadata": {
+      "owner": "iptv-org",
+      "repo": "iptv",
+      "language": "TypeScript",
+      "stars": "179",
+      "topics": "iptv, m3u, playlist, streams, tv"
+    },
+    "FetchedAt": "2026-06-13T02:41:09.7358073+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:refactoringhq/tolaria"
+    },
+    "Type": 0,
+    "Title": "refactoringhq/tolaria",
+    "Url": "https://github.com/refactoringhq/tolaria",
+    "Description": "Desktop app to manage markdown knowledge bases",
+    "Metadata": {
+      "owner": "refactoringhq",
+      "repo": "tolaria",
+      "language": "TypeScript",
+      "stars": "369"
+    },
+    "FetchedAt": "2026-06-13T02:41:09.9267694+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:maziyarpanahi/openmed"
+    },
+    "Type": 0,
+    "Title": "maziyarpanahi/openmed",
+    "Url": "https://github.com/maziyarpanahi/openmed",
+    "Description": "open-source healthcare ai",
+    "Metadata": {
+      "owner": "maziyarpanahi",
+      "repo": "openmed",
+      "language": "Python",
+      "stars": "515",
+      "topics": "bert, deepseek, healthcare, ios, llm, mlx, ner, on-device, on-premise, pii, pii-detection, qwen, sovereign-ai, swift, swift-package, swiftui"
+    },
+    "FetchedAt": "2026-06-13T02:41:10.1085623+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:LMCache/LMCache"
+    },
+    "Type": 0,
+    "Title": "LMCache/LMCache",
+    "Url": "https://github.com/LMCache/LMCache",
+    "Description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+    "Metadata": {
+      "owner": "LMCache",
+      "repo": "LMCache",
+      "language": "Python",
+      "stars": "28",
+      "topics": "amd, cuda, fast, inference, kv-cache, llm, pytorch, rocm, speed, vllm"
+    },
+    "FetchedAt": "2026-06-13T02:41:10.2661472+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:phuryn/pm-skills"
+    },
+    "Type": 0,
+    "Title": "phuryn/pm-skills",
+    "Url": "https://github.com/phuryn/pm-skills",
+    "Description": "PM Skills Marketplace: 100\u002B agentic skills, commands, and plugins \u2014 from discovery to strategy, execution, launch, and growth.",
+    "Metadata": {
+      "owner": "phuryn",
+      "repo": "pm-skills",
+      "stars": "827",
+      "topics": "agent-skill-repository, agent-skills, agentic-skills, claude-code-marketplace, claude-code-plugins, claude-cowork-plugin, product-management"
+    },
+    "FetchedAt": "2026-06-13T02:41:10.421538+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:microsoft/PowerToys"
+    },
+    "Type": 0,
+    "Title": "microsoft/PowerToys",
+    "Url": "https://github.com/microsoft/PowerToys",
+    "Description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+    "Metadata": {
+      "owner": "microsoft",
+      "repo": "PowerToys",
+      "language": "C",
+      "stars": "103",
+      "topics": "advanced-paste, color-picker, command-palette, desktop, fancyzones, keyboard-manager, microsoft-powertoys, powerrename, powertoys, windows, windows-10, windows-11"
+    },
+    "FetchedAt": "2026-06-13T02:41:10.5964303+00:00"
+  }
+]
