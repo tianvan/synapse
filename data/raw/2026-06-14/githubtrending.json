@@ -1,23 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:iptv-org/iptv"
-    },
-    "Type": 0,
-    "Title": "iptv-org/iptv",
-    "Url": "https://github.com/iptv-org/iptv",
-    "Description": "Collection of publicly available IPTV channels from all over the world",
-    "Metadata": {
-      "owner": "iptv-org",
-      "repo": "iptv",
-      "language": "TypeScript",
-      "stars": "530",
-      "topics": "iptv, m3u, playlist, streams, tv"
-    },
-    "FetchedAt": "2026-06-14T09:21:44.8267001+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:addyosmani/agent-skills"
     },
     "Type": 0,
@@ -101,38 +84,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:andrewyng/aisuite"
-    },
-    "Type": 0,
-    "Title": "andrewyng/aisuite",
-    "Url": "https://github.com/andrewyng/aisuite",
-    "Description": "Simple, unified interface to multiple Generative AI providers ",
-    "Metadata": {
-      "owner": "andrewyng",
-      "repo": "aisuite",
-      "language": "Python",
-      "stars": "127"
-    },
-    "FetchedAt": "2026-06-14T09:21:45.6710158+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:NVIDIA/SkillSpector"
-    },
-    "Type": 0,
-    "Title": "NVIDIA/SkillSpector",
-    "Url": "https://github.com/NVIDIA/SkillSpector",
-    "Description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-    "Metadata": {
-      "owner": "NVIDIA",
-      "repo": "SkillSpector",
-      "language": "Python",
-      "stars": "804"
-    },
-    "FetchedAt": "2026-06-14T09:21:45.7782296+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:bannedbook/fanqiang"
     },
     "Type": 0,
@@ -147,5 +98,155 @@
       "topics": "brook, daze, fanqiang, goflyway, lightsocks, proxy, psiphon, shadowsocks, ssr, trojan, v2ray"
     },
     "FetchedAt": "2026-06-14T09:21:45.9170026+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:iptv-org/iptv"
+    },
+    "Type": 0,
+    "Title": "iptv-org/iptv",
+    "Url": "https://github.com/iptv-org/iptv",
+    "Description": "Collection of publicly available IPTV channels from all over the world",
+    "Metadata": {
+      "owner": "iptv-org",
+      "repo": "iptv",
+      "language": "TypeScript",
+      "stars": "1,531",
+      "topics": "iptv, m3u, playlist, streams, tv"
+    },
+    "FetchedAt": "2026-06-14T13:44:56.7445476+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NVIDIA/SkillSpector"
+    },
+    "Type": 0,
+    "Title": "NVIDIA/SkillSpector",
+    "Url": "https://github.com/NVIDIA/SkillSpector",
+    "Description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+    "Metadata": {
+      "owner": "NVIDIA",
+      "repo": "SkillSpector",
+      "language": "Python",
+      "stars": "962"
+    },
+    "FetchedAt": "2026-06-14T13:44:57.0058281+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:meshery/meshery"
+    },
+    "Type": 0,
+    "Title": "meshery/meshery",
+    "Url": "https://github.com/meshery/meshery",
+    "Description": "Meshery, the cloud native manager",
+    "Metadata": {
+      "owner": "meshery",
+      "repo": "meshery",
+      "language": "TypeScript",
+      "stars": "3",
+      "topics": "cloud-native, cncf, control-plane, docker, gitops, golang, gsoc, hacktoberfest, infrastructure-as-code, internal-developer-platform, kanvas, kubernetes, kubernetes-operator, management-plane, meshery, opa, platform-engineering, reactjs, visualization, webassembly"
+    },
+    "FetchedAt": "2026-06-14T13:44:57.2092777+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cypress-io/cypress"
+    },
+    "Type": 0,
+    "Title": "cypress-io/cypress",
+    "Url": "https://github.com/cypress-io/cypress",
+    "Description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "Metadata": {
+      "owner": "cypress-io",
+      "repo": "cypress",
+      "language": "TypeScript",
+      "stars": "7",
+      "topics": "angular-testing-library, component-testing, cypress, cypress-cloud, cypress-schematic, end-to-end-testing, react-testing-library, svelte-testing-library, test-replay, testing-framework, testing-library, testing-tool, vue-testing-library"
+    },
+    "FetchedAt": "2026-06-14T13:44:57.4099757+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots"
+    },
+    "Type": 0,
+    "Title": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+    "Url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+    "Description": "Introduction to Autonomous Robots",
+    "Metadata": {
+      "owner": "Introduction-to-Autonomous-Robots",
+      "repo": "Introduction-to-Autonomous-Robots",
+      "language": "TeX",
+      "stars": "276",
+      "topics": "book, boulder, cu, robotics"
+    },
+    "FetchedAt": "2026-06-14T13:44:57.5993573+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:shiyu-coder/Kronos"
+    },
+    "Type": 0,
+    "Title": "shiyu-coder/Kronos",
+    "Url": "https://github.com/shiyu-coder/Kronos",
+    "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "Metadata": {
+      "owner": "shiyu-coder",
+      "repo": "Kronos",
+      "language": "Python",
+      "stars": "238"
+    },
+    "FetchedAt": "2026-06-14T13:44:57.8002858+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Free-TV/IPTV"
+    },
+    "Type": 0,
+    "Title": "Free-TV/IPTV",
+    "Url": "https://github.com/Free-TV/IPTV",
+    "Description": "M3U Playlist for free TV channels",
+    "Metadata": {
+      "owner": "Free-TV",
+      "repo": "IPTV",
+      "language": "Python",
+      "stars": "52",
+      "topics": "help-wanted, looking-for-contributors"
+    },
+    "FetchedAt": "2026-06-14T13:44:57.963818+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:puppeteer/puppeteer"
+    },
+    "Type": 0,
+    "Title": "puppeteer/puppeteer",
+    "Url": "https://github.com/puppeteer/puppeteer",
+    "Description": "JavaScript API for Chrome and Firefox",
+    "Metadata": {
+      "owner": "puppeteer",
+      "repo": "puppeteer",
+      "language": "TypeScript",
+      "stars": "13",
+      "topics": "automation, chrome, chromium, developer-tools, firefox, headless-chrome, node-module, testing, web"
+    },
+    "FetchedAt": "2026-06-14T13:44:58.1714856+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:andrewyng/aisuite"
+    },
+    "Type": 0,
+    "Title": "andrewyng/aisuite",
+    "Url": "https://github.com/andrewyng/aisuite",
+    "Description": "Simple, unified interface to multiple Generative AI providers ",
+    "Metadata": {
+      "owner": "andrewyng",
+      "repo": "aisuite",
+      "language": "Python",
+      "stars": "290"
+    },
+    "FetchedAt": "2026-06-14T13:44:58.3799604+00:00"
   }
 ]
