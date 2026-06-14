@@ -286,66 +286,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48526661"
-    },
-    "Type": 1,
-    "Title": "The Birth and Death of JavaScript (2014)",
-    "Url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
-    "Description": "The Birth and Death of JavaScript (2014)",
-    "Metadata": {
-      "score": "47",
-      "author": "subset",
-      "commentCount": "19"
-    },
-    "FetchedAt": "2026-06-14T13:44:58.8428363+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48471638"
-    },
-    "Type": 1,
-    "Title": "Firewood Splitting Simulator",
-    "Url": "https://screen.toys/firewood/",
-    "Description": "Firewood Splitting Simulator",
-    "Metadata": {
-      "score": "75",
-      "author": "memalign",
-      "commentCount": "19"
-    },
-    "FetchedAt": "2026-06-14T13:44:58.9005544+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48523992"
-    },
-    "Type": 1,
-    "Title": "Free SQL\u2192ER diagram tool, runs in the browser, nothing uploaded",
-    "Url": "https://sqltoerdiagram.com/",
-    "Description": "Free SQL\u2192ER diagram tool, runs in the browser, nothing uploaded",
-    "Metadata": {
-      "score": "258",
-      "author": "robhati",
-      "commentCount": "49"
-    },
-    "FetchedAt": "2026-06-14T13:44:58.9574836+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48523080"
-    },
-    "Type": 1,
-    "Title": "Honda Civics and the Evil Valet",
-    "Url": "https://juniperspring.org/posts/honda-evil-valet/",
-    "Description": "Previously: \u003Ci\u003EShow HN: Honda Civic Infotainment Reverse-Engineering\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=36052753\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=36052753\u003C/a\u003E - May 2023 (43 comments)",
-    "Metadata": {
-      "score": "329",
-      "author": "librick",
-      "commentCount": "71"
-    },
-    "FetchedAt": "2026-06-14T13:44:59.015156+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48492366"
     },
     "Type": 1,
@@ -388,36 +328,6 @@
       "commentCount": "35"
     },
     "FetchedAt": "2026-06-14T13:44:59.1841787+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48526793"
-    },
-    "Type": 1,
-    "Title": "How did Atari apply side art to Arcade Cabinets?",
-    "Url": "https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/",
-    "Description": "How did Atari apply side art to Arcade Cabinets?",
-    "Metadata": {
-      "score": "6",
-      "author": "msephton",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-06-14T13:44:59.2414723+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48526360"
-    },
-    "Type": 1,
-    "Title": "How to Earn a Billion Dollars",
-    "Url": "https://paulgraham.com/earn.html",
-    "Description": "How to Earn a Billion Dollars",
-    "Metadata": {
-      "score": "61",
-      "author": "kingstoned",
-      "commentCount": "125"
-    },
-    "FetchedAt": "2026-06-14T13:44:59.2990531+00:00"
   },
   {
     "ExternalId": {
@@ -733,5 +643,455 @@
       "commentCount": "69"
     },
     "FetchedAt": "2026-06-14T13:45:00.4900452+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48529990"
+    },
+    "Type": 1,
+    "Title": "Show HN: Kage \u2013 Shadow any website to a single binary for offline viewing",
+    "Url": "https://github.com/tamnd/kage",
+    "Description": "Show HN: Kage \u2013 Shadow any website to a single binary for offline viewing",
+    "Metadata": {
+      "score": "89",
+      "author": "tamnd",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-06-14T19:14:03.4409997+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48528371"
+    },
+    "Type": 1,
+    "Title": "Rio de Janeiro\u0027s \u0022homegrown\u0022 LLM appears to be a merge of an existing model",
+    "Url": "https://github.com/nex-agi/Nex-N2/issues/4",
+    "Description": "Rio de Janeiro\u0027s \u0022homegrown\u0022 LLM appears to be a merge of an existing model",
+    "Metadata": {
+      "score": "163",
+      "author": "unrvl22",
+      "commentCount": "89"
+    },
+    "FetchedAt": "2026-06-14T19:14:03.4689956+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48471638"
+    },
+    "Type": 1,
+    "Title": "Firewood Splitting Simulator",
+    "Url": "https://screen.toys/firewood/",
+    "Description": "Firewood Splitting Simulator",
+    "Metadata": {
+      "score": "413",
+      "author": "memalign",
+      "commentCount": "139"
+    },
+    "FetchedAt": "2026-06-14T19:14:03.4962953+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48528779"
+    },
+    "Type": 1,
+    "Title": "Ask HN: What are you working on? (June 2026)",
+    "Url": "https://news.ycombinator.com/item?id=48528779",
+    "Description": "What are you working on? Any new ideas that you\u0026#x27;re thinking about?",
+    "Metadata": {
+      "score": "62",
+      "author": "david927",
+      "commentCount": "235"
+    },
+    "FetchedAt": "2026-06-14T19:14:03.5231964+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48526661"
+    },
+    "Type": 1,
+    "Title": "The Birth and Death of JavaScript (2014)",
+    "Url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+    "Description": "The Birth and Death of JavaScript (2014)",
+    "Metadata": {
+      "score": "177",
+      "author": "subset",
+      "commentCount": "100"
+    },
+    "FetchedAt": "2026-06-14T19:14:03.5502291+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48527145"
+    },
+    "Type": 1,
+    "Title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
+    "Url": "https://su3.io/posts/zeroserve-caddy-compat",
+    "Description": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
+    "Metadata": {
+      "score": "98",
+      "author": "losfair",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-06-14T19:14:03.5772825+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48527820"
+    },
+    "Type": 1,
+    "Title": "Perlisisms",
+    "Url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
+    "Description": "Perlisisms",
+    "Metadata": {
+      "score": "59",
+      "author": "tosh",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-06-14T19:14:03.6045144+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48526633"
+    },
+    "Type": 1,
+    "Title": "Formal Methods and the Future of Programming",
+    "Url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
+    "Description": "Formal Methods and the Future of Programming",
+    "Metadata": {
+      "score": "97",
+      "author": "eatonphil",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-06-14T19:14:03.6332391+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48491048"
+    },
+    "Type": 1,
+    "Title": "Lisp\u0027s Influence on Ruby",
+    "Url": "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e",
+    "Description": "Lisp\u0027s Influence on Ruby",
+    "Metadata": {
+      "score": "176",
+      "author": "tacoda",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-06-14T19:14:03.6604541+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48489309"
+    },
+    "Type": 1,
+    "Title": "USB Power Delivery: Plugging into the Benefits",
+    "Url": "https://www.aptiv.com/en/insights/article/usb-power-delivery-plugging-into-the-benefits",
+    "Description": "USB Power Delivery: Plugging into the Benefits",
+    "Metadata": {
+      "score": "14",
+      "author": "mooreds",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-06-14T19:14:03.6902127+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48489636"
+    },
+    "Type": 1,
+    "Title": "Not mine, but it\u0027s a website where you can use a segment display",
+    "Url": "https://aresluna.org/segmented-type/",
+    "Description": "Not mine, but it\u0027s a website where you can use a segment display",
+    "Metadata": {
+      "score": "11",
+      "author": "unexpectedVCR",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-14T19:14:03.7193811+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48527700"
+    },
+    "Type": 1,
+    "Title": "No, everyone is not using AI for everything",
+    "Url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+    "Description": "No, everyone is not using AI for everything",
+    "Metadata": {
+      "score": "304",
+      "author": "yegg",
+      "commentCount": "312"
+    },
+    "FetchedAt": "2026-06-14T19:14:03.7472371+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48527360"
+    },
+    "Type": 1,
+    "Title": "FarOutCompany",
+    "Url": "https://faroutcompany.com/",
+    "Description": "FarOutCompany",
+    "Metadata": {
+      "score": "69",
+      "author": "bookofjoe",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-06-14T19:14:03.7744692+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48492822"
+    },
+    "Type": 1,
+    "Title": "The only scalable delete in Postgres is DROP TABLE",
+    "Url": "https://planetscale.com/blog/the-only-scalable-delete",
+    "Description": "The only scalable delete in Postgres is DROP TABLE",
+    "Metadata": {
+      "score": "77",
+      "author": "hollylawly",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-06-14T19:14:03.80102+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48527623"
+    },
+    "Type": 1,
+    "Title": "Show HN: Dual YOLOv8n UAV Detection on RK3588S at 42 FPS Using NPU",
+    "Url": "https://github.com/alebal123bal/khadas_yolov8n_multithread",
+    "Description": "Show HN: Dual YOLOv8n UAV Detection on RK3588S at 42 FPS Using NPU",
+    "Metadata": {
+      "score": "41",
+      "author": "alebal123bal",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-06-14T19:14:03.8278102+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48528029"
+    },
+    "Type": 1,
+    "Title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
+    "Url": "https://news.ycombinator.com/item?id=48528029",
+    "Description": "TLDR: I had 2,207 GoPro videos, and I need to rewatch them to find interesting moments from my cycling journey. I built a project to index them locally on my M1 Max using open-source ML models, search for those moments, and send the best clips straight to my DaVinci Resolve timeline.  I indexed 628 videos (668.68 GB, 15h 13m 18s of footage duration), more details in the metrics table in the last section of this article.\u003Cp\u003EFull article: https:\u0026#x2F;\u0026#x2F;iliashaddad.com\u0026#x2F;blog\u0026#x2F;i-indexed-6",
+    "Metadata": {
+      "score": "129",
+      "author": "iliashad",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-06-14T19:14:03.8552908+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48519102"
+    },
+    "Type": 1,
+    "Title": "Global density and biomass of arbuscular mycorrhizal fungal networks",
+    "Url": "https://www.science.org/doi/10.1126/science.adu4373",
+    "Description": "Global density and biomass of arbuscular mycorrhizal fungal networks",
+    "Metadata": {
+      "score": "31",
+      "author": "zdw",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-06-14T19:14:03.8818055+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48530841"
+    },
+    "Type": 1,
+    "Title": "Rome Fell and Nobody Noticed",
+    "Url": "https://friedkielbasa.substack.com/p/rome-fell-and-nobody-noticed",
+    "Description": "Rome Fell and Nobody Noticed",
+    "Metadata": {
+      "score": "32",
+      "author": "fkozlowski",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-06-14T19:14:03.909199+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48528729"
+    },
+    "Type": 1,
+    "Title": "Linux 7.1",
+    "Url": "https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs\u002BFFV4OuZRe3ZqdWB\u002BLxRLmRweUzQw@mail.gmail.com/T/#u",
+    "Description": "Linux 7.1",
+    "Metadata": {
+      "score": "113",
+      "author": "berlianta",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-06-14T19:14:03.9370174+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48460762"
+    },
+    "Type": 1,
+    "Title": "Show HN: 3D print Z reinforcement via injected loops",
+    "Url": "https://mgunlogson.github.io/magma/",
+    "Description": "Commodity FDM print strength is limited by poor Z-axis layer bonding. Parts crack along Z under stress. MAGMA tries to fix this in software that works on any FDM 3D printer.\u003Cp\u003EIt\u0026#x27;s a fork of OrcaSlicer with a new infill type that creates paired U-shaped vertical channels inside the print, plus G-code that injects molten plastic into those channels to bridge Z layer interfaces with continuous plastic.\u003Cp\u003EBig caveat: I have a junky Ender 3 and haven\u0026#x27;t gotten a clean physical print yet. Do",
+    "Metadata": {
+      "score": "29",
+      "author": "mgunlogson",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-06-14T19:14:03.9644339+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48527634"
+    },
+    "Type": 1,
+    "Title": "Rio de Janeiro\u0027s city government model Rio3.5 beats Qwen3.7 in recent benchmarks",
+    "Url": "https://twitter.com/zenmagnets/status/2065796012820848699",
+    "Description": "Rio de Janeiro\u0027s city government model Rio3.5 beats Qwen3.7 in recent benchmarks",
+    "Metadata": {
+      "score": "120",
+      "author": "lucasfcosta",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-06-14T19:14:03.9911073+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48474982"
+    },
+    "Type": 1,
+    "Title": "Quivers: A year of linear algebra by drawing arrows",
+    "Url": "https://lisyarus.github.io/blog/posts/quivers-a-year-of-linear-algebra-by-drawing-arrows.html",
+    "Description": "Quivers: A year of linear algebra by drawing arrows",
+    "Metadata": {
+      "score": "20",
+      "author": "ibobev",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-06-14T19:14:04.0187081+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48526360"
+    },
+    "Type": 1,
+    "Title": "How to Earn a Billion Dollars",
+    "Url": "https://paulgraham.com/earn.html",
+    "Description": "How to Earn a Billion Dollars",
+    "Metadata": {
+      "score": "287",
+      "author": "kingstoned",
+      "commentCount": "803"
+    },
+    "FetchedAt": "2026-06-14T19:14:04.0473405+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48526793"
+    },
+    "Type": 1,
+    "Title": "How did Atari apply side art to Arcade Cabinets?",
+    "Url": "https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/",
+    "Description": "How did Atari apply side art to Arcade Cabinets?",
+    "Metadata": {
+      "score": "55",
+      "author": "msephton",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-06-14T19:14:04.0739526+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48523992"
+    },
+    "Type": 1,
+    "Title": "Free SQL\u2192ER diagram tool, runs in the browser, nothing uploaded",
+    "Url": "https://sqltoerdiagram.com/",
+    "Description": "Free SQL\u2192ER diagram tool, runs in the browser, nothing uploaded",
+    "Metadata": {
+      "score": "316",
+      "author": "robhati",
+      "commentCount": "63"
+    },
+    "FetchedAt": "2026-06-14T19:14:04.1017991+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48523080"
+    },
+    "Type": 1,
+    "Title": "Honda Civics and the Evil Valet",
+    "Url": "https://juniperspring.org/posts/honda-evil-valet/",
+    "Description": "Previously: \u003Ci\u003EShow HN: Honda Civic Infotainment Reverse-Engineering\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=36052753\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=36052753\u003C/a\u003E - May 2023 (43 comments)",
+    "Metadata": {
+      "score": "369",
+      "author": "librick",
+      "commentCount": "89"
+    },
+    "FetchedAt": "2026-06-14T19:14:04.1284719+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48527658"
+    },
+    "Type": 1,
+    "Title": "A \u0027cold blob\u0027 in the Atlantic could be a sign of AMOC shutdown",
+    "Url": "https://www.cnn.com/2026/06/12/climate/cold-blob-atlantic-amoc-ocean-circulation",
+    "Description": "A \u0027cold blob\u0027 in the Atlantic could be a sign of AMOC shutdown",
+    "Metadata": {
+      "score": "136",
+      "author": "tambourine_man",
+      "commentCount": "178"
+    },
+    "FetchedAt": "2026-06-14T19:14:04.1548144+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48529149"
+    },
+    "Type": 1,
+    "Title": "Swiss voters reject proposal to cap population at ten million",
+    "Url": "https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146",
+    "Description": "Swiss voters reject proposal to cap population at ten million",
+    "Metadata": {
+      "score": "154",
+      "author": "FabCH",
+      "commentCount": "140"
+    },
+    "FetchedAt": "2026-06-14T19:14:04.182628+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48527297"
+    },
+    "Type": 1,
+    "Title": "KPMG pulls report on AI usage due to apparent hallucinations",
+    "Url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+    "Description": "KPMG pulls report on AI usage due to apparent hallucinations",
+    "Metadata": {
+      "score": "93",
+      "author": "Brajeshwar",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-06-14T19:14:04.2098468+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48529645"
+    },
+    "Type": 1,
+    "Title": "Dillo directory \u2013 Directory of useful sites that work reasonably well on Dillo",
+    "Url": "https://dir.dillo-browser.org/",
+    "Description": "Dillo directory \u2013 Directory of useful sites that work reasonably well on Dillo",
+    "Metadata": {
+      "score": "24",
+      "author": "HotGarbage",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-14T19:14:04.2369067+00:00"
   }
 ]
