@@ -1,0 +1,151 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:iptv-org/iptv"
+    },
+    "Type": 0,
+    "Title": "iptv-org/iptv",
+    "Url": "https://github.com/iptv-org/iptv",
+    "Description": "Collection of publicly available IPTV channels from all over the world",
+    "Metadata": {
+      "owner": "iptv-org",
+      "repo": "iptv",
+      "language": "TypeScript",
+      "stars": "530",
+      "topics": "iptv, m3u, playlist, streams, tv"
+    },
+    "FetchedAt": "2026-06-14T02:52:36.9714903+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "Shell",
+      "stars": "1,514",
+      "topics": "agent-skills, antigravity, antigravity-ide, claude-code, cursor, skills"
+    },
+    "FetchedAt": "2026-06-14T02:52:37.1275944+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:apple/container"
+    },
+    "Type": 0,
+    "Title": "apple/container",
+    "Url": "https://github.com/apple/container",
+    "Description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",
+    "Metadata": {
+      "owner": "apple",
+      "repo": "container",
+      "language": "Swift",
+      "stars": "1,487"
+    },
+    "FetchedAt": "2026-06-14T02:52:37.2416233+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:kenn-io/agentsview"
+    },
+    "Type": 0,
+    "Title": "kenn-io/agentsview",
+    "Url": "https://github.com/kenn-io/agentsview",
+    "Description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
+    "Metadata": {
+      "owner": "kenn-io",
+      "repo": "agentsview",
+      "language": "Go",
+      "stars": "190"
+    },
+    "FetchedAt": "2026-06-14T02:52:37.3295473+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:LMCache/LMCache"
+    },
+    "Type": 0,
+    "Title": "LMCache/LMCache",
+    "Url": "https://github.com/LMCache/LMCache",
+    "Description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+    "Metadata": {
+      "owner": "LMCache",
+      "repo": "LMCache",
+      "language": "Python",
+      "stars": "238",
+      "topics": "amd, cuda, fast, inference, kv-cache, llm, pytorch, rocm, speed, vllm"
+    },
+    "FetchedAt": "2026-06-14T02:52:37.4231156+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:microsoft/PowerToys"
+    },
+    "Type": 0,
+    "Title": "microsoft/PowerToys",
+    "Url": "https://github.com/microsoft/PowerToys",
+    "Description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+    "Metadata": {
+      "owner": "microsoft",
+      "repo": "PowerToys",
+      "language": "C",
+      "stars": "370",
+      "topics": "advanced-paste, color-picker, command-palette, desktop, fancyzones, keyboard-manager, microsoft-powertoys, powerrename, powertoys, windows, windows-10, windows-11"
+    },
+    "FetchedAt": "2026-06-14T02:52:37.5234009+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:andrewyng/aisuite"
+    },
+    "Type": 0,
+    "Title": "andrewyng/aisuite",
+    "Url": "https://github.com/andrewyng/aisuite",
+    "Description": "Simple, unified interface to multiple Generative AI providers ",
+    "Metadata": {
+      "owner": "andrewyng",
+      "repo": "aisuite",
+      "language": "Python",
+      "stars": "127"
+    },
+    "FetchedAt": "2026-06-14T02:52:37.6260553+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NVIDIA/SkillSpector"
+    },
+    "Type": 0,
+    "Title": "NVIDIA/SkillSpector",
+    "Url": "https://github.com/NVIDIA/SkillSpector",
+    "Description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+    "Metadata": {
+      "owner": "NVIDIA",
+      "repo": "SkillSpector",
+      "language": "Python",
+      "stars": "804"
+    },
+    "FetchedAt": "2026-06-14T02:52:37.7085846+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:bannedbook/fanqiang"
+    },
+    "Type": 0,
+    "Title": "bannedbook/fanqiang",
+    "Url": "https://github.com/bannedbook/fanqiang",
+    "Description": "\u7FFB\u5899-\u79D1\u5B66\u4E0A\u7F51",
+    "Metadata": {
+      "owner": "bannedbook",
+      "repo": "fanqiang",
+      "language": "Kotlin",
+      "stars": "93",
+      "topics": "brook, daze, fanqiang, goflyway, lightsocks, proxy, psiphon, shadowsocks, ssr, trojan, v2ray"
+    },
+    "FetchedAt": "2026-06-14T02:52:37.8211046+00:00"
+  }
+]
