@@ -166,66 +166,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48550693"
-    },
-    "Type": 1,
-    "Title": "The time the x86 emulator team found code so bad they fixed it during emulation",
-    "Url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
-    "Description": "The time the x86 emulator team found code so bad they fixed it during emulation",
-    "Metadata": {
-      "score": "284",
-      "author": "paulmooreparks",
-      "commentCount": "87"
-    },
-    "FetchedAt": "2026-06-16T10:57:41.955501+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48550779"
-    },
-    "Type": 1,
-    "Title": "John Carmack on Fabrice Bellard",
-    "Url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;ID_AA_Carmack\u0026#x2F;status\u0026#x2F;2064095424420487226\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;ID_AA_Carmack\u0026#x2F;status\u0026#x2F;2064095424420487226\u003C/a\u003E",
-    "Metadata": {
-      "score": "314",
-      "author": "apitman",
-      "commentCount": "175"
-    },
-    "FetchedAt": "2026-06-16T10:57:42.0027197+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48546294"
-    },
-    "Type": 1,
-    "Title": "A backdoor in a LinkedIn job offer",
-    "Url": "https://roman.pt/posts/linkedin-backdoor/",
-    "Description": "A backdoor in a LinkedIn job offer",
-    "Metadata": {
-      "score": "1225",
-      "author": "lwhsiao",
-      "commentCount": "221"
-    },
-    "FetchedAt": "2026-06-16T10:57:42.0317595+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48522316"
-    },
-    "Type": 1,
-    "Title": "Getting Creative with Perlin Noise Fields",
-    "Url": "https://sighack.com/post/getting-creative-with-perlin-noise-fields",
-    "Description": "Getting Creative with Perlin Noise Fields",
-    "Metadata": {
-      "score": "28",
-      "author": "0x000xca0xfe",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-06-16T10:57:42.0620427+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48542480"
     },
     "Type": 1,
@@ -241,21 +181,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48547985"
-    },
-    "Type": 1,
-    "Title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
-    "Url": "https://www.richardosgood.com/posts/banned-book-library/",
-    "Description": "Banned Book Library in a Wi-Fi Smart Light Bulb",
-    "Metadata": {
-      "score": "400",
-      "author": "sohkamyung",
-      "commentCount": "213"
-    },
-    "FetchedAt": "2026-06-16T10:57:42.1641703+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48542100"
     },
     "Type": 1,
@@ -268,81 +193,6 @@
       "commentCount": "454"
     },
     "FetchedAt": "2026-06-16T10:57:42.1932275+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48551876"
-    },
-    "Type": 1,
-    "Title": "Understanding the rationale behind a rule when trying to circumvent it",
-    "Url": "https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415",
-    "Description": "Understanding the rationale behind a rule when trying to circumvent it",
-    "Metadata": {
-      "score": "35",
-      "author": "tosh",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-06-16T10:57:42.2342695+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48543475"
-    },
-    "Type": 1,
-    "Title": "TinyWind: A pixel pirate sailing game with real wind physics (380k\u002B kms sailed)",
-    "Url": "https://tinywind.io",
-    "Description": "TinyWind: A pixel pirate sailing game with real wind physics (380k\u002B kms sailed)",
-    "Metadata": {
-      "score": "857",
-      "author": "tinywind",
-      "commentCount": "155"
-    },
-    "FetchedAt": "2026-06-16T10:57:42.2639702+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48552723"
-    },
-    "Type": 1,
-    "Title": "Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",
-    "Url": "https://trinket.strivemath.org/",
-    "Description": "Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",
-    "Metadata": {
-      "score": "17",
-      "author": "apulkit6",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-06-16T10:57:42.2931029+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48550569"
-    },
-    "Type": 1,
-    "Title": "Show HN: Garden of Flowers \u2013 an archive of pictorial typography before ASCII art",
-    "Url": "https://garden-of-flowers.heikkilotvonen.com/",
-    "Description": "Hey all, I made this. The archive started with my 2015 BA thesis on Amiga ASCII art when I was curious about the history of ASCII art but found very little on text art that came before it. The historical precursors are often attributed to typewriter art and shaped\u0026#x2F;visual poetry, but I think letterpress is overlooked. So, I got slightly obsessed and started a personal database of pictures built entirely from metal type, ornaments, and rule, some going back to the 1600s. After eight years, I\u0026",
-    "Metadata": {
-      "score": "82",
-      "author": "california-og",
-      "commentCount": "14"
-    },
-    "FetchedAt": "2026-06-16T10:57:42.3230504+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48546441"
-    },
-    "Type": 1,
-    "Title": "I Love the Computer",
-    "Url": "https://michaelenger.com/blog/i-love-the-computer/",
-    "Description": "I Love the Computer",
-    "Metadata": {
-      "score": "242",
-      "author": "speckx",
-      "commentCount": "139"
-    },
-    "FetchedAt": "2026-06-16T10:57:42.3518857+00:00"
   },
   {
     "ExternalId": {
@@ -463,21 +313,6 @@
       "commentCount": "289"
     },
     "FetchedAt": "2026-06-16T10:57:42.5862053+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48552687"
-    },
-    "Type": 1,
-    "Title": "Feds freaked over Fable 5 after simple \u0027fix this code\u0027 prompt, not jailbreak",
-    "Url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
-    "Description": "Feds freaked over Fable 5 after simple \u0027fix this code\u0027 prompt, not jailbreak",
-    "Metadata": {
-      "score": "18",
-      "author": "_tk_",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-06-16T10:57:42.6166338+00:00"
   },
   {
     "ExternalId": {
@@ -613,5 +448,455 @@
       "commentCount": "2"
     },
     "FetchedAt": "2026-06-16T10:57:42.9239385+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48555993"
+    },
+    "Type": 1,
+    "Title": "Running local models is good now",
+    "Url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "Description": "Running local models is good now",
+    "Metadata": {
+      "score": "263",
+      "author": "jfb",
+      "commentCount": "141"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.0801304+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48553550"
+    },
+    "Type": 1,
+    "Title": "Mechanical Watch (2022)",
+    "Url": "https://ciechanow.ski/mechanical-watch/",
+    "Description": "Mechanical Watch (2022)",
+    "Metadata": {
+      "score": "445",
+      "author": "razin",
+      "commentCount": "80"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.099392+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48556785"
+    },
+    "Type": 1,
+    "Title": "Fable ban was never about a jailbreak",
+    "Url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+    "Description": "Fable ban was never about a jailbreak",
+    "Metadata": {
+      "score": "81",
+      "author": "amarant",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.1253331+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48556163"
+    },
+    "Type": 1,
+    "Title": "Subquadratic \u2013 Introducing SubQ 1.1 Small",
+    "Url": "https://subq.ai/subq-1-1-small-technical-report",
+    "Description": "Subquadratic \u2013 Introducing SubQ 1.1 Small",
+    "Metadata": {
+      "score": "44",
+      "author": "EDM115",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.1439961+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48552844"
+    },
+    "Type": 1,
+    "Title": "Correlated randomness in Slay the Spire 2",
+    "Url": "https://tck.mn/blog/correlated-randomness-sts2/",
+    "Description": "Correlated randomness in Slay the Spire 2",
+    "Metadata": {
+      "score": "185",
+      "author": "rdmuser",
+      "commentCount": "60"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.2350453+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48556414"
+    },
+    "Type": 1,
+    "Title": "Google Chrome\u0027s Next Update Will Mark the End of Popular Ad Blockers",
+    "Url": "https://tech.slashdot.org/story/26/06/15/205219/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers",
+    "Description": "Google Chrome\u0027s Next Update Will Mark the End of Popular Ad Blockers",
+    "Metadata": {
+      "score": "101",
+      "author": "arnejenssen",
+      "commentCount": "78"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.2544389+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48550779"
+    },
+    "Type": 1,
+    "Title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
+    "Url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;ID_AA_Carmack\u0026#x2F;status\u0026#x2F;2064095424420487226\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;ID_AA_Carmack\u0026#x2F;status\u0026#x2F;2064095424420487226\u003C/a\u003E",
+    "Metadata": {
+      "score": "670",
+      "author": "apitman",
+      "commentCount": "327"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.2858456+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48546294"
+    },
+    "Type": 1,
+    "Title": "A backdoor in a LinkedIn job offer",
+    "Url": "https://roman.pt/posts/linkedin-backdoor/",
+    "Description": "A backdoor in a LinkedIn job offer",
+    "Metadata": {
+      "score": "1466",
+      "author": "lwhsiao",
+      "commentCount": "275"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.3068028+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48550693"
+    },
+    "Type": 1,
+    "Title": "The time the x86 emulator team found code so bad they fixed it during emulation",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
+    "Description": "The time the x86 emulator team found code so bad they fixed it during emulation",
+    "Metadata": {
+      "score": "428",
+      "author": "paulmooreparks",
+      "commentCount": "136"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.3237867+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48519723"
+    },
+    "Type": 1,
+    "Title": "An interview with an Apple emoji designer",
+    "Url": "https://shadycharacters.co.uk/2026/06/ollie-wagner/",
+    "Description": "An interview with an Apple emoji designer",
+    "Metadata": {
+      "score": "53",
+      "author": "nate",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.3915135+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48522316"
+    },
+    "Type": 1,
+    "Title": "Getting Creative with Perlin Noise Fields",
+    "Url": "https://sighack.com/post/getting-creative-with-perlin-noise-fields",
+    "Description": "Getting Creative with Perlin Noise Fields",
+    "Metadata": {
+      "score": "113",
+      "author": "0x000xca0xfe",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.4274835+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48508550"
+    },
+    "Type": 1,
+    "Title": "4\u00D7 RTX Pro 6000 Blackwell on Water, and the One Card That Wouldn\u0027t Behave",
+    "Url": "https://sabareesh.com/posts/blackwell-waterblock/",
+    "Description": "4\u00D7 RTX Pro 6000 Blackwell on Water, and the One Card That Wouldn\u0027t Behave",
+    "Metadata": {
+      "score": "35",
+      "author": "sabareesh",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.4523827+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48555838"
+    },
+    "Type": 1,
+    "Title": "But yak shaving is fun",
+    "Url": "https://parksb.github.io/en/article/32.html",
+    "Description": "But yak shaving is fun",
+    "Metadata": {
+      "score": "13",
+      "author": "parksb",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.4766489+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48553450"
+    },
+    "Type": 1,
+    "Title": "Unicorn \u2013 The Ultimate CPU Emulator",
+    "Url": "https://www.unicorn-engine.org/",
+    "Description": "Unicorn \u2013 The Ultimate CPU Emulator",
+    "Metadata": {
+      "score": "42",
+      "author": "tosh",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.5008459+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48556985"
+    },
+    "Type": 1,
+    "Title": "UK to require ID or face scan before you can make social media accounts",
+    "Url": "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/",
+    "Description": "UK to require ID or face scan before you can make social media accounts",
+    "Metadata": {
+      "score": "28",
+      "author": "speckx",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.665514+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48552687"
+    },
+    "Type": 1,
+    "Title": "Feds freaked over Fable 5 after simple \u0027fix this code\u0027 prompt, not jailbreak",
+    "Url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+    "Description": "Feds freaked over Fable 5 after simple \u0027fix this code\u0027 prompt, not jailbreak",
+    "Metadata": {
+      "score": "416",
+      "author": "_tk_",
+      "commentCount": "232"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.6859888+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48547985"
+    },
+    "Type": 1,
+    "Title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+    "Url": "https://www.richardosgood.com/posts/banned-book-library/",
+    "Description": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+    "Metadata": {
+      "score": "523",
+      "author": "sohkamyung",
+      "commentCount": "313"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.7100803+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48543475"
+    },
+    "Type": 1,
+    "Title": "TinyWind: A pixel pirate sailing game with real wind physics (380k\u002B kms sailed)",
+    "Url": "https://tinywind.io",
+    "Description": "TinyWind: A pixel pirate sailing game with real wind physics (380k\u002B kms sailed)",
+    "Metadata": {
+      "score": "953",
+      "author": "tinywind",
+      "commentCount": "169"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.7255915+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48553224"
+    },
+    "Type": 1,
+    "Title": "SpaceX to buy Cursor for $60B",
+    "Url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+    "Description": "SpaceX to buy Cursor for $60B",
+    "Metadata": {
+      "score": "276",
+      "author": "itsmarcelg",
+      "commentCount": "226"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.7410623+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48521414"
+    },
+    "Type": 1,
+    "Title": "The history of butterfly swimming",
+    "Url": "https://www.swimming.org/sport/history-of-butterfly/",
+    "Description": "The history of butterfly swimming",
+    "Metadata": {
+      "score": "14",
+      "author": "mooreds",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.7564442+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48551876"
+    },
+    "Type": 1,
+    "Title": "Understanding the rationale behind a rule when trying to circumvent it",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415",
+    "Description": "Understanding the rationale behind a rule when trying to circumvent it",
+    "Metadata": {
+      "score": "84",
+      "author": "tosh",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.7731986+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48557535"
+    },
+    "Type": 1,
+    "Title": "GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz",
+    "Url": "https://twitter.com/fguzmanai/status/2065832668172845209",
+    "Description": "GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz",
+    "Metadata": {
+      "score": "7",
+      "author": "laxmena",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.7904835+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48552723"
+    },
+    "Type": 1,
+    "Title": "Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",
+    "Url": "https://trinket.strivemath.org/",
+    "Description": "Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",
+    "Metadata": {
+      "score": "88",
+      "author": "apulkit6",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.8091695+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48555244"
+    },
+    "Type": 1,
+    "Title": "Google Chrome update will close the door on ad blockers",
+    "Url": "https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/",
+    "Description": "Google Chrome update will close the door on ad blockers",
+    "Metadata": {
+      "score": "174",
+      "author": "speckx",
+      "commentCount": "108"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.8318641+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48555835"
+    },
+    "Type": 1,
+    "Title": "I Fired Google",
+    "Url": "https://www.theartofdoingstuff.com/i-fired-google/",
+    "Description": "I Fired Google",
+    "Metadata": {
+      "score": "106",
+      "author": "speckx",
+      "commentCount": "94"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.8488263+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48546441"
+    },
+    "Type": 1,
+    "Title": "I Love the Computer",
+    "Url": "https://michaelenger.com/blog/i-love-the-computer/",
+    "Description": "I Love the Computer",
+    "Metadata": {
+      "score": "287",
+      "author": "speckx",
+      "commentCount": "156"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.8667512+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48523126"
+    },
+    "Type": 1,
+    "Title": "Color Photos of Stalin-Era Soviet Union Taken by a US Diplomat",
+    "Url": "https://rarehistoricalphotos.com/stalin-era-soviet-union-pictures-martin-manhoff/",
+    "Description": "Color Photos of Stalin-Era Soviet Union Taken by a US Diplomat",
+    "Metadata": {
+      "score": "110",
+      "author": "Cider9986",
+      "commentCount": "39"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.8879715+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48554433"
+    },
+    "Type": 1,
+    "Title": "\u0027Wow, it really worked \u0027: 70s TV show causing worldwide panic today",
+    "Url": "https://www.theguardian.com/tv-and-radio/2026/jun/16/alternative-3-mockumentary-missing-scientists-conspiracy-50-years-later",
+    "Description": "\u0027Wow, it really worked \u0027: 70s TV show causing worldwide panic today",
+    "Metadata": {
+      "score": "65",
+      "author": "defrost",
+      "commentCount": "39"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.9050003+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48556821"
+    },
+    "Type": 1,
+    "Title": "CJEU: Social networks are the \u0027publishers\u0027 of algorithmically-altered feeds",
+    "Url": "https://bsky.app/profile/stevepeers.bsky.social/post/3mofdspytds2l",
+    "Description": "CJEU: Social networks are the \u0027publishers\u0027 of algorithmically-altered feeds",
+    "Metadata": {
+      "score": "15",
+      "author": "handelaar",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.9212417+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48550569"
+    },
+    "Type": 1,
+    "Title": "Show HN: Garden of Flowers \u2013 an archive of pictorial typography before ASCII art",
+    "Url": "https://garden-of-flowers.heikkilotvonen.com/",
+    "Description": "Hey all, I made this. The archive started with my 2015 BA thesis on Amiga ASCII art when I was curious about the history of ASCII art but found very little on text art that came before it. The historical precursors are often attributed to typewriter art and shaped\u0026#x2F;visual poetry, but I think letterpress is overlooked. So, I got slightly obsessed and started a personal database of pictures built entirely from metal type, ornaments, and rule, some going back to the 1600s. After eight years, I\u0026",
+    "Metadata": {
+      "score": "119",
+      "author": "california-og",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-06-16T16:28:22.9383378+00:00"
   }
 ]
