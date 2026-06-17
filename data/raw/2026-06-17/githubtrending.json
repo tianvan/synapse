@@ -1,0 +1,172 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:teslamate-org/teslamate"
+    },
+    "Type": 0,
+    "Title": "teslamate-org/teslamate",
+    "Url": "https://github.com/teslamate-org/teslamate",
+    "Description": "A self-hosted data logger for your Tesla  \uD83D\uDE98 [main maintainer=@JakobLichterfeld]",
+    "Metadata": {
+      "owner": "teslamate-org",
+      "repo": "teslamate",
+      "language": "Elixir",
+      "stars": "215",
+      "topics": "dashboard, datalogger, docker, elixir-lang, grafana, hacktoberfest, home-automation, mqtt, nix, nix-flake, openstreetmap, phoenix-liveview, raspberry-pi, self-hosted, srtm, tesla, tesla-api"
+    },
+    "FetchedAt": "2026-06-17T02:55:04.9961776+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:iptv-org/iptv"
+    },
+    "Type": 0,
+    "Title": "iptv-org/iptv",
+    "Url": "https://github.com/iptv-org/iptv",
+    "Description": "Collection of publicly available IPTV channels from all over the world",
+    "Metadata": {
+      "owner": "iptv-org",
+      "repo": "iptv",
+      "language": "TypeScript",
+      "stars": "1,197",
+      "topics": "iptv, m3u, playlist, streams, tv"
+    },
+    "FetchedAt": "2026-06-17T02:55:05.287691+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:puppeteer/puppeteer"
+    },
+    "Type": 0,
+    "Title": "puppeteer/puppeteer",
+    "Url": "https://github.com/puppeteer/puppeteer",
+    "Description": "JavaScript API for Chrome and Firefox",
+    "Metadata": {
+      "owner": "puppeteer",
+      "repo": "puppeteer",
+      "language": "TypeScript",
+      "stars": "56",
+      "topics": "automation, chrome, chromium, developer-tools, firefox, headless-chrome, node-module, testing, web"
+    },
+    "FetchedAt": "2026-06-17T02:55:05.4438463+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:meshery/meshery"
+    },
+    "Type": 0,
+    "Title": "meshery/meshery",
+    "Url": "https://github.com/meshery/meshery",
+    "Description": "Meshery, the cloud native manager",
+    "Metadata": {
+      "owner": "meshery",
+      "repo": "meshery",
+      "language": "TypeScript",
+      "stars": "228",
+      "topics": "cloud-native, cncf, control-plane, docker, gitops, golang, gsoc, hacktoberfest, infrastructure-as-code, internal-developer-platform, kanvas, kubernetes, kubernetes-operator, management-plane, meshery, opa, platform-engineering, reactjs, visualization, webassembly"
+    },
+    "FetchedAt": "2026-06-17T02:55:05.6108061+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cypress-io/cypress"
+    },
+    "Type": 0,
+    "Title": "cypress-io/cypress",
+    "Url": "https://github.com/cypress-io/cypress",
+    "Description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "Metadata": {
+      "owner": "cypress-io",
+      "repo": "cypress",
+      "language": "TypeScript",
+      "stars": "13",
+      "topics": "angular-testing-library, component-testing, cypress, cypress-cloud, cypress-schematic, end-to-end-testing, react-testing-library, svelte-testing-library, test-replay, testing-framework, testing-library, testing-tool, vue-testing-library"
+    },
+    "FetchedAt": "2026-06-17T02:55:05.7843485+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Universal-Debloater-Alliance/universal-android-debloater-next-generation"
+    },
+    "Type": 0,
+    "Title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "Url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "Description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+    "Metadata": {
+      "owner": "Universal-Debloater-Alliance",
+      "repo": "universal-android-debloater-next-generation",
+      "language": "Rust",
+      "stars": "146",
+      "topics": "adb, android, bloatware-list, bloatware-removal, debloat, debloater, debloating, privacy"
+    },
+    "FetchedAt": "2026-06-17T02:55:05.954432+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:OpenBMB/VoxCPM"
+    },
+    "Type": 0,
+    "Title": "OpenBMB/VoxCPM",
+    "Url": "https://github.com/OpenBMB/VoxCPM",
+    "Description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "Metadata": {
+      "owner": "OpenBMB",
+      "repo": "VoxCPM",
+      "language": "Python",
+      "stars": "408",
+      "topics": "audio, deeplearning, minicpm, multilingual, python, pytorch, speech, speech-synthesis, text-to-speech, tts, tts-model, voice-cloning, voice-design, voxcpm"
+    },
+    "FetchedAt": "2026-06-17T02:55:06.1580387+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alibaba/zvec"
+    },
+    "Type": 0,
+    "Title": "alibaba/zvec",
+    "Url": "https://github.com/alibaba/zvec",
+    "Description": "A lightweight, lightning-fast, in-process vector database",
+    "Metadata": {
+      "owner": "alibaba",
+      "repo": "zvec",
+      "language": "C\u002B\u002B",
+      "stars": "156",
+      "topics": "agent-skills, db, embedded, faiss, hnsw, llm-memory, local, rag, search-engine, semantic-search, similarity-search, vector-database, vector-db"
+    },
+    "FetchedAt": "2026-06-17T02:55:06.325166+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:rmyndharis/OpenWA"
+    },
+    "Type": 0,
+    "Title": "rmyndharis/OpenWA",
+    "Url": "https://github.com/rmyndharis/OpenWA",
+    "Description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+    "Metadata": {
+      "owner": "rmyndharis",
+      "repo": "OpenWA",
+      "language": "TypeScript",
+      "stars": "185",
+      "topics": "api, gateway, whatsapp"
+    },
+    "FetchedAt": "2026-06-17T02:55:06.4957751+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:n0-computer/iroh"
+    },
+    "Type": 0,
+    "Title": "n0-computer/iroh",
+    "Url": "https://github.com/n0-computer/iroh",
+    "Description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+    "Metadata": {
+      "owner": "n0-computer",
+      "repo": "iroh",
+      "language": "Rust",
+      "stars": "334",
+      "topics": "does-anyone-read-these, holepunching, memes, multipath, p2p, quic, realtime, rust, tags, tagsoftags"
+    },
+    "FetchedAt": "2026-06-17T02:55:06.6323326+00:00"
+  }
+]
