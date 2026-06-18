@@ -1,40 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:DeusData/codebase-memory-mcp"
-    },
-    "Type": 0,
-    "Title": "DeusData/codebase-memory-mcp",
-    "Url": "https://github.com/DeusData/codebase-memory-mcp",
-    "Description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-    "Metadata": {
-      "owner": "DeusData",
-      "repo": "codebase-memory-mcp",
-      "language": "C",
-      "stars": "371",
-      "topics": "aider, ast, claude-code, code-analysis, code-intelligence, codex, cursor, cypher, developer-tools, gemini-cli, graph-visualization, kilocode, knowledge-graph, mcp, mcp-server, model-context-protocol, opencode, sqlite, tree-sitter, windsurf"
-    },
-    "FetchedAt": "2026-06-18T10:10:06.1313709+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:n0-computer/iroh"
-    },
-    "Type": 0,
-    "Title": "n0-computer/iroh",
-    "Url": "https://github.com/n0-computer/iroh",
-    "Description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-    "Metadata": {
-      "owner": "n0-computer",
-      "repo": "iroh",
-      "language": "Rust",
-      "stars": "421",
-      "topics": "does-anyone-read-these, holepunching, memes, multipath, p2p, quic, realtime, rust, tags, tagsoftags"
-    },
-    "FetchedAt": "2026-06-18T10:10:06.3897849+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:Panniantong/Agent-Reach"
     },
     "Type": 0,
@@ -66,22 +32,6 @@
       "topics": "cloud-native, cncf, control-plane, docker, gitops, golang, gsoc, hacktoberfest, infrastructure-as-code, internal-developer-platform, kanvas, kubernetes, kubernetes-operator, management-plane, meshery, opa, platform-engineering, reactjs, visualization, webassembly"
     },
     "FetchedAt": "2026-06-18T10:10:08.4213197+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:google-research/timesfm"
-    },
-    "Type": 0,
-    "Title": "google-research/timesfm",
-    "Url": "https://github.com/google-research/timesfm",
-    "Description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-    "Metadata": {
-      "owner": "google-research",
-      "repo": "timesfm",
-      "language": "Python",
-      "stars": "606"
-    },
-    "FetchedAt": "2026-06-18T10:10:08.6335463+00:00"
   },
   {
     "ExternalId": {
@@ -133,23 +83,6 @@
       "topics": "algo, algorithm, algorithms, book, data-structure, data-structures, data-structures-and-algorithms, dsa, education, leetcode, programming"
     },
     "FetchedAt": "2026-06-18T10:10:09.2729494+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:Universal-Debloater-Alliance/universal-android-debloater-next-generation"
-    },
-    "Type": 0,
-    "Title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-    "Url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-    "Description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
-    "Metadata": {
-      "owner": "Universal-Debloater-Alliance",
-      "repo": "universal-android-debloater-next-generation",
-      "language": "Rust",
-      "stars": "457",
-      "topics": "adb, android, bloatware-list, bloatware-removal, debloat, debloater, debloating, privacy"
-    },
-    "FetchedAt": "2026-06-18T10:10:09.4760878+00:00"
   },
   {
     "ExternalId": {
@@ -237,6 +170,106 @@
   },
   {
     "ExternalId": {
+      "Value": "github:google-research/timesfm"
+    },
+    "Type": 0,
+    "Title": "google-research/timesfm",
+    "Url": "https://github.com/google-research/timesfm",
+    "Description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "Metadata": {
+      "owner": "google-research",
+      "repo": "timesfm",
+      "language": "Python",
+      "stars": "858"
+    },
+    "FetchedAt": "2026-06-18T14:51:35.2966632+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:n0-computer/iroh"
+    },
+    "Type": 0,
+    "Title": "n0-computer/iroh",
+    "Url": "https://github.com/n0-computer/iroh",
+    "Description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+    "Metadata": {
+      "owner": "n0-computer",
+      "repo": "iroh",
+      "language": "Rust",
+      "stars": "369",
+      "topics": "does-anyone-read-these, holepunching, memes, multipath, p2p, quic, realtime, rust, tags, tagsoftags"
+    },
+    "FetchedAt": "2026-06-18T14:51:35.6316829+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:zai-org/GLM-5"
+    },
+    "Type": 0,
+    "Title": "zai-org/GLM-5",
+    "Url": "https://github.com/zai-org/GLM-5",
+    "Description": "GLM-5: From Vibe Coding to Agentic Engineering",
+    "Metadata": {
+      "owner": "zai-org",
+      "repo": "GLM-5",
+      "stars": "286",
+      "topics": "agentic-ai, coding, llm, long-horizon"
+    },
+    "FetchedAt": "2026-06-18T14:51:35.8344839+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:DeusData/codebase-memory-mcp"
+    },
+    "Type": 0,
+    "Title": "DeusData/codebase-memory-mcp",
+    "Url": "https://github.com/DeusData/codebase-memory-mcp",
+    "Description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "Metadata": {
+      "owner": "DeusData",
+      "repo": "codebase-memory-mcp",
+      "language": "C",
+      "stars": "2,308",
+      "topics": "aider, ast, claude-code, code-analysis, code-intelligence, codex, cursor, cypher, developer-tools, gemini-cli, graph-visualization, kilocode, knowledge-graph, mcp, mcp-server, model-context-protocol, opencode, sqlite, tree-sitter, windsurf"
+    },
+    "FetchedAt": "2026-06-18T14:51:36.0167452+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alibaba/zvec"
+    },
+    "Type": 0,
+    "Title": "alibaba/zvec",
+    "Url": "https://github.com/alibaba/zvec",
+    "Description": "A lightweight, lightning-fast, in-process vector database",
+    "Metadata": {
+      "owner": "alibaba",
+      "repo": "zvec",
+      "language": "C\u002B\u002B",
+      "stars": "435",
+      "topics": "agent-skills, db, embedded, faiss, hnsw, llm-memory, local, rag, search-engine, semantic-search, similarity-search, vector-database, vector-db"
+    },
+    "FetchedAt": "2026-06-18T14:51:36.1874648+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Kilo-Org/kilocode"
+    },
+    "Type": 0,
+    "Title": "Kilo-Org/kilocode",
+    "Url": "https://github.com/Kilo-Org/kilocode",
+    "Description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+    "Metadata": {
+      "owner": "Kilo-Org",
+      "repo": "kilocode",
+      "language": "TypeScript",
+      "stars": "1,339",
+      "topics": "ai, ai-age, ai-coding, ai-developer-tools, chatgpt, claude, cli, gemini, jetbrains, sonnet, vscode, vscode-extension"
+    },
+    "FetchedAt": "2026-06-18T14:51:36.3626638+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:makeplane/plane"
     },
     "Type": 0,
@@ -247,9 +280,93 @@
       "owner": "makeplane",
       "repo": "plane",
       "language": "TypeScript",
-      "stars": "89",
+      "stars": "610",
       "topics": "boards, bug-tracker, django, docker, gantt, issue-tracker, jira, jira-alternative, kanban, linear, postgresql, product-management, project-management, project-planning, python, react, redis, typescipt, vite, work-management"
     },
-    "FetchedAt": "2026-06-18T10:10:10.6652109+00:00"
+    "FetchedAt": "2026-06-18T14:51:36.5635242+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Kong/insomnia"
+    },
+    "Type": 0,
+    "Title": "Kong/insomnia",
+    "Url": "https://github.com/Kong/insomnia",
+    "Description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+    "Metadata": {
+      "owner": "Kong",
+      "repo": "insomnia",
+      "language": "TypeScript",
+      "stars": "13",
+      "topics": "api, api-client, api-design, curl, electron-app, graphql, grpc, http-client, rest-api, websockets"
+    },
+    "FetchedAt": "2026-06-18T14:51:36.7485732+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Universal-Debloater-Alliance/universal-android-debloater-next-generation"
+    },
+    "Type": 0,
+    "Title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "Url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "Description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+    "Metadata": {
+      "owner": "Universal-Debloater-Alliance",
+      "repo": "universal-android-debloater-next-generation",
+      "language": "Rust",
+      "stars": "247",
+      "topics": "adb, android, bloatware-list, bloatware-removal, debloat, debloater, debloating, privacy"
+    },
+    "FetchedAt": "2026-06-18T14:51:36.9322474+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:dotnet/aspnetcore"
+    },
+    "Type": 0,
+    "Title": "dotnet/aspnetcore",
+    "Url": "https://github.com/dotnet/aspnetcore",
+    "Description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "Metadata": {
+      "owner": "dotnet",
+      "repo": "aspnetcore",
+      "language": "C#",
+      "stars": "11",
+      "topics": "aspnetcore, dotnet, hacktoberfest, help-wanted"
+    },
+    "FetchedAt": "2026-06-18T14:51:37.1167755+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:owainlewis/awesome-artificial-intelligence"
+    },
+    "Type": 0,
+    "Title": "owainlewis/awesome-artificial-intelligence",
+    "Url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+    "Description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+    "Metadata": {
+      "owner": "owainlewis",
+      "repo": "awesome-artificial-intelligence",
+      "stars": "33",
+      "topics": "ai, artificial-intelligence, deep-learning, intelligent-machines, intelligent-systems, machine-intelligence, machine-learning, neural-network, reinforcement-learning, statistical-learning, unsupervised-learning"
+    },
+    "FetchedAt": "2026-06-18T14:51:37.3496528+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Lightricks/LTX-2"
+    },
+    "Type": 0,
+    "Title": "Lightricks/LTX-2",
+    "Url": "https://github.com/Lightricks/LTX-2",
+    "Description": "Official Python inference and LoRA trainer package for the LTX-2 audio\u2013video generative model.",
+    "Metadata": {
+      "owner": "Lightricks",
+      "repo": "LTX-2",
+      "language": "Python",
+      "stars": "47",
+      "topics": "generative-ai, ltx, ltx-2"
+    },
+    "FetchedAt": "2026-06-18T14:51:37.5289731+00:00"
   }
 ]
