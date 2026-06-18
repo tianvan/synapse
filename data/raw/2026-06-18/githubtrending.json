@@ -182,7 +182,7 @@
       "language": "Python",
       "stars": "858"
     },
-    "FetchedAt": "2026-06-18T14:51:35.2966632+00:00"
+    "FetchedAt": "2026-06-18T20:14:16.25439+00:00"
   },
   {
     "ExternalId": {
@@ -199,7 +199,7 @@
       "stars": "369",
       "topics": "does-anyone-read-these, holepunching, memes, multipath, p2p, quic, realtime, rust, tags, tagsoftags"
     },
-    "FetchedAt": "2026-06-18T14:51:35.6316829+00:00"
+    "FetchedAt": "2026-06-18T20:14:16.3972845+00:00"
   },
   {
     "ExternalId": {
@@ -215,7 +215,7 @@
       "stars": "286",
       "topics": "agentic-ai, coding, llm, long-horizon"
     },
-    "FetchedAt": "2026-06-18T14:51:35.8344839+00:00"
+    "FetchedAt": "2026-06-18T20:14:16.5213189+00:00"
   },
   {
     "ExternalId": {
@@ -232,7 +232,24 @@
       "stars": "2,308",
       "topics": "aider, ast, claude-code, code-analysis, code-intelligence, codex, cursor, cypher, developer-tools, gemini-cli, graph-visualization, kilocode, knowledge-graph, mcp, mcp-server, model-context-protocol, opencode, sqlite, tree-sitter, windsurf"
     },
-    "FetchedAt": "2026-06-18T14:51:36.0167452+00:00"
+    "FetchedAt": "2026-06-18T20:14:16.6742478+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:yifanfeng97/Hyper-Extract"
+    },
+    "Type": 0,
+    "Title": "yifanfeng97/Hyper-Extract",
+    "Url": "https://github.com/yifanfeng97/Hyper-Extract",
+    "Description": "Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions \u2014 with one command.",
+    "Metadata": {
+      "owner": "yifanfeng97",
+      "repo": "Hyper-Extract",
+      "language": "Python",
+      "stars": "124",
+      "topics": "ai, ai-agents, cli, hypergraph, information-extraction, knowledge, knowledge-graph, llm, python, rag"
+    },
+    "FetchedAt": "2026-06-18T20:14:16.788263+00:00"
   },
   {
     "ExternalId": {
@@ -246,10 +263,10 @@
       "owner": "alibaba",
       "repo": "zvec",
       "language": "C\u002B\u002B",
-      "stars": "435",
+      "stars": "344",
       "topics": "agent-skills, db, embedded, faiss, hnsw, llm-memory, local, rag, search-engine, semantic-search, similarity-search, vector-database, vector-db"
     },
-    "FetchedAt": "2026-06-18T14:51:36.1874648+00:00"
+    "FetchedAt": "2026-06-18T20:14:16.8869176+00:00"
   },
   {
     "ExternalId": {
@@ -266,7 +283,7 @@
       "stars": "1,339",
       "topics": "ai, ai-age, ai-coding, ai-developer-tools, chatgpt, claude, cli, gemini, jetbrains, sonnet, vscode, vscode-extension"
     },
-    "FetchedAt": "2026-06-18T14:51:36.3626638+00:00"
+    "FetchedAt": "2026-06-18T20:14:16.9902555+00:00"
   },
   {
     "ExternalId": {
@@ -283,7 +300,7 @@
       "stars": "610",
       "topics": "boards, bug-tracker, django, docker, gantt, issue-tracker, jira, jira-alternative, kanban, linear, postgresql, product-management, project-management, project-planning, python, react, redis, typescipt, vite, work-management"
     },
-    "FetchedAt": "2026-06-18T14:51:36.5635242+00:00"
+    "FetchedAt": "2026-06-18T20:14:17.1249692+00:00"
   },
   {
     "ExternalId": {
@@ -300,7 +317,7 @@
       "stars": "13",
       "topics": "api, api-client, api-design, curl, electron-app, graphql, grpc, http-client, rest-api, websockets"
     },
-    "FetchedAt": "2026-06-18T14:51:36.7485732+00:00"
+    "FetchedAt": "2026-06-18T20:14:17.243164+00:00"
   },
   {
     "ExternalId": {
@@ -317,7 +334,7 @@
       "stars": "247",
       "topics": "adb, android, bloatware-list, bloatware-removal, debloat, debloater, debloating, privacy"
     },
-    "FetchedAt": "2026-06-18T14:51:36.9322474+00:00"
+    "FetchedAt": "2026-06-18T20:14:17.3844363+00:00"
   },
   {
     "ExternalId": {
@@ -331,10 +348,10 @@
       "owner": "dotnet",
       "repo": "aspnetcore",
       "language": "C#",
-      "stars": "11",
+      "stars": "22",
       "topics": "aspnetcore, dotnet, hacktoberfest, help-wanted"
     },
-    "FetchedAt": "2026-06-18T14:51:37.1167755+00:00"
+    "FetchedAt": "2026-06-18T20:14:17.519366+00:00"
   },
   {
     "ExternalId": {
@@ -350,7 +367,7 @@
       "stars": "33",
       "topics": "ai, artificial-intelligence, deep-learning, intelligent-machines, intelligent-systems, machine-intelligence, machine-learning, neural-network, reinforcement-learning, statistical-learning, unsupervised-learning"
     },
-    "FetchedAt": "2026-06-18T14:51:37.3496528+00:00"
+    "FetchedAt": "2026-06-18T20:14:17.6531986+00:00"
   },
   {
     "ExternalId": {
@@ -367,6 +384,6 @@
       "stars": "47",
       "topics": "generative-ai, ltx, ltx-2"
     },
-    "FetchedAt": "2026-06-18T14:51:37.5289731+00:00"
+    "FetchedAt": "2026-06-18T20:14:17.763221+00:00"
   }
 ]
