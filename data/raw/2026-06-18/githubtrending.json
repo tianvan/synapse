@@ -1,0 +1,255 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:DeusData/codebase-memory-mcp"
+    },
+    "Type": 0,
+    "Title": "DeusData/codebase-memory-mcp",
+    "Url": "https://github.com/DeusData/codebase-memory-mcp",
+    "Description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "Metadata": {
+      "owner": "DeusData",
+      "repo": "codebase-memory-mcp",
+      "language": "C",
+      "stars": "371",
+      "topics": "aider, ast, claude-code, code-analysis, code-intelligence, codex, cursor, cypher, developer-tools, gemini-cli, graph-visualization, kilocode, knowledge-graph, mcp, mcp-server, model-context-protocol, opencode, sqlite, tree-sitter, windsurf"
+    },
+    "FetchedAt": "2026-06-18T02:50:11.7721189+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:n0-computer/iroh"
+    },
+    "Type": 0,
+    "Title": "n0-computer/iroh",
+    "Url": "https://github.com/n0-computer/iroh",
+    "Description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+    "Metadata": {
+      "owner": "n0-computer",
+      "repo": "iroh",
+      "language": "Rust",
+      "stars": "421",
+      "topics": "does-anyone-read-these, holepunching, memes, multipath, p2p, quic, realtime, rust, tags, tagsoftags"
+    },
+    "FetchedAt": "2026-06-18T02:50:12.0261245+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Panniantong/Agent-Reach"
+    },
+    "Type": 0,
+    "Title": "Panniantong/Agent-Reach",
+    "Url": "https://github.com/Panniantong/Agent-Reach",
+    "Description": "Give your AI agent eyes to see the entire internet. Read \u0026 search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+    "Metadata": {
+      "owner": "Panniantong",
+      "repo": "Agent-Reach",
+      "language": "Python",
+      "stars": "1,161",
+      "topics": "agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript"
+    },
+    "FetchedAt": "2026-06-18T02:50:12.2373821+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:meshery/meshery"
+    },
+    "Type": 0,
+    "Title": "meshery/meshery",
+    "Url": "https://github.com/meshery/meshery",
+    "Description": "Meshery, the cloud native manager",
+    "Metadata": {
+      "owner": "meshery",
+      "repo": "meshery",
+      "language": "TypeScript",
+      "stars": "196",
+      "topics": "cloud-native, cncf, control-plane, docker, gitops, golang, gsoc, hacktoberfest, infrastructure-as-code, internal-developer-platform, kanvas, kubernetes, kubernetes-operator, management-plane, meshery, opa, platform-engineering, reactjs, visualization, webassembly"
+    },
+    "FetchedAt": "2026-06-18T02:50:12.4058422+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google-research/timesfm"
+    },
+    "Type": 0,
+    "Title": "google-research/timesfm",
+    "Url": "https://github.com/google-research/timesfm",
+    "Description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "Metadata": {
+      "owner": "google-research",
+      "repo": "timesfm",
+      "language": "Python",
+      "stars": "606"
+    },
+    "FetchedAt": "2026-06-18T02:50:12.5981105+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:continuedev/continue"
+    },
+    "Type": 0,
+    "Title": "continuedev/continue",
+    "Url": "https://github.com/continuedev/continue",
+    "Description": "open-source coding agent",
+    "Metadata": {
+      "owner": "continuedev",
+      "repo": "continue",
+      "language": "TypeScript",
+      "stars": "49",
+      "topics": "agent, ai, cli, developer-tools, open-source"
+    },
+    "FetchedAt": "2026-06-18T02:50:12.7884193+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:penpot/penpot"
+    },
+    "Type": 0,
+    "Title": "penpot/penpot",
+    "Url": "https://github.com/penpot/penpot",
+    "Description": "Penpot: The open-source design tool for design and code collaboration",
+    "Metadata": {
+      "owner": "penpot",
+      "repo": "penpot",
+      "language": "Clojure",
+      "stars": "70",
+      "topics": "clojure, clojurescript, design, prototyping, ui, ux-design, ux-experience"
+    },
+    "FetchedAt": "2026-06-18T02:50:12.9853345+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:krahets/hello-algo"
+    },
+    "Type": 0,
+    "Title": "krahets/hello-algo",
+    "Url": "https://github.com/krahets/hello-algo",
+    "Description": "\u300AHello \u7B97\u6CD5\u300B\uFF1A\u52A8\u753B\u56FE\u89E3\u3001\u4E00\u952E\u8FD0\u884C\u7684\u6570\u636E\u7ED3\u6784\u4E0E\u7B97\u6CD5\u6559\u7A0B\u3002\u652F\u6301\u7B80\u4E2D\u3001\u7E41\u4E2D\u3001English\u3001\u65E5\u672C\u8A9E\uFF0C\u63D0\u4F9B Python, Java, C\u002B\u002B, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart \u7B49\u4EE3\u7801\u5B9E\u73B0",
+    "Metadata": {
+      "owner": "krahets",
+      "repo": "hello-algo",
+      "language": "Java",
+      "stars": "96",
+      "topics": "algo, algorithm, algorithms, book, data-structure, data-structures, data-structures-and-algorithms, dsa, education, leetcode, programming"
+    },
+    "FetchedAt": "2026-06-18T02:50:13.174074+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Universal-Debloater-Alliance/universal-android-debloater-next-generation"
+    },
+    "Type": 0,
+    "Title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "Url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "Description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+    "Metadata": {
+      "owner": "Universal-Debloater-Alliance",
+      "repo": "universal-android-debloater-next-generation",
+      "language": "Rust",
+      "stars": "457",
+      "topics": "adb, android, bloatware-list, bloatware-removal, debloat, debloater, debloating, privacy"
+    },
+    "FetchedAt": "2026-06-18T02:50:13.3533759+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:yairm210/Unciv"
+    },
+    "Type": 0,
+    "Title": "yairm210/Unciv",
+    "Url": "https://github.com/yairm210/Unciv",
+    "Description": "Open-source Android/Desktop remake of Civ V",
+    "Metadata": {
+      "owner": "yairm210",
+      "repo": "Unciv",
+      "language": "Kotlin",
+      "stars": "24",
+      "topics": "4x, 4x-strategy-game, android, civ, civilization, civilization-v, game, itch, libgdx, strategy-game"
+    },
+    "FetchedAt": "2026-06-18T02:50:13.5247777+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:bytedance/UI-TARS-desktop"
+    },
+    "Type": 0,
+    "Title": "bytedance/UI-TARS-desktop",
+    "Url": "https://github.com/bytedance/UI-TARS-desktop",
+    "Description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "Metadata": {
+      "owner": "bytedance",
+      "repo": "UI-TARS-desktop",
+      "language": "TypeScript",
+      "stars": "150",
+      "topics": "agent, agent-tars, browser-use, computer-use, cowork, gui-agent, gui-operator, mcp, mcp-server, multimodal, tars, ui-tars, vision, vlm"
+    },
+    "FetchedAt": "2026-06-18T02:50:13.7090457+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:nautechsystems/nautilus_trader"
+    },
+    "Type": 0,
+    "Title": "nautechsystems/nautilus_trader",
+    "Url": "https://github.com/nautechsystems/nautilus_trader",
+    "Description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+    "Metadata": {
+      "owner": "nautechsystems",
+      "repo": "nautilus_trader",
+      "language": "Rust",
+      "stars": "98",
+      "topics": "algorithmic-trading-engine, artificial-intelligence, crypto-trading, equity-trading, forex, futures-trading, machine-learning, options-trading, python, rust, sports-betting, trading, trading-platform"
+    },
+    "FetchedAt": "2026-06-18T02:50:13.9218544+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:calesthio/OpenMontage"
+    },
+    "Type": 0,
+    "Title": "calesthio/OpenMontage",
+    "Url": "https://github.com/calesthio/OpenMontage",
+    "Description": "World\u0027s first open-source, agentic video production system. 12 pipelines, 52 tools, 500\u002B agent skills. Turn your AI coding assistant into a full video production studio.",
+    "Metadata": {
+      "owner": "calesthio",
+      "repo": "OpenMontage",
+      "language": "Python",
+      "stars": "98",
+      "topics": "agent, agentic-ai, ai, claude, copilot, cursor, elevenlabs, ffmpeg, flux, image-generation, open-source, openai, python, remotion, stable-diffusion, text-to-speech, text-to-video, video-generation, video-production"
+    },
+    "FetchedAt": "2026-06-18T02:50:14.1184361+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alexzhang13/rlm"
+    },
+    "Type": 0,
+    "Title": "alexzhang13/rlm",
+    "Url": "https://github.com/alexzhang13/rlm",
+    "Description": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.",
+    "Metadata": {
+      "owner": "alexzhang13",
+      "repo": "rlm",
+      "language": "Python",
+      "stars": "43"
+    },
+    "FetchedAt": "2026-06-18T02:50:14.2918325+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:makeplane/plane"
+    },
+    "Type": 0,
+    "Title": "makeplane/plane",
+    "Url": "https://github.com/makeplane/plane",
+    "Description": "\uD83D\uDD25\uD83D\uDD25\uD83D\uDD25 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+    "Metadata": {
+      "owner": "makeplane",
+      "repo": "plane",
+      "language": "TypeScript",
+      "stars": "89",
+      "topics": "boards, bug-tracker, django, docker, gantt, issue-tracker, jira, jira-alternative, kanban, linear, postgresql, product-management, project-management, project-planning, python, react, redis, typescipt, vite, work-management"
+    },
+    "FetchedAt": "2026-06-18T02:50:14.4548146+00:00"
+  }
+]
