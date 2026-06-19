@@ -316,21 +316,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48595511"
-    },
-    "Type": 1,
-    "Title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-    "Url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-    "Description": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-    "Metadata": {
-      "score": "336",
-      "author": "philonoist",
-      "commentCount": "177"
-    },
-    "FetchedAt": "2026-06-19T14:47:01.2618581+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48598586"
     },
     "Type": 1,
@@ -343,96 +328,6 @@
       "commentCount": "4"
     },
     "FetchedAt": "2026-06-19T14:47:01.321024+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48553388"
-    },
-    "Type": 1,
-    "Title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
-    "Url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-    "Description": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
-    "Metadata": {
-      "score": "291",
-      "author": "marklit",
-      "commentCount": "85"
-    },
-    "FetchedAt": "2026-06-19T14:47:01.3776063+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48549118"
-    },
-    "Type": 1,
-    "Title": "Zen and the Art of Machine Learning Research",
-    "Url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-    "Description": "Zen and the Art of Machine Learning Research",
-    "Metadata": {
-      "score": "138",
-      "author": "jxmorris12",
-      "commentCount": "47"
-    },
-    "FetchedAt": "2026-06-19T14:47:01.4351288+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48543311"
-    },
-    "Type": 1,
-    "Title": "To study how chips work, MIT researchers built their own operating system",
-    "Url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
-    "Description": "To study how chips work, MIT researchers built their own operating system",
-    "Metadata": {
-      "score": "264",
-      "author": "speckx",
-      "commentCount": "37"
-    },
-    "FetchedAt": "2026-06-19T14:47:01.4918641+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48548695"
-    },
-    "Type": 1,
-    "Title": "The Productivity J-Curve [pdf] (2018)",
-    "Url": "https://ide.mit.edu/sites/default/files/publications/jcurve.pdf",
-    "Description": "The Productivity J-Curve [pdf] (2018)",
-    "Metadata": {
-      "score": "6",
-      "author": "kioku",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-06-19T14:47:01.54839+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48546890"
-    },
-    "Type": 1,
-    "Title": "Ten years of ClickHouse in open source",
-    "Url": "https://clickhouse.com/blog/open-source-10",
-    "Description": "Ten years of ClickHouse in open source",
-    "Metadata": {
-      "score": "144",
-      "author": "saisrirampur",
-      "commentCount": "46"
-    },
-    "FetchedAt": "2026-06-19T14:47:01.605107+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48583928"
-    },
-    "Type": 1,
-    "Title": "I found 10k GitHub repositories distributing Trojan malware",
-    "Url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-    "Description": "I found 10k GitHub repositories distributing Trojan malware",
-    "Metadata": {
-      "score": "870",
-      "author": "theorchid",
-      "commentCount": "229"
-    },
-    "FetchedAt": "2026-06-19T14:47:01.6641067+00:00"
   },
   {
     "ExternalId": {
@@ -466,21 +361,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48541062"
-    },
-    "Type": 1,
-    "Title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
-    "Url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
-    "Description": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
-    "Metadata": {
-      "score": "138",
-      "author": "mcanouil",
-      "commentCount": "51"
-    },
-    "FetchedAt": "2026-06-19T14:47:01.8344045+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48597910"
     },
     "Type": 1,
@@ -493,51 +373,6 @@
       "commentCount": "37"
     },
     "FetchedAt": "2026-06-19T14:47:01.8919584+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48592832"
-    },
-    "Type": 1,
-    "Title": "The AirPods Effect",
-    "Url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
-    "Description": "The AirPods Effect",
-    "Metadata": {
-      "score": "217",
-      "author": "herbertl",
-      "commentCount": "392"
-    },
-    "FetchedAt": "2026-06-19T14:47:01.9502123+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48592163"
-    },
-    "Type": 1,
-    "Title": "Zero-Touch OAuth for MCP",
-    "Url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
-    "Description": "Zero-Touch OAuth for MCP",
-    "Metadata": {
-      "score": "222",
-      "author": "niyikiza",
-      "commentCount": "79"
-    },
-    "FetchedAt": "2026-06-19T14:47:02.0073196+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48540779"
-    },
-    "Type": 1,
-    "Title": "Akse3D \u2013 open-source 3D modelling anyone can master",
-    "Url": "https://akse3d-en.skaperiet.no",
-    "Description": "Akse3D \u2013 open-source 3D modelling anyone can master",
-    "Metadata": {
-      "score": "69",
-      "author": "joachimhs",
-      "commentCount": "15"
-    },
-    "FetchedAt": "2026-06-19T14:47:02.0651559+00:00"
   },
   {
     "ExternalId": {
@@ -556,66 +391,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48570730"
-    },
-    "Type": 1,
-    "Title": "How Japan\u0027s railways stayed one while splitting apart",
-    "Url": "https://arun.is/blog/jr-logo/",
-    "Description": "How Japan\u0027s railways stayed one while splitting apart",
-    "Metadata": {
-      "score": "131",
-      "author": "ddrmaxgt37",
-      "commentCount": "107"
-    },
-    "FetchedAt": "2026-06-19T14:47:02.1797212+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48543968"
-    },
-    "Type": 1,
-    "Title": "Show HN: Modeloop \u2013 From visual algorithms to microcontroller C code",
-    "Url": "https://www.modeloop.app/",
-    "Description": "Show HN: Modeloop \u2013 From visual algorithms to microcontroller C code",
-    "Metadata": {
-      "score": "10",
-      "author": "lucamark",
-      "commentCount": "12"
-    },
-    "FetchedAt": "2026-06-19T14:47:02.2365871+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48585866"
-    },
-    "Type": 1,
-    "Title": "Ubiquiti: Enterprise NAS, Built on ZFS",
-    "Url": "https://blog.ui.com/article/introducing-enterprise-nas",
-    "Description": "Ubiquiti: Enterprise NAS, Built on ZFS",
-    "Metadata": {
-      "score": "375",
-      "author": "ksec",
-      "commentCount": "311"
-    },
-    "FetchedAt": "2026-06-19T14:47:02.2934205+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48583606"
-    },
-    "Type": 1,
-    "Title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
-    "Url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
-    "Description": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
-    "Metadata": {
-      "score": "399",
-      "author": "ibobev",
-      "commentCount": "56"
-    },
-    "FetchedAt": "2026-06-19T14:47:02.3501081+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48593731"
     },
     "Type": 1,
@@ -628,21 +403,6 @@
       "commentCount": "40"
     },
     "FetchedAt": "2026-06-19T14:47:02.4077455+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48583356"
-    },
-    "Type": 1,
-    "Title": ".gitignore Isn\u0027t the only way to ignore files in Git",
-    "Url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
-    "Description": ".gitignore Isn\u0027t the only way to ignore files in Git",
-    "Metadata": {
-      "score": "472",
-      "author": "FergusArgyll",
-      "commentCount": "146"
-    },
-    "FetchedAt": "2026-06-19T14:47:02.4647867+00:00"
   },
   {
     "ExternalId": {
@@ -763,5 +523,455 @@
       "commentCount": "54"
     },
     "FetchedAt": "2026-06-19T14:47:02.9304691+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48599515"
+    },
+    "Type": 1,
+    "Title": "There Are No Instances in ATProto",
+    "Url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+    "Description": "There Are No Instances in ATProto",
+    "Metadata": {
+      "score": "174",
+      "author": "danabramov",
+      "commentCount": "105"
+    },
+    "FetchedAt": "2026-06-19T19:29:06.5069863+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48600312"
+    },
+    "Type": 1,
+    "Title": "Hyundai buys Boston Dynamics",
+    "Url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+    "Description": "Hyundai buys Boston Dynamics",
+    "Metadata": {
+      "score": "286",
+      "author": "ck2",
+      "commentCount": "133"
+    },
+    "FetchedAt": "2026-06-19T19:29:06.5405225+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48600107"
+    },
+    "Type": 1,
+    "Title": "Amateur may have cracked Linear A, a 120-year-old puzzle",
+    "Url": "https://aiclambake.com/clamtakes/linear-a/",
+    "Description": "Amateur may have cracked Linear A, a 120-year-old puzzle",
+    "Metadata": {
+      "score": "222",
+      "author": "Kosturdistan",
+      "commentCount": "92"
+    },
+    "FetchedAt": "2026-06-19T19:29:06.5745434+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48595511"
+    },
+    "Type": 1,
+    "Title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+    "Url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+    "Description": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+    "Metadata": {
+      "score": "481",
+      "author": "philonoist",
+      "commentCount": "277"
+    },
+    "FetchedAt": "2026-06-19T19:29:06.6097908+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48600950"
+    },
+    "Type": 1,
+    "Title": "A new bill takes aim at government pressure to silence lawful online speech",
+    "Url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
+    "Description": "A new bill takes aim at government pressure to silence lawful online speech",
+    "Metadata": {
+      "score": "98",
+      "author": "hn_acker",
+      "commentCount": "45"
+    },
+    "FetchedAt": "2026-06-19T19:29:06.6436803+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48600345"
+    },
+    "Type": 1,
+    "Title": "Google workspace threatening to block Firefox access",
+    "Url": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
+    "Description": "Google workspace threatening to block Firefox access",
+    "Metadata": {
+      "score": "186",
+      "author": "birdculture",
+      "commentCount": "65"
+    },
+    "FetchedAt": "2026-06-19T19:29:06.677303+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48514843"
+    },
+    "Type": 1,
+    "Title": "I used sound waves to make espresso. It could cut coffee\u2011brewing energy use by \u00BE",
+    "Url": "https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929",
+    "Description": "I used sound waves to make espresso. It could cut coffee\u2011brewing energy use by \u00BE",
+    "Metadata": {
+      "score": "34",
+      "author": "zeristor",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-06-19T19:29:06.7113903+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48541777"
+    },
+    "Type": 1,
+    "Title": "This 1976 University Experiment Spun Up the U.S. Wind Industry",
+    "Url": "https://spectrum.ieee.org/william-heronemus-wind-energy",
+    "Description": "This 1976 University Experiment Spun Up the U.S. Wind Industry",
+    "Metadata": {
+      "score": "26",
+      "author": "pseudolus",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-06-19T19:29:06.7609529+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48601286"
+    },
+    "Type": 1,
+    "Title": "Is AI ruining our skills? Early results are in \u2013 and they\u0027re not good",
+    "Url": "https://www.nature.com/articles/d41586-026-01947-1",
+    "Description": "Is AI ruining our skills? Early results are in \u2013 and they\u0027re not good",
+    "Metadata": {
+      "score": "120",
+      "author": "Michelangelo11",
+      "commentCount": "114"
+    },
+    "FetchedAt": "2026-06-19T19:29:06.7972425+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48553388"
+    },
+    "Type": 1,
+    "Title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+    "Url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+    "Description": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+    "Metadata": {
+      "score": "379",
+      "author": "marklit",
+      "commentCount": "122"
+    },
+    "FetchedAt": "2026-06-19T19:29:06.8339694+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48553161"
+    },
+    "Type": 1,
+    "Title": "Telescope Ranchers",
+    "Url": "https://kottke.org/26/06/telescope-ranchers",
+    "Description": "Telescope Ranchers",
+    "Metadata": {
+      "score": "53",
+      "author": "bookofjoe",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-06-19T19:29:06.8674483+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48548695"
+    },
+    "Type": 1,
+    "Title": "The Productivity J-Curve [pdf] (2018)",
+    "Url": "https://ide.mit.edu/sites/default/files/publications/jcurve.pdf",
+    "Description": "The Productivity J-Curve [pdf] (2018)",
+    "Metadata": {
+      "score": "43",
+      "author": "kioku",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-06-19T19:29:06.900807+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48546890"
+    },
+    "Type": 1,
+    "Title": "Ten years of ClickHouse in open source",
+    "Url": "https://clickhouse.com/blog/open-source-10",
+    "Description": "Ten years of ClickHouse in open source",
+    "Metadata": {
+      "score": "230",
+      "author": "saisrirampur",
+      "commentCount": "66"
+    },
+    "FetchedAt": "2026-06-19T19:29:06.9341559+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48549118"
+    },
+    "Type": 1,
+    "Title": "Zen and the Art of Machine Learning Research",
+    "Url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+    "Description": "Zen and the Art of Machine Learning Research",
+    "Metadata": {
+      "score": "202",
+      "author": "jxmorris12",
+      "commentCount": "69"
+    },
+    "FetchedAt": "2026-06-19T19:29:06.9673793+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48543311"
+    },
+    "Type": 1,
+    "Title": "To study how chips work, MIT researchers built their own operating system",
+    "Url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+    "Description": "To study how chips work, MIT researchers built their own operating system",
+    "Metadata": {
+      "score": "319",
+      "author": "speckx",
+      "commentCount": "49"
+    },
+    "FetchedAt": "2026-06-19T19:29:07.0013067+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48556082"
+    },
+    "Type": 1,
+    "Title": "Show HN: Metiq: a real time 3D globe for 100 public datasets",
+    "Url": "https://metiq.space",
+    "Description": "The concept for metiq.space came after playing Global Magnates with friends and realizing how fragmented live global data is. ships, aircraft, satellites, ports, weather, hazards, infrastructure, cyber, and public datasets all exist, but they usually live in separate tools and maps.\u003Cp\u003EThe goal was to build one interactive 3D globe where live public data could be visualized by latitude, longitude, and altitude. Surface data stays on the globe, while aircraft, satellites, and other above surface t",
+    "Metadata": {
+      "score": "36",
+      "author": "rakeda",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-06-19T19:29:07.0347693+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48583928"
+    },
+    "Type": 1,
+    "Title": "I found 10k GitHub repositories distributing Trojan malware",
+    "Url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+    "Description": "I found 10k GitHub repositories distributing Trojan malware",
+    "Metadata": {
+      "score": "910",
+      "author": "theorchid",
+      "commentCount": "239"
+    },
+    "FetchedAt": "2026-06-19T19:29:07.0680445+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48541062"
+    },
+    "Type": 1,
+    "Title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
+    "Url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
+    "Description": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
+    "Metadata": {
+      "score": "189",
+      "author": "mcanouil",
+      "commentCount": "70"
+    },
+    "FetchedAt": "2026-06-19T19:29:07.1023679+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48592832"
+    },
+    "Type": 1,
+    "Title": "The AirPods Effect",
+    "Url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+    "Description": "The AirPods Effect",
+    "Metadata": {
+      "score": "327",
+      "author": "herbertl",
+      "commentCount": "586"
+    },
+    "FetchedAt": "2026-06-19T19:29:07.135835+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48543968"
+    },
+    "Type": 1,
+    "Title": "Show HN: Modeloop \u2013 From visual algorithms to microcontroller C code",
+    "Url": "https://www.modeloop.app/",
+    "Description": "Show HN: Modeloop \u2013 From visual algorithms to microcontroller C code",
+    "Metadata": {
+      "score": "33",
+      "author": "lucamark",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-06-19T19:29:07.1694899+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48590505"
+    },
+    "Type": 1,
+    "Title": "Show HN: Pagecast \u2013 Publish Markdown/HTML Reports to Cloudflare Pages",
+    "Url": "https://github.com/Amal-David/pagecast",
+    "Description": "I built this because I kept generating HTML\u0026#x2F;Markdown reports from Claude Code\u0026#x2F;Codex and needed a permanent share link instead of a localhost tunnel. Pagecast is a local CLI that publishes those files to your own Cloudflare Pages account.\u003Cp\u003EIt supports Markdown and HTML, stable URLs, renaming, republishing to the same URL, and watch mode for continuous updates to same file. It is MIT licensed.\u003Cp\u003EThe main design choice is that there is no hosted Pagecast account. It uses your Cloudflare ",
+    "Metadata": {
+      "score": "13",
+      "author": "amaldavid",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-06-19T19:29:07.2040665+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48601420"
+    },
+    "Type": 1,
+    "Title": "Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times",
+    "Url": "https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/",
+    "Description": "Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times",
+    "Metadata": {
+      "score": "22",
+      "author": "Bender",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-06-19T19:29:07.2380314+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48592163"
+    },
+    "Type": 1,
+    "Title": "Zero-Touch OAuth for MCP",
+    "Url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+    "Description": "Zero-Touch OAuth for MCP",
+    "Metadata": {
+      "score": "248",
+      "author": "niyikiza",
+      "commentCount": "97"
+    },
+    "FetchedAt": "2026-06-19T19:29:07.273047+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48563083"
+    },
+    "Type": 1,
+    "Title": "Reinventing the Renaissance",
+    "Url": "https://drb.ie/article/reinventing-the-renaissance/",
+    "Description": "Reinventing the Renaissance",
+    "Metadata": {
+      "score": "29",
+      "author": "Petiver",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-06-19T19:29:07.3074644+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48570730"
+    },
+    "Type": 1,
+    "Title": "How Japan\u0027s railways stayed one while splitting apart",
+    "Url": "https://arun.is/blog/jr-logo/",
+    "Description": "How Japan\u0027s railways stayed one while splitting apart",
+    "Metadata": {
+      "score": "164",
+      "author": "ddrmaxgt37",
+      "commentCount": "129"
+    },
+    "FetchedAt": "2026-06-19T19:29:07.3416706+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48540779"
+    },
+    "Type": 1,
+    "Title": "Akse3D \u2013 open-source 3D modelling anyone can master",
+    "Url": "https://akse3d-en.skaperiet.no",
+    "Description": "Akse3D \u2013 open-source 3D modelling anyone can master",
+    "Metadata": {
+      "score": "119",
+      "author": "joachimhs",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-06-19T19:29:07.3750927+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48583356"
+    },
+    "Type": 1,
+    "Title": ".gitignore Isn\u0027t the only way to ignore files in Git",
+    "Url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+    "Description": ".gitignore Isn\u0027t the only way to ignore files in Git",
+    "Metadata": {
+      "score": "538",
+      "author": "FergusArgyll",
+      "commentCount": "161"
+    },
+    "FetchedAt": "2026-06-19T19:29:07.4086671+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48583606"
+    },
+    "Type": 1,
+    "Title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+    "Url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+    "Description": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+    "Metadata": {
+      "score": "418",
+      "author": "ibobev",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-06-19T19:29:07.4434767+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48585866"
+    },
+    "Type": 1,
+    "Title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+    "Url": "https://blog.ui.com/article/introducing-enterprise-nas",
+    "Description": "Ubiquiti: Enterprise NAS, Built on ZFS",
+    "Metadata": {
+      "score": "395",
+      "author": "ksec",
+      "commentCount": "334"
+    },
+    "FetchedAt": "2026-06-19T19:29:07.4765423+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48600946"
+    },
+    "Type": 1,
+    "Title": "Court Records Should Be Free",
+    "Url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
+    "Description": "Court Records Should Be Free",
+    "Metadata": {
+      "score": "17",
+      "author": "hn_acker",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-06-19T19:29:07.5111536+00:00"
   }
 ]
