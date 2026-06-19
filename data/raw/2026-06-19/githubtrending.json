@@ -1,0 +1,220 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:google-research/timesfm"
+    },
+    "Type": 0,
+    "Title": "google-research/timesfm",
+    "Url": "https://github.com/google-research/timesfm",
+    "Description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "Metadata": {
+      "owner": "google-research",
+      "repo": "timesfm",
+      "language": "Python",
+      "stars": "844"
+    },
+    "FetchedAt": "2026-06-19T03:35:57.5031714+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:n0-computer/iroh"
+    },
+    "Type": 0,
+    "Title": "n0-computer/iroh",
+    "Url": "https://github.com/n0-computer/iroh",
+    "Description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+    "Metadata": {
+      "owner": "n0-computer",
+      "repo": "iroh",
+      "language": "Rust",
+      "stars": "369",
+      "topics": "does-anyone-read-these, holepunching, memes, multipath, p2p, quic, realtime, rust, tags, tagsoftags"
+    },
+    "FetchedAt": "2026-06-19T03:35:57.7382691+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:zai-org/GLM-5"
+    },
+    "Type": 0,
+    "Title": "zai-org/GLM-5",
+    "Url": "https://github.com/zai-org/GLM-5",
+    "Description": "GLM-5: From Vibe Coding to Agentic Engineering",
+    "Metadata": {
+      "owner": "zai-org",
+      "repo": "GLM-5",
+      "stars": "202",
+      "topics": "agentic-ai, coding, llm, long-horizon"
+    },
+    "FetchedAt": "2026-06-19T03:35:57.9270622+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:DeusData/codebase-memory-mcp"
+    },
+    "Type": 0,
+    "Title": "DeusData/codebase-memory-mcp",
+    "Url": "https://github.com/DeusData/codebase-memory-mcp",
+    "Description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "Metadata": {
+      "owner": "DeusData",
+      "repo": "codebase-memory-mcp",
+      "language": "C",
+      "stars": "2,322",
+      "topics": "aider, ast, claude-code, code-analysis, code-intelligence, codex, cursor, cypher, developer-tools, gemini-cli, graph-visualization, kilocode, knowledge-graph, mcp, mcp-server, model-context-protocol, opencode, sqlite, tree-sitter, windsurf"
+    },
+    "FetchedAt": "2026-06-19T03:35:58.1347203+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:yifanfeng97/Hyper-Extract"
+    },
+    "Type": 0,
+    "Title": "yifanfeng97/Hyper-Extract",
+    "Url": "https://github.com/yifanfeng97/Hyper-Extract",
+    "Description": "Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions \u2014 with one command.",
+    "Metadata": {
+      "owner": "yifanfeng97",
+      "repo": "Hyper-Extract",
+      "language": "Python",
+      "stars": "124",
+      "topics": "ai, ai-agents, cli, hypergraph, information-extraction, knowledge, knowledge-graph, llm, python, rag"
+    },
+    "FetchedAt": "2026-06-19T03:35:58.3115502+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alibaba/zvec"
+    },
+    "Type": 0,
+    "Title": "alibaba/zvec",
+    "Url": "https://github.com/alibaba/zvec",
+    "Description": "A lightweight, lightning-fast, in-process vector database",
+    "Metadata": {
+      "owner": "alibaba",
+      "repo": "zvec",
+      "language": "C\u002B\u002B",
+      "stars": "259",
+      "topics": "agent-skills, db, embedded, faiss, hnsw, llm-memory, local, rag, search-engine, semantic-search, similarity-search, vector-database, vector-db"
+    },
+    "FetchedAt": "2026-06-19T03:35:58.4873836+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Kilo-Org/kilocode"
+    },
+    "Type": 0,
+    "Title": "Kilo-Org/kilocode",
+    "Url": "https://github.com/Kilo-Org/kilocode",
+    "Description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+    "Metadata": {
+      "owner": "Kilo-Org",
+      "repo": "kilocode",
+      "language": "TypeScript",
+      "stars": "1,345",
+      "topics": "ai, ai-age, ai-coding, ai-developer-tools, chatgpt, claude, cli, gemini, jetbrains, sonnet, vscode, vscode-extension"
+    },
+    "FetchedAt": "2026-06-19T03:35:58.7082444+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:makeplane/plane"
+    },
+    "Type": 0,
+    "Title": "makeplane/plane",
+    "Url": "https://github.com/makeplane/plane",
+    "Description": "\uD83D\uDD25\uD83D\uDD25\uD83D\uDD25 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+    "Metadata": {
+      "owner": "makeplane",
+      "repo": "plane",
+      "language": "TypeScript",
+      "stars": "613",
+      "topics": "boards, bug-tracker, django, docker, gantt, issue-tracker, jira, jira-alternative, kanban, linear, postgresql, product-management, project-management, project-planning, python, react, redis, typescipt, vite, work-management"
+    },
+    "FetchedAt": "2026-06-19T03:35:58.8786678+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Kong/insomnia"
+    },
+    "Type": 0,
+    "Title": "Kong/insomnia",
+    "Url": "https://github.com/Kong/insomnia",
+    "Description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+    "Metadata": {
+      "owner": "Kong",
+      "repo": "insomnia",
+      "language": "TypeScript",
+      "stars": "18",
+      "topics": "api, api-client, api-design, curl, electron-app, graphql, grpc, http-client, rest-api, websockets"
+    },
+    "FetchedAt": "2026-06-19T03:35:59.0622688+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Universal-Debloater-Alliance/universal-android-debloater-next-generation"
+    },
+    "Type": 0,
+    "Title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "Url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "Description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+    "Metadata": {
+      "owner": "Universal-Debloater-Alliance",
+      "repo": "universal-android-debloater-next-generation",
+      "language": "Rust",
+      "stars": "244",
+      "topics": "adb, android, bloatware-list, bloatware-removal, debloat, debloater, debloating, privacy"
+    },
+    "FetchedAt": "2026-06-19T03:35:59.2512844+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:dotnet/aspnetcore"
+    },
+    "Type": 0,
+    "Title": "dotnet/aspnetcore",
+    "Url": "https://github.com/dotnet/aspnetcore",
+    "Description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "Metadata": {
+      "owner": "dotnet",
+      "repo": "aspnetcore",
+      "language": "C#",
+      "stars": "14",
+      "topics": "aspnetcore, dotnet, hacktoberfest, help-wanted"
+    },
+    "FetchedAt": "2026-06-19T03:35:59.4302211+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:owainlewis/awesome-artificial-intelligence"
+    },
+    "Type": 0,
+    "Title": "owainlewis/awesome-artificial-intelligence",
+    "Url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+    "Description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+    "Metadata": {
+      "owner": "owainlewis",
+      "repo": "awesome-artificial-intelligence",
+      "stars": "40",
+      "topics": "ai, artificial-intelligence, deep-learning, intelligent-machines, intelligent-systems, machine-intelligence, machine-learning, neural-network, reinforcement-learning, statistical-learning, unsupervised-learning"
+    },
+    "FetchedAt": "2026-06-19T03:35:59.6271111+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Lightricks/LTX-2"
+    },
+    "Type": 0,
+    "Title": "Lightricks/LTX-2",
+    "Url": "https://github.com/Lightricks/LTX-2",
+    "Description": "Official Python inference and LoRA trainer package for the LTX-2 audio\u2013video generative model.",
+    "Metadata": {
+      "owner": "Lightricks",
+      "repo": "LTX-2",
+      "language": "Python",
+      "stars": "51",
+      "topics": "generative-ai, ltx, ltx-2"
+    },
+    "FetchedAt": "2026-06-19T03:35:59.8137331+00:00"
+  }
+]
