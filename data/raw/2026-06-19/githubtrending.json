@@ -18,72 +18,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:google-research/timesfm"
-    },
-    "Type": 0,
-    "Title": "google-research/timesfm",
-    "Url": "https://github.com/google-research/timesfm",
-    "Description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-    "Metadata": {
-      "owner": "google-research",
-      "repo": "timesfm",
-      "language": "Python",
-      "stars": "844"
-    },
-    "FetchedAt": "2026-06-19T10:15:49.9045061+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:n0-computer/iroh"
-    },
-    "Type": 0,
-    "Title": "n0-computer/iroh",
-    "Url": "https://github.com/n0-computer/iroh",
-    "Description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-    "Metadata": {
-      "owner": "n0-computer",
-      "repo": "iroh",
-      "language": "Rust",
-      "stars": "369",
-      "topics": "does-anyone-read-these, holepunching, memes, multipath, p2p, quic, realtime, rust, tags, tagsoftags"
-    },
-    "FetchedAt": "2026-06-19T10:15:50.124995+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:zai-org/GLM-5"
-    },
-    "Type": 0,
-    "Title": "zai-org/GLM-5",
-    "Url": "https://github.com/zai-org/GLM-5",
-    "Description": "GLM-5: From Vibe Coding to Agentic Engineering",
-    "Metadata": {
-      "owner": "zai-org",
-      "repo": "GLM-5",
-      "stars": "202",
-      "topics": "agentic-ai, coding, llm, long-horizon"
-    },
-    "FetchedAt": "2026-06-19T10:15:50.2668579+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:DeusData/codebase-memory-mcp"
-    },
-    "Type": 0,
-    "Title": "DeusData/codebase-memory-mcp",
-    "Url": "https://github.com/DeusData/codebase-memory-mcp",
-    "Description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-    "Metadata": {
-      "owner": "DeusData",
-      "repo": "codebase-memory-mcp",
-      "language": "C",
-      "stars": "2,322",
-      "topics": "aider, ast, claude-code, code-analysis, code-intelligence, codex, cursor, cypher, developer-tools, gemini-cli, graph-visualization, kilocode, knowledge-graph, mcp, mcp-server, model-context-protocol, opencode, sqlite, tree-sitter, windsurf"
-    },
-    "FetchedAt": "2026-06-19T10:15:50.4263432+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:alibaba/zvec"
     },
     "Type": 0,
@@ -132,23 +66,6 @@
       "topics": "boards, bug-tracker, django, docker, gantt, issue-tracker, jira, jira-alternative, kanban, linear, postgresql, product-management, project-management, project-planning, python, react, redis, typescipt, vite, work-management"
     },
     "FetchedAt": "2026-06-19T10:15:50.8742494+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:Kong/insomnia"
-    },
-    "Type": 0,
-    "Title": "Kong/insomnia",
-    "Url": "https://github.com/Kong/insomnia",
-    "Description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
-    "Metadata": {
-      "owner": "Kong",
-      "repo": "insomnia",
-      "language": "TypeScript",
-      "stars": "18",
-      "topics": "api, api-client, api-design, curl, electron-app, graphql, grpc, http-client, rest-api, websockets"
-    },
-    "FetchedAt": "2026-06-19T10:15:51.0163997+00:00"
   },
   {
     "ExternalId": {
@@ -202,6 +119,191 @@
   },
   {
     "ExternalId": {
+      "Value": "github:DeusData/codebase-memory-mcp"
+    },
+    "Type": 0,
+    "Title": "DeusData/codebase-memory-mcp",
+    "Url": "https://github.com/DeusData/codebase-memory-mcp",
+    "Description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "Metadata": {
+      "owner": "DeusData",
+      "repo": "codebase-memory-mcp",
+      "language": "C",
+      "stars": "1,055",
+      "topics": "aider, ast, claude-code, code-analysis, code-intelligence, codex, cursor, cypher, developer-tools, gemini-cli, graph-visualization, kilocode, knowledge-graph, mcp, mcp-server, model-context-protocol, opencode, sqlite, tree-sitter, windsurf"
+    },
+    "FetchedAt": "2026-06-19T14:46:58.5976361+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google-research/timesfm"
+    },
+    "Type": 0,
+    "Title": "google-research/timesfm",
+    "Url": "https://github.com/google-research/timesfm",
+    "Description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "Metadata": {
+      "owner": "google-research",
+      "repo": "timesfm",
+      "language": "Python",
+      "stars": "1,516"
+    },
+    "FetchedAt": "2026-06-19T14:46:58.8506037+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:palmier-io/palmier-pro"
+    },
+    "Type": 0,
+    "Title": "palmier-io/palmier-pro",
+    "Url": "https://github.com/palmier-io/palmier-pro",
+    "Description": "macOS video editor built for AI",
+    "Metadata": {
+      "owner": "palmier-io",
+      "repo": "palmier-pro",
+      "language": "Swift",
+      "stars": "749",
+      "topics": "ai-video, claude, macos, mcp, seedance2, swift, video-editor"
+    },
+    "FetchedAt": "2026-06-19T14:46:59.0409482+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:koala73/worldmonitor"
+    },
+    "Type": 0,
+    "Title": "koala73/worldmonitor",
+    "Url": "https://github.com/koala73/worldmonitor",
+    "Description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "Metadata": {
+      "owner": "koala73",
+      "repo": "worldmonitor",
+      "language": "TypeScript",
+      "stars": "133",
+      "topics": "ai, dashboard, geopolitics, monitoring, news, opensource, osint, palantir, situation"
+    },
+    "FetchedAt": "2026-06-19T14:46:59.2134802+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:aishwaryanr/awesome-generative-ai-guide"
+    },
+    "Type": 0,
+    "Title": "aishwaryanr/awesome-generative-ai-guide",
+    "Url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+    "Description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+    "Metadata": {
+      "owner": "aishwaryanr",
+      "repo": "awesome-generative-ai-guide",
+      "language": "HTML",
+      "stars": "203",
+      "topics": "awesome, awesome-list, generative-ai, interview-questions, large-language-models, llms, notebook-jupyter, vision-and-language"
+    },
+    "FetchedAt": "2026-06-19T14:46:59.3858162+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:BuilderIO/agent-native"
+    },
+    "Type": 0,
+    "Title": "BuilderIO/agent-native",
+    "Url": "https://github.com/BuilderIO/agent-native",
+    "Description": "A framework for building agent-native applications.",
+    "Metadata": {
+      "owner": "BuilderIO",
+      "repo": "agent-native",
+      "language": "TypeScript",
+      "stars": "172",
+      "topics": "agents, ai, react"
+    },
+    "FetchedAt": "2026-06-19T14:46:59.5795484+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:calesthio/OpenMontage"
+    },
+    "Type": 0,
+    "Title": "calesthio/OpenMontage",
+    "Url": "https://github.com/calesthio/OpenMontage",
+    "Description": "World\u0027s first open-source, agentic video production system. 12 pipelines, 52 tools, 500\u002B agent skills. Turn your AI coding assistant into a full video production studio.",
+    "Metadata": {
+      "owner": "calesthio",
+      "repo": "OpenMontage",
+      "language": "Python",
+      "stars": "738",
+      "topics": "agent, agentic-ai, ai, claude, copilot, cursor, elevenlabs, ffmpeg, flux, image-generation, open-source, openai, python, remotion, stable-diffusion, text-to-speech, text-to-video, video-generation, video-production"
+    },
+    "FetchedAt": "2026-06-19T14:46:59.7794862+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:zai-org/GLM-5"
+    },
+    "Type": 0,
+    "Title": "zai-org/GLM-5",
+    "Url": "https://github.com/zai-org/GLM-5",
+    "Description": "GLM-5: From Vibe Coding to Agentic Engineering",
+    "Metadata": {
+      "owner": "zai-org",
+      "repo": "GLM-5",
+      "stars": "478",
+      "topics": "agentic-ai, coding, llm, long-horizon"
+    },
+    "FetchedAt": "2026-06-19T14:46:59.9505337+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:n0-computer/iroh"
+    },
+    "Type": 0,
+    "Title": "n0-computer/iroh",
+    "Url": "https://github.com/n0-computer/iroh",
+    "Description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+    "Metadata": {
+      "owner": "n0-computer",
+      "repo": "iroh",
+      "language": "Rust",
+      "stars": "307",
+      "topics": "does-anyone-read-these, holepunching, memes, multipath, p2p, quic, realtime, rust, tags, tagsoftags"
+    },
+    "FetchedAt": "2026-06-19T14:47:00.1585007+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:penpot/penpot"
+    },
+    "Type": 0,
+    "Title": "penpot/penpot",
+    "Url": "https://github.com/penpot/penpot",
+    "Description": "Penpot: The open-source design tool for design and code collaboration",
+    "Metadata": {
+      "owner": "penpot",
+      "repo": "penpot",
+      "language": "Clojure",
+      "stars": "318",
+      "topics": "clojure, clojurescript, design, prototyping, ui, ux-design, ux-experience"
+    },
+    "FetchedAt": "2026-06-19T14:47:00.3567182+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Kong/insomnia"
+    },
+    "Type": 0,
+    "Title": "Kong/insomnia",
+    "Url": "https://github.com/Kong/insomnia",
+    "Description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+    "Metadata": {
+      "owner": "Kong",
+      "repo": "insomnia",
+      "language": "TypeScript",
+      "stars": "291",
+      "topics": "api, api-client, api-design, curl, electron-app, graphql, grpc, http-client, rest-api, websockets"
+    },
+    "FetchedAt": "2026-06-19T14:47:00.5545094+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:Lightricks/LTX-2"
     },
     "Type": 0,
@@ -212,9 +314,9 @@
       "owner": "Lightricks",
       "repo": "LTX-2",
       "language": "Python",
-      "stars": "51",
+      "stars": "196",
       "topics": "generative-ai, ltx, ltx-2"
     },
-    "FetchedAt": "2026-06-19T10:15:51.6070432+00:00"
+    "FetchedAt": "2026-06-19T14:47:00.7602016+00:00"
   }
 ]
