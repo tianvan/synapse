@@ -1,141 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:48543311"
-    },
-    "Type": 1,
-    "Title": "To study how chips work, MIT researchers built their own operating system",
-    "Url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
-    "Description": "To study how chips work, MIT researchers built their own operating system",
-    "Metadata": {
-      "score": "47",
-      "author": "speckx",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-06-19T03:36:00.2874109+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48570730"
-    },
-    "Type": 1,
-    "Title": "How Japan\u0027s railways stayed one while splitting apart",
-    "Url": "https://arun.is/blog/jr-logo/",
-    "Description": "How Japan\u0027s railways stayed one while splitting apart",
-    "Metadata": {
-      "score": "52",
-      "author": "ddrmaxgt37",
-      "commentCount": "34"
-    },
-    "FetchedAt": "2026-06-19T03:36:00.343815+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48592163"
-    },
-    "Type": 1,
-    "Title": "Zero-Touch OAuth for MCP",
-    "Url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
-    "Description": "Zero-Touch OAuth for MCP",
-    "Metadata": {
-      "score": "126",
-      "author": "niyikiza",
-      "commentCount": "56"
-    },
-    "FetchedAt": "2026-06-19T03:36:00.3997176+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48593731"
-    },
-    "Type": 1,
-    "Title": "Datasette Apps: Host custom HTML applications inside Datasette",
-    "Url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
-    "Description": "Datasette Apps: Host custom HTML applications inside Datasette",
-    "Metadata": {
-      "score": "37",
-      "author": "lumpa",
-      "commentCount": "9"
-    },
-    "FetchedAt": "2026-06-19T03:36:00.4550685+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48583928"
-    },
-    "Type": 1,
-    "Title": "I found 10k GitHub repositories distributing Trojan malware",
-    "Url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-    "Description": "I found 10k GitHub repositories distributing Trojan malware",
-    "Metadata": {
-      "score": "694",
-      "author": "theorchid",
-      "commentCount": "161"
-    },
-    "FetchedAt": "2026-06-19T03:36:00.510699+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48586329"
-    },
-    "Type": 1,
-    "Title": "Building a robotics research setup that lives next to my desk",
-    "Url": "https://dfdxlabs.com/research/2026/robotics-setup/",
-    "Description": "Quick framing, since the post is long: I did robotic manipulation research at OpenAI from 2017\u20132020, and the tabletop setup back then cost roughly 10x this one and took a team to run. This project is me testing whether a single person can now do meaningful work on the same class of problems: starting with physical and software setup.\u003Cp\u003EA few decisions I\u0026#x27;m least settled on, and would love some pushback\u0026#x2F;feedback on:\u003Cp\u003E- single arm vs. bimanual (I went single for cost\u0026#x2F;space, knowing ",
-    "Metadata": {
-      "score": "16",
-      "author": "mplappert",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-06-19T03:36:00.5663033+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48547969"
-    },
-    "Type": 1,
-    "Title": "Cell-based architecture for resilient payment systems",
-    "Url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
-    "Description": "Cell-based architecture for resilient payment systems",
-    "Metadata": {
-      "score": "97",
-      "author": "birdculture",
-      "commentCount": "38"
-    },
-    "FetchedAt": "2026-06-19T03:36:00.6223433+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48585866"
-    },
-    "Type": 1,
-    "Title": "Ubiquiti: Enterprise NAS, Built on ZFS",
-    "Url": "https://blog.ui.com/article/introducing-enterprise-nas",
-    "Description": "Ubiquiti: Enterprise NAS, Built on ZFS",
-    "Metadata": {
-      "score": "277",
-      "author": "ksec",
-      "commentCount": "249"
-    },
-    "FetchedAt": "2026-06-19T03:36:00.6778623+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48583606"
-    },
-    "Type": 1,
-    "Title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
-    "Url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
-    "Description": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
-    "Metadata": {
-      "score": "325",
-      "author": "ibobev",
-      "commentCount": "47"
-    },
-    "FetchedAt": "2026-06-19T03:36:00.7346218+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48591066"
     },
     "Type": 1,
@@ -148,96 +13,6 @@
       "commentCount": "10"
     },
     "FetchedAt": "2026-06-19T03:36:00.7914112+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48593694"
-    },
-    "Type": 1,
-    "Title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
-    "Url": "https://www.flexport.com/company/careers/",
-    "Description": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
-    "Metadata": {
-      "score": "1",
-      "author": "thedogeye",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-06-19T03:36:00.8502267+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48583386"
-    },
-    "Type": 1,
-    "Title": "Hospitals and universities repurposing drugs at lower cost",
-    "Url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
-    "Description": "Hospitals and universities repurposing drugs at lower cost",
-    "Metadata": {
-      "score": "290",
-      "author": "giuliomagnifico",
-      "commentCount": "126"
-    },
-    "FetchedAt": "2026-06-19T03:36:00.9066917+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48589501"
-    },
-    "Type": 1,
-    "Title": "I told them forced consent was unlawful. 5 years later it cost Elkjop \u20AC1.8M",
-    "Url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260618212028\u0026#x2F;https:\u0026#x2F;\u0026#x2F;www.thatprivacyguy.com\u0026#x2F;blog\u0026#x2F;elkjop-forced-consent-fine\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260618212028\u0026#x2F;https:\u0026#x2F;\u0026#x2F;www.thatp...\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;I4zjA\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;I4zjA\u003C/a\u003E",
-    "Metadata": {
-      "score": "261",
-      "author": "speckx",
-      "commentCount": "111"
-    },
-    "FetchedAt": "2026-06-19T03:36:00.9639429+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48591348"
-    },
-    "Type": 1,
-    "Title": "Show HN: Are You in the Weights?",
-    "Url": "https://www.intheweights.com/",
-    "Description": "With more traffic moving off-web and into LLMs, I got curious about what traces we leave \u0026quot;in the weights\u0026quot;. My design partner and I built a site in the past few weeks that checks recognition across frontier and small models. It queries many of them in parallel, clusters the responses, and tells you how strongly they recognize you. Happy to answer any questions here!",
-    "Metadata": {
-      "score": "220",
-      "author": "turtlesoup",
-      "commentCount": "132"
-    },
-    "FetchedAt": "2026-06-19T03:36:01.0194121+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48586299"
-    },
-    "Type": 1,
-    "Title": "Launch HN: TesterArmy (YC P26) \u2013 Agents that test web and mobile apps",
-    "Url": "https://tester.army",
-    "Description": "Hey HN - we\u2019re Oskar, Szymon, and Piotr, and we\u2019re building TesterArmy (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;tester.army\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;tester.army\u003C/a\u003E). TesterArmy is an agentic testing platform that runs end-to-end checks before deployment and in production. Instead of wasting hours on manual testing or maintaining static scripts, we let you specify your tests in natural language and handle everything in between. We\u0026#x27;ve built the platform fully around agents. Our agent will reliably execute the ",
-    "Metadata": {
-      "score": "108",
-      "author": "okwasniewski",
-      "commentCount": "47"
-    },
-    "FetchedAt": "2026-06-19T03:36:01.0765247+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48583356"
-    },
-    "Type": 1,
-    "Title": ".gitignore Isn\u0027t the only way to ignore files in Git",
-    "Url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
-    "Description": ".gitignore Isn\u0027t the only way to ignore files in Git",
-    "Metadata": {
-      "score": "306",
-      "author": "FergusArgyll",
-      "commentCount": "105"
-    },
-    "FetchedAt": "2026-06-19T03:36:01.1782081+00:00"
   },
   {
     "ExternalId": {
@@ -271,21 +46,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48584497"
-    },
-    "Type": 1,
-    "Title": "W Social, public institutions and the theater of European digital sovereignty",
-    "Url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
-    "Description": "W Social, public institutions and the theater of European digital sovereignty",
-    "Metadata": {
-      "score": "179",
-      "author": "nemoniac",
-      "commentCount": "119"
-    },
-    "FetchedAt": "2026-06-19T03:36:01.3465986+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48578913"
     },
     "Type": 1,
@@ -298,36 +58,6 @@
       "commentCount": "291"
     },
     "FetchedAt": "2026-06-19T03:36:01.403012+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48544429"
-    },
-    "Type": 1,
-    "Title": "If your product is Great, it doesn\u0027t need to be Good (2010)",
-    "Url": "http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html",
-    "Description": "If your product is Great, it doesn\u0027t need to be Good (2010)",
-    "Metadata": {
-      "score": "36",
-      "author": "skogstokig",
-      "commentCount": "29"
-    },
-    "FetchedAt": "2026-06-19T03:36:01.4586743+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48583897"
-    },
-    "Type": 1,
-    "Title": "Modos Color Monitor Pushes E-Paper Displays Further",
-    "Url": "https://spectrum.ieee.org/modos-e-paper-monitor",
-    "Description": "Modos Color Monitor Pushes E-Paper Displays Further",
-    "Metadata": {
-      "score": "235",
-      "author": "Vinnl",
-      "commentCount": "67"
-    },
-    "FetchedAt": "2026-06-19T03:36:01.5161751+00:00"
   },
   {
     "ExternalId": {
@@ -406,21 +136,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48584761"
-    },
-    "Type": 1,
-    "Title": "Show HN: Talos \u2013 Open-source WASM interpreter for Lean",
-    "Url": "https://github.com/cajal-technologies/talos",
-    "Description": "At Cajal (YC W26) we\u2019re excited to share Talos (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;cajal-technologies\u0026#x2F;talos\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;cajal-technologies\u0026#x2F;talos\u003C/a\u003E), an open source framework for formal verification of WebAssembly modules in Lean.\u003Cp\u003EAI is now writing tons of the code that gets pushed to production. As code generation gets cheaper, verification becomes the bottleneck. We believe in a future where every piece of software comes with a mathema",
-    "Metadata": {
-      "score": "16",
-      "author": "mfornet",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-06-19T03:36:01.8533374+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48593093"
     },
     "Type": 1,
@@ -448,5 +163,455 @@
       "commentCount": "15"
     },
     "FetchedAt": "2026-06-19T03:36:01.9660936+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48595511"
+    },
+    "Type": 1,
+    "Title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+    "Url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+    "Description": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+    "Metadata": {
+      "score": "129",
+      "author": "philonoist",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.0012762+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48553388"
+    },
+    "Type": 1,
+    "Title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+    "Url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+    "Description": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+    "Metadata": {
+      "score": "181",
+      "author": "marklit",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.0381336+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48546890"
+    },
+    "Type": 1,
+    "Title": "Ten years of ClickHouse in open source",
+    "Url": "https://clickhouse.com/blog/open-source-10",
+    "Description": "Ten years of ClickHouse in open source",
+    "Metadata": {
+      "score": "31",
+      "author": "saisrirampur",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.0752406+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48595331"
+    },
+    "Type": 1,
+    "Title": "So You Want to Define a Well-Known URI",
+    "Url": "https://mnot.net/blog/2026/well_known_uris",
+    "Description": "So You Want to Define a Well-Known URI",
+    "Metadata": {
+      "score": "69",
+      "author": "ingve",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.1128956+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48543311"
+    },
+    "Type": 1,
+    "Title": "To study how chips work, MIT researchers built their own operating system",
+    "Url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+    "Description": "To study how chips work, MIT researchers built their own operating system",
+    "Metadata": {
+      "score": "187",
+      "author": "speckx",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.1495737+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48541062"
+    },
+    "Type": 1,
+    "Title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
+    "Url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
+    "Description": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
+    "Metadata": {
+      "score": "91",
+      "author": "mcanouil",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.1861768+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48549118"
+    },
+    "Type": 1,
+    "Title": "Zen and the Art of Machine Learning Research",
+    "Url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+    "Description": "Zen and the Art of Machine Learning Research",
+    "Metadata": {
+      "score": "55",
+      "author": "jxmorris12",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.2227952+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48583928"
+    },
+    "Type": 1,
+    "Title": "I found 10k GitHub repositories distributing Trojan malware",
+    "Url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+    "Description": "I found 10k GitHub repositories distributing Trojan malware",
+    "Metadata": {
+      "score": "798",
+      "author": "theorchid",
+      "commentCount": "210"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.2606022+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48594733"
+    },
+    "Type": 1,
+    "Title": "Fable Converted Pylint to Rust",
+    "Url": "https://pypi.org/project/prylint/",
+    "Description": "Fable Converted Pylint to Rust",
+    "Metadata": {
+      "score": "44",
+      "author": "adamraudonis",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.2975789+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48592163"
+    },
+    "Type": 1,
+    "Title": "Zero-Touch OAuth for MCP",
+    "Url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+    "Description": "Zero-Touch OAuth for MCP",
+    "Metadata": {
+      "score": "198",
+      "author": "niyikiza",
+      "commentCount": "66"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.3339856+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48541940"
+    },
+    "Type": 1,
+    "Title": "The Raku Foundation is born",
+    "Url": "https://raku.foundation",
+    "Description": "The Raku Foundation is born",
+    "Metadata": {
+      "score": "27",
+      "author": "librasteve",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.3718776+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48570730"
+    },
+    "Type": 1,
+    "Title": "How Japan\u0027s railways stayed one while splitting apart",
+    "Url": "https://arun.is/blog/jr-logo/",
+    "Description": "How Japan\u0027s railways stayed one while splitting apart",
+    "Metadata": {
+      "score": "101",
+      "author": "ddrmaxgt37",
+      "commentCount": "83"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.4085379+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48585866"
+    },
+    "Type": 1,
+    "Title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+    "Url": "https://blog.ui.com/article/introducing-enterprise-nas",
+    "Description": "Ubiquiti: Enterprise NAS, Built on ZFS",
+    "Metadata": {
+      "score": "342",
+      "author": "ksec",
+      "commentCount": "294"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.4454271+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48592832"
+    },
+    "Type": 1,
+    "Title": "The AirPods Effect",
+    "Url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+    "Description": "The AirPods Effect",
+    "Metadata": {
+      "score": "101",
+      "author": "herbertl",
+      "commentCount": "193"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.4818253+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48593731"
+    },
+    "Type": 1,
+    "Title": "Datasette Apps: Host custom HTML applications inside Datasette",
+    "Url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+    "Description": "Datasette Apps: Host custom HTML applications inside Datasette",
+    "Metadata": {
+      "score": "80",
+      "author": "lumpa",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.5187691+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48586329"
+    },
+    "Type": 1,
+    "Title": "Building a robotics research setup that lives next to my desk",
+    "Url": "https://dfdxlabs.com/research/2026/robotics-setup/",
+    "Description": "Quick framing, since the post is long: I did robotic manipulation research at OpenAI from 2017\u20132020, and the tabletop setup back then cost roughly 10x this one and took a team to run. This project is me testing whether a single person can now do meaningful work on the same class of problems: starting with physical and software setup.\u003Cp\u003EA few decisions I\u0026#x27;m least settled on, and would love some pushback\u0026#x2F;feedback on:\u003Cp\u003E- single arm vs. bimanual (I went single for cost\u0026#x2F;space, knowing ",
+    "Metadata": {
+      "score": "82",
+      "author": "mplappert",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.5558394+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48583606"
+    },
+    "Type": 1,
+    "Title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+    "Url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+    "Description": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+    "Metadata": {
+      "score": "374",
+      "author": "ibobev",
+      "commentCount": "51"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.5924735+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48583356"
+    },
+    "Type": 1,
+    "Title": ".gitignore Isn\u0027t the only way to ignore files in Git",
+    "Url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+    "Description": ".gitignore Isn\u0027t the only way to ignore files in Git",
+    "Metadata": {
+      "score": "422",
+      "author": "FergusArgyll",
+      "commentCount": "131"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.630505+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48584761"
+    },
+    "Type": 1,
+    "Title": "Show HN: Talos \u2013 Open-source WASM interpreter for Lean",
+    "Url": "https://github.com/cajal-technologies/talos",
+    "Description": "At Cajal (YC W26) we\u2019re excited to share Talos (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;cajal-technologies\u0026#x2F;talos\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;cajal-technologies\u0026#x2F;talos\u003C/a\u003E), an open source framework for formal verification of WebAssembly modules in Lean.\u003Cp\u003EAI is now writing tons of the code that gets pushed to production. As code generation gets cheaper, verification becomes the bottleneck. We believe in a future where every piece of software comes with a mathema",
+    "Metadata": {
+      "score": "53",
+      "author": "mfornet",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.6677928+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48594592"
+    },
+    "Type": 1,
+    "Title": "Ice water drowning survival of young patient (2025)",
+    "Url": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
+    "Description": "Ice water drowning survival of young patient (2025)",
+    "Metadata": {
+      "score": "148",
+      "author": "js2",
+      "commentCount": "99"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.7053117+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48583386"
+    },
+    "Type": 1,
+    "Title": "Hospitals and universities repurposing drugs at lower cost",
+    "Url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+    "Description": "Hospitals and universities repurposing drugs at lower cost",
+    "Metadata": {
+      "score": "309",
+      "author": "giuliomagnifico",
+      "commentCount": "142"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.7440014+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48547969"
+    },
+    "Type": 1,
+    "Title": "Cell-based architecture for resilient payment systems",
+    "Url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
+    "Description": "Cell-based architecture for resilient payment systems",
+    "Metadata": {
+      "score": "124",
+      "author": "birdculture",
+      "commentCount": "51"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.7808501+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48593694"
+    },
+    "Type": 1,
+    "Title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
+    "Url": "https://www.flexport.com/company/careers/",
+    "Description": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
+    "Metadata": {
+      "score": "1",
+      "author": "thedogeye",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.8189764+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48589501"
+    },
+    "Type": 1,
+    "Title": "I told them forced consent was unlawful. 5 years later it cost Elkjop \u20AC1.8M",
+    "Url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260618212028\u0026#x2F;https:\u0026#x2F;\u0026#x2F;www.thatprivacyguy.com\u0026#x2F;blog\u0026#x2F;elkjop-forced-consent-fine\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260618212028\u0026#x2F;https:\u0026#x2F;\u0026#x2F;www.thatp...\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;I4zjA\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;I4zjA\u003C/a\u003E",
+    "Metadata": {
+      "score": "392",
+      "author": "speckx",
+      "commentCount": "231"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.8556535+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48584484"
+    },
+    "Type": 1,
+    "Title": "The Korean telecom giant at the center of Anthropic\u0027s Mythos controversy",
+    "Url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260618100028\u0026#x2F;https:\u0026#x2F;\u0026#x2F;www.wired.com\u0026#x2F;story\u0026#x2F;sk-telecom-anthropic-mythos-export-controls\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260618100028\u0026#x2F;https:\u0026#x2F;\u0026#x2F;www.wired...\u003C/a\u003E",
+    "Metadata": {
+      "score": "114",
+      "author": "dstala",
+      "commentCount": "99"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.8920677+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48544429"
+    },
+    "Type": 1,
+    "Title": "If your product is Great, it doesn\u0027t need to be Good (2010)",
+    "Url": "http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html",
+    "Description": "If your product is Great, it doesn\u0027t need to be Good (2010)",
+    "Metadata": {
+      "score": "86",
+      "author": "skogstokig",
+      "commentCount": "54"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.9295072+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48584497"
+    },
+    "Type": 1,
+    "Title": "W Social, public institutions and the theater of European digital sovereignty",
+    "Url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+    "Description": "W Social, public institutions and the theater of European digital sovereignty",
+    "Metadata": {
+      "score": "212",
+      "author": "nemoniac",
+      "commentCount": "137"
+    },
+    "FetchedAt": "2026-06-19T10:15:52.9669825+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48583897"
+    },
+    "Type": 1,
+    "Title": "Modos Color Monitor Pushes E-Paper Displays Further",
+    "Url": "https://spectrum.ieee.org/modos-e-paper-monitor",
+    "Description": "Modos Color Monitor Pushes E-Paper Displays Further",
+    "Metadata": {
+      "score": "282",
+      "author": "Vinnl",
+      "commentCount": "68"
+    },
+    "FetchedAt": "2026-06-19T10:15:53.0034883+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48591348"
+    },
+    "Type": 1,
+    "Title": "Show HN: Are You in the Weights?",
+    "Url": "https://www.intheweights.com/",
+    "Description": "With more traffic moving off-web and into LLMs, I got curious about what traces we leave \u0026quot;in the weights\u0026quot;. My design partner and I built a site in the past few weeks that checks recognition across frontier and small models. It queries many of them in parallel, clusters the responses, and tells you how strongly they recognize you. Happy to answer any questions here!",
+    "Metadata": {
+      "score": "347",
+      "author": "turtlesoup",
+      "commentCount": "198"
+    },
+    "FetchedAt": "2026-06-19T10:15:53.0402904+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48586299"
+    },
+    "Type": 1,
+    "Title": "Launch HN: TesterArmy (YC P26) \u2013 Agents that test web and mobile apps",
+    "Url": "https://tester.army",
+    "Description": "Hey HN - we\u2019re Oskar, Szymon, and Piotr, and we\u2019re building TesterArmy (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;tester.army\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;tester.army\u003C/a\u003E). TesterArmy is an agentic testing platform that runs end-to-end checks before deployment and in production. Instead of wasting hours on manual testing or maintaining static scripts, we let you specify your tests in natural language and handle everything in between. We\u0026#x27;ve built the platform fully around agents. Our agent will reliably execute the ",
+    "Metadata": {
+      "score": "120",
+      "author": "okwasniewski",
+      "commentCount": "55"
+    },
+    "FetchedAt": "2026-06-19T10:15:53.0781372+00:00"
   }
 ]
