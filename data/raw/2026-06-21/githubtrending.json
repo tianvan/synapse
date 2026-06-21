@@ -1,0 +1,221 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:palmier-io/palmier-pro"
+    },
+    "Type": 0,
+    "Title": "palmier-io/palmier-pro",
+    "Url": "https://github.com/palmier-io/palmier-pro",
+    "Description": "macOS video editor built for AI",
+    "Metadata": {
+      "owner": "palmier-io",
+      "repo": "palmier-pro",
+      "language": "Swift",
+      "stars": "902",
+      "topics": "ai-video, claude, macos, mcp, seedance2, swift, video-editor"
+    },
+    "FetchedAt": "2026-06-21T02:56:13.5970816+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:penpot/penpot"
+    },
+    "Type": 0,
+    "Title": "penpot/penpot",
+    "Url": "https://github.com/penpot/penpot",
+    "Description": "Penpot: The open-source design tool for design and code collaboration",
+    "Metadata": {
+      "owner": "penpot",
+      "repo": "penpot",
+      "language": "Clojure",
+      "stars": "420",
+      "topics": "clojure, clojurescript, design, prototyping, ui, ux-design, ux-experience"
+    },
+    "FetchedAt": "2026-06-21T02:56:13.7316926+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:calesthio/OpenMontage"
+    },
+    "Type": 0,
+    "Title": "calesthio/OpenMontage",
+    "Url": "https://github.com/calesthio/OpenMontage",
+    "Description": "World\u0027s first open-source, agentic video production system. 12 pipelines, 52 tools, 500\u002B agent skills. Turn your AI coding assistant into a full video production studio.",
+    "Metadata": {
+      "owner": "calesthio",
+      "repo": "OpenMontage",
+      "language": "Python",
+      "stars": "677",
+      "topics": "agent, agentic-ai, ai, claude, copilot, cursor, elevenlabs, ffmpeg, flux, image-generation, open-source, openai, python, remotion, stable-diffusion, text-to-speech, text-to-video, video-generation, video-production"
+    },
+    "FetchedAt": "2026-06-21T02:56:13.8255273+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:tursodatabase/turso"
+    },
+    "Type": 0,
+    "Title": "tursodatabase/turso",
+    "Url": "https://github.com/tursodatabase/turso",
+    "Description": "Turso is an in-process SQL database, compatible with SQLite.",
+    "Metadata": {
+      "owner": "tursodatabase",
+      "repo": "turso",
+      "language": "Rust",
+      "stars": "801",
+      "topics": "database, embedded-database, sql, sqlite3, webassembly"
+    },
+    "FetchedAt": "2026-06-21T02:56:13.8945669+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:DeusData/codebase-memory-mcp"
+    },
+    "Type": 0,
+    "Title": "DeusData/codebase-memory-mcp",
+    "Url": "https://github.com/DeusData/codebase-memory-mcp",
+    "Description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "Metadata": {
+      "owner": "DeusData",
+      "repo": "codebase-memory-mcp",
+      "language": "C",
+      "stars": "1,271",
+      "topics": "aider, ast, claude-code, code-analysis, code-intelligence, codex, cursor, cypher, developer-tools, gemini-cli, graph-visualization, kilocode, knowledge-graph, mcp, mcp-server, model-context-protocol, opencode, sqlite, tree-sitter, windsurf"
+    },
+    "FetchedAt": "2026-06-21T02:56:13.9897286+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google-research/timesfm"
+    },
+    "Type": 0,
+    "Title": "google-research/timesfm",
+    "Url": "https://github.com/google-research/timesfm",
+    "Description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "Metadata": {
+      "owner": "google-research",
+      "repo": "timesfm",
+      "language": "Python",
+      "stars": "433"
+    },
+    "FetchedAt": "2026-06-21T02:56:14.0876927+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:twentyhq/twenty"
+    },
+    "Type": 0,
+    "Title": "twentyhq/twenty",
+    "Url": "https://github.com/twentyhq/twenty",
+    "Description": "The open alternative to Salesforce, designed for AI.",
+    "Metadata": {
+      "owner": "twentyhq",
+      "repo": "twenty",
+      "language": "TypeScript",
+      "stars": "140",
+      "topics": "crm, crm-system, customer, good-first-issue, graphql, hacktoberfest, javascript, marketing, monorepo, nestjs, open-source, postgresql, react, reactjs, sales, typescript, web"
+    },
+    "FetchedAt": "2026-06-21T02:56:14.1939197+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Kong/insomnia"
+    },
+    "Type": 0,
+    "Title": "Kong/insomnia",
+    "Url": "https://github.com/Kong/insomnia",
+    "Description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+    "Metadata": {
+      "owner": "Kong",
+      "repo": "insomnia",
+      "language": "TypeScript",
+      "stars": "329",
+      "topics": "api, api-client, api-design, curl, electron-app, graphql, grpc, http-client, rest-api, websockets"
+    },
+    "FetchedAt": "2026-06-21T02:56:14.3308138+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jamiepine/voicebox"
+    },
+    "Type": 0,
+    "Title": "jamiepine/voicebox",
+    "Url": "https://github.com/jamiepine/voicebox",
+    "Description": "The open-source AI voice studio. Clone, dictate, create.",
+    "Metadata": {
+      "owner": "jamiepine",
+      "repo": "voicebox",
+      "language": "TypeScript",
+      "stars": "145",
+      "topics": "ai, cuda, mlx, qwen3-tts, qwen3-tts-ui, voice-ai, voice-clone, whisper"
+    },
+    "FetchedAt": "2026-06-21T02:56:14.453911+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Kilo-Org/kilocode"
+    },
+    "Type": 0,
+    "Title": "Kilo-Org/kilocode",
+    "Url": "https://github.com/Kilo-Org/kilocode",
+    "Description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+    "Metadata": {
+      "owner": "Kilo-Org",
+      "repo": "kilocode",
+      "language": "TypeScript",
+      "stars": "513",
+      "topics": "ai, ai-age, ai-coding, ai-developer-tools, chatgpt, claude, cli, gemini, jetbrains, sonnet, vscode, vscode-extension"
+    },
+    "FetchedAt": "2026-06-21T02:56:14.5412691+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:owainlewis/awesome-artificial-intelligence"
+    },
+    "Type": 0,
+    "Title": "owainlewis/awesome-artificial-intelligence",
+    "Url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+    "Description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+    "Metadata": {
+      "owner": "owainlewis",
+      "repo": "awesome-artificial-intelligence",
+      "stars": "48",
+      "topics": "ai, artificial-intelligence, deep-learning, intelligent-machines, intelligent-systems, machine-intelligence, machine-learning, neural-network, reinforcement-learning, statistical-learning, unsupervised-learning"
+    },
+    "FetchedAt": "2026-06-21T02:56:14.6595089+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pppscn/SmsForwarder"
+    },
+    "Type": 0,
+    "Title": "pppscn/SmsForwarder",
+    "Url": "https://github.com/pppscn/SmsForwarder",
+    "Description": "\u77ED\u4FE1\u8F6C\u53D1\u5668\u2014\u2014\u76D1\u63A7Android\u624B\u673A\u77ED\u4FE1\u3001\u6765\u7535\u3001APP\u901A\u77E5\uFF0C\u5E76\u6839\u636E\u6307\u5B9A\u89C4\u5219\u8F6C\u53D1\u5230\u5176\u4ED6\u624B\u673A\uFF1A\u9489\u9489\u7FA4\u81EA\u5B9A\u4E49\u673A\u5668\u4EBA\u3001\u9489\u9489\u4F01\u4E1A\u5185\u673A\u5668\u4EBA\u3001\u4F01\u4E1A\u5FAE\u4FE1\u7FA4\u673A\u5668\u4EBA\u3001\u98DE\u4E66\u673A\u5668\u4EBA\u3001\u4F01\u4E1A\u5FAE\u4FE1\u5E94\u7528\u6D88\u606F\u3001\u90AE\u7BB1\u3001bark\u3001webhook\u3001Telegram\u673A\u5668\u4EBA\u3001Server\u9171\u3001PushPlus\u3001\u624B\u673A\u77ED\u4FE1\u7B49\u3002\u5305\u62EC\u4E3B\u52A8\u63A7\u5236\u670D\u52A1\u7AEF\u4E0E\u5BA2\u6237\u7AEF\uFF0C\u8BA9\u4F60\u8F7B\u677E\u8FDC\u7A0B\u53D1\u77ED\u4FE1\u3001\u67E5\u77ED\u4FE1\u3001\u67E5\u901A\u8BDD\u3001\u67E5\u8BDD\u7C3F\u3001\u67E5\u7535\u91CF\u7B49\u3002\uFF08V3.0 \u65B0\u589E\uFF09PS.\u8FD9\u4E2AAPK\u4E3B\u8981\u662F\u5B66\u4E60\u4E0E\u81EA\u7528\uFF0C\u5982\u6709BUG\u8BF7\u63D0ISSUE\uFF0C\u540C\u65F6\u6B22\u8FCE\u5927\u5BB6\u63D0PR\u6307\u6B63",
+    "Metadata": {
+      "owner": "pppscn",
+      "repo": "SmsForwarder",
+      "language": "Kotlin",
+      "stars": "104",
+      "topics": "android, api, app, bark, call, chatgpt, dingding, forward, mqtt, pushdear, pushplus, serverchan, sms, smtp, telegram, webhook, wechatapp"
+    },
+    "FetchedAt": "2026-06-21T02:56:14.7756429+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:1jehuang/jcode"
+    },
+    "Type": 0,
+    "Title": "1jehuang/jcode",
+    "Url": "https://github.com/1jehuang/jcode",
+    "Description": "Coding Agent Harness",
+    "Metadata": {
+      "owner": "1jehuang",
+      "repo": "jcode",
+      "language": "Rust",
+      "stars": "87",
+      "topics": "ai, claude, cli, coding-agent, llm, mcp, openai, rust, terminal, tui"
+    },
+    "FetchedAt": "2026-06-21T02:56:14.8528492+00:00"
+  }
+]
