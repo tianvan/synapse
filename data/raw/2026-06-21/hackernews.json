@@ -196,36 +196,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48615569"
-    },
-    "Type": 1,
-    "Title": "Your brain was never designed for this much bad news",
-    "Url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
-    "Description": "Your brain was never designed for this much bad news",
-    "Metadata": {
-      "score": "190",
-      "author": "colinprince",
-      "commentCount": "122"
-    },
-    "FetchedAt": "2026-06-21T09:39:26.4489761+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48583407"
-    },
-    "Type": 1,
-    "Title": "Excessive nil pointer checks in Go",
-    "Url": "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/",
-    "Description": "Excessive nil pointer checks in Go",
-    "Metadata": {
-      "score": "32",
-      "author": "ingve",
-      "commentCount": "24"
-    },
-    "FetchedAt": "2026-06-21T09:39:26.5288919+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48614631"
     },
     "Type": 1,
@@ -238,21 +208,6 @@
       "commentCount": "98"
     },
     "FetchedAt": "2026-06-21T09:39:26.7173738+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48616017"
-    },
-    "Type": 1,
-    "Title": "The 100k Whys of AI",
-    "Url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
-    "Description": "The 100k Whys of AI",
-    "Metadata": {
-      "score": "105",
-      "author": "surprisetalk",
-      "commentCount": "55"
-    },
-    "FetchedAt": "2026-06-21T09:39:26.7798052+00:00"
   },
   {
     "ExternalId": {
@@ -316,21 +271,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48617990"
-    },
-    "Type": 1,
-    "Title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-    "Url": "https://www.beyondallreason.info",
-    "Description": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-    "Metadata": {
-      "score": "91",
-      "author": "mosiuerbarso",
-      "commentCount": "30"
-    },
-    "FetchedAt": "2026-06-21T13:52:07.9432828+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48617782"
     },
     "Type": 1,
@@ -361,21 +301,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48616713"
-    },
-    "Type": 1,
-    "Title": "A 3D voxel game engine written in APL",
-    "Url": "https://github.com/namgyaaal/avoxelgame",
-    "Description": "A 3D voxel game engine written in APL",
-    "Metadata": {
-      "score": "86",
-      "author": "sph",
-      "commentCount": "8"
-    },
-    "FetchedAt": "2026-06-21T13:52:08.0944688+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48616800"
     },
     "Type": 1,
@@ -388,141 +313,6 @@
       "commentCount": "230"
     },
     "FetchedAt": "2026-06-21T13:52:08.1441789+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48608645"
-    },
-    "Type": 1,
-    "Title": "Loupe \u2013 A iOS app that raises awareness about what native apps can see",
-    "Url": "https://github.com/mysk-research/loupe",
-    "Description": "Loupe \u2013 A iOS app that raises awareness about what native apps can see",
-    "Metadata": {
-      "score": "369",
-      "author": "Cider9986",
-      "commentCount": "153"
-    },
-    "FetchedAt": "2026-06-21T13:52:08.1939837+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48616173"
-    },
-    "Type": 1,
-    "Title": "Windows UI evolution: Clicking an unassociated file",
-    "Url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
-    "Description": "Windows UI evolution: Clicking an unassociated file",
-    "Metadata": {
-      "score": "78",
-      "author": "jandeboevrie",
-      "commentCount": "44"
-    },
-    "FetchedAt": "2026-06-21T13:52:08.2438074+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48599555"
-    },
-    "Type": 1,
-    "Title": "Running MicroVMs in Proxmox VE, the Easy Way",
-    "Url": "https://taoofmac.com/space/blog/2026/06/18/1845",
-    "Description": "Running MicroVMs in Proxmox VE, the Easy Way",
-    "Metadata": {
-      "score": "119",
-      "author": "zdw",
-      "commentCount": "9"
-    },
-    "FetchedAt": "2026-06-21T13:52:08.293549+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48613755"
-    },
-    "Type": 1,
-    "Title": "Renting a sewing machine from the library",
-    "Url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-    "Description": "Renting a sewing machine from the library",
-    "Metadata": {
-      "score": "268",
-      "author": "sohkamyung",
-      "commentCount": "152"
-    },
-    "FetchedAt": "2026-06-21T13:52:08.34443+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48573902"
-    },
-    "Type": 1,
-    "Title": "Zigzag Decoding with AVX-512",
-    "Url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
-    "Description": "Zigzag Decoding with AVX-512",
-    "Metadata": {
-      "score": "95",
-      "author": "luu",
-      "commentCount": "18"
-    },
-    "FetchedAt": "2026-06-21T13:52:08.3942534+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48613555"
-    },
-    "Type": 1,
-    "Title": "Slow breathing modulates brain function and risk behavior",
-    "Url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-    "Description": "Slow breathing modulates brain function and risk behavior",
-    "Metadata": {
-      "score": "260",
-      "author": "croes",
-      "commentCount": "73"
-    },
-    "FetchedAt": "2026-06-21T13:52:08.4439594+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48587865"
-    },
-    "Type": 1,
-    "Title": "Two Qwen3 models on one DGX Spark: the residency math",
-    "Url": "https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark",
-    "Description": "Two Qwen3 models on one DGX Spark: the residency math",
-    "Metadata": {
-      "score": "13",
-      "author": "devashish86",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-06-21T13:52:08.4940061+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48613872"
-    },
-    "Type": 1,
-    "Title": "Epoll vs. io_uring in Linux",
-    "Url": "https://sibexi.co/posts/epoll-vs-io_uring/",
-    "Description": "Epoll vs. io_uring in Linux",
-    "Metadata": {
-      "score": "196",
-      "author": "Sibexico",
-      "commentCount": "50"
-    },
-    "FetchedAt": "2026-06-21T13:52:08.5439052+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48614844"
-    },
-    "Type": 1,
-    "Title": "Developers don\u0027t understand CORS (2019)",
-    "Url": "https://fosterelli.co/developers-dont-understand-cors",
-    "Description": "Developers don\u0027t understand CORS (2019)",
-    "Metadata": {
-      "score": "255",
-      "author": "toilet",
-      "commentCount": "188"
-    },
-    "FetchedAt": "2026-06-21T13:52:08.5937659+00:00"
   },
   {
     "ExternalId": {
@@ -556,21 +346,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48584261"
-    },
-    "Type": 1,
-    "Title": "15-minute at-home Lyme disease tick test",
-    "Url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
-    "Description": "15-minute at-home Lyme disease tick test",
-    "Metadata": {
-      "score": "149",
-      "author": "bookofjoe",
-      "commentCount": "104"
-    },
-    "FetchedAt": "2026-06-21T13:52:08.7438546+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48610827"
     },
     "Type": 1,
@@ -598,21 +373,6 @@
       "commentCount": "5"
     },
     "FetchedAt": "2026-06-21T13:52:08.8434583+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48618455"
-    },
-    "Type": 1,
-    "Title": "Anthropic to Require ID Verification for Certain Capabilities Starting July 8",
-    "Url": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/",
-    "Description": "Anthropic to Require ID Verification for Certain Capabilities Starting July 8",
-    "Metadata": {
-      "score": "90",
-      "author": "bathory",
-      "commentCount": "73"
-    },
-    "FetchedAt": "2026-06-21T13:52:08.8938703+00:00"
   },
   {
     "ExternalId": {
@@ -706,21 +466,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48608570"
-    },
-    "Type": 1,
-    "Title": "Show HN: TownSquare, a tiny presence layer for websites",
-    "Url": "https://townsquare.cauenapier.com/",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;cauenapier.com\u0026#x2F;blog\u0026#x2F;townsquare_release\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;cauenapier.com\u0026#x2F;blog\u0026#x2F;townsquare_release\u0026#x2F;\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;cauenapier.com\u0026#x2F;blog\u0026#x2F;townsquare\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;cauenapier.com\u0026#x2F;blog\u0026#x2F;townsquare\u0026#x2F;\u003C/a\u003E",
-    "Metadata": {
-      "score": "209",
-      "author": "cauenapier",
-      "commentCount": "116"
-    },
-    "FetchedAt": "2026-06-21T13:52:09.2469833+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48612740"
     },
     "Type": 1,
@@ -763,5 +508,455 @@
       "commentCount": "30"
     },
     "FetchedAt": "2026-06-21T13:52:09.3968951+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48620090"
+    },
+    "Type": 1,
+    "Title": "Prefer duplication over the wrong abstraction (2016)",
+    "Url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+    "Description": "Prefer duplication over the wrong abstraction (2016)",
+    "Metadata": {
+      "score": "264",
+      "author": "rafaepta",
+      "commentCount": "180"
+    },
+    "FetchedAt": "2026-06-21T19:19:22.2904793+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48617990"
+    },
+    "Type": 1,
+    "Title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+    "Url": "https://www.beyondallreason.info",
+    "Description": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+    "Metadata": {
+      "score": "331",
+      "author": "mosiuerbarso",
+      "commentCount": "185"
+    },
+    "FetchedAt": "2026-06-21T19:19:22.4380339+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48619831"
+    },
+    "Type": 1,
+    "Title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+    "Url": "https://norvig.com/lispy.html",
+    "Description": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+    "Metadata": {
+      "score": "95",
+      "author": "tosh",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-06-21T19:19:22.5413114+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48618455"
+    },
+    "Type": 1,
+    "Title": "Identity verification on Claude",
+    "Url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;old.reddit.com\u0026#x2F;r\u0026#x2F;ClaudeAI\u0026#x2F;comments\u0026#x2F;1ubm53n\u0026#x2F;official_anthropic_to_require_identity\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;old.reddit.com\u0026#x2F;r\u0026#x2F;ClaudeAI\u0026#x2F;comments\u0026#x2F;1ubm53n\u0026#x2F;official_...\u003C/a\u003E",
+    "Metadata": {
+      "score": "239",
+      "author": "bathory",
+      "commentCount": "207"
+    },
+    "FetchedAt": "2026-06-21T19:19:22.6122774+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48620342"
+    },
+    "Type": 1,
+    "Title": "The minimum viable unit of saleable software",
+    "Url": "https://brandur.org/minimum-viable-unit",
+    "Description": "The minimum viable unit of saleable software",
+    "Metadata": {
+      "score": "48",
+      "author": "brandur",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-06-21T19:19:22.706273+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48571136"
+    },
+    "Type": 1,
+    "Title": "Occupancy Math on the AMD MI355X: A From-First-Principles Guide",
+    "Url": "https://indianspeedster.github.io/blog/occupancy-math-mi355x/",
+    "Description": "Occupancy Math on the AMD MI355X: A From-First-Principles Guide",
+    "Metadata": {
+      "score": "26",
+      "author": "skidrow",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-21T19:19:22.8594523+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48587619"
+    },
+    "Type": 1,
+    "Title": "The Commodore Callback 8020 smart flip phone",
+    "Url": "https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb",
+    "Description": "The Commodore Callback 8020 smart flip phone",
+    "Metadata": {
+      "score": "91",
+      "author": "Audiophilip",
+      "commentCount": "67"
+    },
+    "FetchedAt": "2026-06-21T19:19:22.967927+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48594090"
+    },
+    "Type": 1,
+    "Title": "An Embedded Linux on a Single Floppy",
+    "Url": "https://github.com/w84death/floppinux",
+    "Description": "An Embedded Linux on a Single Floppy",
+    "Metadata": {
+      "score": "14",
+      "author": "modinfo",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-06-21T19:19:23.0381457+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48584261"
+    },
+    "Type": 1,
+    "Title": "15-minute at-home Lyme disease tick test",
+    "Url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;cNwmN\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;cNwmN\u003C/a\u003E",
+    "Metadata": {
+      "score": "195",
+      "author": "bookofjoe",
+      "commentCount": "137"
+    },
+    "FetchedAt": "2026-06-21T19:19:23.0991414+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48620504"
+    },
+    "Type": 1,
+    "Title": "Wildcard (YC W25) is hiring an applied ML engineer",
+    "Url": "https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer",
+    "Description": "Wildcard (YC W25) is hiring an applied ML engineer",
+    "Metadata": {
+      "score": "1",
+      "author": "kaushikmahorker",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-21T19:19:23.2260073+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48608645"
+    },
+    "Type": 1,
+    "Title": "Loupe \u2013 A iOS app that raises awareness about what native apps can see",
+    "Url": "https://github.com/mysk-research/loupe",
+    "Description": "Loupe \u2013 A iOS app that raises awareness about what native apps can see",
+    "Metadata": {
+      "score": "471",
+      "author": "Cider9986",
+      "commentCount": "191"
+    },
+    "FetchedAt": "2026-06-21T19:19:23.3140077+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48614844"
+    },
+    "Type": 1,
+    "Title": "Developers don\u0027t understand CORS (2019)",
+    "Url": "https://fosterelli.co/developers-dont-understand-cors",
+    "Description": "Developers don\u0027t understand CORS (2019)",
+    "Metadata": {
+      "score": "310",
+      "author": "toilet",
+      "commentCount": "244"
+    },
+    "FetchedAt": "2026-06-21T19:19:23.3805035+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48620462"
+    },
+    "Type": 1,
+    "Title": "Burnout is real for open source maintainers",
+    "Url": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
+    "Description": "Burnout is real for open source maintainers",
+    "Metadata": {
+      "score": "73",
+      "author": "theanonymousone",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-06-21T19:19:23.4393201+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48566824"
+    },
+    "Type": 1,
+    "Title": "System call instrumentation on Linux/x86\u201164 using memory\u2011indirect calls, part I",
+    "Url": "https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result",
+    "Description": "System call instrumentation on Linux/x86\u201164 using memory\u2011indirect calls, part I",
+    "Metadata": {
+      "score": "23",
+      "author": "matt_d",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-06-21T19:19:23.4970058+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48616713"
+    },
+    "Type": 1,
+    "Title": "A 3D voxel game engine written in APL",
+    "Url": "https://github.com/namgyaaal/avoxelgame",
+    "Description": "A 3D voxel game engine written in APL",
+    "Metadata": {
+      "score": "124",
+      "author": "sph",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-06-21T19:19:23.5573736+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48608570"
+    },
+    "Type": 1,
+    "Title": "Show HN: TownSquare, a tiny presence layer for websites",
+    "Url": "https://townsquare.cauenapier.com/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;cauenapier.com\u0026#x2F;blog\u0026#x2F;townsquare_release\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;cauenapier.com\u0026#x2F;blog\u0026#x2F;townsquare_release\u0026#x2F;\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;cauenapier.com\u0026#x2F;blog\u0026#x2F;townsquare\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;cauenapier.com\u0026#x2F;blog\u0026#x2F;townsquare\u0026#x2F;\u003C/a\u003E",
+    "Metadata": {
+      "score": "224",
+      "author": "cauenapier",
+      "commentCount": "130"
+    },
+    "FetchedAt": "2026-06-21T19:19:23.6149648+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48619394"
+    },
+    "Type": 1,
+    "Title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
+    "Url": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
+    "Description": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
+    "Metadata": {
+      "score": "89",
+      "author": "choult",
+      "commentCount": "58"
+    },
+    "FetchedAt": "2026-06-21T19:19:23.6728242+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48599555"
+    },
+    "Type": 1,
+    "Title": "Running MicroVMs in Proxmox VE, the Easy Way",
+    "Url": "https://taoofmac.com/space/blog/2026/06/18/1845",
+    "Description": "Running MicroVMs in Proxmox VE, the Easy Way",
+    "Metadata": {
+      "score": "180",
+      "author": "zdw",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-06-21T19:19:23.7307464+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48612844"
+    },
+    "Type": 1,
+    "Title": "Show HN: Pulse \u2013 Dashboard for Claude Code, approve tool calls from your phone",
+    "Url": "https://github.com/nikitadoudikov/claude-pulse",
+    "Description": "Hi everyone, \nI\u0026#x27;m a student from Flanders and I like to use Claude Code for my purposes, ideas and also just for fun and also make solutions for problems in our world!)\nSo that\u0026#x27;s why I built \u0026quot;Pulse\u0026quot;, it\u0026#x27;s an local application that you can easily install to your device and easily follow what your claude agent is doing right now in your terminal session with an ambiance design and easily give permissions for your agent.\nFor those who wants to see directly how much tokens y",
+    "Metadata": {
+      "score": "16",
+      "author": "nikitadvd",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-06-21T19:19:23.7896409+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48587865"
+    },
+    "Type": 1,
+    "Title": "Two Qwen3 models on one DGX Spark: the residency math",
+    "Url": "https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark",
+    "Description": "Two Qwen3 models on one DGX Spark: the residency math",
+    "Metadata": {
+      "score": "73",
+      "author": "devashish86",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-06-21T19:19:23.8471119+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48613555"
+    },
+    "Type": 1,
+    "Title": "Slow breathing modulates brain function and risk behavior",
+    "Url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+    "Description": "Slow breathing modulates brain function and risk behavior",
+    "Metadata": {
+      "score": "340",
+      "author": "croes",
+      "commentCount": "97"
+    },
+    "FetchedAt": "2026-06-21T19:19:23.9047057+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48620142"
+    },
+    "Type": 1,
+    "Title": "The early hiring funnel is now breaking on both ends",
+    "Url": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
+    "Description": "The early hiring funnel is now breaking on both ends",
+    "Metadata": {
+      "score": "64",
+      "author": "ChrisArchitect",
+      "commentCount": "99"
+    },
+    "FetchedAt": "2026-06-21T19:19:23.9627244+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48583407"
+    },
+    "Type": 1,
+    "Title": "Excessive nil pointer checks in Go",
+    "Url": "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/",
+    "Description": "Excessive nil pointer checks in Go",
+    "Metadata": {
+      "score": "67",
+      "author": "ingve",
+      "commentCount": "56"
+    },
+    "FetchedAt": "2026-06-21T19:19:24.0203765+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48569843"
+    },
+    "Type": 1,
+    "Title": "Ocient Database Sandbox",
+    "Url": "https://ociforge.com",
+    "Description": "Ocient Database Sandbox",
+    "Metadata": {
+      "score": "5",
+      "author": "boutcher",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-06-21T19:19:24.0777715+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48613755"
+    },
+    "Type": 1,
+    "Title": "Renting a sewing machine from the library",
+    "Url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+    "Description": "Renting a sewing machine from the library",
+    "Metadata": {
+      "score": "314",
+      "author": "sohkamyung",
+      "commentCount": "183"
+    },
+    "FetchedAt": "2026-06-21T19:19:24.1352182+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48615569"
+    },
+    "Type": 1,
+    "Title": "The brain was not designed for this much bad news",
+    "Url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+    "Description": "The brain was not designed for this much bad news",
+    "Metadata": {
+      "score": "303",
+      "author": "colinprince",
+      "commentCount": "263"
+    },
+    "FetchedAt": "2026-06-21T19:19:24.1937448+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48616173"
+    },
+    "Type": 1,
+    "Title": "Windows UI evolution: Clicking an unassociated file",
+    "Url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
+    "Description": "Windows UI evolution: Clicking an unassociated file",
+    "Metadata": {
+      "score": "120",
+      "author": "jandeboevrie",
+      "commentCount": "81"
+    },
+    "FetchedAt": "2026-06-21T19:19:24.2521384+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48613872"
+    },
+    "Type": 1,
+    "Title": "Epoll vs. io_uring in Linux",
+    "Url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+    "Description": "Epoll vs. io_uring in Linux",
+    "Metadata": {
+      "score": "233",
+      "author": "Sibexico",
+      "commentCount": "56"
+    },
+    "FetchedAt": "2026-06-21T19:19:24.3103191+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48573902"
+    },
+    "Type": 1,
+    "Title": "Zigzag Decoding with AVX-512",
+    "Url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
+    "Description": "Zigzag Decoding with AVX-512",
+    "Metadata": {
+      "score": "118",
+      "author": "luu",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-06-21T19:19:24.3687419+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48616017"
+    },
+    "Type": 1,
+    "Title": "The 100k whys of AI",
+    "Url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+    "Description": "The 100k whys of AI",
+    "Metadata": {
+      "score": "146",
+      "author": "surprisetalk",
+      "commentCount": "88"
+    },
+    "FetchedAt": "2026-06-21T19:19:24.4265715+00:00"
   }
 ]
