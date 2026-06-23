@@ -1,57 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:calesthio/OpenMontage"
-    },
-    "Type": 0,
-    "Title": "calesthio/OpenMontage",
-    "Url": "https://github.com/calesthio/OpenMontage",
-    "Description": "World\u0027s first open-source, agentic video production system. 12 pipelines, 52 tools, 500\u002B agent skills. Turn your AI coding assistant into a full video production studio.",
-    "Metadata": {
-      "owner": "calesthio",
-      "repo": "OpenMontage",
-      "language": "Python",
-      "stars": "2,938",
-      "topics": "agent, agentic-ai, ai, claude, copilot, cursor, elevenlabs, ffmpeg, flux, image-generation, open-source, openai, python, remotion, stable-diffusion, text-to-speech, text-to-video, video-generation, video-production"
-    },
-    "FetchedAt": "2026-06-23T09:25:47.1818072+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:palmier-io/palmier-pro"
-    },
-    "Type": 0,
-    "Title": "palmier-io/palmier-pro",
-    "Url": "https://github.com/palmier-io/palmier-pro",
-    "Description": "macOS video editor built for AI",
-    "Metadata": {
-      "owner": "palmier-io",
-      "repo": "palmier-pro",
-      "language": "Swift",
-      "stars": "2,463",
-      "topics": "ai-video, claude, macos, mcp, seedance2, swift, video-editor"
-    },
-    "FetchedAt": "2026-06-23T09:25:47.3731158+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:jamiepine/voicebox"
-    },
-    "Type": 0,
-    "Title": "jamiepine/voicebox",
-    "Url": "https://github.com/jamiepine/voicebox",
-    "Description": "The open-source AI voice studio. Clone, dictate, create.",
-    "Metadata": {
-      "owner": "jamiepine",
-      "repo": "voicebox",
-      "language": "TypeScript",
-      "stars": "529",
-      "topics": "ai, cuda, mlx, qwen3-tts, qwen3-tts-ui, voice-ai, voice-clone, whisper"
-    },
-    "FetchedAt": "2026-06-23T09:25:47.5049108+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:penpot/penpot"
     },
     "Type": 0,
@@ -66,22 +15,6 @@
       "topics": "clojure, clojurescript, design, prototyping, ui, ux-design, ux-experience"
     },
     "FetchedAt": "2026-06-23T09:25:47.6167422+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:garrytan/gstack"
-    },
-    "Type": 0,
-    "Title": "garrytan/gstack",
-    "Url": "https://github.com/garrytan/gstack",
-    "Description": "Use Garry Tan\u0027s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-    "Metadata": {
-      "owner": "garrytan",
-      "repo": "gstack",
-      "language": "TypeScript",
-      "stars": "573"
-    },
-    "FetchedAt": "2026-06-23T09:25:47.7572135+00:00"
   },
   {
     "ExternalId": {
@@ -119,57 +52,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:bytedance/deer-flow"
-    },
-    "Type": 0,
-    "Title": "bytedance/deer-flow",
-    "Url": "https://github.com/bytedance/deer-flow",
-    "Description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-    "Metadata": {
-      "owner": "bytedance",
-      "repo": "deer-flow",
-      "language": "Python",
-      "stars": "738",
-      "topics": "agent, agentic, agentic-framework, agentic-workflow, ai, ai-agents, deep-research, harness, langchain, langgraph, langmanus, llm, multi-agent, nodejs, podcast, python, superagent, typescript"
-    },
-    "FetchedAt": "2026-06-23T09:25:48.1645314+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:DeusData/codebase-memory-mcp"
-    },
-    "Type": 0,
-    "Title": "DeusData/codebase-memory-mcp",
-    "Url": "https://github.com/DeusData/codebase-memory-mcp",
-    "Description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-    "Metadata": {
-      "owner": "DeusData",
-      "repo": "codebase-memory-mcp",
-      "language": "C",
-      "stars": "1,185",
-      "topics": "aider, ast, claude-code, code-analysis, code-intelligence, codex, cursor, cypher, developer-tools, gemini-cli, graph-visualization, kilocode, knowledge-graph, mcp, mcp-server, model-context-protocol, opencode, sqlite, tree-sitter, windsurf"
-    },
-    "FetchedAt": "2026-06-23T09:25:48.2914196+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:ZhuLinsen/daily_stock_analysis"
-    },
-    "Type": 0,
-    "Title": "ZhuLinsen/daily_stock_analysis",
-    "Url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-    "Description": "LLM \u9A71\u52A8\u7684\u591A\u5E02\u573A\u80A1\u7968\u667A\u80FD\u5206\u6790\u7CFB\u7EDF\uFF1A\u591A\u6E90\u884C\u60C5\u3001\u5B9E\u65F6\u65B0\u95FB\u3001\u51B3\u7B56\u770B\u677F\u4E0E\u81EA\u52A8\u63A8\u9001\uFF0C\u652F\u6301\u96F6\u6210\u672C\u5B9A\u65F6\u8FD0\u884C\u3002  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-    "Metadata": {
-      "owner": "ZhuLinsen",
-      "repo": "daily_stock_analysis",
-      "language": "Python",
-      "stars": "1,557",
-      "topics": "a-stock, ai-agent, aigc, llm, quant, quantitative-finance, quantitative-trading"
-    },
-    "FetchedAt": "2026-06-23T09:25:48.4099374+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:firecrawl/firecrawl"
     },
     "Type": 0,
@@ -187,6 +69,175 @@
   },
   {
     "ExternalId": {
+      "Value": "github:calesthio/OpenMontage"
+    },
+    "Type": 0,
+    "Title": "calesthio/OpenMontage",
+    "Url": "https://github.com/calesthio/OpenMontage",
+    "Description": "World\u0027s first open-source, agentic video production system. 12 pipelines, 52 tools, 500\u002B agent skills. Turn your AI coding assistant into a full video production studio.",
+    "Metadata": {
+      "owner": "calesthio",
+      "repo": "OpenMontage",
+      "language": "Python",
+      "stars": "3,590",
+      "topics": "agent, agentic-ai, ai, claude, copilot, cursor, elevenlabs, ffmpeg, flux, image-generation, open-source, openai, python, remotion, stable-diffusion, text-to-speech, text-to-video, video-generation, video-production"
+    },
+    "FetchedAt": "2026-06-23T14:32:15.9804581+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ZhuLinsen/daily_stock_analysis"
+    },
+    "Type": 0,
+    "Title": "ZhuLinsen/daily_stock_analysis",
+    "Url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "Description": "LLM \u9A71\u52A8\u7684\u591A\u5E02\u573A\u80A1\u7968\u667A\u80FD\u5206\u6790\u7CFB\u7EDF\uFF1A\u591A\u6E90\u884C\u60C5\u3001\u5B9E\u65F6\u65B0\u95FB\u3001\u51B3\u7B56\u770B\u677F\u4E0E\u81EA\u52A8\u63A8\u9001\uFF0C\u652F\u6301\u96F6\u6210\u672C\u5B9A\u65F6\u8FD0\u884C\u3002  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "Metadata": {
+      "owner": "ZhuLinsen",
+      "repo": "daily_stock_analysis",
+      "language": "Python",
+      "stars": "1,121",
+      "topics": "a-stock, ai-agent, aigc, llm, quant, quantitative-finance, quantitative-trading"
+    },
+    "FetchedAt": "2026-06-23T14:32:16.1214172+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:garrytan/gstack"
+    },
+    "Type": 0,
+    "Title": "garrytan/gstack",
+    "Url": "https://github.com/garrytan/gstack",
+    "Description": "Use Garry Tan\u0027s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "Metadata": {
+      "owner": "garrytan",
+      "repo": "gstack",
+      "language": "TypeScript",
+      "stars": "1,012"
+    },
+    "FetchedAt": "2026-06-23T14:32:16.2082733+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:bytedance/deer-flow"
+    },
+    "Type": 0,
+    "Title": "bytedance/deer-flow",
+    "Url": "https://github.com/bytedance/deer-flow",
+    "Description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "Metadata": {
+      "owner": "bytedance",
+      "repo": "deer-flow",
+      "language": "Python",
+      "stars": "741",
+      "topics": "agent, agentic, agentic-framework, agentic-workflow, ai, ai-agents, deep-research, harness, langchain, langgraph, langmanus, llm, multi-agent, nodejs, podcast, python, superagent, typescript"
+    },
+    "FetchedAt": "2026-06-23T14:32:16.3027643+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:koala73/worldmonitor"
+    },
+    "Type": 0,
+    "Title": "koala73/worldmonitor",
+    "Url": "https://github.com/koala73/worldmonitor",
+    "Description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "Metadata": {
+      "owner": "koala73",
+      "repo": "worldmonitor",
+      "language": "TypeScript",
+      "stars": "279",
+      "topics": "ai, dashboard, geopolitics, monitoring, news, opensource, osint, palantir, situation"
+    },
+    "FetchedAt": "2026-06-23T14:32:16.413391+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:palmier-io/palmier-pro"
+    },
+    "Type": 0,
+    "Title": "palmier-io/palmier-pro",
+    "Url": "https://github.com/palmier-io/palmier-pro",
+    "Description": "macOS video editor built for AI",
+    "Metadata": {
+      "owner": "palmier-io",
+      "repo": "palmier-pro",
+      "language": "Swift",
+      "stars": "1,631",
+      "topics": "ai-video, claude, macos, mcp, seedance2, swift, video-editor"
+    },
+    "FetchedAt": "2026-06-23T14:32:16.5044098+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-plugins-official"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-plugins-official",
+    "Url": "https://github.com/anthropics/claude-plugins-official",
+    "Description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-plugins-official",
+      "language": "Python",
+      "stars": "66",
+      "topics": "claude-code, mcp, skills"
+    },
+    "FetchedAt": "2026-06-23T14:32:16.6205074+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:shanraisshan/claude-code-best-practice"
+    },
+    "Type": 0,
+    "Title": "shanraisshan/claude-code-best-practice",
+    "Url": "https://github.com/shanraisshan/claude-code-best-practice",
+    "Description": "from vibe coding to agentic engineering - practice makes claude perfect",
+    "Metadata": {
+      "owner": "shanraisshan",
+      "repo": "claude-code-best-practice",
+      "language": "HTML",
+      "stars": "329",
+      "topics": "agentic-ai, agentic-coding, agentic-engineering, agentic-workflow, ai, ai-agents, anthropic, best-practices, boris, claude, claude-ai, claude-code, claude-code-agents, claude-code-best-practices, claude-code-commands, claude-code-skills, context-engineering, pakistan, pakistani-developer, vibe-coding"
+    },
+    "FetchedAt": "2026-06-23T14:32:16.7445559+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:revfactory/harness"
+    },
+    "Type": 0,
+    "Title": "revfactory/harness",
+    "Url": "https://github.com/revfactory/harness",
+    "Description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+    "Metadata": {
+      "owner": "revfactory",
+      "repo": "harness",
+      "language": "HTML",
+      "stars": "123",
+      "topics": "claude-code, claude-code-plugin, harness, harness-engineering"
+    },
+    "FetchedAt": "2026-06-23T14:32:16.8674088+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jamiepine/voicebox"
+    },
+    "Type": 0,
+    "Title": "jamiepine/voicebox",
+    "Url": "https://github.com/jamiepine/voicebox",
+    "Description": "The open-source AI voice studio. Clone, dictate, create.",
+    "Metadata": {
+      "owner": "jamiepine",
+      "repo": "voicebox",
+      "language": "TypeScript",
+      "stars": "1,042",
+      "topics": "ai, cuda, mlx, qwen3-tts, qwen3-tts-ui, voice-ai, voice-clone, whisper"
+    },
+    "FetchedAt": "2026-06-23T14:32:16.9692785+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:JCodesMore/ai-website-cloner-template"
     },
     "Type": 0,
@@ -197,9 +248,59 @@
       "owner": "JCodesMore",
       "repo": "ai-website-cloner-template",
       "language": "TypeScript",
-      "stars": "100",
+      "stars": "827",
       "topics": "ai, ai-agents, ai-tools, automation, boilerplate, claude, claude-code, clone, developer-tools, nextjs, react, reverse-engineering, shadcn-ui, skills, tailwindcss, template, typescript, web-scraping, website-clone"
     },
-    "FetchedAt": "2026-06-23T09:25:48.6591265+00:00"
+    "FetchedAt": "2026-06-23T14:32:17.0856281+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:byoungd/English-level-up-tips"
+    },
+    "Type": 0,
+    "Title": "byoungd/English-level-up-tips",
+    "Url": "https://github.com/byoungd/English-level-up-tips",
+    "Description": "An advanced guide to learn English which might benefit you a lot \uD83C\uDF89 . \u4EBA\u751F\u8FDB\u9636\u6307\u5357 \u79BB\u8C31\u7684\u4EBA\u751F \u79BB\u8C31\u7684\u82F1\u8BED\u5B66\u4E60\u6307\u5357/\u82F1\u8BED\u5B66\u4E60\u6559\u7A0B/\u82F1\u8BED\u5B66\u4E60/\u5B66\u82F1\u8BED",
+    "Metadata": {
+      "owner": "byoungd",
+      "repo": "English-level-up-tips",
+      "stars": "368",
+      "topics": "chinese, english-learning, tutorial"
+    },
+    "FetchedAt": "2026-06-23T14:32:17.1888512+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:DeusData/codebase-memory-mcp"
+    },
+    "Type": 0,
+    "Title": "DeusData/codebase-memory-mcp",
+    "Url": "https://github.com/DeusData/codebase-memory-mcp",
+    "Description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "Metadata": {
+      "owner": "DeusData",
+      "repo": "codebase-memory-mcp",
+      "language": "C",
+      "stars": "1,299",
+      "topics": "aider, ast, claude-code, code-analysis, code-intelligence, codex, cursor, cypher, developer-tools, gemini-cli, graph-visualization, kilocode, knowledge-graph, mcp, mcp-server, model-context-protocol, opencode, sqlite, tree-sitter, windsurf"
+    },
+    "FetchedAt": "2026-06-23T14:32:17.2850242+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NousResearch/hermes-agent"
+    },
+    "Type": 0,
+    "Title": "NousResearch/hermes-agent",
+    "Url": "https://github.com/NousResearch/hermes-agent",
+    "Description": "The agent that grows with you",
+    "Metadata": {
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "language": "Python",
+      "stars": "933",
+      "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw"
+    },
+    "FetchedAt": "2026-06-23T14:32:17.3807087+00:00"
   }
 ]
