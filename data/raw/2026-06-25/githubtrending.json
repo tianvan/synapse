@@ -1,0 +1,201 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:ZhuLinsen/daily_stock_analysis"
+    },
+    "Type": 0,
+    "Title": "ZhuLinsen/daily_stock_analysis",
+    "Url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "Description": "LLM \u9A71\u52A8\u7684\u591A\u5E02\u573A\u80A1\u7968\u667A\u80FD\u5206\u6790\u7CFB\u7EDF\uFF1A\u591A\u6E90\u884C\u60C5\u3001\u5B9E\u65F6\u65B0\u95FB\u3001\u51B3\u7B56\u770B\u677F\u4E0E\u81EA\u52A8\u63A8\u9001\uFF0C\u652F\u6301\u96F6\u6210\u672C\u5B9A\u65F6\u8FD0\u884C\u3002  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "Metadata": {
+      "owner": "ZhuLinsen",
+      "repo": "daily_stock_analysis",
+      "language": "Python",
+      "stars": "1,468",
+      "topics": "a-stock, ai-agent, aigc, llm, quant, quantitative-finance, quantitative-trading"
+    },
+    "FetchedAt": "2026-06-25T02:36:19.6995198+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:apple/container"
+    },
+    "Type": 0,
+    "Title": "apple/container",
+    "Url": "https://github.com/apple/container",
+    "Description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",
+    "Metadata": {
+      "owner": "apple",
+      "repo": "container",
+      "language": "Swift",
+      "stars": "1,838"
+    },
+    "FetchedAt": "2026-06-25T02:36:19.8164526+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:interviewstreet/hiring-agent"
+    },
+    "Type": 0,
+    "Title": "interviewstreet/hiring-agent",
+    "Url": "https://github.com/interviewstreet/hiring-agent",
+    "Description": "AI agent to evaluate and score resumes.",
+    "Metadata": {
+      "owner": "interviewstreet",
+      "repo": "hiring-agent",
+      "language": "Python",
+      "stars": "203"
+    },
+    "FetchedAt": "2026-06-25T02:36:19.9320888+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:JCodesMore/ai-website-cloner-template"
+    },
+    "Type": 0,
+    "Title": "JCodesMore/ai-website-cloner-template",
+    "Url": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "Description": "Clone any website with one command using AI coding agents",
+    "Metadata": {
+      "owner": "JCodesMore",
+      "repo": "ai-website-cloner-template",
+      "language": "TypeScript",
+      "stars": "692",
+      "topics": "ai, ai-agents, ai-tools, automation, boilerplate, claude, claude-code, clone, developer-tools, nextjs, react, reverse-engineering, shadcn-ui, skills, tailwindcss, template, typescript, web-scraping, website-clone"
+    },
+    "FetchedAt": "2026-06-25T02:36:20.026272+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:revfactory/harness"
+    },
+    "Type": 0,
+    "Title": "revfactory/harness",
+    "Url": "https://github.com/revfactory/harness",
+    "Description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+    "Metadata": {
+      "owner": "revfactory",
+      "repo": "harness",
+      "language": "HTML",
+      "stars": "277",
+      "topics": "claude-code, claude-code-plugin, harness, harness-engineering"
+    },
+    "FetchedAt": "2026-06-25T02:36:20.1083571+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:flutter/flutter"
+    },
+    "Type": 0,
+    "Title": "flutter/flutter",
+    "Url": "https://github.com/flutter/flutter",
+    "Description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "Metadata": {
+      "owner": "flutter",
+      "repo": "flutter",
+      "language": "Dart",
+      "stars": "73",
+      "topics": "android, app-framework, cross-platform, dart, dart-platform, desktop, flutter, flutter-package, fuchsia, ios, linux-desktop, macos, material-design, mobile, mobile-development, skia, web, web-framework, windows"
+    },
+    "FetchedAt": "2026-06-25T02:36:20.206371+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:andreknieriem/headunit-revived"
+    },
+    "Type": 0,
+    "Title": "andreknieriem/headunit-revived",
+    "Url": "https://github.com/andreknieriem/headunit-revived",
+    "Description": "Headunit App for displaying Android Auto",
+    "Metadata": {
+      "owner": "andreknieriem",
+      "repo": "headunit-revived",
+      "language": "Kotlin",
+      "stars": "41",
+      "topics": "android, androidauto, headunit"
+    },
+    "FetchedAt": "2026-06-25T02:36:20.3254699+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:stablyai/orca"
+    },
+    "Type": 0,
+    "Title": "stablyai/orca",
+    "Url": "https://github.com/stablyai/orca",
+    "Description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "Metadata": {
+      "owner": "stablyai",
+      "repo": "orca",
+      "language": "TypeScript",
+      "stars": "331",
+      "topics": "ade, agent-ide, ai-agents, claude-code, cli, codex, cursor-agent, devtools, ghostty, ide, mobile-app, opencode, orchestration, parallel-agents, pi, terminal, worktrees, yc-backed"
+    },
+    "FetchedAt": "2026-06-25T02:36:20.3997011+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google-labs-code/design.md"
+    },
+    "Type": 0,
+    "Title": "google-labs-code/design.md",
+    "Url": "https://github.com/google-labs-code/design.md",
+    "Description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+    "Metadata": {
+      "owner": "google-labs-code",
+      "repo": "design.md",
+      "language": "TypeScript",
+      "stars": "619"
+    },
+    "FetchedAt": "2026-06-25T02:36:20.4976876+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Flowseal/zapret-discord-youtube"
+    },
+    "Type": 0,
+    "Title": "Flowseal/zapret-discord-youtube",
+    "Url": "https://github.com/Flowseal/zapret-discord-youtube",
+    "Description": "",
+    "Metadata": {
+      "owner": "Flowseal",
+      "repo": "zapret-discord-youtube",
+      "language": "Batchfile",
+      "stars": "61"
+    },
+    "FetchedAt": "2026-06-25T02:36:20.607409+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:kunchenguid/no-mistakes"
+    },
+    "Type": 0,
+    "Title": "kunchenguid/no-mistakes",
+    "Url": "https://github.com/kunchenguid/no-mistakes",
+    "Description": "git push no-mistakes",
+    "Metadata": {
+      "owner": "kunchenguid",
+      "repo": "no-mistakes",
+      "language": "Go",
+      "stars": "110"
+    },
+    "FetchedAt": "2026-06-25T02:36:20.7070663+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NousResearch/hermes-agent"
+    },
+    "Type": 0,
+    "Title": "NousResearch/hermes-agent",
+    "Url": "https://github.com/NousResearch/hermes-agent",
+    "Description": "The agent that grows with you",
+    "Metadata": {
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "language": "Python",
+      "stars": "1,178",
+      "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw"
+    },
+    "FetchedAt": "2026-06-25T02:36:20.8101306+00:00"
+  }
+]
