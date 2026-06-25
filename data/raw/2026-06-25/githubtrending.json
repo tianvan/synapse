@@ -163,7 +163,7 @@
       "language": "TypeScript",
       "stars": "1,407"
     },
-    "FetchedAt": "2026-06-25T14:08:46.6301352+00:00"
+    "FetchedAt": "2026-06-25T19:48:30.6703712+00:00"
   },
   {
     "ExternalId": {
@@ -180,7 +180,7 @@
       "stars": "201",
       "topics": "ai, ai-agent, anthropic, berkshire-hathaway, charlie-munger, china-stock, claude, claude-code, financial-analysis, fintech, fundamental-analysis, investment, investment-research, llm, mcp, portfolio-management, stock-analysis, stock-market, value-investing, warren-buffett"
     },
-    "FetchedAt": "2026-06-25T14:08:46.8014947+00:00"
+    "FetchedAt": "2026-06-25T19:48:30.8557141+00:00"
   },
   {
     "ExternalId": {
@@ -197,7 +197,7 @@
       "stars": "112",
       "topics": "budget-tracker, collaborative, open-source, opensource, packing-list, poi, real-time, routes, self-hosted, travel, travel-app, travel-planner, traveling, trip, trip-planner, wanderlog, wanderlust, webapplication"
     },
-    "FetchedAt": "2026-06-25T14:08:46.9040117+00:00"
+    "FetchedAt": "2026-06-25T19:48:30.9740646+00:00"
   },
   {
     "ExternalId": {
@@ -213,7 +213,7 @@
       "language": "Swift",
       "stars": "1,366"
     },
-    "FetchedAt": "2026-06-25T14:08:47.0035276+00:00"
+    "FetchedAt": "2026-06-25T19:48:31.0858482+00:00"
   },
   {
     "ExternalId": {
@@ -230,7 +230,24 @@
       "stars": "1,021",
       "topics": "ai, ai-agents, ai-tools, automation, boilerplate, claude, claude-code, clone, developer-tools, nextjs, react, reverse-engineering, shadcn-ui, skills, tailwindcss, template, typescript, web-scraping, website-clone"
     },
-    "FetchedAt": "2026-06-25T14:08:47.1247044+00:00"
+    "FetchedAt": "2026-06-25T19:48:31.2129987+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:every-app/open-seo"
+    },
+    "Type": 0,
+    "Title": "every-app/open-seo",
+    "Url": "https://github.com/every-app/open-seo",
+    "Description": "Open source alternative to Semrush and Ahrefs",
+    "Metadata": {
+      "owner": "every-app",
+      "repo": "open-seo",
+      "language": "TypeScript",
+      "stars": "57",
+      "topics": "backlink-analysis, google-search-console-mcp, keyword-research, mcp, seo, seo-tools, site-audit"
+    },
+    "FetchedAt": "2026-06-25T19:48:31.3167791+00:00"
   },
   {
     "ExternalId": {
@@ -244,9 +261,9 @@
       "owner": "garrytan",
       "repo": "gstack",
       "language": "TypeScript",
-      "stars": "922"
+      "stars": "836"
     },
-    "FetchedAt": "2026-06-25T14:08:47.2218067+00:00"
+    "FetchedAt": "2026-06-25T19:48:31.447722+00:00"
   },
   {
     "ExternalId": {
@@ -262,7 +279,7 @@
       "language": "Python",
       "stars": "15"
     },
-    "FetchedAt": "2026-06-25T14:08:47.3225539+00:00"
+    "FetchedAt": "2026-06-25T19:48:31.5691069+00:00"
   },
   {
     "ExternalId": {
@@ -276,10 +293,10 @@
       "owner": "alibaba",
       "repo": "page-agent",
       "language": "TypeScript",
-      "stars": "280",
+      "stars": "196",
       "topics": "agent, ai, ai-agents, browser-automation, javascript, mcp, typescript, web"
     },
-    "FetchedAt": "2026-06-25T14:08:47.4912736+00:00"
+    "FetchedAt": "2026-06-25T19:48:31.7420111+00:00"
   },
   {
     "ExternalId": {
@@ -296,7 +313,7 @@
       "stars": "202",
       "topics": "casaos, docker, golang, home-automation, home-cloud, home-server, iot, raspberry, self-hosted, vuejs"
     },
-    "FetchedAt": "2026-06-25T14:08:47.6275972+00:00"
+    "FetchedAt": "2026-06-25T19:48:31.87475+00:00"
   },
   {
     "ExternalId": {
@@ -313,7 +330,7 @@
       "stars": "524",
       "topics": "ai4science, document-analysis, docx, extract-data, layout-analysis, ocr, parser, pdf, pdf-converter, pdf-extractor-llm, pdf-extractor-pretrain, pdf-extractor-rag, pdf-parser, pptx, python, xlsx"
     },
-    "FetchedAt": "2026-06-25T14:08:47.7396579+00:00"
+    "FetchedAt": "2026-06-25T19:48:31.9940816+00:00"
   },
   {
     "ExternalId": {
@@ -330,7 +347,7 @@
       "stars": "141",
       "topics": "help-wanted, looking-for-contributors"
     },
-    "FetchedAt": "2026-06-25T14:08:47.9019845+00:00"
+    "FetchedAt": "2026-06-25T19:48:32.1184048+00:00"
   },
   {
     "ExternalId": {
@@ -347,6 +364,6 @@
       "stars": "670",
       "topics": "agentic-ai, agentic-coding, agentic-engineering, agentic-workflow, ai, ai-agents, anthropic, best-practices, boris, claude, claude-ai, claude-code, claude-code-agents, claude-code-best-practices, claude-code-commands, claude-code-skills, context-engineering, pakistan, pakistani-developer, vibe-coding"
     },
-    "FetchedAt": "2026-06-25T14:08:48.026692+00:00"
+    "FetchedAt": "2026-06-25T19:48:32.2451186+00:00"
   }
 ]
