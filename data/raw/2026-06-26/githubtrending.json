@@ -1,0 +1,219 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:google-labs-code/design.md"
+    },
+    "Type": 0,
+    "Title": "google-labs-code/design.md",
+    "Url": "https://github.com/google-labs-code/design.md",
+    "Description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+    "Metadata": {
+      "owner": "google-labs-code",
+      "repo": "design.md",
+      "language": "TypeScript",
+      "stars": "1,475"
+    },
+    "FetchedAt": "2026-06-26T02:38:54.9185097+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:xbtlin/ai-berkshire"
+    },
+    "Type": 0,
+    "Title": "xbtlin/ai-berkshire",
+    "Url": "https://github.com/xbtlin/ai-berkshire",
+    "Description": "AI \u65F6\u4EE3\u7684\u4F2F\u514B\u5E0C\u5C14\uFF1A\u57FA\u4E8E Claude Code \u7684\u4EF7\u503C\u6295\u8D44\u7814\u7A76\u6846\u67B6\u3002\u5DF4\u83F2\u7279\u00B7\u8292\u683C\u00B7\u6BB5\u6C38\u5E73\u00B7\u674E\u5F55\u56DB\u5927\u5E08\u65B9\u6CD5\u8BBA \u002B \u591AAgent\u5E76\u884C\u7814\u7A76\u3002| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters\u0027 methodologies \u002B multi-agent adversarial analysis.",
+    "Metadata": {
+      "owner": "xbtlin",
+      "repo": "ai-berkshire",
+      "language": "Python",
+      "stars": "309",
+      "topics": "ai, ai-agent, anthropic, berkshire-hathaway, charlie-munger, china-stock, claude, claude-code, financial-analysis, fintech, fundamental-analysis, investment, investment-research, llm, mcp, portfolio-management, stock-analysis, stock-market, value-investing, warren-buffett"
+    },
+    "FetchedAt": "2026-06-26T02:38:55.0746187+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mauriceboe/TREK"
+    },
+    "Type": 0,
+    "Title": "mauriceboe/TREK",
+    "Url": "https://github.com/mauriceboe/TREK",
+    "Description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+    "Metadata": {
+      "owner": "mauriceboe",
+      "repo": "TREK",
+      "language": "TypeScript",
+      "stars": "241",
+      "topics": "budget-tracker, collaborative, open-source, opensource, packing-list, poi, real-time, routes, self-hosted, travel, travel-app, travel-planner, traveling, trip, trip-planner, wanderlog, wanderlust, webapplication"
+    },
+    "FetchedAt": "2026-06-26T02:38:55.1941397+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:apple/container"
+    },
+    "Type": 0,
+    "Title": "apple/container",
+    "Url": "https://github.com/apple/container",
+    "Description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",
+    "Metadata": {
+      "owner": "apple",
+      "repo": "container",
+      "language": "Swift",
+      "stars": "1,351"
+    },
+    "FetchedAt": "2026-06-26T02:38:55.289701+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:JCodesMore/ai-website-cloner-template"
+    },
+    "Type": 0,
+    "Title": "JCodesMore/ai-website-cloner-template",
+    "Url": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "Description": "Clone any website with one command using AI coding agents",
+    "Metadata": {
+      "owner": "JCodesMore",
+      "repo": "ai-website-cloner-template",
+      "language": "TypeScript",
+      "stars": "1,024",
+      "topics": "ai, ai-agents, ai-tools, automation, boilerplate, claude, claude-code, clone, developer-tools, nextjs, react, reverse-engineering, shadcn-ui, skills, tailwindcss, template, typescript, web-scraping, website-clone"
+    },
+    "FetchedAt": "2026-06-26T02:38:55.4077605+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:every-app/open-seo"
+    },
+    "Type": 0,
+    "Title": "every-app/open-seo",
+    "Url": "https://github.com/every-app/open-seo",
+    "Description": "Open source alternative to Semrush and Ahrefs",
+    "Metadata": {
+      "owner": "every-app",
+      "repo": "open-seo",
+      "language": "TypeScript",
+      "stars": "57",
+      "topics": "backlink-analysis, google-search-console-mcp, keyword-research, mcp, seo, seo-tools, site-audit"
+    },
+    "FetchedAt": "2026-06-26T02:38:55.5008715+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:garrytan/gstack"
+    },
+    "Type": 0,
+    "Title": "garrytan/gstack",
+    "Url": "https://github.com/garrytan/gstack",
+    "Description": "Use Garry Tan\u0027s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "Metadata": {
+      "owner": "garrytan",
+      "repo": "gstack",
+      "language": "TypeScript",
+      "stars": "767"
+    },
+    "FetchedAt": "2026-06-26T02:38:55.6136748+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:aws/agent-toolkit-for-aws"
+    },
+    "Type": 0,
+    "Title": "aws/agent-toolkit-for-aws",
+    "Url": "https://github.com/aws/agent-toolkit-for-aws",
+    "Description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+    "Metadata": {
+      "owner": "aws",
+      "repo": "agent-toolkit-for-aws",
+      "language": "Python",
+      "stars": "47"
+    },
+    "FetchedAt": "2026-06-26T02:38:55.7249228+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alibaba/page-agent"
+    },
+    "Type": 0,
+    "Title": "alibaba/page-agent",
+    "Url": "https://github.com/alibaba/page-agent",
+    "Description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "Metadata": {
+      "owner": "alibaba",
+      "repo": "page-agent",
+      "language": "TypeScript",
+      "stars": "163",
+      "topics": "agent, ai, ai-agents, browser-automation, javascript, mcp, typescript, web"
+    },
+    "FetchedAt": "2026-06-26T02:38:55.8803586+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:IceWhaleTech/CasaOS"
+    },
+    "Type": 0,
+    "Title": "IceWhaleTech/CasaOS",
+    "Url": "https://github.com/IceWhaleTech/CasaOS",
+    "Description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+    "Metadata": {
+      "owner": "IceWhaleTech",
+      "repo": "CasaOS",
+      "language": "Go",
+      "stars": "223",
+      "topics": "casaos, docker, golang, home-automation, home-cloud, home-server, iot, raspberry, self-hosted, vuejs"
+    },
+    "FetchedAt": "2026-06-26T02:38:55.9910291+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:opendatalab/MinerU"
+    },
+    "Type": 0,
+    "Title": "opendatalab/MinerU",
+    "Url": "https://github.com/opendatalab/MinerU",
+    "Description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+    "Metadata": {
+      "owner": "opendatalab",
+      "repo": "MinerU",
+      "language": "Python",
+      "stars": "644",
+      "topics": "ai4science, document-analysis, docx, extract-data, layout-analysis, ocr, parser, pdf, pdf-converter, pdf-extractor-llm, pdf-extractor-pretrain, pdf-extractor-rag, pdf-parser, pptx, python, xlsx"
+    },
+    "FetchedAt": "2026-06-26T02:38:56.1094152+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Free-TV/IPTV"
+    },
+    "Type": 0,
+    "Title": "Free-TV/IPTV",
+    "Url": "https://github.com/Free-TV/IPTV",
+    "Description": "M3U Playlist for free TV channels",
+    "Metadata": {
+      "owner": "Free-TV",
+      "repo": "IPTV",
+      "language": "Python",
+      "stars": "139",
+      "topics": "help-wanted, looking-for-contributors"
+    },
+    "FetchedAt": "2026-06-26T02:38:56.233522+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:shanraisshan/claude-code-best-practice"
+    },
+    "Type": 0,
+    "Title": "shanraisshan/claude-code-best-practice",
+    "Url": "https://github.com/shanraisshan/claude-code-best-practice",
+    "Description": "from vibe coding to agentic engineering - practice makes claude perfect",
+    "Metadata": {
+      "owner": "shanraisshan",
+      "repo": "claude-code-best-practice",
+      "language": "HTML",
+      "stars": "287",
+      "topics": "agentic-ai, agentic-coding, agentic-engineering, agentic-workflow, ai, ai-agents, anthropic, best-practices, boris, claude, claude-ai, claude-code, claude-code-agents, claude-code-best-practices, claude-code-commands, claude-code-skills, context-engineering, pakistan, pakistani-developer, vibe-coding"
+    },
+    "FetchedAt": "2026-06-26T02:38:56.3524922+00:00"
+  }
+]
