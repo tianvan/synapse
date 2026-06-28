@@ -1,40 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:xbtlin/ai-berkshire"
-    },
-    "Type": 0,
-    "Title": "xbtlin/ai-berkshire",
-    "Url": "https://github.com/xbtlin/ai-berkshire",
-    "Description": "AI \u65F6\u4EE3\u7684\u4F2F\u514B\u5E0C\u5C14\uFF1A\u57FA\u4E8E Claude Code / Codex \u7684\u4EF7\u503C\u6295\u8D44\u7814\u7A76\u6846\u67B6\u3002\u5DF4\u83F2\u7279\u00B7\u8292\u683C\u00B7\u6BB5\u6C38\u5E73\u00B7\u674E\u5F55\u56DB\u5927\u5E08\u65B9\u6CD5\u8BBA \u002B \u591AAgent\u5E76\u884C\u7814\u7A76\u3002| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters\u0027 methodologies \u002B multi-agent adversarial analysis.",
-    "Metadata": {
-      "owner": "xbtlin",
-      "repo": "ai-berkshire",
-      "language": "Python",
-      "stars": "685",
-      "topics": "ai, ai-agent, anthropic, berkshire-hathaway, charlie-munger, china-stock, claude, claude-code, financial-analysis, fintech, fundamental-analysis, investment, investment-research, llm, mcp, portfolio-management, stock-analysis, stock-market, value-investing, warren-buffett"
-    },
-    "FetchedAt": "2026-06-28T08:42:54.852974+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:commaai/openpilot"
-    },
-    "Type": 0,
-    "Title": "commaai/openpilot",
-    "Url": "https://github.com/commaai/openpilot",
-    "Description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300\u002B supported cars.",
-    "Metadata": {
-      "owner": "commaai",
-      "repo": "openpilot",
-      "language": "Python",
-      "stars": "322",
-      "topics": "advanced-driver-assistance-systems, driver-assistance-systems, robotics"
-    },
-    "FetchedAt": "2026-06-28T08:42:55.133018+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:IceWhaleTech/CasaOS"
     },
     "Type": 0,
@@ -49,23 +15,6 @@
       "topics": "casaos, docker, golang, home-automation, home-cloud, home-server, iot, raspberry, self-hosted, vuejs"
     },
     "FetchedAt": "2026-06-28T08:42:55.3515824+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:ripienaar/free-for-dev"
-    },
-    "Type": 0,
-    "Title": "ripienaar/free-for-dev",
-    "Url": "https://github.com/ripienaar/free-for-dev",
-    "Description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-    "Metadata": {
-      "owner": "ripienaar",
-      "repo": "free-for-dev",
-      "language": "HTML",
-      "stars": "459",
-      "topics": "awesome-list, free-for-developers"
-    },
-    "FetchedAt": "2026-06-28T08:42:55.6091136+00:00"
   },
   {
     "ExternalId": {
@@ -203,23 +152,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:HKUDS/Vibe-Trading"
-    },
-    "Type": 0,
-    "Title": "HKUDS/Vibe-Trading",
-    "Url": "https://github.com/HKUDS/Vibe-Trading",
-    "Description": "\u0022Vibe-Trading: Your Personal Trading Agent\u0022",
-    "Metadata": {
-      "owner": "HKUDS",
-      "repo": "Vibe-Trading",
-      "language": "Python",
-      "stars": "92",
-      "topics": "ai-agent, algorithmic-trading, backtesting, fintech, llm, mcp, multi-agent, python, quantitative-finance, trading"
-    },
-    "FetchedAt": "2026-06-28T08:42:57.597612+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:every-app/open-seo"
     },
     "Type": 0,
@@ -234,5 +166,172 @@
       "topics": "backlink-analysis, google-search-console-mcp, keyword-research, mcp, seo, seo-tools, site-audit"
     },
     "FetchedAt": "2026-06-28T08:42:57.8023606+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ripienaar/free-for-dev"
+    },
+    "Type": 0,
+    "Title": "ripienaar/free-for-dev",
+    "Url": "https://github.com/ripienaar/free-for-dev",
+    "Description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "Metadata": {
+      "owner": "ripienaar",
+      "repo": "free-for-dev",
+      "language": "HTML",
+      "stars": "472",
+      "topics": "awesome-list, free-for-developers"
+    },
+    "FetchedAt": "2026-06-28T13:21:16.5303149+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:commaai/openpilot"
+    },
+    "Type": 0,
+    "Title": "commaai/openpilot",
+    "Url": "https://github.com/commaai/openpilot",
+    "Description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300\u002B supported cars.",
+    "Metadata": {
+      "owner": "commaai",
+      "repo": "openpilot",
+      "language": "Python",
+      "stars": "265",
+      "topics": "advanced-driver-assistance-systems, driver-assistance-systems, robotics"
+    },
+    "FetchedAt": "2026-06-28T13:21:16.6910366+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:xbtlin/ai-berkshire"
+    },
+    "Type": 0,
+    "Title": "xbtlin/ai-berkshire",
+    "Url": "https://github.com/xbtlin/ai-berkshire",
+    "Description": "AI \u65F6\u4EE3\u7684\u4F2F\u514B\u5E0C\u5C14\uFF1A\u57FA\u4E8E Claude Code / Codex \u7684\u4EF7\u503C\u6295\u8D44\u7814\u7A76\u6846\u67B6\u3002\u5DF4\u83F2\u7279\u00B7\u8292\u683C\u00B7\u6BB5\u6C38\u5E73\u00B7\u674E\u5F55\u56DB\u5927\u5E08\u65B9\u6CD5\u8BBA \u002B \u591AAgent\u5E76\u884C\u7814\u7A76\u3002| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters\u0027 methodologies \u002B multi-agent adversarial analysis.",
+    "Metadata": {
+      "owner": "xbtlin",
+      "repo": "ai-berkshire",
+      "language": "Python",
+      "stars": "1,456",
+      "topics": "ai, ai-agent, anthropic, berkshire-hathaway, charlie-munger, china-stock, claude, claude-code, financial-analysis, fintech, fundamental-analysis, investment, investment-research, llm, mcp, portfolio-management, stock-analysis, stock-market, value-investing, warren-buffett"
+    },
+    "FetchedAt": "2026-06-28T13:21:16.8477142+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Robbyant/lingbot-map"
+    },
+    "Type": 0,
+    "Title": "Robbyant/lingbot-map",
+    "Url": "https://github.com/Robbyant/lingbot-map",
+    "Description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+    "Metadata": {
+      "owner": "Robbyant",
+      "repo": "lingbot-map",
+      "language": "Python",
+      "stars": "372"
+    },
+    "FetchedAt": "2026-06-28T13:21:16.9514336+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:DeusData/codebase-memory-mcp"
+    },
+    "Type": 0,
+    "Title": "DeusData/codebase-memory-mcp",
+    "Url": "https://github.com/DeusData/codebase-memory-mcp",
+    "Description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "Metadata": {
+      "owner": "DeusData",
+      "repo": "codebase-memory-mcp",
+      "language": "C",
+      "stars": "2,162",
+      "topics": "aider, ast, claude-code, code-analysis, code-intelligence, codex, cursor, cypher, developer-tools, gemini-cli, graph-visualization, kilocode, knowledge-graph, mcp, mcp-server, model-context-protocol, opencode, sqlite, tree-sitter, windsurf"
+    },
+    "FetchedAt": "2026-06-28T13:21:17.0735746+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:opendatalab/MinerU"
+    },
+    "Type": 0,
+    "Title": "opendatalab/MinerU",
+    "Url": "https://github.com/opendatalab/MinerU",
+    "Description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+    "Metadata": {
+      "owner": "opendatalab",
+      "repo": "MinerU",
+      "language": "Python",
+      "stars": "749",
+      "topics": "ai4science, document-analysis, docx, extract-data, layout-analysis, ocr, parser, pdf, pdf-converter, pdf-extractor-llm, pdf-extractor-pretrain, pdf-extractor-rag, pdf-parser, pptx, python, xlsx"
+    },
+    "FetchedAt": "2026-06-28T13:21:17.1809272+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/Vibe-Trading"
+    },
+    "Type": 0,
+    "Title": "HKUDS/Vibe-Trading",
+    "Url": "https://github.com/HKUDS/Vibe-Trading",
+    "Description": "\u0022Vibe-Trading: Your Personal Trading Agent\u0022",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "Vibe-Trading",
+      "language": "Python",
+      "stars": "490",
+      "topics": "ai-agent, algorithmic-trading, backtesting, fintech, llm, mcp, multi-agent, python, quantitative-finance, trading"
+    },
+    "FetchedAt": "2026-06-28T13:21:17.3068728+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ByteByteGoHq/system-design-101"
+    },
+    "Type": 0,
+    "Title": "ByteByteGoHq/system-design-101",
+    "Url": "https://github.com/ByteByteGoHq/system-design-101",
+    "Description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+    "Metadata": {
+      "owner": "ByteByteGoHq",
+      "repo": "system-design-101",
+      "stars": "132",
+      "topics": "aws, cloud-computing, coding-interviews, computer-science, interview-questions, software-architecture, software-development, software-engineering, system-design, system-design-interview"
+    },
+    "FetchedAt": "2026-06-28T13:21:17.4296971+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:usestrix/strix"
+    },
+    "Type": 0,
+    "Title": "usestrix/strix",
+    "Url": "https://github.com/usestrix/strix",
+    "Description": "Open-source AI hackers to find and fix your app\u2019s vulnerabilities.",
+    "Metadata": {
+      "owner": "usestrix",
+      "repo": "strix",
+      "language": "Python",
+      "stars": "88",
+      "topics": "agents, ai-hacking, ai-penetration-testing, ai-pentesting, ai-security, artificial-intelligence, bug-bounty, code-quality, ctf-tools, cybersecurity, cybersecurity-tools, ethical-hacking, hacking, llm-security, offensive-security, penetration-testing, pentesting-tools, red-teaming, security, security-automation"
+    },
+    "FetchedAt": "2026-06-28T13:21:17.5469324+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:browser-use/video-use"
+    },
+    "Type": 0,
+    "Title": "browser-use/video-use",
+    "Url": "https://github.com/browser-use/video-use",
+    "Description": "Edit videos with coding agents",
+    "Metadata": {
+      "owner": "browser-use",
+      "repo": "video-use",
+      "language": "Python",
+      "stars": "186"
+    },
+    "FetchedAt": "2026-06-28T13:21:17.6868257+00:00"
   }
 ]
