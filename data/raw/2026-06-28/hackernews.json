@@ -286,51 +286,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48706714"
-    },
-    "Type": 1,
-    "Title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-    "Url": "https://github.com/openai/codex/issues/2847",
-    "Description": "A way to exclude sensitive files issue still open for OpenAI Codex",
-    "Metadata": {
-      "score": "18",
-      "author": "pikseladam",
-      "commentCount": "12"
-    },
-    "FetchedAt": "2026-06-28T13:21:18.079685+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48703759"
-    },
-    "Type": 1,
-    "Title": "Marfa Public Radio Puts You to Sleep",
-    "Url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
-    "Description": "Marfa Public Radio Puts You to Sleep",
-    "Metadata": {
-      "score": "300",
-      "author": "reaperducer",
-      "commentCount": "80"
-    },
-    "FetchedAt": "2026-06-28T13:21:18.1121242+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48705910"
-    },
-    "Type": 1,
-    "Title": "DLL that was not present in memory despite not being formally unloaded",
-    "Url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
-    "Description": "DLL that was not present in memory despite not being formally unloaded",
-    "Metadata": {
-      "score": "42",
-      "author": "ibobev",
-      "commentCount": "13"
-    },
-    "FetchedAt": "2026-06-28T13:21:18.1449521+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48706560"
     },
     "Type": 1,
@@ -343,51 +298,6 @@
       "commentCount": "16"
     },
     "FetchedAt": "2026-06-28T13:21:18.1764457+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48704454"
-    },
-    "Type": 1,
-    "Title": "Bashblog \u2013 a single bash script to create blogs",
-    "Url": "https://github.com/cfenollosa/bashblog",
-    "Description": "Bashblog \u2013 a single bash script to create blogs",
-    "Metadata": {
-      "score": "71",
-      "author": "ludicrousdispla",
-      "commentCount": "50"
-    },
-    "FetchedAt": "2026-06-28T13:21:18.2080079+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48703258"
-    },
-    "Type": 1,
-    "Title": "AMD Strix Halo RDMA Cluster Setup Guide",
-    "Url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
-    "Description": "AMD Strix Halo RDMA Cluster Setup Guide",
-    "Metadata": {
-      "score": "175",
-      "author": "jakogut",
-      "commentCount": "54"
-    },
-    "FetchedAt": "2026-06-28T13:21:18.2402264+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48698617"
-    },
-    "Type": 1,
-    "Title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-    "Url": "https://github.com/bikini/exploitarium",
-    "Description": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-    "Metadata": {
-      "score": "862",
-      "author": "binyu",
-      "commentCount": "334"
-    },
-    "FetchedAt": "2026-06-28T13:21:18.2721076+00:00"
   },
   {
     "ExternalId": {
@@ -418,36 +328,6 @@
       "commentCount": "58"
     },
     "FetchedAt": "2026-06-28T13:21:18.3364142+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48702273"
-    },
-    "Type": 1,
-    "Title": "Choosing a Public DNS Resolver",
-    "Url": "https://evilbit.de/dns-resolver-guide.html",
-    "Description": "Choosing a Public DNS Resolver",
-    "Metadata": {
-      "score": "204",
-      "author": "pawal",
-      "commentCount": "78"
-    },
-    "FetchedAt": "2026-06-28T13:21:18.3680242+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48670579"
-    },
-    "Type": 1,
-    "Title": "Bringing Swift to the Apple ][",
-    "Url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
-    "Description": "Bringing Swift to the Apple ][",
-    "Metadata": {
-      "score": "11",
-      "author": "LucidLynx",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-06-28T13:21:18.4005462+00:00"
   },
   {
     "ExternalId": {
@@ -733,5 +613,455 @@
       "commentCount": "50"
     },
     "FetchedAt": "2026-06-28T13:21:19.0194307+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48707763"
+    },
+    "Type": 1,
+    "Title": "5k Restaurant Menus, Years 1880-1920",
+    "Url": "https://pudding.cool/2026/06/menu-collection/",
+    "Description": "5k Restaurant Menus, Years 1880-1920",
+    "Metadata": {
+      "score": "233",
+      "author": "xbryanx",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-06-28T19:05:59.4283677+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48710082"
+    },
+    "Type": 1,
+    "Title": "The Cost Yagni Was Never About \u2013 By Kent Beck",
+    "Url": "https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about",
+    "Description": "The Cost Yagni Was Never About \u2013 By Kent Beck",
+    "Metadata": {
+      "score": "21",
+      "author": "kiyanwang",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-06-28T19:05:59.4595131+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48708941"
+    },
+    "Type": 1,
+    "Title": "I used Claude Code to get a second opinion on my MRI",
+    "Url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+    "Description": "I used Claude Code to get a second opinion on my MRI",
+    "Metadata": {
+      "score": "131",
+      "author": "engmarketer",
+      "commentCount": "204"
+    },
+    "FetchedAt": "2026-06-28T19:05:59.4926283+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48709187"
+    },
+    "Type": 1,
+    "Title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+    "Url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+    "Description": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+    "Metadata": {
+      "score": "47",
+      "author": "zdw",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-06-28T19:05:59.5238727+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48708182"
+    },
+    "Type": 1,
+    "Title": "Show HN: Zanagrams",
+    "Url": "https://zanagrams.com/",
+    "Description": "Show HN: Zanagrams",
+    "Metadata": {
+      "score": "73",
+      "author": "pompomsheep",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-06-28T19:05:59.5547356+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48675295"
+    },
+    "Type": 1,
+    "Title": "The Boeing 747 Begins Its Final Descent",
+    "Url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
+    "Description": "The Boeing 747 Begins Its Final Descent",
+    "Metadata": {
+      "score": "50",
+      "author": "dbl000",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-06-28T19:05:59.5874587+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48708721"
+    },
+    "Type": 1,
+    "Title": "Reflections on Software Engineering in the Age of AI",
+    "Url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
+    "Description": "Reflections on Software Engineering in the Age of AI",
+    "Metadata": {
+      "score": "61",
+      "author": "diamondap",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-06-28T19:05:59.6182851+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48708859"
+    },
+    "Type": 1,
+    "Title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+    "Url": "https://www.openculture.com/2020/10/daisugi.html",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;x.com\u0026#x2F;wrathofgnon\u0026#x2F;status\u0026#x2F;1250287741247426565\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;x.com\u0026#x2F;wrathofgnon\u0026#x2F;status\u0026#x2F;1250287741247426565\u003C/a\u003E, \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;wrathofgnon\u0026#x2F;status\u0026#x2F;1250287741247426565\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;wrathofgnon\u0026#x2F;status\u0026#x2F;1250287741247426565\u003C/a\u003E",
+    "Metadata": {
+      "score": "56",
+      "author": "MaysonL",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-06-28T19:05:59.6497889+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48708700"
+    },
+    "Type": 1,
+    "Title": "Examining circuit boards from the Space Shuttle\u0027s I/O Processor",
+    "Url": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
+    "Description": "Examining circuit boards from the Space Shuttle\u0027s I/O Processor",
+    "Metadata": {
+      "score": "49",
+      "author": "pwg",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-06-28T19:05:59.6830408+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48706714"
+    },
+    "Type": 1,
+    "Title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+    "Url": "https://github.com/openai/codex/issues/2847",
+    "Description": "A way to exclude sensitive files issue still open for OpenAI Codex",
+    "Metadata": {
+      "score": "144",
+      "author": "pikseladam",
+      "commentCount": "96"
+    },
+    "FetchedAt": "2026-06-28T19:05:59.714944+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48706814"
+    },
+    "Type": 1,
+    "Title": "The curious case of the disappearing Polish S (2015)",
+    "Url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
+    "Description": "The curious case of the disappearing Polish S (2015)",
+    "Metadata": {
+      "score": "178",
+      "author": "colinprince",
+      "commentCount": "46"
+    },
+    "FetchedAt": "2026-06-28T19:05:59.7550889+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48709186"
+    },
+    "Type": 1,
+    "Title": "Show HN: DRM-Free Books",
+    "Url": "https://frequal.com/Perspectives/DrmFreeAuthors.html",
+    "Description": "After several years of mandatory DRM lockdowns from most commercial book sources, now authors have a choice when it comes to DRM for their books.  Pick authors and books that are DRM-free, or download DRM-free classics that are out of copyright.\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;frequal.com\u0026#x2F;Perspectives\u0026#x2F;DrmFreeAuthors.html\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;frequal.com\u0026#x2F;Perspectives\u0026#x2F;DrmFreeAuthors.html\u003C/a\u003E",
+    "Metadata": {
+      "score": "19",
+      "author": "TeaVMFan",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-06-28T19:05:59.7861709+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48707719"
+    },
+    "Type": 1,
+    "Title": "EU to legislate about Chat Control behind closed doors",
+    "Url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+    "Description": "EU to legislate about Chat Control behind closed doors",
+    "Metadata": {
+      "score": "400",
+      "author": "NeutralForest",
+      "commentCount": "229"
+    },
+    "FetchedAt": "2026-06-28T19:05:59.8168987+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48707769"
+    },
+    "Type": 1,
+    "Title": "Michigan bill would bar employers from requiring after-hours coms with workers",
+    "Url": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/",
+    "Description": "Michigan bill would bar employers from requiring after-hours coms with workers",
+    "Metadata": {
+      "score": "173",
+      "author": "cebert",
+      "commentCount": "105"
+    },
+    "FetchedAt": "2026-06-28T19:05:59.8475477+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48703759"
+    },
+    "Type": 1,
+    "Title": "Marfa Public Radio Puts You to Sleep",
+    "Url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+    "Description": "Marfa Public Radio Puts You to Sleep",
+    "Metadata": {
+      "score": "366",
+      "author": "reaperducer",
+      "commentCount": "111"
+    },
+    "FetchedAt": "2026-06-28T19:05:59.9081262+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48708496"
+    },
+    "Type": 1,
+    "Title": "Programmable Probabilistic Computer with 1M p-bits",
+    "Url": "https://arxiv.org/abs/2606.25313",
+    "Description": "Programmable Probabilistic Computer with 1M p-bits",
+    "Metadata": {
+      "score": "17",
+      "author": "rbanffy",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-28T19:05:59.9422269+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48674006"
+    },
+    "Type": 1,
+    "Title": "Build Yourself Flowers",
+    "Url": "https://vickiboykis.com/2026/04/20/build-yourself-flowers/",
+    "Description": "Build Yourself Flowers",
+    "Metadata": {
+      "score": "107",
+      "author": "surprisetalk",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-06-28T19:05:59.9811063+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48707673"
+    },
+    "Type": 1,
+    "Title": "Flock cameras track more than your license plate, and they\u0027re spreading fast",
+    "Url": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
+    "Description": "Flock cameras track more than your license plate, and they\u0027re spreading fast",
+    "Metadata": {
+      "score": "284",
+      "author": "SanjayMehta",
+      "commentCount": "201"
+    },
+    "FetchedAt": "2026-06-28T19:06:00.0208369+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48682979"
+    },
+    "Type": 1,
+    "Title": "Linux Kills Strncpy",
+    "Url": "https://smist08.wordpress.com/2026/06/25/linux-kills-strncpy/",
+    "Description": "Linux Kills Strncpy",
+    "Metadata": {
+      "score": "6",
+      "author": "ingve",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-28T19:06:00.0531558+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48708139"
+    },
+    "Type": 1,
+    "Title": "California legislature agrees to upload driver\u0027s licenses to national database",
+    "Url": "https://papersplease.org/wp/2026/06/27/california-legislature-agrees-to-upload-drivers-licenses-to-national-database/",
+    "Description": "California legislature agrees to upload driver\u0027s licenses to national database",
+    "Metadata": {
+      "score": "78",
+      "author": "iamnothere",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-06-28T19:06:00.0963773+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48705910"
+    },
+    "Type": 1,
+    "Title": "DLL that was not present in memory despite not being formally unloaded",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
+    "Description": "DLL that was not present in memory despite not being formally unloaded",
+    "Metadata": {
+      "score": "104",
+      "author": "ibobev",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-06-28T19:06:00.1370729+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48706796"
+    },
+    "Type": 1,
+    "Title": "The MUMPS 76 Primer \u2013 anniversary edition",
+    "Url": "https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc",
+    "Description": "The MUMPS 76 Primer \u2013 anniversary edition",
+    "Metadata": {
+      "score": "52",
+      "author": "Rochus",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-06-28T19:06:00.1685042+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48674290"
+    },
+    "Type": 1,
+    "Title": "Do Babies Dream of Baby Sheep?",
+    "Url": "https://devz.cl/posts/do-babies-dream-of-electric-sheep/",
+    "Description": "Do Babies Dream of Baby Sheep?",
+    "Metadata": {
+      "score": "91",
+      "author": "DanielVZ",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-06-28T19:06:00.1999625+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48707103"
+    },
+    "Type": 1,
+    "Title": "Google limits Meta\u0027s use of its Gemini AI models",
+    "Url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+    "Description": "Google limits Meta\u0027s use of its Gemini AI models",
+    "Metadata": {
+      "score": "123",
+      "author": "root-parent",
+      "commentCount": "57"
+    },
+    "FetchedAt": "2026-06-28T19:06:00.2313841+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48670579"
+    },
+    "Type": 1,
+    "Title": "Bringing Swift to the Apple ][",
+    "Url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
+    "Description": "Bringing Swift to the Apple ][",
+    "Metadata": {
+      "score": "51",
+      "author": "LucidLynx",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-06-28T19:06:00.2626933+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48698617"
+    },
+    "Type": 1,
+    "Title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+    "Url": "https://github.com/bikini/exploitarium",
+    "Description": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+    "Metadata": {
+      "score": "916",
+      "author": "binyu",
+      "commentCount": "361"
+    },
+    "FetchedAt": "2026-06-28T19:06:00.2938169+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48703258"
+    },
+    "Type": 1,
+    "Title": "AMD Strix Halo RDMA Cluster Setup Guide",
+    "Url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+    "Description": "AMD Strix Halo RDMA Cluster Setup Guide",
+    "Metadata": {
+      "score": "214",
+      "author": "jakogut",
+      "commentCount": "69"
+    },
+    "FetchedAt": "2026-06-28T19:06:00.3254455+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48702273"
+    },
+    "Type": 1,
+    "Title": "Choosing a Public DNS Resolver",
+    "Url": "https://evilbit.de/dns-resolver-guide.html",
+    "Description": "Choosing a Public DNS Resolver",
+    "Metadata": {
+      "score": "259",
+      "author": "pawal",
+      "commentCount": "112"
+    },
+    "FetchedAt": "2026-06-28T19:06:00.3562367+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48704454"
+    },
+    "Type": 1,
+    "Title": "Bashblog \u2013 a single bash script to create blogs",
+    "Url": "https://github.com/cfenollosa/bashblog",
+    "Description": "Bashblog \u2013 a single bash script to create blogs",
+    "Metadata": {
+      "score": "101",
+      "author": "ludicrousdispla",
+      "commentCount": "74"
+    },
+    "FetchedAt": "2026-06-28T19:06:00.3867586+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48690481"
+    },
+    "Type": 1,
+    "Title": "Designing a Personal Pebble Watchface",
+    "Url": "https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/",
+    "Description": "Designing a Personal Pebble Watchface",
+    "Metadata": {
+      "score": "27",
+      "author": "lawn",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-06-28T19:06:00.4188686+00:00"
   }
 ]
