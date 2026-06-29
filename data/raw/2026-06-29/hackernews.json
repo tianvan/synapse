@@ -1,96 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:48709670"
-    },
-    "Type": 1,
-    "Title": "GLM 5.2 beats Claude in our benchmarks",
-    "Url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-    "Description": "GLM 5.2 beats Claude in our benchmarks",
-    "Metadata": {
-      "score": "489",
-      "author": "jms703",
-      "commentCount": "240"
-    },
-    "FetchedAt": "2026-06-29T02:44:52.3762898+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48710092"
-    },
-    "Type": 1,
-    "Title": "Historical memory prices 1960-2026",
-    "Url": "https://dam.stanford.edu/memory-prices.html",
-    "Description": "Historical memory prices 1960-2026",
-    "Metadata": {
-      "score": "175",
-      "author": "vga1",
-      "commentCount": "73"
-    },
-    "FetchedAt": "2026-06-29T02:44:52.410992+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48707763"
-    },
-    "Type": 1,
-    "Title": "5k menus from the New York Public Library\u2019s Buttolph Collection (1880-1920)",
-    "Url": "https://pudding.cool/2026/06/menu-story/",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;pudding.cool\u0026#x2F;2026\u0026#x2F;06\u0026#x2F;menu-collection\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;pudding.cool\u0026#x2F;2026\u0026#x2F;06\u0026#x2F;menu-collection\u0026#x2F;\u003C/a\u003E",
-    "Metadata": {
-      "score": "331",
-      "author": "xbryanx",
-      "commentCount": "86"
-    },
-    "FetchedAt": "2026-06-29T02:44:52.4454097+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48712420"
-    },
-    "Type": 1,
-    "Title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
-    "Url": "https://arxiv.org/abs/2401.07013",
-    "Description": "Knowledge Distillation of Black-Box Large Language Models (2024)",
-    "Metadata": {
-      "score": "56",
-      "author": "babelfish",
-      "commentCount": "12"
-    },
-    "FetchedAt": "2026-06-29T02:44:52.4805535+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48708941"
-    },
-    "Type": 1,
-    "Title": "I used Claude Code to get a second opinion on my MRI",
-    "Url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-    "Description": "I used Claude Code to get a second opinion on my MRI",
-    "Metadata": {
-      "score": "359",
-      "author": "engmarketer",
-      "commentCount": "465"
-    },
-    "FetchedAt": "2026-06-29T02:44:52.516586+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48657131"
-    },
-    "Type": 1,
-    "Title": "Deciphering Basmala",
-    "Url": "https://blog.plover.com/lang/bismillah.html",
-    "Description": "Deciphering Basmala",
-    "Metadata": {
-      "score": "17",
-      "author": "lordgrenville",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-06-29T02:44:52.5513957+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48713051"
     },
     "Type": 1,
@@ -118,141 +28,6 @@
       "commentCount": "17"
     },
     "FetchedAt": "2026-06-29T02:44:52.6224423+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48710775"
-    },
-    "Type": 1,
-    "Title": "TOP500 at ISC\u201926: We have a New Number 1 Supercomputer",
-    "Url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
-    "Description": "TOP500 at ISC\u201926: We have a New Number 1 Supercomputer",
-    "Metadata": {
-      "score": "77",
-      "author": "rbanffy",
-      "commentCount": "37"
-    },
-    "FetchedAt": "2026-06-29T02:44:52.6574597+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48675295"
-    },
-    "Type": 1,
-    "Title": "The Boeing 747 begins its final descent",
-    "Url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
-    "Description": "The Boeing 747 begins its final descent",
-    "Metadata": {
-      "score": "145",
-      "author": "dbl000",
-      "commentCount": "200"
-    },
-    "FetchedAt": "2026-06-29T02:44:52.6925204+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48708182"
-    },
-    "Type": 1,
-    "Title": "Show HN: Zanagrams",
-    "Url": "https://zanagrams.com/",
-    "Description": "Show HN: Zanagrams",
-    "Metadata": {
-      "score": "187",
-      "author": "pompomsheep",
-      "commentCount": "53"
-    },
-    "FetchedAt": "2026-06-29T02:44:52.7294877+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48710232"
-    },
-    "Type": 1,
-    "Title": "Librepods: AirPods liberated",
-    "Url": "https://github.com/librepods-org/librepods",
-    "Description": "Librepods: AirPods liberated",
-    "Metadata": {
-      "score": "293",
-      "author": "rbanffy",
-      "commentCount": "89"
-    },
-    "FetchedAt": "2026-06-29T02:44:52.7653782+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48708991"
-    },
-    "Type": 1,
-    "Title": "Professor denounces mass AI fraud on an exam at Brown",
-    "Url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-    "Description": "Professor denounces mass AI fraud on an exam at Brown",
-    "Metadata": {
-      "score": "290",
-      "author": "geox",
-      "commentCount": "395"
-    },
-    "FetchedAt": "2026-06-29T02:44:52.7998981+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48709187"
-    },
-    "Type": 1,
-    "Title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
-    "Url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
-    "Description": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
-    "Metadata": {
-      "score": "94",
-      "author": "zdw",
-      "commentCount": "21"
-    },
-    "FetchedAt": "2026-06-29T02:44:52.835883+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48708859"
-    },
-    "Type": 1,
-    "Title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
-    "Url": "https://www.openculture.com/2020/10/daisugi.html",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;x.com\u0026#x2F;wrathofgnon\u0026#x2F;status\u0026#x2F;1250287741247426565\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;x.com\u0026#x2F;wrathofgnon\u0026#x2F;status\u0026#x2F;1250287741247426565\u003C/a\u003E, \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;wrathofgnon\u0026#x2F;status\u0026#x2F;1250287741247426565\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;wrathofgnon\u0026#x2F;status\u0026#x2F;1250287741247426565\u003C/a\u003E",
-    "Metadata": {
-      "score": "112",
-      "author": "MaysonL",
-      "commentCount": "36"
-    },
-    "FetchedAt": "2026-06-29T02:44:52.8719221+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48708795"
-    },
-    "Type": 1,
-    "Title": "Tokenmaxxing is dead, long live tokenmaxxing",
-    "Url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
-    "Description": "Tokenmaxxing is dead, long live tokenmaxxing",
-    "Metadata": {
-      "score": "115",
-      "author": "theahura",
-      "commentCount": "142"
-    },
-    "FetchedAt": "2026-06-29T02:44:52.9078184+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48684315"
-    },
-    "Type": 1,
-    "Title": "The Baffling World of Masayoshi Son\u0027s Presentations",
-    "Url": "https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son",
-    "Description": "The Baffling World of Masayoshi Son\u0027s Presentations",
-    "Metadata": {
-      "score": "17",
-      "author": "phaser",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-06-29T02:44:52.94276+00:00"
   },
   {
     "ExternalId": {
@@ -316,66 +91,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48706714"
-    },
-    "Type": 1,
-    "Title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-    "Url": "https://github.com/openai/codex/issues/2847",
-    "Description": "A way to exclude sensitive files issue still open for OpenAI Codex",
-    "Metadata": {
-      "score": "179",
-      "author": "pikseladam",
-      "commentCount": "120"
-    },
-    "FetchedAt": "2026-06-29T02:44:53.1175438+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48708700"
-    },
-    "Type": 1,
-    "Title": "Examining circuit boards from the Space Shuttle\u0027s I/O Processor",
-    "Url": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
-    "Description": "Examining circuit boards from the Space Shuttle\u0027s I/O Processor",
-    "Metadata": {
-      "score": "86",
-      "author": "pwg",
-      "commentCount": "20"
-    },
-    "FetchedAt": "2026-06-29T02:44:53.1524257+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48706560"
-    },
-    "Type": 1,
-    "Title": "The KIDS Act would require age checks to get online",
-    "Url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
-    "Description": "The KIDS Act would require age checks to get online",
-    "Metadata": {
-      "score": "326",
-      "author": "bilsbie",
-      "commentCount": "280"
-    },
-    "FetchedAt": "2026-06-29T02:44:53.1876314+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48673450"
-    },
-    "Type": 1,
-    "Title": "Model Training as Code",
-    "Url": "https://aleph-alpha.com/en/blog/model-training-as-code/",
-    "Description": "Model Training as Code",
-    "Metadata": {
-      "score": "21",
-      "author": "peterBlue75",
-      "commentCount": "7"
-    },
-    "FetchedAt": "2026-06-29T02:44:53.2257322+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48706814"
     },
     "Type": 1,
@@ -436,6 +151,426 @@
   },
   {
     "ExternalId": {
+      "Value": "hn:48713832"
+    },
+    "Type": 1,
+    "Title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
+    "Url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+    "Description": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
+    "Metadata": {
+      "score": "461",
+      "author": "sambellll",
+      "commentCount": "175"
+    },
+    "FetchedAt": "2026-06-29T10:27:25.7373802+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48709670"
+    },
+    "Type": 1,
+    "Title": "GLM 5.2 beats Claude in our benchmarks",
+    "Url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "Description": "GLM 5.2 beats Claude in our benchmarks",
+    "Metadata": {
+      "score": "862",
+      "author": "jms703",
+      "commentCount": "401"
+    },
+    "FetchedAt": "2026-06-29T10:27:25.7525835+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48708644"
+    },
+    "Type": 1,
+    "Title": "Dissecting Apple\u0027s Sparse Image Format (ASIF)",
+    "Url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
+    "Description": "Dissecting Apple\u0027s Sparse Image Format (ASIF)",
+    "Metadata": {
+      "score": "84",
+      "author": "supermatou",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-06-29T10:27:25.7672418+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48662018"
+    },
+    "Type": 1,
+    "Title": "NUMA: Cores, memory, and the distance between them",
+    "Url": "https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them",
+    "Description": "NUMA: Cores, memory, and the distance between them",
+    "Metadata": {
+      "score": "29",
+      "author": "sys_call",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-06-29T10:27:25.780762+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48716902"
+    },
+    "Type": 1,
+    "Title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
+    "Url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+    "Description": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
+    "Metadata": {
+      "score": "65",
+      "author": "taubek",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-06-29T10:27:25.7941393+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48714529"
+    },
+    "Type": 1,
+    "Title": "Age verification is just a precursor to automated attribution of speech",
+    "Url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+    "Description": "Age verification is just a precursor to automated attribution of speech",
+    "Metadata": {
+      "score": "505",
+      "author": "arkhiver",
+      "commentCount": "282"
+    },
+    "FetchedAt": "2026-06-29T10:27:25.8078025+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48710092"
+    },
+    "Type": 1,
+    "Title": "Historical memory prices 1960-2026",
+    "Url": "https://dam.stanford.edu/memory-prices.html",
+    "Description": "Historical memory prices 1960-2026",
+    "Metadata": {
+      "score": "306",
+      "author": "vga1",
+      "commentCount": "111"
+    },
+    "FetchedAt": "2026-06-29T10:27:25.8210832+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48670314"
+    },
+    "Type": 1,
+    "Title": "We found a bug in the hyper HTTP library",
+    "Url": "https://blog.cloudflare.com/hyper-bug/",
+    "Description": "We found a bug in the hyper HTTP library",
+    "Metadata": {
+      "score": "59",
+      "author": "Pop_-",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-06-29T10:27:25.8348014+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48707763"
+    },
+    "Type": 1,
+    "Title": "5k menus from the New York Public Library\u2019s Buttolph Collection (1880-1920)",
+    "Url": "https://pudding.cool/2026/06/menu-story/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;pudding.cool\u0026#x2F;2026\u0026#x2F;06\u0026#x2F;menu-collection\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;pudding.cool\u0026#x2F;2026\u0026#x2F;06\u0026#x2F;menu-collection\u0026#x2F;\u003C/a\u003E",
+    "Metadata": {
+      "score": "371",
+      "author": "xbryanx",
+      "commentCount": "96"
+    },
+    "FetchedAt": "2026-06-29T10:27:25.8487965+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48708941"
+    },
+    "Type": 1,
+    "Title": "I used Claude Code to get a second opinion on my MRI",
+    "Url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+    "Description": "I used Claude Code to get a second opinion on my MRI",
+    "Metadata": {
+      "score": "437",
+      "author": "engmarketer",
+      "commentCount": "575"
+    },
+    "FetchedAt": "2026-06-29T10:27:25.8624752+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48716634"
+    },
+    "Type": 1,
+    "Title": "Why did this journal retract two 1940s papers by Max Planck?",
+    "Url": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
+    "Description": "Why did this journal retract two 1940s papers by Max Planck?",
+    "Metadata": {
+      "score": "126",
+      "author": "DR_MING",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-06-29T10:27:25.8761019+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48714802"
+    },
+    "Type": 1,
+    "Title": "Herdr: Agent multiplexer that lives in your terminal",
+    "Url": "https://github.com/ogulcancelik/herdr",
+    "Description": "Herdr: Agent multiplexer that lives in your terminal",
+    "Metadata": {
+      "score": "69",
+      "author": "mzehrer",
+      "commentCount": "40"
+    },
+    "FetchedAt": "2026-06-29T10:27:25.8902363+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48712420"
+    },
+    "Type": 1,
+    "Title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+    "Url": "https://arxiv.org/abs/2401.07013",
+    "Description": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+    "Metadata": {
+      "score": "101",
+      "author": "babelfish",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-06-29T10:27:25.9048605+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48657131"
+    },
+    "Type": 1,
+    "Title": "Deciphering basmala",
+    "Url": "https://blog.plover.com/lang/bismillah.html",
+    "Description": "Deciphering basmala",
+    "Metadata": {
+      "score": "69",
+      "author": "lordgrenville",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-06-29T10:27:25.9194643+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48708182"
+    },
+    "Type": 1,
+    "Title": "Show HN: Zanagrams",
+    "Url": "https://zanagrams.com/",
+    "Description": "Show HN: Zanagrams",
+    "Metadata": {
+      "score": "290",
+      "author": "pompomsheep",
+      "commentCount": "65"
+    },
+    "FetchedAt": "2026-06-29T10:27:25.9330002+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48708795"
+    },
+    "Type": 1,
+    "Title": "Tokenmaxxing is dead, long live tokenmaxxing",
+    "Url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
+    "Description": "Tokenmaxxing is dead, long live tokenmaxxing",
+    "Metadata": {
+      "score": "153",
+      "author": "theahura",
+      "commentCount": "208"
+    },
+    "FetchedAt": "2026-06-29T10:27:25.9476544+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48706560"
+    },
+    "Type": 1,
+    "Title": "The KIDS Act would require age checks to get online",
+    "Url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;act.eff.org\u0026#x2F;action\u0026#x2F;tell-congress-don-t-force-age-checks-online\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;act.eff.org\u0026#x2F;action\u0026#x2F;tell-congress-don-t-force-age-che...\u003C/a\u003E",
+    "Metadata": {
+      "score": "494",
+      "author": "bilsbie",
+      "commentCount": "393"
+    },
+    "FetchedAt": "2026-06-29T10:27:25.9609996+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48710775"
+    },
+    "Type": 1,
+    "Title": "TOP500 at ISC\u201926: We have a New Number 1 Supercomputer",
+    "Url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+    "Description": "TOP500 at ISC\u201926: We have a New Number 1 Supercomputer",
+    "Metadata": {
+      "score": "111",
+      "author": "rbanffy",
+      "commentCount": "69"
+    },
+    "FetchedAt": "2026-06-29T10:27:25.9748446+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48708991"
+    },
+    "Type": 1,
+    "Title": "Professor denounces mass AI fraud on an exam at Brown",
+    "Url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+    "Description": "Professor denounces mass AI fraud on an exam at Brown",
+    "Metadata": {
+      "score": "412",
+      "author": "geox",
+      "commentCount": "547"
+    },
+    "FetchedAt": "2026-06-29T10:27:25.9885941+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48709187"
+    },
+    "Type": 1,
+    "Title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+    "Url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+    "Description": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+    "Metadata": {
+      "score": "125",
+      "author": "zdw",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-06-29T10:27:26.002693+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48684315"
+    },
+    "Type": 1,
+    "Title": "The Baffling World of Masayoshi Son\u0027s Presentations (2020)",
+    "Url": "https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;HN8KZ\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;HN8KZ\u003C/a\u003E",
+    "Metadata": {
+      "score": "67",
+      "author": "phaser",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-06-29T10:27:26.0162625+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48665988"
+    },
+    "Type": 1,
+    "Title": "The Forgotten Castles of the Garamantes",
+    "Url": "https://www.wildmanlife.com/the-forgotten-castles-of-the-garamantes/",
+    "Description": "The Forgotten Castles of the Garamantes",
+    "Metadata": {
+      "score": "28",
+      "author": "bookofjoe",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-06-29T10:27:26.0301458+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48675295"
+    },
+    "Type": 1,
+    "Title": "The Boeing 747 begins its final descent",
+    "Url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
+    "Description": "The Boeing 747 begins its final descent",
+    "Metadata": {
+      "score": "191",
+      "author": "dbl000",
+      "commentCount": "277"
+    },
+    "FetchedAt": "2026-06-29T10:27:26.0437272+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48673450"
+    },
+    "Type": 1,
+    "Title": "Model Training as Code",
+    "Url": "https://aleph-alpha.com/en/blog/model-training-as-code/",
+    "Description": "Model Training as Code",
+    "Metadata": {
+      "score": "157",
+      "author": "peterBlue75",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-06-29T10:27:26.0570707+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48710232"
+    },
+    "Type": 1,
+    "Title": "Librepods: AirPods liberated",
+    "Url": "https://github.com/librepods-org/librepods",
+    "Description": "Librepods: AirPods liberated",
+    "Metadata": {
+      "score": "399",
+      "author": "rbanffy",
+      "commentCount": "132"
+    },
+    "FetchedAt": "2026-06-29T10:27:26.072434+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48658564"
+    },
+    "Type": 1,
+    "Title": "Let\u0027s Decode the Mystery Bytes [video]",
+    "Url": "https://www.youtube.com/watch?v=GZqB4D_Do38",
+    "Description": "Let\u0027s Decode the Mystery Bytes [video]",
+    "Metadata": {
+      "score": "5",
+      "author": "surprisetalk",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-29T10:27:26.0864509+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48708859"
+    },
+    "Type": 1,
+    "Title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+    "Url": "https://www.openculture.com/2020/10/daisugi.html",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;x.com\u0026#x2F;wrathofgnon\u0026#x2F;status\u0026#x2F;1250287741247426565\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;x.com\u0026#x2F;wrathofgnon\u0026#x2F;status\u0026#x2F;1250287741247426565\u003C/a\u003E, \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;wrathofgnon\u0026#x2F;status\u0026#x2F;1250287741247426565\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;wrathofgnon\u0026#x2F;status\u0026#x2F;1250287741247426565\u003C/a\u003E",
+    "Metadata": {
+      "score": "142",
+      "author": "MaysonL",
+      "commentCount": "47"
+    },
+    "FetchedAt": "2026-06-29T10:27:26.1000684+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48706714"
+    },
+    "Type": 1,
+    "Title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+    "Url": "https://github.com/openai/codex/issues/2847",
+    "Description": "A way to exclude sensitive files issue still open for OpenAI Codex",
+    "Metadata": {
+      "score": "208",
+      "author": "pikseladam",
+      "commentCount": "133"
+    },
+    "FetchedAt": "2026-06-29T10:27:26.1139309+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "hn:48706554"
     },
     "Type": 1,
@@ -443,10 +578,25 @@
     "Url": "https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645",
     "Description": "More evidence is consistent with possible ancient life on Mars (2025)",
     "Metadata": {
-      "score": "64",
+      "score": "90",
       "author": "pseudolus",
-      "commentCount": "72"
+      "commentCount": "92"
     },
-    "FetchedAt": "2026-06-29T02:44:53.4022617+00:00"
+    "FetchedAt": "2026-06-29T10:27:26.1272176+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48708700"
+    },
+    "Type": 1,
+    "Title": "Examining circuit boards from the Space Shuttle\u0027s I/O Processor",
+    "Url": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
+    "Description": "Examining circuit boards from the Space Shuttle\u0027s I/O Processor",
+    "Metadata": {
+      "score": "110",
+      "author": "pwg",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-06-29T10:27:26.1418769+00:00"
   }
 ]
