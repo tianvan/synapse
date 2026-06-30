@@ -1,111 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:48724230"
-    },
-    "Type": 1,
-    "Title": ".self: A new top-level domain designed to support self-hosting",
-    "Url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-    "Description": ".self: A new top-level domain designed to support self-hosting",
-    "Metadata": {
-      "score": "355",
-      "author": "HumanCCF",
-      "commentCount": "199"
-    },
-    "FetchedAt": "2026-06-30T02:39:23.5732042+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48721903"
-    },
-    "Type": 1,
-    "Title": "Qwen 3.6 27B is the sweet spot for local development",
-    "Url": "https://quesma.com/blog/qwen-36-is-awesome/",
-    "Description": "Qwen 3.6 27B is the sweet spot for local development",
-    "Metadata": {
-      "score": "630",
-      "author": "stared",
-      "commentCount": "524"
-    },
-    "FetchedAt": "2026-06-30T02:39:23.6330691+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48698908"
-    },
-    "Type": 1,
-    "Title": "Free the Icons",
-    "Url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
-    "Description": "Free the Icons",
-    "Metadata": {
-      "score": "237",
-      "author": "zdw",
-      "commentCount": "65"
-    },
-    "FetchedAt": "2026-06-30T02:39:23.714749+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48727177"
-    },
-    "Type": 1,
-    "Title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
-    "Url": "https://fil-c.org/context_switches",
-    "Description": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
-    "Metadata": {
-      "score": "37",
-      "author": "modeless",
-      "commentCount": "15"
-    },
-    "FetchedAt": "2026-06-30T02:39:23.7991679+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48727323"
-    },
-    "Type": 1,
-    "Title": "Exploring PDP-1 Lisp (1960)",
-    "Url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-    "Description": "Exploring PDP-1 Lisp (1960)",
-    "Metadata": {
-      "score": "17",
-      "author": "ozymandiax",
-      "commentCount": "12"
-    },
-    "FetchedAt": "2026-06-30T02:39:23.8574975+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48727116"
-    },
-    "Type": 1,
-    "Title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
-    "Url": "https://longcat.chat/blog/longcat-2.0/",
-    "Description": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
-    "Metadata": {
-      "score": "30",
-      "author": "benjiro29",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-06-30T02:39:23.9179659+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48719485"
-    },
-    "Type": 1,
-    "Title": "Rocketlab acquires Iridium",
-    "Url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-    "Description": "Rocketlab acquires Iridium",
-    "Metadata": {
-      "score": "374",
-      "author": "everfrustrated",
-      "commentCount": "231"
-    },
-    "FetchedAt": "2026-06-30T02:39:23.976577+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48727538"
     },
     "Type": 1,
@@ -136,156 +31,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48722052"
-    },
-    "Type": 1,
-    "Title": "Ornith-1.0: self-improving open-source models for agentic coding",
-    "Url": "https://github.com/deepreinforce-ai/Ornith-1",
-    "Description": "Ornith-1.0: self-improving open-source models for agentic coding",
-    "Metadata": {
-      "score": "161",
-      "author": "danboarder",
-      "commentCount": "32"
-    },
-    "FetchedAt": "2026-06-30T02:39:24.1527395+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48720758"
-    },
-    "Type": 1,
-    "Title": "A native graphical shell for SSH",
-    "Url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-    "Description": "A native graphical shell for SSH",
-    "Metadata": {
-      "score": "254",
-      "author": "mrcslws",
-      "commentCount": "118"
-    },
-    "FetchedAt": "2026-06-30T02:39:24.2103083+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48720924"
-    },
-    "Type": 1,
-    "Title": "US Supreme Court rules geofence warrants require constitutional protections",
-    "Url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-    "Description": "US Supreme Court rules geofence warrants require constitutional protections",
-    "Metadata": {
-      "score": "459",
-      "author": "cdrnsf",
-      "commentCount": "215"
-    },
-    "FetchedAt": "2026-06-30T02:39:24.2678623+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48711981"
-    },
-    "Type": 1,
-    "Title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
-    "Url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
-    "Description": "30-year sentence for transporting zines is a five-alarm fire for free speech",
-    "Metadata": {
-      "score": "345",
-      "author": "xrd",
-      "commentCount": "195"
-    },
-    "FetchedAt": "2026-06-30T02:39:24.5082998+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48726102"
-    },
-    "Type": 1,
-    "Title": "South Korea to spend $1T on more memory chip production and humanoid robots",
-    "Url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-    "Description": "South Korea to spend $1T on more memory chip production and humanoid robots",
-    "Metadata": {
-      "score": "134",
-      "author": "jnord",
-      "commentCount": "80"
-    },
-    "FetchedAt": "2026-06-30T02:39:24.721085+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48702825"
-    },
-    "Type": 1,
-    "Title": "Apple Neural Engine: Architecture, Programming, and Performance",
-    "Url": "https://arxiv.org/abs/2606.22283",
-    "Description": "Apple Neural Engine: Architecture, Programming, and Performance",
-    "Metadata": {
-      "score": "128",
-      "author": "Jimmc414",
-      "commentCount": "18"
-    },
-    "FetchedAt": "2026-06-30T02:39:24.7797159+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48706389"
-    },
-    "Type": 1,
-    "Title": "One million passports leaked online",
-    "Url": "https://cambridgeanalytica.org/data-breaches-scandals/passports-driver-licenses-exposed-public-internet-2026-51096/",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.theverge.com\u0026#x2F;tech\u0026#x2F;947157\u0026#x2F;passports-data-breach-cannabis-club-systems-nefos-puffpal\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.theverge.com\u0026#x2F;tech\u0026#x2F;947157\u0026#x2F;passports-data-breach-c...\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.schneier.com\u0026#x2F;blog\u0026#x2F;archives\u0026#x2F;2026\u0026#x2F;06\u0026#x2F;one-million-passports-leaked-online.html\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.schneier.com\u0026#x2F;blog\u0026#x2F;archives\u0026#x2F;2026\u0026#x2F;06\u0026#x2F;one-million-p...\u003C/a\u003E",
-    "Metadata": {
-      "score": "154",
-      "author": "jruohonen",
-      "commentCount": "87"
-    },
-    "FetchedAt": "2026-06-30T02:39:24.8382077+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48683475"
-    },
-    "Type": 1,
-    "Title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
-    "Url": "https://lucassifoni.info/blog/hiking-with-wallace/",
-    "Description": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
-    "Metadata": {
-      "score": "117",
-      "author": "chantepierre",
-      "commentCount": "20"
-    },
-    "FetchedAt": "2026-06-30T02:39:24.8972583+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48720190"
-    },
-    "Type": 1,
-    "Title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
-    "Url": "https://humphri.es/blog/WATaBoy/",
-    "Description": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
-    "Metadata": {
-      "score": "180",
-      "author": "energeticbark",
-      "commentCount": "29"
-    },
-    "FetchedAt": "2026-06-30T02:39:24.9564524+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48697599"
-    },
-    "Type": 1,
-    "Title": "Kb \u2013 Prolog Knowledge Base",
-    "Url": "https://github.com/mat-mgm/kb-prolog",
-    "Description": "Kb \u2013 Prolog Knowledge Base",
-    "Metadata": {
-      "score": "30",
-      "author": "triska",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-06-30T02:39:25.0137616+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48687137"
     },
     "Type": 1,
@@ -298,36 +43,6 @@
       "commentCount": "3"
     },
     "FetchedAt": "2026-06-30T02:39:25.0719627+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48675653"
-    },
-    "Type": 1,
-    "Title": "Dark Sky Lighting",
-    "Url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
-    "Description": "Dark Sky Lighting",
-    "Metadata": {
-      "score": "166",
-      "author": "alexandrehtrb",
-      "commentCount": "30"
-    },
-    "FetchedAt": "2026-06-30T02:39:25.134218+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48718863"
-    },
-    "Type": 1,
-    "Title": "What happens when you run a CUDA kernel?",
-    "Url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-    "Description": "What happens when you run a CUDA kernel?",
-    "Metadata": {
-      "score": "214",
-      "author": "mezark",
-      "commentCount": "28"
-    },
-    "FetchedAt": "2026-06-30T02:39:25.1945675+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +163,455 @@
       "commentCount": "7"
     },
     "FetchedAt": "2026-06-30T02:39:25.665896+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48683098"
+    },
+    "Type": 1,
+    "Title": "Open Source Low Tech",
+    "Url": "https://opensourcelowtech.org/",
+    "Description": "Open Source Low Tech",
+    "Metadata": {
+      "score": "139",
+      "author": "grep_it",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-06-30T08:59:14.968647+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48721903"
+    },
+    "Type": 1,
+    "Title": "Qwen 3.6 27B is the sweet spot for local development",
+    "Url": "https://quesma.com/blog/qwen-36-is-awesome/",
+    "Description": "Qwen 3.6 27B is the sweet spot for local development",
+    "Metadata": {
+      "score": "899",
+      "author": "stared",
+      "commentCount": "607"
+    },
+    "FetchedAt": "2026-06-30T08:59:15.0766192+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48724230"
+    },
+    "Type": 1,
+    "Title": ".self: A new top-level domain designed to support self-hosting",
+    "Url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+    "Description": ".self: A new top-level domain designed to support self-hosting",
+    "Metadata": {
+      "score": "500",
+      "author": "HumanCCF",
+      "commentCount": "281"
+    },
+    "FetchedAt": "2026-06-30T08:59:15.1207028+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48698908"
+    },
+    "Type": 1,
+    "Title": "Free the Icons",
+    "Url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+    "Description": "Free the Icons",
+    "Metadata": {
+      "score": "439",
+      "author": "zdw",
+      "commentCount": "123"
+    },
+    "FetchedAt": "2026-06-30T08:59:15.1649758+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48727177"
+    },
+    "Type": 1,
+    "Title": "Memory Safe Context Switching",
+    "Url": "https://fil-c.org/context_switches",
+    "Description": "Memory Safe Context Switching",
+    "Metadata": {
+      "score": "122",
+      "author": "modeless",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-06-30T08:59:15.2096504+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48727116"
+    },
+    "Type": 1,
+    "Title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+    "Url": "https://longcat.chat/blog/longcat-2.0/",
+    "Description": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+    "Metadata": {
+      "score": "137",
+      "author": "benjiro29",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-06-30T08:59:15.2541701+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48727323"
+    },
+    "Type": 1,
+    "Title": "Exploring PDP-1 Lisp (1960)",
+    "Url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+    "Description": "Exploring PDP-1 Lisp (1960)",
+    "Metadata": {
+      "score": "68",
+      "author": "ozymandiax",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-06-30T08:59:15.2990741+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48719485"
+    },
+    "Type": 1,
+    "Title": "Rocketlab acquires Iridium",
+    "Url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+    "Description": "Rocketlab acquires Iridium",
+    "Metadata": {
+      "score": "407",
+      "author": "everfrustrated",
+      "commentCount": "270"
+    },
+    "FetchedAt": "2026-06-30T08:59:15.3428197+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48702320"
+    },
+    "Type": 1,
+    "Title": "Old Computer Challenge",
+    "Url": "http://occ.sdf.org/",
+    "Description": "Old Computer Challenge",
+    "Metadata": {
+      "score": "59",
+      "author": "wrxd",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-06-30T08:59:15.3868791+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48728740"
+    },
+    "Type": 1,
+    "Title": "US Supreme Court Just Blew Up EU-US Data Transfers",
+    "Url": "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers",
+    "Description": "US Supreme Court Just Blew Up EU-US Data Transfers",
+    "Metadata": {
+      "score": "149",
+      "author": "tomwas54",
+      "commentCount": "89"
+    },
+    "FetchedAt": "2026-06-30T08:59:15.4304458+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48728599"
+    },
+    "Type": 1,
+    "Title": "The end of the AArch64 desktop experiment",
+    "Url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+    "Description": "The end of the AArch64 desktop experiment",
+    "Metadata": {
+      "score": "32",
+      "author": "signa11",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-06-30T08:59:15.4746624+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48720186"
+    },
+    "Type": 1,
+    "Title": "Linux for the Sega MegaDrive",
+    "Url": "https://github.com/LinuxMD/linuxmd",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;hackaday.com\u0026#x2F;2026\u0026#x2F;06\u0026#x2F;29\u0026#x2F;its-linux-on-a-sega-megadrive\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;hackaday.com\u0026#x2F;2026\u0026#x2F;06\u0026#x2F;29\u0026#x2F;its-linux-on-a-sega-megadriv...\u003C/a\u003E",
+    "Metadata": {
+      "score": "99",
+      "author": "HardwareLust",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-06-30T08:59:15.5186815+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48722052"
+    },
+    "Type": 1,
+    "Title": "Ornith-1.0: self-improving open-source models for agentic coding",
+    "Url": "https://github.com/deepreinforce-ai/Ornith-1",
+    "Description": "Ornith-1.0: self-improving open-source models for agentic coding",
+    "Metadata": {
+      "score": "209",
+      "author": "danboarder",
+      "commentCount": "39"
+    },
+    "FetchedAt": "2026-06-30T08:59:15.5623149+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48698648"
+    },
+    "Type": 1,
+    "Title": "Logical Physical Clocks and Consistent Snapshots in Globally Distributed DB [pdf]",
+    "Url": "https://cse.buffalo.edu/tech-reports/2014-04.pdf",
+    "Description": "Logical Physical Clocks and Consistent Snapshots in Globally Distributed DB [pdf]",
+    "Metadata": {
+      "score": "5",
+      "author": "teleforce",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-06-30T08:59:15.6069135+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48728729"
+    },
+    "Type": 1,
+    "Title": "Popping the GPU Bubble",
+    "Url": "https://moondream.ai/blog/popping-the-gpu-bubble",
+    "Description": "Popping the GPU Bubble",
+    "Metadata": {
+      "score": "115",
+      "author": "radq",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-06-30T08:59:15.6516477+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48706389"
+    },
+    "Type": 1,
+    "Title": "One million passports leaked online",
+    "Url": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260617075233\u0026#x2F;https:\u0026#x2F;\u0026#x2F;www.theverge.com\u0026#x2F;tech\u0026#x2F;947157\u0026#x2F;passports-data-breach-cannabis-club-systems-nefos-puffpal\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260617075233\u0026#x2F;https:\u0026#x2F;\u0026#x2F;www.theve...\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;n2HnK\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;n2HnK\u003C/a\u003E",
+    "Metadata": {
+      "score": "256",
+      "author": "jruohonen",
+      "commentCount": "138"
+    },
+    "FetchedAt": "2026-06-30T08:59:15.6955198+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48720924"
+    },
+    "Type": 1,
+    "Title": "US Supreme Court rules geofence warrants require constitutional protections",
+    "Url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+    "Description": "US Supreme Court rules geofence warrants require constitutional protections",
+    "Metadata": {
+      "score": "517",
+      "author": "cdrnsf",
+      "commentCount": "244"
+    },
+    "FetchedAt": "2026-06-30T08:59:15.7392859+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48679809"
+    },
+    "Type": 1,
+    "Title": "Zig \u2013 SPIR-V Backend Progress",
+    "Url": "https://ziglang.org/devlog/2026/#2026-06-26",
+    "Description": "Zig \u2013 SPIR-V Backend Progress",
+    "Metadata": {
+      "score": "64",
+      "author": "Retro_Dev",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-06-30T08:59:15.7829514+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48689885"
+    },
+    "Type": 1,
+    "Title": "How to corrupt an SQLite database file",
+    "Url": "https://www.sqlite.org/howtocorrupt.html",
+    "Description": "How to corrupt an SQLite database file",
+    "Metadata": {
+      "score": "71",
+      "author": "tosh",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-06-30T08:59:15.8273549+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48698781"
+    },
+    "Type": 1,
+    "Title": "Alan Kay on the meaning of \u0022object-oriented programming\u0022 (2003)",
+    "Url": "https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/",
+    "Description": "Alan Kay on the meaning of \u0022object-oriented programming\u0022 (2003)",
+    "Metadata": {
+      "score": "62",
+      "author": "sxx0",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-06-30T08:59:15.8712411+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48702825"
+    },
+    "Type": 1,
+    "Title": "Apple Neural Engine: Architecture, Programming, and Performance",
+    "Url": "https://arxiv.org/abs/2606.22283",
+    "Description": "Apple Neural Engine: Architecture, Programming, and Performance",
+    "Metadata": {
+      "score": "166",
+      "author": "Jimmc414",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-06-30T08:59:15.9160464+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48675653"
+    },
+    "Type": 1,
+    "Title": "Dark Sky Lighting",
+    "Url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
+    "Description": "Dark Sky Lighting",
+    "Metadata": {
+      "score": "204",
+      "author": "alexandrehtrb",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-06-30T08:59:15.9824314+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48710325"
+    },
+    "Type": 1,
+    "Title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
+    "Url": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
+    "Description": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
+    "Metadata": {
+      "score": "32",
+      "author": "dang",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-06-30T08:59:16.0261141+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48720190"
+    },
+    "Type": 1,
+    "Title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+    "Url": "https://humphri.es/blog/WATaBoy/",
+    "Description": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+    "Metadata": {
+      "score": "203",
+      "author": "energeticbark",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-06-30T08:59:16.0697867+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48720758"
+    },
+    "Type": 1,
+    "Title": "A native graphical shell for SSH",
+    "Url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+    "Description": "A native graphical shell for SSH",
+    "Metadata": {
+      "score": "300",
+      "author": "mrcslws",
+      "commentCount": "163"
+    },
+    "FetchedAt": "2026-06-30T08:59:16.114386+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48718863"
+    },
+    "Type": 1,
+    "Title": "What happens when you run a CUDA kernel?",
+    "Url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+    "Description": "What happens when you run a CUDA kernel?",
+    "Metadata": {
+      "score": "254",
+      "author": "mezark",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-06-30T08:59:16.1582326+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48711981"
+    },
+    "Type": 1,
+    "Title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
+    "Url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
+    "Description": "30-year sentence for transporting zines is a five-alarm fire for free speech",
+    "Metadata": {
+      "score": "554",
+      "author": "xrd",
+      "commentCount": "336"
+    },
+    "FetchedAt": "2026-06-30T08:59:16.2018902+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48697599"
+    },
+    "Type": 1,
+    "Title": "Kb \u2013 Prolog Knowledge Base",
+    "Url": "https://github.com/mat-mgm/kb-prolog",
+    "Description": "Kb \u2013 Prolog Knowledge Base",
+    "Metadata": {
+      "score": "73",
+      "author": "triska",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-06-30T08:59:16.2458627+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48726102"
+    },
+    "Type": 1,
+    "Title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+    "Url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+    "Description": "South Korea to spend $1T on more memory chip production and humanoid robots",
+    "Metadata": {
+      "score": "222",
+      "author": "jnord",
+      "commentCount": "144"
+    },
+    "FetchedAt": "2026-06-30T08:59:16.289872+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48683475"
+    },
+    "Type": 1,
+    "Title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
+    "Url": "https://lucassifoni.info/blog/hiking-with-wallace/",
+    "Description": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
+    "Metadata": {
+      "score": "139",
+      "author": "chantepierre",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-06-30T08:59:16.3335257+00:00"
   }
 ]
