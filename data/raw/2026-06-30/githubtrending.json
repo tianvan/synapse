@@ -85,6 +85,23 @@
   },
   {
     "ExternalId": {
+      "Value": "github:hasaneyldrm/exercises-dataset"
+    },
+    "Type": 0,
+    "Title": "hasaneyldrm/exercises-dataset",
+    "Url": "https://github.com/hasaneyldrm/exercises-dataset",
+    "Description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+    "Metadata": {
+      "owner": "hasaneyldrm",
+      "repo": "exercises-dataset",
+      "language": "HTML",
+      "stars": "1,413",
+      "topics": "excercises, fitness, fitness-app"
+    },
+    "FetchedAt": "2026-06-30T19:44:48.3074845+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:usestrix/strix"
     },
     "Type": 0,
@@ -98,7 +115,7 @@
       "stars": "395",
       "topics": "agents, ai-hacking, ai-penetration-testing, ai-pentesting, ai-security, artificial-intelligence, bug-bounty, code-quality, ctf-tools, cybersecurity, cybersecurity-tools, ethical-hacking, hacking, llm-security, offensive-security, penetration-testing, pentesting-tools, red-teaming, security, security-automation"
     },
-    "FetchedAt": "2026-06-30T14:02:12.4865489+00:00"
+    "FetchedAt": "2026-06-30T19:44:48.5155352+00:00"
   },
   {
     "ExternalId": {
@@ -114,7 +131,7 @@
       "language": "Python",
       "stars": "722"
     },
-    "FetchedAt": "2026-06-30T14:02:12.8071728+00:00"
+    "FetchedAt": "2026-06-30T19:44:48.6580489+00:00"
   },
   {
     "ExternalId": {
@@ -131,7 +148,7 @@
       "stars": "966",
       "topics": "ai, ai-agent, anthropic, berkshire-hathaway, charlie-munger, china-stock, claude, claude-code, financial-analysis, fintech, fundamental-analysis, investment, investment-research, llm, mcp, portfolio-management, stock-analysis, stock-market, value-investing, warren-buffett"
     },
-    "FetchedAt": "2026-06-30T14:02:13.0691181+00:00"
+    "FetchedAt": "2026-06-30T19:44:48.8363701+00:00"
   },
   {
     "ExternalId": {
@@ -145,10 +162,10 @@
       "owner": "Mebus",
       "repo": "cupp",
       "language": "Python",
-      "stars": "18",
+      "stars": "61",
       "topics": "dictionary-attack, password, password-strength, weak-passwords, wordlist, wordlist-generator"
     },
-    "FetchedAt": "2026-06-30T14:02:13.307895+00:00"
+    "FetchedAt": "2026-06-30T19:44:48.9670062+00:00"
   },
   {
     "ExternalId": {
@@ -165,7 +182,7 @@
       "stars": "740",
       "topics": "awesome-list, free-for-developers"
     },
-    "FetchedAt": "2026-06-30T14:02:13.947676+00:00"
+    "FetchedAt": "2026-06-30T19:44:49.0953779+00:00"
   },
   {
     "ExternalId": {
@@ -182,7 +199,7 @@
       "stars": "433",
       "topics": "adk, agent-development-kit, agents, coding-agent, gemini, gemini-enterprise-agent-platform, generative-ai, google-cloud"
     },
-    "FetchedAt": "2026-06-30T14:02:14.1642037+00:00"
+    "FetchedAt": "2026-06-30T19:44:49.2405712+00:00"
   },
   {
     "ExternalId": {
@@ -199,7 +216,24 @@
       "stars": "336",
       "topics": "classification, coco, computer-vision, deep-learning, hacktoberfest, image-processing, instance-segmentation, low-code, machine-learning, metrics, object-detection, oriented-bounding-box, pascal-voc, python, pytorch, tensorflow, tracking, video-processing, yolo"
     },
-    "FetchedAt": "2026-06-30T14:02:14.4015021+00:00"
+    "FetchedAt": "2026-06-30T19:44:49.3869389+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:CoreBunch/Instatic"
+    },
+    "Type": 0,
+    "Title": "CoreBunch/Instatic",
+    "Url": "https://github.com/CoreBunch/Instatic",
+    "Description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+    "Metadata": {
+      "owner": "CoreBunch",
+      "repo": "Instatic",
+      "language": "TypeScript",
+      "stars": "351",
+      "topics": "cms, css, css-framework, page-builder, static, website"
+    },
+    "FetchedAt": "2026-06-30T19:44:49.5783845+00:00"
   },
   {
     "ExternalId": {
@@ -216,7 +250,7 @@
       "stars": "180",
       "topics": "ai, artificial-intelligence, cnn, computer-vision, deep-learning, gan, machine-learning, microsoft-for-beginners, nlp, rnn"
     },
-    "FetchedAt": "2026-06-30T14:02:14.6813313+00:00"
+    "FetchedAt": "2026-06-30T19:44:49.7269654+00:00"
   },
   {
     "ExternalId": {
@@ -230,9 +264,9 @@
       "owner": "facebook",
       "repo": "astryx",
       "language": "TypeScript",
-      "stars": "426"
+      "stars": "399"
     },
-    "FetchedAt": "2026-06-30T14:02:14.9354985+00:00"
+    "FetchedAt": "2026-06-30T19:44:49.8720171+00:00"
   },
   {
     "ExternalId": {
@@ -249,7 +283,7 @@
       "stars": "719",
       "topics": "ai-agent, algorithmic-trading, backtesting, fintech, llm, mcp, multi-agent, python, quantitative-finance, trading"
     },
-    "FetchedAt": "2026-06-30T14:02:15.1534448+00:00"
+    "FetchedAt": "2026-06-30T19:44:50.0198581+00:00"
   },
   {
     "ExternalId": {
@@ -263,8 +297,8 @@
       "owner": "Robbyant",
       "repo": "lingbot-map",
       "language": "Python",
-      "stars": "465"
+      "stars": "210"
     },
-    "FetchedAt": "2026-06-30T14:02:15.3845333+00:00"
+    "FetchedAt": "2026-06-30T19:44:50.1536191+00:00"
   }
 ]
