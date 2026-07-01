@@ -166,81 +166,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48734373"
-    },
-    "Type": 1,
-    "Title": "Claude Code is steganographically marking requests",
-    "Url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-    "Description": "Claude Code is steganographically marking requests",
-    "Metadata": {
-      "score": "1987",
-      "author": "kirushik",
-      "commentCount": "580"
-    },
-    "FetchedAt": "2026-07-01T09:32:25.418997+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48736605"
-    },
-    "Type": 1,
-    "Title": "Claude Sonnet 5",
-    "Url": "https://www.anthropic.com/news/claude-sonnet-5",
-    "Description": "Claude Sonnet 5",
-    "Metadata": {
-      "score": "1117",
-      "author": "marinesebastian",
-      "commentCount": "664"
-    },
-    "FetchedAt": "2026-07-01T09:32:25.4619462+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48741748"
-    },
-    "Type": 1,
-    "Title": "ArXiv\u0027s Next Chapter",
-    "Url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
-    "Description": "ArXiv\u0027s Next Chapter",
-    "Metadata": {
-      "score": "106",
-      "author": "subset",
-      "commentCount": "37"
-    },
-    "FetchedAt": "2026-07-01T09:32:25.5039157+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48743472"
-    },
-    "Type": 1,
-    "Title": "Godot will no longer accept AI-authored code contributions",
-    "Url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
-    "Description": "Godot will no longer accept AI-authored code contributions",
-    "Metadata": {
-      "score": "91",
-      "author": "pjmlp",
-      "commentCount": "53"
-    },
-    "FetchedAt": "2026-07-01T09:32:25.5467669+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48740698"
-    },
-    "Type": 1,
-    "Title": "Google copybara: moving code between repositories",
-    "Url": "https://github.com/google/copybara",
-    "Description": "Google copybara: moving code between repositories",
-    "Metadata": {
-      "score": "205",
-      "author": "reconnecting",
-      "commentCount": "33"
-    },
-    "FetchedAt": "2026-07-01T09:32:25.5895435+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48744213"
     },
     "Type": 1,
@@ -271,36 +196,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48735770"
-    },
-    "Type": 1,
-    "Title": "Claude Science",
-    "Url": "https://claude.com/product/claude-science",
-    "Description": "Claude Science",
-    "Metadata": {
-      "score": "485",
-      "author": "lebovic",
-      "commentCount": "146"
-    },
-    "FetchedAt": "2026-07-01T09:32:25.7171805+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48740771"
-    },
-    "Type": 1,
-    "Title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-    "Url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-    "Description": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-    "Metadata": {
-      "score": "672",
-      "author": "Pragmata",
-      "commentCount": "387"
-    },
-    "FetchedAt": "2026-07-01T09:32:25.7713433+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48743655"
     },
     "Type": 1,
@@ -316,111 +211,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48735444"
-    },
-    "Type": 1,
-    "Title": "Nano Banana 2 Lite",
-    "Url": "https://deepmind.google/models/gemini-image/flash-lite/",
-    "Description": "Nano Banana 2 Lite",
-    "Metadata": {
-      "score": "375",
-      "author": "minimaxir",
-      "commentCount": "151"
-    },
-    "FetchedAt": "2026-07-01T09:32:25.8556966+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48738938"
-    },
-    "Type": 1,
-    "Title": "Leanstral 1.5",
-    "Url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
-    "Description": "Leanstral 1.5",
-    "Metadata": {
-      "score": "218",
-      "author": "vetronauta",
-      "commentCount": "68"
-    },
-    "FetchedAt": "2026-07-01T09:32:25.8976515+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48711052"
-    },
-    "Type": 1,
-    "Title": "Newly discovered spider builds spring loaded snare to catch ants",
-    "Url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
-    "Description": "Newly discovered spider builds spring loaded snare to catch ants",
-    "Metadata": {
-      "score": "5",
-      "author": "chimpanzee",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-07-01T09:32:25.940531+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48712289"
-    },
-    "Type": 1,
-    "Title": "How does a pull-back car work? Illustrated teardown",
-    "Url": "https://mechanical-pencil.com/products/car",
-    "Description": "How does a pull-back car work? Illustrated teardown",
-    "Metadata": {
-      "score": "187",
-      "author": "Muhammad523",
-      "commentCount": "37"
-    },
-    "FetchedAt": "2026-07-01T09:32:25.9827922+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48742514"
-    },
-    "Type": 1,
-    "Title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
-    "Url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
-    "Description": "Matrix Orthogonalization Improves Memory in Recurrent Models",
-    "Metadata": {
-      "score": "32",
-      "author": "at2005",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-07-01T09:32:26.0251518+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48741359"
-    },
-    "Type": 1,
-    "Title": "Forestiere Underground Gardens",
-    "Url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
-    "Description": "Forestiere Underground Gardens",
-    "Metadata": {
-      "score": "67",
-      "author": "onemoresoop",
-      "commentCount": "15"
-    },
-    "FetchedAt": "2026-07-01T09:32:26.0682817+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48723484"
-    },
-    "Type": 1,
-    "Title": "CERN bids farewell to the LHC and enters Long Shutdown 3",
-    "Url": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.nikhef.nl\u0026#x2F;en\u0026#x2F;news\u0026#x2F;final-run-for-the-current-lhc-accelerator-but-more-to-come\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.nikhef.nl\u0026#x2F;en\u0026#x2F;news\u0026#x2F;final-run-for-the-current-lhc-...\u003C/a\u003E",
-    "Metadata": {
-      "score": "226",
-      "author": "HelloUsername",
-      "commentCount": "65"
-    },
-    "FetchedAt": "2026-07-01T09:32:26.1104541+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48711788"
     },
     "Type": 1,
@@ -433,21 +223,6 @@
       "commentCount": "18"
     },
     "FetchedAt": "2026-07-01T09:32:26.1531024+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48738985"
-    },
-    "Type": 1,
-    "Title": "I ported Kubernetes to the browser",
-    "Url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;ngrok\u0026#x2F;webernetes\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;ngrok\u0026#x2F;webernetes\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;webernetes-demo.ngrok.app\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;webernetes-demo.ngrok.app\u0026#x2F;\u003C/a\u003E",
-    "Metadata": {
-      "score": "261",
-      "author": "peterdemin",
-      "commentCount": "80"
-    },
-    "FetchedAt": "2026-07-01T09:32:26.195573+00:00"
   },
   {
     "ExternalId": {
@@ -613,5 +388,455 @@
       "commentCount": "5"
     },
     "FetchedAt": "2026-07-01T09:32:26.6626357+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48746445"
+    },
+    "Type": 1,
+    "Title": "Why I Stopped Arguing with People",
+    "Url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
+    "Description": "Why I Stopped Arguing with People",
+    "Metadata": {
+      "score": "140",
+      "author": "backlit4034",
+      "commentCount": "96"
+    },
+    "FetchedAt": "2026-07-01T14:14:37.5993676+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48744518"
+    },
+    "Type": 1,
+    "Title": "Asahi Linux 7.1 Progress Report",
+    "Url": "https://asahilinux.org/2026/06/progress-report-7-1/",
+    "Description": "Asahi Linux 7.1 Progress Report",
+    "Metadata": {
+      "score": "333",
+      "author": "pantalaimon",
+      "commentCount": "87"
+    },
+    "FetchedAt": "2026-07-01T14:14:37.6328908+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48744232"
+    },
+    "Type": 1,
+    "Title": "Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice",
+    "Url": "https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium",
+    "Description": "Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice",
+    "Metadata": {
+      "score": "234",
+      "author": "mpweiher",
+      "commentCount": "128"
+    },
+    "FetchedAt": "2026-07-01T14:14:37.6664025+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48746752"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Parsewise (YC P25) \u2013 Reason Across Documents with an API",
+    "Url": "https://news.ycombinator.com/item?id=48746752",
+    "Description": "Hi all, it\u2019s Greg and Max, founders of Parsewise here\u003Cp\u003EParsewise transforms a bucket of unstructured data into schema compliant data retaining lineage for values resolved across documents.\nImagine giving Claude a bunch of files and asking for a CSV or JSON output. If you have tried this, you know both the system limitations (number of files, type of inputs, cost, latency) but also the human-facing challenge of having no way to validate the results quickly. We solve both.\nWe help tech teams simp",
+    "Metadata": {
+      "score": "8",
+      "author": "gergelycsegzi",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-01T14:14:37.7002052+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48734373"
+    },
+    "Type": 1,
+    "Title": "Claude Code is steganographically marking requests",
+    "Url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+    "Description": "Claude Code is steganographically marking requests",
+    "Metadata": {
+      "score": "2259",
+      "author": "kirushik",
+      "commentCount": "669"
+    },
+    "FetchedAt": "2026-07-01T14:14:37.7336202+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48745113"
+    },
+    "Type": 1,
+    "Title": "Nintendo has raised its employees base salary by 10%",
+    "Url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
+    "Description": "Nintendo has raised its employees base salary by 10%",
+    "Metadata": {
+      "score": "177",
+      "author": "_tk_",
+      "commentCount": "62"
+    },
+    "FetchedAt": "2026-07-01T14:14:37.7686209+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48711052"
+    },
+    "Type": 1,
+    "Title": "Newly discovered spider builds spring loaded snare to catch ants",
+    "Url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
+    "Description": "Newly discovered spider builds spring loaded snare to catch ants",
+    "Metadata": {
+      "score": "156",
+      "author": "chimpanzee",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-07-01T14:14:37.8024163+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48746331"
+    },
+    "Type": 1,
+    "Title": "Manufact (YC S25) Is Hiring a Developer Advocate in SF",
+    "Url": "https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel",
+    "Description": "Manufact (YC S25) Is Hiring a Developer Advocate in SF",
+    "Metadata": {
+      "score": "1",
+      "author": "luigipederzani",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-01T14:14:37.8391817+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48744655"
+    },
+    "Type": 1,
+    "Title": "The Internet I Grew Up with Doesn\u0027t Exist Anymore",
+    "Url": "https://cleberg.net/blog/internet.html",
+    "Description": "The Internet I Grew Up with Doesn\u0027t Exist Anymore",
+    "Metadata": {
+      "score": "160",
+      "author": "felixdoerp",
+      "commentCount": "130"
+    },
+    "FetchedAt": "2026-07-01T14:14:37.8728111+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48721434"
+    },
+    "Type": 1,
+    "Title": "Obfuscation: Building the final boss of cryptography (Part I)",
+    "Url": "https://vitalik.eth.limo/general/2026/06/29/obfuscation1.html",
+    "Description": "Obfuscation: Building the final boss of cryptography (Part I)",
+    "Metadata": {
+      "score": "40",
+      "author": "fbrusch",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-07-01T14:14:37.9058312+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48721345"
+    },
+    "Type": 1,
+    "Title": "A deep dive into SmallVector:push_back",
+    "Url": "https://maskray.me/blog/2026-06-27-a-deep-dive-into-smallvector-push-back",
+    "Description": "A deep dive into SmallVector:push_back",
+    "Metadata": {
+      "score": "21",
+      "author": "mariuz",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-07-01T14:14:37.940233+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48736605"
+    },
+    "Type": 1,
+    "Title": "Claude Sonnet 5",
+    "Url": "https://www.anthropic.com/news/claude-sonnet-5",
+    "Description": "Claude Sonnet 5",
+    "Metadata": {
+      "score": "1184",
+      "author": "marinesebastian",
+      "commentCount": "730"
+    },
+    "FetchedAt": "2026-07-01T14:14:37.9740359+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48743472"
+    },
+    "Type": 1,
+    "Title": "Godot will no longer accept AI-authored code contributions",
+    "Url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+    "Description": "Godot will no longer accept AI-authored code contributions",
+    "Metadata": {
+      "score": "401",
+      "author": "pjmlp",
+      "commentCount": "254"
+    },
+    "FetchedAt": "2026-07-01T14:14:38.0077419+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48741748"
+    },
+    "Type": 1,
+    "Title": "ArXiv\u0027s Next Chapter",
+    "Url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
+    "Description": "ArXiv\u0027s Next Chapter",
+    "Metadata": {
+      "score": "189",
+      "author": "subset",
+      "commentCount": "55"
+    },
+    "FetchedAt": "2026-07-01T14:14:38.040515+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48726407"
+    },
+    "Type": 1,
+    "Title": "Compiler-Assisted Floating-Point Error Analysis and Profiling with FPChecker",
+    "Url": "https://fpanalysistools.org/ISC26/",
+    "Description": "Compiler-Assisted Floating-Point Error Analysis and Profiling with FPChecker",
+    "Metadata": {
+      "score": "10",
+      "author": "matt_d",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-07-01T14:14:38.0734189+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48745061"
+    },
+    "Type": 1,
+    "Title": "Swedish court says Google is to pay $1.5B to Klarna in antitrust damages",
+    "Url": "https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/",
+    "Description": "Swedish court says Google is to pay $1.5B to Klarna in antitrust damages",
+    "Metadata": {
+      "score": "83",
+      "author": "giuliomagnifico",
+      "commentCount": "55"
+    },
+    "FetchedAt": "2026-07-01T14:14:38.1089687+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48740698"
+    },
+    "Type": 1,
+    "Title": "Google copybara: moving code between repositories",
+    "Url": "https://github.com/google/copybara",
+    "Description": "Google copybara: moving code between repositories",
+    "Metadata": {
+      "score": "259",
+      "author": "reconnecting",
+      "commentCount": "49"
+    },
+    "FetchedAt": "2026-07-01T14:14:38.1419813+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48745456"
+    },
+    "Type": 1,
+    "Title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+    "Url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+    "Description": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+    "Metadata": {
+      "score": "107",
+      "author": "Tiberium",
+      "commentCount": "78"
+    },
+    "FetchedAt": "2026-07-01T14:14:38.1755691+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48735770"
+    },
+    "Type": 1,
+    "Title": "Claude Science",
+    "Url": "https://claude.com/product/claude-science",
+    "Description": "Claude Science",
+    "Metadata": {
+      "score": "524",
+      "author": "lebovic",
+      "commentCount": "151"
+    },
+    "FetchedAt": "2026-07-01T14:14:38.208828+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48738938"
+    },
+    "Type": 1,
+    "Title": "Leanstral 1.5",
+    "Url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
+    "Description": "Leanstral 1.5",
+    "Metadata": {
+      "score": "272",
+      "author": "vetronauta",
+      "commentCount": "115"
+    },
+    "FetchedAt": "2026-07-01T14:14:38.2424757+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48735444"
+    },
+    "Type": 1,
+    "Title": "Nano Banana 2 Lite",
+    "Url": "https://deepmind.google/models/gemini-image/flash-lite/",
+    "Description": "Nano Banana 2 Lite",
+    "Metadata": {
+      "score": "410",
+      "author": "minimaxir",
+      "commentCount": "169"
+    },
+    "FetchedAt": "2026-07-01T14:14:38.2751843+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48712289"
+    },
+    "Type": 1,
+    "Title": "How does a pull-back car work? Illustrated teardown",
+    "Url": "https://mechanical-pencil.com/products/car",
+    "Description": "How does a pull-back car work? Illustrated teardown",
+    "Metadata": {
+      "score": "244",
+      "author": "Muhammad523",
+      "commentCount": "39"
+    },
+    "FetchedAt": "2026-07-01T14:14:38.310335+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48740771"
+    },
+    "Type": 1,
+    "Title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+    "Url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+    "Description": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+    "Metadata": {
+      "score": "809",
+      "author": "Pragmata",
+      "commentCount": "501"
+    },
+    "FetchedAt": "2026-07-01T14:14:38.345993+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48742514"
+    },
+    "Type": 1,
+    "Title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+    "Url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+    "Description": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+    "Metadata": {
+      "score": "63",
+      "author": "at2005",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-07-01T14:14:38.379027+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48746404"
+    },
+    "Type": 1,
+    "Title": "What\u0027s wrong with EU age verification? (Nothing)",
+    "Url": "https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/",
+    "Description": "What\u0027s wrong with EU age verification? (Nothing)",
+    "Metadata": {
+      "score": "13",
+      "author": "birdculture",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-07-01T14:14:38.4132785+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48723484"
+    },
+    "Type": 1,
+    "Title": "CERN bids farewell to the LHC and enters Long Shutdown 3",
+    "Url": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.nikhef.nl\u0026#x2F;en\u0026#x2F;news\u0026#x2F;final-run-for-the-current-lhc-accelerator-but-more-to-come\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.nikhef.nl\u0026#x2F;en\u0026#x2F;news\u0026#x2F;final-run-for-the-current-lhc-...\u003C/a\u003E",
+    "Metadata": {
+      "score": "286",
+      "author": "HelloUsername",
+      "commentCount": "91"
+    },
+    "FetchedAt": "2026-07-01T14:14:38.4458813+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48744446"
+    },
+    "Type": 1,
+    "Title": "Pine64 launch $50 smart speaker for Home Assistant tinkerers",
+    "Url": "https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch",
+    "Description": "Pine64 launch $50 smart speaker for Home Assistant tinkerers",
+    "Metadata": {
+      "score": "95",
+      "author": "edward",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-07-01T14:14:38.4785465+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48745434"
+    },
+    "Type": 1,
+    "Title": "Show HN: Frond \u2013 a frontend runtime for your app\u0027s dependency graph",
+    "Url": "https://frondruntime.dev",
+    "Description": "Show HN: Frond \u2013 a frontend runtime for your app\u0027s dependency graph",
+    "Metadata": {
+      "score": "3",
+      "author": "romanonthego",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-01T14:14:38.5112352+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48738985"
+    },
+    "Type": 1,
+    "Title": "I ported Kubernetes to the browser",
+    "Url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;ngrok\u0026#x2F;webernetes\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;ngrok\u0026#x2F;webernetes\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;webernetes-demo.ngrok.app\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;webernetes-demo.ngrok.app\u0026#x2F;\u003C/a\u003E",
+    "Metadata": {
+      "score": "313",
+      "author": "peterdemin",
+      "commentCount": "91"
+    },
+    "FetchedAt": "2026-07-01T14:14:38.5441041+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48741359"
+    },
+    "Type": 1,
+    "Title": "Forestiere Underground Gardens",
+    "Url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
+    "Description": "Forestiere Underground Gardens",
+    "Metadata": {
+      "score": "87",
+      "author": "onemoresoop",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-07-01T14:14:38.5779848+00:00"
   }
 ]

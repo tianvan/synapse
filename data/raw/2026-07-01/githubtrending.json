@@ -1,56 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:hasaneyldrm/exercises-dataset"
-    },
-    "Type": 0,
-    "Title": "hasaneyldrm/exercises-dataset",
-    "Url": "https://github.com/hasaneyldrm/exercises-dataset",
-    "Description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-    "Metadata": {
-      "owner": "hasaneyldrm",
-      "repo": "exercises-dataset",
-      "language": "HTML",
-      "stars": "1,343",
-      "topics": "excercises, fitness, fitness-app"
-    },
-    "FetchedAt": "2026-07-01T09:32:22.7222198+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:usestrix/strix"
-    },
-    "Type": 0,
-    "Title": "usestrix/strix",
-    "Url": "https://github.com/usestrix/strix",
-    "Description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
-    "Metadata": {
-      "owner": "usestrix",
-      "repo": "strix",
-      "language": "Python",
-      "stars": "515",
-      "topics": "agents, ai-hacking, ai-penetration-testing, ai-pentesting, ai-security, artificial-intelligence, bug-bounty, code-quality, ctf-tools, cybersecurity, cybersecurity-tools, ethical-hacking, hacking, llm-security, offensive-security, penetration-testing, pentesting-tools, red-teaming, security, security-automation"
-    },
-    "FetchedAt": "2026-07-01T09:32:23.0032456+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:browser-use/video-use"
-    },
-    "Type": 0,
-    "Title": "browser-use/video-use",
-    "Url": "https://github.com/browser-use/video-use",
-    "Description": "Edit videos with coding agents",
-    "Metadata": {
-      "owner": "browser-use",
-      "repo": "video-use",
-      "language": "Python",
-      "stars": "721"
-    },
-    "FetchedAt": "2026-07-01T09:32:23.1821083+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:xbtlin/ai-berkshire"
     },
     "Type": 0,
@@ -65,23 +15,6 @@
       "topics": "ai, ai-agent, anthropic, berkshire-hathaway, charlie-munger, china-stock, claude, claude-code, financial-analysis, fintech, fundamental-analysis, investment, investment-research, llm, mcp, portfolio-management, stock-analysis, stock-market, value-investing, warren-buffett"
     },
     "FetchedAt": "2026-07-01T09:32:23.3652184+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:Mebus/cupp"
-    },
-    "Type": 0,
-    "Title": "Mebus/cupp",
-    "Url": "https://github.com/Mebus/cupp",
-    "Description": "Common User Passwords Profiler (CUPP)",
-    "Metadata": {
-      "owner": "Mebus",
-      "repo": "cupp",
-      "language": "Python",
-      "stars": "32",
-      "topics": "dictionary-attack, password, password-strength, weak-passwords, wordlist, wordlist-generator"
-    },
-    "FetchedAt": "2026-07-01T09:32:23.5307786+00:00"
   },
   {
     "ExternalId": {
@@ -136,73 +69,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:CoreBunch/Instatic"
-    },
-    "Type": 0,
-    "Title": "CoreBunch/Instatic",
-    "Url": "https://github.com/CoreBunch/Instatic",
-    "Description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
-    "Metadata": {
-      "owner": "CoreBunch",
-      "repo": "Instatic",
-      "language": "TypeScript",
-      "stars": "351",
-      "topics": "cms, css, css-framework, page-builder, static, website"
-    },
-    "FetchedAt": "2026-07-01T09:32:24.2941074+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:microsoft/AI-For-Beginners"
-    },
-    "Type": 0,
-    "Title": "microsoft/AI-For-Beginners",
-    "Url": "https://github.com/microsoft/AI-For-Beginners",
-    "Description": "12 Weeks, 24 Lessons, AI for All!",
-    "Metadata": {
-      "owner": "microsoft",
-      "repo": "AI-For-Beginners",
-      "language": "Jupyter Notebook",
-      "stars": "252",
-      "topics": "ai, artificial-intelligence, cnn, computer-vision, deep-learning, gan, machine-learning, microsoft-for-beginners, nlp, rnn"
-    },
-    "FetchedAt": "2026-07-01T09:32:24.4649927+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:facebook/astryx"
-    },
-    "Type": 0,
-    "Title": "facebook/astryx",
-    "Url": "https://github.com/facebook/astryx",
-    "Description": "An open source design system that\u0027s fully customizable and agent ready",
-    "Metadata": {
-      "owner": "facebook",
-      "repo": "astryx",
-      "language": "TypeScript",
-      "stars": "364"
-    },
-    "FetchedAt": "2026-07-01T09:32:24.6427977+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:HKUDS/Vibe-Trading"
-    },
-    "Type": 0,
-    "Title": "HKUDS/Vibe-Trading",
-    "Url": "https://github.com/HKUDS/Vibe-Trading",
-    "Description": "\u0022Vibe-Trading: Your Personal Trading Agent\u0022",
-    "Metadata": {
-      "owner": "HKUDS",
-      "repo": "Vibe-Trading",
-      "language": "Python",
-      "stars": "721",
-      "topics": "ai-agent, algorithmic-trading, backtesting, fintech, llm, mcp, multi-agent, python, quantitative-finance, trading"
-    },
-    "FetchedAt": "2026-07-01T09:32:24.8217894+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:Robbyant/lingbot-map"
     },
     "Type": 0,
@@ -216,5 +82,256 @@
       "stars": "189"
     },
     "FetchedAt": "2026-07-01T09:32:24.9869577+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:usestrix/strix"
+    },
+    "Type": 0,
+    "Title": "usestrix/strix",
+    "Url": "https://github.com/usestrix/strix",
+    "Description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
+    "Metadata": {
+      "owner": "usestrix",
+      "repo": "strix",
+      "language": "Python",
+      "stars": "1,195",
+      "topics": "agents, ai-hacking, ai-penetration-testing, ai-pentesting, ai-security, artificial-intelligence, bug-bounty, code-quality, ctf-tools, cybersecurity, cybersecurity-tools, ethical-hacking, hacking, llm-security, offensive-security, penetration-testing, pentesting-tools, red-teaming, security, security-automation"
+    },
+    "FetchedAt": "2026-07-01T14:14:35.1995806+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/Vibe-Trading"
+    },
+    "Type": 0,
+    "Title": "HKUDS/Vibe-Trading",
+    "Url": "https://github.com/HKUDS/Vibe-Trading",
+    "Description": "\u0022Vibe-Trading: Your Personal Trading Agent\u0022",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "Vibe-Trading",
+      "language": "Python",
+      "stars": "682",
+      "topics": "ai-agent, algorithmic-trading, backtesting, fintech, llm, mcp, multi-agent, python, quantitative-finance, trading"
+    },
+    "FetchedAt": "2026-07-01T14:14:35.3811181+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:hasaneyldrm/exercises-dataset"
+    },
+    "Type": 0,
+    "Title": "hasaneyldrm/exercises-dataset",
+    "Url": "https://github.com/hasaneyldrm/exercises-dataset",
+    "Description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+    "Metadata": {
+      "owner": "hasaneyldrm",
+      "repo": "exercises-dataset",
+      "language": "HTML",
+      "stars": "1,343",
+      "topics": "excercises, fitness, fitness-app"
+    },
+    "FetchedAt": "2026-07-01T14:14:35.5463669+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:facebook/astryx"
+    },
+    "Type": 0,
+    "Title": "facebook/astryx",
+    "Url": "https://github.com/facebook/astryx",
+    "Description": "An open source design system that\u0027s fully customizable and agent ready",
+    "Metadata": {
+      "owner": "facebook",
+      "repo": "astryx",
+      "language": "TypeScript",
+      "stars": "714"
+    },
+    "FetchedAt": "2026-07-01T14:14:35.658307+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:allenai/olmocr"
+    },
+    "Type": 0,
+    "Title": "allenai/olmocr",
+    "Url": "https://github.com/allenai/olmocr",
+    "Description": "Toolkit for linearizing PDFs for LLM datasets/training",
+    "Metadata": {
+      "owner": "allenai",
+      "repo": "olmocr",
+      "language": "Python",
+      "stars": "295"
+    },
+    "FetchedAt": "2026-07-01T14:14:35.8020738+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:togatoga/karukan"
+    },
+    "Type": 0,
+    "Title": "togatoga/karukan",
+    "Url": "https://github.com/togatoga/karukan",
+    "Description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+    "Metadata": {
+      "owner": "togatoga",
+      "repo": "karukan",
+      "language": "Rust",
+      "stars": "29",
+      "topics": "fcitx5, ime, input-method, inputmethod, japanese, linux, macos, natural-language-processing, nlp, rust"
+    },
+    "FetchedAt": "2026-07-01T14:14:35.9779297+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Mebus/cupp"
+    },
+    "Type": 0,
+    "Title": "Mebus/cupp",
+    "Url": "https://github.com/Mebus/cupp",
+    "Description": "Common User Passwords Profiler (CUPP)",
+    "Metadata": {
+      "owner": "Mebus",
+      "repo": "cupp",
+      "language": "Python",
+      "stars": "185",
+      "topics": "dictionary-attack, password, password-strength, weak-passwords, wordlist, wordlist-generator"
+    },
+    "FetchedAt": "2026-07-01T14:14:36.0938126+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Unclecheng-li/VulnClaw"
+    },
+    "Type": 0,
+    "Title": "Unclecheng-li/VulnClaw",
+    "Url": "https://github.com/Unclecheng-li/VulnClaw",
+    "Description": "\u57FA\u4E8E AI Agent \u002B MCP \u5DE5\u5177\u94FE \u002B \u6E17\u900F Skill \u7F16\u6392\uFF0C \u914D\u5408\u5927\u8BED\u8A00\u6A21\u578B\uFF0C \u81EA\u7136\u8BED\u8A00\u8F93\u5165 \u2192 \u81EA\u52A8\u5B8C\u6210\u300C\u4FE1\u606F\u6536\u96C6 \u2192 \u6F0F\u6D1E\u53D1\u73B0 \u2192 \u6F0F\u6D1E\u5229\u7528 \u2192 \u62A5\u544A\u751F\u6210\u300D\u5168\u6D41\u7A0B\u3002",
+    "Metadata": {
+      "owner": "Unclecheng-li",
+      "repo": "VulnClaw",
+      "language": "Python",
+      "stars": "123",
+      "topics": "ai, ai-agent, ai-tools, ctf, cybersecurity, openclaw, penetration-testing, penetration-testing-tools, security-tools, skill"
+    },
+    "FetchedAt": "2026-07-01T14:14:36.2074389+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:microsoft/AI-For-Beginners"
+    },
+    "Type": 0,
+    "Title": "microsoft/AI-For-Beginners",
+    "Url": "https://github.com/microsoft/AI-For-Beginners",
+    "Description": "12 Weeks, 24 Lessons, AI for All!",
+    "Metadata": {
+      "owner": "microsoft",
+      "repo": "AI-For-Beginners",
+      "language": "Jupyter Notebook",
+      "stars": "1,086",
+      "topics": "ai, artificial-intelligence, cnn, computer-vision, deep-learning, gan, machine-learning, microsoft-for-beginners, nlp, rnn"
+    },
+    "FetchedAt": "2026-07-01T14:14:36.330349+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:refactoringhq/tolaria"
+    },
+    "Type": 0,
+    "Title": "refactoringhq/tolaria",
+    "Url": "https://github.com/refactoringhq/tolaria",
+    "Description": "Desktop app to manage markdown knowledge bases",
+    "Metadata": {
+      "owner": "refactoringhq",
+      "repo": "tolaria",
+      "language": "TypeScript",
+      "stars": "435"
+    },
+    "FetchedAt": "2026-07-01T14:14:36.4797544+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:0xNyk/council-of-high-intelligence"
+    },
+    "Type": 0,
+    "Title": "0xNyk/council-of-high-intelligence",
+    "Url": "https://github.com/0xNyk/council-of-high-intelligence",
+    "Description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds \u0026 more \u2014 structured multi-round deliberation with genuine model diversity. One command: /council",
+    "Metadata": {
+      "owner": "0xNyk",
+      "repo": "council-of-high-intelligence",
+      "language": "Shell",
+      "stars": "473",
+      "topics": "ai-agents, claude, claude-code, decision-making, deliberation, gemini, multi-llm, ollama, openai, prompt-engineering"
+    },
+    "FetchedAt": "2026-07-01T14:14:36.5971536+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:CoreBunch/Instatic"
+    },
+    "Type": 0,
+    "Title": "CoreBunch/Instatic",
+    "Url": "https://github.com/CoreBunch/Instatic",
+    "Description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+    "Metadata": {
+      "owner": "CoreBunch",
+      "repo": "Instatic",
+      "language": "TypeScript",
+      "stars": "351",
+      "topics": "cms, css, css-framework, page-builder, static, website"
+    },
+    "FetchedAt": "2026-07-01T14:14:36.7329025+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:TencentCloud/CubeSandbox"
+    },
+    "Type": 0,
+    "Title": "TencentCloud/CubeSandbox",
+    "Url": "https://github.com/TencentCloud/CubeSandbox",
+    "Description": "Instant, Concurrent, Secure \u0026 Lightweight Sandbox for AI Agents.",
+    "Metadata": {
+      "owner": "TencentCloud",
+      "repo": "CubeSandbox",
+      "language": "Rust",
+      "stars": "46",
+      "topics": "agents, container, sandbox"
+    },
+    "FetchedAt": "2026-07-01T14:14:36.8659712+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:browser-use/video-use"
+    },
+    "Type": 0,
+    "Title": "browser-use/video-use",
+    "Url": "https://github.com/browser-use/video-use",
+    "Description": "Edit videos with coding agents",
+    "Metadata": {
+      "owner": "browser-use",
+      "repo": "video-use",
+      "language": "Python",
+      "stars": "690"
+    },
+    "FetchedAt": "2026-07-01T14:14:36.9845243+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:yikart/AiToEarn"
+    },
+    "Type": 0,
+    "Title": "yikart/AiToEarn",
+    "Url": "https://github.com/yikart/AiToEarn",
+    "Description": "Let\u0027s use AI to Earn!",
+    "Metadata": {
+      "owner": "yikart",
+      "repo": "AiToEarn",
+      "language": "TypeScript",
+      "stars": "128",
+      "topics": "auto-publish, douyin, douyin-api, electron-app, electron-react, kuaishou, kwai, published, shipinhao, tool, xiaohongshu"
+    },
+    "FetchedAt": "2026-07-01T14:14:37.122354+00:00"
   }
 ]
