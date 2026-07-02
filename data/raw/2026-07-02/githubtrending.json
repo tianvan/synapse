@@ -18,57 +18,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:usestrix/strix"
-    },
-    "Type": 0,
-    "Title": "usestrix/strix",
-    "Url": "https://github.com/usestrix/strix",
-    "Description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
-    "Metadata": {
-      "owner": "usestrix",
-      "repo": "strix",
-      "language": "Python",
-      "stars": "1,211",
-      "topics": "agents, ai-hacking, ai-penetration-testing, ai-pentesting, ai-security, artificial-intelligence, bug-bounty, code-quality, ctf-tools, cybersecurity, cybersecurity-tools, ethical-hacking, hacking, llm-security, offensive-security, penetration-testing, pentesting-tools, red-teaming, security, security-automation"
-    },
-    "FetchedAt": "2026-07-02T08:44:08.7481629+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:HKUDS/Vibe-Trading"
-    },
-    "Type": 0,
-    "Title": "HKUDS/Vibe-Trading",
-    "Url": "https://github.com/HKUDS/Vibe-Trading",
-    "Description": "\u0022Vibe-Trading: Your Personal Trading Agent\u0022",
-    "Metadata": {
-      "owner": "HKUDS",
-      "repo": "Vibe-Trading",
-      "language": "Python",
-      "stars": "694",
-      "topics": "ai-agent, algorithmic-trading, backtesting, fintech, llm, mcp, multi-agent, python, quantitative-finance, trading"
-    },
-    "FetchedAt": "2026-07-02T08:44:08.9504553+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:hasaneyldrm/exercises-dataset"
-    },
-    "Type": 0,
-    "Title": "hasaneyldrm/exercises-dataset",
-    "Url": "https://github.com/hasaneyldrm/exercises-dataset",
-    "Description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-    "Metadata": {
-      "owner": "hasaneyldrm",
-      "repo": "exercises-dataset",
-      "language": "HTML",
-      "stars": "2,470",
-      "topics": "excercises, fitness, fitness-app"
-    },
-    "FetchedAt": "2026-07-02T08:44:09.0803326+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:facebook/astryx"
     },
     "Type": 0,
@@ -219,22 +168,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:browser-use/video-use"
-    },
-    "Type": 0,
-    "Title": "browser-use/video-use",
-    "Url": "https://github.com/browser-use/video-use",
-    "Description": "Edit videos with coding agents",
-    "Metadata": {
-      "owner": "browser-use",
-      "repo": "video-use",
-      "language": "Python",
-      "stars": "693"
-    },
-    "FetchedAt": "2026-07-02T08:44:10.4006169+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:yikart/AiToEarn"
     },
     "Type": 0,
@@ -249,5 +182,206 @@
       "topics": "auto-publish, douyin, douyin-api, electron-app, electron-react, kuaishou, kwai, published, shipinhao, tool, xiaohongshu"
     },
     "FetchedAt": "2026-07-02T08:44:10.5466379+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:usestrix/strix"
+    },
+    "Type": 0,
+    "Title": "usestrix/strix",
+    "Url": "https://github.com/usestrix/strix",
+    "Description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
+    "Metadata": {
+      "owner": "usestrix",
+      "repo": "strix",
+      "language": "Python",
+      "stars": "2,167",
+      "topics": "agents, ai-hacking, ai-penetration-testing, ai-pentesting, ai-security, artificial-intelligence, bug-bounty, code-quality, ctf-tools, cybersecurity, cybersecurity-tools, ethical-hacking, hacking, llm-security, offensive-security, penetration-testing, pentesting-tools, red-teaming, security, security-automation"
+    },
+    "FetchedAt": "2026-07-02T13:42:10.7932951+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:hasaneyldrm/exercises-dataset"
+    },
+    "Type": 0,
+    "Title": "hasaneyldrm/exercises-dataset",
+    "Url": "https://github.com/hasaneyldrm/exercises-dataset",
+    "Description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+    "Metadata": {
+      "owner": "hasaneyldrm",
+      "repo": "exercises-dataset",
+      "language": "HTML",
+      "stars": "942",
+      "topics": "excercises, fitness, fitness-app"
+    },
+    "FetchedAt": "2026-07-02T13:42:11.0163832+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ChromeDevTools/chrome-devtools-mcp"
+    },
+    "Type": 0,
+    "Title": "ChromeDevTools/chrome-devtools-mcp",
+    "Url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "Description": "Chrome DevTools for coding agents",
+    "Metadata": {
+      "owner": "ChromeDevTools",
+      "repo": "chrome-devtools-mcp",
+      "language": "TypeScript",
+      "stars": "92",
+      "topics": "browser, chrome, chrome-devtools, debugging, devtools, mcp, mcp-server, puppeteer"
+    },
+    "FetchedAt": "2026-07-02T13:42:11.220918+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:browser-use/video-use"
+    },
+    "Type": 0,
+    "Title": "browser-use/video-use",
+    "Url": "https://github.com/browser-use/video-use",
+    "Description": "Edit videos with coding agents",
+    "Metadata": {
+      "owner": "browser-use",
+      "repo": "video-use",
+      "language": "Python",
+      "stars": "550"
+    },
+    "FetchedAt": "2026-07-02T13:42:11.390188+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:actions/checkout"
+    },
+    "Type": 0,
+    "Title": "actions/checkout",
+    "Url": "https://github.com/actions/checkout",
+    "Description": "Action for checking out a repo",
+    "Metadata": {
+      "owner": "actions",
+      "repo": "checkout",
+      "language": "TypeScript",
+      "stars": "5"
+    },
+    "FetchedAt": "2026-07-02T13:42:11.5415889+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/Vibe-Trading"
+    },
+    "Type": 0,
+    "Title": "HKUDS/Vibe-Trading",
+    "Url": "https://github.com/HKUDS/Vibe-Trading",
+    "Description": "\u0022Vibe-Trading: Your Personal Trading Agent\u0022",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "Vibe-Trading",
+      "language": "Python",
+      "stars": "918",
+      "topics": "ai-agent, algorithmic-trading, backtesting, fintech, llm, mcp, multi-agent, python, quantitative-finance, trading"
+    },
+    "FetchedAt": "2026-07-02T13:42:11.6930884+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:agentskills/agentskills"
+    },
+    "Type": 0,
+    "Title": "agentskills/agentskills",
+    "Url": "https://github.com/agentskills/agentskills",
+    "Description": "Specification and documentation for Agent Skills",
+    "Metadata": {
+      "owner": "agentskills",
+      "repo": "agentskills",
+      "language": "Python",
+      "stars": "47",
+      "topics": "agent-skills"
+    },
+    "FetchedAt": "2026-07-02T13:42:11.8274067+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:openai/codex-plugin-cc"
+    },
+    "Type": 0,
+    "Title": "openai/codex-plugin-cc",
+    "Url": "https://github.com/openai/codex-plugin-cc",
+    "Description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "Metadata": {
+      "owner": "openai",
+      "repo": "codex-plugin-cc",
+      "language": "JavaScript",
+      "stars": "72"
+    },
+    "FetchedAt": "2026-07-02T13:42:11.9787675+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:langflow-ai/langflow"
+    },
+    "Type": 0,
+    "Title": "langflow-ai/langflow",
+    "Url": "https://github.com/langflow-ai/langflow",
+    "Description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+    "Metadata": {
+      "owner": "langflow-ai",
+      "repo": "langflow",
+      "language": "Python",
+      "stars": "74",
+      "topics": "agents, chatgpt, generative-ai, large-language-models, multiagent, react-flow"
+    },
+    "FetchedAt": "2026-07-02T13:42:12.2821115+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pytorch/pytorch"
+    },
+    "Type": 0,
+    "Title": "pytorch/pytorch",
+    "Url": "https://github.com/pytorch/pytorch",
+    "Description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "Metadata": {
+      "owner": "pytorch",
+      "repo": "pytorch",
+      "language": "Python",
+      "stars": "45",
+      "topics": "autograd, deep-learning, gpu, machine-learning, neural-network, numpy, python, tensor"
+    },
+    "FetchedAt": "2026-07-02T13:42:12.4336534+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:harvard-edge/cs249r_book"
+    },
+    "Type": 0,
+    "Title": "harvard-edge/cs249r_book",
+    "Url": "https://github.com/harvard-edge/cs249r_book",
+    "Description": "Machine Learning Systems",
+    "Metadata": {
+      "owner": "harvard-edge",
+      "repo": "cs249r_book",
+      "language": "Python",
+      "stars": "33",
+      "topics": "artificial-intelligence, cloud-ml, computer-systems, courseware, deep-learning, edge-machine-learning, embedded-ml, machine-learning, machine-learning-systems, mobile-ml, textbook, tinyml"
+    },
+    "FetchedAt": "2026-07-02T13:42:12.5904062+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ryanmcdermott/clean-code-javascript"
+    },
+    "Type": 0,
+    "Title": "ryanmcdermott/clean-code-javascript",
+    "Url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "Description": "Clean Code concepts adapted for JavaScript",
+    "Metadata": {
+      "owner": "ryanmcdermott",
+      "repo": "clean-code-javascript",
+      "language": "JavaScript",
+      "stars": "11",
+      "topics": "best-practices, clean-architecture, clean-code, composition, inheritance, javascript, principles"
+    },
+    "FetchedAt": "2026-07-02T13:42:12.7163135+00:00"
   }
 ]
