@@ -166,21 +166,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48756840"
-    },
-    "Type": 1,
-    "Title": "CursorBench 3.1",
-    "Url": "https://cursor.com/evals",
-    "Description": "CursorBench 3.1",
-    "Metadata": {
-      "score": "48",
-      "author": "handfuloflight",
-      "commentCount": "33"
-    },
-    "FetchedAt": "2026-07-02T08:44:10.9474458+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48758242"
     },
     "Type": 1,
@@ -268,21 +253,6 @@
       "commentCount": "8"
     },
     "FetchedAt": "2026-07-02T08:44:11.2359699+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48755928"
-    },
-    "Type": 1,
-    "Title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-    "Url": "https://senior-swe-bench.snorkel.ai/",
-    "Description": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-    "Metadata": {
-      "score": "70",
-      "author": "matt_d",
-      "commentCount": "62"
-    },
-    "FetchedAt": "2026-07-02T08:44:11.2495437+00:00"
   },
   {
     "ExternalId": {
@@ -376,21 +346,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48759761"
-    },
-    "Type": 1,
-    "Title": "Vite\u002B Beta",
-    "Url": "https://voidzero.dev/posts/announcing-vite-plus-beta",
-    "Description": "Vite\u002B Beta",
-    "Metadata": {
-      "score": "93",
-      "author": "Erenay09",
-      "commentCount": "50"
-    },
-    "FetchedAt": "2026-07-02T13:42:13.0238621+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48760598"
     },
     "Type": 1,
@@ -418,21 +373,6 @@
       "commentCount": "116"
     },
     "FetchedAt": "2026-07-02T13:42:13.0568926+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48755965"
-    },
-    "Type": 1,
-    "Title": "Android Developer Verification: Threat masquerading as Protection",
-    "Url": "https://f-droid.org/2026/07/01/adv-malware.html",
-    "Description": "Android Developer Verification: Threat masquerading as Protection",
-    "Metadata": {
-      "score": "973",
-      "author": "drewfax",
-      "commentCount": "398"
-    },
-    "FetchedAt": "2026-07-02T13:42:13.075458+00:00"
   },
   {
     "ExternalId": {
@@ -466,81 +406,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48761068"
-    },
-    "Type": 1,
-    "Title": "Hazel (YC W24) Is Hiring for Our Largest Government Contract",
-    "Url": "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci",
-    "Description": "Hazel (YC W24) Is Hiring for Our Largest Government Contract",
-    "Metadata": {
-      "score": "1",
-      "author": "augustschen",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-07-02T13:42:13.1255402+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48760201"
-    },
-    "Type": 1,
-    "Title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
-    "Url": "https://arxiv.org/abs/2607.01232",
-    "Description": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
-    "Metadata": {
-      "score": "19",
-      "author": "tcp_handshaker",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-07-02T13:42:13.140532+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48756602"
-    },
-    "Type": 1,
-    "Title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-    "Url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
-    "Description": "Kimi K2.7 Code is generally available in GitHub Copilot",
-    "Metadata": {
-      "score": "249",
-      "author": "unliftedq",
-      "commentCount": "105"
-    },
-    "FetchedAt": "2026-07-02T13:42:13.1563878+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48758048"
-    },
-    "Type": 1,
-    "Title": "The fall of the theorem economy",
-    "Url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
-    "Description": "The fall of the theorem economy",
-    "Metadata": {
-      "score": "131",
-      "author": "varjag",
-      "commentCount": "46"
-    },
-    "FetchedAt": "2026-07-02T13:42:13.1720937+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48710537"
-    },
-    "Type": 1,
-    "Title": "WinPE as a stateless harness for Windows driver testing and fuzzing",
-    "Url": "https://bednars.me/blog/winpe-harness",
-    "Description": "WinPE as a stateless harness for Windows driver testing and fuzzing",
-    "Metadata": {
-      "score": "23",
-      "author": "piotrbednarsalt",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-07-02T13:42:13.1891476+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48753715"
     },
     "Type": 1,
@@ -571,21 +436,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48759870"
-    },
-    "Type": 1,
-    "Title": "Many people misunderstand the purpose of code review",
-    "Url": "https://mathstodon.xyz/@mjd/115096720350507897",
-    "Description": "Many people misunderstand the purpose of code review",
-    "Metadata": {
-      "score": "14",
-      "author": "ColinWright",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-07-02T13:42:13.2486205+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48724127"
     },
     "Type": 1,
@@ -598,21 +448,6 @@
       "commentCount": "14"
     },
     "FetchedAt": "2026-07-02T13:42:13.2640983+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48745590"
-    },
-    "Type": 1,
-    "Title": "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
-    "Url": "https://github.com/emson/claudoro",
-    "Description": "3 weeks ago I had a nasty accident and fractured my vertebrae. As I lay in bed I needed something to take my mind off it all so built \u0026quot;Claudoro\u0026quot;.\u003Cp\u003EClaudoro is a pomodoro timer built right into the Claude Code status line, as well as can be directly controlled from Claude Code and the CLI. A few years ago I built \u0026quot;pymodoro\u0026quot; which was great, but recently I felt I needed something embedded in the tools I actually use, and I also wanted something that was flexible, and I could t",
-    "Metadata": {
-      "score": "5",
-      "author": "emson",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-07-02T13:42:13.2811831+00:00"
   },
   {
     "ExternalId": {
@@ -823,5 +658,455 @@
       "commentCount": "12"
     },
     "FetchedAt": "2026-07-02T13:42:13.5122462+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48763035"
+    },
+    "Type": 1,
+    "Title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+    "Url": "https://mathstodon.xyz/@iblech/116769502749142438",
+    "Description": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+    "Metadata": {
+      "score": "273",
+      "author": "IngoBlechschmid",
+      "commentCount": "133"
+    },
+    "FetchedAt": "2026-07-02T19:13:17.4167613+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48765663"
+    },
+    "Type": 1,
+    "Title": "Exapunks",
+    "Url": "https://www.zachtronics.com/exapunks/",
+    "Description": "Exapunks",
+    "Metadata": {
+      "score": "30",
+      "author": "yu3zhou4",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-07-02T19:13:17.4738959+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48759634"
+    },
+    "Type": 1,
+    "Title": "PeerTube is a free, decentralized and federated video platform",
+    "Url": "https://github.com/Chocobozzz/PeerTube",
+    "Description": "PeerTube is a free, decentralized and federated video platform",
+    "Metadata": {
+      "score": "296",
+      "author": "doener",
+      "commentCount": "105"
+    },
+    "FetchedAt": "2026-07-02T19:13:17.5306235+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48755965"
+    },
+    "Type": 1,
+    "Title": "Android Developer Verification: Threat masquerading as protection",
+    "Url": "https://f-droid.org/2026/07/01/adv-malware.html",
+    "Description": "Android Developer Verification: Threat masquerading as protection",
+    "Metadata": {
+      "score": "1441",
+      "author": "drewfax",
+      "commentCount": "594"
+    },
+    "FetchedAt": "2026-07-02T19:13:17.587756+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48761118"
+    },
+    "Type": 1,
+    "Title": "How to ask for help from people who don\u0027t know you",
+    "Url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
+    "Description": "How to ask for help from people who don\u0027t know you",
+    "Metadata": {
+      "score": "218",
+      "author": "FigurativeVoid",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-07-02T19:13:17.6438247+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48762098"
+    },
+    "Type": 1,
+    "Title": "Podman v6.0.0",
+    "Url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+    "Description": "Podman v6.0.0",
+    "Metadata": {
+      "score": "102",
+      "author": "soheilpro",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-07-02T19:13:17.6996506+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48762862"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Manufact (YC S25) \u2013 MCP Cloud",
+    "Url": "https://manufact.com",
+    "Description": "Hi HN, we are Pietro and Luigi, cofounders of Manufact (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;manufact.com\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;manufact.com\u003C/a\u003E), a cloud for MCP apps and servers. We used to be called mcp-use, and still build open source SDKs for MCP under that name: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;mcp-use\u0026#x2F;mcp-use\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;mcp-use\u0026#x2F;mcp-use\u003C/a\u003E. We did a Show HN about that last year: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=4474",
+    "Metadata": {
+      "score": "76",
+      "author": "pzullo",
+      "commentCount": "49"
+    },
+    "FetchedAt": "2026-07-02T19:13:17.7566763+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48765743"
+    },
+    "Type": 1,
+    "Title": "Klara and the Sun Essay Contest \u2013 $1k Prize \u2013 AI Use Allowed",
+    "Url": "https://willpenman.com/klara/",
+    "Description": "Klara and the Sun Essay Contest \u2013 $1k Prize \u2013 AI Use Allowed",
+    "Metadata": {
+      "score": "6",
+      "author": "fkozlowski",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-07-02T19:13:17.8127158+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48761536"
+    },
+    "Type": 1,
+    "Title": "AI can\u0027t be listed as inventor on patent applications, Japan\u0027s top court rules",
+    "Url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+    "Description": "AI can\u0027t be listed as inventor on patent applications, Japan\u0027s top court rules",
+    "Metadata": {
+      "score": "276",
+      "author": "mushstory",
+      "commentCount": "147"
+    },
+    "FetchedAt": "2026-07-02T19:13:17.8686929+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48762725"
+    },
+    "Type": 1,
+    "Title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+    "Url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
+    "Description": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+    "Metadata": {
+      "score": "251",
+      "author": "mgh2",
+      "commentCount": "51"
+    },
+    "FetchedAt": "2026-07-02T19:13:17.9243278+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48702006"
+    },
+    "Type": 1,
+    "Title": "German button maker searched rivers of American Midwest for valuable shells",
+    "Url": "https://www.smithsonianmag.com/smithsonian-institution/how-one-german-button-maker-searched-the-rivers-of-the-american-midwest-for-the-shells-that-could-make-him-a-fortune-180989012/",
+    "Description": "German button maker searched rivers of American Midwest for valuable shells",
+    "Metadata": {
+      "score": "101",
+      "author": "bookofjoe",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-07-02T19:13:17.9799012+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48762038"
+    },
+    "Type": 1,
+    "Title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
+    "Url": "https://github.com/rafal-qa/slopo",
+    "Description": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
+    "Metadata": {
+      "score": "54",
+      "author": "rkochanowski",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-07-02T19:13:18.0354099+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48756602"
+    },
+    "Type": 1,
+    "Title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+    "Url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+    "Description": "Kimi K2.7 Code is generally available in GitHub Copilot",
+    "Metadata": {
+      "score": "369",
+      "author": "unliftedq",
+      "commentCount": "154"
+    },
+    "FetchedAt": "2026-07-02T19:13:18.0913004+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48761229"
+    },
+    "Type": 1,
+    "Title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
+    "Url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
+    "Description": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
+    "Metadata": {
+      "score": "310",
+      "author": "toomuchtodo",
+      "commentCount": "135"
+    },
+    "FetchedAt": "2026-07-02T19:13:18.1476174+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48760201"
+    },
+    "Type": 1,
+    "Title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
+    "Url": "https://arxiv.org/abs/2607.01232",
+    "Description": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
+    "Metadata": {
+      "score": "109",
+      "author": "tcp_handshaker",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-07-02T19:13:18.2033696+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48762008"
+    },
+    "Type": 1,
+    "Title": "No LLM Code in Dependencies",
+    "Url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
+    "Description": "No LLM Code in Dependencies",
+    "Metadata": {
+      "score": "38",
+      "author": "edward",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-07-02T19:13:18.2598948+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48759870"
+    },
+    "Type": 1,
+    "Title": "The primary purpose of code review is to find code that will be hard to maintain",
+    "Url": "https://mathstodon.xyz/@mjd/115096720350507897",
+    "Description": "The primary purpose of code review is to find code that will be hard to maintain",
+    "Metadata": {
+      "score": "262",
+      "author": "ColinWright",
+      "commentCount": "141"
+    },
+    "FetchedAt": "2026-07-02T19:13:18.3550998+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48761068"
+    },
+    "Type": 1,
+    "Title": "Hazel (YC W24) Is Hiring for Our Largest Government Contract",
+    "Url": "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci",
+    "Description": "Hazel (YC W24) Is Hiring for Our Largest Government Contract",
+    "Metadata": {
+      "score": "1",
+      "author": "augustschen",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-02T19:13:18.4126965+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48758048"
+    },
+    "Type": 1,
+    "Title": "The fall of the theorem economy",
+    "Url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+    "Description": "The fall of the theorem economy",
+    "Metadata": {
+      "score": "210",
+      "author": "varjag",
+      "commentCount": "91"
+    },
+    "FetchedAt": "2026-07-02T19:13:18.4700283+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48761294"
+    },
+    "Type": 1,
+    "Title": "Show HN: A graph paper generator that renders vector PDFs in the browser",
+    "Url": "https://freegraphpaper.net/",
+    "Description": "Show HN: A graph paper generator that renders vector PDFs in the browser",
+    "Metadata": {
+      "score": "65",
+      "author": "lam_hg94",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-07-02T19:13:18.5269284+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48710537"
+    },
+    "Type": 1,
+    "Title": "WinPE as a stateless harness for Windows driver testing and fuzzing",
+    "Url": "https://bednars.me/blog/winpe-harness",
+    "Description": "WinPE as a stateless harness for Windows driver testing and fuzzing",
+    "Metadata": {
+      "score": "70",
+      "author": "piotrbednarsalt",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-07-02T19:13:18.5836456+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48762000"
+    },
+    "Type": 1,
+    "Title": "Show HN: Mail Memories \u2013 A desktop app to rescue photos from Gmail",
+    "Url": "https://mailmemories.com",
+    "Description": "Hey HN, I\u2019m the creator of Mail Memories. Like many of you, I\u0026#x27;ve had my Gmail address for more than 20 years. A few years ago, I got curious and wanted to see what photos were buried deep in my account. I ended up finding lots of \u0026quot;lost\u0026quot; pictures of old friends, family members, and a ridiculous number of vintage memes.\u003Cp\u003EI originally built and launched this as a SaaS, but even with code and policies in place that kept users\u0026#x27; photos private, I figured everyone would feel more c",
+    "Metadata": {
+      "score": "89",
+      "author": "ltiger",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-07-02T19:13:18.6398662+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48761493"
+    },
+    "Type": 1,
+    "Title": "Show HN: ZeroFS \u2013 A log-structured filesystem for S3",
+    "Url": "https://www.zerofs.net/",
+    "Description": "Show HN: ZeroFS \u2013 A log-structured filesystem for S3",
+    "Metadata": {
+      "score": "96",
+      "author": "Eikon",
+      "commentCount": "47"
+    },
+    "FetchedAt": "2026-07-02T19:13:18.696105+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48756840"
+    },
+    "Type": 1,
+    "Title": "CursorBench 3.1",
+    "Url": "https://cursor.com/evals",
+    "Description": "CursorBench 3.1",
+    "Metadata": {
+      "score": "147",
+      "author": "handfuloflight",
+      "commentCount": "81"
+    },
+    "FetchedAt": "2026-07-02T19:13:18.7521046+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48745590"
+    },
+    "Type": 1,
+    "Title": "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
+    "Url": "https://github.com/emson/claudoro",
+    "Description": "3 weeks ago I had a nasty accident and fractured my vertebrae. As I lay in bed I needed something to take my mind off it all so built \u0026quot;Claudoro\u0026quot;.\u003Cp\u003EClaudoro is a pomodoro timer built right into the Claude Code status line, as well as can be directly controlled from Claude Code and the CLI. A few years ago I built \u0026quot;pymodoro\u0026quot; which was great, but recently I felt I needed something embedded in the tools I actually use, and I also wanted something that was flexible, and I could t",
+    "Metadata": {
+      "score": "38",
+      "author": "emson",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-07-02T19:13:18.8075436+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48760669"
+    },
+    "Type": 1,
+    "Title": "Germany\u2019s Infineon opens major chip plant as EU seeks tech autonomy",
+    "Url": "https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy",
+    "Description": "Germany\u2019s Infineon opens major chip plant as EU seeks tech autonomy",
+    "Metadata": {
+      "score": "166",
+      "author": "giuliomagnifico",
+      "commentCount": "48"
+    },
+    "FetchedAt": "2026-07-02T19:13:18.8649947+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48732250"
+    },
+    "Type": 1,
+    "Title": "Too many tables are bad for you",
+    "Url": "https://www.cybertec-postgresql.com/en/too-many-tables-are-bad/",
+    "Description": "Too many tables are bad for you",
+    "Metadata": {
+      "score": "6",
+      "author": "0x54MUR41",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-02T19:13:18.9209557+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48755928"
+    },
+    "Type": 1,
+    "Title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+    "Url": "https://senior-swe-bench.snorkel.ai/",
+    "Description": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+    "Metadata": {
+      "score": "152",
+      "author": "matt_d",
+      "commentCount": "102"
+    },
+    "FetchedAt": "2026-07-02T19:13:18.9774955+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48706825"
+    },
+    "Type": 1,
+    "Title": "How VictoriaLogs Stores Your Logs in a Columnar Layout",
+    "Url": "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/index.html",
+    "Description": "How VictoriaLogs Stores Your Logs in a Columnar Layout",
+    "Metadata": {
+      "score": "14",
+      "author": "eatonphil",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-07-02T19:13:19.032654+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48759761"
+    },
+    "Type": 1,
+    "Title": "Vite\u002B Beta",
+    "Url": "https://voidzero.dev/posts/announcing-vite-plus-beta",
+    "Description": "Vite\u002B Beta",
+    "Metadata": {
+      "score": "201",
+      "author": "Erenay09",
+      "commentCount": "123"
+    },
+    "FetchedAt": "2026-07-02T19:13:19.0882666+00:00"
   }
 ]
