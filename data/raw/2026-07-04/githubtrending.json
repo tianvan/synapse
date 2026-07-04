@@ -1,0 +1,236 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:usestrix/strix"
+    },
+    "Type": 0,
+    "Title": "usestrix/strix",
+    "Url": "https://github.com/usestrix/strix",
+    "Description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
+    "Metadata": {
+      "owner": "usestrix",
+      "repo": "strix",
+      "language": "Python",
+      "stars": "2,803",
+      "topics": "agents, ai-hacking, ai-penetration-testing, ai-pentesting, ai-security, artificial-intelligence, bug-bounty, code-quality, ctf-tools, cybersecurity, cybersecurity-tools, ethical-hacking, hacking, llm-security, offensive-security, penetration-testing, pentesting-tools, red-teaming, security, security-automation"
+    },
+    "FetchedAt": "2026-07-04T02:08:49.6181435+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:openai/codex-plugin-cc"
+    },
+    "Type": 0,
+    "Title": "openai/codex-plugin-cc",
+    "Url": "https://github.com/openai/codex-plugin-cc",
+    "Description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "Metadata": {
+      "owner": "openai",
+      "repo": "codex-plugin-cc",
+      "language": "JavaScript",
+      "stars": "634"
+    },
+    "FetchedAt": "2026-07-04T02:08:49.9188171+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:elastic/elasticsearch"
+    },
+    "Type": 0,
+    "Title": "elastic/elasticsearch",
+    "Url": "https://github.com/elastic/elasticsearch",
+    "Description": "Free and Open Source, Distributed, RESTful Search Engine",
+    "Metadata": {
+      "owner": "elastic",
+      "repo": "elasticsearch",
+      "language": "Java",
+      "stars": "91",
+      "topics": "elasticsearch, java, search-engine"
+    },
+    "FetchedAt": "2026-07-04T02:08:50.1140663+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:actions/checkout"
+    },
+    "Type": 0,
+    "Title": "actions/checkout",
+    "Url": "https://github.com/actions/checkout",
+    "Description": "Action for checking out a repo",
+    "Metadata": {
+      "owner": "actions",
+      "repo": "checkout",
+      "language": "TypeScript",
+      "stars": "129"
+    },
+    "FetchedAt": "2026-07-04T02:08:50.340288+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ChromeDevTools/chrome-devtools-mcp"
+    },
+    "Type": 0,
+    "Title": "ChromeDevTools/chrome-devtools-mcp",
+    "Url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "Description": "Chrome DevTools for coding agents",
+    "Metadata": {
+      "owner": "ChromeDevTools",
+      "repo": "chrome-devtools-mcp",
+      "language": "TypeScript",
+      "stars": "405",
+      "topics": "browser, chrome, chrome-devtools, debugging, devtools, mcp, mcp-server, puppeteer"
+    },
+    "FetchedAt": "2026-07-04T02:08:50.5365094+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ansible/ansible"
+    },
+    "Type": 0,
+    "Title": "ansible/ansible",
+    "Url": "https://github.com/ansible/ansible",
+    "Description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+    "Metadata": {
+      "owner": "ansible",
+      "repo": "ansible",
+      "language": "Python",
+      "stars": "65",
+      "topics": "ansible, python"
+    },
+    "FetchedAt": "2026-07-04T02:08:50.8001561+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:facebook/astryx"
+    },
+    "Type": 0,
+    "Title": "facebook/astryx",
+    "Url": "https://github.com/facebook/astryx",
+    "Description": "An open source design system that\u0027s fully customizable and agent ready",
+    "Metadata": {
+      "owner": "facebook",
+      "repo": "astryx",
+      "language": "TypeScript",
+      "stars": "885"
+    },
+    "FetchedAt": "2026-07-04T02:08:51.0328041+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:rommapp/romm"
+    },
+    "Type": 0,
+    "Title": "rommapp/romm",
+    "Url": "https://github.com/rommapp/romm",
+    "Description": "A beautiful, powerful, self-hosted rom manager and player.",
+    "Metadata": {
+      "owner": "rommapp",
+      "repo": "romm",
+      "language": "Python",
+      "stars": "239",
+      "topics": "emulation, open-source, retrogaming, rommapp, self-hosted"
+    },
+    "FetchedAt": "2026-07-04T02:08:51.2323662+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:harvard-edge/cs249r_book"
+    },
+    "Type": 0,
+    "Title": "harvard-edge/cs249r_book",
+    "Url": "https://github.com/harvard-edge/cs249r_book",
+    "Description": "Machine Learning Systems",
+    "Metadata": {
+      "owner": "harvard-edge",
+      "repo": "cs249r_book",
+      "language": "Python",
+      "stars": "793",
+      "topics": "artificial-intelligence, cloud-ml, computer-systems, courseware, deep-learning, edge-machine-learning, embedded-ml, machine-learning, machine-learning-systems, mobile-ml, textbook, tinyml"
+    },
+    "FetchedAt": "2026-07-04T02:08:51.4199784+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pytorch/pytorch"
+    },
+    "Type": 0,
+    "Title": "pytorch/pytorch",
+    "Url": "https://github.com/pytorch/pytorch",
+    "Description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "Metadata": {
+      "owner": "pytorch",
+      "repo": "pytorch",
+      "language": "Python",
+      "stars": "293",
+      "topics": "autograd, deep-learning, gpu, machine-learning, neural-network, numpy, python, tensor"
+    },
+    "FetchedAt": "2026-07-04T02:08:51.6619641+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:apache/maven"
+    },
+    "Type": 0,
+    "Title": "apache/maven",
+    "Url": "https://github.com/apache/maven",
+    "Description": "Apache Maven core",
+    "Metadata": {
+      "owner": "apache",
+      "repo": "maven",
+      "language": "Java",
+      "stars": "58",
+      "topics": "apache-maven, build-management, hacktoberfest, java, maven"
+    },
+    "FetchedAt": "2026-07-04T02:08:51.8764673+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-code"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-code",
+    "Url": "https://github.com/anthropics/claude-code",
+    "Description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-code",
+      "language": "Python",
+      "stars": "221"
+    },
+    "FetchedAt": "2026-07-04T02:08:52.0786828+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:agentskills/agentskills"
+    },
+    "Type": 0,
+    "Title": "agentskills/agentskills",
+    "Url": "https://github.com/agentskills/agentskills",
+    "Description": "Specification and documentation for Agent Skills",
+    "Metadata": {
+      "owner": "agentskills",
+      "repo": "agentskills",
+      "language": "Python",
+      "stars": "406",
+      "topics": "agent-skills"
+    },
+    "FetchedAt": "2026-07-04T02:08:52.2887137+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:TencentCloud/CubeSandbox"
+    },
+    "Type": 0,
+    "Title": "TencentCloud/CubeSandbox",
+    "Url": "https://github.com/TencentCloud/CubeSandbox",
+    "Description": "Instant, Concurrent, Secure \u0026 Lightweight Sandbox for AI Agents.",
+    "Metadata": {
+      "owner": "TencentCloud",
+      "repo": "CubeSandbox",
+      "language": "Rust",
+      "stars": "60",
+      "topics": "agents, container, sandbox"
+    },
+    "FetchedAt": "2026-07-04T02:08:52.4923188+00:00"
+  }
+]
