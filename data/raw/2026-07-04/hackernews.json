@@ -301,126 +301,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48783948"
-    },
-    "Type": 1,
-    "Title": "Astrophysicists Puzzle over Webb\u2019s New Universe",
-    "Url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
-    "Description": "Astrophysicists Puzzle over Webb\u2019s New Universe",
-    "Metadata": {
-      "score": "63",
-      "author": "jnord",
-      "commentCount": "23"
-    },
-    "FetchedAt": "2026-07-04T13:06:03.2115576+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48746327"
-    },
-    "Type": 1,
-    "Title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
-    "Url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
-    "Description": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
-    "Metadata": {
-      "score": "25",
-      "author": "cf100clunk",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-07-04T13:06:03.2544766+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48783117"
-    },
-    "Type": 1,
-    "Title": "The bottleneck might be the air in the room",
-    "Url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-    "Description": "The bottleneck might be the air in the room",
-    "Metadata": {
-      "score": "451",
-      "author": "gslin",
-      "commentCount": "274"
-    },
-    "FetchedAt": "2026-07-04T13:06:03.2982337+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48745855"
-    },
-    "Type": 1,
-    "Title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
-    "Url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
-    "Description": "Postgres data stored in Parquet on S3: LTAP architecture explained",
-    "Metadata": {
-      "score": "61",
-      "author": "andrenotgiant",
-      "commentCount": "21"
-    },
-    "FetchedAt": "2026-07-04T13:06:03.3411665+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48782435"
-    },
-    "Type": 1,
-    "Title": "Maybe you should learn something",
-    "Url": "https://www.marginalia.nu/log/a_135_learn/",
-    "Description": "Maybe you should learn something",
-    "Metadata": {
-      "score": "174",
-      "author": "tylerdane",
-      "commentCount": "75"
-    },
-    "FetchedAt": "2026-07-04T13:06:03.3838948+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48780417"
-    },
-    "Type": 1,
-    "Title": "Performance per dollar is getting faster and cheaper",
-    "Url": "https://www.wafer.ai/blog/glm52-amd",
-    "Description": "Performance per dollar is getting faster and cheaper",
-    "Metadata": {
-      "score": "274",
-      "author": "latchkey",
-      "commentCount": "100"
-    },
-    "FetchedAt": "2026-07-04T13:06:03.426602+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48780801"
-    },
-    "Type": 1,
-    "Title": "Leanstral 1.5: Proof abundance for all",
-    "Url": "https://mistral.ai/news/leanstral-1-5/",
-    "Description": "Leanstral 1.5: Proof abundance for all",
-    "Metadata": {
-      "score": "276",
-      "author": "programLyrique",
-      "commentCount": "82"
-    },
-    "FetchedAt": "2026-07-04T13:06:03.4691124+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48739018"
-    },
-    "Type": 1,
-    "Title": "Mir Books \u2013 Books from the Soviet Era",
-    "Url": "https://mirtitles.org",
-    "Description": "Mir Books \u2013 Books from the Soviet Era",
-    "Metadata": {
-      "score": "108",
-      "author": "clmul",
-      "commentCount": "49"
-    },
-    "FetchedAt": "2026-07-04T13:06:03.5115833+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48776044"
     },
     "Type": 1,
@@ -433,21 +313,6 @@
       "commentCount": "403"
     },
     "FetchedAt": "2026-07-04T13:06:03.5542978+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48780870"
-    },
-    "Type": 1,
-    "Title": "Giant trees have no trouble pumping water to top branches: new research",
-    "Url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
-    "Description": "Giant trees have no trouble pumping water to top branches: new research",
-    "Metadata": {
-      "score": "223",
-      "author": "hhs",
-      "commentCount": "102"
-    },
-    "FetchedAt": "2026-07-04T13:06:03.5970375+00:00"
   },
   {
     "ExternalId": {
@@ -748,5 +613,455 @@
       "commentCount": "0"
     },
     "FetchedAt": "2026-07-04T13:06:04.4525406+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48786781"
+    },
+    "Type": 1,
+    "Title": "Leaking YouTube creators\u0027 private videos",
+    "Url": "https://javoriuski.com/post/youtube",
+    "Description": "Leaking YouTube creators\u0027 private videos",
+    "Metadata": {
+      "score": "213",
+      "author": "javxfps",
+      "commentCount": "102"
+    },
+    "FetchedAt": "2026-07-04T18:59:19.1035948+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48786838"
+    },
+    "Type": 1,
+    "Title": "Google Books (or similar) all book scans \u2013 $200k bounty (2025)",
+    "Url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+    "Description": "Google Books (or similar) all book scans \u2013 $200k bounty (2025)",
+    "Metadata": {
+      "score": "116",
+      "author": "Cider9986",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-07-04T18:59:19.1504173+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48787042"
+    },
+    "Type": 1,
+    "Title": "No more than 100 000 faint satellites should orbit Earth",
+    "Url": "https://www.eso.org/public/news/eso2607/",
+    "Description": "No more than 100 000 faint satellites should orbit Earth",
+    "Metadata": {
+      "score": "60",
+      "author": "Breadmaker",
+      "commentCount": "48"
+    },
+    "FetchedAt": "2026-07-04T18:59:19.2093642+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48785485"
+    },
+    "Type": 1,
+    "Title": "Potential session/cache leakage between workspace instances or consumer accounts",
+    "Url": "https://github.com/anthropics/claude-code/issues/74066",
+    "Description": "Potential session/cache leakage between workspace instances or consumer accounts",
+    "Metadata": {
+      "score": "224",
+      "author": "chatmasta",
+      "commentCount": "108"
+    },
+    "FetchedAt": "2026-07-04T18:59:19.2440159+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48787329"
+    },
+    "Type": 1,
+    "Title": "Verizon is About to Break our Watches",
+    "Url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+    "Description": "Verizon is About to Break our Watches",
+    "Metadata": {
+      "score": "29",
+      "author": "jefftk",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-07-04T18:59:19.2691527+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48784777"
+    },
+    "Type": 1,
+    "Title": "Explanation of everything you can see in htop/top on Linux (2019)",
+    "Url": "https://peteris.rocks/blog/htop/",
+    "Description": "Explanation of everything you can see in htop/top on Linux (2019)",
+    "Metadata": {
+      "score": "281",
+      "author": "theanonymousone",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-07-04T18:59:19.2882659+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48787201"
+    },
+    "Type": 1,
+    "Title": "BareMetal RAM Dumper \u2013 Bare-metal x86 tool for Cold Boot Attack experiments",
+    "Url": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
+    "Description": "BareMetal RAM Dumper \u2013 Bare-metal x86 tool for Cold Boot Attack experiments",
+    "Metadata": {
+      "score": "18",
+      "author": "liffik",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-04T18:59:19.3053321+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48785840"
+    },
+    "Type": 1,
+    "Title": "Windows CE Dreamcast Community Edition (wince-dc)",
+    "Url": "https://github.com/maximqaxd/wince-dc",
+    "Description": "Windows CE Dreamcast Community Edition (wince-dc)",
+    "Metadata": {
+      "score": "49",
+      "author": "msephton",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-07-04T18:59:19.3231075+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48786495"
+    },
+    "Type": 1,
+    "Title": "Curveball",
+    "Url": "https://mightyburger.net/projects/curveball/",
+    "Description": "Curveball",
+    "Metadata": {
+      "score": "27",
+      "author": "toilet",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-07-04T18:59:19.3416335+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48786782"
+    },
+    "Type": 1,
+    "Title": "Meta data center water discharges suspended for contaminating water supply",
+    "Url": "https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system",
+    "Description": "Meta data center water discharges suspended for contaminating water supply",
+    "Metadata": {
+      "score": "74",
+      "author": "sensanaty",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-07-04T18:59:19.3575893+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48783948"
+    },
+    "Type": 1,
+    "Title": "Astrophysicists Puzzle over Webb\u2019s New Universe",
+    "Url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
+    "Description": "Astrophysicists Puzzle over Webb\u2019s New Universe",
+    "Metadata": {
+      "score": "159",
+      "author": "jnord",
+      "commentCount": "95"
+    },
+    "FetchedAt": "2026-07-04T18:59:19.3750777+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48786880"
+    },
+    "Type": 1,
+    "Title": "Plein Air",
+    "Url": "https://art.joonas.wtf/",
+    "Description": "Plein Air",
+    "Metadata": {
+      "score": "20",
+      "author": "bookofjoe",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-07-04T18:59:19.3999024+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48786868"
+    },
+    "Type": 1,
+    "Title": "Finland\u0027s last analogue landline phones go silent after 150 years",
+    "Url": "https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years",
+    "Description": "Finland\u0027s last analogue landline phones go silent after 150 years",
+    "Metadata": {
+      "score": "46",
+      "author": "ohjeez",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-07-04T18:59:19.4232831+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48782435"
+    },
+    "Type": 1,
+    "Title": "Maybe you should learn something",
+    "Url": "https://www.marginalia.nu/log/a_135_learn/",
+    "Description": "Maybe you should learn something",
+    "Metadata": {
+      "score": "364",
+      "author": "tylerdane",
+      "commentCount": "170"
+    },
+    "FetchedAt": "2026-07-04T18:59:19.4415669+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48746090"
+    },
+    "Type": 1,
+    "Title": "Designing DB partitions you don\u0027t have to babysit",
+    "Url": "https://explainanalyze.com/p/designing-partitioning-you-dont-have-to-babysit/",
+    "Description": "Designing DB partitions you don\u0027t have to babysit",
+    "Metadata": {
+      "score": "29",
+      "author": "rtolkachev",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-04T18:59:19.457548+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48753160"
+    },
+    "Type": 1,
+    "Title": "Neural Render Proxies for Interactive and Differentiable Lighting",
+    "Url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
+    "Description": "Neural Render Proxies for Interactive and Differentiable Lighting",
+    "Metadata": {
+      "score": "16",
+      "author": "tobr",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-07-04T18:59:19.4745913+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48730868"
+    },
+    "Type": 1,
+    "Title": "The .join() that should be a bug",
+    "Url": "https://kronotop.com/blog/the-join-that-should-be-a-bug/",
+    "Description": "The .join() that should be a bug",
+    "Metadata": {
+      "score": "5",
+      "author": "mastabadtomm",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-04T18:59:19.4928158+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48787725"
+    },
+    "Type": 1,
+    "Title": "As downtown Seattle offices empty, city facing years of \u0027zombie\u0027 towers",
+    "Url": "https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/",
+    "Description": "As downtown Seattle offices empty, city facing years of \u0027zombie\u0027 towers",
+    "Metadata": {
+      "score": "8",
+      "author": "petethomas",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-04T18:59:19.5318509+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48746327"
+    },
+    "Type": 1,
+    "Title": "The Vespa at 80",
+    "Url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
+    "Description": "The Vespa at 80",
+    "Metadata": {
+      "score": "118",
+      "author": "cf100clunk",
+      "commentCount": "100"
+    },
+    "FetchedAt": "2026-07-04T18:59:19.6167393+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48745855"
+    },
+    "Type": 1,
+    "Title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+    "Url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
+    "Description": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+    "Metadata": {
+      "score": "134",
+      "author": "andrenotgiant",
+      "commentCount": "43"
+    },
+    "FetchedAt": "2026-07-04T18:59:19.6755494+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48739446"
+    },
+    "Type": 1,
+    "Title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language",
+    "Url": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
+    "Description": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language",
+    "Metadata": {
+      "score": "56",
+      "author": "yyyk",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-07-04T18:59:19.7061527+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48787058"
+    },
+    "Type": 1,
+    "Title": "Sick leave: Germany rising but not the worst in Europe",
+    "Url": "https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488",
+    "Description": "Sick leave: Germany rising but not the worst in Europe",
+    "Metadata": {
+      "score": "22",
+      "author": "bushwart",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-07-04T18:59:19.7532471+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48783117"
+    },
+    "Type": 1,
+    "Title": "The bottleneck might be the air in the room",
+    "Url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+    "Description": "The bottleneck might be the air in the room",
+    "Metadata": {
+      "score": "676",
+      "author": "gslin",
+      "commentCount": "381"
+    },
+    "FetchedAt": "2026-07-04T18:59:19.8592322+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48737068"
+    },
+    "Type": 1,
+    "Title": "Night Witches \u2013 all-female Soviet aviator regiment WW2",
+    "Url": "https://en.wikipedia.org/wiki/Night_Witches",
+    "Description": "Night Witches \u2013 all-female Soviet aviator regiment WW2",
+    "Metadata": {
+      "score": "68",
+      "author": "gverrilla",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-07-04T18:59:19.9399019+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48780417"
+    },
+    "Type": 1,
+    "Title": "Performance per dollar is getting faster and cheaper",
+    "Url": "https://www.wafer.ai/blog/glm52-amd",
+    "Description": "Performance per dollar is getting faster and cheaper",
+    "Metadata": {
+      "score": "328",
+      "author": "latchkey",
+      "commentCount": "129"
+    },
+    "FetchedAt": "2026-07-04T18:59:20.0927885+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48780801"
+    },
+    "Type": 1,
+    "Title": "Leanstral 1.5: Proof abundance for all",
+    "Url": "https://mistral.ai/news/leanstral-1-5/",
+    "Description": "Leanstral 1.5: Proof abundance for all",
+    "Metadata": {
+      "score": "332",
+      "author": "programLyrique",
+      "commentCount": "93"
+    },
+    "FetchedAt": "2026-07-04T18:59:20.1490495+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48786970"
+    },
+    "Type": 1,
+    "Title": "EndBASIC 0.14: Are we multimedia yet?",
+    "Url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
+    "Description": "EndBASIC 0.14: Are we multimedia yet?",
+    "Metadata": {
+      "score": "4",
+      "author": "jmmv",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-04T18:59:20.282524+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48739018"
+    },
+    "Type": 1,
+    "Title": "Mir Books \u2013 Books from the Soviet Era",
+    "Url": "https://mirtitles.org",
+    "Description": "Mir Books \u2013 Books from the Soviet Era",
+    "Metadata": {
+      "score": "147",
+      "author": "clmul",
+      "commentCount": "73"
+    },
+    "FetchedAt": "2026-07-04T18:59:20.3737033+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48786713"
+    },
+    "Type": 1,
+    "Title": "Rob Pike \u2013 \u0027Concurrency Is Not Parallelism\u0027 [video] (2012)",
+    "Url": "https://vimeo.com/49718712",
+    "Description": "Rob Pike \u2013 \u0027Concurrency Is Not Parallelism\u0027 [video] (2012)",
+    "Metadata": {
+      "score": "32",
+      "author": "jruohonen",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-07-04T18:59:20.3896731+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48780870"
+    },
+    "Type": 1,
+    "Title": "Giant trees have no trouble pumping water to top branches: new research",
+    "Url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
+    "Description": "Giant trees have no trouble pumping water to top branches: new research",
+    "Metadata": {
+      "score": "254",
+      "author": "hhs",
+      "commentCount": "111"
+    },
+    "FetchedAt": "2026-07-04T18:59:20.4057103+00:00"
   }
 ]
