@@ -496,21 +496,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48791328"
-    },
-    "Type": 1,
-    "Title": "Shadcn/UI now defaults to Base UI instead of Radix",
-    "Url": "https://ui.shadcn.com/docs/changelog",
-    "Description": "Shadcn/UI now defaults to Base UI instead of Radix",
-    "Metadata": {
-      "score": "185",
-      "author": "dabinat",
-      "commentCount": "71"
-    },
-    "FetchedAt": "2026-07-05T13:14:54.1502393+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48793492"
     },
     "Type": 1,
@@ -523,21 +508,6 @@
       "commentCount": "5"
     },
     "FetchedAt": "2026-07-05T13:14:54.2465026+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48790689"
-    },
-    "Type": 1,
-    "Title": "If you\u0027re a button, you have one job",
-    "Url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-    "Description": "If you\u0027re a button, you have one job",
-    "Metadata": {
-      "score": "323",
-      "author": "nozzlegear",
-      "commentCount": "160"
-    },
-    "FetchedAt": "2026-07-05T13:14:54.3664292+00:00"
   },
   {
     "ExternalId": {
@@ -586,36 +556,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48793454"
-    },
-    "Type": 1,
-    "Title": "Introduction to Compilers and Language Design",
-    "Url": "https://dthain.github.io/books/compiler/",
-    "Description": "Introduction to Compilers and Language Design",
-    "Metadata": {
-      "score": "7",
-      "author": "AlexeyBrin",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-07-05T13:14:54.7449054+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48792008"
-    },
-    "Type": 1,
-    "Title": "Fast Software, the Best Software (2019)",
-    "Url": "https://craigmod.com/essays/fast_software/",
-    "Description": "Fast Software, the Best Software (2019)",
-    "Metadata": {
-      "score": "61",
-      "author": "ustad",
-      "commentCount": "28"
-    },
-    "FetchedAt": "2026-07-05T13:14:54.8505842+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48746933"
     },
     "Type": 1,
@@ -628,36 +568,6 @@
       "commentCount": "3"
     },
     "FetchedAt": "2026-07-05T13:14:54.9242844+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48773079"
-    },
-    "Type": 1,
-    "Title": "Pandoc Lua Filters",
-    "Url": "https://pandoc.org/lua-filters.html",
-    "Description": "Pandoc Lua Filters",
-    "Metadata": {
-      "score": "90",
-      "author": "ankitg12",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-07-05T13:14:54.9797675+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48793542"
-    },
-    "Type": 1,
-    "Title": "Show HN: KiCad in the Browser",
-    "Url": "https://demo.pcbjam.com/",
-    "Description": "KiCad, a PCB EDA suite is now working in a browser, you can try it at the link, there\u0026#x27;s a demo project or you can bring your own. Firefox is best, Chrome is good, Safari is \u0026quot;working\u0026quot;.\u003Cp\u003EWe\u2019re Emergence Engineering, a dev shop from Hungary, mostly working with rich text editors, CRDTs. PCBJam started as my (Viktor, CTO, ex-electrical engineer) hobby project but as time went on I put more\nand more energy into it, and a product started shaping up in my head, in the last few months we",
-    "Metadata": {
-      "score": "5",
-      "author": "ViktorEE",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-07-05T13:14:55.0364659+00:00"
   },
   {
     "ExternalId": {
@@ -943,5 +853,455 @@
       "commentCount": "1"
     },
     "FetchedAt": "2026-07-05T13:14:56.670377+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48794446"
+    },
+    "Type": 1,
+    "Title": "Organic Maps",
+    "Url": "https://organicmaps.app/",
+    "Description": "Organic Maps",
+    "Metadata": {
+      "score": "511",
+      "author": "tosh",
+      "commentCount": "152"
+    },
+    "FetchedAt": "2026-07-05T19:04:42.9509353+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48796093"
+    },
+    "Type": 1,
+    "Title": "The Computers Used in Movies",
+    "Url": "https://www.starringthecomputer.com/computers.html",
+    "Description": "The Computers Used in Movies",
+    "Metadata": {
+      "score": "64",
+      "author": "gitowiec",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-07-05T19:04:42.9782788+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48795830"
+    },
+    "Type": 1,
+    "Title": "\u0022These cameras are just like the Eye of Sauron\u0022",
+    "Url": "https://arxiv.org/abs/2602.09239",
+    "Description": "\u0022These cameras are just like the Eye of Sauron\u0022",
+    "Metadata": {
+      "score": "64",
+      "author": "dijksterhuis",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.0062636+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48794750"
+    },
+    "Type": 1,
+    "Title": "It\u0027s not about physical vs. digital games, it\u0027s about ownership",
+    "Url": "https://popcar.bearblog.dev/its-about-ownership/",
+    "Description": "It\u0027s not about physical vs. digital games, it\u0027s about ownership",
+    "Metadata": {
+      "score": "90",
+      "author": "popcar2",
+      "commentCount": "61"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.0340915+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48796817"
+    },
+    "Type": 1,
+    "Title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+    "Url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+    "Description": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+    "Metadata": {
+      "score": "5",
+      "author": "jonahbard",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.062006+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48793454"
+    },
+    "Type": 1,
+    "Title": "Introduction to Compilers and Language Design (2021)",
+    "Url": "https://dthain.github.io/books/compiler/",
+    "Description": "Introduction to Compilers and Language Design (2021)",
+    "Metadata": {
+      "score": "229",
+      "author": "AlexeyBrin",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.091123+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48796743"
+    },
+    "Type": 1,
+    "Title": "Outfit makes you unrecognizable to cameras",
+    "Url": "https://jmagineuniverse.blogspot.com/p/fashion-against-machine-by-olivier-july_01930961321.html",
+    "Description": "Outfit makes you unrecognizable to cameras",
+    "Metadata": {
+      "score": "5",
+      "author": "odilelof",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.1193406+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48794302"
+    },
+    "Type": 1,
+    "Title": "Run Windows 2000 on a DEC Alpha with a new es40 fork",
+    "Url": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
+    "Description": "Run Windows 2000 on a DEC Alpha with a new es40 fork",
+    "Metadata": {
+      "score": "63",
+      "author": "jandeboevrie",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.1477431+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48758802"
+    },
+    "Type": 1,
+    "Title": "The Great Blogging Collapse: What Happened to 100 Successful Blogs?",
+    "Url": "https://danielstanica.com/posts/Great-Blogging-Collapse",
+    "Description": "The Great Blogging Collapse: What Happened to 100 Successful Blogs?",
+    "Metadata": {
+      "score": "77",
+      "author": "thm",
+      "commentCount": "58"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.1755371+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48796792"
+    },
+    "Type": 1,
+    "Title": "You Need a Webring",
+    "Url": "https://shub.club/writings/2026/july/you-need-a-webring/",
+    "Description": "You Need a Webring",
+    "Metadata": {
+      "score": "4",
+      "author": "forthwall",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.2035254+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48786284"
+    },
+    "Type": 1,
+    "Title": "Airplane Boneyards List and Map",
+    "Url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
+    "Description": "Airplane Boneyards List and Map",
+    "Metadata": {
+      "score": "61",
+      "author": "hyperific",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.2320659+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48796552"
+    },
+    "Type": 1,
+    "Title": "The Future of Flipper Zero Development",
+    "Url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+    "Description": "The Future of Flipper Zero Development",
+    "Metadata": {
+      "score": "3",
+      "author": "croes",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.2602181+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48790689"
+    },
+    "Type": 1,
+    "Title": "If you\u0027re a button, you have one job",
+    "Url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+    "Description": "Related: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;aresluna.org\u0026#x2F;show-your-hands-honor\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;aresluna.org\u0026#x2F;show-your-hands-honor\u0026#x2F;\u003C/a\u003E",
+    "Metadata": {
+      "score": "493",
+      "author": "nozzlegear",
+      "commentCount": "244"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.2875689+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48796473"
+    },
+    "Type": 1,
+    "Title": "Every Postcard Tells a Story",
+    "Url": "https://observer.co.uk/style/features/article/every-postcard-tells-a-story",
+    "Description": "Every Postcard Tells a Story",
+    "Metadata": {
+      "score": "3",
+      "author": "NaOH",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.3150234+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48794788"
+    },
+    "Type": 1,
+    "Title": "Why DMARC\u0027s new \u0022NP\u0022 tag can fail with DNSSEC",
+    "Url": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec",
+    "Description": "Why DMARC\u0027s new \u0022NP\u0022 tag can fail with DNSSEC",
+    "Metadata": {
+      "score": "25",
+      "author": "matteocontrini",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.3433129+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48791328"
+    },
+    "Type": 1,
+    "Title": "Shadcn/UI now defaults to Base UI instead of Radix",
+    "Url": "https://ui.shadcn.com/docs/changelog",
+    "Description": "Shadcn/UI now defaults to Base UI instead of Radix",
+    "Metadata": {
+      "score": "255",
+      "author": "dabinat",
+      "commentCount": "138"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.3713467+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48795368"
+    },
+    "Type": 1,
+    "Title": "Zuckerberg\u0027s Increasingly Bizarre War on Whistleblowers",
+    "Url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/#autodisparagement",
+    "Description": "Zuckerberg\u0027s Increasingly Bizarre War on Whistleblowers",
+    "Metadata": {
+      "score": "95",
+      "author": "deely3",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.3991848+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48747733"
+    },
+    "Type": 1,
+    "Title": "The GNU Emacs Architecture: Unlocking the Core [pdf]",
+    "Url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
+    "Description": "The GNU Emacs Architecture: Unlocking the Core [pdf]",
+    "Metadata": {
+      "score": "158",
+      "author": "cenazoic",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.4276859+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48752949"
+    },
+    "Type": 1,
+    "Title": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
+    "Url": "https://github.com/langchain-ai/openwiki",
+    "Description": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
+    "Metadata": {
+      "score": "51",
+      "author": "handfuloflight",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.454962+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48796049"
+    },
+    "Type": 1,
+    "Title": "Taphonomic analysis reveals behavioral \u0026 tech capabilities of Homo floresiensis",
+    "Url": "https://www.science.org/doi/10.1126/sciadv.aeb7219",
+    "Description": "Taphonomic analysis reveals behavioral \u0026 tech capabilities of Homo floresiensis",
+    "Metadata": {
+      "score": "3",
+      "author": "bushwart",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.4839033+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48746038"
+    },
+    "Type": 1,
+    "Title": "Rayfish, Peer-to-peer mesh VPN with no server to trust",
+    "Url": "https://rayfish.xyz/blog/01-introducing-rayfish",
+    "Description": "Rayfish, Peer-to-peer mesh VPN with no server to trust",
+    "Metadata": {
+      "score": "77",
+      "author": "captain_dfx",
+      "commentCount": "50"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.513175+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48793393"
+    },
+    "Type": 1,
+    "Title": "EU Council forces Chat Control via fast-track",
+    "Url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
+    "Description": "EU Council forces Chat Control via fast-track",
+    "Metadata": {
+      "score": "263",
+      "author": "stavros",
+      "commentCount": "135"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.5422748+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48795323"
+    },
+    "Type": 1,
+    "Title": "Installing A/UX 1.1 like it\u0027s the 90s",
+    "Url": "https://thomasw.dev/post/aux11/",
+    "Description": "Installing A/UX 1.1 like it\u0027s the 90s",
+    "Metadata": {
+      "score": "5",
+      "author": "zdw",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.5712888+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48796110"
+    },
+    "Type": 1,
+    "Title": "Moving Back Home Used to Be a Sign of Failure. Now It Shows Financial Savvy",
+    "Url": "https://www.wsj.com/lifestyle/relationships/living-with-parents-finances-0c35530c",
+    "Description": "Moving Back Home Used to Be a Sign of Failure. Now It Shows Financial Savvy",
+    "Metadata": {
+      "score": "14",
+      "author": "apparent",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.6057356+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48795174"
+    },
+    "Type": 1,
+    "Title": "Autonomous flying umbrella follows and shields users from rain and sunlight",
+    "Url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/",
+    "Description": "Autonomous flying umbrella follows and shields users from rain and sunlight",
+    "Metadata": {
+      "score": "58",
+      "author": "amichail",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.6329202+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48773079"
+    },
+    "Type": 1,
+    "Title": "Pandoc Lua Filters",
+    "Url": "https://pandoc.org/lua-filters.html",
+    "Description": "Pandoc Lua Filters",
+    "Metadata": {
+      "score": "128",
+      "author": "ankitg12",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.6618563+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48746771"
+    },
+    "Type": 1,
+    "Title": "Medieval-style fortifications are back in the Sahel",
+    "Url": "https://www.economist.com/middle-east-and-africa/2026/06/25/medieval-style-fortifications-are-back-in-the-sahel",
+    "Description": "Medieval-style fortifications are back in the Sahel",
+    "Metadata": {
+      "score": "67",
+      "author": "andsoitis",
+      "commentCount": "54"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.6901934+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48792008"
+    },
+    "Type": 1,
+    "Title": "Fast Software, the Best Software (2019)",
+    "Url": "https://craigmod.com/essays/fast_software/",
+    "Description": "Fast Software, the Best Software (2019)",
+    "Metadata": {
+      "score": "107",
+      "author": "ustad",
+      "commentCount": "57"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.7183143+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48793542"
+    },
+    "Type": 1,
+    "Title": "Show HN: KiCad in the Browser",
+    "Url": "https://demo.pcbjam.com/",
+    "Description": "KiCad, a PCB EDA suite is now working in a browser, you can try it at the link, there\u0026#x27;s a demo project or you can bring your own. Firefox is best, Chrome is good, Safari is \u0026quot;working\u0026quot;.\u003Cp\u003EWe\u2019re Emergence Engineering, a dev shop from Hungary, mostly working with rich text editors, CRDTs. PCBJam started as my (Viktor, CTO, ex-electrical engineer) hobby project but as time went on I put more\nand more energy into it, and a product started shaping up in my head, in the last few months we",
+    "Metadata": {
+      "score": "75",
+      "author": "ViktorEE",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.7471149+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48762301"
+    },
+    "Type": 1,
+    "Title": "Optimizing an Algorithm That\u0027s Quadratic by Design",
+    "Url": "https://whatchord.earthmanmuons.com/articles/chord-ranking-performance.html",
+    "Description": "Optimizing an Algorithm That\u0027s Quadratic by Design",
+    "Metadata": {
+      "score": "3",
+      "author": "elasticdog",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-05T19:04:43.7748173+00:00"
   }
 ]
