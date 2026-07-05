@@ -1,0 +1,205 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:openai/codex-plugin-cc"
+    },
+    "Type": 0,
+    "Title": "openai/codex-plugin-cc",
+    "Url": "https://github.com/openai/codex-plugin-cc",
+    "Description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "Metadata": {
+      "owner": "openai",
+      "repo": "codex-plugin-cc",
+      "language": "JavaScript",
+      "stars": "718"
+    },
+    "FetchedAt": "2026-07-05T02:24:06.9071734+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alibaba/page-agent"
+    },
+    "Type": 0,
+    "Title": "alibaba/page-agent",
+    "Url": "https://github.com/alibaba/page-agent",
+    "Description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "Metadata": {
+      "owner": "alibaba",
+      "repo": "page-agent",
+      "language": "TypeScript",
+      "stars": "742",
+      "topics": "agent, ai, ai-agents, browser-automation, javascript, mcp, typescript, web"
+    },
+    "FetchedAt": "2026-07-05T02:24:07.0646643+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:usestrix/strix"
+    },
+    "Type": 0,
+    "Title": "usestrix/strix",
+    "Url": "https://github.com/usestrix/strix",
+    "Description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
+    "Metadata": {
+      "owner": "usestrix",
+      "repo": "strix",
+      "language": "Python",
+      "stars": "1,904",
+      "topics": "agents, ai-hacking, ai-penetration-testing, ai-pentesting, ai-security, artificial-intelligence, bug-bounty, code-quality, ctf-tools, cybersecurity, cybersecurity-tools, ethical-hacking, hacking, llm-security, offensive-security, penetration-testing, pentesting-tools, red-teaming, security, security-automation"
+    },
+    "FetchedAt": "2026-07-05T02:24:07.1695718+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ChromeDevTools/chrome-devtools-mcp"
+    },
+    "Type": 0,
+    "Title": "ChromeDevTools/chrome-devtools-mcp",
+    "Url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "Description": "Chrome DevTools for coding agents",
+    "Metadata": {
+      "owner": "ChromeDevTools",
+      "repo": "chrome-devtools-mcp",
+      "language": "TypeScript",
+      "stars": "304",
+      "topics": "browser, chrome, chrome-devtools, debugging, devtools, mcp, mcp-server, puppeteer"
+    },
+    "FetchedAt": "2026-07-05T02:24:07.2824662+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:harvard-edge/cs249r_book"
+    },
+    "Type": 0,
+    "Title": "harvard-edge/cs249r_book",
+    "Url": "https://github.com/harvard-edge/cs249r_book",
+    "Description": "Machine Learning Systems",
+    "Metadata": {
+      "owner": "harvard-edge",
+      "repo": "cs249r_book",
+      "language": "Python",
+      "stars": "443",
+      "topics": "artificial-intelligence, cloud-ml, computer-systems, courseware, deep-learning, edge-machine-learning, embedded-ml, machine-learning, machine-learning-systems, mobile-ml, textbook, tinyml"
+    },
+    "FetchedAt": "2026-07-05T02:24:07.4179722+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:rommapp/romm"
+    },
+    "Type": 0,
+    "Title": "rommapp/romm",
+    "Url": "https://github.com/rommapp/romm",
+    "Description": "A beautiful, powerful, self-hosted rom manager and player.",
+    "Metadata": {
+      "owner": "rommapp",
+      "repo": "romm",
+      "language": "Python",
+      "stars": "398",
+      "topics": "emulation, open-source, retrogaming, rommapp, self-hosted"
+    },
+    "FetchedAt": "2026-07-05T02:24:07.5272735+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:dotnet/skills"
+    },
+    "Type": 0,
+    "Title": "dotnet/skills",
+    "Url": "https://github.com/dotnet/skills",
+    "Description": "Repository for skills to assist AI coding agents with .NET and C#",
+    "Metadata": {
+      "owner": "dotnet",
+      "repo": "skills",
+      "language": "C#",
+      "stars": "59",
+      "topics": "agent-skills"
+    },
+    "FetchedAt": "2026-07-05T02:24:07.6905331+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:agentskills/agentskills"
+    },
+    "Type": 0,
+    "Title": "agentskills/agentskills",
+    "Url": "https://github.com/agentskills/agentskills",
+    "Description": "Specification and documentation for Agent Skills",
+    "Metadata": {
+      "owner": "agentskills",
+      "repo": "agentskills",
+      "language": "Python",
+      "stars": "351",
+      "topics": "agent-skills"
+    },
+    "FetchedAt": "2026-07-05T02:24:07.841406+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:immich-app/immich"
+    },
+    "Type": 0,
+    "Title": "immich-app/immich",
+    "Url": "https://github.com/immich-app/immich",
+    "Description": "High performance self-hosted photo and video management solution.",
+    "Metadata": {
+      "owner": "immich-app",
+      "repo": "immich",
+      "language": "TypeScript",
+      "stars": "201",
+      "topics": "backup-tool, flutter, google-photos, google-photos-alternative, javascript, mobile-app, nestjs, nodejs, photo-gallery, photos, photos-management, self-hosted, svelte, sveltekit, typescript, videos"
+    },
+    "FetchedAt": "2026-07-05T02:24:07.9647841+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:chthollyphile/folia-major"
+    },
+    "Type": 0,
+    "Title": "chthollyphile/folia-major",
+    "Url": "https://github.com/chthollyphile/folia-major",
+    "Description": "\u4E13\u6CE8\u4E8E\u7EDA\u4E3D\u7684\u6B4C\u8BCD\u52A8\u753B\u6548\u679C\u7684\u672C\u5730\u97F3\u4E50/navidrome/\u7B2C\u4E09\u65B9\u7F51\u6613\u4E91\u64AD\u653E\u5668",
+    "Metadata": {
+      "owner": "chthollyphile",
+      "repo": "folia-major",
+      "language": "TypeScript",
+      "stars": "175",
+      "topics": "ai, music, music-player, navidrome-client, netease-music, player, pwa, react, typescript, vercel-deployment"
+    },
+    "FetchedAt": "2026-07-05T02:24:08.083261+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alirezarezvani/claude-skills"
+    },
+    "Type": 0,
+    "Title": "alirezarezvani/claude-skills",
+    "Url": "https://github.com/alirezarezvani/claude-skills",
+    "Description": "337 Claude Code skills \u0026 agent skills \u0026 plugins (30\u002B Agents, 70\u002B custom commands, 330\u002B skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents \u2014 engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial \u0026 finance, and your daily productivity skills.",
+    "Metadata": {
+      "owner": "alirezarezvani",
+      "repo": "claude-skills",
+      "language": "Python",
+      "stars": "136",
+      "topics": "agent-plugins, agent-skills, agentic-ai, ai-coding-agent, anthropic-claude, claude-ai, claude-code, claude-code-plugins, claude-code-skills, claude-skills, codex-skills, coding-agent-plugins, cursor-skills, developer-tools, gemini-cli-skills, openai-codex, openclaw, openclaw-plugins, openclaw-skills, prompt-engineering"
+    },
+    "FetchedAt": "2026-07-05T02:24:08.1982899+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:crynta/terax-ai"
+    },
+    "Type": 0,
+    "Title": "crynta/terax-ai",
+    "Url": "https://github.com/crynta/terax-ai",
+    "Description": "Lightweight (7MB) Terminal-first AI-native dev workspace",
+    "Metadata": {
+      "owner": "crynta",
+      "repo": "terax-ai",
+      "language": "TypeScript",
+      "stars": "62",
+      "topics": "agents, ai, code-editor, linux, macos, reactjs, rust, tauri, terminal, windows, xterm-js"
+    },
+    "FetchedAt": "2026-07-05T02:24:08.2964382+00:00"
+  }
+]
