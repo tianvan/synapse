@@ -1,39 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:openai/codex-plugin-cc"
-    },
-    "Type": 0,
-    "Title": "openai/codex-plugin-cc",
-    "Url": "https://github.com/openai/codex-plugin-cc",
-    "Description": "Use Codex from Claude Code to review code or delegate tasks.",
-    "Metadata": {
-      "owner": "openai",
-      "repo": "codex-plugin-cc",
-      "language": "JavaScript",
-      "stars": "1,532"
-    },
-    "FetchedAt": "2026-07-06T10:00:19.4457116+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:alirezarezvani/claude-skills"
-    },
-    "Type": 0,
-    "Title": "alirezarezvani/claude-skills",
-    "Url": "https://github.com/alirezarezvani/claude-skills",
-    "Description": "337 Claude Code skills \u0026 agent skills \u0026 plugins (30\u002B Agents, 70\u002B custom commands, 330\u002B skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents \u2014 engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial \u0026 finance, and your daily productivity skills.",
-    "Metadata": {
-      "owner": "alirezarezvani",
-      "repo": "claude-skills",
-      "language": "Python",
-      "stars": "392",
-      "topics": "agent-plugins, agent-skills, agentic-ai, ai-coding-agent, anthropic-claude, claude-ai, claude-code, claude-code-plugins, claude-code-skills, claude-skills, codex-skills, coding-agent-plugins, cursor-skills, developer-tools, gemini-cli-skills, openai-codex, openclaw, openclaw-plugins, openclaw-skills, prompt-engineering"
-    },
-    "FetchedAt": "2026-07-06T10:00:19.749185+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:rommapp/romm"
     },
     "Type": 0,
@@ -135,39 +102,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:ruvnet/RuView"
-    },
-    "Type": 0,
-    "Title": "ruvnet/RuView",
-    "Url": "https://github.com/ruvnet/RuView",
-    "Description": "\u03C0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
-    "Metadata": {
-      "owner": "ruvnet",
-      "repo": "RuView",
-      "language": "Rust",
-      "stars": "161",
-      "topics": "awesome, claude, densepose, esp32, firmware, home-assistant, home-automation, iot, monitoring, networking, npm, pose-estimation, react, rf, self-learning, skills, spatial-intelligence, typescript, wifi, wifi-security"
-    },
-    "FetchedAt": "2026-07-06T10:00:21.0579425+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:gastownhall/gastown"
-    },
-    "Type": 0,
-    "Title": "gastownhall/gastown",
-    "Url": "https://github.com/gastownhall/gastown",
-    "Description": "Gas Town - multi-agent workspace manager",
-    "Metadata": {
-      "owner": "gastownhall",
-      "repo": "gastown",
-      "language": "Go",
-      "stars": "51"
-    },
-    "FetchedAt": "2026-07-06T10:00:21.2538267+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:dotnet/skills"
     },
     "Type": 0,
@@ -198,5 +132,172 @@
       "stars": "156"
     },
     "FetchedAt": "2026-07-06T10:00:21.6337937+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "Shell",
+      "stars": "1,114",
+      "topics": "agent-skills, antigravity, antigravity-ide, claude-code, cursor, skills"
+    },
+    "FetchedAt": "2026-07-06T15:16:16.8162397+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ruvnet/RuView"
+    },
+    "Type": 0,
+    "Title": "ruvnet/RuView",
+    "Url": "https://github.com/ruvnet/RuView",
+    "Description": "\u03C0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+    "Metadata": {
+      "owner": "ruvnet",
+      "repo": "RuView",
+      "language": "Rust",
+      "stars": "471",
+      "topics": "awesome, claude, densepose, esp32, firmware, home-assistant, home-automation, iot, monitoring, networking, npm, pose-estimation, react, rf, self-learning, skills, spatial-intelligence, typescript, wifi, wifi-security"
+    },
+    "FetchedAt": "2026-07-06T15:16:16.9430765+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alirezarezvani/claude-skills"
+    },
+    "Type": 0,
+    "Title": "alirezarezvani/claude-skills",
+    "Url": "https://github.com/alirezarezvani/claude-skills",
+    "Description": "337 Claude Code skills \u0026 agent skills \u0026 plugins (30\u002B Agents, 70\u002B custom commands, 330\u002B skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents \u2014 engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial \u0026 finance, and your daily productivity skills.",
+    "Metadata": {
+      "owner": "alirezarezvani",
+      "repo": "claude-skills",
+      "language": "Python",
+      "stars": "611",
+      "topics": "agent-plugins, agent-skills, agentic-ai, ai-coding-agent, anthropic-claude, claude-ai, claude-code, claude-code-plugins, claude-code-skills, claude-skills, codex-skills, coding-agent-plugins, cursor-skills, developer-tools, gemini-cli-skills, openai-codex, openclaw, openclaw-plugins, openclaw-skills, prompt-engineering"
+    },
+    "FetchedAt": "2026-07-06T15:16:17.160472+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:openai/codex-plugin-cc"
+    },
+    "Type": 0,
+    "Title": "openai/codex-plugin-cc",
+    "Url": "https://github.com/openai/codex-plugin-cc",
+    "Description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "Metadata": {
+      "owner": "openai",
+      "repo": "codex-plugin-cc",
+      "language": "JavaScript",
+      "stars": "910"
+    },
+    "FetchedAt": "2026-07-06T15:16:17.2793893+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mvanhorn/last30days-skill"
+    },
+    "Type": 0,
+    "Title": "mvanhorn/last30days-skill",
+    "Url": "https://github.com/mvanhorn/last30days-skill",
+    "Description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "Metadata": {
+      "owner": "mvanhorn",
+      "repo": "last30days-skill",
+      "language": "Python",
+      "stars": "237",
+      "topics": "ai-prompts, ai-skill, bluesky, claude, claude-code, clawhub, deep-research, hackernews, instagram, openclaw, polymarket, recency, reddit, research, social-media, tiktok, trends, twitter, web-search, youtube"
+    },
+    "FetchedAt": "2026-07-06T15:16:17.3992939+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:bradautomates/claude-video"
+    },
+    "Type": 0,
+    "Title": "bradautomates/claude-video",
+    "Url": "https://github.com/bradautomates/claude-video",
+    "Description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "Metadata": {
+      "owner": "bradautomates",
+      "repo": "claude-video",
+      "language": "Python",
+      "stars": "368"
+    },
+    "FetchedAt": "2026-07-06T15:16:17.5110943+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:karakeep-app/karakeep"
+    },
+    "Type": 0,
+    "Title": "karakeep-app/karakeep",
+    "Url": "https://github.com/karakeep-app/karakeep",
+    "Description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+    "Metadata": {
+      "owner": "karakeep-app",
+      "repo": "karakeep",
+      "language": "TypeScript",
+      "stars": "178",
+      "topics": "bookmark-manager, bookmarks, bookmarks-manager, nextjs, react-native, read-it-later, self-hosted"
+    },
+    "FetchedAt": "2026-07-06T15:16:17.6252141+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:firecrawl/firecrawl"
+    },
+    "Type": 0,
+    "Title": "firecrawl/firecrawl",
+    "Url": "https://github.com/firecrawl/firecrawl",
+    "Description": "The API to search, scrape, and interact with the web at scale. \uD83D\uDD25",
+    "Metadata": {
+      "owner": "firecrawl",
+      "repo": "firecrawl",
+      "language": "TypeScript",
+      "stars": "834",
+      "topics": "ai, ai-agents, ai-crawler, ai-scraping, ai-search, crawler, data-extraction, html-to-markdown, llm, markdown, scraper, scraping, web-crawler, web-data, web-data-extraction, web-scraper, web-scraping, web-search, webscraping"
+    },
+    "FetchedAt": "2026-07-06T15:16:17.7614779+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alibaba/zvec"
+    },
+    "Type": 0,
+    "Title": "alibaba/zvec",
+    "Url": "https://github.com/alibaba/zvec",
+    "Description": "A lightweight, lightning-fast, in-process vector database",
+    "Metadata": {
+      "owner": "alibaba",
+      "repo": "zvec",
+      "language": "C\u002B\u002B",
+      "stars": "355",
+      "topics": "agent-skills, db, embedded, faiss, hnsw, llm-memory, local, rag, search-engine, semantic-search, similarity-search, vector-database, vector-db"
+    },
+    "FetchedAt": "2026-07-06T15:16:17.897941+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:gastownhall/gastown"
+    },
+    "Type": 0,
+    "Title": "gastownhall/gastown",
+    "Url": "https://github.com/gastownhall/gastown",
+    "Description": "Gas Town - multi-agent workspace manager",
+    "Metadata": {
+      "owner": "gastownhall",
+      "repo": "gastown",
+      "language": "Go",
+      "stars": "293"
+    },
+    "FetchedAt": "2026-07-06T15:16:18.0611056+00:00"
   }
 ]
