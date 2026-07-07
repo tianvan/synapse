@@ -1,231 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:48811591"
-    },
-    "Type": 1,
-    "Title": "Fable turned reMarkable into Tom Riddle\u0027s diary from Harry Potter",
-    "Url": "https://github.com/MaximeRivest/Riddle",
-    "Description": "Fable turned reMarkable into Tom Riddle\u0027s diary from Harry Potter",
-    "Metadata": {
-      "score": "169",
-      "author": "modinfo",
-      "commentCount": "102"
-    },
-    "FetchedAt": "2026-07-07T02:24:28.0480815+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48812156"
-    },
-    "Type": 1,
-    "Title": "How to sequence your own DNA at home",
-    "Url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-    "Description": "How to sequence your own DNA at home",
-    "Metadata": {
-      "score": "61",
-      "author": "bilsbie",
-      "commentCount": "16"
-    },
-    "FetchedAt": "2026-07-07T02:24:28.1101825+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48808482"
-    },
-    "Type": 1,
-    "Title": "OpenWrt One \u2013 Open Hardware Router",
-    "Url": "https://openwrt.org/toh/openwrt/one",
-    "Description": "OpenWrt One \u2013 Open Hardware Router",
-    "Metadata": {
-      "score": "455",
-      "author": "peter_d_sherman",
-      "commentCount": "178"
-    },
-    "FetchedAt": "2026-07-07T02:24:28.1843088+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48808928"
-    },
-    "Type": 1,
-    "Title": "CoMaps \u2013 FOSS Offline Maps",
-    "Url": "https://www.comaps.app/",
-    "Description": "CoMaps \u2013 FOSS Offline Maps",
-    "Metadata": {
-      "score": "330",
-      "author": "basilikum",
-      "commentCount": "64"
-    },
-    "FetchedAt": "2026-07-07T02:24:28.2448303+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48809877"
-    },
-    "Type": 1,
-    "Title": "GLM 5.2 and the coming AI margin collapse",
-    "Url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-    "Description": "GLM 5.2 and the coming AI margin collapse",
-    "Metadata": {
-      "score": "180",
-      "author": "martinald",
-      "commentCount": "111"
-    },
-    "FetchedAt": "2026-07-07T02:24:28.3057646+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48811644"
-    },
-    "Type": 1,
-    "Title": "Ternlight \u2013 7 MB embedding model that runs in browser (WASM)",
-    "Url": "https://ternlight-demo.vercel.app/",
-    "Description": "Ternlight \u2013 7 MB embedding model that runs in browser (WASM)",
-    "Metadata": {
-      "score": "79",
-      "author": "soycaporal",
-      "commentCount": "27"
-    },
-    "FetchedAt": "2026-07-07T02:24:28.3635722+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48811887"
-    },
-    "Type": 1,
-    "Title": "NSA and IETF: Fairness",
-    "Url": "https://blog.cr.yp.to/20260706-fairness.html",
-    "Description": "NSA and IETF: Fairness",
-    "Metadata": {
-      "score": "45",
-      "author": "WatchDog",
-      "commentCount": "18"
-    },
-    "FetchedAt": "2026-07-07T02:24:28.4227882+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48808002"
-    },
-    "Type": 1,
-    "Title": "A global workspace in language models",
-    "Url": "https://www.anthropic.com/research/global-workspace",
-    "Description": "A global workspace in language models",
-    "Metadata": {
-      "score": "278",
-      "author": "in-silico",
-      "commentCount": "99"
-    },
-    "FetchedAt": "2026-07-07T02:24:28.4815289+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48809354"
-    },
-    "Type": 1,
-    "Title": "Pruning RAG context down to what the answer actually needs",
-    "Url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
-    "Description": "Pruning RAG context down to what the answer actually needs",
-    "Metadata": {
-      "score": "60",
-      "author": "emil_sorensen",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-07-07T02:24:28.5386276+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48812055"
-    },
-    "Type": 1,
-    "Title": "Small AI Models Gain Traction In places with unreliable networks",
-    "Url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-    "Description": "Small AI Models Gain Traction In places with unreliable networks",
-    "Metadata": {
-      "score": "17",
-      "author": "sscaryterry",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-07-07T02:24:28.6177991+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48782248"
-    },
-    "Type": 1,
-    "Title": "A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku",
-    "Url": "https://arxiv.org/abs/2607.02112",
-    "Description": "A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku",
-    "Metadata": {
-      "score": "26",
-      "author": "Jimmc414",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-07-07T02:24:28.6782285+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48804993"
-    },
-    "Type": 1,
-    "Title": "Resetting Xbox",
-    "Url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
-    "Description": "Resetting Xbox",
-    "Metadata": {
-      "score": "489",
-      "author": "dijksterhuis",
-      "commentCount": "471"
-    },
-    "FetchedAt": "2026-07-07T02:24:28.7358863+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48805624"
-    },
-    "Type": 1,
-    "Title": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
-    "Url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-    "Description": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
-    "Metadata": {
-      "score": "279",
-      "author": "LabsLucas",
-      "commentCount": "202"
-    },
-    "FetchedAt": "2026-07-07T02:24:28.7934736+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48808663"
-    },
-    "Type": 1,
-    "Title": "Linux on the Atari Jaguar",
-    "Url": "https://cakehonolulu.github.io/linux-for-jaguar/",
-    "Description": "Linux on the Atari Jaguar",
-    "Metadata": {
-      "score": "111",
-      "author": "cakehonolulu",
-      "commentCount": "19"
-    },
-    "FetchedAt": "2026-07-07T02:24:28.8513515+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48811373"
-    },
-    "Type": 1,
-    "Title": "OpenSSH 10.4/10.4p1 Released",
-    "Url": "https://www.openssh.org/txt/release-10.4",
-    "Description": "OpenSSH 10.4/10.4p1 Released",
-    "Metadata": {
-      "score": "29",
-      "author": "throw0101a",
-      "commentCount": "7"
-    },
-    "FetchedAt": "2026-07-07T02:24:28.9118005+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48806976"
     },
     "Type": 1,
@@ -238,21 +13,6 @@
       "commentCount": "0"
     },
     "FetchedAt": "2026-07-07T02:24:29.0475982+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48811081"
-    },
-    "Type": 1,
-    "Title": "Full Writeup of the Windows GDID",
-    "Url": "https://github.com/SmtimesIWndr/gdid-reversal",
-    "Description": "Full Writeup of the Windows GDID",
-    "Metadata": {
-      "score": "41",
-      "author": "typeofhuman",
-      "commentCount": "20"
-    },
-    "FetchedAt": "2026-07-07T02:24:29.1050001+00:00"
   },
   {
     "ExternalId": {
@@ -283,36 +43,6 @@
       "commentCount": "10"
     },
     "FetchedAt": "2026-07-07T02:24:29.2754052+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48807225"
-    },
-    "Type": 1,
-    "Title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-    "Url": "https://github.com/iOfficeAI/OfficeCLI",
-    "Description": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-    "Metadata": {
-      "score": "128",
-      "author": "maxloh",
-      "commentCount": "36"
-    },
-    "FetchedAt": "2026-07-07T02:24:29.3820867+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48810439"
-    },
-    "Type": 1,
-    "Title": "Learning to code is still worthwhile",
-    "Url": "https://stevekrouse.com/learn-to-code",
-    "Description": "Learning to code is still worthwhile",
-    "Metadata": {
-      "score": "109",
-      "author": "stevekrouse",
-      "commentCount": "111"
-    },
-    "FetchedAt": "2026-07-07T02:24:29.5267366+00:00"
   },
   {
     "ExternalId": {
@@ -391,36 +121,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48807908"
-    },
-    "Type": 1,
-    "Title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
-    "Url": "https://github.com/V4bel/Januscape",
-    "Description": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
-    "Metadata": {
-      "score": "79",
-      "author": "Imustaskforhelp",
-      "commentCount": "26"
-    },
-    "FetchedAt": "2026-07-07T02:24:30.2680228+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48809810"
-    },
-    "Type": 1,
-    "Title": "M/PC \u2013 A Concatenative OS",
-    "Url": "https://wiki.xxiivv.com/site/m_pc.html",
-    "Description": "M/PC \u2013 A Concatenative OS",
-    "Metadata": {
-      "score": "41",
-      "author": "caminanteblanco",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-07-07T02:24:30.4131843+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48811317"
     },
     "Type": 1,
@@ -436,6 +136,381 @@
   },
   {
     "ExternalId": {
+      "Value": "hn:48808482"
+    },
+    "Type": 1,
+    "Title": "OpenWrt One \u2013 Open Hardware Router",
+    "Url": "https://openwrt.org/toh/openwrt/one",
+    "Description": "OpenWrt One \u2013 Open Hardware Router",
+    "Metadata": {
+      "score": "606",
+      "author": "peter_d_sherman",
+      "commentCount": "233"
+    },
+    "FetchedAt": "2026-07-07T09:28:00.7327314+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48808928"
+    },
+    "Type": 1,
+    "Title": "CoMaps \u2013 FOSS Offline Maps",
+    "Url": "https://www.comaps.app/",
+    "Description": "CoMaps \u2013 FOSS Offline Maps",
+    "Metadata": {
+      "score": "548",
+      "author": "basilikum",
+      "commentCount": "116"
+    },
+    "FetchedAt": "2026-07-07T09:28:00.7484707+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48809877"
+    },
+    "Type": 1,
+    "Title": "GLM 5.2 and the coming AI margin collapse",
+    "Url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+    "Description": "GLM 5.2 and the coming AI margin collapse",
+    "Metadata": {
+      "score": "405",
+      "author": "martinald",
+      "commentCount": "249"
+    },
+    "FetchedAt": "2026-07-07T09:28:00.7650319+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48812156"
+    },
+    "Type": 1,
+    "Title": "How to sequence your own DNA at home",
+    "Url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+    "Description": "How to sequence your own DNA at home",
+    "Metadata": {
+      "score": "208",
+      "author": "bilsbie",
+      "commentCount": "73"
+    },
+    "FetchedAt": "2026-07-07T09:28:00.7801858+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48811591"
+    },
+    "Type": 1,
+    "Title": "Fable turned reMarkable into Tom Riddle\u0027s diary from Harry Potter",
+    "Url": "https://github.com/MaximeRivest/Riddle",
+    "Description": "Fable turned reMarkable into Tom Riddle\u0027s diary from Harry Potter",
+    "Metadata": {
+      "score": "449",
+      "author": "modinfo",
+      "commentCount": "273"
+    },
+    "FetchedAt": "2026-07-07T09:28:00.7956335+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48812055"
+    },
+    "Type": 1,
+    "Title": "Small AI Models Gain Traction In places with unreliable networks",
+    "Url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+    "Description": "Small AI Models Gain Traction In places with unreliable networks",
+    "Metadata": {
+      "score": "138",
+      "author": "sscaryterry",
+      "commentCount": "48"
+    },
+    "FetchedAt": "2026-07-07T09:28:00.8151886+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48786124"
+    },
+    "Type": 1,
+    "Title": "Dolosse \u2013 a South African invention used over the world",
+    "Url": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
+    "Description": "Dolosse \u2013 a South African invention used over the world",
+    "Metadata": {
+      "score": "40",
+      "author": "andsoitis",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-07-07T09:28:00.8294754+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48814509"
+    },
+    "Type": 1,
+    "Title": "Lago (YC S21) Is Hiring for Our GTM Team",
+    "Url": "https://jobs.ashbyhq.com/lago",
+    "Description": "Lago (YC S21) Is Hiring for Our GTM Team",
+    "Metadata": {
+      "score": "1",
+      "author": "AnhTho_FR",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-07T09:28:00.8443615+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48811644"
+    },
+    "Type": 1,
+    "Title": "Ternlight \u2013 7 MB embedding model that runs in browser (WASM)",
+    "Url": "https://ternlight-demo.vercel.app/",
+    "Description": "Ternlight \u2013 7 MB embedding model that runs in browser (WASM)",
+    "Metadata": {
+      "score": "217",
+      "author": "soycaporal",
+      "commentCount": "52"
+    },
+    "FetchedAt": "2026-07-07T09:28:00.8583864+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48815196"
+    },
+    "Type": 1,
+    "Title": "Microsoft Can Track Users via a Windows Device ID",
+    "Url": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
+    "Description": "Microsoft Can Track Users via a Windows Device ID",
+    "Metadata": {
+      "score": "23",
+      "author": "ifh-hn",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-07-07T09:28:00.8725465+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48808002"
+    },
+    "Type": 1,
+    "Title": "A global workspace in language models",
+    "Url": "https://www.anthropic.com/research/global-workspace",
+    "Description": "A global workspace in language models",
+    "Metadata": {
+      "score": "367",
+      "author": "in-silico",
+      "commentCount": "135"
+    },
+    "FetchedAt": "2026-07-07T09:28:00.8888391+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48748522"
+    },
+    "Type": 1,
+    "Title": "In Praise of Observational Evidence",
+    "Url": "https://asteriskmag.com/issues/14/in-praise-of-observational-evidence",
+    "Description": "In Praise of Observational Evidence",
+    "Metadata": {
+      "score": "10",
+      "author": "fi-le",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-07T09:28:00.9025459+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48804993"
+    },
+    "Type": 1,
+    "Title": "Resetting Xbox",
+    "Url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+    "Description": "Resetting Xbox",
+    "Metadata": {
+      "score": "611",
+      "author": "dijksterhuis",
+      "commentCount": "661"
+    },
+    "FetchedAt": "2026-07-07T09:28:00.9176527+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48809354"
+    },
+    "Type": 1,
+    "Title": "Pruning RAG context down to what the answer actually needs",
+    "Url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+    "Description": "Pruning RAG context down to what the answer actually needs",
+    "Metadata": {
+      "score": "103",
+      "author": "emil_sorensen",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-07-07T09:28:00.9312895+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48815117"
+    },
+    "Type": 1,
+    "Title": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
+    "Url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+    "Description": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
+    "Metadata": {
+      "score": "34",
+      "author": "theanonymousone",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-07-07T09:28:00.9462807+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48805624"
+    },
+    "Type": 1,
+    "Title": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
+    "Url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+    "Description": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
+    "Metadata": {
+      "score": "326",
+      "author": "LabsLucas",
+      "commentCount": "223"
+    },
+    "FetchedAt": "2026-07-07T09:28:00.959965+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48808663"
+    },
+    "Type": 1,
+    "Title": "Linux on the Atari Jaguar",
+    "Url": "https://cakehonolulu.github.io/linux-for-jaguar/",
+    "Description": "Linux on the Atari Jaguar",
+    "Metadata": {
+      "score": "151",
+      "author": "cakehonolulu",
+      "commentCount": "39"
+    },
+    "FetchedAt": "2026-07-07T09:28:00.9749946+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48778243"
+    },
+    "Type": 1,
+    "Title": "Inkfield",
+    "Url": "https://www.inkfield.studio",
+    "Description": "Inkfield",
+    "Metadata": {
+      "score": "16",
+      "author": "surprisetalk",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-07-07T09:28:00.988603+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48811373"
+    },
+    "Type": 1,
+    "Title": "OpenSSH 10.4/10.4p1 Released",
+    "Url": "https://www.openssh.org/txt/release-10.4",
+    "Description": "OpenSSH 10.4/10.4p1 Released",
+    "Metadata": {
+      "score": "78",
+      "author": "throw0101a",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-07-07T09:28:01.003659+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48813929"
+    },
+    "Type": 1,
+    "Title": "The Art of Computer Programming by Donald E. Knuth",
+    "Url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
+    "Description": "The Art of Computer Programming by Donald E. Knuth",
+    "Metadata": {
+      "score": "10",
+      "author": "archargelod",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-07T09:28:01.0671418+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48807225"
+    },
+    "Type": 1,
+    "Title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+    "Url": "https://github.com/iOfficeAI/OfficeCLI",
+    "Description": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+    "Metadata": {
+      "score": "180",
+      "author": "maxloh",
+      "commentCount": "54"
+    },
+    "FetchedAt": "2026-07-07T09:28:01.1439136+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48810439"
+    },
+    "Type": 1,
+    "Title": "Learning to code is still worthwhile",
+    "Url": "https://stevekrouse.com/learn-to-code",
+    "Description": "Learning to code is still worthwhile",
+    "Metadata": {
+      "score": "198",
+      "author": "stevekrouse",
+      "commentCount": "204"
+    },
+    "FetchedAt": "2026-07-07T09:28:01.2347027+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48782248"
+    },
+    "Type": 1,
+    "Title": "A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku",
+    "Url": "https://arxiv.org/abs/2607.02112",
+    "Description": "A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku",
+    "Metadata": {
+      "score": "41",
+      "author": "Jimmc414",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-07-07T09:28:01.2897634+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48807908"
+    },
+    "Type": 1,
+    "Title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
+    "Url": "https://github.com/V4bel/Januscape",
+    "Description": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
+    "Metadata": {
+      "score": "111",
+      "author": "Imustaskforhelp",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-07-07T09:28:01.3415652+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48809810"
+    },
+    "Type": 1,
+    "Title": "M/PC \u2013 A Concatenative OS",
+    "Url": "https://wiki.xxiivv.com/site/m_pc.html",
+    "Description": "M/PC \u2013 A Concatenative OS",
+    "Metadata": {
+      "score": "63",
+      "author": "caminanteblanco",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-07-07T09:28:02.0916403+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "hn:48747889"
     },
     "Type": 1,
@@ -443,10 +518,70 @@
     "Url": "https://en.wikipedia.org/wiki/Rotman_lens",
     "Description": "Rotman Lens",
     "Metadata": {
-      "score": "76",
+      "score": "112",
       "author": "thomasjb",
-      "commentCount": "20"
+      "commentCount": "32"
     },
-    "FetchedAt": "2026-07-07T02:24:30.5604314+00:00"
+    "FetchedAt": "2026-07-07T09:28:02.128079+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48811887"
+    },
+    "Type": 1,
+    "Title": "NSA and IETF: Fairness",
+    "Url": "https://blog.cr.yp.to/20260706-fairness.html",
+    "Description": "NSA and IETF: Fairness",
+    "Metadata": {
+      "score": "106",
+      "author": "WatchDog",
+      "commentCount": "89"
+    },
+    "FetchedAt": "2026-07-07T09:28:02.1486688+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48806410"
+    },
+    "Type": 1,
+    "Title": "Kani: A Model Checker for Rust",
+    "Url": "https://arxiv.org/abs/2607.01504",
+    "Description": "Kani: A Model Checker for Rust",
+    "Metadata": {
+      "score": "142",
+      "author": "Jimmc414",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-07-07T09:28:02.2223712+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48811081"
+    },
+    "Type": 1,
+    "Title": "Full Writeup of the Windows GDID",
+    "Url": "https://github.com/SmtimesIWndr/gdid-reversal",
+    "Description": "Full Writeup of the Windows GDID",
+    "Metadata": {
+      "score": "68",
+      "author": "typeofhuman",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-07-07T09:28:02.2376867+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48786970"
+    },
+    "Type": 1,
+    "Title": "EndBASIC 0.14: Are we multimedia yet?",
+    "Url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
+    "Description": "EndBASIC 0.14: Are we multimedia yet?",
+    "Metadata": {
+      "score": "39",
+      "author": "jmmv",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-07-07T09:28:02.2865976+00:00"
   }
 ]
