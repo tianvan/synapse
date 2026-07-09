@@ -1,6 +1,22 @@
 [
   {
     "ExternalId": {
+      "Value": "github:MadsLorentzen/ai-job-search"
+    },
+    "Type": 0,
+    "Title": "MadsLorentzen/ai-job-search",
+    "Url": "https://github.com/MadsLorentzen/ai-job-search",
+    "Description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+    "Metadata": {
+      "owner": "MadsLorentzen",
+      "repo": "ai-job-search",
+      "language": "TypeScript",
+      "stars": "5,079"
+    },
+    "FetchedAt": "2026-07-09T09:24:38.7597376+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:addyosmani/agent-skills"
     },
     "Type": 0,
@@ -14,7 +30,7 @@
       "stars": "1,297",
       "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
     },
-    "FetchedAt": "2026-07-09T02:10:34.0568767+00:00"
+    "FetchedAt": "2026-07-09T09:24:38.9220442+00:00"
   },
   {
     "ExternalId": {
@@ -31,7 +47,7 @@
       "stars": "799",
       "topics": "awesome, claude, densepose, esp32, firmware, home-assistant, home-automation, iot, monitoring, networking, npm, pose-estimation, react, rf, self-learning, skills, spatial-intelligence, typescript, wifi, wifi-security"
     },
-    "FetchedAt": "2026-07-09T02:10:34.2169816+00:00"
+    "FetchedAt": "2026-07-09T09:24:39.0368639+00:00"
   },
   {
     "ExternalId": {
@@ -48,7 +64,7 @@
       "stars": "318",
       "topics": "agent, ai-agent, embedding, llm, local-first, long-term-memory, memory, openclaw-plugin, vector-search"
     },
-    "FetchedAt": "2026-07-09T02:10:34.328244+00:00"
+    "FetchedAt": "2026-07-09T09:24:39.1778799+00:00"
   },
   {
     "ExternalId": {
@@ -65,7 +81,7 @@
       "stars": "46",
       "topics": "cockroachdb, database, javascript, mariadb, mongo, mongodb, mongodb-orm, mssql, mysql, nodejs, orm, postgres, postgresql, prisma, prisma-client, query-builder, sql-server, sqlite, sqlserver, typescript"
     },
-    "FetchedAt": "2026-07-09T02:10:34.4626029+00:00"
+    "FetchedAt": "2026-07-09T09:24:39.2940492+00:00"
   },
   {
     "ExternalId": {
@@ -82,7 +98,7 @@
       "stars": "352",
       "topics": "ai-prompts, ai-skill, bluesky, claude, claude-code, clawhub, deep-research, hackernews, instagram, openclaw, polymarket, recency, reddit, research, social-media, tiktok, trends, twitter, web-search, youtube"
     },
-    "FetchedAt": "2026-07-09T02:10:34.5875848+00:00"
+    "FetchedAt": "2026-07-09T09:24:39.4440537+00:00"
   },
   {
     "ExternalId": {
@@ -99,7 +115,7 @@
       "stars": "29",
       "topics": "argo, argo-cd, cd, ci-cd, cicd, continuous-delivery, continuous-deployment, devops, docker, gitops, hacktoberfest, helm, jsonnet, kubernetes, kustomize, pipeline"
     },
-    "FetchedAt": "2026-07-09T02:10:34.6988104+00:00"
+    "FetchedAt": "2026-07-09T09:24:39.5699091+00:00"
   },
   {
     "ExternalId": {
@@ -116,7 +132,7 @@
       "stars": "1,717",
       "topics": "agent, ai, claude-code, cli, codex, docx, excel, office, openclaw, pptx, presentation, skills, word, xlsx"
     },
-    "FetchedAt": "2026-07-09T02:10:34.8233864+00:00"
+    "FetchedAt": "2026-07-09T09:24:39.6909351+00:00"
   },
   {
     "ExternalId": {
@@ -133,7 +149,7 @@
       "stars": "395",
       "topics": "agent-skills, db, embedded, faiss, hnsw, llm-memory, local, rag, search-engine, semantic-search, similarity-search, vector-database, vector-db"
     },
-    "FetchedAt": "2026-07-09T02:10:34.9480225+00:00"
+    "FetchedAt": "2026-07-09T09:24:39.8606399+00:00"
   },
   {
     "ExternalId": {
@@ -149,7 +165,7 @@
       "language": "CSS",
       "stars": "1,125"
     },
-    "FetchedAt": "2026-07-09T02:10:35.0698896+00:00"
+    "FetchedAt": "2026-07-09T09:24:39.9748899+00:00"
   },
   {
     "ExternalId": {
@@ -165,7 +181,7 @@
       "language": "Python",
       "stars": "951"
     },
-    "FetchedAt": "2026-07-09T02:10:35.1701581+00:00"
+    "FetchedAt": "2026-07-09T09:24:40.0943733+00:00"
   },
   {
     "ExternalId": {
@@ -182,6 +198,6 @@
       "stars": "564",
       "topics": "agents, container, sandbox"
     },
-    "FetchedAt": "2026-07-09T02:10:35.2723212+00:00"
+    "FetchedAt": "2026-07-09T09:24:40.1898763+00:00"
   }
 ]

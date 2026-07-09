@@ -1,21 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:48838876"
-    },
-    "Type": 1,
-    "Title": "John Deere owners will get the right to repair equipment under FTC settlement",
-    "Url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-    "Description": "John Deere owners will get the right to repair equipment under FTC settlement",
-    "Metadata": {
-      "score": "315",
-      "author": "djoldman",
-      "commentCount": "63"
-    },
-    "FetchedAt": "2026-07-09T02:10:35.6371757+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48839984"
     },
     "Type": 1,
@@ -46,51 +31,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48837396"
-    },
-    "Type": 1,
-    "Title": "Separating signal from noise in coding evaluations",
-    "Url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-    "Description": "Separating signal from noise in coding evaluations",
-    "Metadata": {
-      "score": "163",
-      "author": "sk4rekr0w",
-      "commentCount": "62"
-    },
-    "FetchedAt": "2026-07-09T02:10:35.7357116+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48833116"
-    },
-    "Type": 1,
-    "Title": "Chatto is now open source",
-    "Url": "https://www.hmans.dev/blog/chatto-is-open-source",
-    "Description": "Chatto is now open source",
-    "Metadata": {
-      "score": "747",
-      "author": "speckx",
-      "commentCount": "199"
-    },
-    "FetchedAt": "2026-07-09T02:10:35.7695705+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48839397"
-    },
-    "Type": 1,
-    "Title": "Remote Attestation",
-    "Url": "https://www.liamcvw.com/p/remote-attestation",
-    "Description": "Remote Attestation",
-    "Metadata": {
-      "score": "24",
-      "author": "lcvw",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-07-09T02:10:35.8011908+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48832212"
     },
     "Type": 1,
@@ -103,156 +43,6 @@
       "commentCount": "96"
     },
     "FetchedAt": "2026-07-09T02:10:35.8341337+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48829797"
-    },
-    "Type": 1,
-    "Title": "Unicode\u0027s transliteration rules are Turing-complete",
-    "Url": "https://seriot.ch/computation/uts35/",
-    "Description": "Unicode\u0027s transliteration rules are Turing-complete",
-    "Metadata": {
-      "score": "40",
-      "author": "beefburger",
-      "commentCount": "9"
-    },
-    "FetchedAt": "2026-07-09T02:10:35.8666519+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48834924"
-    },
-    "Type": 1,
-    "Title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-    "Url": "https://microsoft.github.io/flint-chart/#/",
-    "Description": "Data visualizations are the bridge between user and data.\u003Cp\u003EBut building AI agents that can generate visualizations reliably can be very tricky:\u003Cp\u003E- simple chart specs can be reliable, but generated charts are often of low quality due to reliance on system defaults; \n- complex chart specs with explicit details can produce good-looking charts, but they are verbose and agents can struggle with reliability\u003Cp\u003EWe figured out it is a limitation on the language issue (not just AI capability thing) -- c",
-    "Metadata": {
-      "score": "208",
-      "author": "chenglong-hn",
-      "commentCount": "77"
-    },
-    "FetchedAt": "2026-07-09T02:10:35.899217+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48795591"
-    },
-    "Type": 1,
-    "Title": "Patching MechCommander\u0027s \u0022left arm bug\u0022 for fun and profit",
-    "Url": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
-    "Description": "Patching MechCommander\u0027s \u0022left arm bug\u0022 for fun and profit",
-    "Metadata": {
-      "score": "10",
-      "author": "Narann",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-07-09T02:10:35.9314073+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48836233"
-    },
-    "Type": 1,
-    "Title": "Cloudflare Drop",
-    "Url": "https://www.cloudflare.com/drop/",
-    "Description": "Cloudflare Drop",
-    "Metadata": {
-      "score": "259",
-      "author": "coloneltcb",
-      "commentCount": "134"
-    },
-    "FetchedAt": "2026-07-09T02:10:35.9628832+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48835111"
-    },
-    "Type": 1,
-    "Title": "Grok 4.5",
-    "Url": "https://x.ai/news/grok-4-5",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;cursor.com\u0026#x2F;blog\u0026#x2F;grok-4-5\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;cursor.com\u0026#x2F;blog\u0026#x2F;grok-4-5\u003C/a\u003E",
-    "Metadata": {
-      "score": "479",
-      "author": "BoumTAC",
-      "commentCount": "605"
-    },
-    "FetchedAt": "2026-07-09T02:10:35.9957396+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48839355"
-    },
-    "Type": 1,
-    "Title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
-    "Url": "https://mira-wm.com/",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;mira-wm.com\u0026#x2F;blog-post\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;mira-wm.com\u0026#x2F;blog-post\u0026#x2F;\u003C/a\u003E",
-    "Metadata": {
-      "score": "20",
-      "author": "ethanlipson",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-07-09T02:10:36.0286479+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48816987"
-    },
-    "Type": 1,
-    "Title": "Show HN: Yamanote.fun \u2013 A complete soundscape for Tokyo\u0027s Yamanote line",
-    "Url": "https://www.yamanote.fun/",
-    "Description": "After visiting Japan for the first time a decade ago I became completely enamoured with Tokyo\u0026#x27;s Yamanote Line railway loop. Particularly the sonic experience of it. Like so many others I fell in love with the charming departure melodies and enjoyed discovering experiences like Yamanot.es (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=45045307\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=45045307\u003C/a\u003E) here on Hacker News when I returned home.\u003Cp\u003EBut it wasn\u0026#x27;t until",
-    "Metadata": {
-      "score": "58",
-      "author": "madebymagnolia",
-      "commentCount": "15"
-    },
-    "FetchedAt": "2026-07-09T02:10:36.0617806+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48837110"
-    },
-    "Type": 1,
-    "Title": "Turning a pile of documents into a searchable useable knowledge base",
-    "Url": "https://github.com/linuxrebel/DocuBrowser",
-    "Description": "Turning a pile of documents into a searchable useable knowledge base",
-    "Metadata": {
-      "score": "79",
-      "author": "linuxrebe1",
-      "commentCount": "14"
-    },
-    "FetchedAt": "2026-07-09T02:10:36.095072+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48836778"
-    },
-    "Type": 1,
-    "Title": "FAANG Simulator",
-    "Url": "https://www.abeyk.com/escape-the-rat-race/",
-    "Description": "FAANG Simulator",
-    "Metadata": {
-      "score": "288",
-      "author": "nerdbiscuits",
-      "commentCount": "113"
-    },
-    "FetchedAt": "2026-07-09T02:10:36.1267007+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48834405"
-    },
-    "Type": 1,
-    "Title": "GPT\u2011Live",
-    "Url": "https://openai.com/index/introducing-gpt-live/",
-    "Description": "GPT\u2011Live",
-    "Metadata": {
-      "score": "604",
-      "author": "logickkk1",
-      "commentCount": "409"
-    },
-    "FetchedAt": "2026-07-09T02:10:36.1592214+00:00"
   },
   {
     "ExternalId": {
@@ -271,21 +61,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48836324"
-    },
-    "Type": 1,
-    "Title": "New Sweden: the US\u0027s long-lost \u0027secret\u0027 colony",
-    "Url": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
-    "Description": "New Sweden: the US\u0027s long-lost \u0027secret\u0027 colony",
-    "Metadata": {
-      "score": "54",
-      "author": "bookofjoe",
-      "commentCount": "8"
-    },
-    "FetchedAt": "2026-07-09T02:10:36.2237424+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48838772"
     },
     "Type": 1,
@@ -298,21 +73,6 @@
       "commentCount": "23"
     },
     "FetchedAt": "2026-07-09T02:10:36.2564176+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48837877"
-    },
-    "Type": 1,
-    "Title": "Rewriting Bun in Rust",
-    "Url": "https://bun.com/blog/bun-in-rust",
-    "Description": "Rewriting Bun in Rust",
-    "Metadata": {
-      "score": "299",
-      "author": "afturner",
-      "commentCount": "165"
-    },
-    "FetchedAt": "2026-07-09T02:10:36.2885952+00:00"
   },
   {
     "ExternalId": {
@@ -331,21 +91,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48833715"
-    },
-    "Type": 1,
-    "Title": "TypeScript 7",
-    "Url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
-    "Description": "TypeScript 7",
-    "Metadata": {
-      "score": "473",
-      "author": "DanRosenwasser",
-      "commentCount": "185"
-    },
-    "FetchedAt": "2026-07-09T02:10:36.3567932+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48794568"
     },
     "Type": 1,
@@ -358,36 +103,6 @@
       "commentCount": "1"
     },
     "FetchedAt": "2026-07-09T02:10:36.593136+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48829312"
-    },
-    "Type": 1,
-    "Title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-    "Url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-    "Description": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-    "Metadata": {
-      "score": "1302",
-      "author": "speerer",
-      "commentCount": "208"
-    },
-    "FetchedAt": "2026-07-09T02:10:36.6328281+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48835439"
-    },
-    "Type": 1,
-    "Title": "OpenMandriva: Statement regarding attempted distribution sabotage",
-    "Url": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
-    "Description": "OpenMandriva: Statement regarding attempted distribution sabotage",
-    "Metadata": {
-      "score": "78",
-      "author": "workethics",
-      "commentCount": "13"
-    },
-    "FetchedAt": "2026-07-09T02:10:36.6654741+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +163,455 @@
       "commentCount": "140"
     },
     "FetchedAt": "2026-07-09T02:10:36.8018813+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48838876"
+    },
+    "Type": 1,
+    "Title": "John Deere owners will get the right to repair equipment under FTC settlement",
+    "Url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+    "Description": "John Deere owners will get the right to repair equipment under FTC settlement",
+    "Metadata": {
+      "score": "800",
+      "author": "djoldman",
+      "commentCount": "151"
+    },
+    "FetchedAt": "2026-07-09T09:24:40.540194+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48841259"
+    },
+    "Type": 1,
+    "Title": "Spider venom kills varroa mites without harming honeybees",
+    "Url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+    "Description": "Spider venom kills varroa mites without harming honeybees",
+    "Metadata": {
+      "score": "107",
+      "author": "Jedd",
+      "commentCount": "44"
+    },
+    "FetchedAt": "2026-07-09T09:24:40.5749341+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48842611"
+    },
+    "Type": 1,
+    "Title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+    "Url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+    "Description": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+    "Metadata": {
+      "score": "46",
+      "author": "Gedxx",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-07-09T09:24:40.6109242+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48800596"
+    },
+    "Type": 1,
+    "Title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
+    "Url": "https://nexte.st/",
+    "Description": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
+    "Metadata": {
+      "score": "90",
+      "author": "nateb2022",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-07-09T09:24:40.6465041+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48836233"
+    },
+    "Type": 1,
+    "Title": "Cloudflare Drop",
+    "Url": "https://www.cloudflare.com/drop/",
+    "Description": "Cloudflare Drop",
+    "Metadata": {
+      "score": "426",
+      "author": "coloneltcb",
+      "commentCount": "221"
+    },
+    "FetchedAt": "2026-07-09T09:24:40.6821841+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48837696"
+    },
+    "Type": 1,
+    "Title": "Benchmarking coding agents on Databricks\u0027 multi-million line codebase",
+    "Url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+    "Description": "Benchmarking coding agents on Databricks\u0027 multi-million line codebase",
+    "Metadata": {
+      "score": "84",
+      "author": "tanelpoder",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-07-09T09:24:40.7185788+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48814023"
+    },
+    "Type": 1,
+    "Title": "I Built the Only 2026 WWII Jeep",
+    "Url": "https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/",
+    "Description": "I Built the Only 2026 WWII Jeep",
+    "Metadata": {
+      "score": "30",
+      "author": "martey",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-07-09T09:24:40.7532957+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48837396"
+    },
+    "Type": 1,
+    "Title": "Separating signal from noise in coding evaluations",
+    "Url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+    "Description": "Separating signal from noise in coding evaluations",
+    "Metadata": {
+      "score": "213",
+      "author": "sk4rekr0w",
+      "commentCount": "75"
+    },
+    "FetchedAt": "2026-07-09T09:24:40.7893817+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48841385"
+    },
+    "Type": 1,
+    "Title": "How Donkey Kong Toppled Atari",
+    "Url": "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/",
+    "Description": "How Donkey Kong Toppled Atari",
+    "Metadata": {
+      "score": "15",
+      "author": "giuliomagnifico",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-07-09T09:24:40.8241607+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48834924"
+    },
+    "Type": 1,
+    "Title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+    "Url": "https://microsoft.github.io/flint-chart/#/",
+    "Description": "Data visualizations are the bridge between user and data.\u003Cp\u003EBut building AI agents that can generate visualizations reliably can be very tricky:\u003Cp\u003E- simple chart specs can be reliable, but generated charts are often of low quality due to reliance on system defaults; \n- complex chart specs with explicit details can produce good-looking charts, but they are verbose and agents can struggle with reliability\u003Cp\u003EWe figured out it is a limitation on the language issue (not just AI capability thing) -- c",
+    "Metadata": {
+      "score": "279",
+      "author": "chenglong-hn",
+      "commentCount": "107"
+    },
+    "FetchedAt": "2026-07-09T09:24:40.8616314+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48841963"
+    },
+    "Type": 1,
+    "Title": "CollectWise (YC F24) Is Hiring",
+    "Url": "https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive",
+    "Description": "CollectWise (YC F24) Is Hiring",
+    "Metadata": {
+      "score": "1",
+      "author": "OBrien_1107",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-09T09:24:40.8964392+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48841676"
+    },
+    "Type": 1,
+    "Title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+    "Url": "https://github.com/malisper/pgrust",
+    "Description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+    "Metadata": {
+      "score": "118",
+      "author": "SweetSoftPillow",
+      "commentCount": "141"
+    },
+    "FetchedAt": "2026-07-09T09:24:40.9313073+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48816987"
+    },
+    "Type": 1,
+    "Title": "Show HN: Yamanote.fun \u2013 A complete soundscape for Tokyo\u0027s Yamanote line",
+    "Url": "https://www.yamanote.fun/",
+    "Description": "After visiting Japan for the first time a decade ago I became completely enamoured with Tokyo\u0026#x27;s Yamanote Line railway loop. Particularly the sonic experience of it. Like so many others I fell in love with the charming departure melodies and enjoyed discovering experiences like Yamanot.es (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=45045307\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=45045307\u003C/a\u003E) here on Hacker News when I returned home.\u003Cp\u003EBut it wasn\u0026#x27;t until",
+    "Metadata": {
+      "score": "167",
+      "author": "madebymagnolia",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-07-09T09:24:40.9664298+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48784126"
+    },
+    "Type": 1,
+    "Title": "In-browser programmable robot simulator",
+    "Url": "https://bittlex-sim.petoi.com/",
+    "Description": "In-browser programmable robot simulator",
+    "Metadata": {
+      "score": "7",
+      "author": "lijay",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-09T09:24:41.0010647+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48829797"
+    },
+    "Type": 1,
+    "Title": "Unicode\u0027s transliteration rules are Turing-complete",
+    "Url": "https://seriot.ch/computation/uts35/",
+    "Description": "Unicode\u0027s transliteration rules are Turing-complete",
+    "Metadata": {
+      "score": "96",
+      "author": "beefburger",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-07-09T09:24:41.0359205+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48835111"
+    },
+    "Type": 1,
+    "Title": "Grok 4.5",
+    "Url": "https://x.ai/news/grok-4-5",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;cursor.com\u0026#x2F;blog\u0026#x2F;grok-4-5\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;cursor.com\u0026#x2F;blog\u0026#x2F;grok-4-5\u003C/a\u003E",
+    "Metadata": {
+      "score": "626",
+      "author": "BoumTAC",
+      "commentCount": "916"
+    },
+    "FetchedAt": "2026-07-09T09:24:41.070969+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48839397"
+    },
+    "Type": 1,
+    "Title": "Remote Attestation",
+    "Url": "https://www.liamcvw.com/p/remote-attestation",
+    "Description": "Remote Attestation",
+    "Metadata": {
+      "score": "93",
+      "author": "lcvw",
+      "commentCount": "79"
+    },
+    "FetchedAt": "2026-07-09T09:24:41.1055805+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48837877"
+    },
+    "Type": 1,
+    "Title": "Rewriting Bun in Rust",
+    "Url": "https://bun.com/blog/bun-in-rust",
+    "Description": "Rewriting Bun in Rust",
+    "Metadata": {
+      "score": "573",
+      "author": "afturner",
+      "commentCount": "330"
+    },
+    "FetchedAt": "2026-07-09T09:24:41.1405139+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48837110"
+    },
+    "Type": 1,
+    "Title": "Turning a pile of documents into a searchable useable knowledge base",
+    "Url": "https://github.com/linuxrebel/DocuBrowser",
+    "Description": "Turning a pile of documents into a searchable useable knowledge base",
+    "Metadata": {
+      "score": "136",
+      "author": "linuxrebe1",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-07-09T09:24:41.1777071+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48812736"
+    },
+    "Type": 1,
+    "Title": "Apache Shiro security framework releases 3.0.0",
+    "Url": "https://shiro.apache.org/blog/2026/06/apache-shiro-300-released.html",
+    "Description": "Apache Shiro security framework releases 3.0.0",
+    "Metadata": {
+      "score": "31",
+      "author": "lprimak",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-07-09T09:24:41.2121298+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48795591"
+    },
+    "Type": 1,
+    "Title": "Patching MechCommander\u0027s \u0022left arm bug\u0022 for fun and profit",
+    "Url": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
+    "Description": "Patching MechCommander\u0027s \u0022left arm bug\u0022 for fun and profit",
+    "Metadata": {
+      "score": "64",
+      "author": "Narann",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-07-09T09:24:41.2474022+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48789445"
+    },
+    "Type": 1,
+    "Title": "3D Airplane tracker on Mercator map",
+    "Url": "https://github.com/jamalrfordii-arch/Vanguard-Map",
+    "Description": "3D Airplane tracker on Mercator map",
+    "Metadata": {
+      "score": "11",
+      "author": "Lawyer24",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-07-09T09:24:41.2823258+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48833116"
+    },
+    "Type": 1,
+    "Title": "Chatto is now open source",
+    "Url": "https://www.hmans.dev/blog/chatto-is-open-source",
+    "Description": "Chatto is now open source",
+    "Metadata": {
+      "score": "960",
+      "author": "speckx",
+      "commentCount": "264"
+    },
+    "FetchedAt": "2026-07-09T09:24:41.3177058+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48829312"
+    },
+    "Type": 1,
+    "Title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+    "Url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+    "Description": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+    "Metadata": {
+      "score": "1376",
+      "author": "speerer",
+      "commentCount": "215"
+    },
+    "FetchedAt": "2026-07-09T09:24:41.3525046+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48834405"
+    },
+    "Type": 1,
+    "Title": "GPT\u2011Live",
+    "Url": "https://openai.com/index/introducing-gpt-live/",
+    "Description": "GPT\u2011Live",
+    "Metadata": {
+      "score": "700",
+      "author": "logickkk1",
+      "commentCount": "461"
+    },
+    "FetchedAt": "2026-07-09T09:24:41.3869632+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48833715"
+    },
+    "Type": 1,
+    "Title": "TypeScript 7",
+    "Url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+    "Description": "TypeScript 7",
+    "Metadata": {
+      "score": "616",
+      "author": "DanRosenwasser",
+      "commentCount": "242"
+    },
+    "FetchedAt": "2026-07-09T09:24:41.4222759+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48836324"
+    },
+    "Type": 1,
+    "Title": "New Sweden: the US\u0027s long-lost \u0027secret\u0027 colony",
+    "Url": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
+    "Description": "New Sweden: the US\u0027s long-lost \u0027secret\u0027 colony",
+    "Metadata": {
+      "score": "110",
+      "author": "bookofjoe",
+      "commentCount": "41"
+    },
+    "FetchedAt": "2026-07-09T09:24:41.4570064+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48836778"
+    },
+    "Type": 1,
+    "Title": "FAANG Simulator",
+    "Url": "https://www.abeyk.com/escape-the-rat-race/",
+    "Description": "FAANG Simulator",
+    "Metadata": {
+      "score": "407",
+      "author": "nerdbiscuits",
+      "commentCount": "157"
+    },
+    "FetchedAt": "2026-07-09T09:24:41.4931061+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48839355"
+    },
+    "Type": 1,
+    "Title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+    "Url": "https://mira-wm.com/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;mira-wm.com\u0026#x2F;blog-post\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;mira-wm.com\u0026#x2F;blog-post\u0026#x2F;\u003C/a\u003E",
+    "Metadata": {
+      "score": "76",
+      "author": "ethanlipson",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-07-09T09:24:41.5285423+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48835439"
+    },
+    "Type": 1,
+    "Title": "OpenMandriva: Statement regarding attempted distribution sabotage",
+    "Url": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
+    "Description": "OpenMandriva: Statement regarding attempted distribution sabotage",
+    "Metadata": {
+      "score": "111",
+      "author": "workethics",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-07-09T09:24:41.5632582+00:00"
   }
 ]
