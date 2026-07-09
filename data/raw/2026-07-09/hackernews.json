@@ -466,21 +466,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48845049"
-    },
-    "Type": 1,
-    "Title": "Show HN: 18 Words",
-    "Url": "https://18words.com/",
-    "Description": "Show HN: 18 Words",
-    "Metadata": {
-      "score": "229",
-      "author": "pompomsheep",
-      "commentCount": "96"
-    },
-    "FetchedAt": "2026-07-09T14:37:30.0450826+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48845422"
     },
     "Type": 1,
@@ -511,21 +496,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48846184"
-    },
-    "Type": 1,
-    "Title": "Introducing Muse Spark 1.1",
-    "Url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?_fb_noscript=1",
-    "Description": "Introducing Muse Spark 1.1",
-    "Metadata": {
-      "score": "31",
-      "author": "ot",
-      "commentCount": "7"
-    },
-    "FetchedAt": "2026-07-09T14:37:30.0859314+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48843438"
     },
     "Type": 1,
@@ -538,66 +508,6 @@
       "commentCount": "81"
     },
     "FetchedAt": "2026-07-09T14:37:30.1002552+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48846281"
-    },
-    "Type": 1,
-    "Title": "No leap second will be introduced at the end of December 2026",
-    "Url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
-    "Description": "No leap second will be introduced at the end of December 2026",
-    "Metadata": {
-      "score": "8",
-      "author": "ChrisArchitect",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-07-09T14:37:30.1134833+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48778956"
-    },
-    "Type": 1,
-    "Title": "Meta reuses old RAM in new servers with custom bridge chip",
-    "Url": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
-    "Description": "Meta reuses old RAM in new servers with custom bridge chip",
-    "Metadata": {
-      "score": "175",
-      "author": "ihsw",
-      "commentCount": "82"
-    },
-    "FetchedAt": "2026-07-09T14:37:30.1278553+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48841259"
-    },
-    "Type": 1,
-    "Title": "Spider venom kills varroa mites without harming honeybees",
-    "Url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
-    "Description": "Spider venom kills varroa mites without harming honeybees",
-    "Metadata": {
-      "score": "225",
-      "author": "Jedd",
-      "commentCount": "92"
-    },
-    "FetchedAt": "2026-07-09T14:37:30.1415224+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48843923"
-    },
-    "Type": 1,
-    "Title": "EU Parliament greenlights Chat Control 1.0 \u2013 Breyer: \u0022Our children lose out\u0022",
-    "Url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-    "Description": "EU Parliament greenlights Chat Control 1.0 \u2013 Breyer: \u0022Our children lose out\u0022",
-    "Metadata": {
-      "score": "321",
-      "author": "rapnie",
-      "commentCount": "161"
-    },
-    "FetchedAt": "2026-07-09T14:37:30.1557744+00:00"
   },
   {
     "ExternalId": {
@@ -733,21 +643,6 @@
       "commentCount": "40"
     },
     "FetchedAt": "2026-07-09T14:37:30.4233967+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48845442"
-    },
-    "Type": 1,
-    "Title": "The Glass Backbone: Why the Army\u0027s Logistics Will Break in the Next War",
-    "Url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
-    "Description": "The Glass Backbone: Why the Army\u0027s Logistics Will Break in the Next War",
-    "Metadata": {
-      "score": "66",
-      "author": "baud147258",
-      "commentCount": "63"
-    },
-    "FetchedAt": "2026-07-09T14:37:30.4362534+00:00"
   },
   {
     "ExternalId": {
@@ -913,5 +808,455 @@
       "commentCount": "118"
     },
     "FetchedAt": "2026-07-09T14:37:30.585081+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48849066"
+    },
+    "Type": 1,
+    "Title": "GPT-5.6",
+    "Url": "https://openai.com/index/gpt-5-6/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;deploymentsafety.openai.com\u0026#x2F;gpt-5-6\u0026#x2F;gpt-5-6.pdf\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;deploymentsafety.openai.com\u0026#x2F;gpt-5-6\u0026#x2F;gpt-5-6.pdf\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;developers.openai.com\u0026#x2F;api\u0026#x2F;docs\u0026#x2F;guides\u0026#x2F;latest-model\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;developers.openai.com\u0026#x2F;api\u0026#x2F;docs\u0026#x2F;guides\u0026#x2F;latest-model\u003C/a\u003E",
+    "Metadata": {
+      "score": "618",
+      "author": "logickkk1",
+      "commentCount": "422"
+    },
+    "FetchedAt": "2026-07-09T19:25:53.836398+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48849059"
+    },
+    "Type": 1,
+    "Title": "ChatGPT Work",
+    "Url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+    "Description": "ChatGPT Work",
+    "Metadata": {
+      "score": "215",
+      "author": "Tiberium",
+      "commentCount": "82"
+    },
+    "FetchedAt": "2026-07-09T19:25:53.8816359+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48845049"
+    },
+    "Type": 1,
+    "Title": "Show HN: 18 Words",
+    "Url": "https://18words.com/",
+    "Description": "Show HN: 18 Words",
+    "Metadata": {
+      "score": "646",
+      "author": "pompomsheep",
+      "commentCount": "242"
+    },
+    "FetchedAt": "2026-07-09T19:25:53.9269026+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48850414"
+    },
+    "Type": 1,
+    "Title": "GLM 5.2 is nearly as accurate as a human book keeper",
+    "Url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
+    "Description": "GLM 5.2 is nearly as accurate as a human book keeper",
+    "Metadata": {
+      "score": "34",
+      "author": "adamkurkiewicz",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-07-09T19:25:53.9704313+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48843923"
+    },
+    "Type": 1,
+    "Title": "EU Parliament greenlights Chat Control 1.0",
+    "Url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+    "Description": "EU Parliament greenlights Chat Control 1.0",
+    "Metadata": {
+      "score": "674",
+      "author": "rapnie",
+      "commentCount": "338"
+    },
+    "FetchedAt": "2026-07-09T19:25:54.0137881+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48847552"
+    },
+    "Type": 1,
+    "Title": "Hy3",
+    "Url": "https://hy.tencent.com/research/hy3",
+    "Description": "Hy3",
+    "Metadata": {
+      "score": "213",
+      "author": "andai",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-07-09T19:25:54.074573+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48803004"
+    },
+    "Type": 1,
+    "Title": "Buried Apple Feature Turns an iPhone into the Perfect Kids\u0027 Dumb Phone",
+    "Url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
+    "Description": "Buried Apple Feature Turns an iPhone into the Perfect Kids\u0027 Dumb Phone",
+    "Metadata": {
+      "score": "80",
+      "author": "PotatoNinja",
+      "commentCount": "39"
+    },
+    "FetchedAt": "2026-07-09T19:25:54.1453419+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48847511"
+    },
+    "Type": 1,
+    "Title": "A possible future for Damn Interesting",
+    "Url": "https://www.damninteresting.com/a-possible-future/",
+    "Description": "A possible future for Damn Interesting",
+    "Metadata": {
+      "score": "133",
+      "author": "mzur",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-07-09T19:25:54.1893347+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48809574"
+    },
+    "Type": 1,
+    "Title": "Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting",
+    "Url": "https://nahla.dev/blog/waitfree_queue/",
+    "Description": "Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting",
+    "Metadata": {
+      "score": "70",
+      "author": "EvgeniyZh",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-07-09T19:25:54.2332242+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48846184"
+    },
+    "Type": 1,
+    "Title": "Muse Spark 1.1",
+    "Url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;ai.meta.com\u0026#x2F;static-resource\u0026#x2F;muse-spark-1-1-evaluation-report\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;ai.meta.com\u0026#x2F;static-resource\u0026#x2F;muse-spark-1-1-evaluatio...\u003C/a\u003E [pdf]\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;developer.meta.com\u0026#x2F;ai\u0026#x2F;resources\u0026#x2F;blog\u0026#x2F;build-with-muse-spark\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;developer.meta.com\u0026#x2F;ai\u0026#x2F;resources\u0026#x2F;blog\u0026#x2F;build-with-muse...\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.bloomberg.com\u0026#x2F;news\u0026#x2F;ar",
+    "Metadata": {
+      "score": "240",
+      "author": "ot",
+      "commentCount": "144"
+    },
+    "FetchedAt": "2026-07-09T19:25:54.2773936+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48849011"
+    },
+    "Type": 1,
+    "Title": "Wildcard (YC W25) Is Hiring a Founding Engineer",
+    "Url": "https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer",
+    "Description": "Wildcard (YC W25) Is Hiring a Founding Engineer",
+    "Metadata": {
+      "score": "1",
+      "author": "kaushikmahorker",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-09T19:25:54.3198569+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48846995"
+    },
+    "Type": 1,
+    "Title": "TLS certificates for internal services done right",
+    "Url": "https://tuxnet.dev/posts/tls-for-internal-services/",
+    "Description": "TLS certificates for internal services done right",
+    "Metadata": {
+      "score": "88",
+      "author": "mrl5",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-07-09T19:25:54.3642302+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48845442"
+    },
+    "Type": 1,
+    "Title": "The glass backbone: Why the Army\u0027s logistics will break in the next war",
+    "Url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
+    "Description": "The glass backbone: Why the Army\u0027s logistics will break in the next war",
+    "Metadata": {
+      "score": "189",
+      "author": "baud147258",
+      "commentCount": "236"
+    },
+    "FetchedAt": "2026-07-09T19:25:54.4123215+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48847562"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Context.dev (YC S26) \u2013 API to get structured data from any website",
+    "Url": "https://www.context.dev",
+    "Description": "Hi Hacker News, I\u2019m Yahia. I built Context.dev (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.context.dev\u0026#x2F;\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.context.dev\u0026#x2F;\u003C/a\u003E) to make it really easy to integrate web data into your products and agents.\u003Cp\u003EHere\u2019s a demo video: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.tella.tv\u0026#x2F;video\u0026#x2F;build-faster-with-context-dev-apis-2cgl\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.tella.tv\u0026#x2F;video\u0026#x2F;build-faster-with-context-dev-api...\u003C/a\u003E\u003Cp\u003ESince it\u2019s an API, here are the docs: \u003Ca href=\u0022https:\u0026#x",
+    "Metadata": {
+      "score": "47",
+      "author": "TheYahiaBakour",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-07-09T19:25:54.4638622+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48850372"
+    },
+    "Type": 1,
+    "Title": "How to Start a Ruby Meetup",
+    "Url": "https://guides.rubyevents.org/meetups/",
+    "Description": "How to Start a Ruby Meetup",
+    "Metadata": {
+      "score": "13",
+      "author": "mooreds",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-09T19:25:54.5130637+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48846281"
+    },
+    "Type": 1,
+    "Title": "No leap second will be introduced at the end of December 2026",
+    "Url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+    "Description": "No leap second will be introduced at the end of December 2026",
+    "Metadata": {
+      "score": "171",
+      "author": "ChrisArchitect",
+      "commentCount": "139"
+    },
+    "FetchedAt": "2026-07-09T19:25:54.5566701+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48847407"
+    },
+    "Type": 1,
+    "Title": "Opinionated and Easy Pi.dev Configuration",
+    "Url": "https://lazypi.org/",
+    "Description": "Opinionated and Easy Pi.dev Configuration",
+    "Metadata": {
+      "score": "68",
+      "author": "lwhsiao",
+      "commentCount": "44"
+    },
+    "FetchedAt": "2026-07-09T19:25:54.6394263+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48840207"
+    },
+    "Type": 1,
+    "Title": "Show HN: I mapped 8.5M research papers into an interactive atlas",
+    "Url": "https://tomesphere.com/atlas",
+    "Description": "When I read papers, I have to jump between multiple tabs to find the dataset, code, videos, peer reviews, and so on. I tried to fix this with this project.\u003Cp\u003EIt started as a project just for papers on arXiv, but after its initial success on Twitter (got like 1.9k views: the most I have gotten for a post), I have now expanded it to include other openly available papers from PubMed Central, bioRxiv, medRxiv, and eLife. These papers have been linked with their genes, proteins, diseases, drugs, clin",
+    "Metadata": {
+      "score": "33",
+      "author": "leonickson",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-07-09T19:25:54.6862579+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48849258"
+    },
+    "Type": 1,
+    "Title": "How should group chats work in decentralized systems?",
+    "Url": "https://marindedic.com/groups/",
+    "Description": "How should group chats work in decentralized systems?",
+    "Metadata": {
+      "score": "27",
+      "author": "Realman78",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-07-09T19:25:54.7296044+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48846510"
+    },
+    "Type": 1,
+    "Title": "Show HN: Analog Watch",
+    "Url": "https://analog.watch",
+    "Description": "Show HN: Analog Watch",
+    "Metadata": {
+      "score": "68",
+      "author": "ezekg",
+      "commentCount": "63"
+    },
+    "FetchedAt": "2026-07-09T19:25:54.7730847+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48778956"
+    },
+    "Type": 1,
+    "Title": "Meta reuses old RAM in new servers with custom bridge chip",
+    "Url": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
+    "Description": "Meta reuses old RAM in new servers with custom bridge chip",
+    "Metadata": {
+      "score": "252",
+      "author": "ihsw",
+      "commentCount": "170"
+    },
+    "FetchedAt": "2026-07-09T19:25:54.818819+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48846332"
+    },
+    "Type": 1,
+    "Title": "New open access book on history of computers and politics",
+    "Url": "https://mitpress.mit.edu/9780262053198/simpolitics/",
+    "Description": "New open access book on history of computers and politics",
+    "Metadata": {
+      "score": "45",
+      "author": "mckelveyf",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-07-09T19:25:54.9081681+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48800486"
+    },
+    "Type": 1,
+    "Title": "How to Follow a Drummer",
+    "Url": "https://drummate.app/blog/how-to-follow-a-drummer",
+    "Description": "How to Follow a Drummer",
+    "Metadata": {
+      "score": "9",
+      "author": "sashyo",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-07-09T19:25:54.9556355+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48841446"
+    },
+    "Type": 1,
+    "Title": "AI changes the economics of software rewrites",
+    "Url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
+    "Description": "AI changes the economics of software rewrites",
+    "Metadata": {
+      "score": "75",
+      "author": "cinooo",
+      "commentCount": "83"
+    },
+    "FetchedAt": "2026-07-09T19:25:55.0015901+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48841259"
+    },
+    "Type": 1,
+    "Title": "Spider venom kills varroa mites without harming honeybees",
+    "Url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+    "Description": "Spider venom kills varroa mites without harming honeybees",
+    "Metadata": {
+      "score": "269",
+      "author": "Jedd",
+      "commentCount": "122"
+    },
+    "FetchedAt": "2026-07-09T19:25:55.0473396+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48799966"
+    },
+    "Type": 1,
+    "Title": "What is Bending Spoons? The little-known AOL and Vimeo owner that\u0027s now public",
+    "Url": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+    "Description": "What is Bending Spoons? The little-known AOL and Vimeo owner that\u0027s now public",
+    "Metadata": {
+      "score": "49",
+      "author": "jack1689",
+      "commentCount": "74"
+    },
+    "FetchedAt": "2026-07-09T19:25:55.0914694+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48840620"
+    },
+    "Type": 1,
+    "Title": "What\u0027s slowing down the AI buildout",
+    "Url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
+    "Description": "What\u0027s slowing down the AI buildout",
+    "Metadata": {
+      "score": "48",
+      "author": "droidjj",
+      "commentCount": "104"
+    },
+    "FetchedAt": "2026-07-09T19:25:55.1367624+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48848111"
+    },
+    "Type": 1,
+    "Title": "Auditory and spontaneous movement responses to music over first postnatal year",
+    "Url": "https://elifesciences.org/articles/107088",
+    "Description": "Auditory and spontaneous movement responses to music over first postnatal year",
+    "Metadata": {
+      "score": "16",
+      "author": "bookofjoe",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-07-09T19:25:55.1792018+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48848819"
+    },
+    "Type": 1,
+    "Title": "Show HN: Devthropology \u2013 Better Insights for GitHub Repos",
+    "Url": "https://devthropology.com/demo",
+    "Description": "Devthropology is a passion project built on top of GitHub pull data. The name is a play on developer anthropology. Pull request data can be cut a lot of ways. The functionality has been built out of curiosity as I want to see different insights into codebases that I work on. Some of the data is typical and other parts I haven\u0026#x27;t seen elsewhere.\u003Cp\u003EI think of this as an improved GitHub Insights page, with faster performance, more detail, and a focus on how work moves through a codebase. The ma",
+    "Metadata": {
+      "score": "23",
+      "author": "dpc94",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-07-09T19:25:55.2269583+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48847181"
+    },
+    "Type": 1,
+    "Title": "Ways to think about token pricing",
+    "Url": "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing",
+    "Description": "Ways to think about token pricing",
+    "Metadata": {
+      "score": "26",
+      "author": "mercutio2",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-07-09T19:25:55.2703757+00:00"
   }
 ]
