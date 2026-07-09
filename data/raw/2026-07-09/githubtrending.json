@@ -1,39 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:MadsLorentzen/ai-job-search"
-    },
-    "Type": 0,
-    "Title": "MadsLorentzen/ai-job-search",
-    "Url": "https://github.com/MadsLorentzen/ai-job-search",
-    "Description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-    "Metadata": {
-      "owner": "MadsLorentzen",
-      "repo": "ai-job-search",
-      "language": "TypeScript",
-      "stars": "5,079"
-    },
-    "FetchedAt": "2026-07-09T09:24:38.7597376+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:addyosmani/agent-skills"
-    },
-    "Type": 0,
-    "Title": "addyosmani/agent-skills",
-    "Url": "https://github.com/addyosmani/agent-skills",
-    "Description": "Production-grade engineering skills for AI coding agents.",
-    "Metadata": {
-      "owner": "addyosmani",
-      "repo": "agent-skills",
-      "language": "JavaScript",
-      "stars": "1,297",
-      "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
-    },
-    "FetchedAt": "2026-07-09T09:24:38.9220442+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:ruvnet/RuView"
     },
     "Type": 0,
@@ -65,23 +32,6 @@
       "topics": "agent, ai-agent, embedding, llm, local-first, long-term-memory, memory, openclaw-plugin, vector-search"
     },
     "FetchedAt": "2026-07-09T09:24:39.1778799+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:prisma/prisma"
-    },
-    "Type": 0,
-    "Title": "prisma/prisma",
-    "Url": "https://github.com/prisma/prisma",
-    "Description": "Next-generation ORM for Node.js \u0026 TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
-    "Metadata": {
-      "owner": "prisma",
-      "repo": "prisma",
-      "language": "TypeScript",
-      "stars": "46",
-      "topics": "cockroachdb, database, javascript, mariadb, mongo, mongodb, mongodb-orm, mssql, mysql, nodejs, orm, postgres, postgresql, prisma, prisma-client, query-builder, sql-server, sqlite, sqlserver, typescript"
-    },
-    "FetchedAt": "2026-07-09T09:24:39.2940492+00:00"
   },
   {
     "ExternalId": {
@@ -119,23 +69,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:iOfficeAI/OfficeCLI"
-    },
-    "Type": 0,
-    "Title": "iOfficeAI/OfficeCLI",
-    "Url": "https://github.com/iOfficeAI/OfficeCLI",
-    "Description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-    "Metadata": {
-      "owner": "iOfficeAI",
-      "repo": "OfficeCLI",
-      "language": "C#",
-      "stars": "1,717",
-      "topics": "agent, ai, claude-code, cli, codex, docx, excel, office, openclaw, pptx, presentation, skills, word, xlsx"
-    },
-    "FetchedAt": "2026-07-09T09:24:39.6909351+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:alibaba/zvec"
     },
     "Type": 0,
@@ -169,22 +102,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:bradautomates/claude-video"
-    },
-    "Type": 0,
-    "Title": "bradautomates/claude-video",
-    "Url": "https://github.com/bradautomates/claude-video",
-    "Description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-    "Metadata": {
-      "owner": "bradautomates",
-      "repo": "claude-video",
-      "language": "Python",
-      "stars": "951"
-    },
-    "FetchedAt": "2026-07-09T09:24:40.0943733+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:TencentCloud/CubeSandbox"
     },
     "Type": 0,
@@ -199,5 +116,153 @@
       "topics": "agents, container, sandbox"
     },
     "FetchedAt": "2026-07-09T09:24:40.1898763+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:MadsLorentzen/ai-job-search"
+    },
+    "Type": 0,
+    "Title": "MadsLorentzen/ai-job-search",
+    "Url": "https://github.com/MadsLorentzen/ai-job-search",
+    "Description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+    "Metadata": {
+      "owner": "MadsLorentzen",
+      "repo": "ai-job-search",
+      "language": "TypeScript",
+      "stars": "3,728"
+    },
+    "FetchedAt": "2026-07-09T14:37:28.4775157+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:SmartlyDressedGames/U3-SDK"
+    },
+    "Type": 0,
+    "Title": "SmartlyDressedGames/U3-SDK",
+    "Url": "https://github.com/SmartlyDressedGames/U3-SDK",
+    "Description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
+    "Metadata": {
+      "owner": "SmartlyDressedGames",
+      "repo": "U3-SDK",
+      "language": "C#",
+      "stars": "541"
+    },
+    "FetchedAt": "2026-07-09T14:37:28.6709313+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "JavaScript",
+      "stars": "2,582",
+      "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
+    },
+    "FetchedAt": "2026-07-09T14:37:28.7949994+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:iOfficeAI/OfficeCLI"
+    },
+    "Type": 0,
+    "Title": "iOfficeAI/OfficeCLI",
+    "Url": "https://github.com/iOfficeAI/OfficeCLI",
+    "Description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "Metadata": {
+      "owner": "iOfficeAI",
+      "repo": "OfficeCLI",
+      "language": "C#",
+      "stars": "1,923",
+      "topics": "agent, ai, claude-code, cli, codex, docx, excel, office, openclaw, pptx, presentation, skills, word, xlsx"
+    },
+    "FetchedAt": "2026-07-09T14:37:28.9378509+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-cookbooks"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-cookbooks",
+    "Url": "https://github.com/anthropics/claude-cookbooks",
+    "Description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-cookbooks",
+      "language": "Jupyter Notebook",
+      "stars": "194"
+    },
+    "FetchedAt": "2026-07-09T14:37:29.0673111+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:vxcontrol/pentagi"
+    },
+    "Type": 0,
+    "Title": "vxcontrol/pentagi",
+    "Url": "https://github.com/vxcontrol/pentagi",
+    "Description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+    "Metadata": {
+      "owner": "vxcontrol",
+      "repo": "pentagi",
+      "language": "Go",
+      "stars": "454",
+      "topics": "ai-agents, ai-security-tool, anthropic, autonomous-agents, golang, gpt, graphql, multi-agent-system, offensive-security, open-source, openai, penetration-testing, penetration-testing-tools, react, security-automation, security-testing, security-tools, self-hosted"
+    },
+    "FetchedAt": "2026-07-09T14:37:29.230737+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:bradautomates/claude-video"
+    },
+    "Type": 0,
+    "Title": "bradautomates/claude-video",
+    "Url": "https://github.com/bradautomates/claude-video",
+    "Description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "Metadata": {
+      "owner": "bradautomates",
+      "repo": "claude-video",
+      "language": "Python",
+      "stars": "727"
+    },
+    "FetchedAt": "2026-07-09T14:37:29.3802649+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:prisma/prisma"
+    },
+    "Type": 0,
+    "Title": "prisma/prisma",
+    "Url": "https://github.com/prisma/prisma",
+    "Description": "Next-generation ORM for Node.js \u0026 TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+    "Metadata": {
+      "owner": "prisma",
+      "repo": "prisma",
+      "language": "TypeScript",
+      "stars": "373",
+      "topics": "cockroachdb, database, javascript, mariadb, mongo, mongodb, mongodb-orm, mssql, mysql, nodejs, orm, postgres, postgresql, prisma, prisma-client, query-builder, sql-server, sqlite, sqlserver, typescript"
+    },
+    "FetchedAt": "2026-07-09T14:37:29.5082457+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:kyutai-labs/pocket-tts"
+    },
+    "Type": 0,
+    "Title": "kyutai-labs/pocket-tts",
+    "Url": "https://github.com/kyutai-labs/pocket-tts",
+    "Description": "A TTS that fits in your CPU (and pocket)",
+    "Metadata": {
+      "owner": "kyutai-labs",
+      "repo": "pocket-tts",
+      "language": "Python",
+      "stars": "655"
+    },
+    "FetchedAt": "2026-07-09T14:37:29.657043+00:00"
   }
 ]
