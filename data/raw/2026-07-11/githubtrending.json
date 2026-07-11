@@ -1,0 +1,269 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:oven-sh/bun"
+    },
+    "Type": 0,
+    "Title": "oven-sh/bun",
+    "Url": "https://github.com/oven-sh/bun",
+    "Description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
+    "Metadata": {
+      "owner": "oven-sh",
+      "repo": "bun",
+      "language": "Rust",
+      "stars": "209",
+      "topics": "bun, bundler, javascript, javascriptcore, jsx, nodejs, npm, react, rust, rust-lang, transpiler, typescript"
+    },
+    "FetchedAt": "2026-07-11T01:56:09.5660204+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:abseil/abseil-cpp"
+    },
+    "Type": 0,
+    "Title": "abseil/abseil-cpp",
+    "Url": "https://github.com/abseil/abseil-cpp",
+    "Description": "Abseil Common Libraries (C\u002B\u002B)",
+    "Metadata": {
+      "owner": "abseil",
+      "repo": "abseil-cpp",
+      "language": "C\u002B\u002B",
+      "stars": "89"
+    },
+    "FetchedAt": "2026-07-11T01:56:09.7373707+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "JavaScript",
+      "stars": "1,116",
+      "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
+    },
+    "FetchedAt": "2026-07-11T01:56:09.8654858+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jbeder/yaml-cpp"
+    },
+    "Type": 0,
+    "Title": "jbeder/yaml-cpp",
+    "Url": "https://github.com/jbeder/yaml-cpp",
+    "Description": "A YAML parser and emitter in C\u002B\u002B",
+    "Metadata": {
+      "owner": "jbeder",
+      "repo": "yaml-cpp",
+      "language": "C\u002B\u002B",
+      "stars": "69"
+    },
+    "FetchedAt": "2026-07-11T01:56:09.9939616+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:microsoft/TypeScript"
+    },
+    "Type": 0,
+    "Title": "microsoft/TypeScript",
+    "Url": "https://github.com/microsoft/TypeScript",
+    "Description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "Metadata": {
+      "owner": "microsoft",
+      "repo": "TypeScript",
+      "language": "TypeScript",
+      "stars": "177",
+      "topics": "javascript, language, typechecker, typescript"
+    },
+    "FetchedAt": "2026-07-11T01:56:10.1042656+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:catchorg/Catch2"
+    },
+    "Type": 0,
+    "Title": "catchorg/Catch2",
+    "Url": "https://github.com/catchorg/Catch2",
+    "Description": "A modern, C\u002B\u002B-native, test framework for unit-tests, TDD and BDD - using C\u002B\u002B14, C\u002B\u002B17 and later (C\u002B\u002B11 support is in v2.x branch, and C\u002B\u002B03 on the Catch1.x branch)",
+    "Metadata": {
+      "owner": "catchorg",
+      "repo": "Catch2",
+      "language": "C\u002B\u002B",
+      "stars": "76",
+      "topics": "bdd, cpp, cpp14, framework, no-dependencies, tdd, test-framework, testing"
+    },
+    "FetchedAt": "2026-07-11T01:56:10.2663953+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:chriskohlhoff/asio"
+    },
+    "Type": 0,
+    "Title": "chriskohlhoff/asio",
+    "Url": "https://github.com/chriskohlhoff/asio",
+    "Description": "Asio C\u002B\u002B Library",
+    "Metadata": {
+      "owner": "chriskohlhoff",
+      "repo": "asio",
+      "language": "C\u002B\u002B",
+      "stars": "92"
+    },
+    "FetchedAt": "2026-07-11T01:56:10.3799824+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:TencentCloud/TencentDB-Agent-Memory"
+    },
+    "Type": 0,
+    "Title": "TencentCloud/TencentDB-Agent-Memory",
+    "Url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "Description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+    "Metadata": {
+      "owner": "TencentCloud",
+      "repo": "TencentDB-Agent-Memory",
+      "language": "TypeScript",
+      "stars": "123",
+      "topics": "agent, ai-agent, embedding, llm, local-first, long-term-memory, memory, openclaw-plugin, vector-search"
+    },
+    "FetchedAt": "2026-07-11T01:56:10.4933282+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:davila7/claude-code-templates"
+    },
+    "Type": 0,
+    "Title": "davila7/claude-code-templates",
+    "Url": "https://github.com/davila7/claude-code-templates",
+    "Description": "CLI tool for configuring and monitoring Claude Code",
+    "Metadata": {
+      "owner": "davila7",
+      "repo": "claude-code-templates",
+      "language": "Python",
+      "stars": "118",
+      "topics": "anthropic, anthropic-claude, claude, claude-code"
+    },
+    "FetchedAt": "2026-07-11T01:56:10.6092189+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:zeux/meshoptimizer"
+    },
+    "Type": 0,
+    "Title": "zeux/meshoptimizer",
+    "Url": "https://github.com/zeux/meshoptimizer",
+    "Description": "Mesh optimization library that makes meshes smaller and faster to render",
+    "Metadata": {
+      "owner": "zeux",
+      "repo": "meshoptimizer",
+      "language": "C\u002B\u002B",
+      "stars": "91",
+      "topics": "compression, gltf, gpu, mesh-processing, optimization, simplification"
+    },
+    "FetchedAt": "2026-07-11T01:56:10.713922+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:tailscale/tailscale"
+    },
+    "Type": 0,
+    "Title": "tailscale/tailscale",
+    "Url": "https://github.com/tailscale/tailscale",
+    "Description": "The easiest, most secure way to use WireGuard and 2FA.",
+    "Metadata": {
+      "owner": "tailscale",
+      "repo": "tailscale",
+      "language": "Go",
+      "stars": "143",
+      "topics": "2fa, oauth, sso, tailscale, vpn, wireguard"
+    },
+    "FetchedAt": "2026-07-11T01:56:10.8187898+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google-labs-code/stitch-skills"
+    },
+    "Type": 0,
+    "Title": "google-labs-code/stitch-skills",
+    "Url": "https://github.com/google-labs-code/stitch-skills",
+    "Description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "Metadata": {
+      "owner": "google-labs-code",
+      "repo": "stitch-skills",
+      "language": "TypeScript",
+      "stars": "117"
+    },
+    "FetchedAt": "2026-07-11T01:56:10.9286699+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:iOfficeAI/OfficeCLI"
+    },
+    "Type": 0,
+    "Title": "iOfficeAI/OfficeCLI",
+    "Url": "https://github.com/iOfficeAI/OfficeCLI",
+    "Description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "Metadata": {
+      "owner": "iOfficeAI",
+      "repo": "OfficeCLI",
+      "language": "C#",
+      "stars": "1,224",
+      "topics": "agent, ai, claude-code, cli, codex, docx, excel, office, openclaw, pptx, presentation, skills, word, xlsx"
+    },
+    "FetchedAt": "2026-07-11T01:56:11.0585716+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:hashicorp/terraform"
+    },
+    "Type": 0,
+    "Title": "hashicorp/terraform",
+    "Url": "https://github.com/hashicorp/terraform",
+    "Description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "Metadata": {
+      "owner": "hashicorp",
+      "repo": "terraform",
+      "language": "Go",
+      "stars": "172",
+      "topics": "cloud, cloud-management, graph, infrastructure-as-code, terraform"
+    },
+    "FetchedAt": "2026-07-11T01:56:11.1827448+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:grpc/grpc"
+    },
+    "Type": 0,
+    "Title": "grpc/grpc",
+    "Url": "https://github.com/grpc/grpc",
+    "Description": "C\u002B\u002B based gRPC (C\u002B\u002B, Python, Ruby, Objective-C, PHP, C#)",
+    "Metadata": {
+      "owner": "grpc",
+      "repo": "grpc",
+      "language": "C\u002B\u002B",
+      "stars": "78"
+    },
+    "FetchedAt": "2026-07-11T01:56:11.3256599+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:vercel/next.js"
+    },
+    "Type": 0,
+    "Title": "vercel/next.js",
+    "Url": "https://github.com/vercel/next.js",
+    "Description": "The React Framework",
+    "Metadata": {
+      "owner": "vercel",
+      "repo": "next.js",
+      "language": "JavaScript",
+      "stars": "191",
+      "topics": "blog, browser, compiler, components, hybrid, nextjs, node, react, server-rendering, ssg, static, static-site-generator, universal, vercel"
+    },
+    "FetchedAt": "2026-07-11T01:56:11.4450811+00:00"
+  }
+]
