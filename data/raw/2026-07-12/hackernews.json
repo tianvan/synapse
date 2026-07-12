@@ -1,66 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:48876505"
-    },
-    "Type": 1,
-    "Title": "Mesh LLM: distributed AI computing on iroh",
-    "Url": "https://www.iroh.computer/blog/mesh-llm",
-    "Description": "Mesh LLM: distributed AI computing on iroh",
-    "Metadata": {
-      "score": "91",
-      "author": "tionis",
-      "commentCount": "22"
-    },
-    "FetchedAt": "2026-07-12T01:59:29.084478+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48875377"
-    },
-    "Type": 1,
-    "Title": "Show HN: Ant \u2013 A JavaScript runtime and ecosystem",
-    "Url": "https://antjs.org",
-    "Description": "Hello HN!\u003Cp\u003EI\u0026#x27;m the author of Ant, a JavaScript ecosystem built around a runtime with its own JavaScript engine. Ant also includes a package manager, the ants.land package registry, a platform for deploying and hosting applications, and Ant Desktop for building native desktop apps with web technologies, similar to Electron.\u003Cp\u003EThe goal is for these pieces to work as one coherent platform while remaining compatible with the wider JavaScript ecosystem. It\u0026#x27;s still early, and I\u0026#x27;d appre",
-    "Metadata": {
-      "score": "179",
-      "author": "theMackabu",
-      "commentCount": "79"
-    },
-    "FetchedAt": "2026-07-12T01:59:29.1148387+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48876245"
-    },
-    "Type": 1,
-    "Title": "RISCBoy is an open-source portable games console, designed from scratch",
-    "Url": "https://github.com/Wren6991/RISCBoy",
-    "Description": "RISCBoy is an open-source portable games console, designed from scratch",
-    "Metadata": {
-      "score": "60",
-      "author": "mariuz",
-      "commentCount": "16"
-    },
-    "FetchedAt": "2026-07-12T01:59:29.144021+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48877269"
-    },
-    "Type": 1,
-    "Title": "A dock that wakes up reliably",
-    "Url": "https://fabiensanglard.net/tb4/index.html",
-    "Description": "A dock that wakes up reliably",
-    "Metadata": {
-      "score": "15",
-      "author": "ingve",
-      "commentCount": "13"
-    },
-    "FetchedAt": "2026-07-12T01:59:29.1739359+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48877192"
     },
     "Type": 1,
@@ -91,171 +31,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48873836"
-    },
-    "Type": 1,
-    "Title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-    "Url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-    "Description": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-    "Metadata": {
-      "score": "160",
-      "author": "adletbalzhanov",
-      "commentCount": "57"
-    },
-    "FetchedAt": "2026-07-12T01:59:29.2586194+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48877314"
-    },
-    "Type": 1,
-    "Title": "A pure scheme web programming tool",
-    "Url": "https://goeteia.dev",
-    "Description": "A pure scheme web programming tool",
-    "Metadata": {
-      "score": "7",
-      "author": "guenchi",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-07-12T01:59:29.2901372+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48846177"
-    },
-    "Type": 1,
-    "Title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
-    "Url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
-    "Description": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
-    "Metadata": {
-      "score": "6",
-      "author": "c-c-c-c-c",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-07-12T01:59:29.318782+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48849744"
-    },
-    "Type": 1,
-    "Title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
-    "Url": "https://arxiv.org/abs/2607.07267",
-    "Description": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
-    "Metadata": {
-      "score": "51",
-      "author": "Anon84",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-07-12T01:59:29.3477592+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48872874"
-    },
-    "Type": 1,
-    "Title": "We scaled PgBouncer to 4x throughput",
-    "Url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-    "Description": "We scaled PgBouncer to 4x throughput",
-    "Metadata": {
-      "score": "181",
-      "author": "saisrirampur",
-      "commentCount": "36"
-    },
-    "FetchedAt": "2026-07-12T01:59:29.3773667+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48873457"
-    },
-    "Type": 1,
-    "Title": "UPI: Anatomy of a Payment Transaction",
-    "Url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
-    "Description": "UPI: Anatomy of a Payment Transaction",
-    "Metadata": {
-      "score": "102",
-      "author": "prtk25",
-      "commentCount": "35"
-    },
-    "FetchedAt": "2026-07-12T01:59:29.4059952+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48872858"
-    },
-    "Type": 1,
-    "Title": "The early History of the Singular Value Decomposition (1993) [pdf]",
-    "Url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
-    "Description": "The early History of the Singular Value Decomposition (1993) [pdf]",
-    "Metadata": {
-      "score": "90",
-      "author": "wolfi1",
-      "commentCount": "55"
-    },
-    "FetchedAt": "2026-07-12T01:59:29.4339067+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48873940"
-    },
-    "Type": 1,
-    "Title": "Prefer strict tables in SQLite",
-    "Url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-    "Description": "Prefer strict tables in SQLite",
-    "Metadata": {
-      "score": "221",
-      "author": "ingve",
-      "commentCount": "110"
-    },
-    "FetchedAt": "2026-07-12T01:59:29.465004+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48876741"
-    },
-    "Type": 1,
-    "Title": "Doctors die. It\u0027s not like the rest of us, but it should be (2016)",
-    "Url": "https://archive.cancerworld.net/featured/how-doctors-die/",
-    "Description": "Doctors die. It\u0027s not like the rest of us, but it should be (2016)",
-    "Metadata": {
-      "score": "62",
-      "author": "downbad_",
-      "commentCount": "36"
-    },
-    "FetchedAt": "2026-07-12T01:59:29.4932962+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48820361"
-    },
-    "Type": 1,
-    "Title": "Biff.graph: structure your Clojure codebase as a queryable graph",
-    "Url": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
-    "Description": "Biff.graph: structure your Clojure codebase as a queryable graph",
-    "Metadata": {
-      "score": "84",
-      "author": "jacobobryant",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-07-12T01:59:29.5220332+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48877178"
-    },
-    "Type": 1,
-    "Title": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma",
-    "Url": "https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491",
-    "Description": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma",
-    "Metadata": {
-      "score": "17",
-      "author": "daniel_iversen",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-07-12T01:59:29.5507602+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48874297"
     },
     "Type": 1,
@@ -271,21 +46,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48871973"
-    },
-    "Type": 1,
-    "Title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
-    "Url": "https://shipthatcode.com",
-    "Description": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
-    "Metadata": {
-      "score": "129",
-      "author": "acley",
-      "commentCount": "35"
-    },
-    "FetchedAt": "2026-07-12T01:59:29.6083931+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48873501"
     },
     "Type": 1,
@@ -298,21 +58,6 @@
       "commentCount": "16"
     },
     "FetchedAt": "2026-07-12T01:59:29.6375093+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48830664"
-    },
-    "Type": 1,
-    "Title": "Optimization Solver as a Service",
-    "Url": "https://www.quicopt.com/developer/getting-started/",
-    "Description": "Optimization Solver as a Service",
-    "Metadata": {
-      "score": "15",
-      "author": "paddi91",
-      "commentCount": "10"
-    },
-    "FetchedAt": "2026-07-12T01:59:29.6653265+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +193,455 @@
       "commentCount": "12"
     },
     "FetchedAt": "2026-07-12T01:59:29.9203741+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48876505"
+    },
+    "Type": 1,
+    "Title": "Mesh LLM: distributed AI computing on iroh",
+    "Url": "https://www.iroh.computer/blog/mesh-llm",
+    "Description": "Mesh LLM: distributed AI computing on iroh",
+    "Metadata": {
+      "score": "219",
+      "author": "tionis",
+      "commentCount": "49"
+    },
+    "FetchedAt": "2026-07-12T08:03:51.7703853+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48854168"
+    },
+    "Type": 1,
+    "Title": "The \u0027Father of the Internet\u0027 is finally retiring",
+    "Url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+    "Description": "The \u0027Father of the Internet\u0027 is finally retiring",
+    "Metadata": {
+      "score": "26",
+      "author": "compiler-guy",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-07-12T08:03:51.8015125+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48875377"
+    },
+    "Type": 1,
+    "Title": "Show HN: Ant \u2013 A JavaScript runtime and ecosystem",
+    "Url": "https://antjs.org",
+    "Description": "Hello HN!\u003Cp\u003EI\u0026#x27;m the author of Ant, a JavaScript ecosystem built around a runtime with its own JavaScript engine. Ant also includes a package manager, the ants.land package registry, a platform for deploying and hosting applications, and Ant Desktop for building native desktop apps with web technologies, similar to Electron.\u003Cp\u003EThe goal is for these pieces to work as one coherent platform while remaining compatible with the wider JavaScript ecosystem. It\u0026#x27;s still early, and I\u0026#x27;d appre",
+    "Metadata": {
+      "score": "249",
+      "author": "theMackabu",
+      "commentCount": "106"
+    },
+    "FetchedAt": "2026-07-12T08:03:51.8326774+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48876245"
+    },
+    "Type": 1,
+    "Title": "RISCBoy is an open-source portable games console, designed from scratch",
+    "Url": "https://github.com/Wren6991/RISCBoy",
+    "Description": "RISCBoy is an open-source portable games console, designed from scratch",
+    "Metadata": {
+      "score": "126",
+      "author": "mariuz",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-07-12T08:03:51.864921+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48878682"
+    },
+    "Type": 1,
+    "Title": "Show HN: Mindwalk \u2013 Replay coding-agent sessions on a 3D map of your codebase",
+    "Url": "https://github.com/cosmtrek/mindwalk",
+    "Description": "Show HN: Mindwalk \u2013 Replay coding-agent sessions on a 3D map of your codebase",
+    "Metadata": {
+      "score": "8",
+      "author": "cosmtrek",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-12T08:03:51.8972939+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48823981"
+    },
+    "Type": 1,
+    "Title": "An agent in 100 lines of Lisp",
+    "Url": "https://thebeach.dev/posts/lisp-agent/",
+    "Description": "An agent in 100 lines of Lisp",
+    "Metadata": {
+      "score": "126",
+      "author": "jamiebeach",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-07-12T08:03:51.9285782+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48831384"
+    },
+    "Type": 1,
+    "Title": "Text art tools",
+    "Url": "https://hlnet.notion.site/text-art-tools",
+    "Description": "Text art tools",
+    "Metadata": {
+      "score": "22",
+      "author": "surprisetalk",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-07-12T08:03:51.9596601+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48827058"
+    },
+    "Type": 1,
+    "Title": "Protobuf-py: Protobuf for Python, without compromises",
+    "Url": "https://buf.build/blog/protobuf-py",
+    "Description": "Protobuf-py: Protobuf for Python, without compromises",
+    "Metadata": {
+      "score": "12",
+      "author": "ming13",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-12T08:03:51.9919224+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48873836"
+    },
+    "Type": 1,
+    "Title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+    "Url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+    "Description": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+    "Metadata": {
+      "score": "241",
+      "author": "adletbalzhanov",
+      "commentCount": "80"
+    },
+    "FetchedAt": "2026-07-12T08:03:52.0230948+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48846177"
+    },
+    "Type": 1,
+    "Title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
+    "Url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
+    "Description": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
+    "Metadata": {
+      "score": "60",
+      "author": "c-c-c-c-c",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-07-12T08:03:52.0542333+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48785102"
+    },
+    "Type": 1,
+    "Title": "EF Core 11 makes your split queries faster",
+    "Url": "https://steven-giesel.com/blogPost/d4401fd0-805a-4703-9d9e-5fe3b57c25ea",
+    "Description": "EF Core 11 makes your split queries faster",
+    "Metadata": {
+      "score": "31",
+      "author": "rellem",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-07-12T08:03:52.0856556+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48840152"
+    },
+    "Type": 1,
+    "Title": "Jellyfish Undersea Roundabout",
+    "Url": "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout",
+    "Description": "Jellyfish Undersea Roundabout",
+    "Metadata": {
+      "score": "32",
+      "author": "hydrogen7800",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-07-12T08:03:52.1168777+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48873457"
+    },
+    "Type": 1,
+    "Title": "UPI: Anatomy of a Payment Transaction",
+    "Url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+    "Description": "UPI: Anatomy of a Payment Transaction",
+    "Metadata": {
+      "score": "170",
+      "author": "prtk25",
+      "commentCount": "63"
+    },
+    "FetchedAt": "2026-07-12T08:03:52.1478941+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48872874"
+    },
+    "Type": 1,
+    "Title": "We scaled PgBouncer to 4x throughput",
+    "Url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+    "Description": "We scaled PgBouncer to 4x throughput",
+    "Metadata": {
+      "score": "202",
+      "author": "saisrirampur",
+      "commentCount": "43"
+    },
+    "FetchedAt": "2026-07-12T08:03:52.1790193+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48877314"
+    },
+    "Type": 1,
+    "Title": "A pure scheme web programming tool",
+    "Url": "https://goeteia.dev",
+    "Description": "A pure scheme web programming tool",
+    "Metadata": {
+      "score": "86",
+      "author": "guenchi",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-07-12T08:03:52.2107411+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48877613"
+    },
+    "Type": 1,
+    "Title": "The Energetic Costs of Cellular Computation (2012)",
+    "Url": "https://arxiv.org/abs/1203.5426",
+    "Description": "The Energetic Costs of Cellular Computation (2012)",
+    "Metadata": {
+      "score": "19",
+      "author": "lioeters",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-12T08:03:52.2419979+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48849744"
+    },
+    "Type": 1,
+    "Title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
+    "Url": "https://arxiv.org/abs/2607.07267",
+    "Description": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
+    "Metadata": {
+      "score": "88",
+      "author": "Anon84",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-07-12T08:03:52.2746639+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48877668"
+    },
+    "Type": 1,
+    "Title": "Unexpected Solidlike Fracture in Simple Liquids",
+    "Url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;journals.aps.org\u0026#x2F;prl\u0026#x2F;abstract\u0026#x2F;10.1103\u0026#x2F;t2vy-32wr\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;journals.aps.org\u0026#x2F;prl\u0026#x2F;abstract\u0026#x2F;10.1103\u0026#x2F;t2vy-32wr\u003C/a\u003E",
+    "Metadata": {
+      "score": "85",
+      "author": "Anon84",
+      "commentCount": "44"
+    },
+    "FetchedAt": "2026-07-12T08:03:52.3057803+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48878126"
+    },
+    "Type": 1,
+    "Title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+    "Url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+    "Description": "Under federal rule, colleges must leave grads better off or lose financial aid",
+    "Metadata": {
+      "score": "62",
+      "author": "nradov",
+      "commentCount": "93"
+    },
+    "FetchedAt": "2026-07-12T08:03:52.3367797+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48876619"
+    },
+    "Type": 1,
+    "Title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
+    "Url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
+    "Description": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
+    "Metadata": {
+      "score": "51",
+      "author": "marzukia",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-07-12T08:03:52.3677959+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48872858"
+    },
+    "Type": 1,
+    "Title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+    "Url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+    "Description": "The early History of the Singular Value Decomposition (1993) [pdf]",
+    "Metadata": {
+      "score": "113",
+      "author": "wolfi1",
+      "commentCount": "63"
+    },
+    "FetchedAt": "2026-07-12T08:03:52.3988702+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48873940"
+    },
+    "Type": 1,
+    "Title": "Prefer strict tables in SQLite",
+    "Url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+    "Description": "Prefer strict tables in SQLite",
+    "Metadata": {
+      "score": "268",
+      "author": "ingve",
+      "commentCount": "129"
+    },
+    "FetchedAt": "2026-07-12T08:03:52.430133+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48820361"
+    },
+    "Type": 1,
+    "Title": "Biff.graph: structure your Clojure codebase as a queryable graph",
+    "Url": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
+    "Description": "Biff.graph: structure your Clojure codebase as a queryable graph",
+    "Metadata": {
+      "score": "127",
+      "author": "jacobobryant",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-07-12T08:03:52.4614457+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48877344"
+    },
+    "Type": 1,
+    "Title": "A Erlang style pure Scheme Webserver and further",
+    "Url": "https://igropyr.com",
+    "Description": "A Erlang style pure Scheme Webserver and further",
+    "Metadata": {
+      "score": "59",
+      "author": "guenchi",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-07-12T08:03:52.4924157+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48830664"
+    },
+    "Type": 1,
+    "Title": "Optimization Solver as a Service",
+    "Url": "https://www.quicopt.com/developer/getting-started/",
+    "Description": "Optimization Solver as a Service",
+    "Metadata": {
+      "score": "34",
+      "author": "paddi91",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-07-12T08:03:52.5232281+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48871973"
+    },
+    "Type": 1,
+    "Title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+    "Url": "https://shipthatcode.com",
+    "Description": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+    "Metadata": {
+      "score": "161",
+      "author": "acley",
+      "commentCount": "43"
+    },
+    "FetchedAt": "2026-07-12T08:03:52.5544455+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48877269"
+    },
+    "Type": 1,
+    "Title": "A dock that wakes up reliably",
+    "Url": "https://fabiensanglard.net/tb4/index.html",
+    "Description": "A dock that wakes up reliably",
+    "Metadata": {
+      "score": "66",
+      "author": "ingve",
+      "commentCount": "42"
+    },
+    "FetchedAt": "2026-07-12T08:03:52.5852896+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48876741"
+    },
+    "Type": 1,
+    "Title": "How Doctors die. It\u2019s not like the rest of us (2016)",
+    "Url": "https://archive.cancerworld.net/featured/how-doctors-die/",
+    "Description": "How Doctors die. It\u2019s not like the rest of us (2016)",
+    "Metadata": {
+      "score": "146",
+      "author": "downbad_",
+      "commentCount": "82"
+    },
+    "FetchedAt": "2026-07-12T08:03:52.6167873+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48878195"
+    },
+    "Type": 1,
+    "Title": "Why Write Code in 2026",
+    "Url": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
+    "Description": "Why Write Code in 2026",
+    "Metadata": {
+      "score": "42",
+      "author": "zdw",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-07-12T08:03:52.6478378+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48877178"
+    },
+    "Type": 1,
+    "Title": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma",
+    "Url": "https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491",
+    "Description": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma",
+    "Metadata": {
+      "score": "74",
+      "author": "daniel_iversen",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-07-12T08:03:52.6789298+00:00"
   }
 ]
