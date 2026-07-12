@@ -361,21 +361,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48880170"
-    },
-    "Type": 1,
-    "Title": "Old and new apps, via modern coding agents by Terry Tao",
-    "Url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-    "Description": "Old and new apps, via modern coding agents by Terry Tao",
-    "Metadata": {
-      "score": "78",
-      "author": "subset",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-07-12T13:01:36.994336+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48880384"
     },
     "Type": 1,
@@ -388,81 +373,6 @@
       "commentCount": "1"
     },
     "FetchedAt": "2026-07-12T13:01:37.0531597+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48879504"
-    },
-    "Type": 1,
-    "Title": "Ghostel.el: Terminal emulator powered by libghostty",
-    "Url": "https://dakra.github.io/ghostel/",
-    "Description": "Ghostel.el: Terminal emulator powered by libghostty",
-    "Metadata": {
-      "score": "57",
-      "author": "signa11",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-07-12T13:01:37.1125382+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48854168"
-    },
-    "Type": 1,
-    "Title": "Vint Cerf, a \u201Cfather of the Internet\u201D, is retiring",
-    "Url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-    "Description": "Vint Cerf, a \u201Cfather of the Internet\u201D, is retiring",
-    "Metadata": {
-      "score": "146",
-      "author": "compiler-guy",
-      "commentCount": "88"
-    },
-    "FetchedAt": "2026-07-12T13:01:37.174807+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48880499"
-    },
-    "Type": 1,
-    "Title": "Understanding the Odin Programming Language",
-    "Url": "https://odinbook.com/",
-    "Description": "Understanding the Odin Programming Language",
-    "Metadata": {
-      "score": "10",
-      "author": "AlexeyBrin",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-07-12T13:01:37.2332625+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48878682"
-    },
-    "Type": 1,
-    "Title": "Show HN: Mindwalk \u2013 Replay coding-agent sessions on a 3D map of your codebase",
-    "Url": "https://github.com/cosmtrek/mindwalk",
-    "Description": "Show HN: Mindwalk \u2013 Replay coding-agent sessions on a 3D map of your codebase",
-    "Metadata": {
-      "score": "97",
-      "author": "cosmtrek",
-      "commentCount": "44"
-    },
-    "FetchedAt": "2026-07-12T13:01:37.2915827+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48876505"
-    },
-    "Type": 1,
-    "Title": "Mesh LLM: distributed AI computing on iroh",
-    "Url": "https://www.iroh.computer/blog/mesh-llm",
-    "Description": "Mesh LLM: distributed AI computing on iroh",
-    "Metadata": {
-      "score": "279",
-      "author": "tionis",
-      "commentCount": "65"
-    },
-    "FetchedAt": "2026-07-12T13:01:37.3504631+00:00"
   },
   {
     "ExternalId": {
@@ -553,21 +463,6 @@
       "commentCount": "50"
     },
     "FetchedAt": "2026-07-12T13:01:37.7044729+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48809916"
-    },
-    "Type": 1,
-    "Title": "Ditching Zotero for a Text File",
-    "Url": "https://atthis.link/blog/2026/57207.html",
-    "Description": "Ditching Zotero for a Text File",
-    "Metadata": {
-      "score": "6",
-      "author": "speckx",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-07-12T13:01:37.7638624+00:00"
   },
   {
     "ExternalId": {
@@ -808,5 +703,455 @@
       "commentCount": "160"
     },
     "FetchedAt": "2026-07-12T13:01:38.841371+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48883275"
+    },
+    "Type": 1,
+    "Title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+    "Url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+    "Description": "This started based off of a hunch. We usually use OpenCode, but were \u0026#x27;forced\u0026#x27; to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quickly than when using OpenCode.\u003Cp\u003EThis was the initial anecdotal evidence, but we undertook this small study to collect empirical data:\u003Cp\u003EWe added logging between the agentic coding tool (Claude Code and OpenCode) and Anthropic\u0026#x27;s endpoint, and captured all requests (and the returned usa",
+    "Metadata": {
+      "score": "18",
+      "author": "systima",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-12T18:54:29.5591251+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48880170"
+    },
+    "Type": 1,
+    "Title": "Old and new apps, via modern coding agents",
+    "Url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+    "Description": "Old and new apps, via modern coding agents",
+    "Metadata": {
+      "score": "339",
+      "author": "subset",
+      "commentCount": "96"
+    },
+    "FetchedAt": "2026-07-12T18:54:29.5942918+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48881830"
+    },
+    "Type": 1,
+    "Title": "Don\u0027t you mean extinct?",
+    "Url": "https://fabiensanglard.net/extinct/index.html",
+    "Description": "Don\u0027t you mean extinct?",
+    "Metadata": {
+      "score": "106",
+      "author": "zdw",
+      "commentCount": "46"
+    },
+    "FetchedAt": "2026-07-12T18:54:29.627858+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48881874"
+    },
+    "Type": 1,
+    "Title": "The shingles vaccine may reduce the risk of dementia",
+    "Url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;PzPop\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;PzPop\u003C/a\u003E",
+    "Metadata": {
+      "score": "93",
+      "author": "saikatsg",
+      "commentCount": "70"
+    },
+    "FetchedAt": "2026-07-12T18:54:29.661827+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48882554"
+    },
+    "Type": 1,
+    "Title": "Automation Without Understanding",
+    "Url": "https://arxiv.org/abs/2607.06377",
+    "Description": "Automation Without Understanding",
+    "Metadata": {
+      "score": "29",
+      "author": "root-parent",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-07-12T18:54:29.6965331+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48882956"
+    },
+    "Type": 1,
+    "Title": "Against Usefulness",
+    "Url": "https://www.motivenotes.ai/p/against-usefulness",
+    "Description": "Against Usefulness",
+    "Metadata": {
+      "score": "23",
+      "author": "supo",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-07-12T18:54:29.7307836+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48882569"
+    },
+    "Type": 1,
+    "Title": "LARP \u2013 Revenue infrastructure for serious founders",
+    "Url": "https://www.larp.website/",
+    "Description": "LARP \u2013 Revenue infrastructure for serious founders",
+    "Metadata": {
+      "score": "25",
+      "author": "BerislavLopac",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-12T18:54:29.7650428+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48882562"
+    },
+    "Type": 1,
+    "Title": "Show HN: Shirei, cross-platform GUI framework in native Go",
+    "Url": "https://github.com/hasenj/go-shirei/",
+    "Description": "Show HN: Shirei, cross-platform GUI framework in native Go",
+    "Metadata": {
+      "score": "41",
+      "author": "hsn915",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-07-12T18:54:29.8010992+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48882097"
+    },
+    "Type": 1,
+    "Title": "Why study Diophantine equations?",
+    "Url": "https://hidden-phenomena.com/articles/modular",
+    "Description": "Why study Diophantine equations?",
+    "Metadata": {
+      "score": "37",
+      "author": "mb1699",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-07-12T18:54:29.8357231+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48880499"
+    },
+    "Type": 1,
+    "Title": "Understanding the Odin Programming Language",
+    "Url": "https://odinbook.com/",
+    "Description": "Understanding the Odin Programming Language",
+    "Metadata": {
+      "score": "118",
+      "author": "AlexeyBrin",
+      "commentCount": "58"
+    },
+    "FetchedAt": "2026-07-12T18:54:29.8704107+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48883090"
+    },
+    "Type": 1,
+    "Title": "Can We Understand How Large Language Models Reason?",
+    "Url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+    "Description": "Can We Understand How Large Language Models Reason?",
+    "Metadata": {
+      "score": "4",
+      "author": "adunk",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-12T18:54:29.9040781+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48861923"
+    },
+    "Type": 1,
+    "Title": "Why write code in 2026",
+    "Url": "https://softwaredoug.com/blog/2026/07/09/write-code",
+    "Description": "Why write code in 2026",
+    "Metadata": {
+      "score": "6",
+      "author": "softwaredoug",
+      "commentCount": "54"
+    },
+    "FetchedAt": "2026-07-12T18:54:29.9376893+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48881967"
+    },
+    "Type": 1,
+    "Title": "The power of collaboration: How we can reduce traffic congestion",
+    "Url": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
+    "Description": "The power of collaboration: How we can reduce traffic congestion",
+    "Metadata": {
+      "score": "30",
+      "author": "raahelb",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-07-12T18:54:29.9715491+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48882189"
+    },
+    "Type": 1,
+    "Title": "Theo de Raadt: \u0022You\u0027ve been smoking something mind altering\u0022 (2007)",
+    "Url": "https://marc.info/?l=openbsd-misc\u0026m=119318909016582",
+    "Description": "Theo de Raadt: \u0022You\u0027ve been smoking something mind altering\u0022 (2007)",
+    "Metadata": {
+      "score": "38",
+      "author": "turrini",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-07-12T18:54:30.0057674+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48879504"
+    },
+    "Type": 1,
+    "Title": "Ghostel.el: Terminal emulator powered by libghostty",
+    "Url": "https://dakra.github.io/ghostel/",
+    "Description": "Ghostel.el: Terminal emulator powered by libghostty",
+    "Metadata": {
+      "score": "209",
+      "author": "signa11",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-07-12T18:54:30.0394157+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48822234"
+    },
+    "Type": 1,
+    "Title": "Deir El-Medina Strikes",
+    "Url": "https://en.wikipedia.org/wiki/Deir_el-Medina_strikes",
+    "Description": "Deir El-Medina Strikes",
+    "Metadata": {
+      "score": "4",
+      "author": "mooreds",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-12T18:54:30.0732706+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48882056"
+    },
+    "Type": 1,
+    "Title": "How to Read More Books",
+    "Url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+    "Description": "How to Read More Books",
+    "Metadata": {
+      "score": "153",
+      "author": "silcoon",
+      "commentCount": "85"
+    },
+    "FetchedAt": "2026-07-12T18:54:30.1074925+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48854168"
+    },
+    "Type": 1,
+    "Title": "Vint Cerf, \u201Cfather of the Internet\u201D, is retiring",
+    "Url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+    "Description": "Vint Cerf, \u201Cfather of the Internet\u201D, is retiring",
+    "Metadata": {
+      "score": "249",
+      "author": "compiler-guy",
+      "commentCount": "137"
+    },
+    "FetchedAt": "2026-07-12T18:54:30.141138+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48877371"
+    },
+    "Type": 1,
+    "Title": "What xAI\u0027s Grok build CLI sends to xAI: A wire-level analysis",
+    "Url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+    "Description": "What xAI\u0027s Grok build CLI sends to xAI: A wire-level analysis",
+    "Metadata": {
+      "score": "333",
+      "author": "jhoho",
+      "commentCount": "146"
+    },
+    "FetchedAt": "2026-07-12T18:54:30.1753319+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48794665"
+    },
+    "Type": 1,
+    "Title": "Morphometrics: Introduction to the Analysis of Shape",
+    "Url": "https://www.geol.umd.edu/~tholtz/G331/lectures/331biomech.html",
+    "Description": "Morphometrics: Introduction to the Analysis of Shape",
+    "Metadata": {
+      "score": "15",
+      "author": "num42",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-12T18:54:30.209161+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48881498"
+    },
+    "Type": 1,
+    "Title": "Autoresearch, Claude and Constrained Optimization",
+    "Url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
+    "Description": "Autoresearch, Claude and Constrained Optimization",
+    "Metadata": {
+      "score": "19",
+      "author": "gmays",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-07-12T18:54:30.2438294+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48880406"
+    },
+    "Type": 1,
+    "Title": "Unauthenticated RCE in Motorola\u0027s MR2600 Router",
+    "Url": "https://mrbruh.com/motorola/",
+    "Description": "Unauthenticated RCE in Motorola\u0027s MR2600 Router",
+    "Metadata": {
+      "score": "63",
+      "author": "MrBruh",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-07-12T18:54:30.2778903+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48881043"
+    },
+    "Type": 1,
+    "Title": "AI boosts research careers but narrow the span of ideas explored: study",
+    "Url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+    "Description": "AI boosts research careers but narrow the span of ideas explored: study",
+    "Metadata": {
+      "score": "107",
+      "author": "zaikunzhang",
+      "commentCount": "85"
+    },
+    "FetchedAt": "2026-07-12T18:54:30.3116561+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48816858"
+    },
+    "Type": 1,
+    "Title": "Abject Praise",
+    "Url": "https://infrequently.org/2026/07/abject-praise/",
+    "Description": "Abject Praise",
+    "Metadata": {
+      "score": "9",
+      "author": "genericlemon24",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-07-12T18:54:30.345142+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48823803"
+    },
+    "Type": 1,
+    "Title": "Satteri: A Markdown pipeline forged in Rust for the JavaScript world",
+    "Url": "https://satteri.bruits.org/",
+    "Description": "Satteri: A Markdown pipeline forged in Rust for the JavaScript world",
+    "Metadata": {
+      "score": "36",
+      "author": "nateb2022",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-07-12T18:54:30.3796711+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48876505"
+    },
+    "Type": 1,
+    "Title": "Mesh LLM: distributed AI computing on iroh",
+    "Url": "https://www.iroh.computer/blog/mesh-llm",
+    "Description": "Mesh LLM: distributed AI computing on iroh",
+    "Metadata": {
+      "score": "325",
+      "author": "tionis",
+      "commentCount": "75"
+    },
+    "FetchedAt": "2026-07-12T18:54:30.4145855+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48809916"
+    },
+    "Type": 1,
+    "Title": "Ditching Zotero for a Text File",
+    "Url": "https://atthis.link/blog/2026/57207.html",
+    "Description": "Ditching Zotero for a Text File",
+    "Metadata": {
+      "score": "49",
+      "author": "speckx",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-07-12T18:54:30.4484882+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48879902"
+    },
+    "Type": 1,
+    "Title": "Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media",
+    "Url": "https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media",
+    "Description": "Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media",
+    "Metadata": {
+      "score": "49",
+      "author": "thunderbong",
+      "commentCount": "51"
+    },
+    "FetchedAt": "2026-07-12T18:54:30.4837181+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48878682"
+    },
+    "Type": 1,
+    "Title": "Show HN: Mindwalk \u2013 Replay coding-agent sessions on a 3D map of your codebase",
+    "Url": "https://github.com/cosmtrek/mindwalk",
+    "Description": "Show HN: Mindwalk \u2013 Replay coding-agent sessions on a 3D map of your codebase",
+    "Metadata": {
+      "score": "137",
+      "author": "cosmtrek",
+      "commentCount": "61"
+    },
+    "FetchedAt": "2026-07-12T18:54:30.5172673+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48838027"
+    },
+    "Type": 1,
+    "Title": "Lessons from the Vasa Shipwreck",
+    "Url": "https://www.ft.com/content/200a6c44-9b66-4af3-82eb-98acb53898e4",
+    "Description": "Lessons from the Vasa Shipwreck",
+    "Metadata": {
+      "score": "23",
+      "author": "bookofjoe",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-07-12T18:54:30.5523552+00:00"
   }
 ]
