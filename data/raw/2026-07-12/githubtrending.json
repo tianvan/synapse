@@ -1,0 +1,336 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:catchorg/Catch2"
+    },
+    "Type": 0,
+    "Title": "catchorg/Catch2",
+    "Url": "https://github.com/catchorg/Catch2",
+    "Description": "A modern, C\u002B\u002B-native, test framework for unit-tests, TDD and BDD - using C\u002B\u002B14, C\u002B\u002B17 and later (C\u002B\u002B11 support is in v2.x branch, and C\u002B\u002B03 on the Catch1.x branch)",
+    "Metadata": {
+      "owner": "catchorg",
+      "repo": "Catch2",
+      "language": "C\u002B\u002B",
+      "stars": "113",
+      "topics": "bdd, cpp, cpp14, framework, no-dependencies, tdd, test-framework, testing"
+    },
+    "FetchedAt": "2026-07-12T01:59:25.9776108+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:abseil/abseil-cpp"
+    },
+    "Type": 0,
+    "Title": "abseil/abseil-cpp",
+    "Url": "https://github.com/abseil/abseil-cpp",
+    "Description": "Abseil Common Libraries (C\u002B\u002B)",
+    "Metadata": {
+      "owner": "abseil",
+      "repo": "abseil-cpp",
+      "language": "C\u002B\u002B",
+      "stars": "118"
+    },
+    "FetchedAt": "2026-07-12T01:59:26.1340943+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:davila7/claude-code-templates"
+    },
+    "Type": 0,
+    "Title": "davila7/claude-code-templates",
+    "Url": "https://github.com/davila7/claude-code-templates",
+    "Description": "CLI tool for configuring and monitoring Claude Code",
+    "Metadata": {
+      "owner": "davila7",
+      "repo": "claude-code-templates",
+      "language": "Python",
+      "stars": "232",
+      "topics": "anthropic, anthropic-claude, claude, claude-code"
+    },
+    "FetchedAt": "2026-07-12T01:59:26.2602798+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google-labs-code/stitch-skills"
+    },
+    "Type": 0,
+    "Title": "google-labs-code/stitch-skills",
+    "Url": "https://github.com/google-labs-code/stitch-skills",
+    "Description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "Metadata": {
+      "owner": "google-labs-code",
+      "repo": "stitch-skills",
+      "language": "TypeScript",
+      "stars": "340"
+    },
+    "FetchedAt": "2026-07-12T01:59:26.3804557+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:hashicorp/terraform"
+    },
+    "Type": 0,
+    "Title": "hashicorp/terraform",
+    "Url": "https://github.com/hashicorp/terraform",
+    "Description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "Metadata": {
+      "owner": "hashicorp",
+      "repo": "terraform",
+      "language": "Go",
+      "stars": "229",
+      "topics": "cloud, cloud-management, graph, infrastructure-as-code, terraform"
+    },
+    "FetchedAt": "2026-07-12T01:59:26.5175645+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:zeux/meshoptimizer"
+    },
+    "Type": 0,
+    "Title": "zeux/meshoptimizer",
+    "Url": "https://github.com/zeux/meshoptimizer",
+    "Description": "Mesh optimization library that makes meshes smaller and faster to render",
+    "Metadata": {
+      "owner": "zeux",
+      "repo": "meshoptimizer",
+      "language": "C\u002B\u002B",
+      "stars": "110",
+      "topics": "compression, gltf, gpu, mesh-processing, optimization, simplification"
+    },
+    "FetchedAt": "2026-07-12T01:59:26.6799203+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:openai/plugins"
+    },
+    "Type": 0,
+    "Title": "openai/plugins",
+    "Url": "https://github.com/openai/plugins",
+    "Description": "OpenAI Plugins",
+    "Metadata": {
+      "owner": "openai",
+      "repo": "plugins",
+      "language": "JavaScript",
+      "stars": "29"
+    },
+    "FetchedAt": "2026-07-12T01:59:26.7845075+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:chriskohlhoff/asio"
+    },
+    "Type": 0,
+    "Title": "chriskohlhoff/asio",
+    "Url": "https://github.com/chriskohlhoff/asio",
+    "Description": "Asio C\u002B\u002B Library",
+    "Metadata": {
+      "owner": "chriskohlhoff",
+      "repo": "asio",
+      "language": "C\u002B\u002B",
+      "stars": "76"
+    },
+    "FetchedAt": "2026-07-12T01:59:26.9037135+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:oven-sh/bun"
+    },
+    "Type": 0,
+    "Title": "oven-sh/bun",
+    "Url": "https://github.com/oven-sh/bun",
+    "Description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
+    "Metadata": {
+      "owner": "oven-sh",
+      "repo": "bun",
+      "language": "Rust",
+      "stars": "658",
+      "topics": "bun, bundler, javascript, javascriptcore, jsx, nodejs, npm, react, rust, rust-lang, transpiler, typescript"
+    },
+    "FetchedAt": "2026-07-12T01:59:27.0542787+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:actions/checkout"
+    },
+    "Type": 0,
+    "Title": "actions/checkout",
+    "Url": "https://github.com/actions/checkout",
+    "Description": "Action for checking out a repo",
+    "Metadata": {
+      "owner": "actions",
+      "repo": "checkout",
+      "language": "TypeScript",
+      "stars": "8"
+    },
+    "FetchedAt": "2026-07-12T01:59:27.1906785+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:home-assistant/core"
+    },
+    "Type": 0,
+    "Title": "home-assistant/core",
+    "Url": "https://github.com/home-assistant/core",
+    "Description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+    "Metadata": {
+      "owner": "home-assistant",
+      "repo": "core",
+      "language": "Python",
+      "stars": "80",
+      "topics": "asyncio, hacktoberfest, home-automation, internet-of-things, iot, mqtt, python, raspberry-pi"
+    },
+    "FetchedAt": "2026-07-12T01:59:27.3121708+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:microsoft/PowerToys"
+    },
+    "Type": 0,
+    "Title": "microsoft/PowerToys",
+    "Url": "https://github.com/microsoft/PowerToys",
+    "Description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+    "Metadata": {
+      "owner": "microsoft",
+      "repo": "PowerToys",
+      "language": "C",
+      "stars": "39",
+      "topics": "advanced-paste, color-picker, command-palette, desktop, fancyzones, keyboard-manager, microsoft-powertoys, powerrename, powertoys, windows, windows-10, windows-11"
+    },
+    "FetchedAt": "2026-07-12T01:59:27.4534525+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cypress-io/cypress"
+    },
+    "Type": 0,
+    "Title": "cypress-io/cypress",
+    "Url": "https://github.com/cypress-io/cypress",
+    "Description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "Metadata": {
+      "owner": "cypress-io",
+      "repo": "cypress",
+      "language": "TypeScript",
+      "stars": "19",
+      "topics": "angular-testing-library, component-testing, cypress, cypress-cloud, cypress-schematic, end-to-end-testing, react-testing-library, svelte-testing-library, test-replay, testing-framework, testing-library, testing-tool, vue-testing-library"
+    },
+    "FetchedAt": "2026-07-12T01:59:27.6160631+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:vercel/next.js"
+    },
+    "Type": 0,
+    "Title": "vercel/next.js",
+    "Url": "https://github.com/vercel/next.js",
+    "Description": "The React Framework",
+    "Metadata": {
+      "owner": "vercel",
+      "repo": "next.js",
+      "language": "JavaScript",
+      "stars": "334",
+      "topics": "blog, browser, compiler, components, hybrid, nextjs, node, react, server-rendering, ssg, static, static-site-generator, universal, vercel"
+    },
+    "FetchedAt": "2026-07-12T01:59:27.7454533+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:malisper/pgrust"
+    },
+    "Type": 0,
+    "Title": "malisper/pgrust",
+    "Url": "https://github.com/malisper/pgrust",
+    "Description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+    "Metadata": {
+      "owner": "malisper",
+      "repo": "pgrust",
+      "language": "Rust",
+      "stars": "774",
+      "topics": "ai-assisted-development, database, postgres, postgresql, rust"
+    },
+    "FetchedAt": "2026-07-12T01:59:27.8773886+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:dotnet/aspnetcore"
+    },
+    "Type": 0,
+    "Title": "dotnet/aspnetcore",
+    "Url": "https://github.com/dotnet/aspnetcore",
+    "Description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "Metadata": {
+      "owner": "dotnet",
+      "repo": "aspnetcore",
+      "language": "C#",
+      "stars": "4",
+      "topics": "aspnetcore, dotnet, hacktoberfest, help-wanted"
+    },
+    "FetchedAt": "2026-07-12T01:59:28.0061845+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:prisma/prisma"
+    },
+    "Type": 0,
+    "Title": "prisma/prisma",
+    "Url": "https://github.com/prisma/prisma",
+    "Description": "Next-generation ORM for Node.js \u0026 TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+    "Metadata": {
+      "owner": "prisma",
+      "repo": "prisma",
+      "language": "TypeScript",
+      "stars": "37",
+      "topics": "cockroachdb, database, javascript, mariadb, mongo, mongodb, mongodb-orm, mssql, mysql, nodejs, orm, postgres, postgresql, prisma, prisma-client, query-builder, sql-server, sqlite, sqlserver, typescript"
+    },
+    "FetchedAt": "2026-07-12T01:59:28.143545+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-cookbooks"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-cookbooks",
+    "Url": "https://github.com/anthropics/claude-cookbooks",
+    "Description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-cookbooks",
+      "language": "Jupyter Notebook",
+      "stars": "219"
+    },
+    "FetchedAt": "2026-07-12T01:59:28.2676372+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:nasa/fprime"
+    },
+    "Type": 0,
+    "Title": "nasa/fprime",
+    "Url": "https://github.com/nasa/fprime",
+    "Description": "F\u00B4 - A flight software and embedded systems framework",
+    "Metadata": {
+      "owner": "nasa",
+      "repo": "fprime",
+      "language": "C\u002B\u002B",
+      "stars": "22",
+      "topics": "components, cpp, embedded, embedded-systems, flight, flight-software, fprime, framework, nasa, object-oriented-programming, raspberry-pi, real-time, spaceflight"
+    },
+    "FetchedAt": "2026-07-12T01:59:28.478375+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ansible/ansible"
+    },
+    "Type": 0,
+    "Title": "ansible/ansible",
+    "Url": "https://github.com/ansible/ansible",
+    "Description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+    "Metadata": {
+      "owner": "ansible",
+      "repo": "ansible",
+      "language": "Python",
+      "stars": "24",
+      "topics": "ansible, python"
+    },
+    "FetchedAt": "2026-07-12T01:59:28.6365234+00:00"
+  }
+]
