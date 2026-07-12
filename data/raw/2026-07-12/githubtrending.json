@@ -34,23 +34,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:davila7/claude-code-templates"
-    },
-    "Type": 0,
-    "Title": "davila7/claude-code-templates",
-    "Url": "https://github.com/davila7/claude-code-templates",
-    "Description": "CLI tool for configuring and monitoring Claude Code",
-    "Metadata": {
-      "owner": "davila7",
-      "repo": "claude-code-templates",
-      "language": "Python",
-      "stars": "232",
-      "topics": "anthropic, anthropic-claude, claude, claude-code"
-    },
-    "FetchedAt": "2026-07-12T08:03:49.1663156+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:google-labs-code/stitch-skills"
     },
     "Type": 0,
@@ -166,23 +149,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:home-assistant/core"
-    },
-    "Type": 0,
-    "Title": "home-assistant/core",
-    "Url": "https://github.com/home-assistant/core",
-    "Description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
-    "Metadata": {
-      "owner": "home-assistant",
-      "repo": "core",
-      "language": "Python",
-      "stars": "80",
-      "topics": "asyncio, hacktoberfest, home-automation, internet-of-things, iot, mqtt, python, raspberry-pi"
-    },
-    "FetchedAt": "2026-07-12T08:03:50.2363924+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:microsoft/PowerToys"
     },
     "Type": 0,
@@ -234,23 +200,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:malisper/pgrust"
-    },
-    "Type": 0,
-    "Title": "malisper/pgrust",
-    "Url": "https://github.com/malisper/pgrust",
-    "Description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-    "Metadata": {
-      "owner": "malisper",
-      "repo": "pgrust",
-      "language": "Rust",
-      "stars": "774",
-      "topics": "ai-assisted-development, database, postgres, postgresql, rust"
-    },
-    "FetchedAt": "2026-07-12T08:03:50.7774502+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:dotnet/aspnetcore"
     },
     "Type": 0,
@@ -285,22 +234,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:anthropics/claude-cookbooks"
-    },
-    "Type": 0,
-    "Title": "anthropics/claude-cookbooks",
-    "Url": "https://github.com/anthropics/claude-cookbooks",
-    "Description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-    "Metadata": {
-      "owner": "anthropics",
-      "repo": "claude-cookbooks",
-      "language": "Jupyter Notebook",
-      "stars": "219"
-    },
-    "FetchedAt": "2026-07-12T08:03:51.1435354+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:nasa/fprime"
     },
     "Type": 0,
@@ -332,5 +265,254 @@
       "topics": "ansible, python"
     },
     "FetchedAt": "2026-07-12T08:03:51.410016+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/Vibe-Trading"
+    },
+    "Type": 0,
+    "Title": "HKUDS/Vibe-Trading",
+    "Url": "https://github.com/HKUDS/Vibe-Trading",
+    "Description": "\u0022Vibe-Trading: Your Personal Trading Agent\u0022",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "Vibe-Trading",
+      "language": "Python",
+      "stars": "776",
+      "topics": "ai-agent, algorithmic-trading, backtesting, fintech, llm, mcp, multi-agent, python, quantitative-finance, trading"
+    },
+    "FetchedAt": "2026-07-12T13:01:34.1098057+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:PrefectHQ/prefect"
+    },
+    "Type": 0,
+    "Title": "PrefectHQ/prefect",
+    "Url": "https://github.com/PrefectHQ/prefect",
+    "Description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+    "Metadata": {
+      "owner": "PrefectHQ",
+      "repo": "prefect",
+      "language": "Python",
+      "stars": "55",
+      "topics": "automation, data, data-engineering, data-ops, data-science, infrastructure, ml-ops, observability, orchestration, pipeline, prefect, python, workflow, workflow-engine"
+    },
+    "FetchedAt": "2026-07-12T13:01:34.3243961+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Shubhamsaboo/awesome-llm-apps"
+    },
+    "Type": 0,
+    "Title": "Shubhamsaboo/awesome-llm-apps",
+    "Url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "Description": "100\u002B AI Agent \u0026 RAG apps you can actually run \u2014 clone, customize, ship.",
+    "Metadata": {
+      "owner": "Shubhamsaboo",
+      "repo": "awesome-llm-apps",
+      "language": "Python",
+      "stars": "549",
+      "topics": "agents, llms, python, rag"
+    },
+    "FetchedAt": "2026-07-12T13:01:34.4926301+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-cookbooks"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-cookbooks",
+    "Url": "https://github.com/anthropics/claude-cookbooks",
+    "Description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-cookbooks",
+      "language": "Jupyter Notebook",
+      "stars": "464"
+    },
+    "FetchedAt": "2026-07-12T13:01:34.6389294+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:home-assistant/core"
+    },
+    "Type": 0,
+    "Title": "home-assistant/core",
+    "Url": "https://github.com/home-assistant/core",
+    "Description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+    "Metadata": {
+      "owner": "home-assistant",
+      "repo": "core",
+      "language": "Python",
+      "stars": "404",
+      "topics": "asyncio, hacktoberfest, home-automation, internet-of-things, iot, mqtt, python, raspberry-pi"
+    },
+    "FetchedAt": "2026-07-12T13:01:34.7966755+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Crosstalk-Solutions/project-nomad"
+    },
+    "Type": 0,
+    "Title": "Crosstalk-Solutions/project-nomad",
+    "Url": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "Description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered\u2014anytime, anywhere.",
+    "Metadata": {
+      "owner": "Crosstalk-Solutions",
+      "repo": "project-nomad",
+      "language": "TypeScript",
+      "stars": "122"
+    },
+    "FetchedAt": "2026-07-12T13:01:34.970798+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ColeMurray/background-agents"
+    },
+    "Type": 0,
+    "Title": "ColeMurray/background-agents",
+    "Url": "https://github.com/ColeMurray/background-agents",
+    "Description": "An open-source background agents coding system",
+    "Metadata": {
+      "owner": "ColeMurray",
+      "repo": "background-agents",
+      "language": "TypeScript",
+      "stars": "9"
+    },
+    "FetchedAt": "2026-07-12T13:01:35.1526629+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:k1tbyte/Wand-Enhancer"
+    },
+    "Type": 0,
+    "Title": "k1tbyte/Wand-Enhancer",
+    "Url": "https://github.com/k1tbyte/Wand-Enhancer",
+    "Description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+    "Metadata": {
+      "owner": "k1tbyte",
+      "repo": "Wand-Enhancer",
+      "language": "C#",
+      "stars": "661",
+      "topics": "csharp, wand, wand-enhancer, wand-pro, wemod, wpf"
+    },
+    "FetchedAt": "2026-07-12T13:01:35.3214805+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pingdotgg/t3code"
+    },
+    "Type": 0,
+    "Title": "pingdotgg/t3code",
+    "Url": "https://github.com/pingdotgg/t3code",
+    "Description": "",
+    "Metadata": {
+      "owner": "pingdotgg",
+      "repo": "t3code",
+      "language": "TypeScript",
+      "stars": "79"
+    },
+    "FetchedAt": "2026-07-12T13:01:35.5045471+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:virattt/ai-hedge-fund"
+    },
+    "Type": 0,
+    "Title": "virattt/ai-hedge-fund",
+    "Url": "https://github.com/virattt/ai-hedge-fund",
+    "Description": "An AI Hedge Fund Team",
+    "Metadata": {
+      "owner": "virattt",
+      "repo": "ai-hedge-fund",
+      "language": "Python",
+      "stars": "109"
+    },
+    "FetchedAt": "2026-07-12T13:01:35.6482721+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:chen08209/FlClash"
+    },
+    "Type": 0,
+    "Title": "chen08209/FlClash",
+    "Url": "https://github.com/chen08209/FlClash",
+    "Description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+    "Metadata": {
+      "owner": "chen08209",
+      "repo": "FlClash",
+      "language": "Dart",
+      "stars": "151",
+      "topics": "clash, clash-meta, flutter, hysteria, multi-platform, proxy, v2ray, vless, vpn"
+    },
+    "FetchedAt": "2026-07-12T13:01:35.8130606+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:davila7/claude-code-templates"
+    },
+    "Type": 0,
+    "Title": "davila7/claude-code-templates",
+    "Url": "https://github.com/davila7/claude-code-templates",
+    "Description": "CLI tool for configuring and monitoring Claude Code",
+    "Metadata": {
+      "owner": "davila7",
+      "repo": "claude-code-templates",
+      "language": "Python",
+      "stars": "274",
+      "topics": "anthropic, anthropic-claude, claude, claude-code"
+    },
+    "FetchedAt": "2026-07-12T13:01:35.9562123+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:par274/sharpemu"
+    },
+    "Type": 0,
+    "Title": "par274/sharpemu",
+    "Url": "https://github.com/par274/sharpemu",
+    "Description": "An experimental PlayStation 5 emulator project.",
+    "Metadata": {
+      "owner": "par274",
+      "repo": "sharpemu",
+      "language": "C#",
+      "stars": "436",
+      "topics": "csharp, emulation, emulator, playstation5, ps5, windows"
+    },
+    "FetchedAt": "2026-07-12T13:01:36.0883658+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:malisper/pgrust"
+    },
+    "Type": 0,
+    "Title": "malisper/pgrust",
+    "Url": "https://github.com/malisper/pgrust",
+    "Description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+    "Metadata": {
+      "owner": "malisper",
+      "repo": "pgrust",
+      "language": "Rust",
+      "stars": "518",
+      "topics": "ai-assisted-development, database, postgres, postgresql, rust"
+    },
+    "FetchedAt": "2026-07-12T13:01:36.2799964+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Nutlope/hallmark"
+    },
+    "Type": 0,
+    "Title": "Nutlope/hallmark",
+    "Url": "https://github.com/Nutlope/hallmark",
+    "Description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "Metadata": {
+      "owner": "Nutlope",
+      "repo": "hallmark",
+      "language": "CSS",
+      "stars": "210"
+    },
+    "FetchedAt": "2026-07-12T13:01:36.5018906+00:00"
   }
 ]

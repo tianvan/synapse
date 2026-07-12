@@ -196,216 +196,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48876505"
-    },
-    "Type": 1,
-    "Title": "Mesh LLM: distributed AI computing on iroh",
-    "Url": "https://www.iroh.computer/blog/mesh-llm",
-    "Description": "Mesh LLM: distributed AI computing on iroh",
-    "Metadata": {
-      "score": "219",
-      "author": "tionis",
-      "commentCount": "49"
-    },
-    "FetchedAt": "2026-07-12T08:03:51.7703853+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48854168"
-    },
-    "Type": 1,
-    "Title": "The \u0027Father of the Internet\u0027 is finally retiring",
-    "Url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-    "Description": "The \u0027Father of the Internet\u0027 is finally retiring",
-    "Metadata": {
-      "score": "26",
-      "author": "compiler-guy",
-      "commentCount": "9"
-    },
-    "FetchedAt": "2026-07-12T08:03:51.8015125+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48875377"
-    },
-    "Type": 1,
-    "Title": "Show HN: Ant \u2013 A JavaScript runtime and ecosystem",
-    "Url": "https://antjs.org",
-    "Description": "Hello HN!\u003Cp\u003EI\u0026#x27;m the author of Ant, a JavaScript ecosystem built around a runtime with its own JavaScript engine. Ant also includes a package manager, the ants.land package registry, a platform for deploying and hosting applications, and Ant Desktop for building native desktop apps with web technologies, similar to Electron.\u003Cp\u003EThe goal is for these pieces to work as one coherent platform while remaining compatible with the wider JavaScript ecosystem. It\u0026#x27;s still early, and I\u0026#x27;d appre",
-    "Metadata": {
-      "score": "249",
-      "author": "theMackabu",
-      "commentCount": "106"
-    },
-    "FetchedAt": "2026-07-12T08:03:51.8326774+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48876245"
-    },
-    "Type": 1,
-    "Title": "RISCBoy is an open-source portable games console, designed from scratch",
-    "Url": "https://github.com/Wren6991/RISCBoy",
-    "Description": "RISCBoy is an open-source portable games console, designed from scratch",
-    "Metadata": {
-      "score": "126",
-      "author": "mariuz",
-      "commentCount": "18"
-    },
-    "FetchedAt": "2026-07-12T08:03:51.864921+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48878682"
-    },
-    "Type": 1,
-    "Title": "Show HN: Mindwalk \u2013 Replay coding-agent sessions on a 3D map of your codebase",
-    "Url": "https://github.com/cosmtrek/mindwalk",
-    "Description": "Show HN: Mindwalk \u2013 Replay coding-agent sessions on a 3D map of your codebase",
-    "Metadata": {
-      "score": "8",
-      "author": "cosmtrek",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-07-12T08:03:51.8972939+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48823981"
-    },
-    "Type": 1,
-    "Title": "An agent in 100 lines of Lisp",
-    "Url": "https://thebeach.dev/posts/lisp-agent/",
-    "Description": "An agent in 100 lines of Lisp",
-    "Metadata": {
-      "score": "126",
-      "author": "jamiebeach",
-      "commentCount": "14"
-    },
-    "FetchedAt": "2026-07-12T08:03:51.9285782+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48831384"
-    },
-    "Type": 1,
-    "Title": "Text art tools",
-    "Url": "https://hlnet.notion.site/text-art-tools",
-    "Description": "Text art tools",
-    "Metadata": {
-      "score": "22",
-      "author": "surprisetalk",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-07-12T08:03:51.9596601+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48827058"
-    },
-    "Type": 1,
-    "Title": "Protobuf-py: Protobuf for Python, without compromises",
-    "Url": "https://buf.build/blog/protobuf-py",
-    "Description": "Protobuf-py: Protobuf for Python, without compromises",
-    "Metadata": {
-      "score": "12",
-      "author": "ming13",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-07-12T08:03:51.9919224+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48873836"
-    },
-    "Type": 1,
-    "Title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-    "Url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-    "Description": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-    "Metadata": {
-      "score": "241",
-      "author": "adletbalzhanov",
-      "commentCount": "80"
-    },
-    "FetchedAt": "2026-07-12T08:03:52.0230948+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48846177"
-    },
-    "Type": 1,
-    "Title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
-    "Url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
-    "Description": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
-    "Metadata": {
-      "score": "60",
-      "author": "c-c-c-c-c",
-      "commentCount": "16"
-    },
-    "FetchedAt": "2026-07-12T08:03:52.0542333+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48785102"
-    },
-    "Type": 1,
-    "Title": "EF Core 11 makes your split queries faster",
-    "Url": "https://steven-giesel.com/blogPost/d4401fd0-805a-4703-9d9e-5fe3b57c25ea",
-    "Description": "EF Core 11 makes your split queries faster",
-    "Metadata": {
-      "score": "31",
-      "author": "rellem",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-07-12T08:03:52.0856556+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48840152"
-    },
-    "Type": 1,
-    "Title": "Jellyfish Undersea Roundabout",
-    "Url": "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout",
-    "Description": "Jellyfish Undersea Roundabout",
-    "Metadata": {
-      "score": "32",
-      "author": "hydrogen7800",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-07-12T08:03:52.1168777+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48873457"
-    },
-    "Type": 1,
-    "Title": "UPI: Anatomy of a Payment Transaction",
-    "Url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
-    "Description": "UPI: Anatomy of a Payment Transaction",
-    "Metadata": {
-      "score": "170",
-      "author": "prtk25",
-      "commentCount": "63"
-    },
-    "FetchedAt": "2026-07-12T08:03:52.1478941+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48872874"
-    },
-    "Type": 1,
-    "Title": "We scaled PgBouncer to 4x throughput",
-    "Url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-    "Description": "We scaled PgBouncer to 4x throughput",
-    "Metadata": {
-      "score": "202",
-      "author": "saisrirampur",
-      "commentCount": "43"
-    },
-    "FetchedAt": "2026-07-12T08:03:52.1790193+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48877314"
     },
     "Type": 1,
@@ -436,21 +226,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48849744"
-    },
-    "Type": 1,
-    "Title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
-    "Url": "https://arxiv.org/abs/2607.07267",
-    "Description": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
-    "Metadata": {
-      "score": "88",
-      "author": "Anon84",
-      "commentCount": "13"
-    },
-    "FetchedAt": "2026-07-12T08:03:52.2746639+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48877668"
     },
     "Type": 1,
@@ -466,21 +241,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48878126"
-    },
-    "Type": 1,
-    "Title": "Under federal rule, colleges must leave grads better off or lose financial aid",
-    "Url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
-    "Description": "Under federal rule, colleges must leave grads better off or lose financial aid",
-    "Metadata": {
-      "score": "62",
-      "author": "nradov",
-      "commentCount": "93"
-    },
-    "FetchedAt": "2026-07-12T08:03:52.3367797+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48876619"
     },
     "Type": 1,
@@ -493,36 +253,6 @@
       "commentCount": "22"
     },
     "FetchedAt": "2026-07-12T08:03:52.3677959+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48872858"
-    },
-    "Type": 1,
-    "Title": "The early History of the Singular Value Decomposition (1993) [pdf]",
-    "Url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
-    "Description": "The early History of the Singular Value Decomposition (1993) [pdf]",
-    "Metadata": {
-      "score": "113",
-      "author": "wolfi1",
-      "commentCount": "63"
-    },
-    "FetchedAt": "2026-07-12T08:03:52.3988702+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48873940"
-    },
-    "Type": 1,
-    "Title": "Prefer strict tables in SQLite",
-    "Url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-    "Description": "Prefer strict tables in SQLite",
-    "Metadata": {
-      "score": "268",
-      "author": "ingve",
-      "commentCount": "129"
-    },
-    "FetchedAt": "2026-07-12T08:03:52.430133+00:00"
   },
   {
     "ExternalId": {
@@ -586,21 +316,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48877269"
-    },
-    "Type": 1,
-    "Title": "A dock that wakes up reliably",
-    "Url": "https://fabiensanglard.net/tb4/index.html",
-    "Description": "A dock that wakes up reliably",
-    "Metadata": {
-      "score": "66",
-      "author": "ingve",
-      "commentCount": "42"
-    },
-    "FetchedAt": "2026-07-12T08:03:52.5852896+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48876741"
     },
     "Type": 1,
@@ -643,5 +358,455 @@
       "commentCount": "23"
     },
     "FetchedAt": "2026-07-12T08:03:52.6789298+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48880170"
+    },
+    "Type": 1,
+    "Title": "Old and new apps, via modern coding agents by Terry Tao",
+    "Url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+    "Description": "Old and new apps, via modern coding agents by Terry Tao",
+    "Metadata": {
+      "score": "78",
+      "author": "subset",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-07-12T13:01:36.994336+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48880384"
+    },
+    "Type": 1,
+    "Title": "Yt-Dlp Sequence Diagrams",
+    "Url": "https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video",
+    "Description": "Yt-Dlp Sequence Diagrams",
+    "Metadata": {
+      "score": "30",
+      "author": "billyp-rva",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-12T13:01:37.0531597+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48879504"
+    },
+    "Type": 1,
+    "Title": "Ghostel.el: Terminal emulator powered by libghostty",
+    "Url": "https://dakra.github.io/ghostel/",
+    "Description": "Ghostel.el: Terminal emulator powered by libghostty",
+    "Metadata": {
+      "score": "57",
+      "author": "signa11",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-12T13:01:37.1125382+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48854168"
+    },
+    "Type": 1,
+    "Title": "Vint Cerf, a \u201Cfather of the Internet\u201D, is retiring",
+    "Url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+    "Description": "Vint Cerf, a \u201Cfather of the Internet\u201D, is retiring",
+    "Metadata": {
+      "score": "146",
+      "author": "compiler-guy",
+      "commentCount": "88"
+    },
+    "FetchedAt": "2026-07-12T13:01:37.174807+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48880499"
+    },
+    "Type": 1,
+    "Title": "Understanding the Odin Programming Language",
+    "Url": "https://odinbook.com/",
+    "Description": "Understanding the Odin Programming Language",
+    "Metadata": {
+      "score": "10",
+      "author": "AlexeyBrin",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-12T13:01:37.2332625+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48878682"
+    },
+    "Type": 1,
+    "Title": "Show HN: Mindwalk \u2013 Replay coding-agent sessions on a 3D map of your codebase",
+    "Url": "https://github.com/cosmtrek/mindwalk",
+    "Description": "Show HN: Mindwalk \u2013 Replay coding-agent sessions on a 3D map of your codebase",
+    "Metadata": {
+      "score": "97",
+      "author": "cosmtrek",
+      "commentCount": "44"
+    },
+    "FetchedAt": "2026-07-12T13:01:37.2915827+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48876505"
+    },
+    "Type": 1,
+    "Title": "Mesh LLM: distributed AI computing on iroh",
+    "Url": "https://www.iroh.computer/blog/mesh-llm",
+    "Description": "Mesh LLM: distributed AI computing on iroh",
+    "Metadata": {
+      "score": "279",
+      "author": "tionis",
+      "commentCount": "65"
+    },
+    "FetchedAt": "2026-07-12T13:01:37.3504631+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48827058"
+    },
+    "Type": 1,
+    "Title": "Protobuf-py: Protobuf for Python, without compromises",
+    "Url": "https://buf.build/blog/protobuf-py",
+    "Description": "Protobuf-py: Protobuf for Python, without compromises",
+    "Metadata": {
+      "score": "76",
+      "author": "ming13",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-07-12T13:01:37.409967+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48880209"
+    },
+    "Type": 1,
+    "Title": "Woman in Brazil enslaved for 55 years by 3 generations of the same family",
+    "Url": "https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html",
+    "Description": "Woman in Brazil enslaved for 55 years by 3 generations of the same family",
+    "Metadata": {
+      "score": "84",
+      "author": "RetroTechie",
+      "commentCount": "68"
+    },
+    "FetchedAt": "2026-07-12T13:01:37.4686619+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48813702"
+    },
+    "Type": 1,
+    "Title": "Xbox \u0027OG\u0027 Adventures",
+    "Url": "https://mamoniem.com/xbox-og-adventures/",
+    "Description": "Xbox \u0027OG\u0027 Adventures",
+    "Metadata": {
+      "score": "14",
+      "author": "davikr",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-12T13:01:37.5279796+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48873836"
+    },
+    "Type": 1,
+    "Title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+    "Url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+    "Description": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+    "Metadata": {
+      "score": "297",
+      "author": "adletbalzhanov",
+      "commentCount": "117"
+    },
+    "FetchedAt": "2026-07-12T13:01:37.5867843+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48830860"
+    },
+    "Type": 1,
+    "Title": "Handsum: An LQIP Image File Format",
+    "Url": "https://nigeltao.github.io/blog/2026/handsum.html",
+    "Description": "Handsum: An LQIP Image File Format",
+    "Metadata": {
+      "score": "29",
+      "author": "dmit",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-12T13:01:37.6454519+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48823981"
+    },
+    "Type": 1,
+    "Title": "An agent in 100 lines of Lisp",
+    "Url": "https://thebeach.dev/posts/lisp-agent/",
+    "Description": "An agent in 100 lines of Lisp",
+    "Metadata": {
+      "score": "182",
+      "author": "jamiebeach",
+      "commentCount": "50"
+    },
+    "FetchedAt": "2026-07-12T13:01:37.7044729+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48809916"
+    },
+    "Type": 1,
+    "Title": "Ditching Zotero for a Text File",
+    "Url": "https://atthis.link/blog/2026/57207.html",
+    "Description": "Ditching Zotero for a Text File",
+    "Metadata": {
+      "score": "6",
+      "author": "speckx",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-12T13:01:37.7638624+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48875377"
+    },
+    "Type": 1,
+    "Title": "Show HN: Ant \u2013 A JavaScript runtime and ecosystem",
+    "Url": "https://antjs.org",
+    "Description": "Hello HN!\u003Cp\u003EI\u0026#x27;m the author of Ant, a JavaScript ecosystem built around a runtime with its own JavaScript engine. Ant also includes a package manager, the ants.land package registry, a platform for deploying and hosting applications, and Ant Desktop for building native desktop apps with web technologies, similar to Electron.\u003Cp\u003EThe goal is for these pieces to work as one coherent platform while remaining compatible with the wider JavaScript ecosystem. It\u0026#x27;s still early, and I\u0026#x27;d appre",
+    "Metadata": {
+      "score": "290",
+      "author": "theMackabu",
+      "commentCount": "131"
+    },
+    "FetchedAt": "2026-07-12T13:01:37.8238053+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48879950"
+    },
+    "Type": 1,
+    "Title": "Datacentres drive up big tech\u0027s carbon emissions to a third of those of France",
+    "Url": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
+    "Description": "Datacentres drive up big tech\u0027s carbon emissions to a third of those of France",
+    "Metadata": {
+      "score": "35",
+      "author": "YeGoblynQueenne",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-07-12T13:01:37.8819017+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48876245"
+    },
+    "Type": 1,
+    "Title": "RISCBoy is an open-source portable games console, designed from scratch",
+    "Url": "https://github.com/Wren6991/RISCBoy",
+    "Description": "RISCBoy is an open-source portable games console, designed from scratch",
+    "Metadata": {
+      "score": "164",
+      "author": "mariuz",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-07-12T13:01:37.9433204+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48831384"
+    },
+    "Type": 1,
+    "Title": "Text art tools",
+    "Url": "https://hlnet.notion.site/text-art-tools",
+    "Description": "Text art tools",
+    "Metadata": {
+      "score": "64",
+      "author": "surprisetalk",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-07-12T13:01:38.0033883+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48846177"
+    },
+    "Type": 1,
+    "Title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
+    "Url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
+    "Description": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
+    "Metadata": {
+      "score": "83",
+      "author": "c-c-c-c-c",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-07-12T13:01:38.0813665+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48829697"
+    },
+    "Type": 1,
+    "Title": "Fibonacci\u0027s Real Mathematical Legacy",
+    "Url": "https://blogs.nature.com/aviewfromthebridge/2017/04/20/fibonaccis-mathematical-legacy/",
+    "Description": "Fibonacci\u0027s Real Mathematical Legacy",
+    "Metadata": {
+      "score": "14",
+      "author": "ColinWright",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-07-12T13:01:38.1444586+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48785102"
+    },
+    "Type": 1,
+    "Title": "EF Core 11 makes your split queries faster",
+    "Url": "https://steven-giesel.com/blogPost/d4401fd0-805a-4703-9d9e-5fe3b57c25ea",
+    "Description": "EF Core 11 makes your split queries faster",
+    "Metadata": {
+      "score": "51",
+      "author": "rellem",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-07-12T13:01:38.2165065+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48873457"
+    },
+    "Type": 1,
+    "Title": "UPI: Anatomy of a Payment Transaction",
+    "Url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+    "Description": "UPI: Anatomy of a Payment Transaction",
+    "Metadata": {
+      "score": "210",
+      "author": "prtk25",
+      "commentCount": "92"
+    },
+    "FetchedAt": "2026-07-12T13:01:38.2769532+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48873424"
+    },
+    "Type": 1,
+    "Title": "Modern decor may be straining people\u0027s brains",
+    "Url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+    "Description": "Modern decor may be straining people\u0027s brains",
+    "Metadata": {
+      "score": "215",
+      "author": "downwithdisease",
+      "commentCount": "220"
+    },
+    "FetchedAt": "2026-07-12T13:01:38.3572771+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48849744"
+    },
+    "Type": 1,
+    "Title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
+    "Url": "https://arxiv.org/abs/2607.07267",
+    "Description": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
+    "Metadata": {
+      "score": "111",
+      "author": "Anon84",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-07-12T13:01:38.4149344+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48872874"
+    },
+    "Type": 1,
+    "Title": "We scaled PgBouncer to 4x throughput",
+    "Url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+    "Description": "We scaled PgBouncer to 4x throughput",
+    "Metadata": {
+      "score": "223",
+      "author": "saisrirampur",
+      "commentCount": "53"
+    },
+    "FetchedAt": "2026-07-12T13:01:38.5457839+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48872858"
+    },
+    "Type": 1,
+    "Title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+    "Url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+    "Description": "The early History of the Singular Value Decomposition (1993) [pdf]",
+    "Metadata": {
+      "score": "129",
+      "author": "wolfi1",
+      "commentCount": "68"
+    },
+    "FetchedAt": "2026-07-12T13:01:38.6037284+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48840152"
+    },
+    "Type": 1,
+    "Title": "Jellyfish Undersea Roundabout",
+    "Url": "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout",
+    "Description": "Jellyfish Undersea Roundabout",
+    "Metadata": {
+      "score": "58",
+      "author": "hydrogen7800",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-07-12T13:01:38.6618177+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48878126"
+    },
+    "Type": 1,
+    "Title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+    "Url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+    "Description": "Under federal rule, colleges must leave grads better off or lose financial aid",
+    "Metadata": {
+      "score": "122",
+      "author": "nradov",
+      "commentCount": "264"
+    },
+    "FetchedAt": "2026-07-12T13:01:38.7198331+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48877269"
+    },
+    "Type": 1,
+    "Title": "A dock that wakes up reliably",
+    "Url": "https://fabiensanglard.net/tb4/index.html",
+    "Description": "A dock that wakes up reliably",
+    "Metadata": {
+      "score": "91",
+      "author": "ingve",
+      "commentCount": "54"
+    },
+    "FetchedAt": "2026-07-12T13:01:38.7804537+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48873940"
+    },
+    "Type": 1,
+    "Title": "Prefer strict tables in SQLite",
+    "Url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+    "Description": "Prefer strict tables in SQLite",
+    "Metadata": {
+      "score": "310",
+      "author": "ingve",
+      "commentCount": "160"
+    },
+    "FetchedAt": "2026-07-12T13:01:38.841371+00:00"
   }
 ]
