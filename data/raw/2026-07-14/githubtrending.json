@@ -1,23 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:HKUDS/Vibe-Trading"
-    },
-    "Type": 0,
-    "Title": "HKUDS/Vibe-Trading",
-    "Url": "https://github.com/HKUDS/Vibe-Trading",
-    "Description": "\u0022Vibe-Trading: Your Personal Trading Agent\u0022",
-    "Metadata": {
-      "owner": "HKUDS",
-      "repo": "Vibe-Trading",
-      "language": "Python",
-      "stars": "1,153",
-      "topics": "ai-agent, algorithmic-trading, backtesting, fintech, llm, mcp, multi-agent, python, quantitative-finance, trading"
-    },
-    "FetchedAt": "2026-07-14T07:50:00.7320732+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:moeru-ai/airi"
     },
     "Type": 0,
@@ -35,73 +18,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:Shubhamsaboo/awesome-llm-apps"
-    },
-    "Type": 0,
-    "Title": "Shubhamsaboo/awesome-llm-apps",
-    "Url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-    "Description": "100\u002B AI Agent \u0026 RAG apps you can actually run \u2014 clone, customize, ship.",
-    "Metadata": {
-      "owner": "Shubhamsaboo",
-      "repo": "awesome-llm-apps",
-      "language": "Python",
-      "stars": "996",
-      "topics": "agents, llms, python, rag"
-    },
-    "FetchedAt": "2026-07-14T07:50:01.1195399+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:Nutlope/hallmark"
-    },
-    "Type": 0,
-    "Title": "Nutlope/hallmark",
-    "Url": "https://github.com/Nutlope/hallmark",
-    "Description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-    "Metadata": {
-      "owner": "Nutlope",
-      "repo": "hallmark",
-      "language": "CSS",
-      "stars": "794"
-    },
-    "FetchedAt": "2026-07-14T07:50:01.2492371+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:Graphify-Labs/graphify"
-    },
-    "Type": 0,
-    "Title": "Graphify-Labs/graphify",
-    "Url": "https://github.com/Graphify-Labs/graphify",
-    "Description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code \u002B database schema \u002B infrastructure in one graph.",
-    "Metadata": {
-      "owner": "Graphify-Labs",
-      "repo": "graphify",
-      "language": "Python",
-      "stars": "1,095",
-      "topics": "antigravity, claude-code, codex, gemini, graphrag, knowledge-graph, leiden, openclaw, rag, skills, tree-sitter"
-    },
-    "FetchedAt": "2026-07-14T07:50:01.3803164+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:hasaneyldrm/exercises-dataset"
-    },
-    "Type": 0,
-    "Title": "hasaneyldrm/exercises-dataset",
-    "Url": "https://github.com/hasaneyldrm/exercises-dataset",
-    "Description": "1,324-exercise fitness dataset \u2014 animation GIFs, 180\u00D7180 thumbnails, muscle-group \u0026 equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
-    "Metadata": {
-      "owner": "hasaneyldrm",
-      "repo": "exercises-dataset",
-      "language": "HTML",
-      "stars": "451",
-      "topics": "dataset, exercise-database, exercises, fitness, fitness-app, gym, json, logpress, react-native, workout"
-    },
-    "FetchedAt": "2026-07-14T07:50:01.5482207+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:github/spec-kit"
     },
     "Type": 0,
@@ -116,5 +32,173 @@
       "topics": "ai, copilot, development, engineering, prd, spec, spec-driven"
     },
     "FetchedAt": "2026-07-14T07:50:01.6678197+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Shubhamsaboo/awesome-llm-apps"
+    },
+    "Type": 0,
+    "Title": "Shubhamsaboo/awesome-llm-apps",
+    "Url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "Description": "100\u002B AI Agent \u0026 RAG apps you can actually run \u2014 clone, customize, ship.",
+    "Metadata": {
+      "owner": "Shubhamsaboo",
+      "repo": "awesome-llm-apps",
+      "language": "Python",
+      "stars": "1,104",
+      "topics": "agents, llms, python, rag"
+    },
+    "FetchedAt": "2026-07-14T13:14:52.5369541+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:virattt/ai-hedge-fund"
+    },
+    "Type": 0,
+    "Title": "virattt/ai-hedge-fund",
+    "Url": "https://github.com/virattt/ai-hedge-fund",
+    "Description": "An AI Hedge Fund Team",
+    "Metadata": {
+      "owner": "virattt",
+      "repo": "ai-hedge-fund",
+      "language": "Python",
+      "stars": "330"
+    },
+    "FetchedAt": "2026-07-14T13:14:52.8470173+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Nutlope/hallmark"
+    },
+    "Type": 0,
+    "Title": "Nutlope/hallmark",
+    "Url": "https://github.com/Nutlope/hallmark",
+    "Description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "Metadata": {
+      "owner": "Nutlope",
+      "repo": "hallmark",
+      "language": "CSS",
+      "stars": "1,010"
+    },
+    "FetchedAt": "2026-07-14T13:14:53.0392829+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/Vibe-Trading"
+    },
+    "Type": 0,
+    "Title": "HKUDS/Vibe-Trading",
+    "Url": "https://github.com/HKUDS/Vibe-Trading",
+    "Description": "\u0022Vibe-Trading: Your Personal Trading Agent\u0022",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "Vibe-Trading",
+      "language": "Python",
+      "stars": "1,265",
+      "topics": "ai-agent, algorithmic-trading, backtesting, fintech, llm, mcp, multi-agent, python, quantitative-finance, trading"
+    },
+    "FetchedAt": "2026-07-14T13:14:53.2067037+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:hasaneyldrm/exercises-dataset"
+    },
+    "Type": 0,
+    "Title": "hasaneyldrm/exercises-dataset",
+    "Url": "https://github.com/hasaneyldrm/exercises-dataset",
+    "Description": "1,324-exercise fitness dataset \u2014 animation GIFs, 180\u00D7180 thumbnails, muscle-group \u0026 equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+    "Metadata": {
+      "owner": "hasaneyldrm",
+      "repo": "exercises-dataset",
+      "language": "HTML",
+      "stars": "864",
+      "topics": "dataset, exercise-database, exercises, fitness, fitness-app, gym, json, logpress, react-native, workout"
+    },
+    "FetchedAt": "2026-07-14T13:14:53.3749297+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:penpot/penpot"
+    },
+    "Type": 0,
+    "Title": "penpot/penpot",
+    "Url": "https://github.com/penpot/penpot",
+    "Description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+    "Metadata": {
+      "owner": "penpot",
+      "repo": "penpot",
+      "language": "Clojure",
+      "stars": "264",
+      "topics": "clojure, clojurescript, design, prototyping, ui, ux-design, ux-experience"
+    },
+    "FetchedAt": "2026-07-14T13:14:53.5329741+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:AIEraDev/Clypra"
+    },
+    "Type": 0,
+    "Title": "AIEraDev/Clypra",
+    "Url": "https://github.com/AIEraDev/Clypra",
+    "Description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+    "Metadata": {
+      "owner": "AIEraDev",
+      "repo": "Clypra",
+      "language": "TypeScript",
+      "stars": "66",
+      "topics": "clypra, video-editor"
+    },
+    "FetchedAt": "2026-07-14T13:14:53.7019873+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:par274/sharpemu"
+    },
+    "Type": 0,
+    "Title": "par274/sharpemu",
+    "Url": "https://github.com/par274/sharpemu",
+    "Description": "An experimental PlayStation 5 emulator project.",
+    "Metadata": {
+      "owner": "par274",
+      "repo": "sharpemu",
+      "language": "C#",
+      "stars": "428",
+      "topics": "csharp, emulation, emulator, playstation5, ps5, windows"
+    },
+    "FetchedAt": "2026-07-14T13:14:53.8627107+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:chenyme/grok2api"
+    },
+    "Type": 0,
+    "Title": "chenyme/grok2api",
+    "Url": "https://github.com/chenyme/grok2api",
+    "Description": "\u9762\u5411 Grok Build\u3001Grok Web \u4E0E Grok Console \u7684\u591A\u8D26\u53F7 API \u7F51\u5173",
+    "Metadata": {
+      "owner": "chenyme",
+      "repo": "grok2api",
+      "language": "Go",
+      "stars": "179",
+      "topics": "grok, grok-imagine"
+    },
+    "FetchedAt": "2026-07-14T13:14:54.0244818+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Graphify-Labs/graphify"
+    },
+    "Type": 0,
+    "Title": "Graphify-Labs/graphify",
+    "Url": "https://github.com/Graphify-Labs/graphify",
+    "Description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code \u002B database schema \u002B infrastructure in one graph.",
+    "Metadata": {
+      "owner": "Graphify-Labs",
+      "repo": "graphify",
+      "language": "Python",
+      "stars": "1,858",
+      "topics": "antigravity, claude-code, codex, gemini, graphrag, knowledge-graph, leiden, openclaw, rag, skills, tree-sitter"
+    },
+    "FetchedAt": "2026-07-14T13:14:54.1732445+00:00"
   }
 ]
