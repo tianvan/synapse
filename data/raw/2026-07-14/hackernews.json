@@ -1,81 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:48901010"
-    },
-    "Type": 1,
-    "Title": "The Git history command deserves more attention",
-    "Url": "https://lalitm.com/post/git-history/",
-    "Description": "The Git history command deserves more attention",
-    "Metadata": {
-      "score": "24",
-      "author": "turbocon",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-07-14T01:47:49.4362694+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48896665"
-    },
-    "Type": 1,
-    "Title": "Building and shipping Mac and iOS apps without opening Xcode",
-    "Url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-    "Description": "Building and shipping Mac and iOS apps without opening Xcode",
-    "Metadata": {
-      "score": "309",
-      "author": "speckx",
-      "commentCount": "135"
-    },
-    "FetchedAt": "2026-07-14T01:47:49.4678949+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48894752"
-    },
-    "Type": 1,
-    "Title": "Apple\u0027s new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-    "Url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-    "Description": "Apple\u0027s new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-    "Metadata": {
-      "score": "449",
-      "author": "get-inscribe",
-      "commentCount": "182"
-    },
-    "FetchedAt": "2026-07-14T01:47:49.5010321+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48900191"
-    },
-    "Type": 1,
-    "Title": "An Englishwoman who sketched India before photography took hold",
-    "Url": "https://www.bbc.com/news/articles/cm2drrv6q54o",
-    "Description": "An Englishwoman who sketched India before photography took hold",
-    "Metadata": {
-      "score": "47",
-      "author": "1659447091",
-      "commentCount": "7"
-    },
-    "FetchedAt": "2026-07-14T01:47:49.5333674+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48901126"
-    },
-    "Type": 1,
-    "Title": "MorphoHDL: A minimalistic language for growing circuits",
-    "Url": "https://paradigms-of-intelligence.github.io/morpho/",
-    "Description": "MorphoHDL: A minimalistic language for growing circuits",
-    "Metadata": {
-      "score": "8",
-      "author": "jacktang",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-07-14T01:47:49.5649499+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48900790"
     },
     "Type": 1,
@@ -103,21 +28,6 @@
       "commentCount": "0"
     },
     "FetchedAt": "2026-07-14T01:47:49.63031+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48897104"
-    },
-    "Type": 1,
-    "Title": "The infinite scroll may become endangered if controversial Calif. law passes",
-    "Url": "https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php",
-    "Description": "The infinite scroll may become endangered if controversial Calif. law passes",
-    "Metadata": {
-      "score": "78",
-      "author": "Stratoscope",
-      "commentCount": "132"
-    },
-    "FetchedAt": "2026-07-14T01:47:49.66164+00:00"
   },
   {
     "ExternalId": {
@@ -178,96 +88,6 @@
       "commentCount": "9"
     },
     "FetchedAt": "2026-07-14T01:47:49.7877893+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48896600"
-    },
-    "Type": 1,
-    "Title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
-    "Url": "https://cakehonolulu.github.io/linux-on-32x/",
-    "Description": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
-    "Metadata": {
-      "score": "100",
-      "author": "cakehonolulu",
-      "commentCount": "22"
-    },
-    "FetchedAt": "2026-07-14T01:47:49.8185403+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48900319"
-    },
-    "Type": 1,
-    "Title": "Show HN: Sx 2.0 \u2013 Share AI skills with your team through a Dropbox folder",
-    "Url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
-    "Description": "Hi all, author here. SX started as a CLI to let developers share skills across AI clients without having to rely on git for storage. This allowed sharing at the Repo\u0026#x2F;Team\u0026#x2F;Org and Personal level.\u003Cp\u003EHowever, the more we spoke to users the more we realized that non-technical users were actually using skills more and more but they had no way to share. And there was no way you were going to get your legal team to install and learn git.\u003Cp\u003ESX 2.0 is targeting non-technical teams by adding a n",
-    "Metadata": {
-      "score": "10",
-      "author": "detkin",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-07-14T01:47:49.8499124+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48894630"
-    },
-    "Type": 1,
-    "Title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
-    "Url": "https://github.com/jbwinters/jacquard-lang",
-    "Description": "I\u0026#x27;m fascinated by the generative AI wave rolling over us, and wondered if AI could create a language that it might prefer using over the ones created by and for humans.\u003Cp\u003ETo create the design, I had AI analyze the ASTs of several mainstream languages plus a few of the conceptually groundbreaking but esoteric ones (listed in the README) and then create a new structure and new syntax. It was named after the Jacquard machine (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;en.wikipedia.org\u0026#x2F;wiki\u0026#x2F;Jacquard_",
-    "Metadata": {
-      "score": "49",
-      "author": "jbwinters",
-      "commentCount": "20"
-    },
-    "FetchedAt": "2026-07-14T01:47:49.8816604+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48898814"
-    },
-    "Type": 1,
-    "Title": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
-    "Url": "https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7",
-    "Description": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
-    "Metadata": {
-      "score": "1",
-      "author": "maciejSz",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-07-14T01:47:49.9127207+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48893550"
-    },
-    "Type": 1,
-    "Title": "Show HN: Hackney \u2013 Compare Uber, Lyft, Waymo, and Robotaxi Prices",
-    "Url": "https://hackney.app/",
-    "Description": "I created an app that compares real-time prices and wait times across Uber, Lyft, Waymo, Tesla Robotaxi, Curb, and Empower. It shows you all ride options in one list, then once you\u2019re ready to book, it deeplinks you to the provider\u2019s app with the route pre-filled.\u003Cp\u003EEdit: Here\u0026#x27;s a demo video: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=VV8PEAjxwQI\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=VV8PEAjxwQI\u003C/a\u003E\u003Cp\u003EI reverse-engineered ride-hailing mobile apps to und",
-    "Metadata": {
-      "score": "19",
-      "author": "griffinli",
-      "commentCount": "16"
-    },
-    "FetchedAt": "2026-07-14T01:47:49.9438884+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48897329"
-    },
-    "Type": 1,
-    "Title": "TFTP Honey Pot Results",
-    "Url": "https://bruceediger.com/posts/tftp-honeypot-results/",
-    "Description": "TFTP Honey Pot Results",
-    "Metadata": {
-      "score": "56",
-      "author": "speckx",
-      "commentCount": "25"
-    },
-    "FetchedAt": "2026-07-14T01:47:49.9758512+00:00"
   },
   {
     "ExternalId": {
@@ -346,51 +166,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48852159"
-    },
-    "Type": 1,
-    "Title": "Ancient Roman Board Game",
-    "Url": "https://ludus-coriovalli.web.app/",
-    "Description": "Ancient Roman Board Game",
-    "Metadata": {
-      "score": "90",
-      "author": "nobody9999",
-      "commentCount": "37"
-    },
-    "FetchedAt": "2026-07-14T01:47:50.1662153+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48897975"
-    },
-    "Type": 1,
-    "Title": "Show HN: I implemented a neural network in SQL",
-    "Url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
-    "Description": "Two weeks ago I was on my babymoon in Corfu, Greece. While in transit, I was overseeing a GSoC intern submit an important feature to my array database library, Xarray-SQL. He added \u0060to_dataset()\u0060, which completed the roundtrip between thinking of array data in a tabular model simultaneously as gridded rasters (the premise of the project is that every Nd array can be mapped to 2d, where orthogonal dims of the Nd array are just primary keys of a tabular representation). We discussed in chat, now t",
-    "Metadata": {
-      "score": "57",
-      "author": "alxmrs",
-      "commentCount": "12"
-    },
-    "FetchedAt": "2026-07-14T01:47:50.1985739+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48899321"
-    },
-    "Type": 1,
-    "Title": "A Study of Microsoft\u0027s Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
-    "Url": "https://arxiv.org/abs/2607.01418",
-    "Description": "A Study of Microsoft\u0027s Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
-    "Metadata": {
-      "score": "25",
-      "author": "softwaredoug",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-07-14T01:47:50.2296008+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48890959"
     },
     "Type": 1,
@@ -448,5 +223,455 @@
       "commentCount": "1"
     },
     "FetchedAt": "2026-07-14T01:47:50.3565047+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48901569"
+    },
+    "Type": 1,
+    "Title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+    "Url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+    "Description": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+    "Metadata": {
+      "score": "360",
+      "author": "donohoe",
+      "commentCount": "91"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.0492923+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48902026"
+    },
+    "Type": 1,
+    "Title": "YouTrackDB is a general-use object-oriented graph database",
+    "Url": "https://github.com/JetBrains/youtrackdb",
+    "Description": "YouTrackDB is a general-use object-oriented graph database",
+    "Metadata": {
+      "score": "91",
+      "author": "gjvc",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.0824184+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48901010"
+    },
+    "Type": 1,
+    "Title": "The Git history command deserves more attention",
+    "Url": "https://lalitm.com/post/git-history/",
+    "Description": "The Git history command deserves more attention",
+    "Metadata": {
+      "score": "249",
+      "author": "turbocon",
+      "commentCount": "143"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.1156053+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48901454"
+    },
+    "Type": 1,
+    "Title": "Fundamentals of Wireless Communication (2005)",
+    "Url": "https://web.stanford.edu/~dntse/wireless_book.html",
+    "Description": "Fundamentals of Wireless Communication (2005)",
+    "Metadata": {
+      "score": "116",
+      "author": "teleforce",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.1482023+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48872833"
+    },
+    "Type": 1,
+    "Title": "How to build a circular LCD clock",
+    "Url": "https://blinry.org/lcd-clock/",
+    "Description": "How to build a circular LCD clock",
+    "Metadata": {
+      "score": "65",
+      "author": "birdculture",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.1801868+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48896665"
+    },
+    "Type": 1,
+    "Title": "Building and shipping Mac and iOS apps without opening Xcode",
+    "Url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+    "Description": "Building and shipping Mac and iOS apps without opening Xcode",
+    "Metadata": {
+      "score": "441",
+      "author": "speckx",
+      "commentCount": "193"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.2123719+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48901224"
+    },
+    "Type": 1,
+    "Title": "The Economics of Recursive Self-Improvement [pdf]",
+    "Url": "https://elasticity.institute/rsi-paper.pdf",
+    "Description": "The Economics of Recursive Self-Improvement [pdf]",
+    "Metadata": {
+      "score": "78",
+      "author": "apsec112",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.2461211+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48901235"
+    },
+    "Type": 1,
+    "Title": "Is x86 ready to ACE it?",
+    "Url": "https://chipsandcheese.com/p/is-x86-ready-to-ace-it",
+    "Description": "Is x86 ready to ACE it?",
+    "Metadata": {
+      "score": "61",
+      "author": "mfiguiere",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.2781312+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48901356"
+    },
+    "Type": 1,
+    "Title": "Satellite Tracker \u2013 Live Map of Starlink and 30k Satellites",
+    "Url": "https://satellitemap.space/",
+    "Description": "Satellite Tracker \u2013 Live Map of Starlink and 30k Satellites",
+    "Metadata": {
+      "score": "70",
+      "author": "rolph",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.3104858+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48900191"
+    },
+    "Type": 1,
+    "Title": "An Englishwoman who sketched India before photography took hold",
+    "Url": "https://www.bbc.com/news/articles/cm2drrv6q54o",
+    "Description": "An Englishwoman who sketched India before photography took hold",
+    "Metadata": {
+      "score": "127",
+      "author": "1659447091",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.3425999+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48901126"
+    },
+    "Type": 1,
+    "Title": "MorphoHDL: A minimalistic language for growing circuits",
+    "Url": "https://paradigms-of-intelligence.github.io/morpho/",
+    "Description": "MorphoHDL: A minimalistic language for growing circuits",
+    "Metadata": {
+      "score": "58",
+      "author": "jacktang",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.3749709+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48853146"
+    },
+    "Type": 1,
+    "Title": "World-First \u0027Super Alloy\u0027 Could Transform the Way Metals Are Made",
+    "Url": "https://www.sciencealert.com/world-first-super-alloy-could-transform-the-way-metals-are-made",
+    "Description": "World-First \u0027Super Alloy\u0027 Could Transform the Way Metals Are Made",
+    "Metadata": {
+      "score": "53",
+      "author": "tejohnso",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.4077197+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48901645"
+    },
+    "Type": 1,
+    "Title": "Our Amish Language",
+    "Url": "https://www.thedial.world/articles/news/amish-pennsylvania-dutch",
+    "Description": "Our Amish Language",
+    "Metadata": {
+      "score": "36",
+      "author": "NaOH",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.4395954+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48845999"
+    },
+    "Type": 1,
+    "Title": "Writing a bindless GPU abstraction layer",
+    "Url": "https://www.kevin-gibson.com/blog/writing-a-bindless-gpu-abstraction-layer/",
+    "Description": "Writing a bindless GPU abstraction layer",
+    "Metadata": {
+      "score": "34",
+      "author": "surprisetalk",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.4714696+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48897104"
+    },
+    "Type": 1,
+    "Title": "The infinite scroll may become endangered if controversial Calif. law passes",
+    "Url": "https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php",
+    "Description": "The infinite scroll may become endangered if controversial Calif. law passes",
+    "Metadata": {
+      "score": "150",
+      "author": "Stratoscope",
+      "commentCount": "263"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.503875+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48872791"
+    },
+    "Type": 1,
+    "Title": "Jektex 0.2.0 \u2013 A Jekyll plugin for LaTeX rendering is now ~10x faster",
+    "Url": "https://github.com/yagarea/jektex",
+    "Description": "Jektex 0.2.0 \u2013 A Jekyll plugin for LaTeX rendering is now ~10x faster",
+    "Metadata": {
+      "score": "5",
+      "author": "yagarea",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.5428815+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48901292"
+    },
+    "Type": 1,
+    "Title": "What will be left for us to work on?",
+    "Url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+    "Description": "What will be left for us to work on?",
+    "Metadata": {
+      "score": "115",
+      "author": "randomwalker",
+      "commentCount": "114"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.5770101+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48855045"
+    },
+    "Type": 1,
+    "Title": "Two Case Studies of NaN",
+    "Url": "https://sebsite.pw/w/20260709-nan.html",
+    "Description": "Two Case Studies of NaN",
+    "Metadata": {
+      "score": "5",
+      "author": "ryantsuji",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.6152928+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48902599"
+    },
+    "Type": 1,
+    "Title": "OpenAI\u0027s Ad Business Is on Pace to Miss Its Own Forecast by 90%, Analyst Says",
+    "Url": "https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/",
+    "Description": "OpenAI\u0027s Ad Business Is on Pace to Miss Its Own Forecast by 90%, Analyst Says",
+    "Metadata": {
+      "score": "34",
+      "author": "EvgeniyZh",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.6489159+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48896600"
+    },
+    "Type": 1,
+    "Title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
+    "Url": "https://cakehonolulu.github.io/linux-on-32x/",
+    "Description": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
+    "Metadata": {
+      "score": "121",
+      "author": "cakehonolulu",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.6829085+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48901275"
+    },
+    "Type": 1,
+    "Title": "Building Food Metadata with LLM Juries",
+    "Url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
+    "Description": "Building Food Metadata with LLM Juries",
+    "Metadata": {
+      "score": "31",
+      "author": "tie-in",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.7170781+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48894752"
+    },
+    "Type": 1,
+    "Title": "Apple\u0027s new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+    "Url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+    "Description": "Apple\u0027s new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+    "Metadata": {
+      "score": "526",
+      "author": "get-inscribe",
+      "commentCount": "210"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.7491608+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48852159"
+    },
+    "Type": 1,
+    "Title": "Ancient Roman Board Game",
+    "Url": "https://ludus-coriovalli.web.app/",
+    "Description": "Ancient Roman Board Game",
+    "Metadata": {
+      "score": "119",
+      "author": "nobody9999",
+      "commentCount": "45"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.7817093+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48900319"
+    },
+    "Type": 1,
+    "Title": "Show HN: Sx 2.0 \u2013 Share AI skills with your team through a Dropbox folder",
+    "Url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
+    "Description": "Hi all, author here. SX started as a CLI to let developers share skills across AI clients without having to rely on git for storage. This allowed sharing at the Repo\u0026#x2F;Team\u0026#x2F;Org and Personal level.\u003Cp\u003EHowever, the more we spoke to users the more we realized that non-technical users were actually using skills more and more but they had no way to share. And there was no way you were going to get your legal team to install and learn git.\u003Cp\u003ESX 2.0 is targeting non-technical teams by adding a n",
+    "Metadata": {
+      "score": "34",
+      "author": "detkin",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.8151194+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48897975"
+    },
+    "Type": 1,
+    "Title": "Show HN: I implemented a neural network in SQL",
+    "Url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+    "Description": "Two weeks ago I was on my babymoon in Corfu, Greece. While in transit, I was overseeing a GSoC intern submit an important feature to my array database library, Xarray-SQL. He added \u0060to_dataset()\u0060, which completed the roundtrip between thinking of array data in a tabular model simultaneously as gridded rasters (the premise of the project is that every Nd array can be mapped to 2d, where orthogonal dims of the Nd array are just primary keys of a tabular representation). We discussed in chat, now t",
+    "Metadata": {
+      "score": "87",
+      "author": "alxmrs",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.8475607+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48893550"
+    },
+    "Type": 1,
+    "Title": "Show HN: Hackney \u2013 Compare Uber, Lyft, Waymo, and Robotaxi Prices",
+    "Url": "https://hackney.app/",
+    "Description": "I created an app that compares real-time prices and wait times across Uber, Lyft, Waymo, Tesla Robotaxi, Curb, and Empower. It shows you all ride options in one list, then once you\u2019re ready to book, it deeplinks you to the provider\u2019s app with the route pre-filled.\u003Cp\u003EEdit: Here\u0026#x27;s a demo video: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=VV8PEAjxwQI\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=VV8PEAjxwQI\u003C/a\u003E\u003Cp\u003EI reverse-engineered ride-hailing mobile apps to und",
+    "Metadata": {
+      "score": "44",
+      "author": "griffinli",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.8801099+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48898814"
+    },
+    "Type": 1,
+    "Title": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
+    "Url": "https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7",
+    "Description": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
+    "Metadata": {
+      "score": "1",
+      "author": "maciejSz",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.9119305+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48894630"
+    },
+    "Type": 1,
+    "Title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+    "Url": "https://github.com/jbwinters/jacquard-lang",
+    "Description": "I\u0026#x27;m fascinated by the generative AI wave rolling over us, and wondered if AI could create a language that it might prefer using over the ones created by and for humans.\u003Cp\u003ETo create the design, I had AI analyze the ASTs of several mainstream languages plus a few of the conceptually groundbreaking but esoteric ones (listed in the README) and then create a new structure and new syntax. It was named after the Jacquard machine (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;en.wikipedia.org\u0026#x2F;wiki\u0026#x2F;Jacquard_",
+    "Metadata": {
+      "score": "82",
+      "author": "jbwinters",
+      "commentCount": "44"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.9456459+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48897329"
+    },
+    "Type": 1,
+    "Title": "TFTP Honey Pot Results",
+    "Url": "https://bruceediger.com/posts/tftp-honeypot-results/",
+    "Description": "TFTP Honey Pot Results",
+    "Metadata": {
+      "score": "79",
+      "author": "speckx",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-07-14T07:50:02.9784687+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48899321"
+    },
+    "Type": 1,
+    "Title": "A Study of Microsoft\u0027s Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
+    "Url": "https://arxiv.org/abs/2607.01418",
+    "Description": "A Study of Microsoft\u0027s Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
+    "Metadata": {
+      "score": "56",
+      "author": "softwaredoug",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-07-14T07:50:03.012089+00:00"
   }
 ]
