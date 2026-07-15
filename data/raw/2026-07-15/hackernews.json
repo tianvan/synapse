@@ -346,36 +346,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48919363"
-    },
-    "Type": 1,
-    "Title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration",
-    "Url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
-    "Description": "Sleep regularity is a stronger predictor of mortality risk than sleep duration",
-    "Metadata": {
-      "score": "155",
-      "author": "bilsbie",
-      "commentCount": "59"
-    },
-    "FetchedAt": "2026-07-15T13:19:09.5098369+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48919198"
-    },
-    "Type": 1,
-    "Title": "Prioritize mental health, and why communication is so important",
-    "Url": "https://ramones.dev/posts/mental-health/",
-    "Description": "Prioritize mental health, and why communication is so important",
-    "Metadata": {
-      "score": "46",
-      "author": "ramon156",
-      "commentCount": "17"
-    },
-    "FetchedAt": "2026-07-15T13:19:09.572225+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48915709"
     },
     "Type": 1,
@@ -403,36 +373,6 @@
       "commentCount": "25"
     },
     "FetchedAt": "2026-07-15T13:19:09.6366645+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48918534"
-    },
-    "Type": 1,
-    "Title": "Telegram Serverless",
-    "Url": "https://core.telegram.org/bots/serverless",
-    "Description": "Telegram Serverless",
-    "Metadata": {
-      "score": "45",
-      "author": "soheilpro",
-      "commentCount": "30"
-    },
-    "FetchedAt": "2026-07-15T13:19:09.699163+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48919013"
-    },
-    "Type": 1,
-    "Title": "Weathergotchi \u2013 an open-source climate Tamagotchi",
-    "Url": "https://github.com/Michael-Manning/E-Paper-Climate-Logger",
-    "Description": "Weathergotchi \u2013 an open-source climate Tamagotchi",
-    "Metadata": {
-      "score": "29",
-      "author": "luanmuniz",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-07-15T13:19:09.7260029+00:00"
   },
   {
     "ExternalId": {
@@ -793,5 +733,455 @@
       "commentCount": "307"
     },
     "FetchedAt": "2026-07-15T13:19:10.4390925+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48924929"
+    },
+    "Type": 1,
+    "Title": "Murati\u0027s Thinking Machines Releases Open-Weights 975B Parameter LLM",
+    "Url": "https://thinkingmachines.ai/inkling/",
+    "Description": "Murati\u0027s Thinking Machines Releases Open-Weights 975B Parameter LLM",
+    "Metadata": {
+      "score": "71",
+      "author": "htrp",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-07-15T18:58:55.5895892+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48923079"
+    },
+    "Type": 1,
+    "Title": "Codex Micro",
+    "Url": "https://openai.com/supply/co-lab/work-louder/",
+    "Description": "Codex Micro",
+    "Metadata": {
+      "score": "145",
+      "author": "davidbarker",
+      "commentCount": "124"
+    },
+    "FetchedAt": "2026-07-15T18:58:55.6489429+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48922434"
+    },
+    "Type": 1,
+    "Title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+    "Url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+    "Description": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+    "Metadata": {
+      "score": "135",
+      "author": "neomindryan",
+      "commentCount": "69"
+    },
+    "FetchedAt": "2026-07-15T18:58:55.7034032+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48924912"
+    },
+    "Type": 1,
+    "Title": "Inkling: Our Open-Weights Model",
+    "Url": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "Description": "Inkling: Our Open-Weights Model",
+    "Metadata": {
+      "score": "43",
+      "author": "vimarsh6739",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-07-15T18:58:55.7583154+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48915953"
+    },
+    "Type": 1,
+    "Title": "Stripe, Advent offer to buy PayPal for more than $53B",
+    "Url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+    "Description": "Stripe, Advent offer to buy PayPal for more than $53B",
+    "Metadata": {
+      "score": "100",
+      "author": "rvz",
+      "commentCount": "54"
+    },
+    "FetchedAt": "2026-07-15T18:58:55.81332+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48920475"
+    },
+    "Type": 1,
+    "Title": "Mysteries of Telegram Data Centers",
+    "Url": "https://dev.moe/en/3025",
+    "Description": "Mysteries of Telegram Data Centers",
+    "Metadata": {
+      "score": "186",
+      "author": "theanonymousone",
+      "commentCount": "66"
+    },
+    "FetchedAt": "2026-07-15T18:58:55.8687109+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48923380"
+    },
+    "Type": 1,
+    "Title": "Collection of Digital Clock Designs",
+    "Url": "https://clocks.dev",
+    "Description": "Collection of Digital Clock Designs",
+    "Metadata": {
+      "score": "53",
+      "author": "levmiseri",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-07-15T18:58:55.9231093+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48922838"
+    },
+    "Type": 1,
+    "Title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
+    "Url": "https://github.com/welcome-to-the-sunny-side/misa77",
+    "Description": "I\u0026#x27;ve spent the last few months working on this codec.\u003Cp\u003EIt has the following characteristics:\u003Cp\u003E\u003Cpre\u003E\u003Ccode\u003E  - SOTA decompression throughput in its ratio class\n  - Decent ratios (comparable to LZ4 at high effort levels)\n  - Slow compression\n\u003C/code\u003E\u003C/pre\u003E\nMost of the gains can be attributed to reducing branches and making decompression very friendly to out-of-order cores, by using a smart format.\u003Cp\u003EResults on the tarred Silesia corpus on Intel x86-64 follow:\u003Cp\u003E\u003Cpre\u003E\u003Ccode\u003E  codec       decode",
+    "Metadata": {
+      "score": "73",
+      "author": "nonadhocproblem",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-07-15T18:58:55.993641+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48925271"
+    },
+    "Type": 1,
+    "Title": "I Left Google DeepMind",
+    "Url": "https://turntrout.com/why-i-left-google-deepmind",
+    "Description": "I Left Google DeepMind",
+    "Metadata": {
+      "score": "9",
+      "author": "apsec112",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-15T18:58:56.0494993+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48923833"
+    },
+    "Type": 1,
+    "Title": "Artie (YC S23) Is Hiring Software Engineers",
+    "Url": "https://jobs.ashbyhq.com/artie",
+    "Description": "Artie (YC S23) Is Hiring Software Engineers",
+    "Metadata": {
+      "score": "1",
+      "author": "tang8330",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-15T18:58:56.1042606+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48922706"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Coasty (YC S26) \u2013 An API for computer-use agents",
+    "Url": "https://coasty.ai/docs",
+    "Description": "Hey HN, we\u2019re Nitish and Prateek, the founders of Coasty (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;coasty.ai\u0026#x2F;computer-use\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;coasty.ai\u0026#x2F;computer-use\u003C/a\u003E). We\u2019re building computer-use agents that can complete workflows inside legacy desktop software and web applications without usable APIs.\u003Cp\u003EDevelopers send Coasty a natural-language task either through our consumer app or through our API, select a machine or browser environment, and any relevant credentials or files. The agent then op",
+    "Metadata": {
+      "score": "22",
+      "author": "nkov47",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-15T18:58:56.1597554+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48921303"
+    },
+    "Type": 1,
+    "Title": "My midlife crisis Corolla is fast, furious, and modded",
+    "Url": "https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/",
+    "Description": "My midlife crisis Corolla is fast, furious, and modded",
+    "Metadata": {
+      "score": "88",
+      "author": "gmays",
+      "commentCount": "179"
+    },
+    "FetchedAt": "2026-07-15T18:58:56.2145843+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48921077"
+    },
+    "Type": 1,
+    "Title": "Towards a Harness That Can Do Anything",
+    "Url": "https://eardatasci.github.io/c/ambiance/index.html",
+    "Description": "Towards a Harness That Can Do Anything",
+    "Metadata": {
+      "score": "106",
+      "author": "evakhoury",
+      "commentCount": "60"
+    },
+    "FetchedAt": "2026-07-15T18:58:56.2695584+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48919363"
+    },
+    "Type": 1,
+    "Title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
+    "Url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
+    "Description": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
+    "Metadata": {
+      "score": "571",
+      "author": "bilsbie",
+      "commentCount": "281"
+    },
+    "FetchedAt": "2026-07-15T18:58:56.3247684+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48923111"
+    },
+    "Type": 1,
+    "Title": "Open-source memory for coding agents, synced over SSH",
+    "Url": "https://github.com/vshulcz/deja-vu/",
+    "Description": "Open-source memory for coding agents, synced over SSH",
+    "Metadata": {
+      "score": "58",
+      "author": "vshulcz",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-07-15T18:58:56.3813076+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48892647"
+    },
+    "Type": 1,
+    "Title": "Editing React components that never rendered",
+    "Url": "https://blog.crossui.com/2026/07/editing-react-components-that-never-rendered",
+    "Description": "Editing React components that never rendered",
+    "Metadata": {
+      "score": "8",
+      "author": "linb",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-15T18:58:56.4359733+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48923209"
+    },
+    "Type": 1,
+    "Title": "What designing 54 computer science cards taught me about graphic design",
+    "Url": "https://fhoehl.com/designing-algodeck",
+    "Description": "What designing 54 computer science cards taught me about graphic design",
+    "Metadata": {
+      "score": "21",
+      "author": "marukodo",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-07-15T18:58:56.4950476+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48922487"
+    },
+    "Type": 1,
+    "Title": "When A.I. Is a Member of the Family",
+    "Url": "https://www.newyorker.com/magazine/2026/07/20/when-ai-is-a-member-of-the-family",
+    "Description": "When A.I. Is a Member of the Family",
+    "Metadata": {
+      "score": "39",
+      "author": "fortran77",
+      "commentCount": "42"
+    },
+    "FetchedAt": "2026-07-15T18:58:56.5494207+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48919198"
+    },
+    "Type": 1,
+    "Title": "Prioritize mental health, and why communication is so important",
+    "Url": "https://ramones.dev/posts/mental-health/",
+    "Description": "Prioritize mental health, and why communication is so important",
+    "Metadata": {
+      "score": "209",
+      "author": "ramon156",
+      "commentCount": "136"
+    },
+    "FetchedAt": "2026-07-15T18:58:56.6047873+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48923109"
+    },
+    "Type": 1,
+    "Title": "Unsolved Problems in MLOps",
+    "Url": "https://spawn-queue.acm.org/doi/pdf/10.1145/3762989",
+    "Description": "Unsolved Problems in MLOps",
+    "Metadata": {
+      "score": "22",
+      "author": "gnyeki",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-07-15T18:58:56.6601251+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48912013"
+    },
+    "Type": 1,
+    "Title": "The Memory Heist",
+    "Url": "https://www.ayush.digital/blog/the-memory-heist",
+    "Description": "The Memory Heist",
+    "Metadata": {
+      "score": "49",
+      "author": "eieio",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-07-15T18:58:56.7144036+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48923412"
+    },
+    "Type": 1,
+    "Title": "A General Goal-Conditioned Minecraft Model",
+    "Url": "https://pantograph.com/journal/pan-1",
+    "Description": "A General Goal-Conditioned Minecraft Model",
+    "Metadata": {
+      "score": "24",
+      "author": "agajews",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-07-15T18:58:56.7693725+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48921461"
+    },
+    "Type": 1,
+    "Title": "OpenAI loses trademark dispute at EU court",
+    "Url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
+    "Description": "OpenAI loses trademark dispute at EU court",
+    "Metadata": {
+      "score": "151",
+      "author": "hermanzegerman",
+      "commentCount": "107"
+    },
+    "FetchedAt": "2026-07-15T18:58:56.8241183+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48920432"
+    },
+    "Type": 1,
+    "Title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+    "Url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+    "Description": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+    "Metadata": {
+      "score": "134",
+      "author": "dxs",
+      "commentCount": "170"
+    },
+    "FetchedAt": "2026-07-15T18:58:56.8789438+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48883578"
+    },
+    "Type": 1,
+    "Title": "Today I Rescued 7,234 Old GIFs",
+    "Url": "https://danq.me/2026/07/10/rescuing-7234-gifs/",
+    "Description": "Today I Rescued 7,234 Old GIFs",
+    "Metadata": {
+      "score": "36",
+      "author": "birdculture",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-07-15T18:58:56.933802+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48921121"
+    },
+    "Type": 1,
+    "Title": "The well-calibrated Bayesian [pdf] (1982)",
+    "Url": "https://fitelson.org/seminar/dawid.pdf",
+    "Description": "The well-calibrated Bayesian [pdf] (1982)",
+    "Metadata": {
+      "score": "39",
+      "author": "Murfalo",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-07-15T18:58:56.9880635+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48906893"
+    },
+    "Type": 1,
+    "Title": "The Conservationist Who Turned 40 Terabytes of Public Data into a Video Game",
+    "Url": "https://blog.exe.dev/meet-the-conservationist-who-turned-40-terabytes-of-government-data-into-a-video-game",
+    "Description": "The Conservationist Who Turned 40 Terabytes of Public Data into a Video Game",
+    "Metadata": {
+      "score": "71",
+      "author": "bryanmikaelian",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-07-15T18:58:57.0664134+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48919013"
+    },
+    "Type": 1,
+    "Title": "Weathergotchi \u2013 an open-source climate Tamagotchi",
+    "Url": "https://github.com/Michael-Manning/E-Paper-Climate-Logger",
+    "Description": "Weathergotchi \u2013 an open-source climate Tamagotchi",
+    "Metadata": {
+      "score": "98",
+      "author": "luanmuniz",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-07-15T18:58:57.1210955+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48923363"
+    },
+    "Type": 1,
+    "Title": "FreeBSD 16 Retires the Last of Its GPL Code from Its Base System",
+    "Url": "https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free",
+    "Description": "FreeBSD 16 Retires the Last of Its GPL Code from Its Base System",
+    "Metadata": {
+      "score": "60",
+      "author": "lr0",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-07-15T18:58:57.1757862+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48918534"
+    },
+    "Type": 1,
+    "Title": "Telegram Serverless",
+    "Url": "https://core.telegram.org/bots/serverless",
+    "Description": "Telegram Serverless",
+    "Metadata": {
+      "score": "131",
+      "author": "soheilpro",
+      "commentCount": "81"
+    },
+    "FetchedAt": "2026-07-15T18:58:57.2313878+00:00"
   }
 ]
