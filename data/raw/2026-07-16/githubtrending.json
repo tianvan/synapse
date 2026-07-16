@@ -62,10 +62,10 @@
       "owner": "apache",
       "repo": "ossie",
       "language": "Python",
-      "stars": "34",
+      "stars": "81",
       "topics": "metadata, semantic"
     },
-    "FetchedAt": "2026-07-16T13:25:52.8905536+00:00"
+    "FetchedAt": "2026-07-16T18:59:16.3809982+00:00"
   },
   {
     "ExternalId": {
@@ -79,9 +79,9 @@
       "owner": "Nutlope",
       "repo": "hallmark",
       "language": "CSS",
-      "stars": "1,277"
+      "stars": "3,181"
     },
-    "FetchedAt": "2026-07-16T13:25:53.0915496+00:00"
+    "FetchedAt": "2026-07-16T18:59:16.6950341+00:00"
   },
   {
     "ExternalId": {
@@ -90,15 +90,15 @@
     "Type": 0,
     "Title": "PostHog/posthog",
     "Url": "https://github.com/PostHog/posthog",
-    "Description": "\uD83E\uDD94 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+    "Description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools \u2013 AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more \u2013 capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
     "Metadata": {
       "owner": "PostHog",
       "repo": "posthog",
       "language": "Python",
-      "stars": "58",
+      "stars": "146",
       "topics": "ab-testing, ai-analytics, analytics, cdp, data-warehouse, experiments, feature-flags, javascript, product-analytics, python, react, session-replay, surveys, typescript, web-analytics"
     },
-    "FetchedAt": "2026-07-16T13:25:53.2061178+00:00"
+    "FetchedAt": "2026-07-16T18:59:16.8768574+00:00"
   },
   {
     "ExternalId": {
@@ -112,10 +112,10 @@
       "owner": "openinterpreter",
       "repo": "openinterpreter",
       "language": "Rust",
-      "stars": "299",
+      "stars": "633",
       "topics": "acp, coding-agent, deepseek, kimi, qwen, rust"
     },
-    "FetchedAt": "2026-07-16T13:25:53.3508876+00:00"
+    "FetchedAt": "2026-07-16T18:59:17.0657821+00:00"
   },
   {
     "ExternalId": {
@@ -132,7 +132,7 @@
       "stars": "323",
       "topics": "bonsai, llamacpp, llm, mlx, prism-ml, small-models"
     },
-    "FetchedAt": "2026-07-16T13:25:53.4816315+00:00"
+    "FetchedAt": "2026-07-16T18:59:17.2878556+00:00"
   },
   {
     "ExternalId": {
@@ -146,10 +146,10 @@
       "owner": "hasaneyldrm",
       "repo": "exercises-dataset",
       "language": "HTML",
-      "stars": "949",
+      "stars": "697",
       "topics": "dataset, exercise-database, exercises, fitness, fitness-app, gym, json, logpress, react-native, workout"
     },
-    "FetchedAt": "2026-07-16T13:25:53.6202411+00:00"
+    "FetchedAt": "2026-07-16T18:59:17.7033488+00:00"
   },
   {
     "ExternalId": {
@@ -163,10 +163,10 @@
       "owner": "Shubhamsaboo",
       "repo": "awesome-llm-apps",
       "language": "Python",
-      "stars": "1,236",
+      "stars": "935",
       "topics": "agents, llms, python, rag"
     },
-    "FetchedAt": "2026-07-16T13:25:53.755266+00:00"
+    "FetchedAt": "2026-07-16T18:59:17.9128586+00:00"
   },
   {
     "ExternalId": {
@@ -180,9 +180,9 @@
       "owner": "YimMenu",
       "repo": "YimMenuV2",
       "language": "C\u002B\u002B",
-      "stars": "38"
+      "stars": "122"
     },
-    "FetchedAt": "2026-07-16T13:25:53.9331593+00:00"
+    "FetchedAt": "2026-07-16T18:59:18.0753811+00:00"
   },
   {
     "ExternalId": {
@@ -196,10 +196,10 @@
       "owner": "HKUDS",
       "repo": "DeepTutor",
       "language": "Python",
-      "stars": "172",
+      "stars": "647",
       "topics": "ai-agents, ai-tutor, clawdbot, cli-tool, deepresearch, interactive-learning, large-language-models, multi-agent-systems, rag"
     },
-    "FetchedAt": "2026-07-16T13:25:54.1347569+00:00"
+    "FetchedAt": "2026-07-16T18:59:18.3011456+00:00"
   },
   {
     "ExternalId": {
@@ -213,9 +213,9 @@
       "owner": "github",
       "repo": "copilot-sdk",
       "language": "Java",
-      "stars": "8"
+      "stars": "62"
     },
-    "FetchedAt": "2026-07-16T13:25:54.2883973+00:00"
+    "FetchedAt": "2026-07-16T18:59:18.4843538+00:00"
   },
   {
     "ExternalId": {
@@ -229,10 +229,10 @@
       "owner": "Graphify-Labs",
       "repo": "graphify",
       "language": "Python",
-      "stars": "1,623",
+      "stars": "1,138",
       "topics": "antigravity, claude-code, codex, gemini, graphrag, knowledge-graph, leiden, openclaw, rag, skills, tree-sitter"
     },
-    "FetchedAt": "2026-07-16T13:25:54.4396586+00:00"
+    "FetchedAt": "2026-07-16T18:59:18.6968259+00:00"
   },
   {
     "ExternalId": {
@@ -246,10 +246,10 @@
       "owner": "codecrafters-io",
       "repo": "build-your-own-x",
       "language": "Markdown",
-      "stars": "464",
+      "stars": "549",
       "topics": "awesome-list, free, programming, tutorial-code, tutorial-exercises, tutorials"
     },
-    "FetchedAt": "2026-07-16T13:25:54.6247531+00:00"
+    "FetchedAt": "2026-07-16T18:59:18.8905587+00:00"
   },
   {
     "ExternalId": {
@@ -266,6 +266,6 @@
       "stars": "125",
       "topics": "awesome-list, computer-science, courses, curriculum"
     },
-    "FetchedAt": "2026-07-16T13:25:54.7955504+00:00"
+    "FetchedAt": "2026-07-16T18:59:19.0900191+00:00"
   }
 ]
