@@ -1,111 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:48924912"
-    },
-    "Type": 1,
-    "Title": "Inkling: Our Open-Weights Model",
-    "Url": "https://thinkingmachines.ai/news/introducing-inkling/",
-    "Description": "Inkling: Our Open-Weights Model",
-    "Metadata": {
-      "score": "685",
-      "author": "vimarsh6739",
-      "commentCount": "176"
-    },
-    "FetchedAt": "2026-07-16T01:54:06.6088932+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48928135"
-    },
-    "Type": 1,
-    "Title": "SQLite should have (Rust-style) editions",
-    "Url": "https://mort.coffee/home/sqlite-editions/",
-    "Description": "SQLite should have (Rust-style) editions",
-    "Metadata": {
-      "score": "115",
-      "author": "gnyeki",
-      "commentCount": "44"
-    },
-    "FetchedAt": "2026-07-16T01:54:06.643245+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48926590"
-    },
-    "Type": 1,
-    "Title": "Grok Build is open source",
-    "Url": "https://github.com/xai-org/grok-build",
-    "Description": "Grok Build is open source",
-    "Metadata": {
-      "score": "261",
-      "author": "skp1995",
-      "commentCount": "308"
-    },
-    "FetchedAt": "2026-07-16T01:54:06.6763389+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48927095"
-    },
-    "Type": 1,
-    "Title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-    "Url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-    "Description": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-    "Metadata": {
-      "score": "88",
-      "author": "bilsbie",
-      "commentCount": "35"
-    },
-    "FetchedAt": "2026-07-16T01:54:06.7096326+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48928313"
-    },
-    "Type": 1,
-    "Title": "Metal-Organic Frameworks, Chemistry\u0027s New Miracle Materials (2018)",
-    "Url": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
-    "Description": "Metal-Organic Frameworks, Chemistry\u0027s New Miracle Materials (2018)",
-    "Metadata": {
-      "score": "37",
-      "author": "andsoitis",
-      "commentCount": "10"
-    },
-    "FetchedAt": "2026-07-16T01:54:06.744599+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48915953"
-    },
-    "Type": 1,
-    "Title": "Stripe and Advent have made a joint offer to acquire PayPal \u2013 sources",
-    "Url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
-    "Description": "Stripe and Advent have made a joint offer to acquire PayPal \u2013 sources",
-    "Metadata": {
-      "score": "345",
-      "author": "rvz",
-      "commentCount": "208"
-    },
-    "FetchedAt": "2026-07-16T01:54:06.7777454+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48927915"
-    },
-    "Type": 1,
-    "Title": "LLM Networking with MikroTik",
-    "Url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-    "Description": "LLM Networking with MikroTik",
-    "Metadata": {
-      "score": "46",
-      "author": "gregsadetsky",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-07-16T01:54:06.8114557+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48928343"
     },
     "Type": 1,
@@ -121,36 +16,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48871721"
-    },
-    "Type": 1,
-    "Title": "G# \u2013 A modern .NET language with Go, Kotlin, and Swift ergonomics",
-    "Url": "https://davidobando.github.io/gsharp/",
-    "Description": "G# \u2013 A modern .NET language with Go, Kotlin, and Swift ergonomics",
-    "Metadata": {
-      "score": "9",
-      "author": "serial_dev",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-07-16T01:54:06.8863165+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48922434"
-    },
-    "Type": 1,
-    "Title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-    "Url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-    "Description": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-    "Metadata": {
-      "score": "230",
-      "author": "neomindryan",
-      "commentCount": "151"
-    },
-    "FetchedAt": "2026-07-16T01:54:06.9193744+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48928234"
     },
     "Type": 1,
@@ -163,51 +28,6 @@
       "commentCount": "17"
     },
     "FetchedAt": "2026-07-16T01:54:06.9524744+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48928402"
-    },
-    "Type": 1,
-    "Title": "Show HN: One More Letter",
-    "Url": "https://playonemoreletter.com/",
-    "Description": "Show HN: One More Letter",
-    "Metadata": {
-      "score": "28",
-      "author": "hmate9",
-      "commentCount": "21"
-    },
-    "FetchedAt": "2026-07-16T01:54:06.9859662+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48925888"
-    },
-    "Type": 1,
-    "Title": "Duskers, the scary command line game, is getting a sequel",
-    "Url": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
-    "Description": "Duskers, the scary command line game, is getting a sequel",
-    "Metadata": {
-      "score": "91",
-      "author": "spacemarine1",
-      "commentCount": "20"
-    },
-    "FetchedAt": "2026-07-16T01:54:07.0198619+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48903733"
-    },
-    "Type": 1,
-    "Title": "Job queues are deceptively tricky",
-    "Url": "https://typesanitizer.com/blog/job-queues.html",
-    "Description": "Job queues are deceptively tricky",
-    "Metadata": {
-      "score": "19",
-      "author": "ingve",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-07-16T01:54:07.0531441+00:00"
   },
   {
     "ExternalId": {
@@ -238,21 +58,6 @@
       "commentCount": "18"
     },
     "FetchedAt": "2026-07-16T01:54:07.1191228+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48881064"
-    },
-    "Type": 1,
-    "Title": "Command Line Interface Guidelines",
-    "Url": "https://clig.dev/",
-    "Description": "Command Line Interface Guidelines",
-    "Metadata": {
-      "score": "65",
-      "author": "subset",
-      "commentCount": "9"
-    },
-    "FetchedAt": "2026-07-16T01:54:07.1529996+00:00"
   },
   {
     "ExternalId": {
@@ -376,21 +181,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48923380"
-    },
-    "Type": 1,
-    "Title": "Collection of Digital Clock Designs",
-    "Url": "https://clocks.dev",
-    "Description": "Collection of Digital Clock Designs",
-    "Metadata": {
-      "score": "177",
-      "author": "levmiseri",
-      "commentCount": "36"
-    },
-    "FetchedAt": "2026-07-16T01:54:07.451154+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48922838"
     },
     "Type": 1,
@@ -448,5 +238,455 @@
       "commentCount": "10"
     },
     "FetchedAt": "2026-07-16T01:54:07.5830179+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48930454"
+    },
+    "Type": 1,
+    "Title": "The lost joy of music piracy",
+    "Url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+    "Description": "The lost joy of music piracy",
+    "Metadata": {
+      "score": "191",
+      "author": "mcgin",
+      "commentCount": "94"
+    },
+    "FetchedAt": "2026-07-16T07:59:18.1721246+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48924912"
+    },
+    "Type": 1,
+    "Title": "Inkling: Our Open-Weights Model",
+    "Url": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "Description": "Inkling: Our Open-Weights Model",
+    "Metadata": {
+      "score": "926",
+      "author": "vimarsh6739",
+      "commentCount": "226"
+    },
+    "FetchedAt": "2026-07-16T07:59:18.2187492+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48930136"
+    },
+    "Type": 1,
+    "Title": "If you want to create a button from scratch, you must first create the universe",
+    "Url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+    "Description": "If you want to create a button from scratch, you must first create the universe",
+    "Metadata": {
+      "score": "83",
+      "author": "treve",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-07-16T07:59:18.2611172+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48883036"
+    },
+    "Type": 1,
+    "Title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn\u0027t",
+    "Url": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/",
+    "Description": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn\u0027t",
+    "Metadata": {
+      "score": "26",
+      "author": "speckx",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-07-16T07:59:18.303959+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48928135"
+    },
+    "Type": 1,
+    "Title": "SQLite should have (Rust-style) editions",
+    "Url": "https://mort.coffee/home/sqlite-editions/",
+    "Description": "SQLite should have (Rust-style) editions",
+    "Metadata": {
+      "score": "241",
+      "author": "gnyeki",
+      "commentCount": "92"
+    },
+    "FetchedAt": "2026-07-16T07:59:18.3463491+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48929945"
+    },
+    "Type": 1,
+    "Title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+    "Url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
+    "Description": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+    "Metadata": {
+      "score": "65",
+      "author": "gslin",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-07-16T07:59:18.3903637+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48926590"
+    },
+    "Type": 1,
+    "Title": "Grok Build is open source",
+    "Url": "https://github.com/xai-org/grok-build",
+    "Description": "Grok Build is open source",
+    "Metadata": {
+      "score": "414",
+      "author": "skp1995",
+      "commentCount": "433"
+    },
+    "FetchedAt": "2026-07-16T07:59:18.4336355+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48930075"
+    },
+    "Type": 1,
+    "Title": "Making 768 servers look like 1",
+    "Url": "https://planetscale.com/blog/making-768-servers-look-like-1",
+    "Description": "Making 768 servers look like 1",
+    "Metadata": {
+      "score": "64",
+      "author": "hisamafahri",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-07-16T07:59:18.4783848+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48929351"
+    },
+    "Type": 1,
+    "Title": "Bluesky Trademarks ATProto",
+    "Url": "https://atproto.com/blog/at-protocol-trademark",
+    "Description": "Bluesky Trademarks ATProto",
+    "Metadata": {
+      "score": "85",
+      "author": "chaosharmonic",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-07-16T07:59:18.5217437+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48927095"
+    },
+    "Type": 1,
+    "Title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+    "Url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+    "Description": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+    "Metadata": {
+      "score": "167",
+      "author": "bilsbie",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-07-16T07:59:18.5796035+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48884580"
+    },
+    "Type": 1,
+    "Title": "What\u0027s the story behind the names of Cloudflare\u0027s name servers? (2013)",
+    "Url": "https://blog.cloudflare.com/whats-the-story-behind-the-names-of-cloudflares-name-servers/",
+    "Description": "What\u0027s the story behind the names of Cloudflare\u0027s name servers? (2013)",
+    "Metadata": {
+      "score": "7",
+      "author": "aragonite",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-16T07:59:18.6382365+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48915953"
+    },
+    "Type": 1,
+    "Title": "Stripe and Advent have made a joint offer to acquire PayPal \u2013 sources",
+    "Url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+    "Description": "Stripe and Advent have made a joint offer to acquire PayPal \u2013 sources",
+    "Metadata": {
+      "score": "429",
+      "author": "rvz",
+      "commentCount": "229"
+    },
+    "FetchedAt": "2026-07-16T07:59:18.682438+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48929660"
+    },
+    "Type": 1,
+    "Title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+    "Url": "https://arxiv.org/abs/2607.11859",
+    "Description": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+    "Metadata": {
+      "score": "39",
+      "author": "Jimmc414",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-07-16T07:59:18.7256615+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48871721"
+    },
+    "Type": 1,
+    "Title": "G# \u2013 A modern .NET language with Go, Kotlin, and Swift ergonomics",
+    "Url": "https://davidobando.github.io/gsharp/",
+    "Description": "G# \u2013 A modern .NET language with Go, Kotlin, and Swift ergonomics",
+    "Metadata": {
+      "score": "91",
+      "author": "serial_dev",
+      "commentCount": "52"
+    },
+    "FetchedAt": "2026-07-16T07:59:18.8018347+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48911803"
+    },
+    "Type": 1,
+    "Title": "I also filed the corners off my MacBook",
+    "Url": "https://www.brt.fyi/posts/mac-book-filing/",
+    "Description": "I also filed the corners off my MacBook",
+    "Metadata": {
+      "score": "155",
+      "author": "maxbrt",
+      "commentCount": "52"
+    },
+    "FetchedAt": "2026-07-16T07:59:18.8507656+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48915393"
+    },
+    "Type": 1,
+    "Title": "High-Bandwidth Flash offers efficient storage for model weights",
+    "Url": "https://spectrum.ieee.org/high-bandwidth-flash",
+    "Description": "High-Bandwidth Flash offers efficient storage for model weights",
+    "Metadata": {
+      "score": "34",
+      "author": "Gaishan",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-07-16T07:59:18.901092+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48930397"
+    },
+    "Type": 1,
+    "Title": "Reynard: A real Firefox web browser for iOS 13 or later",
+    "Url": "https://github.com/minh-ton/reynard-browser",
+    "Description": "Reynard: A real Firefox web browser for iOS 13 or later",
+    "Metadata": {
+      "score": "15",
+      "author": "AbuAssar",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-16T07:59:18.9437783+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48903015"
+    },
+    "Type": 1,
+    "Title": "The Last Picture Show: A Conversation with George Lucas",
+    "Url": "https://a-rabbitsfoot.com/editorial/confessions/the-last-picture-show-a-conversation-with-george-lucas/",
+    "Description": "The Last Picture Show: A Conversation with George Lucas",
+    "Metadata": {
+      "score": "16",
+      "author": "Michelangelo11",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-07-16T07:59:18.9867309+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48922434"
+    },
+    "Type": 1,
+    "Title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+    "Url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+    "Description": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+    "Metadata": {
+      "score": "275",
+      "author": "neomindryan",
+      "commentCount": "180"
+    },
+    "FetchedAt": "2026-07-16T07:59:19.0334639+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48903733"
+    },
+    "Type": 1,
+    "Title": "Job queues are deceptively tricky",
+    "Url": "https://typesanitizer.com/blog/job-queues.html",
+    "Description": "Job queues are deceptively tricky",
+    "Metadata": {
+      "score": "74",
+      "author": "ingve",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-07-16T07:59:19.1009072+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48929587"
+    },
+    "Type": 1,
+    "Title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
+    "Url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
+    "Description": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
+    "Metadata": {
+      "score": "49",
+      "author": "LAC-Tech",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-07-16T07:59:19.1441289+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48922706"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Coasty (YC S26) \u2013 An API for computer-use agents",
+    "Url": "https://coasty.ai/docs",
+    "Description": "Hey HN, we\u2019re Nitish and Prateek, the founders of Coasty (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;coasty.ai\u0026#x2F;computer-use\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;coasty.ai\u0026#x2F;computer-use\u003C/a\u003E). We\u2019re building computer-use agents that can complete workflows inside legacy desktop software and web applications without usable APIs.\u003Cp\u003EDevelopers send Coasty a natural-language task either through our consumer app or through our API, select a machine or browser environment, and any relevant credentials or files. The agent then op",
+    "Metadata": {
+      "score": "33",
+      "author": "nkov47",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-07-16T07:59:19.1873389+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48930713"
+    },
+    "Type": 1,
+    "Title": "Netstrings (1997)",
+    "Url": "https://cr.yp.to/proto/netstrings.txt",
+    "Description": "Netstrings (1997)",
+    "Metadata": {
+      "score": "9",
+      "author": "signa11",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-07-16T07:59:19.2297714+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48872031"
+    },
+    "Type": 1,
+    "Title": "Rebuilding My Homelab with Compose, Ruby, IPv6, and No Kubernetes",
+    "Url": "https://www.petekeen.net/homelab-resolved/",
+    "Description": "Rebuilding My Homelab with Compose, Ruby, IPv6, and No Kubernetes",
+    "Metadata": {
+      "score": "18",
+      "author": "zrail",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-07-16T07:59:19.2734451+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48881064"
+    },
+    "Type": 1,
+    "Title": "Command Line Interface Guidelines",
+    "Url": "https://clig.dev/",
+    "Description": "Command Line Interface Guidelines",
+    "Metadata": {
+      "score": "114",
+      "author": "subset",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-07-16T07:59:19.3169543+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48927915"
+    },
+    "Type": 1,
+    "Title": "LLM Networking with MikroTik",
+    "Url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+    "Description": "LLM Networking with MikroTik",
+    "Metadata": {
+      "score": "81",
+      "author": "gregsadetsky",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-07-16T07:59:19.3594998+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48928313"
+    },
+    "Type": 1,
+    "Title": "Metal-Organic Frameworks, Chemistry\u0027s New Miracle Materials (2018)",
+    "Url": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
+    "Description": "Metal-Organic Frameworks, Chemistry\u0027s New Miracle Materials (2018)",
+    "Metadata": {
+      "score": "51",
+      "author": "andsoitis",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-07-16T07:59:19.4122925+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48925888"
+    },
+    "Type": 1,
+    "Title": "Duskers, the scary command line game, is getting a sequel",
+    "Url": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
+    "Description": "Duskers, the scary command line game, is getting a sequel",
+    "Metadata": {
+      "score": "120",
+      "author": "spacemarine1",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-07-16T07:59:19.4632425+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48923380"
+    },
+    "Type": 1,
+    "Title": "Collection of Digital Clock Designs",
+    "Url": "https://clocks.dev",
+    "Description": "Collection of Digital Clock Designs",
+    "Metadata": {
+      "score": "231",
+      "author": "levmiseri",
+      "commentCount": "41"
+    },
+    "FetchedAt": "2026-07-16T07:59:19.5058556+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48928402"
+    },
+    "Type": 1,
+    "Title": "Show HN: One More Letter",
+    "Url": "https://playonemoreletter.com/",
+    "Description": "Show HN: One More Letter",
+    "Metadata": {
+      "score": "70",
+      "author": "hmate9",
+      "commentCount": "43"
+    },
+    "FetchedAt": "2026-07-16T07:59:19.5540993+00:00"
   }
 ]
