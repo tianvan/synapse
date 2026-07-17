@@ -1,0 +1,220 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:apache/ossie"
+    },
+    "Type": 0,
+    "Title": "apache/ossie",
+    "Url": "https://github.com/apache/ossie",
+    "Description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+    "Metadata": {
+      "owner": "apache",
+      "repo": "ossie",
+      "language": "Python",
+      "stars": "60",
+      "topics": "metadata, semantic"
+    },
+    "FetchedAt": "2026-07-17T01:58:19.0215606+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Nutlope/hallmark"
+    },
+    "Type": 0,
+    "Title": "Nutlope/hallmark",
+    "Url": "https://github.com/Nutlope/hallmark",
+    "Description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "Metadata": {
+      "owner": "Nutlope",
+      "repo": "hallmark",
+      "language": "CSS",
+      "stars": "3,372"
+    },
+    "FetchedAt": "2026-07-17T01:58:19.1687946+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:PostHog/posthog"
+    },
+    "Type": 0,
+    "Title": "PostHog/posthog",
+    "Url": "https://github.com/PostHog/posthog",
+    "Description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools \u2013 AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more \u2013 capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "Metadata": {
+      "owner": "PostHog",
+      "repo": "posthog",
+      "language": "Python",
+      "stars": "77",
+      "topics": "ab-testing, ai-analytics, analytics, cdp, data-warehouse, experiments, feature-flags, javascript, product-analytics, python, react, session-replay, surveys, typescript, web-analytics"
+    },
+    "FetchedAt": "2026-07-17T01:58:19.2967701+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:openinterpreter/openinterpreter"
+    },
+    "Type": 0,
+    "Title": "openinterpreter/openinterpreter",
+    "Url": "https://github.com/openinterpreter/openinterpreter",
+    "Description": "A coding agent for open models like Kimi K3",
+    "Metadata": {
+      "owner": "openinterpreter",
+      "repo": "openinterpreter",
+      "language": "Rust",
+      "stars": "661",
+      "topics": "acp, coding-agent, deepseek, kimi, qwen, rust"
+    },
+    "FetchedAt": "2026-07-17T01:58:19.4191997+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:PrismML-Eng/Bonsai-demo"
+    },
+    "Type": 0,
+    "Title": "PrismML-Eng/Bonsai-demo",
+    "Url": "https://github.com/PrismML-Eng/Bonsai-demo",
+    "Description": "Bonsai Demo",
+    "Metadata": {
+      "owner": "PrismML-Eng",
+      "repo": "Bonsai-demo",
+      "language": "Shell",
+      "stars": "196",
+      "topics": "bonsai, llamacpp, llm, mlx, prism-ml, small-models"
+    },
+    "FetchedAt": "2026-07-17T01:58:19.532056+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:hasaneyldrm/exercises-dataset"
+    },
+    "Type": 0,
+    "Title": "hasaneyldrm/exercises-dataset",
+    "Url": "https://github.com/hasaneyldrm/exercises-dataset",
+    "Description": "1,324-exercise fitness dataset \u2014 animation GIFs, 180\u00D7180 thumbnails, muscle-group \u0026 equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+    "Metadata": {
+      "owner": "hasaneyldrm",
+      "repo": "exercises-dataset",
+      "language": "HTML",
+      "stars": "710",
+      "topics": "dataset, exercise-database, exercises, fitness, fitness-app, gym, json, logpress, react-native, workout"
+    },
+    "FetchedAt": "2026-07-17T01:58:19.6702181+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Shubhamsaboo/awesome-llm-apps"
+    },
+    "Type": 0,
+    "Title": "Shubhamsaboo/awesome-llm-apps",
+    "Url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "Description": "100\u002B AI Agent \u0026 RAG apps you can actually run \u2014 clone, customize, ship.",
+    "Metadata": {
+      "owner": "Shubhamsaboo",
+      "repo": "awesome-llm-apps",
+      "language": "Python",
+      "stars": "923",
+      "topics": "agents, llms, python, rag"
+    },
+    "FetchedAt": "2026-07-17T01:58:19.7747316+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:YimMenu/YimMenuV2"
+    },
+    "Type": 0,
+    "Title": "YimMenu/YimMenuV2",
+    "Url": "https://github.com/YimMenu/YimMenuV2",
+    "Description": "Experimental menu for GTA 5: Enhanced",
+    "Metadata": {
+      "owner": "YimMenu",
+      "repo": "YimMenuV2",
+      "language": "C\u002B\u002B",
+      "stars": "128"
+    },
+    "FetchedAt": "2026-07-17T01:58:19.8739451+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/DeepTutor"
+    },
+    "Type": 0,
+    "Title": "HKUDS/DeepTutor",
+    "Url": "https://github.com/HKUDS/DeepTutor",
+    "Description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "DeepTutor",
+      "language": "Python",
+      "stars": "656",
+      "topics": "ai-agents, ai-tutor, clawdbot, cli-tool, deepresearch, interactive-learning, large-language-models, multi-agent-systems, rag"
+    },
+    "FetchedAt": "2026-07-17T01:58:20.0070966+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:github/copilot-sdk"
+    },
+    "Type": 0,
+    "Title": "github/copilot-sdk",
+    "Url": "https://github.com/github/copilot-sdk",
+    "Description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+    "Metadata": {
+      "owner": "github",
+      "repo": "copilot-sdk",
+      "language": "Java",
+      "stars": "13"
+    },
+    "FetchedAt": "2026-07-17T01:58:20.1333405+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Graphify-Labs/graphify"
+    },
+    "Type": 0,
+    "Title": "Graphify-Labs/graphify",
+    "Url": "https://github.com/Graphify-Labs/graphify",
+    "Description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code \u002B database schema \u002B infrastructure in one graph.",
+    "Metadata": {
+      "owner": "Graphify-Labs",
+      "repo": "graphify",
+      "language": "Python",
+      "stars": "1,107",
+      "topics": "antigravity, claude-code, codex, gemini, graphrag, knowledge-graph, leiden, openclaw, rag, skills, tree-sitter"
+    },
+    "FetchedAt": "2026-07-17T01:58:20.2710803+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:codecrafters-io/build-your-own-x"
+    },
+    "Type": 0,
+    "Title": "codecrafters-io/build-your-own-x",
+    "Url": "https://github.com/codecrafters-io/build-your-own-x",
+    "Description": "Master programming by recreating your favorite technologies from scratch.",
+    "Metadata": {
+      "owner": "codecrafters-io",
+      "repo": "build-your-own-x",
+      "language": "Markdown",
+      "stars": "435",
+      "topics": "awesome-list, free, programming, tutorial-code, tutorial-exercises, tutorials"
+    },
+    "FetchedAt": "2026-07-17T01:58:20.3900323+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ossu/computer-science"
+    },
+    "Type": 0,
+    "Title": "ossu/computer-science",
+    "Url": "https://github.com/ossu/computer-science",
+    "Description": "\uD83C\uDF93 Path to a free self-taught education in Computer Science!",
+    "Metadata": {
+      "owner": "ossu",
+      "repo": "computer-science",
+      "language": "HTML",
+      "stars": "107",
+      "topics": "awesome-list, computer-science, courses, curriculum"
+    },
+    "FetchedAt": "2026-07-17T01:58:20.5189613+00:00"
+  }
+]
