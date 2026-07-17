@@ -18,73 +18,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:Nutlope/hallmark"
-    },
-    "Type": 0,
-    "Title": "Nutlope/hallmark",
-    "Url": "https://github.com/Nutlope/hallmark",
-    "Description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-    "Metadata": {
-      "owner": "Nutlope",
-      "repo": "hallmark",
-      "language": "CSS",
-      "stars": "3,372"
-    },
-    "FetchedAt": "2026-07-17T07:55:45.4364236+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:PostHog/posthog"
-    },
-    "Type": 0,
-    "Title": "PostHog/posthog",
-    "Url": "https://github.com/PostHog/posthog",
-    "Description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools \u2013 AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more \u2013 capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-    "Metadata": {
-      "owner": "PostHog",
-      "repo": "posthog",
-      "language": "Python",
-      "stars": "77",
-      "topics": "ab-testing, ai-analytics, analytics, cdp, data-warehouse, experiments, feature-flags, javascript, product-analytics, python, react, session-replay, surveys, typescript, web-analytics"
-    },
-    "FetchedAt": "2026-07-17T07:55:45.5545176+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:openinterpreter/openinterpreter"
-    },
-    "Type": 0,
-    "Title": "openinterpreter/openinterpreter",
-    "Url": "https://github.com/openinterpreter/openinterpreter",
-    "Description": "A coding agent for open models like Kimi K3",
-    "Metadata": {
-      "owner": "openinterpreter",
-      "repo": "openinterpreter",
-      "language": "Rust",
-      "stars": "661",
-      "topics": "acp, coding-agent, deepseek, kimi, qwen, rust"
-    },
-    "FetchedAt": "2026-07-17T07:55:45.6905454+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:PrismML-Eng/Bonsai-demo"
-    },
-    "Type": 0,
-    "Title": "PrismML-Eng/Bonsai-demo",
-    "Url": "https://github.com/PrismML-Eng/Bonsai-demo",
-    "Description": "Bonsai Demo",
-    "Metadata": {
-      "owner": "PrismML-Eng",
-      "repo": "Bonsai-demo",
-      "language": "Shell",
-      "stars": "196",
-      "topics": "bonsai, llamacpp, llm, mlx, prism-ml, small-models"
-    },
-    "FetchedAt": "2026-07-17T07:55:45.8195579+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:hasaneyldrm/exercises-dataset"
     },
     "Type": 0,
@@ -135,39 +68,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:HKUDS/DeepTutor"
-    },
-    "Type": 0,
-    "Title": "HKUDS/DeepTutor",
-    "Url": "https://github.com/HKUDS/DeepTutor",
-    "Description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-    "Metadata": {
-      "owner": "HKUDS",
-      "repo": "DeepTutor",
-      "language": "Python",
-      "stars": "656",
-      "topics": "ai-agents, ai-tutor, clawdbot, cli-tool, deepresearch, interactive-learning, large-language-models, multi-agent-systems, rag"
-    },
-    "FetchedAt": "2026-07-17T07:55:46.3401471+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:github/copilot-sdk"
-    },
-    "Type": 0,
-    "Title": "github/copilot-sdk",
-    "Url": "https://github.com/github/copilot-sdk",
-    "Description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-    "Metadata": {
-      "owner": "github",
-      "repo": "copilot-sdk",
-      "language": "Java",
-      "stars": "13"
-    },
-    "FetchedAt": "2026-07-17T07:55:46.4769743+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:Graphify-Labs/graphify"
     },
     "Type": 0,
@@ -185,23 +85,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:codecrafters-io/build-your-own-x"
-    },
-    "Type": 0,
-    "Title": "codecrafters-io/build-your-own-x",
-    "Url": "https://github.com/codecrafters-io/build-your-own-x",
-    "Description": "Master programming by recreating your favorite technologies from scratch.",
-    "Metadata": {
-      "owner": "codecrafters-io",
-      "repo": "build-your-own-x",
-      "language": "Markdown",
-      "stars": "435",
-      "topics": "awesome-list, free, programming, tutorial-code, tutorial-exercises, tutorials"
-    },
-    "FetchedAt": "2026-07-17T07:55:46.7763884+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:ossu/computer-science"
     },
     "Type": 0,
@@ -216,5 +99,189 @@
       "topics": "awesome-list, computer-science, courses, curriculum"
     },
     "FetchedAt": "2026-07-17T07:55:46.922202+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:codecrafters-io/build-your-own-x"
+    },
+    "Type": 0,
+    "Title": "codecrafters-io/build-your-own-x",
+    "Url": "https://github.com/codecrafters-io/build-your-own-x",
+    "Description": "Master programming by recreating your favorite technologies from scratch.",
+    "Metadata": {
+      "owner": "codecrafters-io",
+      "repo": "build-your-own-x",
+      "language": "Markdown",
+      "stars": "1,070",
+      "topics": "awesome-list, free, programming, tutorial-code, tutorial-exercises, tutorials"
+    },
+    "FetchedAt": "2026-07-17T13:10:54.103089+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:PostHog/posthog"
+    },
+    "Type": 0,
+    "Title": "PostHog/posthog",
+    "Url": "https://github.com/PostHog/posthog",
+    "Description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools \u2013 AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more \u2013 capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "Metadata": {
+      "owner": "PostHog",
+      "repo": "posthog",
+      "language": "Python",
+      "stars": "437",
+      "topics": "ab-testing, ai-analytics, analytics, cdp, data-warehouse, experiments, feature-flags, javascript, product-analytics, python, react, session-replay, surveys, typescript, web-analytics"
+    },
+    "FetchedAt": "2026-07-17T13:10:54.2506768+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Nutlope/hallmark"
+    },
+    "Type": 0,
+    "Title": "Nutlope/hallmark",
+    "Url": "https://github.com/Nutlope/hallmark",
+    "Description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "Metadata": {
+      "owner": "Nutlope",
+      "repo": "hallmark",
+      "language": "CSS",
+      "stars": "1,486"
+    },
+    "FetchedAt": "2026-07-17T13:10:54.3929318+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:github/copilot-sdk"
+    },
+    "Type": 0,
+    "Title": "github/copilot-sdk",
+    "Url": "https://github.com/github/copilot-sdk",
+    "Description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+    "Metadata": {
+      "owner": "github",
+      "repo": "copilot-sdk",
+      "language": "Java",
+      "stars": "234"
+    },
+    "FetchedAt": "2026-07-17T13:10:54.4973988+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/cwc-workshops"
+    },
+    "Type": 0,
+    "Title": "anthropics/cwc-workshops",
+    "Url": "https://github.com/anthropics/cwc-workshops",
+    "Description": "",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "cwc-workshops",
+      "language": "TypeScript",
+      "stars": "37"
+    },
+    "FetchedAt": "2026-07-17T13:10:54.6272398+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:PrismML-Eng/Bonsai-demo"
+    },
+    "Type": 0,
+    "Title": "PrismML-Eng/Bonsai-demo",
+    "Url": "https://github.com/PrismML-Eng/Bonsai-demo",
+    "Description": "Bonsai Demo",
+    "Metadata": {
+      "owner": "PrismML-Eng",
+      "repo": "Bonsai-demo",
+      "language": "Shell",
+      "stars": "279",
+      "topics": "bonsai, llamacpp, llm, mlx, prism-ml, small-models"
+    },
+    "FetchedAt": "2026-07-17T13:10:54.7708077+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:protocolbuffers/protobuf"
+    },
+    "Type": 0,
+    "Title": "protocolbuffers/protobuf",
+    "Url": "https://github.com/protocolbuffers/protobuf",
+    "Description": "Protocol Buffers - Google\u0027s data interchange format",
+    "Metadata": {
+      "owner": "protocolbuffers",
+      "repo": "protobuf",
+      "language": "C\u002B\u002B",
+      "stars": "11",
+      "topics": "marshalling, protobuf, protobuf-runtime, protoc, protocol-buffers, protocol-compiler, rpc, serialization"
+    },
+    "FetchedAt": "2026-07-17T13:10:54.8963167+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:docusealco/docuseal"
+    },
+    "Type": 0,
+    "Title": "docusealco/docuseal",
+    "Url": "https://github.com/docusealco/docuseal",
+    "Description": "Open source DocuSign alternative. Create, fill, and sign digital documents \u270D\uFE0F",
+    "Metadata": {
+      "owner": "docusealco",
+      "repo": "docuseal",
+      "language": "Ruby",
+      "stars": "152",
+      "topics": "document-signing, documents, e-signature, hotwired-turbo, open-source, pdf, pdf-sign, pdf-signature, ruby-on-rails, self-hosted, tailwindcss, vue, webpack"
+    },
+    "FetchedAt": "2026-07-17T13:10:55.0265269+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:openinterpreter/openinterpreter"
+    },
+    "Type": 0,
+    "Title": "openinterpreter/openinterpreter",
+    "Url": "https://github.com/openinterpreter/openinterpreter",
+    "Description": "A coding agent for open models like Kimi K3",
+    "Metadata": {
+      "owner": "openinterpreter",
+      "repo": "openinterpreter",
+      "language": "Rust",
+      "stars": "431",
+      "topics": "acp, coding-agent, deepseek, kimi, qwen, rust"
+    },
+    "FetchedAt": "2026-07-17T13:10:55.1453456+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:RyanCodrai/turbovec"
+    },
+    "Type": 0,
+    "Title": "RyanCodrai/turbovec",
+    "Url": "https://github.com/RyanCodrai/turbovec",
+    "Description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+    "Metadata": {
+      "owner": "RyanCodrai",
+      "repo": "turbovec",
+      "language": "Python",
+      "stars": "280",
+      "topics": "ann, avx512, embedding, embeddings, faiss, nearest-neighbor, neon, python, quant, quantization, rag, rust, simd, turboquant, vector-search"
+    },
+    "FetchedAt": "2026-07-17T13:10:55.275555+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/DeepTutor"
+    },
+    "Type": 0,
+    "Title": "HKUDS/DeepTutor",
+    "Url": "https://github.com/HKUDS/DeepTutor",
+    "Description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "DeepTutor",
+      "language": "Python",
+      "stars": "528",
+      "topics": "ai-agents, ai-tutor, clawdbot, cli-tool, deepresearch, interactive-learning, large-language-models, multi-agent-systems, rag"
+    },
+    "FetchedAt": "2026-07-17T13:10:55.3897757+00:00"
   }
 ]
