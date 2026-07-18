@@ -1,40 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:codecrafters-io/build-your-own-x"
-    },
-    "Type": 0,
-    "Title": "codecrafters-io/build-your-own-x",
-    "Url": "https://github.com/codecrafters-io/build-your-own-x",
-    "Description": "Master programming by recreating your favorite technologies from scratch.",
-    "Metadata": {
-      "owner": "codecrafters-io",
-      "repo": "build-your-own-x",
-      "language": "Markdown",
-      "stars": "1,068",
-      "topics": "awesome-list, free, programming, tutorial-code, tutorial-exercises, tutorials"
-    },
-    "FetchedAt": "2026-07-18T07:30:57.333749+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:PostHog/posthog"
-    },
-    "Type": 0,
-    "Title": "PostHog/posthog",
-    "Url": "https://github.com/PostHog/posthog",
-    "Description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools \u2013 AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more \u2013 capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-    "Metadata": {
-      "owner": "PostHog",
-      "repo": "posthog",
-      "language": "Python",
-      "stars": "438",
-      "topics": "ab-testing, ai-analytics, analytics, cdp, data-warehouse, experiments, feature-flags, javascript, product-analytics, python, react, session-replay, surveys, typescript, web-analytics"
-    },
-    "FetchedAt": "2026-07-18T07:30:57.5385227+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:Nutlope/hallmark"
     },
     "Type": 0,
@@ -182,5 +148,121 @@
       "topics": "ai-agents, ai-tutor, clawdbot, cli-tool, deepresearch, interactive-learning, large-language-models, multi-agent-systems, rag"
     },
     "FetchedAt": "2026-07-18T07:30:58.8069131+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Robbyant/lingbot-map"
+    },
+    "Type": 0,
+    "Title": "Robbyant/lingbot-map",
+    "Url": "https://github.com/Robbyant/lingbot-map",
+    "Description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+    "Metadata": {
+      "owner": "Robbyant",
+      "repo": "lingbot-map",
+      "language": "Python",
+      "stars": "827"
+    },
+    "FetchedAt": "2026-07-18T12:57:01.660261+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:apache/ossie"
+    },
+    "Type": 0,
+    "Title": "apache/ossie",
+    "Url": "https://github.com/apache/ossie",
+    "Description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+    "Metadata": {
+      "owner": "apache",
+      "repo": "ossie",
+      "language": "Python",
+      "stars": "48",
+      "topics": "metadata, semantic"
+    },
+    "FetchedAt": "2026-07-18T12:57:01.9564643+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:PostHog/posthog"
+    },
+    "Type": 0,
+    "Title": "PostHog/posthog",
+    "Url": "https://github.com/PostHog/posthog",
+    "Description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools \u2013 AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more \u2013 capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "Metadata": {
+      "owner": "PostHog",
+      "repo": "posthog",
+      "language": "Python",
+      "stars": "337",
+      "topics": "ab-testing, ai-analytics, analytics, cdp, data-warehouse, experiments, feature-flags, javascript, product-analytics, python, react, session-replay, surveys, typescript, web-analytics"
+    },
+    "FetchedAt": "2026-07-18T12:57:02.1131174+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:elder-plinius/G0DM0D3"
+    },
+    "Type": 0,
+    "Title": "elder-plinius/G0DM0D3",
+    "Url": "https://github.com/elder-plinius/G0DM0D3",
+    "Description": "LIBERATED AI CHAT",
+    "Metadata": {
+      "owner": "elder-plinius",
+      "repo": "G0DM0D3",
+      "language": "TypeScript",
+      "stars": "63"
+    },
+    "FetchedAt": "2026-07-18T12:57:02.2765137+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:KnockOutEZ/wigolo"
+    },
+    "Type": 0,
+    "Title": "KnockOutEZ/wigolo",
+    "Url": "https://github.com/KnockOutEZ/wigolo",
+    "Description": "The go-to web for your AI coding agent \u2014 local-first search, fetch, crawl \u0026 research over MCP. No API keys, no cloud, $0/query. Public beta.",
+    "Metadata": {
+      "owner": "KnockOutEZ",
+      "repo": "wigolo",
+      "language": "TypeScript",
+      "stars": "192",
+      "topics": "agent, ai, ai-agent, claude, cli, developer-tools, local-first, mcp, mcp-server, metasearch, model-context-protocol, nodejs, privacy, rag, search, search-engine, typescript, web-crawler, web-scraping, web-search"
+    },
+    "FetchedAt": "2026-07-18T12:57:02.4192754+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:codecrafters-io/build-your-own-x"
+    },
+    "Type": 0,
+    "Title": "codecrafters-io/build-your-own-x",
+    "Url": "https://github.com/codecrafters-io/build-your-own-x",
+    "Description": "Master programming by recreating your favorite technologies from scratch.",
+    "Metadata": {
+      "owner": "codecrafters-io",
+      "repo": "build-your-own-x",
+      "language": "Markdown",
+      "stars": "1,131",
+      "topics": "awesome-list, free, programming, tutorial-code, tutorial-exercises, tutorials"
+    },
+    "FetchedAt": "2026-07-18T12:57:02.5873185+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:MoonshotAI/kimi-cli"
+    },
+    "Type": 0,
+    "Title": "MoonshotAI/kimi-cli",
+    "Url": "https://github.com/MoonshotAI/kimi-cli",
+    "Description": "Kimi Code CLI is your next CLI agent.",
+    "Metadata": {
+      "owner": "MoonshotAI",
+      "repo": "kimi-cli",
+      "language": "Python",
+      "stars": "48"
+    },
+    "FetchedAt": "2026-07-18T12:57:02.7435853+00:00"
   }
 ]
