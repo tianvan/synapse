@@ -62,7 +62,7 @@
       "language": "Python",
       "stars": "328"
     },
-    "FetchedAt": "2026-07-19T12:59:28.5318736+00:00"
+    "FetchedAt": "2026-07-19T18:54:46.5550897+00:00"
   },
   {
     "ExternalId": {
@@ -76,9 +76,10 @@
       "owner": "jamiepine",
       "repo": "voicebox",
       "language": "TypeScript",
-      "stars": "629"
+      "stars": "629",
+      "topics": "ai, cuda, mlx, qwen3-tts, qwen3-tts-ui, voice-ai, voice-clone, whisper"
     },
-    "FetchedAt": "2026-07-19T12:59:28.6096372+00:00"
+    "FetchedAt": "2026-07-19T18:54:46.7722969+00:00"
   },
   {
     "ExternalId": {
@@ -87,14 +88,15 @@
     "Type": 0,
     "Title": "KnockOutEZ/wigolo",
     "Url": "https://github.com/KnockOutEZ/wigolo",
-    "Description": "The go-to web for your AI coding agent \u2014 local-first search, fetch, crawl \u0026amp; research over MCP. No API keys, no cloud, $0/query. Public beta.",
+    "Description": "The go-to web for your AI coding agent \u2014 local-first search, fetch, crawl \u0026 research over MCP. No API keys, no cloud, $0/query. Public beta.",
     "Metadata": {
       "owner": "KnockOutEZ",
       "repo": "wigolo",
       "language": "TypeScript",
-      "stars": "605"
+      "stars": "605",
+      "topics": "agent, ai, ai-agent, claude, cli, developer-tools, local-first, mcp, mcp-server, metasearch, model-context-protocol, nodejs, privacy, rag, search, search-engine, typescript, web-crawler, web-scraping, web-search"
     },
-    "FetchedAt": "2026-07-19T12:59:28.6316461+00:00"
+    "FetchedAt": "2026-07-19T18:54:46.896879+00:00"
   },
   {
     "ExternalId": {
@@ -108,9 +110,9 @@
       "owner": "andrewrabert",
       "repo": "jellium-desktop",
       "language": "Rust",
-      "stars": "55"
+      "stars": "54"
     },
-    "FetchedAt": "2026-07-19T12:59:28.6531191+00:00"
+    "FetchedAt": "2026-07-19T18:54:47.0189649+00:00"
   },
   {
     "ExternalId": {
@@ -124,9 +126,9 @@
       "owner": "github",
       "repo": "copilot-sdk",
       "language": "Java",
-      "stars": "111"
+      "stars": "46"
     },
-    "FetchedAt": "2026-07-19T12:59:28.6747635+00:00"
+    "FetchedAt": "2026-07-19T18:54:47.1276633+00:00"
   },
   {
     "ExternalId": {
@@ -135,14 +137,15 @@
     "Type": 0,
     "Title": "PostHog/posthog",
     "Url": "https://github.com/PostHog/posthog",
-    "Description": "\uD83E\uDD94 PostHog is the leading platform for building self-driving products. Our developer tools \u2013 AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more \u2013 capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "Description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools \u2013 AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more \u2013 capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
     "Metadata": {
       "owner": "PostHog",
       "repo": "posthog",
       "language": "Python",
-      "stars": "424"
+      "stars": "424",
+      "topics": "ab-testing, ai-analytics, analytics, cdp, data-warehouse, experiments, feature-flags, javascript, product-analytics, python, react, session-replay, surveys, typescript, web-analytics"
     },
-    "FetchedAt": "2026-07-19T12:59:28.697837+00:00"
+    "FetchedAt": "2026-07-19T18:54:47.2639065+00:00"
   },
   {
     "ExternalId": {
@@ -156,9 +159,10 @@
       "owner": "microsoft",
       "repo": "terminal",
       "language": "C\u002B\u002B",
-      "stars": "13"
+      "stars": "103",
+      "topics": "cmd, command-line, console, contributions-welcome, good-first-issue, hacktoberfest, terminal, windows, windows-console, windows-terminal, wsl"
     },
-    "FetchedAt": "2026-07-19T12:59:28.7205201+00:00"
+    "FetchedAt": "2026-07-19T18:54:47.4038963+00:00"
   },
   {
     "ExternalId": {
@@ -167,14 +171,15 @@
     "Type": 0,
     "Title": "AstrBotDevs/AstrBot",
     "Url": "https://github.com/AstrBotDevs/AstrBot",
-    "Description": "AI Agent Assistant \u0026amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. \u2728",
+    "Description": "AI Agent Assistant \u0026 development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. \u2728",
     "Metadata": {
       "owner": "AstrBotDevs",
       "repo": "AstrBot",
       "language": "Python",
-      "stars": "62"
+      "stars": "62",
+      "topics": "agent, ai, astrbot, chatbot, chatgpt, discord, docker, gemini, gpt, llama, llm, mcp, openai, python, qq, qqbot, telegram"
     },
-    "FetchedAt": "2026-07-19T12:59:28.7425697+00:00"
+    "FetchedAt": "2026-07-19T18:54:47.5269925+00:00"
   },
   {
     "ExternalId": {
@@ -188,9 +193,10 @@
       "owner": "1jehuang",
       "repo": "jcode",
       "language": "Rust",
-      "stars": "199"
+      "stars": "199",
+      "topics": "ai, ai-agent, ai-coding-agent, claude, cli, coding-agent, llm, mcp, openai, rust, terminal, tui"
     },
-    "FetchedAt": "2026-07-19T12:59:28.7642939+00:00"
+    "FetchedAt": "2026-07-19T18:54:47.6859157+00:00"
   },
   {
     "ExternalId": {
@@ -206,7 +212,7 @@
       "language": "Python",
       "stars": "418"
     },
-    "FetchedAt": "2026-07-19T12:59:28.7872785+00:00"
+    "FetchedAt": "2026-07-19T18:54:47.8267043+00:00"
   },
   {
     "ExternalId": {
@@ -222,7 +228,7 @@
       "language": "Batchfile",
       "stars": "117"
     },
-    "FetchedAt": "2026-07-19T12:59:28.8133809+00:00"
+    "FetchedAt": "2026-07-19T18:54:47.9394252+00:00"
   },
   {
     "ExternalId": {
@@ -236,9 +242,10 @@
       "owner": "codecrafters-io",
       "repo": "build-your-own-x",
       "language": "Markdown",
-      "stars": "761"
+      "stars": "761",
+      "topics": "awesome-list, free, programming, tutorial-code, tutorial-exercises, tutorials"
     },
-    "FetchedAt": "2026-07-19T12:59:28.8351069+00:00"
+    "FetchedAt": "2026-07-19T18:54:48.0791496+00:00"
   },
   {
     "ExternalId": {
@@ -252,9 +259,10 @@
       "owner": "Canner",
       "repo": "WrenAI",
       "language": "Python",
-      "stars": "96"
+      "stars": "96",
+      "topics": "agent, anthropic, bigquery, charts, context-engineering, duckdb, genbi, llm, openai, postgresql, rag, sql, sqlai, text-to-chart, text-to-sql, text2sql, vertex"
     },
-    "FetchedAt": "2026-07-19T12:59:28.8578174+00:00"
+    "FetchedAt": "2026-07-19T18:54:48.2059046+00:00"
   },
   {
     "ExternalId": {
@@ -270,6 +278,6 @@
       "language": "HTML",
       "stars": "128"
     },
-    "FetchedAt": "2026-07-19T12:59:28.8804217+00:00"
+    "FetchedAt": "2026-07-19T18:54:48.3297385+00:00"
   }
 ]
