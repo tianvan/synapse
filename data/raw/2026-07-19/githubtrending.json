@@ -34,23 +34,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:PostHog/posthog"
-    },
-    "Type": 0,
-    "Title": "PostHog/posthog",
-    "Url": "https://github.com/PostHog/posthog",
-    "Description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools \u2013 AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more \u2013 capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-    "Metadata": {
-      "owner": "PostHog",
-      "repo": "posthog",
-      "language": "Python",
-      "stars": "338",
-      "topics": "ab-testing, ai-analytics, analytics, cdp, data-warehouse, experiments, feature-flags, javascript, product-analytics, python, react, session-replay, surveys, typescript, web-analytics"
-    },
-    "FetchedAt": "2026-07-19T08:03:04.1954124+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:elder-plinius/G0DM0D3"
     },
     "Type": 0,
@@ -67,37 +50,147 @@
   },
   {
     "ExternalId": {
+      "Value": "github:kvcache-ai/ktransformers"
+    },
+    "Type": 0,
+    "Title": "kvcache-ai/ktransformers",
+    "Url": "https://github.com/kvcache-ai/ktransformers",
+    "Description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+    "Metadata": {
+      "owner": "kvcache-ai",
+      "repo": "ktransformers",
+      "language": "Python",
+      "stars": "328"
+    },
+    "FetchedAt": "2026-07-19T12:59:28.5318736+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jamiepine/voicebox"
+    },
+    "Type": 0,
+    "Title": "jamiepine/voicebox",
+    "Url": "https://github.com/jamiepine/voicebox",
+    "Description": "The open-source AI voice studio. Clone, dictate, create.",
+    "Metadata": {
+      "owner": "jamiepine",
+      "repo": "voicebox",
+      "language": "TypeScript",
+      "stars": "629"
+    },
+    "FetchedAt": "2026-07-19T12:59:28.6096372+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:KnockOutEZ/wigolo"
     },
     "Type": 0,
     "Title": "KnockOutEZ/wigolo",
     "Url": "https://github.com/KnockOutEZ/wigolo",
-    "Description": "The go-to web for your AI coding agent \u2014 local-first search, fetch, crawl \u0026 research over MCP. No API keys, no cloud, $0/query. Public beta.",
+    "Description": "The go-to web for your AI coding agent \u2014 local-first search, fetch, crawl \u0026amp; research over MCP. No API keys, no cloud, $0/query. Public beta.",
     "Metadata": {
       "owner": "KnockOutEZ",
       "repo": "wigolo",
       "language": "TypeScript",
-      "stars": "203",
-      "topics": "agent, ai, ai-agent, claude, cli, developer-tools, local-first, mcp, mcp-server, metasearch, model-context-protocol, nodejs, privacy, rag, search, search-engine, typescript, web-crawler, web-scraping, web-search"
+      "stars": "605"
     },
-    "FetchedAt": "2026-07-19T08:03:04.42767+00:00"
+    "FetchedAt": "2026-07-19T12:59:28.6316461+00:00"
   },
   {
     "ExternalId": {
-      "Value": "github:codecrafters-io/build-your-own-x"
+      "Value": "github:andrewrabert/jellium-desktop"
     },
     "Type": 0,
-    "Title": "codecrafters-io/build-your-own-x",
-    "Url": "https://github.com/codecrafters-io/build-your-own-x",
-    "Description": "Master programming by recreating your favorite technologies from scratch.",
+    "Title": "andrewrabert/jellium-desktop",
+    "Url": "https://github.com/andrewrabert/jellium-desktop",
+    "Description": "An unofficial desktop client for Jellyfin",
     "Metadata": {
-      "owner": "codecrafters-io",
-      "repo": "build-your-own-x",
-      "language": "Markdown",
-      "stars": "1,126",
-      "topics": "awesome-list, free, programming, tutorial-code, tutorial-exercises, tutorials"
+      "owner": "andrewrabert",
+      "repo": "jellium-desktop",
+      "language": "Rust",
+      "stars": "55"
     },
-    "FetchedAt": "2026-07-19T08:03:04.5419556+00:00"
+    "FetchedAt": "2026-07-19T12:59:28.6531191+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:github/copilot-sdk"
+    },
+    "Type": 0,
+    "Title": "github/copilot-sdk",
+    "Url": "https://github.com/github/copilot-sdk",
+    "Description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+    "Metadata": {
+      "owner": "github",
+      "repo": "copilot-sdk",
+      "language": "Java",
+      "stars": "111"
+    },
+    "FetchedAt": "2026-07-19T12:59:28.6747635+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:PostHog/posthog"
+    },
+    "Type": 0,
+    "Title": "PostHog/posthog",
+    "Url": "https://github.com/PostHog/posthog",
+    "Description": "\uD83E\uDD94 PostHog is the leading platform for building self-driving products. Our developer tools \u2013 AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more \u2013 capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "Metadata": {
+      "owner": "PostHog",
+      "repo": "posthog",
+      "language": "Python",
+      "stars": "424"
+    },
+    "FetchedAt": "2026-07-19T12:59:28.697837+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:microsoft/terminal"
+    },
+    "Type": 0,
+    "Title": "microsoft/terminal",
+    "Url": "https://github.com/microsoft/terminal",
+    "Description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "Metadata": {
+      "owner": "microsoft",
+      "repo": "terminal",
+      "language": "C\u002B\u002B",
+      "stars": "13"
+    },
+    "FetchedAt": "2026-07-19T12:59:28.7205201+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:AstrBotDevs/AstrBot"
+    },
+    "Type": 0,
+    "Title": "AstrBotDevs/AstrBot",
+    "Url": "https://github.com/AstrBotDevs/AstrBot",
+    "Description": "AI Agent Assistant \u0026amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. \u2728",
+    "Metadata": {
+      "owner": "AstrBotDevs",
+      "repo": "AstrBot",
+      "language": "Python",
+      "stars": "62"
+    },
+    "FetchedAt": "2026-07-19T12:59:28.7425697+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:1jehuang/jcode"
+    },
+    "Type": 0,
+    "Title": "1jehuang/jcode",
+    "Url": "https://github.com/1jehuang/jcode",
+    "Description": "Coding Agent Harness",
+    "Metadata": {
+      "owner": "1jehuang",
+      "repo": "jcode",
+      "language": "Rust",
+      "stars": "199"
+    },
+    "FetchedAt": "2026-07-19T12:59:28.7642939+00:00"
   },
   {
     "ExternalId": {
@@ -111,8 +204,72 @@
       "owner": "MoonshotAI",
       "repo": "kimi-cli",
       "language": "Python",
-      "stars": "65"
+      "stars": "418"
     },
-    "FetchedAt": "2026-07-19T08:03:04.6613959+00:00"
+    "FetchedAt": "2026-07-19T12:59:28.7872785+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Flowseal/zapret-discord-youtube"
+    },
+    "Type": 0,
+    "Title": "Flowseal/zapret-discord-youtube",
+    "Url": "https://github.com/Flowseal/zapret-discord-youtube",
+    "Description": "",
+    "Metadata": {
+      "owner": "Flowseal",
+      "repo": "zapret-discord-youtube",
+      "language": "Batchfile",
+      "stars": "117"
+    },
+    "FetchedAt": "2026-07-19T12:59:28.8133809+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:codecrafters-io/build-your-own-x"
+    },
+    "Type": 0,
+    "Title": "codecrafters-io/build-your-own-x",
+    "Url": "https://github.com/codecrafters-io/build-your-own-x",
+    "Description": "Master programming by recreating your favorite technologies from scratch.",
+    "Metadata": {
+      "owner": "codecrafters-io",
+      "repo": "build-your-own-x",
+      "language": "Markdown",
+      "stars": "761"
+    },
+    "FetchedAt": "2026-07-19T12:59:28.8351069+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Canner/WrenAI"
+    },
+    "Type": 0,
+    "Title": "Canner/WrenAI",
+    "Url": "https://github.com/Canner/WrenAI",
+    "Description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20\u002B data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+    "Metadata": {
+      "owner": "Canner",
+      "repo": "WrenAI",
+      "language": "Python",
+      "stars": "96"
+    },
+    "FetchedAt": "2026-07-19T12:59:28.8578174+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:PKUFlyingPig/cs-self-learning"
+    },
+    "Type": 0,
+    "Title": "PKUFlyingPig/cs-self-learning",
+    "Url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "Description": "\u8BA1\u7B97\u673A\u81EA\u5B66\u6307\u5357",
+    "Metadata": {
+      "owner": "PKUFlyingPig",
+      "repo": "cs-self-learning",
+      "language": "HTML",
+      "stars": "128"
+    },
+    "FetchedAt": "2026-07-19T12:59:28.8804217+00:00"
   }
 ]
