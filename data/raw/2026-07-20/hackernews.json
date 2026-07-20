@@ -1,141 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:48968606"
-    },
-    "Type": 1,
-    "Title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-    "Url": "https://news.ycombinator.com/item?id=48968606",
-    "Description": "I might be the only SRE on Earth with his own bowling center. It\u0026#x27;s a more in-depth gig than you\u0026#x27;d think.\u003Cp\u003EMy family and I bought an abandoned 8-lane bowling center in the rural mid-west. In our small town there weren\u0026#x27;t many recreation options for families. You\u0026#x27;ve heard of a food desert? This is an R\u0026amp;R desert.\u003Cp\u003EIt had been abandoned for a good reason. The roof leaks, the electrical system was constantly surging, and my 70-year-old bowling equipment (still) doesn\u0026#x27;t w",
-    "Metadata": {
-      "score": "1566",
-      "author": "section33",
-      "commentCount": "172"
-    },
-    "FetchedAt": "2026-07-20T02:12:43.1704867+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48907390"
-    },
-    "Type": 1,
-    "Title": "The Zen of Parallel Programming",
-    "Url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
-    "Description": "The Zen of Parallel Programming",
-    "Metadata": {
-      "score": "113",
-      "author": "edgar_ortega",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-07-20T02:12:43.2035921+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48971938"
-    },
-    "Type": 1,
-    "Title": "Biggest Probabilistic Computer Turns Noise into Answers",
-    "Url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
-    "Description": "Biggest Probabilistic Computer Turns Noise into Answers",
-    "Metadata": {
-      "score": "37",
-      "author": "rbanffy",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-07-20T02:12:43.236255+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48966713"
-    },
-    "Type": 1,
-    "Title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-    "Url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-    "Description": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-    "Metadata": {
-      "score": "406",
-      "author": "chipweinberger",
-      "commentCount": "196"
-    },
-    "FetchedAt": "2026-07-20T02:12:43.2682977+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48971566"
-    },
-    "Type": 1,
-    "Title": "A new Intel Itanium (IA-64) emulator that boots Windows",
-    "Url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
-    "Description": "A new Intel Itanium (IA-64) emulator that boots Windows",
-    "Metadata": {
-      "score": "49",
-      "author": "jandeboevrie",
-      "commentCount": "33"
-    },
-    "FetchedAt": "2026-07-20T02:12:43.3001517+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48966569"
-    },
-    "Type": 1,
-    "Title": "Claude Code uses Bun written in Rust now",
-    "Url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-    "Description": "Claude Code uses Bun written in Rust now",
-    "Metadata": {
-      "score": "394",
-      "author": "tosh",
-      "commentCount": "559"
-    },
-    "FetchedAt": "2026-07-20T02:12:43.331961+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48967256"
-    },
-    "Type": 1,
-    "Title": "Minecraft: Java Edition now uses SDL3",
-    "Url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-    "Description": "Minecraft: Java Edition now uses SDL3",
-    "Metadata": {
-      "score": "274",
-      "author": "ObviouslyFlamer",
-      "commentCount": "180"
-    },
-    "FetchedAt": "2026-07-20T02:12:43.3634046+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48920597"
-    },
-    "Type": 1,
-    "Title": "Talk: The Art of Braiding Algorithms",
-    "Url": "https://pgadey.ca/notes/talk-relatorium-2026/",
-    "Description": "Talk: The Art of Braiding Algorithms",
-    "Metadata": {
-      "score": "23",
-      "author": "surprisetalk",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-07-20T02:12:43.3957558+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48913656"
-    },
-    "Type": 1,
-    "Title": "Who Is America\u0027s Homer?",
-    "Url": "https://www.plough.com/articles/who-is-americas-homer",
-    "Description": "Who Is America\u0027s Homer?",
-    "Metadata": {
-      "score": "38",
-      "author": "samclemens",
-      "commentCount": "77"
-    },
-    "FetchedAt": "2026-07-20T02:12:43.4273911+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48965850"
     },
     "Type": 1,
@@ -151,81 +16,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48968063"
-    },
-    "Type": 1,
-    "Title": "Bananas sprout in Rayleigh Garden UK after 15 years",
-    "Url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
-    "Description": "Bananas sprout in Rayleigh Garden UK after 15 years",
-    "Metadata": {
-      "score": "126",
-      "author": "teleforce",
-      "commentCount": "89"
-    },
-    "FetchedAt": "2026-07-20T02:12:43.4906741+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48970772"
-    },
-    "Type": 1,
-    "Title": "HomeLab #1: MikroTik as a Home Router",
-    "Url": "https://justsomebody.dev/blog/mikrotik-home-router",
-    "Description": "HomeLab #1: MikroTik as a Home Router",
-    "Metadata": {
-      "score": "67",
-      "author": "rafal_opilowski",
-      "commentCount": "51"
-    },
-    "FetchedAt": "2026-07-20T02:12:43.5230443+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48970894"
-    },
-    "Type": 1,
-    "Title": "Orion Browser by Kagi",
-    "Url": "https://orionbrowser.com/",
-    "Description": "Orion Browser by Kagi",
-    "Metadata": {
-      "score": "59",
-      "author": "sebjones",
-      "commentCount": "61"
-    },
-    "FetchedAt": "2026-07-20T02:12:43.5552291+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48966120"
-    },
-    "Type": 1,
-    "Title": "Qwen 3.8",
-    "Url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.qwencloud.com\u0026#x2F;pricing\u0026#x2F;token-plan\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.qwencloud.com\u0026#x2F;pricing\u0026#x2F;token-plan\u003C/a\u003E",
-    "Metadata": {
-      "score": "789",
-      "author": "nh43215rgb",
-      "commentCount": "556"
-    },
-    "FetchedAt": "2026-07-20T02:12:43.5871806+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48928703"
-    },
-    "Type": 1,
-    "Title": "11,700 Free Photos from John Margolies\u0027 Archive of Americana Architecture",
-    "Url": "https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html",
-    "Description": "11,700 Free Photos from John Margolies\u0027 Archive of Americana Architecture",
-    "Metadata": {
-      "score": "28",
-      "author": "gslin",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-07-20T02:12:43.622041+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48971738"
     },
     "Type": 1,
@@ -238,81 +28,6 @@
       "commentCount": "159"
     },
     "FetchedAt": "2026-07-20T02:12:43.6544018+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48969983"
-    },
-    "Type": 1,
-    "Title": "HMD Touch 4G",
-    "Url": "https://www.hmd.com/en_int/hmd-touch-4g",
-    "Description": "HMD Touch 4G",
-    "Metadata": {
-      "score": "59",
-      "author": "thisislife2",
-      "commentCount": "60"
-    },
-    "FetchedAt": "2026-07-20T02:12:43.6970976+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48968949"
-    },
-    "Type": 1,
-    "Title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
-    "Url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
-    "Description": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
-    "Metadata": {
-      "score": "60",
-      "author": "ibobev",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-07-20T02:12:43.730658+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48860719"
-    },
-    "Type": 1,
-    "Title": "Cagire: Live Coding in Forth",
-    "Url": "https://cagire.raphaelforment.fr",
-    "Description": "Cagire: Live Coding in Forth",
-    "Metadata": {
-      "score": "78",
-      "author": "surprisetalk",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-07-20T02:12:43.7660874+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48908433"
-    },
-    "Type": 1,
-    "Title": "Dupes took over the world",
-    "Url": "https://www.vox.com/podcasts/493930/dupe-culture-fender-ugg-quince-tiktok-amazon-online-shopping",
-    "Description": "Dupes took over the world",
-    "Metadata": {
-      "score": "61",
-      "author": "gumby",
-      "commentCount": "53"
-    },
-    "FetchedAt": "2026-07-20T02:12:43.7990768+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48966984"
-    },
-    "Type": 1,
-    "Title": "I joined the IndieWeb, here\u0027s what I learned",
-    "Url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
-    "Description": "I joined the IndieWeb, here\u0027s what I learned",
-    "Metadata": {
-      "score": "155",
-      "author": "andros",
-      "commentCount": "85"
-    },
-    "FetchedAt": "2026-07-20T02:12:43.8313889+00:00"
   },
   {
     "ExternalId": {
@@ -343,21 +58,6 @@
       "commentCount": "4"
     },
     "FetchedAt": "2026-07-20T02:12:43.9012253+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48967355"
-    },
-    "Type": 1,
-    "Title": "I burned all my tokens researching how to save tokens",
-    "Url": "https://quesma.com/blog/custom-deep-research-pipeline/",
-    "Description": "I burned all my tokens researching how to save tokens",
-    "Metadata": {
-      "score": "97",
-      "author": "bkotrys",
-      "commentCount": "131"
-    },
-    "FetchedAt": "2026-07-20T02:12:43.9338627+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +148,455 @@
       "commentCount": "81"
     },
     "FetchedAt": "2026-07-20T02:12:44.1257763+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48968606"
+    },
+    "Type": 1,
+    "Title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+    "Url": "https://news.ycombinator.com/item?id=48968606",
+    "Description": "I might be the only SRE on Earth with his own bowling center. It\u0026#x27;s a more in-depth gig than you\u0026#x27;d think.\u003Cp\u003EMy family and I bought an abandoned 8-lane bowling center in the rural mid-west. In our small town there weren\u0026#x27;t many recreation options for families. You\u0026#x27;ve heard of a food desert? This is an R\u0026amp;R desert.\u003Cp\u003EIt had been abandoned for a good reason. The roof leaks, the electrical system was constantly surging, and my 70-year-old bowling equipment (still) doesn\u0026#x27;t w",
+    "Metadata": {
+      "score": "2215",
+      "author": "section33",
+      "commentCount": "236"
+    },
+    "FetchedAt": "2026-07-20T08:44:27.5817276+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48972970"
+    },
+    "Type": 1,
+    "Title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+    "Url": "https://github.com/hgaiser/moonshine",
+    "Description": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+    "Metadata": {
+      "score": "154",
+      "author": "wertyk",
+      "commentCount": "70"
+    },
+    "FetchedAt": "2026-07-20T08:44:27.6147333+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48974325"
+    },
+    "Type": 1,
+    "Title": "LoRA Speedrun \u2013 a public wall-clock leaderboard for fine-tuning techniques",
+    "Url": "https://github.com/Saivineeth147/lora-speedrun",
+    "Description": "LoRA Speedrun \u2013 a public wall-clock leaderboard for fine-tuning techniques",
+    "Metadata": {
+      "score": "64",
+      "author": "Vineeth147",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-07-20T08:44:27.6468497+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48974454"
+    },
+    "Type": 1,
+    "Title": "Xiaomi-Robotics-1",
+    "Url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+    "Description": "Xiaomi-Robotics-1",
+    "Metadata": {
+      "score": "171",
+      "author": "ilreb",
+      "commentCount": "111"
+    },
+    "FetchedAt": "2026-07-20T08:44:27.6797973+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48861496"
+    },
+    "Type": 1,
+    "Title": "Self-Powered Trailers Promise Leaner Freight Runs",
+    "Url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
+    "Description": "Self-Powered Trailers Promise Leaner Freight Runs",
+    "Metadata": {
+      "score": "30",
+      "author": "rbanffy",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-07-20T08:44:27.713452+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48966569"
+    },
+    "Type": 1,
+    "Title": "Claude Code uses Bun written in Rust now",
+    "Url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+    "Description": "Claude Code uses Bun written in Rust now",
+    "Metadata": {
+      "score": "505",
+      "author": "tosh",
+      "commentCount": "669"
+    },
+    "FetchedAt": "2026-07-20T08:44:27.7460637+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48917906"
+    },
+    "Type": 1,
+    "Title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
+    "Url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
+    "Description": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
+    "Metadata": {
+      "score": "21",
+      "author": "isaacfrond",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-07-20T08:44:27.779451+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48970894"
+    },
+    "Type": 1,
+    "Title": "Orion Browser by Kagi",
+    "Url": "https://orionbrowser.com/",
+    "Description": "Orion Browser by Kagi",
+    "Metadata": {
+      "score": "189",
+      "author": "sebjones",
+      "commentCount": "124"
+    },
+    "FetchedAt": "2026-07-20T08:44:27.8125378+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48936994"
+    },
+    "Type": 1,
+    "Title": "1-Bit LLM in the Browser",
+    "Url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
+    "Description": "1-Bit LLM in the Browser",
+    "Metadata": {
+      "score": "22",
+      "author": "simonebrunozzi",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-07-20T08:44:27.8445329+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48966713"
+    },
+    "Type": 1,
+    "Title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+    "Url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+    "Description": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+    "Metadata": {
+      "score": "482",
+      "author": "chipweinberger",
+      "commentCount": "218"
+    },
+    "FetchedAt": "2026-07-20T08:44:27.8767413+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48907390"
+    },
+    "Type": 1,
+    "Title": "The Zen of Parallel Programming",
+    "Url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+    "Description": "The Zen of Parallel Programming",
+    "Metadata": {
+      "score": "155",
+      "author": "edgar_ortega",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-07-20T08:44:27.9095434+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48967256"
+    },
+    "Type": 1,
+    "Title": "Minecraft: Java Edition now uses SDL3",
+    "Url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+    "Description": "Minecraft: Java Edition now uses SDL3",
+    "Metadata": {
+      "score": "307",
+      "author": "ObviouslyFlamer",
+      "commentCount": "202"
+    },
+    "FetchedAt": "2026-07-20T08:44:27.9418498+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48974476"
+    },
+    "Type": 1,
+    "Title": "How proprietary formats have become Microsoft\u2019s main tool for lock-in",
+    "Url": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
+    "Description": "How proprietary formats have become Microsoft\u2019s main tool for lock-in",
+    "Metadata": {
+      "score": "70",
+      "author": "cube00",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-07-20T08:44:27.9746124+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48968063"
+    },
+    "Type": 1,
+    "Title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+    "Url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+    "Description": "Bananas sprout in Rayleigh Garden UK after 15 years",
+    "Metadata": {
+      "score": "154",
+      "author": "teleforce",
+      "commentCount": "115"
+    },
+    "FetchedAt": "2026-07-20T08:44:28.0078853+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48970772"
+    },
+    "Type": 1,
+    "Title": "HomeLab #1: MikroTik as a Home Router",
+    "Url": "https://justsomebody.dev/blog/mikrotik-home-router",
+    "Description": "HomeLab #1: MikroTik as a Home Router",
+    "Metadata": {
+      "score": "112",
+      "author": "rafal_opilowski",
+      "commentCount": "94"
+    },
+    "FetchedAt": "2026-07-20T08:44:28.0410322+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48973869"
+    },
+    "Type": 1,
+    "Title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+    "Url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+    "Description": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+    "Metadata": {
+      "score": "357",
+      "author": "loubbrad",
+      "commentCount": "207"
+    },
+    "FetchedAt": "2026-07-20T08:44:28.0754057+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48966120"
+    },
+    "Type": 1,
+    "Title": "Qwen 3.8",
+    "Url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.qwencloud.com\u0026#x2F;pricing\u0026#x2F;token-plan\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.qwencloud.com\u0026#x2F;pricing\u0026#x2F;token-plan\u003C/a\u003E",
+    "Metadata": {
+      "score": "873",
+      "author": "nh43215rgb",
+      "commentCount": "595"
+    },
+    "FetchedAt": "2026-07-20T08:44:28.1085382+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48975245"
+    },
+    "Type": 1,
+    "Title": "EU Exempts Apple Watch and AirPods from Battery Removal Requirements",
+    "Url": "https://mjtsai.com/blog/2026/07/17/eu-exempts-apple-watch-and-airpods-from-battery-removal-requirement/",
+    "Description": "EU Exempts Apple Watch and AirPods from Battery Removal Requirements",
+    "Metadata": {
+      "score": "12",
+      "author": "miohtama",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-07-20T08:44:28.1418539+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48928703"
+    },
+    "Type": 1,
+    "Title": "11,700 Free Photos from John Margolies\u0027 Archive of Americana Architecture",
+    "Url": "https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html",
+    "Description": "11,700 Free Photos from John Margolies\u0027 Archive of Americana Architecture",
+    "Metadata": {
+      "score": "60",
+      "author": "gslin",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-07-20T08:44:28.1761308+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48913656"
+    },
+    "Type": 1,
+    "Title": "Who Is America\u0027s Homer?",
+    "Url": "https://www.plough.com/articles/who-is-americas-homer",
+    "Description": "Who Is America\u0027s Homer?",
+    "Metadata": {
+      "score": "71",
+      "author": "samclemens",
+      "commentCount": "167"
+    },
+    "FetchedAt": "2026-07-20T08:44:28.209868+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48907564"
+    },
+    "Type": 1,
+    "Title": "Korg PS-3300 is back",
+    "Url": "https://www.korg.co.uk/blogs/updates/ps3300",
+    "Description": "Korg PS-3300 is back",
+    "Metadata": {
+      "score": "47",
+      "author": "Lio",
+      "commentCount": "45"
+    },
+    "FetchedAt": "2026-07-20T08:44:28.2427747+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48971938"
+    },
+    "Type": 1,
+    "Title": "Biggest Probabilistic Computer Turns Noise into Answers",
+    "Url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
+    "Description": "Biggest Probabilistic Computer Turns Noise into Answers",
+    "Metadata": {
+      "score": "68",
+      "author": "rbanffy",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-07-20T08:44:28.2752911+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48966984"
+    },
+    "Type": 1,
+    "Title": "I joined the IndieWeb, here\u0027s what I learned",
+    "Url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
+    "Description": "I joined the IndieWeb, here\u0027s what I learned",
+    "Metadata": {
+      "score": "198",
+      "author": "andros",
+      "commentCount": "96"
+    },
+    "FetchedAt": "2026-07-20T08:44:28.3543391+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48967355"
+    },
+    "Type": 1,
+    "Title": "I burned all my tokens researching how to save tokens",
+    "Url": "https://quesma.com/blog/custom-deep-research-pipeline/",
+    "Description": "I burned all my tokens researching how to save tokens",
+    "Metadata": {
+      "score": "130",
+      "author": "bkotrys",
+      "commentCount": "166"
+    },
+    "FetchedAt": "2026-07-20T08:44:28.3874416+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48969983"
+    },
+    "Type": 1,
+    "Title": "HMD Touch 4G",
+    "Url": "https://www.hmd.com/en_int/hmd-touch-4g",
+    "Description": "HMD Touch 4G",
+    "Metadata": {
+      "score": "74",
+      "author": "thisislife2",
+      "commentCount": "74"
+    },
+    "FetchedAt": "2026-07-20T08:44:28.4204711+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48920597"
+    },
+    "Type": 1,
+    "Title": "Talk: The Art of Braiding Algorithms",
+    "Url": "https://pgadey.ca/notes/talk-relatorium-2026/",
+    "Description": "Talk: The Art of Braiding Algorithms",
+    "Metadata": {
+      "score": "40",
+      "author": "surprisetalk",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-20T08:44:28.4535031+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48968949"
+    },
+    "Type": 1,
+    "Title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
+    "Url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
+    "Description": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
+    "Metadata": {
+      "score": "70",
+      "author": "ibobev",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-07-20T08:44:28.4857317+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48971566"
+    },
+    "Type": 1,
+    "Title": "A new Intel Itanium (IA-64) emulator that boots Windows",
+    "Url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+    "Description": "A new Intel Itanium (IA-64) emulator that boots Windows",
+    "Metadata": {
+      "score": "77",
+      "author": "jandeboevrie",
+      "commentCount": "67"
+    },
+    "FetchedAt": "2026-07-20T08:44:28.5176624+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48860719"
+    },
+    "Type": 1,
+    "Title": "Cagire: Live Coding in Forth",
+    "Url": "https://cagire.raphaelforment.fr",
+    "Description": "Cagire: Live Coding in Forth",
+    "Metadata": {
+      "score": "94",
+      "author": "surprisetalk",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-07-20T08:44:28.5502146+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48908433"
+    },
+    "Type": 1,
+    "Title": "Dupes took over the world",
+    "Url": "https://www.vox.com/podcasts/493930/dupe-culture-fender-ugg-quince-tiktok-amazon-online-shopping",
+    "Description": "Dupes took over the world",
+    "Metadata": {
+      "score": "89",
+      "author": "gumby",
+      "commentCount": "85"
+    },
+    "FetchedAt": "2026-07-20T08:44:28.5831189+00:00"
   }
 ]
