@@ -151,66 +151,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48968606"
-    },
-    "Type": 1,
-    "Title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-    "Url": "https://news.ycombinator.com/item?id=48968606",
-    "Description": "I might be the only SRE on Earth with his own bowling center. It\u0026#x27;s a more in-depth gig than you\u0026#x27;d think.\u003Cp\u003EMy family and I bought an abandoned 8-lane bowling center in the rural mid-west. In our small town there weren\u0026#x27;t many recreation options for families. You\u0026#x27;ve heard of a food desert? This is an R\u0026amp;R desert.\u003Cp\u003EIt had been abandoned for a good reason. The roof leaks, the electrical system was constantly surging, and my 70-year-old bowling equipment (still) doesn\u0026#x27;t w",
-    "Metadata": {
-      "score": "2215",
-      "author": "section33",
-      "commentCount": "236"
-    },
-    "FetchedAt": "2026-07-20T08:44:27.5817276+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48972970"
-    },
-    "Type": 1,
-    "Title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
-    "Url": "https://github.com/hgaiser/moonshine",
-    "Description": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
-    "Metadata": {
-      "score": "154",
-      "author": "wertyk",
-      "commentCount": "70"
-    },
-    "FetchedAt": "2026-07-20T08:44:27.6147333+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48974325"
-    },
-    "Type": 1,
-    "Title": "LoRA Speedrun \u2013 a public wall-clock leaderboard for fine-tuning techniques",
-    "Url": "https://github.com/Saivineeth147/lora-speedrun",
-    "Description": "LoRA Speedrun \u2013 a public wall-clock leaderboard for fine-tuning techniques",
-    "Metadata": {
-      "score": "64",
-      "author": "Vineeth147",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-07-20T08:44:27.6468497+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48974454"
-    },
-    "Type": 1,
-    "Title": "Xiaomi-Robotics-1",
-    "Url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-    "Description": "Xiaomi-Robotics-1",
-    "Metadata": {
-      "score": "171",
-      "author": "ilreb",
-      "commentCount": "111"
-    },
-    "FetchedAt": "2026-07-20T08:44:27.6797973+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48861496"
     },
     "Type": 1,
@@ -223,111 +163,6 @@
       "commentCount": "13"
     },
     "FetchedAt": "2026-07-20T08:44:27.713452+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48966569"
-    },
-    "Type": 1,
-    "Title": "Claude Code uses Bun written in Rust now",
-    "Url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-    "Description": "Claude Code uses Bun written in Rust now",
-    "Metadata": {
-      "score": "505",
-      "author": "tosh",
-      "commentCount": "669"
-    },
-    "FetchedAt": "2026-07-20T08:44:27.7460637+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48917906"
-    },
-    "Type": 1,
-    "Title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
-    "Url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
-    "Description": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
-    "Metadata": {
-      "score": "21",
-      "author": "isaacfrond",
-      "commentCount": "10"
-    },
-    "FetchedAt": "2026-07-20T08:44:27.779451+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48970894"
-    },
-    "Type": 1,
-    "Title": "Orion Browser by Kagi",
-    "Url": "https://orionbrowser.com/",
-    "Description": "Orion Browser by Kagi",
-    "Metadata": {
-      "score": "189",
-      "author": "sebjones",
-      "commentCount": "124"
-    },
-    "FetchedAt": "2026-07-20T08:44:27.8125378+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48936994"
-    },
-    "Type": 1,
-    "Title": "1-Bit LLM in the Browser",
-    "Url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
-    "Description": "1-Bit LLM in the Browser",
-    "Metadata": {
-      "score": "22",
-      "author": "simonebrunozzi",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-07-20T08:44:27.8445329+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48966713"
-    },
-    "Type": 1,
-    "Title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-    "Url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-    "Description": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-    "Metadata": {
-      "score": "482",
-      "author": "chipweinberger",
-      "commentCount": "218"
-    },
-    "FetchedAt": "2026-07-20T08:44:27.8767413+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48907390"
-    },
-    "Type": 1,
-    "Title": "The Zen of Parallel Programming",
-    "Url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
-    "Description": "The Zen of Parallel Programming",
-    "Metadata": {
-      "score": "155",
-      "author": "edgar_ortega",
-      "commentCount": "19"
-    },
-    "FetchedAt": "2026-07-20T08:44:27.9095434+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48967256"
-    },
-    "Type": 1,
-    "Title": "Minecraft: Java Edition now uses SDL3",
-    "Url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-    "Description": "Minecraft: Java Edition now uses SDL3",
-    "Metadata": {
-      "score": "307",
-      "author": "ObviouslyFlamer",
-      "commentCount": "202"
-    },
-    "FetchedAt": "2026-07-20T08:44:27.9418498+00:00"
   },
   {
     "ExternalId": {
@@ -346,36 +181,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48968063"
-    },
-    "Type": 1,
-    "Title": "Bananas sprout in Rayleigh Garden UK after 15 years",
-    "Url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
-    "Description": "Bananas sprout in Rayleigh Garden UK after 15 years",
-    "Metadata": {
-      "score": "154",
-      "author": "teleforce",
-      "commentCount": "115"
-    },
-    "FetchedAt": "2026-07-20T08:44:28.0078853+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48970772"
-    },
-    "Type": 1,
-    "Title": "HomeLab #1: MikroTik as a Home Router",
-    "Url": "https://justsomebody.dev/blog/mikrotik-home-router",
-    "Description": "HomeLab #1: MikroTik as a Home Router",
-    "Metadata": {
-      "score": "112",
-      "author": "rafal_opilowski",
-      "commentCount": "94"
-    },
-    "FetchedAt": "2026-07-20T08:44:28.0410322+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48973869"
     },
     "Type": 1,
@@ -391,21 +196,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48966120"
-    },
-    "Type": 1,
-    "Title": "Qwen 3.8",
-    "Url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.qwencloud.com\u0026#x2F;pricing\u0026#x2F;token-plan\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.qwencloud.com\u0026#x2F;pricing\u0026#x2F;token-plan\u003C/a\u003E",
-    "Metadata": {
-      "score": "873",
-      "author": "nh43215rgb",
-      "commentCount": "595"
-    },
-    "FetchedAt": "2026-07-20T08:44:28.1085382+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48975245"
     },
     "Type": 1,
@@ -418,21 +208,6 @@
       "commentCount": "13"
     },
     "FetchedAt": "2026-07-20T08:44:28.1418539+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48928703"
-    },
-    "Type": 1,
-    "Title": "11,700 Free Photos from John Margolies\u0027 Archive of Americana Architecture",
-    "Url": "https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html",
-    "Description": "11,700 Free Photos from John Margolies\u0027 Archive of Americana Architecture",
-    "Metadata": {
-      "score": "60",
-      "author": "gslin",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-07-20T08:44:28.1761308+00:00"
   },
   {
     "ExternalId": {
@@ -598,5 +373,455 @@
       "commentCount": "85"
     },
     "FetchedAt": "2026-07-20T08:44:28.5831189+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48976846"
+    },
+    "Type": 1,
+    "Title": "Airport Simulator",
+    "Url": "https://airport.apunen.com/",
+    "Description": "Airport Simulator",
+    "Metadata": {
+      "score": "196",
+      "author": "apunen",
+      "commentCount": "52"
+    },
+    "FetchedAt": "2026-07-20T13:51:29.7051373+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48978605"
+    },
+    "Type": 1,
+    "Title": "Hacker wipes Romania\u0027s land registry database",
+    "Url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+    "Description": "Hacker wipes Romania\u0027s land registry database",
+    "Metadata": {
+      "score": "12",
+      "author": "speckx",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-20T13:51:29.7697423+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48975665"
+    },
+    "Type": 1,
+    "Title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+    "Url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+    "Description": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+    "Metadata": {
+      "score": "255",
+      "author": "infosecau",
+      "commentCount": "132"
+    },
+    "FetchedAt": "2026-07-20T13:51:29.83326+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48978112"
+    },
+    "Type": 1,
+    "Title": "Stop Using OpenCode",
+    "Url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
+    "Description": "Stop Using OpenCode",
+    "Metadata": {
+      "score": "91",
+      "author": "alekq",
+      "commentCount": "67"
+    },
+    "FetchedAt": "2026-07-20T13:51:29.9000016+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48977711"
+    },
+    "Type": 1,
+    "Title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
+    "Url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
+    "Description": "The EU is about to sell our most sensitive data to the US for visa-free travel",
+    "Metadata": {
+      "score": "144",
+      "author": "rapnie",
+      "commentCount": "87"
+    },
+    "FetchedAt": "2026-07-20T13:51:29.9752644+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48969530"
+    },
+    "Type": 1,
+    "Title": "ECC and DDR5",
+    "Url": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
+    "Description": "ECC and DDR5",
+    "Metadata": {
+      "score": "15",
+      "author": "zdw",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-20T13:51:30.0349179+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48978388"
+    },
+    "Type": 1,
+    "Title": "Inertia-1: An Open Exploration to a Unified Motion Foundation Model",
+    "Url": "https://yang-ai-lab.github.io/Inertia-1/",
+    "Description": "Inertia-1: An Open Exploration to a Unified Motion Foundation Model",
+    "Metadata": {
+      "score": "5",
+      "author": "hasheddan",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-20T13:51:30.1306248+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48968606"
+    },
+    "Type": 1,
+    "Title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+    "Url": "https://news.ycombinator.com/item?id=48968606",
+    "Description": "I might be the only SRE on Earth with his own bowling center. It\u0026#x27;s a more in-depth gig than you\u0026#x27;d think.\u003Cp\u003EMy family and I bought an abandoned 8-lane bowling center in the rural mid-west. In our small town there weren\u0026#x27;t many recreation options for families. You\u0026#x27;ve heard of a food desert? This is an R\u0026amp;R desert.\u003Cp\u003EIt had been abandoned for a good reason. The roof leaks, the electrical system was constantly surging, and my 70-year-old bowling equipment (still) doesn\u0026#x27;t w",
+    "Metadata": {
+      "score": "2600",
+      "author": "section33",
+      "commentCount": "289"
+    },
+    "FetchedAt": "2026-07-20T13:51:30.1889772+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48973455"
+    },
+    "Type": 1,
+    "Title": "Satan\u0027s 19th-Century Bank Note",
+    "Url": "https://www.historytoday.com/miscellanies/satans-19th-century-bank-note",
+    "Description": "Satan\u0027s 19th-Century Bank Note",
+    "Metadata": {
+      "score": "8",
+      "author": "Caiero",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-20T13:51:30.2456132+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48972970"
+    },
+    "Type": 1,
+    "Title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+    "Url": "https://github.com/hgaiser/moonshine",
+    "Description": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+    "Metadata": {
+      "score": "264",
+      "author": "wertyk",
+      "commentCount": "109"
+    },
+    "FetchedAt": "2026-07-20T13:51:30.3021561+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48953189"
+    },
+    "Type": 1,
+    "Title": "Sensing warm and cool: how the body detects temperature changes",
+    "Url": "https://news.uq.edu.au/2026-07-sensing-warm-and-cool-how-body-detects-temperature-changes",
+    "Description": "Sensing warm and cool: how the body detects temperature changes",
+    "Metadata": {
+      "score": "12",
+      "author": "hhs",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-07-20T13:51:30.388236+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48952713"
+    },
+    "Type": 1,
+    "Title": "What does the Riemann zeta function have to do with the distribution of primes?",
+    "Url": "https://hidden-phenomena.com/articles/rh",
+    "Description": "What does the Riemann zeta function have to do with the distribution of primes?",
+    "Metadata": {
+      "score": "43",
+      "author": "mb1699",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-07-20T13:51:30.4455093+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48933948"
+    },
+    "Type": 1,
+    "Title": "Moist Towelette Museum",
+    "Url": "https://moisttowelettemuseum.com/",
+    "Description": "Moist Towelette Museum",
+    "Metadata": {
+      "score": "44",
+      "author": "bookofjoe",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-07-20T13:51:30.5045807+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48974325"
+    },
+    "Type": 1,
+    "Title": "LoRA Speedrun \u2013 a public wall-clock leaderboard for fine-tuning techniques",
+    "Url": "https://github.com/Saivineeth147/lora-speedrun",
+    "Description": "LoRA Speedrun \u2013 a public wall-clock leaderboard for fine-tuning techniques",
+    "Metadata": {
+      "score": "112",
+      "author": "Vineeth147",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-07-20T13:51:30.5771863+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48966569"
+    },
+    "Type": 1,
+    "Title": "Claude Code uses Bun written in Rust now",
+    "Url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+    "Description": "Claude Code uses Bun written in Rust now",
+    "Metadata": {
+      "score": "571",
+      "author": "tosh",
+      "commentCount": "760"
+    },
+    "FetchedAt": "2026-07-20T13:51:30.6347082+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48917906"
+    },
+    "Type": 1,
+    "Title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
+    "Url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
+    "Description": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
+    "Metadata": {
+      "score": "82",
+      "author": "isaacfrond",
+      "commentCount": "58"
+    },
+    "FetchedAt": "2026-07-20T13:51:30.6922108+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48908884"
+    },
+    "Type": 1,
+    "Title": "Eliminating Go bounds checks with unsafe",
+    "Url": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe",
+    "Description": "Eliminating Go bounds checks with unsafe",
+    "Metadata": {
+      "score": "35",
+      "author": "abnercoimbre",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-07-20T13:51:30.748426+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48978331"
+    },
+    "Type": 1,
+    "Title": "Codex is wearing out our devices",
+    "Url": "https://old.reddit.com/r/codex/comments/1v0m3lt/codex_is_wearing_out_our_devices/",
+    "Description": "Codex is wearing out our devices",
+    "Metadata": {
+      "score": "10",
+      "author": "spenvo",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-07-20T13:51:30.8088541+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48970894"
+    },
+    "Type": 1,
+    "Title": "Orion Browser by Kagi",
+    "Url": "https://orionbrowser.com/",
+    "Description": "Orion Browser by Kagi",
+    "Metadata": {
+      "score": "258",
+      "author": "sebjones",
+      "commentCount": "214"
+    },
+    "FetchedAt": "2026-07-20T13:51:30.8658721+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48966713"
+    },
+    "Type": 1,
+    "Title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+    "Url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+    "Description": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+    "Metadata": {
+      "score": "522",
+      "author": "chipweinberger",
+      "commentCount": "237"
+    },
+    "FetchedAt": "2026-07-20T13:51:30.9227933+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48936994"
+    },
+    "Type": 1,
+    "Title": "1-Bit LLM in the Browser",
+    "Url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
+    "Description": "1-Bit LLM in the Browser",
+    "Metadata": {
+      "score": "73",
+      "author": "simonebrunozzi",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-07-20T13:51:31.0324873+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48974454"
+    },
+    "Type": 1,
+    "Title": "Xiaomi-Robotics-1",
+    "Url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+    "Description": "Xiaomi-Robotics-1",
+    "Metadata": {
+      "score": "326",
+      "author": "ilreb",
+      "commentCount": "222"
+    },
+    "FetchedAt": "2026-07-20T13:51:31.113416+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48967256"
+    },
+    "Type": 1,
+    "Title": "Minecraft: Java Edition now uses SDL3",
+    "Url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+    "Description": "Minecraft: Java Edition now uses SDL3",
+    "Metadata": {
+      "score": "337",
+      "author": "ObviouslyFlamer",
+      "commentCount": "223"
+    },
+    "FetchedAt": "2026-07-20T13:51:31.2376482+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48976682"
+    },
+    "Type": 1,
+    "Title": "Airbus Takes Flight from AWS",
+    "Url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
+    "Description": "Airbus Takes Flight from AWS",
+    "Metadata": {
+      "score": "153",
+      "author": "bbg2401",
+      "commentCount": "110"
+    },
+    "FetchedAt": "2026-07-20T13:51:31.3099496+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48907390"
+    },
+    "Type": 1,
+    "Title": "The Zen of Parallel Programming",
+    "Url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+    "Description": "The Zen of Parallel Programming",
+    "Metadata": {
+      "score": "180",
+      "author": "edgar_ortega",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-07-20T13:51:31.3687155+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48968063"
+    },
+    "Type": 1,
+    "Title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+    "Url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+    "Description": "Bananas sprout in Rayleigh Garden UK after 15 years",
+    "Metadata": {
+      "score": "174",
+      "author": "teleforce",
+      "commentCount": "132"
+    },
+    "FetchedAt": "2026-07-20T13:51:31.4496274+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48928703"
+    },
+    "Type": 1,
+    "Title": "11,700 Free Photos from John Margolies\u0027 Archive of Americana Architecture",
+    "Url": "https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html",
+    "Description": "11,700 Free Photos from John Margolies\u0027 Archive of Americana Architecture",
+    "Metadata": {
+      "score": "89",
+      "author": "gslin",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-07-20T13:51:31.5072741+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48970772"
+    },
+    "Type": 1,
+    "Title": "HomeLab #1: MikroTik as a Home Router",
+    "Url": "https://justsomebody.dev/blog/mikrotik-home-router",
+    "Description": "HomeLab #1: MikroTik as a Home Router",
+    "Metadata": {
+      "score": "147",
+      "author": "rafal_opilowski",
+      "commentCount": "116"
+    },
+    "FetchedAt": "2026-07-20T13:51:31.5640096+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48966120"
+    },
+    "Type": 1,
+    "Title": "Qwen 3.8",
+    "Url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.qwencloud.com\u0026#x2F;pricing\u0026#x2F;token-plan\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.qwencloud.com\u0026#x2F;pricing\u0026#x2F;token-plan\u003C/a\u003E",
+    "Metadata": {
+      "score": "916",
+      "author": "nh43215rgb",
+      "commentCount": "645"
+    },
+    "FetchedAt": "2026-07-20T13:51:31.6409035+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48974292"
+    },
+    "Type": 1,
+    "Title": "When can a power company take your land for data center infrastructure?",
+    "Url": "https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061",
+    "Description": "When can a power company take your land for data center infrastructure?",
+    "Metadata": {
+      "score": "139",
+      "author": "1vuio0pswjnm7",
+      "commentCount": "116"
+    },
+    "FetchedAt": "2026-07-20T13:51:31.6975279+00:00"
   }
 ]

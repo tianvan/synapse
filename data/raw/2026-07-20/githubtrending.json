@@ -1,56 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:kvcache-ai/ktransformers"
-    },
-    "Type": 0,
-    "Title": "kvcache-ai/ktransformers",
-    "Url": "https://github.com/kvcache-ai/ktransformers",
-    "Description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
-    "Metadata": {
-      "owner": "kvcache-ai",
-      "repo": "ktransformers",
-      "language": "Python",
-      "stars": "360"
-    },
-    "FetchedAt": "2026-07-20T08:44:25.3466955+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:jamiepine/voicebox"
-    },
-    "Type": 0,
-    "Title": "jamiepine/voicebox",
-    "Url": "https://github.com/jamiepine/voicebox",
-    "Description": "The open-source AI voice studio. Clone, dictate, create.",
-    "Metadata": {
-      "owner": "jamiepine",
-      "repo": "voicebox",
-      "language": "TypeScript",
-      "stars": "610",
-      "topics": "ai, cuda, mlx, qwen3-tts, qwen3-tts-ui, voice-ai, voice-clone, whisper"
-    },
-    "FetchedAt": "2026-07-20T08:44:25.5799231+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:KnockOutEZ/wigolo"
-    },
-    "Type": 0,
-    "Title": "KnockOutEZ/wigolo",
-    "Url": "https://github.com/KnockOutEZ/wigolo",
-    "Description": "The go-to web for your AI coding agent \u2014 local-first search, fetch, crawl \u0026 research over MCP. No API keys, no cloud, $0/query. Public beta.",
-    "Metadata": {
-      "owner": "KnockOutEZ",
-      "repo": "wigolo",
-      "language": "TypeScript",
-      "stars": "595",
-      "topics": "agent, ai, ai-agent, claude, cli, developer-tools, local-first, mcp, mcp-server, metasearch, model-context-protocol, nodejs, privacy, rag, search, search-engine, typescript, web-crawler, web-scraping, web-search"
-    },
-    "FetchedAt": "2026-07-20T08:44:25.7065955+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:andrewrabert/jellium-desktop"
     },
     "Type": 0,
@@ -117,56 +67,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:AstrBotDevs/AstrBot"
-    },
-    "Type": 0,
-    "Title": "AstrBotDevs/AstrBot",
-    "Url": "https://github.com/AstrBotDevs/AstrBot",
-    "Description": "AI Agent Assistant \u0026 development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. \u2728",
-    "Metadata": {
-      "owner": "AstrBotDevs",
-      "repo": "AstrBot",
-      "language": "Python",
-      "stars": "83",
-      "topics": "agent, ai, astrbot, chatbot, chatgpt, discord, docker, gemini, gpt, llama, llm, mcp, openai, python, qq, qqbot, telegram"
-    },
-    "FetchedAt": "2026-07-20T08:44:26.4087501+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:1jehuang/jcode"
-    },
-    "Type": 0,
-    "Title": "1jehuang/jcode",
-    "Url": "https://github.com/1jehuang/jcode",
-    "Description": "Coding Agent Harness",
-    "Metadata": {
-      "owner": "1jehuang",
-      "repo": "jcode",
-      "language": "Rust",
-      "stars": "235",
-      "topics": "ai, ai-agent, ai-coding-agent, claude, cli, coding-agent, llm, mcp, openai, rust, terminal, tui"
-    },
-    "FetchedAt": "2026-07-20T08:44:26.5682707+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:MoonshotAI/kimi-cli"
-    },
-    "Type": 0,
-    "Title": "MoonshotAI/kimi-cli",
-    "Url": "https://github.com/MoonshotAI/kimi-cli",
-    "Description": "Kimi Code CLI is your next CLI agent.",
-    "Metadata": {
-      "owner": "MoonshotAI",
-      "repo": "kimi-cli",
-      "language": "Python",
-      "stars": "410"
-    },
-    "FetchedAt": "2026-07-20T08:44:26.7002539+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:Flowseal/zapret-discord-youtube"
     },
     "Type": 0,
@@ -230,5 +130,239 @@
       "stars": "134"
     },
     "FetchedAt": "2026-07-20T08:44:27.2623029+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:1jehuang/jcode"
+    },
+    "Type": 0,
+    "Title": "1jehuang/jcode",
+    "Url": "https://github.com/1jehuang/jcode",
+    "Description": "The most intelligent agent harness for code",
+    "Metadata": {
+      "owner": "1jehuang",
+      "repo": "jcode",
+      "language": "Rust",
+      "stars": "235",
+      "topics": "ai, ai-agent, ai-coding-agent, claude, cli, coding-agent, llm, mcp, openai, rust, terminal, tui"
+    },
+    "FetchedAt": "2026-07-20T13:51:26.2343233+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:kvcache-ai/ktransformers"
+    },
+    "Type": 0,
+    "Title": "kvcache-ai/ktransformers",
+    "Url": "https://github.com/kvcache-ai/ktransformers",
+    "Description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+    "Metadata": {
+      "owner": "kvcache-ai",
+      "repo": "ktransformers",
+      "language": "Python",
+      "stars": "360"
+    },
+    "FetchedAt": "2026-07-20T13:51:26.5114966+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jamiepine/voicebox"
+    },
+    "Type": 0,
+    "Title": "jamiepine/voicebox",
+    "Url": "https://github.com/jamiepine/voicebox",
+    "Description": "The open-source AI voice studio. Clone, dictate, create.",
+    "Metadata": {
+      "owner": "jamiepine",
+      "repo": "voicebox",
+      "language": "TypeScript",
+      "stars": "610",
+      "topics": "ai, cuda, mlx, qwen3-tts, qwen3-tts-ui, voice-ai, voice-clone, whisper"
+    },
+    "FetchedAt": "2026-07-20T13:51:26.7283155+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Robbyant/lingbot-map"
+    },
+    "Type": 0,
+    "Title": "Robbyant/lingbot-map",
+    "Url": "https://github.com/Robbyant/lingbot-map",
+    "Description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+    "Metadata": {
+      "owner": "Robbyant",
+      "repo": "lingbot-map",
+      "language": "Python",
+      "stars": "865"
+    },
+    "FetchedAt": "2026-07-20T13:51:26.9298767+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:every-app/open-seo"
+    },
+    "Type": 0,
+    "Title": "every-app/open-seo",
+    "Url": "https://github.com/every-app/open-seo",
+    "Description": "Open source alternative to Semrush and Ahrefs",
+    "Metadata": {
+      "owner": "every-app",
+      "repo": "open-seo",
+      "language": "TypeScript",
+      "stars": "222",
+      "topics": "backlink-analysis, google-search-console-mcp, keyword-research, mcp, seo, seo-tools, site-audit"
+    },
+    "FetchedAt": "2026-07-20T13:51:27.1460339+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:MoonshotAI/kimi-cli"
+    },
+    "Type": 0,
+    "Title": "MoonshotAI/kimi-cli",
+    "Url": "https://github.com/MoonshotAI/kimi-cli",
+    "Description": "Kimi Code CLI is your next CLI agent.",
+    "Metadata": {
+      "owner": "MoonshotAI",
+      "repo": "kimi-cli",
+      "language": "Python",
+      "stars": "410"
+    },
+    "FetchedAt": "2026-07-20T13:51:27.3869648+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:AstrBotDevs/AstrBot"
+    },
+    "Type": 0,
+    "Title": "AstrBotDevs/AstrBot",
+    "Url": "https://github.com/AstrBotDevs/AstrBot",
+    "Description": "AI Agent Assistant \u0026 development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. \u2728",
+    "Metadata": {
+      "owner": "AstrBotDevs",
+      "repo": "AstrBot",
+      "language": "Python",
+      "stars": "83",
+      "topics": "agent, ai, astrbot, chatbot, chatgpt, discord, docker, gemini, gpt, llama, llm, mcp, openai, python, qq, qqbot, telegram"
+    },
+    "FetchedAt": "2026-07-20T13:51:27.6035485+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:PrefectHQ/fastmcp"
+    },
+    "Type": 0,
+    "Title": "PrefectHQ/fastmcp",
+    "Url": "https://github.com/PrefectHQ/fastmcp",
+    "Description": "\uD83D\uDE80 The fast, Pythonic way to build MCP servers and clients.",
+    "Metadata": {
+      "owner": "PrefectHQ",
+      "repo": "fastmcp",
+      "language": "Python",
+      "stars": "77",
+      "topics": "agents, fastmcp, llms, mcp, mcp-clients, mcp-servers, mcp-tools, model-context-protocol, python"
+    },
+    "FetchedAt": "2026-07-20T13:51:27.7960357+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:KnockOutEZ/wigolo"
+    },
+    "Type": 0,
+    "Title": "KnockOutEZ/wigolo",
+    "Url": "https://github.com/KnockOutEZ/wigolo",
+    "Description": "The go-to web for your AI coding agent \u2014 local-first search, fetch, crawl \u0026 research over MCP. No API keys, no cloud, $0/query. Public beta.",
+    "Metadata": {
+      "owner": "KnockOutEZ",
+      "repo": "wigolo",
+      "language": "TypeScript",
+      "stars": "595",
+      "topics": "agent, ai, ai-agent, claude, cli, developer-tools, local-first, mcp, mcp-server, metasearch, model-context-protocol, nodejs, privacy, rag, search, search-engine, typescript, web-crawler, web-scraping, web-search"
+    },
+    "FetchedAt": "2026-07-20T13:51:27.999062+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:iptv-org/iptv"
+    },
+    "Type": 0,
+    "Title": "iptv-org/iptv",
+    "Url": "https://github.com/iptv-org/iptv",
+    "Description": "Collection of publicly available IPTV channels from all over the world",
+    "Metadata": {
+      "owner": "iptv-org",
+      "repo": "iptv",
+      "language": "TypeScript",
+      "stars": "144",
+      "topics": "iptv, m3u, playlist, streams, tv"
+    },
+    "FetchedAt": "2026-07-20T13:51:28.2755222+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:oblien/openship"
+    },
+    "Type": 0,
+    "Title": "oblien/openship",
+    "Url": "https://github.com/oblien/openship",
+    "Description": "Self-hosted deployment platform",
+    "Metadata": {
+      "owner": "oblien",
+      "repo": "openship",
+      "language": "TypeScript",
+      "stars": "1,719",
+      "topics": "agents, ai, deployments, self-hosted"
+    },
+    "FetchedAt": "2026-07-20T13:51:28.4999578+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:microsoft/Ontology-Playground"
+    },
+    "Type": 0,
+    "Title": "microsoft/Ontology-Playground",
+    "Url": "https://github.com/microsoft/Ontology-Playground",
+    "Description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+    "Metadata": {
+      "owner": "microsoft",
+      "repo": "Ontology-Playground",
+      "language": "TypeScript",
+      "stars": "487"
+    },
+    "FetchedAt": "2026-07-20T13:51:28.7278008+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:handy-computer/transcribe.cpp"
+    },
+    "Type": 0,
+    "Title": "handy-computer/transcribe.cpp",
+    "Url": "https://github.com/handy-computer/transcribe.cpp",
+    "Description": " ggml speech-to-text inference for 16\u002B model families",
+    "Metadata": {
+      "owner": "handy-computer",
+      "repo": "transcribe.cpp",
+      "language": "C\u002B\u002B",
+      "stars": "401",
+      "topics": "asr, ggml, gguf, speech-to-text"
+    },
+    "FetchedAt": "2026-07-20T13:51:28.9148713+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:moonshine-ai/moonshine"
+    },
+    "Type": 0,
+    "Title": "moonshine-ai/moonshine",
+    "Url": "https://github.com/moonshine-ai/moonshine",
+    "Description": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
+    "Metadata": {
+      "owner": "moonshine-ai",
+      "repo": "moonshine",
+      "language": "C\u002B\u002B",
+      "stars": "264",
+      "topics": "intent-recognition, stt, tts, voice, voice-recognition"
+    },
+    "FetchedAt": "2026-07-20T13:51:29.1359727+00:00"
   }
 ]
