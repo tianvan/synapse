@@ -1,6 +1,23 @@
 [
   {
     "ExternalId": {
+      "Value": "github:bojieli/ai-agent-book"
+    },
+    "Type": 0,
+    "Title": "bojieli/ai-agent-book",
+    "Url": "https://github.com/bojieli/ai-agent-book",
+    "Description": "\u300A\u6DF1\u5165\u7406\u89E3 AI Agent\uFF1A\u8BBE\u8BA1\u539F\u7406\u4E0E\u5DE5\u7A0B\u5B9E\u8DF5\u300B\uFF08\u674E\u535A\u6770 \u8457\uFF09\u5F00\u6E90\u4E3B\u4ED3\u5E93\uFF1A\u5168\u4E66\u6B63\u6587\u3001\u7F16\u8BD1\u7248 PDF \u4E0E\u6309\u7AE0\u914D\u5957\u4EE3\u7801",
+    "Metadata": {
+      "owner": "bojieli",
+      "repo": "ai-agent-book",
+      "language": "Python",
+      "stars": "4,434",
+      "topics": "agent, agent-memory, ai-agent, book, coding-agent, context-engineering, large-language-models, llm, mcp, multi-agent, multimodal, rag, reinforcement-learning"
+    },
+    "FetchedAt": "2026-07-21T08:11:41.5752261+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:1jehuang/jcode"
     },
     "Type": 0,
@@ -14,7 +31,7 @@
       "stars": "568",
       "topics": "ai, ai-agent, ai-coding-agent, claude, cli, coding-agent, llm, mcp, openai, rust, terminal, tui"
     },
-    "FetchedAt": "2026-07-21T01:56:23.4020039+00:00"
+    "FetchedAt": "2026-07-21T08:11:41.8601327+00:00"
   },
   {
     "ExternalId": {
@@ -30,7 +47,7 @@
       "language": "Python",
       "stars": "458"
     },
-    "FetchedAt": "2026-07-21T01:56:23.6682475+00:00"
+    "FetchedAt": "2026-07-21T08:11:42.0623558+00:00"
   },
   {
     "ExternalId": {
@@ -47,7 +64,7 @@
       "stars": "821",
       "topics": "ai, cuda, mlx, qwen3-tts, qwen3-tts-ui, voice-ai, voice-clone, whisper"
     },
-    "FetchedAt": "2026-07-21T01:56:23.8404546+00:00"
+    "FetchedAt": "2026-07-21T08:11:42.2775478+00:00"
   },
   {
     "ExternalId": {
@@ -63,7 +80,7 @@
       "language": "Python",
       "stars": "565"
     },
-    "FetchedAt": "2026-07-21T01:56:24.0451146+00:00"
+    "FetchedAt": "2026-07-21T08:11:42.4713424+00:00"
   },
   {
     "ExternalId": {
@@ -80,7 +97,7 @@
       "stars": "939",
       "topics": "backlink-analysis, google-search-console-mcp, keyword-research, mcp, seo, seo-tools, site-audit"
     },
-    "FetchedAt": "2026-07-21T01:56:24.2240837+00:00"
+    "FetchedAt": "2026-07-21T08:11:42.6841858+00:00"
   },
   {
     "ExternalId": {
@@ -96,7 +113,7 @@
       "language": "Python",
       "stars": "410"
     },
-    "FetchedAt": "2026-07-21T01:56:24.4144331+00:00"
+    "FetchedAt": "2026-07-21T08:11:42.8714905+00:00"
   },
   {
     "ExternalId": {
@@ -113,7 +130,7 @@
       "stars": "317",
       "topics": "agent, ai, astrbot, chatbot, chatgpt, discord, docker, gemini, gpt, llama, llm, mcp, openai, python, qq, qqbot, telegram"
     },
-    "FetchedAt": "2026-07-21T01:56:24.5838258+00:00"
+    "FetchedAt": "2026-07-21T08:11:43.0508126+00:00"
   },
   {
     "ExternalId": {
@@ -130,7 +147,7 @@
       "stars": "96",
       "topics": "agents, fastmcp, llms, mcp, mcp-clients, mcp-servers, mcp-tools, model-context-protocol, python"
     },
-    "FetchedAt": "2026-07-21T01:56:24.7764795+00:00"
+    "FetchedAt": "2026-07-21T08:11:43.2473503+00:00"
   },
   {
     "ExternalId": {
@@ -147,7 +164,7 @@
       "stars": "689",
       "topics": "agent, ai, ai-agent, claude, cli, developer-tools, local-first, mcp, mcp-server, metasearch, model-context-protocol, nodejs, privacy, rag, search, search-engine, typescript, web-crawler, web-scraping, web-search"
     },
-    "FetchedAt": "2026-07-21T01:56:24.9704593+00:00"
+    "FetchedAt": "2026-07-21T08:11:43.472339+00:00"
   },
   {
     "ExternalId": {
@@ -164,7 +181,7 @@
       "stars": "240",
       "topics": "iptv, m3u, playlist, streams, tv"
     },
-    "FetchedAt": "2026-07-21T01:56:25.1527252+00:00"
+    "FetchedAt": "2026-07-21T08:11:43.6685086+00:00"
   },
   {
     "ExternalId": {
@@ -181,7 +198,7 @@
       "stars": "1,641",
       "topics": "agents, ai, deployments, self-hosted"
     },
-    "FetchedAt": "2026-07-21T01:56:25.3386055+00:00"
+    "FetchedAt": "2026-07-21T08:11:43.8404347+00:00"
   },
   {
     "ExternalId": {
@@ -197,7 +214,7 @@
       "language": "TypeScript",
       "stars": "464"
     },
-    "FetchedAt": "2026-07-21T01:56:25.5499627+00:00"
+    "FetchedAt": "2026-07-21T08:11:44.0274726+00:00"
   },
   {
     "ExternalId": {
@@ -214,7 +231,7 @@
       "stars": "395",
       "topics": "asr, ggml, gguf, speech-to-text"
     },
-    "FetchedAt": "2026-07-21T01:56:25.7623726+00:00"
+    "FetchedAt": "2026-07-21T08:11:44.2147018+00:00"
   },
   {
     "ExternalId": {
@@ -231,6 +248,6 @@
       "stars": "282",
       "topics": "intent-recognition, stt, tts, voice, voice-recognition"
     },
-    "FetchedAt": "2026-07-21T01:56:25.9705181+00:00"
+    "FetchedAt": "2026-07-21T08:11:44.3920259+00:00"
   }
 ]
