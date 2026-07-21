@@ -147,7 +147,7 @@
       "stars": "1,167",
       "topics": "agent, ai, dashboard, geopolitics, mcp, mcp-server, monitoring, news, opensource, osint, palantir, situation"
     },
-    "FetchedAt": "2026-07-21T13:21:17.7716964+00:00"
+    "FetchedAt": "2026-07-21T19:06:49.4450356+00:00"
   },
   {
     "ExternalId": {
@@ -164,7 +164,7 @@
       "stars": "4,434",
       "topics": "agent, agent-memory, ai-agent, book, coding-agent, context-engineering, large-language-models, llm, mcp, multi-agent, multimodal, rag, reinforcement-learning"
     },
-    "FetchedAt": "2026-07-21T13:21:18.0031191+00:00"
+    "FetchedAt": "2026-07-21T19:06:49.7062879+00:00"
   },
   {
     "ExternalId": {
@@ -180,7 +180,7 @@
       "stars": "1,846",
       "topics": "adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity"
     },
-    "FetchedAt": "2026-07-21T13:21:18.1528191+00:00"
+    "FetchedAt": "2026-07-21T19:06:49.8848321+00:00"
   },
   {
     "ExternalId": {
@@ -194,10 +194,10 @@
       "owner": "earthtojake",
       "repo": "text-to-cad",
       "language": "JavaScript",
-      "stars": "297",
+      "stars": "378",
       "topics": "3mf, agents, ai-agents, build123d, cad, dxf, glb, mechanical-engineering, opencascade, robotics, sdf, srdf, step, stl, stp, text-to-cad, urdf"
     },
-    "FetchedAt": "2026-07-21T13:21:18.2861997+00:00"
+    "FetchedAt": "2026-07-21T19:06:50.0576547+00:00"
   },
   {
     "ExternalId": {
@@ -214,7 +214,7 @@
       "stars": "835",
       "topics": "ai, ai-agent, ai-coding-agent, claude, cli, coding-agent, llm, mcp, openai, rust, terminal, tui"
     },
-    "FetchedAt": "2026-07-21T13:21:18.4259977+00:00"
+    "FetchedAt": "2026-07-21T19:06:50.2455607+00:00"
   },
   {
     "ExternalId": {
@@ -231,7 +231,7 @@
       "stars": "1,556",
       "topics": "agents, ai, deployments, self-hosted"
     },
-    "FetchedAt": "2026-07-21T13:21:18.569285+00:00"
+    "FetchedAt": "2026-07-21T19:06:50.4276681+00:00"
   },
   {
     "ExternalId": {
@@ -248,7 +248,7 @@
       "stars": "416",
       "topics": "agent, ai, astrbot, chatbot, chatgpt, discord, docker, gemini, gpt, llama, llm, mcp, openai, python, qq, qqbot, telegram"
     },
-    "FetchedAt": "2026-07-21T13:21:18.7285737+00:00"
+    "FetchedAt": "2026-07-21T19:06:50.6087107+00:00"
   },
   {
     "ExternalId": {
@@ -265,7 +265,7 @@
       "stars": "850",
       "topics": "backlink-analysis, google-search-console-mcp, keyword-research, mcp, seo, seo-tools, site-audit"
     },
-    "FetchedAt": "2026-07-21T13:21:18.8846257+00:00"
+    "FetchedAt": "2026-07-21T19:06:50.802826+00:00"
   },
   {
     "ExternalId": {
@@ -279,9 +279,9 @@
       "owner": "tradesdontlie",
       "repo": "tradingview-mcp",
       "language": "JavaScript",
-      "stars": "28"
+      "stars": "219"
     },
-    "FetchedAt": "2026-07-21T13:21:19.0296175+00:00"
+    "FetchedAt": "2026-07-21T19:06:51.0259435+00:00"
   },
   {
     "ExternalId": {
@@ -295,10 +295,10 @@
       "owner": "hyprwm",
       "repo": "Hyprland",
       "language": "C\u002B\u002B",
-      "stars": "24",
+      "stars": "88",
       "topics": "compositor, cpp26, wayland, wayland-compositor"
     },
-    "FetchedAt": "2026-07-21T13:21:19.1608516+00:00"
+    "FetchedAt": "2026-07-21T19:06:51.2201943+00:00"
   },
   {
     "ExternalId": {
@@ -314,7 +314,23 @@
       "language": "Python",
       "stars": "14"
     },
-    "FetchedAt": "2026-07-21T13:21:19.3248095+00:00"
+    "FetchedAt": "2026-07-21T19:06:51.4507019+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:agegr/pi-web"
+    },
+    "Type": 0,
+    "Title": "agegr/pi-web",
+    "Url": "https://github.com/agegr/pi-web",
+    "Description": "Web UI for the pi coding agent",
+    "Metadata": {
+      "owner": "agegr",
+      "repo": "pi-web",
+      "language": "TypeScript",
+      "stars": "286"
+    },
+    "FetchedAt": "2026-07-21T19:06:51.6588761+00:00"
   },
   {
     "ExternalId": {
@@ -330,7 +346,7 @@
       "language": "TypeScript",
       "stars": "355"
     },
-    "FetchedAt": "2026-07-21T13:21:19.4741395+00:00"
+    "FetchedAt": "2026-07-21T19:06:51.8699405+00:00"
   },
   {
     "ExternalId": {
@@ -347,7 +363,7 @@
       "stars": "49",
       "topics": "cfg, generative-ai, json, llms, prompt-engineering, regex, structured-generation, symbolic-ai"
     },
-    "FetchedAt": "2026-07-21T13:21:19.6183093+00:00"
+    "FetchedAt": "2026-07-21T19:06:52.0538896+00:00"
   },
   {
     "ExternalId": {
@@ -364,6 +380,6 @@
       "stars": "641",
       "topics": "agent, ai, ai-agent, claude, cli, developer-tools, local-first, mcp, mcp-server, metasearch, model-context-protocol, nodejs, privacy, rag, search, search-engine, typescript, web-crawler, web-scraping, web-search"
     },
-    "FetchedAt": "2026-07-21T13:21:19.7656251+00:00"
+    "FetchedAt": "2026-07-21T19:06:52.2853948+00:00"
   }
 ]
