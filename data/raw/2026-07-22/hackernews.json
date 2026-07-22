@@ -376,21 +376,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48969200"
-    },
-    "Type": 1,
-    "Title": "Introduction to Formal Verification with Lean Part 1",
-    "Url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
-    "Description": "Introduction to Formal Verification with Lean Part 1",
-    "Metadata": {
-      "score": "107",
-      "author": "badcryptobitch",
-      "commentCount": "10"
-    },
-    "FetchedAt": "2026-07-22T13:25:30.8612231+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48999291"
     },
     "Type": 1,
@@ -406,21 +391,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:48961698"
-    },
-    "Type": 1,
-    "Title": "Intel Starts Shipping High-NA EUV Silicon",
-    "Url": "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv",
-    "Description": "Intel Starts Shipping High-NA EUV Silicon",
-    "Metadata": {
-      "score": "142",
-      "author": "zdw",
-      "commentCount": "51"
-    },
-    "FetchedAt": "2026-07-22T13:25:30.9796302+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49005747"
     },
     "Type": 1,
@@ -433,36 +403,6 @@
       "commentCount": "55"
     },
     "FetchedAt": "2026-07-22T13:25:31.0358488+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48962282"
-    },
-    "Type": 1,
-    "Title": "Cornell\u0027s Interactive Wall of Birds",
-    "Url": "https://academy.allaboutbirds.org/features/wallofbirds/?_hsmi=428996456",
-    "Description": "Cornell\u0027s Interactive Wall of Birds",
-    "Metadata": {
-      "score": "11",
-      "author": "yareally",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-07-22T13:25:31.091679+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49002166"
-    },
-    "Type": 1,
-    "Title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
-    "Url": "https://github.com/chrislgarry/Apollo-11",
-    "Description": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
-    "Metadata": {
-      "score": "108",
-      "author": "noteness",
-      "commentCount": "31"
-    },
-    "FetchedAt": "2026-07-22T13:25:31.1492837+00:00"
   },
   {
     "ExternalId": {
@@ -493,21 +433,6 @@
       "commentCount": "22"
     },
     "FetchedAt": "2026-07-22T13:25:31.2607702+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49005329"
-    },
-    "Type": 1,
-    "Title": "10 REM\u0022_(C2SLFF4",
-    "Url": "https://beej.us/blog/data/mystery-comment/",
-    "Description": "10 REM\u0022_(C2SLFF4",
-    "Metadata": {
-      "score": "9",
-      "author": "ingve",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-07-22T13:25:31.3168976+00:00"
   },
   {
     "ExternalId": {
@@ -763,5 +688,455 @@
       "commentCount": "60"
     },
     "FetchedAt": "2026-07-22T13:25:32.2744875+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49010345"
+    },
+    "Type": 1,
+    "Title": "Terrence Tao\u0027s ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+    "Url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+    "Description": "Terrence Tao\u0027s ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+    "Metadata": {
+      "score": "206",
+      "author": "gmays",
+      "commentCount": "94"
+    },
+    "FetchedAt": "2026-07-22T19:00:18.1001113+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49010167"
+    },
+    "Type": 1,
+    "Title": "GigaToken: ~1000x faster Language model tokenization",
+    "Url": "https://github.com/marcelroed/gigatoken/",
+    "Description": "GigaToken: ~1000x faster Language model tokenization",
+    "Metadata": {
+      "score": "115",
+      "author": "syrusakbary",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-07-22T19:00:18.1371689+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49008211"
+    },
+    "Type": 1,
+    "Title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit\u002Bview\u002Bdata\u002Bcollab)",
+    "Url": "https://bento.page/slides/",
+    "Description": "Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness.\u003Cp\u003ETo avoid this loop, I ended up creating Bento, a single HTML file with everything you need in a slide tool including animations and shared editing. There\u0026#x27;s no install or cloud login, everything works offline. The default deck is ar",
+    "Metadata": {
+      "score": "419",
+      "author": "starfallg",
+      "commentCount": "85"
+    },
+    "FetchedAt": "2026-07-22T19:00:18.1903364+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49008440"
+    },
+    "Type": 1,
+    "Title": "Making",
+    "Url": "https://beej.us/blog/data/ai-making/",
+    "Description": "Making",
+    "Metadata": {
+      "score": "162",
+      "author": "erikschoster",
+      "commentCount": "62"
+    },
+    "FetchedAt": "2026-07-22T19:00:18.2487624+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49005787"
+    },
+    "Type": 1,
+    "Title": "The startup\u0027s Postgres survival guide",
+    "Url": "https://hatchet.run/blog/postgres-survival-guide",
+    "Description": "The startup\u0027s Postgres survival guide",
+    "Metadata": {
+      "score": "205",
+      "author": "abelanger",
+      "commentCount": "107"
+    },
+    "FetchedAt": "2026-07-22T19:00:18.2956647+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49010129"
+    },
+    "Type": 1,
+    "Title": "Are AI Labs Pelicanmaxxing?",
+    "Url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+    "Description": "Are AI Labs Pelicanmaxxing?",
+    "Metadata": {
+      "score": "47",
+      "author": "dcastm",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-07-22T19:00:18.3571881+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48917135"
+    },
+    "Type": 1,
+    "Title": "Nobody knows what a used GPU cluster is worth",
+    "Url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
+    "Description": "Nobody knows what a used GPU cluster is worth",
+    "Metadata": {
+      "score": "46",
+      "author": "rbanffy",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-07-22T19:00:18.3988374+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49008538"
+    },
+    "Type": 1,
+    "Title": "Can a MUD evaluate LLMs? A $99 proof of concept",
+    "Url": "https://cruciblebench.ai/",
+    "Description": "I\u0026#x27;m the author of a paper my friends and I wrote after we were curious if a MUD, text games originating in the 1970s, could be used to evaluate LLMs. We\u0026#x27;ve spent the last several months on nights and weekends running this experiment and writing the paper on just our personal computers with about $99 in API credits.\u003Cp\u003EOur experiment did have an interesting leaderboard but even more surprising was the measurements of each LLM. We scored each on four behavioral dimensions, two of which le",
+    "Metadata": {
+      "score": "54",
+      "author": "Davisb135",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-07-22T19:00:18.4651901+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49008901"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Unlayer (YC W22) \u2013 Add email and document builders to your app",
+    "Url": "https://unlayer.com",
+    "Description": "Hi HN, We\u2019re Adeel and Umair, co-founders of Unlayer (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;unlayer.com\u0026#x2F;\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;unlayer.com\u0026#x2F;\u003C/a\u003E). We let you add content creation to your applications without having to build an entire editor, renderer, template, and export stack yourself. Unlayer lets you create emails, web pages, and documents inside your app, in three different ways: in code, visually, or with AI.\u003Cp\u003EHere\u2019s a demo: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=0HsDtNkdMpM\u0022 ",
+    "Metadata": {
+      "score": "27",
+      "author": "adeelraza",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-07-22T19:00:18.5194229+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48913145"
+    },
+    "Type": 1,
+    "Title": "Mechanical light bulb from 1675 [video]",
+    "Url": "https://www.youtube.com/watch?v=0Y-9GbsS9Fg",
+    "Description": "Mechanical light bulb from 1675 [video]",
+    "Metadata": {
+      "score": "37",
+      "author": "kadohg",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-07-22T19:00:18.5606604+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49007863"
+    },
+    "Type": 1,
+    "Title": "Perlin\u0027s Noise Algorithm",
+    "Url": "https://blog.jaysmito.dev/blog/02-perlins-noise-algorithm/",
+    "Description": "Perlin\u0027s Noise Algorithm",
+    "Metadata": {
+      "score": "47",
+      "author": "ibobev",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-07-22T19:00:18.7321542+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49008406"
+    },
+    "Type": 1,
+    "Title": "Show HN: HN Hall of Fame \u2013 browse 3,100 legendary Hacker News links",
+    "Url": "https://www.orangecrumbs.com/hall/",
+    "Description": "Show HN: HN Hall of Fame \u2013 browse 3,100 legendary Hacker News links",
+    "Metadata": {
+      "score": "141",
+      "author": "oyster143",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-07-22T19:00:18.803854+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49005329"
+    },
+    "Type": 1,
+    "Title": "10 REM\u0022_(C2SLFF4",
+    "Url": "https://beej.us/blog/data/mystery-comment/",
+    "Description": "10 REM\u0022_(C2SLFF4",
+    "Metadata": {
+      "score": "128",
+      "author": "ingve",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-07-22T19:00:18.8871915+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49007610"
+    },
+    "Type": 1,
+    "Title": "\u0022We have information that Moonshot distilled Fable for the development of K3\u0022",
+    "Url": "https://twitter.com/mkratsios47/status/2079933645888880708",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;mkratsios47\u0026#x2F;status\u0026#x2F;2079933645888880708\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;mkratsios47\u0026#x2F;status\u0026#x2F;2079933645888880708\u003C/a\u003E",
+    "Metadata": {
+      "score": "112",
+      "author": "softwaredoug",
+      "commentCount": "247"
+    },
+    "FetchedAt": "2026-07-22T19:00:19.0026867+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48980286"
+    },
+    "Type": 1,
+    "Title": "Show HN: DeepSQL \u2013 A self-hostable DBA agent for Postgres and MySQL",
+    "Url": "https://deepsql.ai/",
+    "Description": "Hi HN - I\u0026#x27;m Venkat, founder of Stayflexi (YC), CMU CS grad and Ex-Oracle Query Engine team (patents in core databases)\u003Cp\u003EDeepSQL started as an internal tool to stop our own databases from becoming the bottleneck they were becoming (13,000\u002B hotels in production). It worked well enough that we\u0026#x27;re releasing it.\u003Cp\u003EDeepSQL is an AI agent that operates a database the way a senior DBA and Data Engineer would\u003Cp\u003E1. Fixes slow queries (we cutdown DB spend by 4x)\n2. Fixes DB bloat (blocks unneces",
+    "Metadata": {
+      "score": "18",
+      "author": "venkat971",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-07-22T19:00:19.0537224+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48969200"
+    },
+    "Type": 1,
+    "Title": "Introduction to Formal Verification with Lean Part 1",
+    "Url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
+    "Description": "Introduction to Formal Verification with Lean Part 1",
+    "Metadata": {
+      "score": "205",
+      "author": "badcryptobitch",
+      "commentCount": "40"
+    },
+    "FetchedAt": "2026-07-22T19:00:19.0961671+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48947922"
+    },
+    "Type": 1,
+    "Title": "I tried to record music onto a cassette tape using modern tech",
+    "Url": "https://swiftrocks.com/i-tried-to-record-music-onto-a-cassette-tape-using-modern-tech",
+    "Description": "I tried to record music onto a cassette tape using modern tech",
+    "Metadata": {
+      "score": "14",
+      "author": "rockbruno",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-07-22T19:00:19.1323399+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49007626"
+    },
+    "Type": 1,
+    "Title": "Ghost Cut \u2013 or why Cut and Paste is broken everywhere",
+    "Url": "https://ishmael.textualize.io/blog/ghost-cut/",
+    "Description": "Ghost Cut \u2013 or why Cut and Paste is broken everywhere",
+    "Metadata": {
+      "score": "60",
+      "author": "willm",
+      "commentCount": "48"
+    },
+    "FetchedAt": "2026-07-22T19:00:19.1683928+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49007374"
+    },
+    "Type": 1,
+    "Title": "Passkeys were invented by engineers with zero understanding of consumer brain",
+    "Url": "https://twitter.com/nikitabier/status/2079787406300266743",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;nikitabier\u0026#x2F;status\u0026#x2F;2079787406300266743\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;nikitabier\u0026#x2F;status\u0026#x2F;2079787406300266743\u003C/a\u003E",
+    "Metadata": {
+      "score": "283",
+      "author": "ksec",
+      "commentCount": "368"
+    },
+    "FetchedAt": "2026-07-22T19:00:19.2091297+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49008143"
+    },
+    "Type": 1,
+    "Title": "Neo Radar: A browser-based orbital mechanics engine with 41k real asteroids",
+    "Url": "https://neoradar.space",
+    "Description": "Neo Radar: A browser-based orbital mechanics engine with 41k real asteroids",
+    "Metadata": {
+      "score": "42",
+      "author": "daviazpen",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-07-22T19:00:19.2491067+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49007524"
+    },
+    "Type": 1,
+    "Title": "OpenNode \u2013 Bitcoin Payment Processor",
+    "Url": "https://opennode.com/",
+    "Description": "OpenNode \u2013 Bitcoin Payment Processor",
+    "Metadata": {
+      "score": "86",
+      "author": "gurjeet",
+      "commentCount": "72"
+    },
+    "FetchedAt": "2026-07-22T19:00:19.2850652+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49007620"
+    },
+    "Type": 1,
+    "Title": "Hologram works. Elixir runs in the browser",
+    "Url": "https://hologram.page/blog/backing-hologram",
+    "Description": "Hologram works. Elixir runs in the browser",
+    "Metadata": {
+      "score": "63",
+      "author": "lawik",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-07-22T19:00:19.3242133+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49009324"
+    },
+    "Type": 1,
+    "Title": "Show HN: Web swing through midtown NYC",
+    "Url": "https://www.swingnyc.com/",
+    "Description": "Show HN: Web swing through midtown NYC",
+    "Metadata": {
+      "score": "36",
+      "author": "shahahmed",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-07-22T19:00:19.3608616+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49007249"
+    },
+    "Type": 1,
+    "Title": "When Is NVLink Worth It?",
+    "Url": "https://platform-fools.com/posts/2026-04-27-nvlink/",
+    "Description": "When Is NVLink Worth It?",
+    "Metadata": {
+      "score": "30",
+      "author": "ak_t",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-07-22T19:00:19.3992203+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48961698"
+    },
+    "Type": 1,
+    "Title": "Intel Starts Shipping High-NA EUV Silicon",
+    "Url": "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv",
+    "Description": "Intel Starts Shipping High-NA EUV Silicon",
+    "Metadata": {
+      "score": "212",
+      "author": "zdw",
+      "commentCount": "90"
+    },
+    "FetchedAt": "2026-07-22T19:00:19.438932+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48962282"
+    },
+    "Type": 1,
+    "Title": "Cornell\u0027s Interactive Wall of Birds",
+    "Url": "https://academy.allaboutbirds.org/features/wallofbirds/?_hsmi=428996456",
+    "Description": "Cornell\u0027s Interactive Wall of Birds",
+    "Metadata": {
+      "score": "82",
+      "author": "yareally",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-07-22T19:00:19.4765651+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49007831"
+    },
+    "Type": 1,
+    "Title": "Airbus Full Scale Foldable Wing Extensions",
+    "Url": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow",
+    "Description": "Airbus Full Scale Foldable Wing Extensions",
+    "Metadata": {
+      "score": "49",
+      "author": "r2sk5t",
+      "commentCount": "44"
+    },
+    "FetchedAt": "2026-07-22T19:00:19.5127227+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49007525"
+    },
+    "Type": 1,
+    "Title": "Most Americans say \u0022not in my backyard\u0022 to AI data centers",
+    "Url": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/",
+    "Description": "Most Americans say \u0022not in my backyard\u0022 to AI data centers",
+    "Metadata": {
+      "score": "100",
+      "author": "toomuchtodo",
+      "commentCount": "208"
+    },
+    "FetchedAt": "2026-07-22T19:00:19.5398669+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49002166"
+    },
+    "Type": 1,
+    "Title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
+    "Url": "https://github.com/chrislgarry/Apollo-11",
+    "Description": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
+    "Metadata": {
+      "score": "160",
+      "author": "noteness",
+      "commentCount": "49"
+    },
+    "FetchedAt": "2026-07-22T19:00:19.5676471+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49010648"
+    },
+    "Type": 1,
+    "Title": "Everyone Should Know SIMD",
+    "Url": "https://mitchellh.com/writing/everyone-should-know-simd",
+    "Description": "Everyone Should Know SIMD",
+    "Metadata": {
+      "score": "9",
+      "author": "WadeGrimridge",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-22T19:00:19.5962458+00:00"
   }
 ]
