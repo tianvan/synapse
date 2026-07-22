@@ -1,23 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:koala73/worldmonitor"
-    },
-    "Type": 0,
-    "Title": "koala73/worldmonitor",
-    "Url": "https://github.com/koala73/worldmonitor",
-    "Description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-    "Metadata": {
-      "owner": "koala73",
-      "repo": "worldmonitor",
-      "language": "TypeScript",
-      "stars": "1,295",
-      "topics": "agent, ai, dashboard, geopolitics, mcp, mcp-server, monitoring, news, opensource, osint, palantir, situation"
-    },
-    "FetchedAt": "2026-07-22T08:12:03.3444908+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:bojieli/ai-agent-book"
     },
     "Type": 0,
@@ -32,23 +15,6 @@
       "topics": "agent, agent-memory, ai-agent, book, coding-agent, context-engineering, large-language-models, llm, mcp, multi-agent, multimodal, rag, reinforcement-learning"
     },
     "FetchedAt": "2026-07-22T08:12:03.5813709+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:ayghri/i-have-adhd"
-    },
-    "Type": 0,
-    "Title": "ayghri/i-have-adhd",
-    "Url": "https://github.com/ayghri/i-have-adhd",
-    "Description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-    "Metadata": {
-      "owner": "ayghri",
-      "repo": "i-have-adhd",
-      "language": "Python",
-      "stars": "1,866",
-      "topics": "adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity"
-    },
-    "FetchedAt": "2026-07-22T08:12:03.8048102+00:00"
   },
   {
     "ExternalId": {
@@ -83,23 +49,6 @@
       "topics": "ai, ai-agent, ai-coding-agent, claude, cli, coding-agent, llm, mcp, openai, rust, terminal, tui"
     },
     "FetchedAt": "2026-07-22T08:12:04.3166943+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:oblien/openship"
-    },
-    "Type": 0,
-    "Title": "oblien/openship",
-    "Url": "https://github.com/oblien/openship",
-    "Description": "Self-hosted deployment platform",
-    "Metadata": {
-      "owner": "oblien",
-      "repo": "openship",
-      "language": "TypeScript",
-      "stars": "1,562",
-      "topics": "agents, ai, deployments, self-hosted"
-    },
-    "FetchedAt": "2026-07-22T08:12:04.5519794+00:00"
   },
   {
     "ExternalId": {
@@ -153,23 +102,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:hyprwm/Hyprland"
-    },
-    "Type": 0,
-    "Title": "hyprwm/Hyprland",
-    "Url": "https://github.com/hyprwm/Hyprland",
-    "Description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn\u0027t sacrifice on its looks.",
-    "Metadata": {
-      "owner": "hyprwm",
-      "repo": "Hyprland",
-      "language": "C\u002B\u002B",
-      "stars": "58",
-      "topics": "compositor, cpp26, wayland, wayland-compositor"
-    },
-    "FetchedAt": "2026-07-22T08:12:05.4742375+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:langchain-ai/open_deep_research"
     },
     "Type": 0,
@@ -183,22 +115,6 @@
       "stars": "23"
     },
     "FetchedAt": "2026-07-22T08:12:05.6689791+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:agegr/pi-web"
-    },
-    "Type": 0,
-    "Title": "agegr/pi-web",
-    "Url": "https://github.com/agegr/pi-web",
-    "Description": "Web UI for the pi coding agent",
-    "Metadata": {
-      "owner": "agegr",
-      "repo": "pi-web",
-      "language": "TypeScript",
-      "stars": "298"
-    },
-    "FetchedAt": "2026-07-22T08:12:05.8868192+00:00"
   },
   {
     "ExternalId": {
@@ -218,23 +134,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:dottxt-ai/outlines"
-    },
-    "Type": 0,
-    "Title": "dottxt-ai/outlines",
-    "Url": "https://github.com/dottxt-ai/outlines",
-    "Description": "Structured Outputs",
-    "Metadata": {
-      "owner": "dottxt-ai",
-      "repo": "outlines",
-      "language": "Python",
-      "stars": "65",
-      "topics": "cfg, generative-ai, json, llms, prompt-engineering, regex, structured-generation, symbolic-ai"
-    },
-    "FetchedAt": "2026-07-22T08:12:06.3084449+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:KnockOutEZ/wigolo"
     },
     "Type": 0,
@@ -249,5 +148,190 @@
       "topics": "agent, ai, ai-agent, claude, cli, developer-tools, local-first, mcp, mcp-server, metasearch, model-context-protocol, nodejs, privacy, rag, search, search-engine, typescript, web-crawler, web-scraping, web-search"
     },
     "FetchedAt": "2026-07-22T08:12:06.5731721+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:koala73/worldmonitor"
+    },
+    "Type": 0,
+    "Title": "koala73/worldmonitor",
+    "Url": "https://github.com/koala73/worldmonitor",
+    "Description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "Metadata": {
+      "owner": "koala73",
+      "repo": "worldmonitor",
+      "language": "TypeScript",
+      "stars": "4,131",
+      "topics": "agent, ai, dashboard, geopolitics, mcp, mcp-server, monitoring, news, opensource, osint, palantir, situation"
+    },
+    "FetchedAt": "2026-07-22T13:25:28.1379905+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ruvnet/RuView"
+    },
+    "Type": 0,
+    "Title": "ruvnet/RuView",
+    "Url": "https://github.com/ruvnet/RuView",
+    "Description": "\u03C0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+    "Metadata": {
+      "owner": "ruvnet",
+      "repo": "RuView",
+      "language": "Rust",
+      "stars": "1,114",
+      "topics": "awesome, claude, densepose, esp32, firmware, home-assistant, home-automation, iot, monitoring, networking, npm, pose-estimation, react, rf, self-learning, skills, spatial-intelligence, typescript, wifi, wifi-security"
+    },
+    "FetchedAt": "2026-07-22T13:25:28.4073173+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ayghri/i-have-adhd"
+    },
+    "Type": 0,
+    "Title": "ayghri/i-have-adhd",
+    "Url": "https://github.com/ayghri/i-have-adhd",
+    "Description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+    "Metadata": {
+      "owner": "ayghri",
+      "repo": "i-have-adhd",
+      "language": "Python",
+      "stars": "1,682",
+      "topics": "adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity"
+    },
+    "FetchedAt": "2026-07-22T13:25:28.6478501+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jamiepine/voicebox"
+    },
+    "Type": 0,
+    "Title": "jamiepine/voicebox",
+    "Url": "https://github.com/jamiepine/voicebox",
+    "Description": "The open-source AI voice studio. Clone, dictate, create.",
+    "Metadata": {
+      "owner": "jamiepine",
+      "repo": "voicebox",
+      "language": "TypeScript",
+      "stars": "565",
+      "topics": "ai, cuda, mlx, qwen3-tts, qwen3-tts-ui, voice-ai, voice-clone, whisper"
+    },
+    "FetchedAt": "2026-07-22T13:25:28.8341428+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:shiyu-coder/Kronos"
+    },
+    "Type": 0,
+    "Title": "shiyu-coder/Kronos",
+    "Url": "https://github.com/shiyu-coder/Kronos",
+    "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "Metadata": {
+      "owner": "shiyu-coder",
+      "repo": "Kronos",
+      "language": "Python",
+      "stars": "134"
+    },
+    "FetchedAt": "2026-07-22T13:25:29.0349313+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ComposioHQ/awesome-claude-skills"
+    },
+    "Type": 0,
+    "Title": "ComposioHQ/awesome-claude-skills",
+    "Url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "Description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "Metadata": {
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "language": "Python",
+      "stars": "155",
+      "topics": "agent-skills, ai-agents, antigravity, automation, claude, claude-code, codex, composio, cursor, developer-tools, gemini-cli, mcp, openai-codex, rube, saas, skill, workflow-automation"
+    },
+    "FetchedAt": "2026-07-22T13:25:29.2064043+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:oblien/openship"
+    },
+    "Type": 0,
+    "Title": "oblien/openship",
+    "Url": "https://github.com/oblien/openship",
+    "Description": "Self-hosted deployment platform",
+    "Metadata": {
+      "owner": "oblien",
+      "repo": "openship",
+      "language": "TypeScript",
+      "stars": "1,304",
+      "topics": "agents, ai, deployments, self-hosted"
+    },
+    "FetchedAt": "2026-07-22T13:25:29.4304152+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:agegr/pi-web"
+    },
+    "Type": 0,
+    "Title": "agegr/pi-web",
+    "Url": "https://github.com/agegr/pi-web",
+    "Description": "Web UI for the pi coding agent",
+    "Metadata": {
+      "owner": "agegr",
+      "repo": "pi-web",
+      "language": "TypeScript",
+      "stars": "314"
+    },
+    "FetchedAt": "2026-07-22T13:25:29.6142612+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:dreamhunter2333/cloudflare_temp_email"
+    },
+    "Type": 0,
+    "Title": "dreamhunter2333/cloudflare_temp_email",
+    "Url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+    "Description": "CloudFlare free temp domain email \u514D\u8D39\u6536\u53D1 \u4E34\u65F6\u57DF\u540D\u90AE\u7BB1 \u652F\u6301\u9644\u4EF6 IMAP SMTP TelegramBot",
+    "Metadata": {
+      "owner": "dreamhunter2333",
+      "repo": "cloudflare_temp_email",
+      "language": "TypeScript",
+      "stars": "60",
+      "topics": "cloudflare-email, cloudflare-pages, cloudflare-workers, email, free"
+    },
+    "FetchedAt": "2026-07-22T13:25:29.8009589+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:hyprwm/Hyprland"
+    },
+    "Type": 0,
+    "Title": "hyprwm/Hyprland",
+    "Url": "https://github.com/hyprwm/Hyprland",
+    "Description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn\u0027t sacrifice on its looks.",
+    "Metadata": {
+      "owner": "hyprwm",
+      "repo": "Hyprland",
+      "language": "C\u002B\u002B",
+      "stars": "353",
+      "topics": "compositor, cpp26, wayland, wayland-compositor"
+    },
+    "FetchedAt": "2026-07-22T13:25:29.9948652+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:dottxt-ai/outlines"
+    },
+    "Type": 0,
+    "Title": "dottxt-ai/outlines",
+    "Url": "https://github.com/dottxt-ai/outlines",
+    "Description": "Structured Outputs",
+    "Metadata": {
+      "owner": "dottxt-ai",
+      "repo": "outlines",
+      "language": "Python",
+      "stars": "362",
+      "topics": "cfg, generative-ai, json, llms, prompt-engineering, regex, structured-generation, symbolic-ai"
+    },
+    "FetchedAt": "2026-07-22T13:25:30.191635+00:00"
   }
 ]
