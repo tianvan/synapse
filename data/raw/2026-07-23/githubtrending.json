@@ -86,55 +86,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:block/buzz"
-    },
-    "Type": 0,
-    "Title": "block/buzz",
-    "Url": "https://github.com/block/buzz",
-    "Description": "A hive mind communication platform",
-    "Metadata": {
-      "owner": "block",
-      "repo": "buzz",
-      "language": "Rust",
-      "stars": "3,252"
-    },
-    "FetchedAt": "2026-07-23T13:29:17.8654967+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:koala73/worldmonitor"
-    },
-    "Type": 0,
-    "Title": "koala73/worldmonitor",
-    "Url": "https://github.com/koala73/worldmonitor",
-    "Description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-    "Metadata": {
-      "owner": "koala73",
-      "repo": "worldmonitor",
-      "language": "TypeScript",
-      "stars": "3,196",
-      "topics": "agent, ai, dashboard, geopolitics, mcp, mcp-server, monitoring, news, opensource, osint, palantir, situation"
-    },
-    "FetchedAt": "2026-07-23T13:29:18.0986659+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:shiyu-coder/Kronos"
-    },
-    "Type": 0,
-    "Title": "shiyu-coder/Kronos",
-    "Url": "https://github.com/shiyu-coder/Kronos",
-    "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "Metadata": {
-      "owner": "shiyu-coder",
-      "repo": "Kronos",
-      "language": "Python",
-      "stars": "398"
-    },
-    "FetchedAt": "2026-07-23T13:29:18.2050964+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:ayghri/i-have-adhd"
     },
     "Type": 0,
@@ -152,6 +103,55 @@
   },
   {
     "ExternalId": {
+      "Value": "github:block/buzz"
+    },
+    "Type": 0,
+    "Title": "block/buzz",
+    "Url": "https://github.com/block/buzz",
+    "Description": "A hive mind communication platform",
+    "Metadata": {
+      "owner": "block",
+      "repo": "buzz",
+      "language": "Rust",
+      "stars": "2,460"
+    },
+    "FetchedAt": "2026-07-23T19:02:45.7192792+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:koala73/worldmonitor"
+    },
+    "Type": 0,
+    "Title": "koala73/worldmonitor",
+    "Url": "https://github.com/koala73/worldmonitor",
+    "Description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "Metadata": {
+      "owner": "koala73",
+      "repo": "worldmonitor",
+      "language": "TypeScript",
+      "stars": "3,196",
+      "topics": "agent, ai, dashboard, geopolitics, mcp, mcp-server, monitoring, news, opensource, osint, palantir, situation"
+    },
+    "FetchedAt": "2026-07-23T19:02:46.0093248+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:shiyu-coder/Kronos"
+    },
+    "Type": 0,
+    "Title": "shiyu-coder/Kronos",
+    "Url": "https://github.com/shiyu-coder/Kronos",
+    "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "Metadata": {
+      "owner": "shiyu-coder",
+      "repo": "Kronos",
+      "language": "Python",
+      "stars": "398"
+    },
+    "FetchedAt": "2026-07-23T19:02:46.2187859+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:citrolabs/ego-lite"
     },
     "Type": 0,
@@ -165,7 +165,7 @@
       "stars": "219",
       "topics": "agent-skills, ai-agent, browser, skills, skills-sh"
     },
-    "FetchedAt": "2026-07-23T13:29:18.4620294+00:00"
+    "FetchedAt": "2026-07-23T19:02:46.405531+00:00"
   },
   {
     "ExternalId": {
@@ -182,7 +182,7 @@
       "stars": "637",
       "topics": "agent-skills, ai-agents, antigravity, automation, claude, claude-code, codex, composio, cursor, developer-tools, gemini-cli, mcp, openai-codex, rube, saas, skill, workflow-automation"
     },
-    "FetchedAt": "2026-07-23T13:29:18.6072619+00:00"
+    "FetchedAt": "2026-07-23T19:02:46.6031739+00:00"
   },
   {
     "ExternalId": {
@@ -196,10 +196,10 @@
       "owner": "earthtojake",
       "repo": "text-to-cad",
       "language": "JavaScript",
-      "stars": "621",
+      "stars": "293",
       "topics": "3mf, agents, ai-agents, build123d, cad, dxf, glb, mechanical-engineering, opencascade, robotics, sdf, srdf, step, stl, stp, text-to-cad, urdf"
     },
-    "FetchedAt": "2026-07-23T13:29:18.7486995+00:00"
+    "FetchedAt": "2026-07-23T19:02:46.8067407+00:00"
   },
   {
     "ExternalId": {
@@ -215,7 +215,7 @@
       "language": "TypeScript",
       "stars": "315"
     },
-    "FetchedAt": "2026-07-23T13:29:18.9029861+00:00"
+    "FetchedAt": "2026-07-23T19:02:46.9818415+00:00"
   },
   {
     "ExternalId": {
@@ -229,10 +229,10 @@
       "owner": "alibaba",
       "repo": "open-code-review",
       "language": "Go",
-      "stars": "162",
+      "stars": "265",
       "topics": "agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context"
     },
-    "FetchedAt": "2026-07-23T13:29:19.0457476+00:00"
+    "FetchedAt": "2026-07-23T19:02:47.1539549+00:00"
   },
   {
     "ExternalId": {
@@ -249,7 +249,7 @@
       "stars": "1,726",
       "topics": "awesome, claude, densepose, esp32, firmware, home-assistant, home-automation, iot, monitoring, networking, npm, pose-estimation, react, rf, self-learning, skills, spatial-intelligence, typescript, wifi, wifi-security"
     },
-    "FetchedAt": "2026-07-23T13:29:19.1750453+00:00"
+    "FetchedAt": "2026-07-23T19:02:47.3787788+00:00"
   },
   {
     "ExternalId": {
@@ -265,7 +265,7 @@
       "language": "Rust",
       "stars": "395"
     },
-    "FetchedAt": "2026-07-23T13:29:19.2995278+00:00"
+    "FetchedAt": "2026-07-23T19:02:47.5631712+00:00"
   },
   {
     "ExternalId": {
@@ -282,7 +282,7 @@
       "stars": "590",
       "topics": "chrome-extension, developer-tools, english-language, grammar-checker, nodejs, react, rust, svelte, webassembly"
     },
-    "FetchedAt": "2026-07-23T13:29:19.4222182+00:00"
+    "FetchedAt": "2026-07-23T19:02:47.7446529+00:00"
   },
   {
     "ExternalId": {
@@ -299,6 +299,6 @@
       "stars": "66",
       "topics": "csharp, dotnet, hacktoberfest, jellyfin"
     },
-    "FetchedAt": "2026-07-23T13:29:19.5868391+00:00"
+    "FetchedAt": "2026-07-23T19:02:47.9335458+00:00"
   }
 ]
