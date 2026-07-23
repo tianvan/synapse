@@ -1,51 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:49010345"
-    },
-    "Type": 1,
-    "Title": "Terrence Tao\u0027s ChatGPT Conversation about the Jacobian Conjecture Counterexample",
-    "Url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-    "Description": "Terrence Tao\u0027s ChatGPT Conversation about the Jacobian Conjecture Counterexample",
-    "Metadata": {
-      "score": "622",
-      "author": "gmays",
-      "commentCount": "380"
-    },
-    "FetchedAt": "2026-07-23T02:03:09.1432491+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49007247"
-    },
-    "Type": 1,
-    "Title": "Quality non-fiction books are the antithesis of AI slop",
-    "Url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;book-prize-index.vercel.app\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;book-prize-index.vercel.app\u0026#x2F;\u003C/a\u003E",
-    "Metadata": {
-      "score": "162",
-      "author": "benbreen",
-      "commentCount": "75"
-    },
-    "FetchedAt": "2026-07-23T02:03:09.2136551+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49010167"
-    },
-    "Type": 1,
-    "Title": "GigaToken: ~1000x faster Language model tokenization",
-    "Url": "https://github.com/marcelroed/gigatoken/",
-    "Description": "GigaToken: ~1000x faster Language model tokenization",
-    "Metadata": {
-      "score": "374",
-      "author": "syrusakbary",
-      "commentCount": "72"
-    },
-    "FetchedAt": "2026-07-23T02:03:09.3453514+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49015588"
     },
     "Type": 1,
@@ -61,111 +16,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49008211"
-    },
-    "Type": 1,
-    "Title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit\u002Bview\u002Bdata\u002Bcollab)",
-    "Url": "https://bento.page/slides/",
-    "Description": "Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness.\u003Cp\u003ETo avoid this loop, I ended up creating Bento, a single HTML file with everything you need in a slide tool including animations and shared editing. There\u0026#x27;s no install or cloud login, everything works offline. The default deck is ar",
-    "Metadata": {
-      "score": "658",
-      "author": "starfallg",
-      "commentCount": "151"
-    },
-    "FetchedAt": "2026-07-23T02:03:09.5023971+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49014007"
-    },
-    "Type": 1,
-    "Title": "Medici family mystery may be solved after more than 400 years",
-    "Url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
-    "Description": "Medici family mystery may be solved after more than 400 years",
-    "Metadata": {
-      "score": "80",
-      "author": "effects",
-      "commentCount": "18"
-    },
-    "FetchedAt": "2026-07-23T02:03:09.5552852+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49010129"
-    },
-    "Type": 1,
-    "Title": "Are AI Labs Pelicanmaxxing?",
-    "Url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-    "Description": "Are AI Labs Pelicanmaxxing?",
-    "Metadata": {
-      "score": "398",
-      "author": "dcastm",
-      "commentCount": "156"
-    },
-    "FetchedAt": "2026-07-23T02:03:09.6254237+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49010648"
-    },
-    "Type": 1,
-    "Title": "Everyone Should Know SIMD",
-    "Url": "https://mitchellh.com/writing/everyone-should-know-simd",
-    "Description": "Everyone Should Know SIMD",
-    "Metadata": {
-      "score": "258",
-      "author": "WadeGrimridge",
-      "commentCount": "74"
-    },
-    "FetchedAt": "2026-07-23T02:03:09.6869976+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49010782"
-    },
-    "Type": 1,
-    "Title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it\u0027s wrong",
-    "Url": "https://github.com/cactus-compute/cactus-hybrid",
-    "Description": "Hey HN, Henry \u0026amp; Roman here from Cactus.\u003Cp\u003EA small, on-device model is fast and private, but sometimes wrong, but frontier models are getting expensive pretty fast. So, we post-trained Gemma 4 E2B post-trained to know when it\u0026#x27;s wrong. Every response comes with a confidence score between 0 and 1. Developers can accept the on-device when it\u0026#x27;s high, hand off to a bigger cloud model when it\u0026#x27;s low. By routing only 15-35% of queries to Gemini 3.1 Flash-Lite, Gemma-4-E2B matches Gemin",
-    "Metadata": {
-      "score": "68",
-      "author": "HenryNdubuaku",
-      "commentCount": "12"
-    },
-    "FetchedAt": "2026-07-23T02:03:09.7358504+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49013538"
-    },
-    "Type": 1,
-    "Title": "Malleable Computing, Emacs, and You",
-    "Url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
-    "Description": "Malleable Computing, Emacs, and You",
-    "Metadata": {
-      "score": "68",
-      "author": "kickingvegas",
-      "commentCount": "16"
-    },
-    "FetchedAt": "2026-07-23T02:03:09.9019491+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49012070"
-    },
-    "Type": 1,
-    "Title": "John C. Dvorak has died",
-    "Url": "https://twitter.com/na_announce/status/2079952538040672302",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;na_announce\u0026#x2F;status\u0026#x2F;2079952538040672302\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;na_announce\u0026#x2F;status\u0026#x2F;2079952538040672302\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.twit.community\u0026#x2F;t\u0026#x2F;john-c-dvorak-has-passed-away\u0026#x2F;20291\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.twit.community\u0026#x2F;t\u0026#x2F;john-c-dvorak-has-passed-away\u0026#x2F;2...\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.facebook.com\u0026#x2F;aric.mackey\u0026#x2F;posts\u0026#x2F;john-c-dvorak-",
-    "Metadata": {
-      "score": "558",
-      "author": "coleca",
-      "commentCount": "179"
-    },
-    "FetchedAt": "2026-07-23T02:03:10.0095314+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49013356"
     },
     "Type": 1,
@@ -178,66 +28,6 @@
       "commentCount": "40"
     },
     "FetchedAt": "2026-07-23T02:03:10.0675879+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49012777"
-    },
-    "Type": 1,
-    "Title": "Fairphone 6 wide camera experimental Linux support",
-    "Url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
-    "Description": "Fairphone 6 wide camera experimental Linux support",
-    "Metadata": {
-      "score": "73",
-      "author": "helonaut",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-07-23T02:03:10.1459943+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48917135"
-    },
-    "Type": 1,
-    "Title": "Nobody knows what a used GPU cluster is worth",
-    "Url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
-    "Description": "Nobody knows what a used GPU cluster is worth",
-    "Metadata": {
-      "score": "170",
-      "author": "rbanffy",
-      "commentCount": "155"
-    },
-    "FetchedAt": "2026-07-23T02:03:10.2698742+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49008440"
-    },
-    "Type": 1,
-    "Title": "Making",
-    "Url": "https://beej.us/blog/data/ai-making/",
-    "Description": "Making",
-    "Metadata": {
-      "score": "276",
-      "author": "erikschoster",
-      "commentCount": "110"
-    },
-    "FetchedAt": "2026-07-23T02:03:10.3197475+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49005787"
-    },
-    "Type": 1,
-    "Title": "The startup\u0027s Postgres survival guide",
-    "Url": "https://hatchet.run/blog/postgres-survival-guide",
-    "Description": "The startup\u0027s Postgres survival guide",
-    "Metadata": {
-      "score": "320",
-      "author": "abelanger",
-      "commentCount": "173"
-    },
-    "FetchedAt": "2026-07-23T02:03:10.3939104+00:00"
   },
   {
     "ExternalId": {
@@ -268,51 +58,6 @@
       "commentCount": "1"
     },
     "FetchedAt": "2026-07-23T02:03:10.4908004+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49005747"
-    },
-    "Type": 1,
-    "Title": "So Reddit has decided that plain HTML is unsafe",
-    "Url": "https://www.cole-k.com/2026/07/21/reddit/",
-    "Description": "So Reddit has decided that plain HTML is unsafe",
-    "Metadata": {
-      "score": "284",
-      "author": "montroser",
-      "commentCount": "287"
-    },
-    "FetchedAt": "2026-07-23T02:03:10.5388575+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49015735"
-    },
-    "Type": 1,
-    "Title": "Run large language models at home, BitTorrent\u2011style",
-    "Url": "https://petals.dev/",
-    "Description": "Run large language models at home, BitTorrent\u2011style",
-    "Metadata": {
-      "score": "3",
-      "author": "snorbleck",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-07-23T02:03:10.5879204+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49013995"
-    },
-    "Type": 1,
-    "Title": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
-    "Url": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
-    "Description": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
-    "Metadata": {
-      "score": "32",
-      "author": "shenli3514",
-      "commentCount": "9"
-    },
-    "FetchedAt": "2026-07-23T02:03:10.6361752+00:00"
   },
   {
     "ExternalId": {
@@ -361,21 +106,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49005973"
-    },
-    "Type": 1,
-    "Title": "Businesses with ugly AI menu redesigns",
-    "Url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
-    "Description": "Businesses with ugly AI menu redesigns",
-    "Metadata": {
-      "score": "184",
-      "author": "speckx",
-      "commentCount": "149"
-    },
-    "FetchedAt": "2026-07-23T02:03:10.8344237+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:48950562"
     },
     "Type": 1,
@@ -421,18 +151,378 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49013924"
+      "Value": "hn:48990219"
     },
     "Type": 1,
-    "Title": "All 253 Patterns from Christopher Alexander\u0027s a Pattern Language Summarized",
-    "Url": "https://claytondorge.com/patterns-list",
-    "Description": "All 253 Patterns from Christopher Alexander\u0027s a Pattern Language Summarized",
+    "Title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
+    "Url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
+    "Description": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
     "Metadata": {
-      "score": "21",
-      "author": "toomuchtodo",
-      "commentCount": "2"
+      "score": "25",
+      "author": "jjba23",
+      "commentCount": "0"
     },
-    "FetchedAt": "2026-07-23T02:03:11.0286747+00:00"
+    "FetchedAt": "2026-07-23T08:15:40.4741874+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48991882"
+    },
+    "Type": 1,
+    "Title": "git\u0027s \u2013end-of-options Flag",
+    "Url": "https://nesbitt.io/2026/07/21/end-of-options.html",
+    "Description": "git\u0027s \u2013end-of-options Flag",
+    "Metadata": {
+      "score": "123",
+      "author": "Erenay09",
+      "commentCount": "57"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.4880234+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49010345"
+    },
+    "Type": 1,
+    "Title": "Terence Tao\u0027s ChatGPT conversation about the Jacobian Conjecture counterexample",
+    "Url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+    "Description": "\u003Ci\u003EA digestion of the Jacobian conjecture counterexample\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48998362\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48998362\u003C/a\u003E - July 2026 (133 comments)\u003Cp\u003E\u003Ci\u003EClaude Fable produced a counterexample to the Jacobian Conjecture\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48973869\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48973869\u003C/a\u003E - July 2026 (508 comments)",
+    "Metadata": {
+      "score": "829",
+      "author": "gmays",
+      "commentCount": "480"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.501341+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49007247"
+    },
+    "Type": 1,
+    "Title": "Quality non-fiction books are the antithesis of AI slop",
+    "Url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;book-prize-index.vercel.app\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;book-prize-index.vercel.app\u0026#x2F;\u003C/a\u003E",
+    "Metadata": {
+      "score": "329",
+      "author": "benbreen",
+      "commentCount": "108"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.514276+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49017344"
+    },
+    "Type": 1,
+    "Title": "Cruller: Bun\u0027s Zig Runtime, Continued on Zig 0.16",
+    "Url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
+    "Description": "Cruller: Bun\u0027s Zig Runtime, Continued on Zig 0.16",
+    "Metadata": {
+      "score": "20",
+      "author": "Erenay09",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.5280735+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49010167"
+    },
+    "Type": 1,
+    "Title": "GigaToken: ~1000x faster Language model tokenization",
+    "Url": "https://github.com/marcelroed/gigatoken/",
+    "Description": "GigaToken: ~1000x faster Language model tokenization",
+    "Metadata": {
+      "score": "478",
+      "author": "syrusakbary",
+      "commentCount": "94"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.5410999+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49008211"
+    },
+    "Type": 1,
+    "Title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit\u002Bview\u002Bdata\u002Bcollab)",
+    "Url": "https://bento.page/slides/",
+    "Description": "Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness.\u003Cp\u003ETo avoid this loop, I ended up creating Bento, a single HTML file with everything you need in a slide tool including animations and shared editing. There\u0026#x27;s no install or cloud login, everything works offline. The default deck is ar",
+    "Metadata": {
+      "score": "797",
+      "author": "starfallg",
+      "commentCount": "177"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.556089+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49017265"
+    },
+    "Type": 1,
+    "Title": "Amiga 1000: Ten years ahead of its time",
+    "Url": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
+    "Description": "Amiga 1000: Ten years ahead of its time",
+    "Metadata": {
+      "score": "52",
+      "author": "giuliomagnifico",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.5699184+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49010648"
+    },
+    "Type": 1,
+    "Title": "Everyone should know SIMD",
+    "Url": "https://mitchellh.com/writing/everyone-should-know-simd",
+    "Description": "Everyone should know SIMD",
+    "Metadata": {
+      "score": "397",
+      "author": "WadeGrimridge",
+      "commentCount": "144"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.583901+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49010129"
+    },
+    "Type": 1,
+    "Title": "Are AI labs pelicanmaxxing?",
+    "Url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+    "Description": "Are AI labs pelicanmaxxing?",
+    "Metadata": {
+      "score": "503",
+      "author": "dcastm",
+      "commentCount": "196"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.5978905+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48989006"
+    },
+    "Type": 1,
+    "Title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
+    "Url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
+    "Description": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
+    "Metadata": {
+      "score": "4",
+      "author": "xgpyc2qp",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.6127858+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49005747"
+    },
+    "Type": 1,
+    "Title": "So Reddit has decided that plain HTML is unsafe",
+    "Url": "https://www.cole-k.com/2026/07/21/reddit/",
+    "Description": "So Reddit has decided that plain HTML is unsafe",
+    "Metadata": {
+      "score": "434",
+      "author": "montroser",
+      "commentCount": "405"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.6259222+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48983076"
+    },
+    "Type": 1,
+    "Title": "Making ASCII Art in Vim",
+    "Url": "https://alexyang.dev/vim-ascii-art/",
+    "Description": "Making ASCII Art in Vim",
+    "Metadata": {
+      "score": "57",
+      "author": "evakhoury",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.638713+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49010782"
+    },
+    "Type": 1,
+    "Title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it\u0027s wrong",
+    "Url": "https://github.com/cactus-compute/cactus-hybrid",
+    "Description": "Hey HN, Henry \u0026amp; Roman here from Cactus.\u003Cp\u003EA small, on-device model is fast and private, but sometimes wrong, but frontier models are getting expensive pretty fast. So, we post-trained Gemma 4 E2B post-trained to know when it\u0026#x27;s wrong. Every response comes with a confidence score between 0 and 1. Developers can accept the on-device when it\u0026#x27;s high, hand off to a bigger cloud model when it\u0026#x27;s low. By routing only 15-35% of queries to Gemini 3.1 Flash-Lite, Gemma-4-E2B matches Gemin",
+    "Metadata": {
+      "score": "124",
+      "author": "HenryNdubuaku",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.653311+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49008440"
+    },
+    "Type": 1,
+    "Title": "Making",
+    "Url": "https://beej.us/blog/data/ai-making/",
+    "Description": "Making",
+    "Metadata": {
+      "score": "342",
+      "author": "erikschoster",
+      "commentCount": "136"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.6669073+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49005787"
+    },
+    "Type": 1,
+    "Title": "The startup\u0027s Postgres survival guide",
+    "Url": "https://hatchet.run/blog/postgres-survival-guide",
+    "Description": "The startup\u0027s Postgres survival guide",
+    "Metadata": {
+      "score": "397",
+      "author": "abelanger",
+      "commentCount": "186"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.6801033+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49014007"
+    },
+    "Type": 1,
+    "Title": "Medici family mystery may be solved after more than 400 years",
+    "Url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
+    "Description": "Medici family mystery may be solved after more than 400 years",
+    "Metadata": {
+      "score": "111",
+      "author": "effects",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.6929326+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49012070"
+    },
+    "Type": 1,
+    "Title": "John C. Dvorak has died",
+    "Url": "https://twitter.com/na_announce/status/2079952538040672302",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;na_announce\u0026#x2F;status\u0026#x2F;2079952538040672302\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;na_announce\u0026#x2F;status\u0026#x2F;2079952538040672302\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.twit.community\u0026#x2F;t\u0026#x2F;john-c-dvorak-has-passed-away\u0026#x2F;20291\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.twit.community\u0026#x2F;t\u0026#x2F;john-c-dvorak-has-passed-away\u0026#x2F;2...\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.facebook.com\u0026#x2F;aric.mackey\u0026#x2F;posts\u0026#x2F;john-c-dvorak-",
+    "Metadata": {
+      "score": "724",
+      "author": "coleca",
+      "commentCount": "233"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.7071216+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48984534"
+    },
+    "Type": 1,
+    "Title": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
+    "Url": "https://github.com/exlee/ascdraw",
+    "Description": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
+    "Metadata": {
+      "score": "41",
+      "author": "xlii",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.7205729+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49013538"
+    },
+    "Type": 1,
+    "Title": "Malleable Computing, Emacs, and You",
+    "Url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+    "Description": "Malleable Computing, Emacs, and You",
+    "Metadata": {
+      "score": "101",
+      "author": "kickingvegas",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.7332929+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49016099"
+    },
+    "Type": 1,
+    "Title": "Restructuring GitHub\u0027s bug bounty program",
+    "Url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+    "Description": "Restructuring GitHub\u0027s bug bounty program",
+    "Metadata": {
+      "score": "41",
+      "author": "soheilpro",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.7465726+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49012777"
+    },
+    "Type": 1,
+    "Title": "Fairphone 6 wide camera experimental Linux support",
+    "Url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+    "Description": "Fairphone 6 wide camera experimental Linux support",
+    "Metadata": {
+      "score": "112",
+      "author": "helonaut",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.7604916+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49005973"
+    },
+    "Type": 1,
+    "Title": "Businesses with ugly AI menu redesigns",
+    "Url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+    "Description": "Businesses with ugly AI menu redesigns",
+    "Metadata": {
+      "score": "271",
+      "author": "speckx",
+      "commentCount": "174"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.7733007+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48977463"
+    },
+    "Type": 1,
+    "Title": "Why malloc always does more than I asked for?",
+    "Url": "https://ssenthilnathan3.github.io/blog/malloc/",
+    "Description": "Why malloc always does more than I asked for?",
+    "Metadata": {
+      "score": "25",
+      "author": "nathaah3",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.7866869+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48917135"
+    },
+    "Type": 1,
+    "Title": "Nobody knows what a used GPU cluster is worth",
+    "Url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
+    "Description": "Nobody knows what a used GPU cluster is worth",
+    "Metadata": {
+      "score": "223",
+      "author": "rbanffy",
+      "commentCount": "194"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.7996601+00:00"
   },
   {
     "ExternalId": {
@@ -443,10 +533,70 @@
     "Url": "https://blog.melashri.net/micro/back-to-kagi/",
     "Description": "Back to Kagi",
     "Metadata": {
-      "score": "200",
+      "score": "257",
       "author": "speckx",
-      "commentCount": "160"
+      "commentCount": "194"
     },
-    "FetchedAt": "2026-07-23T02:03:11.0776286+00:00"
+    "FetchedAt": "2026-07-23T08:15:40.8125395+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49013924"
+    },
+    "Type": 1,
+    "Title": "All 253 Patterns from Christopher Alexander\u0027s a Pattern Language Summarized",
+    "Url": "https://claytondorge.com/patterns-list",
+    "Description": "All 253 Patterns from Christopher Alexander\u0027s a Pattern Language Summarized",
+    "Metadata": {
+      "score": "67",
+      "author": "toomuchtodo",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.8256704+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49013995"
+    },
+    "Type": 1,
+    "Title": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
+    "Url": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
+    "Description": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
+    "Metadata": {
+      "score": "51",
+      "author": "shenli3514",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.83853+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49015735"
+    },
+    "Type": 1,
+    "Title": "Petals: Run LLMs at home, BitTorrent-style",
+    "Url": "https://petals.dev/",
+    "Description": "Petals: Run LLMs at home, BitTorrent-style",
+    "Metadata": {
+      "score": "106",
+      "author": "snorbleck",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.8516612+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49007626"
+    },
+    "Type": 1,
+    "Title": "Ghost Cut \u2013 Or why Cut and Paste is broken everywhere",
+    "Url": "https://ishmael.textualize.io/blog/ghost-cut/",
+    "Description": "Ghost Cut \u2013 Or why Cut and Paste is broken everywhere",
+    "Metadata": {
+      "score": "158",
+      "author": "willm",
+      "commentCount": "105"
+    },
+    "FetchedAt": "2026-07-23T08:15:40.8649158+00:00"
   }
 ]
