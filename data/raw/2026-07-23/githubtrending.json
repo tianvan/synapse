@@ -1,57 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:koala73/worldmonitor"
-    },
-    "Type": 0,
-    "Title": "koala73/worldmonitor",
-    "Url": "https://github.com/koala73/worldmonitor",
-    "Description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-    "Metadata": {
-      "owner": "koala73",
-      "repo": "worldmonitor",
-      "language": "TypeScript",
-      "stars": "4,139",
-      "topics": "agent, ai, dashboard, geopolitics, mcp, mcp-server, monitoring, news, opensource, osint, palantir, situation"
-    },
-    "FetchedAt": "2026-07-23T08:15:38.6911231+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:ruvnet/RuView"
-    },
-    "Type": 0,
-    "Title": "ruvnet/RuView",
-    "Url": "https://github.com/ruvnet/RuView",
-    "Description": "\u03C0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
-    "Metadata": {
-      "owner": "ruvnet",
-      "repo": "RuView",
-      "language": "Rust",
-      "stars": "741",
-      "topics": "awesome, claude, densepose, esp32, firmware, home-assistant, home-automation, iot, monitoring, networking, npm, pose-estimation, react, rf, self-learning, skills, spatial-intelligence, typescript, wifi, wifi-security"
-    },
-    "FetchedAt": "2026-07-23T08:15:38.9032379+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:ayghri/i-have-adhd"
-    },
-    "Type": 0,
-    "Title": "ayghri/i-have-adhd",
-    "Url": "https://github.com/ayghri/i-have-adhd",
-    "Description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-    "Metadata": {
-      "owner": "ayghri",
-      "repo": "i-have-adhd",
-      "language": "Python",
-      "stars": "1,699",
-      "topics": "adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity"
-    },
-    "FetchedAt": "2026-07-23T08:15:39.043335+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:jamiepine/voicebox"
     },
     "Type": 0,
@@ -69,39 +18,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:shiyu-coder/Kronos"
-    },
-    "Type": 0,
-    "Title": "shiyu-coder/Kronos",
-    "Url": "https://github.com/shiyu-coder/Kronos",
-    "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "Metadata": {
-      "owner": "shiyu-coder",
-      "repo": "Kronos",
-      "language": "Python",
-      "stars": "137"
-    },
-    "FetchedAt": "2026-07-23T08:15:39.3353431+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:ComposioHQ/awesome-claude-skills"
-    },
-    "Type": 0,
-    "Title": "ComposioHQ/awesome-claude-skills",
-    "Url": "https://github.com/ComposioHQ/awesome-claude-skills",
-    "Description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-    "Metadata": {
-      "owner": "ComposioHQ",
-      "repo": "awesome-claude-skills",
-      "language": "Python",
-      "stars": "163",
-      "topics": "agent-skills, ai-agents, antigravity, automation, claude, claude-code, codex, composio, cursor, developer-tools, gemini-cli, mcp, openai-codex, rube, saas, skill, workflow-automation"
-    },
-    "FetchedAt": "2026-07-23T08:15:39.4741403+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:oblien/openship"
     },
     "Type": 0,
@@ -116,22 +32,6 @@
       "topics": "agents, ai, deployments, self-hosted"
     },
     "FetchedAt": "2026-07-23T08:15:39.6109139+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:agegr/pi-web"
-    },
-    "Type": 0,
-    "Title": "agegr/pi-web",
-    "Url": "https://github.com/agegr/pi-web",
-    "Description": "Web UI for the pi coding agent",
-    "Metadata": {
-      "owner": "agegr",
-      "repo": "pi-web",
-      "language": "TypeScript",
-      "stars": "314"
-    },
-    "FetchedAt": "2026-07-23T08:15:39.7593416+00:00"
   },
   {
     "ExternalId": {
@@ -183,5 +83,222 @@
       "topics": "cfg, generative-ai, json, llms, prompt-engineering, regex, structured-generation, symbolic-ai"
     },
     "FetchedAt": "2026-07-23T08:15:40.1844719+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:block/buzz"
+    },
+    "Type": 0,
+    "Title": "block/buzz",
+    "Url": "https://github.com/block/buzz",
+    "Description": "A hive mind communication platform",
+    "Metadata": {
+      "owner": "block",
+      "repo": "buzz",
+      "language": "Rust",
+      "stars": "3,252"
+    },
+    "FetchedAt": "2026-07-23T13:29:17.8654967+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:koala73/worldmonitor"
+    },
+    "Type": 0,
+    "Title": "koala73/worldmonitor",
+    "Url": "https://github.com/koala73/worldmonitor",
+    "Description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "Metadata": {
+      "owner": "koala73",
+      "repo": "worldmonitor",
+      "language": "TypeScript",
+      "stars": "3,196",
+      "topics": "agent, ai, dashboard, geopolitics, mcp, mcp-server, monitoring, news, opensource, osint, palantir, situation"
+    },
+    "FetchedAt": "2026-07-23T13:29:18.0986659+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:shiyu-coder/Kronos"
+    },
+    "Type": 0,
+    "Title": "shiyu-coder/Kronos",
+    "Url": "https://github.com/shiyu-coder/Kronos",
+    "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "Metadata": {
+      "owner": "shiyu-coder",
+      "repo": "Kronos",
+      "language": "Python",
+      "stars": "398"
+    },
+    "FetchedAt": "2026-07-23T13:29:18.2050964+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ayghri/i-have-adhd"
+    },
+    "Type": 0,
+    "Title": "ayghri/i-have-adhd",
+    "Url": "https://github.com/ayghri/i-have-adhd",
+    "Description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+    "Metadata": {
+      "owner": "ayghri",
+      "repo": "i-have-adhd",
+      "language": "Python",
+      "stars": "1,329",
+      "topics": "adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity"
+    },
+    "FetchedAt": "2026-07-23T13:29:18.3327912+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:citrolabs/ego-lite"
+    },
+    "Type": 0,
+    "Title": "citrolabs/ego-lite",
+    "Url": "https://github.com/citrolabs/ego-lite",
+    "Description": "The best browser for both you and your AI agents work in parallel.",
+    "Metadata": {
+      "owner": "citrolabs",
+      "repo": "ego-lite",
+      "language": "JavaScript",
+      "stars": "219",
+      "topics": "agent-skills, ai-agent, browser, skills, skills-sh"
+    },
+    "FetchedAt": "2026-07-23T13:29:18.4620294+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ComposioHQ/awesome-claude-skills"
+    },
+    "Type": 0,
+    "Title": "ComposioHQ/awesome-claude-skills",
+    "Url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "Description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "Metadata": {
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "language": "Python",
+      "stars": "637",
+      "topics": "agent-skills, ai-agents, antigravity, automation, claude, claude-code, codex, composio, cursor, developer-tools, gemini-cli, mcp, openai-codex, rube, saas, skill, workflow-automation"
+    },
+    "FetchedAt": "2026-07-23T13:29:18.6072619+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:earthtojake/text-to-cad"
+    },
+    "Type": 0,
+    "Title": "earthtojake/text-to-cad",
+    "Url": "https://github.com/earthtojake/text-to-cad",
+    "Description": "A collection of agent skills for CAD, robotics and hardware design",
+    "Metadata": {
+      "owner": "earthtojake",
+      "repo": "text-to-cad",
+      "language": "JavaScript",
+      "stars": "621",
+      "topics": "3mf, agents, ai-agents, build123d, cad, dxf, glb, mechanical-engineering, opencascade, robotics, sdf, srdf, step, stl, stp, text-to-cad, urdf"
+    },
+    "FetchedAt": "2026-07-23T13:29:18.7486995+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:agegr/pi-web"
+    },
+    "Type": 0,
+    "Title": "agegr/pi-web",
+    "Url": "https://github.com/agegr/pi-web",
+    "Description": "Web UI for the pi coding agent",
+    "Metadata": {
+      "owner": "agegr",
+      "repo": "pi-web",
+      "language": "TypeScript",
+      "stars": "315"
+    },
+    "FetchedAt": "2026-07-23T13:29:18.9029861+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alibaba/open-code-review"
+    },
+    "Type": 0,
+    "Title": "alibaba/open-code-review",
+    "Url": "https://github.com/alibaba/open-code-review",
+    "Description": "Open-source \u0026 free \u2014 Battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
+    "Metadata": {
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "language": "Go",
+      "stars": "162",
+      "topics": "agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context"
+    },
+    "FetchedAt": "2026-07-23T13:29:19.0457476+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ruvnet/RuView"
+    },
+    "Type": 0,
+    "Title": "ruvnet/RuView",
+    "Url": "https://github.com/ruvnet/RuView",
+    "Description": "\u03C0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+    "Metadata": {
+      "owner": "ruvnet",
+      "repo": "RuView",
+      "language": "Rust",
+      "stars": "1,726",
+      "topics": "awesome, claude, densepose, esp32, firmware, home-assistant, home-automation, iot, monitoring, networking, npm, pose-estimation, react, rf, self-learning, skills, spatial-intelligence, typescript, wifi, wifi-security"
+    },
+    "FetchedAt": "2026-07-23T13:29:19.1750453+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Julian-adv/OpenMMO"
+    },
+    "Type": 0,
+    "Title": "Julian-adv/OpenMMO",
+    "Url": "https://github.com/Julian-adv/OpenMMO",
+    "Description": "",
+    "Metadata": {
+      "owner": "Julian-adv",
+      "repo": "OpenMMO",
+      "language": "Rust",
+      "stars": "395"
+    },
+    "FetchedAt": "2026-07-23T13:29:19.2995278+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Automattic/harper"
+    },
+    "Type": 0,
+    "Title": "Automattic/harper",
+    "Url": "https://github.com/Automattic/harper",
+    "Description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+    "Metadata": {
+      "owner": "Automattic",
+      "repo": "harper",
+      "language": "Rust",
+      "stars": "590",
+      "topics": "chrome-extension, developer-tools, english-language, grammar-checker, nodejs, react, rust, svelte, webassembly"
+    },
+    "FetchedAt": "2026-07-23T13:29:19.4222182+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jellyfin/jellyfin"
+    },
+    "Type": 0,
+    "Title": "jellyfin/jellyfin",
+    "Url": "https://github.com/jellyfin/jellyfin",
+    "Description": "The Free Software Media System - Server Backend \u0026 API",
+    "Metadata": {
+      "owner": "jellyfin",
+      "repo": "jellyfin",
+      "language": "C#",
+      "stars": "66",
+      "topics": "csharp, dotnet, hacktoberfest, jellyfin"
+    },
+    "FetchedAt": "2026-07-23T13:29:19.5868391+00:00"
   }
 ]
