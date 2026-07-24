@@ -151,21 +151,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49031796"
-    },
-    "Type": 1,
-    "Title": "Flux 3",
-    "Url": "https://bfl.ai/blog/flux-3",
-    "Description": "Flux 3",
-    "Metadata": {
-      "score": "149",
-      "author": "ThouYS",
-      "commentCount": "31"
-    },
-    "FetchedAt": "2026-07-24T08:11:34.154592+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49032095"
     },
     "Type": 1,
@@ -178,51 +163,6 @@
       "commentCount": "17"
     },
     "FetchedAt": "2026-07-24T08:11:34.2114728+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49022152"
-    },
-    "Type": 1,
-    "Title": "Writing by hand is good for your brain",
-    "Url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-    "Description": "Writing by hand is good for your brain",
-    "Metadata": {
-      "score": "1258",
-      "author": "dwwoelfel",
-      "commentCount": "566"
-    },
-    "FetchedAt": "2026-07-24T08:11:34.2685233+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49023016"
-    },
-    "Type": 1,
-    "Title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-    "Url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;littletech.org\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;littletech.org\u0026#x2F;\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;static.politico.com\u0026#x2F;4a\u0026#x2F;bf\u0026#x2F;9c4021d8404386b0a311dcccf0e5\u0026#x2F;lta-open-weight-ai-letter-7-22-26.pdf\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;static.politico.com\u0026#x2F;4a\u0026#x2F;bf\u0026#x2F;9c4021d8404386b0a311dcccf0...\u003C/a\u003E",
-    "Metadata": {
-      "score": "894",
-      "author": "theanonymousone",
-      "commentCount": "747"
-    },
-    "FetchedAt": "2026-07-24T08:11:34.3245239+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49026810"
-    },
-    "Type": 1,
-    "Title": "Show HN: Echo \u2013 Fable-level results at 1/3 the cost using open-weight models",
-    "Url": "https://news.ycombinator.com/item?id=49026810",
-    "Description": "I\u2019ve been building Echo (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;echo.tracerml.ai\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;echo.tracerml.ai\u0026#x2F;\u003C/a\u003E), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task.\u003Cp\u003EIt started with a simple experiment. I took a group of models, including GLM-5.2, Kimi K2.7 and others, and ran them on the same evaluations. Then I measured what would happen if, for each problem, you somehow knew in adv",
-    "Metadata": {
-      "score": "368",
-      "author": "adam_rida",
-      "commentCount": "173"
-    },
-    "FetchedAt": "2026-07-24T08:11:34.3811051+00:00"
   },
   {
     "ExternalId": {
@@ -343,21 +283,6 @@
       "commentCount": "61"
     },
     "FetchedAt": "2026-07-24T08:11:34.8741111+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49021856"
-    },
-    "Type": 1,
-    "Title": "I regret migrating to Codeberg",
-    "Url": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
-    "Description": "I regret migrating to Codeberg",
-    "Metadata": {
-      "score": "252",
-      "author": "boramalper",
-      "commentCount": "152"
-    },
-    "FetchedAt": "2026-07-24T08:11:34.9303853+00:00"
   },
   {
     "ExternalId": {
@@ -598,5 +523,455 @@
       "commentCount": "30"
     },
     "FetchedAt": "2026-07-24T08:11:35.8332725+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49033127"
+    },
+    "Type": 1,
+    "Title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+    "Url": "https://bfl.ai/blog/flux-3-mimic",
+    "Description": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+    "Metadata": {
+      "score": "182",
+      "author": "kensai",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-07-24T13:21:44.7768631+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49031796"
+    },
+    "Type": 1,
+    "Title": "Flux 3",
+    "Url": "https://bfl.ai/blog/flux-3",
+    "Description": "Flux 3",
+    "Metadata": {
+      "score": "415",
+      "author": "ThouYS",
+      "commentCount": "102"
+    },
+    "FetchedAt": "2026-07-24T13:21:44.7933785+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49034747"
+    },
+    "Type": 1,
+    "Title": "Em dashes are fucking amazing",
+    "Url": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
+    "Description": "Em dashes are fucking amazing",
+    "Metadata": {
+      "score": "23",
+      "author": "surprisetalk",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-07-24T13:21:44.8087289+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49032660"
+    },
+    "Type": 1,
+    "Title": "It\u0027s getting harder to focus every day",
+    "Url": "https://glyphack.com/attention/",
+    "Description": "It\u0027s getting harder to focus every day",
+    "Metadata": {
+      "score": "260",
+      "author": "peykar",
+      "commentCount": "134"
+    },
+    "FetchedAt": "2026-07-24T13:21:44.8258704+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49034217"
+    },
+    "Type": 1,
+    "Title": "The case for MUDs in modern times",
+    "Url": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
+    "Description": "The case for MUDs in modern times",
+    "Metadata": {
+      "score": "35",
+      "author": "bw86",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-07-24T13:21:44.8427085+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49034342"
+    },
+    "Type": 1,
+    "Title": "I Tried Building a Real App with AI. It Took a Year",
+    "Url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
+    "Description": "I Tried Building a Real App with AI. It Took a Year",
+    "Metadata": {
+      "score": "19",
+      "author": "surprisetalk",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-07-24T13:21:44.8586673+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49033099"
+    },
+    "Type": 1,
+    "Title": "Buz \u2013 A fork of Bun using modern Zig, with sub-1s incremental builds",
+    "Url": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
+    "Description": "Buz \u2013 A fork of Bun using modern Zig, with sub-1s incremental builds",
+    "Metadata": {
+      "score": "92",
+      "author": "kristoff_it",
+      "commentCount": "60"
+    },
+    "FetchedAt": "2026-07-24T13:21:44.8756072+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49034292"
+    },
+    "Type": 1,
+    "Title": "My security camera shipped a GitHub admin token in its login page",
+    "Url": "https://hhh.hn/hanwha-github-token/",
+    "Description": "My security camera shipped a GitHub admin token in its login page",
+    "Metadata": {
+      "score": "11",
+      "author": "hhh",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-07-24T13:21:44.8911023+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48973835"
+    },
+    "Type": 1,
+    "Title": "India\u0027s first privately-developed rocket reaches orbit on dramatic debut launch",
+    "Url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+    "Description": "India\u0027s first privately-developed rocket reaches orbit on dramatic debut launch",
+    "Metadata": {
+      "score": "22",
+      "author": "sohkamyung",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-07-24T13:21:44.9083882+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49033240"
+    },
+    "Type": 1,
+    "Title": "IRGC Claims It Destroyed Amazon\u0027s Bahrain Data Center",
+    "Url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+    "Description": "IRGC Claims It Destroyed Amazon\u0027s Bahrain Data Center",
+    "Metadata": {
+      "score": "35",
+      "author": "thisislife2",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-07-24T13:21:44.9236004+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49033916"
+    },
+    "Type": 1,
+    "Title": "The IBM PC, Part 1: Arrival",
+    "Url": "https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/",
+    "Description": "The IBM PC, Part 1: Arrival",
+    "Metadata": {
+      "score": "22",
+      "author": "cfmcdonald",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-07-24T13:21:44.9406258+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49034673"
+    },
+    "Type": 1,
+    "Title": "Programming language file extensions that match ISO 3166-1 alpha-2 country code",
+    "Url": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
+    "Description": "Programming language file extensions that match ISO 3166-1 alpha-2 country code",
+    "Metadata": {
+      "score": "7",
+      "author": "speckx",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-07-24T13:21:44.9573901+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49031409"
+    },
+    "Type": 1,
+    "Title": "Claude Cookbook",
+    "Url": "https://platform.claude.com/cookbook/",
+    "Description": "Claude Cookbook",
+    "Metadata": {
+      "score": "151",
+      "author": "saikatsg",
+      "commentCount": "76"
+    },
+    "FetchedAt": "2026-07-24T13:21:44.9745649+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49033004"
+    },
+    "Type": 1,
+    "Title": "Nothing works and everyone is euphoric",
+    "Url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+    "Description": "Nothing works and everyone is euphoric",
+    "Metadata": {
+      "score": "166",
+      "author": "pchm",
+      "commentCount": "128"
+    },
+    "FetchedAt": "2026-07-24T13:21:44.9917976+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49034468"
+    },
+    "Type": 1,
+    "Title": "Why is programming so captivating, yet so agonizing?",
+    "Url": "https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing",
+    "Description": "Why is programming so captivating, yet so agonizing?",
+    "Metadata": {
+      "score": "8",
+      "author": "ilreb",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-07-24T13:21:45.0091821+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48996119"
+    },
+    "Type": 1,
+    "Title": "Computational chemistry, Locally? My rant on SSH",
+    "Url": "https://chillphysicsenjoyer.substack.com/p/computational-chemistry-locally",
+    "Description": "Computational chemistry, Locally? My rant on SSH",
+    "Metadata": {
+      "score": "21",
+      "author": "crescit_eundo",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-07-24T13:21:45.0271613+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49026810"
+    },
+    "Type": 1,
+    "Title": "Show HN: Echo \u2013 Fable-level results at 1/3 the cost using open-weight models",
+    "Url": "https://news.ycombinator.com/item?id=49026810",
+    "Description": "I\u2019ve been building Echo (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;echo.tracerml.ai\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;echo.tracerml.ai\u0026#x2F;\u003C/a\u003E), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task.\u003Cp\u003EIt started with a simple experiment. I took a group of models, including GLM-5.2, Kimi K2.7 and others, and ran them on the same evaluations. Then I measured what would happen if, for each problem, you somehow knew in adv",
+    "Metadata": {
+      "score": "417",
+      "author": "adam_rida",
+      "commentCount": "200"
+    },
+    "FetchedAt": "2026-07-24T13:21:45.0445497+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49033363"
+    },
+    "Type": 1,
+    "Title": "Launching Health in ChatGPT to US Users",
+    "Url": "https://openai.com/index/health-in-chatgpt/",
+    "Description": "Launching Health in ChatGPT to US Users",
+    "Metadata": {
+      "score": "26",
+      "author": "mellosouls",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-07-24T13:21:45.0629852+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49001498"
+    },
+    "Type": 1,
+    "Title": "Tangleflow: Converts GitHub Actions workflows to tangled workflows and back",
+    "Url": "https://github.com/43081j/tangleflow",
+    "Description": "Tangleflow: Converts GitHub Actions workflows to tangled workflows and back",
+    "Metadata": {
+      "score": "13",
+      "author": "wertyk",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-07-24T13:21:45.0816958+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49032756"
+    },
+    "Type": 1,
+    "Title": "The Book Prize Index",
+    "Url": "https://book-prize-index.vercel.app",
+    "Description": "The Book Prize Index",
+    "Metadata": {
+      "score": "32",
+      "author": "Luc",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-07-24T13:21:45.0992111+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49034895"
+    },
+    "Type": 1,
+    "Title": "Eight Newly Produced MQ-9 Reaper Drones Destroyed in Iranian Strike",
+    "Url": "https://militarywatchmagazine.com/",
+    "Description": "Eight Newly Produced MQ-9 Reaper Drones Destroyed in Iranian Strike",
+    "Metadata": {
+      "score": "13",
+      "author": "NordStreamYacht",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-07-24T13:21:45.1155606+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49022152"
+    },
+    "Type": 1,
+    "Title": "Writing by hand is good for your brain",
+    "Url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+    "Description": "Writing by hand is good for your brain",
+    "Metadata": {
+      "score": "1367",
+      "author": "dwwoelfel",
+      "commentCount": "621"
+    },
+    "FetchedAt": "2026-07-24T13:21:45.1309747+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49033087"
+    },
+    "Type": 1,
+    "Title": "Hetzner is working on LLM Inference",
+    "Url": "https://sliplane.io/blog/hetzner-inference",
+    "Description": "Hetzner is working on LLM Inference",
+    "Metadata": {
+      "score": "79",
+      "author": "jonas_scholz",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-07-24T13:21:45.1515423+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49033412"
+    },
+    "Type": 1,
+    "Title": "Game of Trees \u2013 Git-based version control from OpenBSD folks",
+    "Url": "https://www.gameoftrees.org/",
+    "Description": "Game of Trees \u2013 Git-based version control from OpenBSD folks",
+    "Metadata": {
+      "score": "18",
+      "author": "gregnavis",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-24T13:21:45.1682016+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49032072"
+    },
+    "Type": 1,
+    "Title": "AMD\u0027s Instinct MI455X: Aiming for the Sun",
+    "Url": "https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the",
+    "Description": "AMD\u0027s Instinct MI455X: Aiming for the Sun",
+    "Metadata": {
+      "score": "38",
+      "author": "ingve",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-07-24T13:21:45.1862943+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49033388"
+    },
+    "Type": 1,
+    "Title": "How Do We Stop Vibe Coding?",
+    "Url": "https://alexklos.ca/blog/how-do-we-stop-vibe-coding",
+    "Description": "How Do We Stop Vibe Coding?",
+    "Metadata": {
+      "score": "9",
+      "author": "prohobo",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-07-24T13:21:45.2027306+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49033001"
+    },
+    "Type": 1,
+    "Title": "The day Steve Jobs dissed me in a keynote (2010)",
+    "Url": "https://sive.rs/itunes",
+    "Description": "The day Steve Jobs dissed me in a keynote (2010)",
+    "Metadata": {
+      "score": "137",
+      "author": "downbad_",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-07-24T13:21:45.2223299+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49023016"
+    },
+    "Type": 1,
+    "Title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+    "Url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;littletech.org\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;littletech.org\u0026#x2F;\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;static.politico.com\u0026#x2F;4a\u0026#x2F;bf\u0026#x2F;9c4021d8404386b0a311dcccf0e5\u0026#x2F;lta-open-weight-ai-letter-7-22-26.pdf\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;static.politico.com\u0026#x2F;4a\u0026#x2F;bf\u0026#x2F;9c4021d8404386b0a311dcccf0...\u003C/a\u003E",
+    "Metadata": {
+      "score": "1001",
+      "author": "theanonymousone",
+      "commentCount": "804"
+    },
+    "FetchedAt": "2026-07-24T13:21:45.2393099+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49034948"
+    },
+    "Type": 1,
+    "Title": "A Painful Update about our Team",
+    "Url": "https://www.patreon.com/jackconte/posts/painful-update-164628951",
+    "Description": "A Painful Update about our Team",
+    "Metadata": {
+      "score": "5",
+      "author": "gpi",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-24T13:21:45.2575198+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49021856"
+    },
+    "Type": 1,
+    "Title": "I regret migrating to Codeberg",
+    "Url": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
+    "Description": "I regret migrating to Codeberg",
+    "Metadata": {
+      "score": "401",
+      "author": "boramalper",
+      "commentCount": "303"
+    },
+    "FetchedAt": "2026-07-24T13:21:45.273012+00:00"
   }
 ]
