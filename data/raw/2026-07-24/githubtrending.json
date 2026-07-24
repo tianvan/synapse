@@ -1,0 +1,186 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:block/buzz"
+    },
+    "Type": 0,
+    "Title": "block/buzz",
+    "Url": "https://github.com/block/buzz",
+    "Description": "A hive mind communication platform",
+    "Metadata": {
+      "owner": "block",
+      "repo": "buzz",
+      "language": "Rust",
+      "stars": "2,162"
+    },
+    "FetchedAt": "2026-07-24T01:58:29.0058728+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:koala73/worldmonitor"
+    },
+    "Type": 0,
+    "Title": "koala73/worldmonitor",
+    "Url": "https://github.com/koala73/worldmonitor",
+    "Description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "Metadata": {
+      "owner": "koala73",
+      "repo": "worldmonitor",
+      "language": "TypeScript",
+      "stars": "3,175",
+      "topics": "agent, ai, dashboard, geopolitics, mcp, mcp-server, monitoring, news, opensource, osint, palantir, situation"
+    },
+    "FetchedAt": "2026-07-24T01:58:29.2185504+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:shiyu-coder/Kronos"
+    },
+    "Type": 0,
+    "Title": "shiyu-coder/Kronos",
+    "Url": "https://github.com/shiyu-coder/Kronos",
+    "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "Metadata": {
+      "owner": "shiyu-coder",
+      "repo": "Kronos",
+      "language": "Python",
+      "stars": "401"
+    },
+    "FetchedAt": "2026-07-24T01:58:29.3364725+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:citrolabs/ego-lite"
+    },
+    "Type": 0,
+    "Title": "citrolabs/ego-lite",
+    "Url": "https://github.com/citrolabs/ego-lite",
+    "Description": "The best browser for both you and your AI agents work in parallel.",
+    "Metadata": {
+      "owner": "citrolabs",
+      "repo": "ego-lite",
+      "language": "JavaScript",
+      "stars": "247",
+      "topics": "agent-skills, ai-agent, browser, skills, skills-sh"
+    },
+    "FetchedAt": "2026-07-24T01:58:29.4766796+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ComposioHQ/awesome-claude-skills"
+    },
+    "Type": 0,
+    "Title": "ComposioHQ/awesome-claude-skills",
+    "Url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "Description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "Metadata": {
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "language": "Python",
+      "stars": "636",
+      "topics": "agent-skills, ai-agents, antigravity, automation, claude, claude-code, codex, composio, cursor, developer-tools, gemini-cli, mcp, openai-codex, rube, saas, skill, workflow-automation"
+    },
+    "FetchedAt": "2026-07-24T01:58:29.6008461+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:earthtojake/text-to-cad"
+    },
+    "Type": 0,
+    "Title": "earthtojake/text-to-cad",
+    "Url": "https://github.com/earthtojake/text-to-cad",
+    "Description": "A collection of agent skills for CAD, robotics and hardware design",
+    "Metadata": {
+      "owner": "earthtojake",
+      "repo": "text-to-cad",
+      "language": "JavaScript",
+      "stars": "230",
+      "topics": "3mf, agents, ai-agents, build123d, cad, dxf, glb, mechanical-engineering, opencascade, robotics, sdf, srdf, step, stl, stp, text-to-cad, urdf"
+    },
+    "FetchedAt": "2026-07-24T01:58:29.7315379+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:agegr/pi-web"
+    },
+    "Type": 0,
+    "Title": "agegr/pi-web",
+    "Url": "https://github.com/agegr/pi-web",
+    "Description": "Web UI for the pi coding agent",
+    "Metadata": {
+      "owner": "agegr",
+      "repo": "pi-web",
+      "language": "TypeScript",
+      "stars": "315"
+    },
+    "FetchedAt": "2026-07-24T01:58:29.8767184+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alibaba/open-code-review"
+    },
+    "Type": 0,
+    "Title": "alibaba/open-code-review",
+    "Url": "https://github.com/alibaba/open-code-review",
+    "Description": "Open-source \u0026 free \u2014 Battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
+    "Metadata": {
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "language": "Go",
+      "stars": "180",
+      "topics": "agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context"
+    },
+    "FetchedAt": "2026-07-24T01:58:29.9997716+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ruvnet/RuView"
+    },
+    "Type": 0,
+    "Title": "ruvnet/RuView",
+    "Url": "https://github.com/ruvnet/RuView",
+    "Description": "\u03C0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+    "Metadata": {
+      "owner": "ruvnet",
+      "repo": "RuView",
+      "language": "Rust",
+      "stars": "1,708",
+      "topics": "awesome, claude, densepose, esp32, firmware, home-assistant, home-automation, iot, monitoring, networking, npm, pose-estimation, react, rf, self-learning, skills, spatial-intelligence, typescript, wifi, wifi-security"
+    },
+    "FetchedAt": "2026-07-24T01:58:30.1289147+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Automattic/harper"
+    },
+    "Type": 0,
+    "Title": "Automattic/harper",
+    "Url": "https://github.com/Automattic/harper",
+    "Description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+    "Metadata": {
+      "owner": "Automattic",
+      "repo": "harper",
+      "language": "Rust",
+      "stars": "624",
+      "topics": "chrome-extension, developer-tools, english-language, grammar-checker, nodejs, react, rust, svelte, webassembly"
+    },
+    "FetchedAt": "2026-07-24T01:58:30.2396091+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jellyfin/jellyfin"
+    },
+    "Type": 0,
+    "Title": "jellyfin/jellyfin",
+    "Url": "https://github.com/jellyfin/jellyfin",
+    "Description": "The Free Software Media System - Server Backend \u0026 API",
+    "Metadata": {
+      "owner": "jellyfin",
+      "repo": "jellyfin",
+      "language": "C#",
+      "stars": "66",
+      "topics": "csharp, dotnet, hacktoberfest, jellyfin"
+    },
+    "FetchedAt": "2026-07-24T01:58:30.3711021+00:00"
+  }
+]
