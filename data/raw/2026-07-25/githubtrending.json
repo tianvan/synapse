@@ -1,0 +1,186 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:block/buzz"
+    },
+    "Type": 0,
+    "Title": "block/buzz",
+    "Url": "https://github.com/block/buzz",
+    "Description": "A hive mind communication platform",
+    "Metadata": {
+      "owner": "block",
+      "repo": "buzz",
+      "language": "Rust",
+      "stars": "3,270"
+    },
+    "FetchedAt": "2026-07-25T01:57:16.4131692+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:koala73/worldmonitor"
+    },
+    "Type": 0,
+    "Title": "koala73/worldmonitor",
+    "Url": "https://github.com/koala73/worldmonitor",
+    "Description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "Metadata": {
+      "owner": "koala73",
+      "repo": "worldmonitor",
+      "language": "TypeScript",
+      "stars": "2,184",
+      "topics": "agent, ai, dashboard, geopolitics, mcp, mcp-server, monitoring, news, opensource, osint, palantir, situation"
+    },
+    "FetchedAt": "2026-07-25T01:57:16.759141+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ComposioHQ/awesome-claude-skills"
+    },
+    "Type": 0,
+    "Title": "ComposioHQ/awesome-claude-skills",
+    "Url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "Description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "Metadata": {
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "language": "Python",
+      "stars": "663",
+      "topics": "agent-skills, ai-agents, antigravity, automation, claude, claude-code, codex, composio, cursor, developer-tools, gemini-cli, mcp, openai-codex, rube, saas, skill, workflow-automation"
+    },
+    "FetchedAt": "2026-07-25T01:57:16.9176512+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Pumpkin-MC/Pumpkin"
+    },
+    "Type": 0,
+    "Title": "Pumpkin-MC/Pumpkin",
+    "Url": "https://github.com/Pumpkin-MC/Pumpkin",
+    "Description": "Empowering everyone to host fast and efficient Minecraft servers.",
+    "Metadata": {
+      "owner": "Pumpkin-MC",
+      "repo": "Pumpkin",
+      "language": "Rust",
+      "stars": "473",
+      "topics": "docker, game-server, gamedev, minecraft, minecraft-bedrock-edition, minecraft-protocol, minecraft-server, networking, rust, server"
+    },
+    "FetchedAt": "2026-07-25T01:57:17.1091338+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:shiyu-coder/Kronos"
+    },
+    "Type": 0,
+    "Title": "shiyu-coder/Kronos",
+    "Url": "https://github.com/shiyu-coder/Kronos",
+    "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "Metadata": {
+      "owner": "shiyu-coder",
+      "repo": "Kronos",
+      "language": "Python",
+      "stars": "499"
+    },
+    "FetchedAt": "2026-07-25T01:57:17.2894286+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Automattic/harper"
+    },
+    "Type": 0,
+    "Title": "Automattic/harper",
+    "Url": "https://github.com/Automattic/harper",
+    "Description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+    "Metadata": {
+      "owner": "Automattic",
+      "repo": "harper",
+      "language": "Rust",
+      "stars": "876",
+      "topics": "chrome-extension, developer-tools, english-language, grammar-checker, nodejs, react, rust, svelte, webassembly"
+    },
+    "FetchedAt": "2026-07-25T01:57:17.4466554+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:citrolabs/ego-lite"
+    },
+    "Type": 0,
+    "Title": "citrolabs/ego-lite",
+    "Url": "https://github.com/citrolabs/ego-lite",
+    "Description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "Metadata": {
+      "owner": "citrolabs",
+      "repo": "ego-lite",
+      "language": "JavaScript",
+      "stars": "880",
+      "topics": "agent-skills, ai-agent, browser, skills, skills-sh"
+    },
+    "FetchedAt": "2026-07-25T01:57:17.675039+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:yorukot/superfile"
+    },
+    "Type": 0,
+    "Title": "yorukot/superfile",
+    "Url": "https://github.com/yorukot/superfile",
+    "Description": "Pretty fancy and modern terminal file manager",
+    "Metadata": {
+      "owner": "yorukot",
+      "repo": "superfile",
+      "language": "Go",
+      "stars": "338",
+      "topics": "bubbletea, cli, file-manager, filemanager, filesystem, golang, hacktoberfest, linux-app, terminal-app, terminal-based, tui"
+    },
+    "FetchedAt": "2026-07-25T01:57:17.8512832+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ruvnet/RuView"
+    },
+    "Type": 0,
+    "Title": "ruvnet/RuView",
+    "Url": "https://github.com/ruvnet/RuView",
+    "Description": "\u03C0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+    "Metadata": {
+      "owner": "ruvnet",
+      "repo": "RuView",
+      "language": "Rust",
+      "stars": "1,022",
+      "topics": "awesome, claude, densepose, esp32, firmware, home-assistant, home-automation, iot, monitoring, networking, npm, pose-estimation, react, rf, self-learning, skills, spatial-intelligence, typescript, wifi, wifi-security"
+    },
+    "FetchedAt": "2026-07-25T01:57:18.0150752+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Lordog/dive-into-llms"
+    },
+    "Type": 0,
+    "Title": "Lordog/dive-into-llms",
+    "Url": "https://github.com/Lordog/dive-into-llms",
+    "Description": "\u300A\u52A8\u624B\u5B66\u5927\u6A21\u578BDive into LLMs\u300B\u7CFB\u5217\u7F16\u7A0B\u5B9E\u8DF5\u6559\u7A0B",
+    "Metadata": {
+      "owner": "Lordog",
+      "repo": "dive-into-llms",
+      "language": "Jupyter Notebook",
+      "stars": "328"
+    },
+    "FetchedAt": "2026-07-25T01:57:18.1791103+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:OtterMind/Chat2DB"
+    },
+    "Type": 0,
+    "Title": "OtterMind/Chat2DB",
+    "Url": "https://github.com/OtterMind/Chat2DB",
+    "Description": "\uD83D\uDD25\uD83D\uDD25\uD83D\uDD25 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+    "Metadata": {
+      "owner": "OtterMind",
+      "repo": "Chat2DB",
+      "language": "Java",
+      "stars": "82",
+      "topics": "ai, bi, chatgpt, clickhouse, clickhouse-client, database, datagrip, db2, dbeaver, gpt, hive, mysql, navicat, oracle, postgresql, redis, redis-client, sqlserver, text2sql"
+    },
+    "FetchedAt": "2026-07-25T01:57:18.3404437+00:00"
+  }
+]
