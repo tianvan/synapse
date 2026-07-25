@@ -1,22 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:block/buzz"
-    },
-    "Type": 0,
-    "Title": "block/buzz",
-    "Url": "https://github.com/block/buzz",
-    "Description": "A hive mind communication platform",
-    "Metadata": {
-      "owner": "block",
-      "repo": "buzz",
-      "language": "Rust",
-      "stars": "3,270"
-    },
-    "FetchedAt": "2026-07-25T07:53:39.070297+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:koala73/worldmonitor"
     },
     "Type": 0,
@@ -31,90 +15,6 @@
       "topics": "agent, ai, dashboard, geopolitics, mcp, mcp-server, monitoring, news, opensource, osint, palantir, situation"
     },
     "FetchedAt": "2026-07-25T07:53:39.2937335+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:ComposioHQ/awesome-claude-skills"
-    },
-    "Type": 0,
-    "Title": "ComposioHQ/awesome-claude-skills",
-    "Url": "https://github.com/ComposioHQ/awesome-claude-skills",
-    "Description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-    "Metadata": {
-      "owner": "ComposioHQ",
-      "repo": "awesome-claude-skills",
-      "language": "Python",
-      "stars": "663",
-      "topics": "agent-skills, ai-agents, antigravity, automation, claude, claude-code, codex, composio, cursor, developer-tools, gemini-cli, mcp, openai-codex, rube, saas, skill, workflow-automation"
-    },
-    "FetchedAt": "2026-07-25T07:53:39.4305143+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:Pumpkin-MC/Pumpkin"
-    },
-    "Type": 0,
-    "Title": "Pumpkin-MC/Pumpkin",
-    "Url": "https://github.com/Pumpkin-MC/Pumpkin",
-    "Description": "Empowering everyone to host fast and efficient Minecraft servers.",
-    "Metadata": {
-      "owner": "Pumpkin-MC",
-      "repo": "Pumpkin",
-      "language": "Rust",
-      "stars": "473",
-      "topics": "docker, game-server, gamedev, minecraft, minecraft-bedrock-edition, minecraft-protocol, minecraft-server, networking, rust, server"
-    },
-    "FetchedAt": "2026-07-25T07:53:39.5523414+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:shiyu-coder/Kronos"
-    },
-    "Type": 0,
-    "Title": "shiyu-coder/Kronos",
-    "Url": "https://github.com/shiyu-coder/Kronos",
-    "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "Metadata": {
-      "owner": "shiyu-coder",
-      "repo": "Kronos",
-      "language": "Python",
-      "stars": "499"
-    },
-    "FetchedAt": "2026-07-25T07:53:39.6715532+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:Automattic/harper"
-    },
-    "Type": 0,
-    "Title": "Automattic/harper",
-    "Url": "https://github.com/Automattic/harper",
-    "Description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-    "Metadata": {
-      "owner": "Automattic",
-      "repo": "harper",
-      "language": "Rust",
-      "stars": "876",
-      "topics": "chrome-extension, developer-tools, english-language, grammar-checker, nodejs, react, rust, svelte, webassembly"
-    },
-    "FetchedAt": "2026-07-25T07:53:39.7934805+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:citrolabs/ego-lite"
-    },
-    "Type": 0,
-    "Title": "citrolabs/ego-lite",
-    "Url": "https://github.com/citrolabs/ego-lite",
-    "Description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-    "Metadata": {
-      "owner": "citrolabs",
-      "repo": "ego-lite",
-      "language": "JavaScript",
-      "stars": "880",
-      "topics": "agent-skills, ai-agent, browser, skills, skills-sh"
-    },
-    "FetchedAt": "2026-07-25T07:53:39.9243137+00:00"
   },
   {
     "ExternalId": {
@@ -152,6 +52,172 @@
   },
   {
     "ExternalId": {
+      "Value": "github:block/buzz"
+    },
+    "Type": 0,
+    "Title": "block/buzz",
+    "Url": "https://github.com/block/buzz",
+    "Description": "A hive mind communication platform",
+    "Metadata": {
+      "owner": "block",
+      "repo": "buzz",
+      "language": "Rust",
+      "stars": "2,506"
+    },
+    "FetchedAt": "2026-07-25T13:06:17.9546305+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alibaba/open-code-review"
+    },
+    "Type": 0,
+    "Title": "alibaba/open-code-review",
+    "Url": "https://github.com/alibaba/open-code-review",
+    "Description": "Open-source \u0026 free \u2014 Battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
+    "Metadata": {
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "language": "Go",
+      "stars": "1,066",
+      "topics": "agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context"
+    },
+    "FetchedAt": "2026-07-25T13:06:18.3341878+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:citrolabs/ego-lite"
+    },
+    "Type": 0,
+    "Title": "citrolabs/ego-lite",
+    "Url": "https://github.com/citrolabs/ego-lite",
+    "Description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "Metadata": {
+      "owner": "citrolabs",
+      "repo": "ego-lite",
+      "language": "JavaScript",
+      "stars": "986",
+      "topics": "agent-skills, ai-agent, browser, skills, skills-sh"
+    },
+    "FetchedAt": "2026-07-25T13:06:18.5085683+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ComposioHQ/awesome-claude-skills"
+    },
+    "Type": 0,
+    "Title": "ComposioHQ/awesome-claude-skills",
+    "Url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "Description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "Metadata": {
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "language": "Python",
+      "stars": "574",
+      "topics": "agent-skills, ai-agents, antigravity, automation, claude, claude-code, codex, composio, cursor, developer-tools, gemini-cli, mcp, openai-codex, rube, saas, skill, workflow-automation"
+    },
+    "FetchedAt": "2026-07-25T13:06:18.6870433+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-cookbooks"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-cookbooks",
+    "Url": "https://github.com/anthropics/claude-cookbooks",
+    "Description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-cookbooks",
+      "language": "Jupyter Notebook",
+      "stars": "144"
+    },
+    "FetchedAt": "2026-07-25T13:06:18.8810418+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Automattic/harper"
+    },
+    "Type": 0,
+    "Title": "Automattic/harper",
+    "Url": "https://github.com/Automattic/harper",
+    "Description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+    "Metadata": {
+      "owner": "Automattic",
+      "repo": "harper",
+      "language": "Rust",
+      "stars": "503",
+      "topics": "chrome-extension, developer-tools, english-language, grammar-checker, nodejs, react, rust, svelte, webassembly"
+    },
+    "FetchedAt": "2026-07-25T13:06:19.0544353+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:shiyu-coder/Kronos"
+    },
+    "Type": 0,
+    "Title": "shiyu-coder/Kronos",
+    "Url": "https://github.com/shiyu-coder/Kronos",
+    "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "Metadata": {
+      "owner": "shiyu-coder",
+      "repo": "Kronos",
+      "language": "Python",
+      "stars": "319"
+    },
+    "FetchedAt": "2026-07-25T13:06:19.2326469+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Pumpkin-MC/Pumpkin"
+    },
+    "Type": 0,
+    "Title": "Pumpkin-MC/Pumpkin",
+    "Url": "https://github.com/Pumpkin-MC/Pumpkin",
+    "Description": "Empowering everyone to host fast and efficient Minecraft servers.",
+    "Metadata": {
+      "owner": "Pumpkin-MC",
+      "repo": "Pumpkin",
+      "language": "Rust",
+      "stars": "357",
+      "topics": "docker, game-server, gamedev, minecraft, minecraft-bedrock-edition, minecraft-protocol, minecraft-server, networking, rust, server"
+    },
+    "FetchedAt": "2026-07-25T13:06:19.4537244+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:permissionlesstech/bitchat"
+    },
+    "Type": 0,
+    "Title": "permissionlesstech/bitchat",
+    "Url": "https://github.com/permissionlesstech/bitchat",
+    "Description": "bluetooth mesh chat, IRC vibes",
+    "Metadata": {
+      "owner": "permissionlesstech",
+      "repo": "bitchat",
+      "language": "Swift",
+      "stars": "1,695"
+    },
+    "FetchedAt": "2026-07-25T13:06:19.6488611+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:palmier-io/palmier-pro"
+    },
+    "Type": 0,
+    "Title": "palmier-io/palmier-pro",
+    "Url": "https://github.com/palmier-io/palmier-pro",
+    "Description": "macOS video editor built for AI",
+    "Metadata": {
+      "owner": "palmier-io",
+      "repo": "palmier-pro",
+      "language": "Swift",
+      "stars": "731",
+      "topics": "ai-video, claude, macos, mcp, seedance2, swift, video-editor"
+    },
+    "FetchedAt": "2026-07-25T13:06:19.8248593+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:Lordog/dive-into-llms"
     },
     "Type": 0,
@@ -162,9 +228,26 @@
       "owner": "Lordog",
       "repo": "dive-into-llms",
       "language": "Jupyter Notebook",
-      "stars": "328"
+      "stars": "405"
     },
-    "FetchedAt": "2026-07-25T07:53:40.2824662+00:00"
+    "FetchedAt": "2026-07-25T13:06:19.9974936+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:RyanCodrai/turbovec"
+    },
+    "Type": 0,
+    "Title": "RyanCodrai/turbovec",
+    "Url": "https://github.com/RyanCodrai/turbovec",
+    "Description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+    "Metadata": {
+      "owner": "RyanCodrai",
+      "repo": "turbovec",
+      "language": "Python",
+      "stars": "89",
+      "topics": "ann, avx512, embedding, embeddings, faiss, nearest-neighbor, neon, python, quant, quantization, rag, rust, simd, turboquant, vector-search"
+    },
+    "FetchedAt": "2026-07-25T13:06:20.1585894+00:00"
   },
   {
     "ExternalId": {
@@ -178,9 +261,25 @@
       "owner": "OtterMind",
       "repo": "Chat2DB",
       "language": "Java",
-      "stars": "82",
+      "stars": "364",
       "topics": "ai, bi, chatgpt, clickhouse, clickhouse-client, database, datagrip, db2, dbeaver, gpt, hive, mysql, navicat, oracle, postgresql, redis, redis-client, sqlserver, text2sql"
     },
-    "FetchedAt": "2026-07-25T07:53:40.3913125+00:00"
+    "FetchedAt": "2026-07-25T13:06:20.3459121+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:andrewyng/aisuite"
+    },
+    "Type": 0,
+    "Title": "andrewyng/aisuite",
+    "Url": "https://github.com/andrewyng/aisuite",
+    "Description": "Simple, unified interface to multiple Generative AI providers ",
+    "Metadata": {
+      "owner": "andrewyng",
+      "repo": "aisuite",
+      "language": "Python",
+      "stars": "75"
+    },
+    "FetchedAt": "2026-07-25T13:06:20.5213718+00:00"
   }
 ]
