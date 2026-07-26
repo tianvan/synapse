@@ -1,0 +1,234 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:block/buzz"
+    },
+    "Type": 0,
+    "Title": "block/buzz",
+    "Url": "https://github.com/block/buzz",
+    "Description": "A hive mind communication platform",
+    "Metadata": {
+      "owner": "block",
+      "repo": "buzz",
+      "language": "Rust",
+      "stars": "2,491"
+    },
+    "FetchedAt": "2026-07-26T02:01:53.5625554+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alibaba/open-code-review"
+    },
+    "Type": 0,
+    "Title": "alibaba/open-code-review",
+    "Url": "https://github.com/alibaba/open-code-review",
+    "Description": "Open-source \u0026 free \u2014 Battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
+    "Metadata": {
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "language": "Go",
+      "stars": "431",
+      "topics": "agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context"
+    },
+    "FetchedAt": "2026-07-26T02:01:53.7309594+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:citrolabs/ego-lite"
+    },
+    "Type": 0,
+    "Title": "citrolabs/ego-lite",
+    "Url": "https://github.com/citrolabs/ego-lite",
+    "Description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "Metadata": {
+      "owner": "citrolabs",
+      "repo": "ego-lite",
+      "language": "JavaScript",
+      "stars": "986",
+      "topics": "agent-skills, ai-agent, browser, skills, skills-sh"
+    },
+    "FetchedAt": "2026-07-26T02:01:53.851871+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ComposioHQ/awesome-claude-skills"
+    },
+    "Type": 0,
+    "Title": "ComposioHQ/awesome-claude-skills",
+    "Url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "Description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "Metadata": {
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "language": "Python",
+      "stars": "577",
+      "topics": "agent-skills, ai-agents, antigravity, automation, claude, claude-code, codex, composio, cursor, developer-tools, gemini-cli, mcp, openai-codex, rube, saas, skill, workflow-automation"
+    },
+    "FetchedAt": "2026-07-26T02:01:53.9650902+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-cookbooks"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-cookbooks",
+    "Url": "https://github.com/anthropics/claude-cookbooks",
+    "Description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-cookbooks",
+      "language": "Jupyter Notebook",
+      "stars": "132"
+    },
+    "FetchedAt": "2026-07-26T02:01:54.0887457+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Automattic/harper"
+    },
+    "Type": 0,
+    "Title": "Automattic/harper",
+    "Url": "https://github.com/Automattic/harper",
+    "Description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+    "Metadata": {
+      "owner": "Automattic",
+      "repo": "harper",
+      "language": "Rust",
+      "stars": "503",
+      "topics": "chrome-extension, developer-tools, english-language, grammar-checker, nodejs, react, rust, svelte, webassembly"
+    },
+    "FetchedAt": "2026-07-26T02:01:54.2062829+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:shiyu-coder/Kronos"
+    },
+    "Type": 0,
+    "Title": "shiyu-coder/Kronos",
+    "Url": "https://github.com/shiyu-coder/Kronos",
+    "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "Metadata": {
+      "owner": "shiyu-coder",
+      "repo": "Kronos",
+      "language": "Python",
+      "stars": "319"
+    },
+    "FetchedAt": "2026-07-26T02:01:54.3354644+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Pumpkin-MC/Pumpkin"
+    },
+    "Type": 0,
+    "Title": "Pumpkin-MC/Pumpkin",
+    "Url": "https://github.com/Pumpkin-MC/Pumpkin",
+    "Description": "Empowering everyone to host fast and efficient Minecraft servers.",
+    "Metadata": {
+      "owner": "Pumpkin-MC",
+      "repo": "Pumpkin",
+      "language": "Rust",
+      "stars": "358",
+      "topics": "docker, game-server, gamedev, minecraft, minecraft-bedrock-edition, minecraft-protocol, minecraft-server, networking, rust, server"
+    },
+    "FetchedAt": "2026-07-26T02:01:54.4316775+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:permissionlesstech/bitchat"
+    },
+    "Type": 0,
+    "Title": "permissionlesstech/bitchat",
+    "Url": "https://github.com/permissionlesstech/bitchat",
+    "Description": "bluetooth mesh chat, IRC vibes",
+    "Metadata": {
+      "owner": "permissionlesstech",
+      "repo": "bitchat",
+      "language": "Swift",
+      "stars": "1,720"
+    },
+    "FetchedAt": "2026-07-26T02:01:54.5434202+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:palmier-io/palmier-pro"
+    },
+    "Type": 0,
+    "Title": "palmier-io/palmier-pro",
+    "Url": "https://github.com/palmier-io/palmier-pro",
+    "Description": "macOS video editor built for AI",
+    "Metadata": {
+      "owner": "palmier-io",
+      "repo": "palmier-pro",
+      "language": "Swift",
+      "stars": "412",
+      "topics": "ai-video, claude, macos, mcp, seedance2, swift, video-editor"
+    },
+    "FetchedAt": "2026-07-26T02:01:54.6511844+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Lordog/dive-into-llms"
+    },
+    "Type": 0,
+    "Title": "Lordog/dive-into-llms",
+    "Url": "https://github.com/Lordog/dive-into-llms",
+    "Description": "\u300A\u52A8\u624B\u5B66\u5927\u6A21\u578BDive into LLMs\u300B\u7CFB\u5217\u7F16\u7A0B\u5B9E\u8DF5\u6559\u7A0B",
+    "Metadata": {
+      "owner": "Lordog",
+      "repo": "dive-into-llms",
+      "language": "Jupyter Notebook",
+      "stars": "408"
+    },
+    "FetchedAt": "2026-07-26T02:01:54.7581416+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:RyanCodrai/turbovec"
+    },
+    "Type": 0,
+    "Title": "RyanCodrai/turbovec",
+    "Url": "https://github.com/RyanCodrai/turbovec",
+    "Description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+    "Metadata": {
+      "owner": "RyanCodrai",
+      "repo": "turbovec",
+      "language": "Python",
+      "stars": "86",
+      "topics": "ann, avx512, embedding, embeddings, faiss, nearest-neighbor, neon, python, quant, quantization, rag, rust, simd, turboquant, vector-search"
+    },
+    "FetchedAt": "2026-07-26T02:01:54.8650519+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:OtterMind/Chat2DB"
+    },
+    "Type": 0,
+    "Title": "OtterMind/Chat2DB",
+    "Url": "https://github.com/OtterMind/Chat2DB",
+    "Description": "\uD83D\uDD25\uD83D\uDD25\uD83D\uDD25 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+    "Metadata": {
+      "owner": "OtterMind",
+      "repo": "Chat2DB",
+      "language": "Java",
+      "stars": "360",
+      "topics": "ai, bi, chatgpt, clickhouse, clickhouse-client, database, datagrip, db2, dbeaver, gpt, hive, mysql, navicat, oracle, postgresql, redis, redis-client, sqlserver, text2sql"
+    },
+    "FetchedAt": "2026-07-26T02:01:54.968465+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:andrewyng/aisuite"
+    },
+    "Type": 0,
+    "Title": "andrewyng/aisuite",
+    "Url": "https://github.com/andrewyng/aisuite",
+    "Description": "Simple, unified interface to multiple Generative AI providers ",
+    "Metadata": {
+      "owner": "andrewyng",
+      "repo": "aisuite",
+      "language": "Python",
+      "stars": "77"
+    },
+    "FetchedAt": "2026-07-26T02:01:55.0798729+00:00"
+  }
+]
