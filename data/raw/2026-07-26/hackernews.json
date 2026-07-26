@@ -361,51 +361,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49056112"
-    },
-    "Type": 1,
-    "Title": "Ruff v0.16.0 \u2013 Significant new updates \u2013 413 default rules up from 59",
-    "Url": "https://astral.sh/blog/ruff-v0.16.0",
-    "Description": "Ruff v0.16.0 \u2013 Significant new updates \u2013 413 default rules up from 59",
-    "Metadata": {
-      "score": "150",
-      "author": "vismit2000",
-      "commentCount": "88"
-    },
-    "FetchedAt": "2026-07-26T13:03:10.7977287+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49055169"
-    },
-    "Type": 1,
-    "Title": "GrapheneOS protections against data extraction from locked devices",
-    "Url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-    "Description": "GrapheneOS protections against data extraction from locked devices",
-    "Metadata": {
-      "score": "158",
-      "author": "Cider9986",
-      "commentCount": "81"
-    },
-    "FetchedAt": "2026-07-26T13:03:10.8293592+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49047453"
-    },
-    "Type": 1,
-    "Title": "A shell colon does nothing. Use it anyway",
-    "Url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-    "Description": "A shell colon does nothing. Use it anyway",
-    "Metadata": {
-      "score": "268",
-      "author": "olexsmir",
-      "commentCount": "109"
-    },
-    "FetchedAt": "2026-07-26T13:03:10.8613546+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49056351"
     },
     "Type": 1,
@@ -418,21 +373,6 @@
       "commentCount": "11"
     },
     "FetchedAt": "2026-07-26T13:03:10.8930701+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49054107"
-    },
-    "Type": 1,
-    "Title": "An ESP32 based plane radar for my desk",
-    "Url": "https://blog.ktz.me/esp32-plane-radar/",
-    "Description": "An ESP32 based plane radar for my desk",
-    "Metadata": {
-      "score": "187",
-      "author": "alexktz",
-      "commentCount": "37"
-    },
-    "FetchedAt": "2026-07-26T13:03:10.9241598+00:00"
   },
   {
     "ExternalId": {
@@ -676,21 +616,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49057574"
-    },
-    "Type": 1,
-    "Title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
-    "Url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
-    "Description": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
-    "Metadata": {
-      "score": "6",
-      "author": "1vuio0pswjnm7",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-07-26T13:03:11.4705455+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49056194"
     },
     "Type": 1,
@@ -793,5 +718,455 @@
       "commentCount": "15"
     },
     "FetchedAt": "2026-07-26T13:03:11.6934383+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49060978"
+    },
+    "Type": 1,
+    "Title": "The Strongest El Ni\u00F1o Ever",
+    "Url": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
+    "Description": "The Strongest El Ni\u00F1o Ever",
+    "Metadata": {
+      "score": "37",
+      "author": "ndsipa_pomu",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.2469181+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49058669"
+    },
+    "Type": 1,
+    "Title": "London Gatwick has launched a robotic airport parking service",
+    "Url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+    "Description": "London Gatwick has launched a robotic airport parking service",
+    "Metadata": {
+      "score": "211",
+      "author": "agotterer",
+      "commentCount": "146"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.2764325+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49057175"
+    },
+    "Type": 1,
+    "Title": "Kill The Cookie Banner",
+    "Url": "https://killthecookiebanner.eu/",
+    "Description": "Kill The Cookie Banner",
+    "Metadata": {
+      "score": "444",
+      "author": "rapnie",
+      "commentCount": "240"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.3040025+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49059367"
+    },
+    "Type": 1,
+    "Title": "Design is compromise",
+    "Url": "https://stephango.com/design-is-compromise",
+    "Description": "Design is compromise",
+    "Metadata": {
+      "score": "90",
+      "author": "ankitg12",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.3313948+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49059398"
+    },
+    "Type": 1,
+    "Title": "Show HN: CheapSecurity \u2013 Lightweight, Self-Hosted CCTV for Linux SBCs",
+    "Url": "https://github.com/gmrandazzo/CheapSecurity",
+    "Description": "Show HN: CheapSecurity \u2013 Lightweight, Self-Hosted CCTV for Linux SBCs",
+    "Metadata": {
+      "score": "38",
+      "author": "zeldone",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.3586922+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49056112"
+    },
+    "Type": 1,
+    "Title": "Ruff v0.16.0 \u2013 Significant new updates \u2013 413 default rules up from 59",
+    "Url": "https://astral.sh/blog/ruff-v0.16.0",
+    "Description": "Ruff v0.16.0 \u2013 Significant new updates \u2013 413 default rules up from 59",
+    "Metadata": {
+      "score": "313",
+      "author": "vismit2000",
+      "commentCount": "190"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.387024+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48997008"
+    },
+    "Type": 1,
+    "Title": "Jimothy the raccoon has a rare spinal condition. Here\u0027s what that means",
+    "Url": "https://www.popsci.com/science/whats-jimothy-raccoon-condition/",
+    "Description": "Jimothy the raccoon has a rare spinal condition. Here\u0027s what that means",
+    "Metadata": {
+      "score": "52",
+      "author": "speckx",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.4166447+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49060295"
+    },
+    "Type": 1,
+    "Title": "How to Write English Prose",
+    "Url": "https://thelampmagazine.com/blog/how-to-write-english-prose",
+    "Description": "How to Write English Prose",
+    "Metadata": {
+      "score": "14",
+      "author": "geneticdrifts",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.4443705+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49060856"
+    },
+    "Type": 1,
+    "Title": "Decker",
+    "Url": "https://beyondloom.com/decker/",
+    "Description": "Decker",
+    "Metadata": {
+      "score": "8",
+      "author": "tosh",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.4720399+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49057398"
+    },
+    "Type": 1,
+    "Title": "Go Analysis Framework: modular static analysis by go team",
+    "Url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+    "Description": "Go Analysis Framework: modular static analysis by go team",
+    "Metadata": {
+      "score": "139",
+      "author": "AbuAssar",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.5004246+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49057241"
+    },
+    "Type": 1,
+    "Title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+    "Url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+    "Description": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+    "Metadata": {
+      "score": "178",
+      "author": "rcy",
+      "commentCount": "56"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.5278827+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49060945"
+    },
+    "Type": 1,
+    "Title": "How to Block Some of the Bots",
+    "Url": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
+    "Description": "How to Block Some of the Bots",
+    "Metadata": {
+      "score": "4",
+      "author": "Bender",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.5551677+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49016917"
+    },
+    "Type": 1,
+    "Title": "Using sed to make indexes for books (long)",
+    "Url": "https://www.pement.org/sed/make_indexes.txt",
+    "Description": "Using sed to make indexes for books (long)",
+    "Metadata": {
+      "score": "17",
+      "author": "TMWNN",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.5837276+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49060802"
+    },
+    "Type": 1,
+    "Title": "Google Cache used to have a copy of this page at",
+    "Url": "https://www.hornet.org/wikipedia-notes.txt",
+    "Description": "Google Cache used to have a copy of this page at",
+    "Metadata": {
+      "score": "6",
+      "author": "jruohonen",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.6117569+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49060724"
+    },
+    "Type": 1,
+    "Title": "Introduction to Data-Oriented Design [pdf]",
+    "Url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+    "Description": "Introduction to Data-Oriented Design [pdf]",
+    "Metadata": {
+      "score": "4",
+      "author": "tosh",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.6389284+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49060998"
+    },
+    "Type": 1,
+    "Title": "Show HN: The Occult Gatsby",
+    "Url": "https://occultgatsby.work",
+    "Description": "The Occult Great Gatsby\nThe Great Gatsby Annotated for Esoteric Content:\nThe Fourth Way, Alchemy, Tarot, and Kabbalah\u003Cp\u003EAuthor is my father, Jon Woodson.  I\u0026#x27;m the web guy who wanted to bring this to a wider audience with a more interactive way to pop-up the notes about esoteric content.\u003Cp\u003EAuthor\u0026#x27;s blurb from Amazon self-publishing page:\u003Cp\u003EF. Scott Fitzgerald\u2019s novel, The Great Gatsby, is a manual for spiritual development. It is not a unique text, for many American modernist novels of ",
+    "Metadata": {
+      "score": "4",
+      "author": "morganw",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.6674133+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49022355"
+    },
+    "Type": 1,
+    "Title": "I learned PCB design, 3D printing and C just to listen to music",
+    "Url": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
+    "Description": "I learned PCB design, 3D printing and C just to listen to music",
+    "Metadata": {
+      "score": "120",
+      "author": "interfeco",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.6955973+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49057877"
+    },
+    "Type": 1,
+    "Title": "The New AI Superpowers: Focus and Followthrough",
+    "Url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+    "Description": "The New AI Superpowers: Focus and Followthrough",
+    "Metadata": {
+      "score": "59",
+      "author": "mooreds",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.7234311+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49055169"
+    },
+    "Type": 1,
+    "Title": "GrapheneOS protections against data extraction from locked devices",
+    "Url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+    "Description": "GrapheneOS protections against data extraction from locked devices",
+    "Metadata": {
+      "score": "309",
+      "author": "Cider9986",
+      "commentCount": "194"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.753608+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49006049"
+    },
+    "Type": 1,
+    "Title": "What\u0027s Under Your Feet in New York City?",
+    "Url": "https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city",
+    "Description": "What\u0027s Under Your Feet in New York City?",
+    "Metadata": {
+      "score": "104",
+      "author": "sohkamyung",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.7817818+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49058993"
+    },
+    "Type": 1,
+    "Title": "An Inside Look at the Token Reseller Market",
+    "Url": "https://vectoral.com/blog/token-relay-market",
+    "Description": "An Inside Look at the Token Reseller Market",
+    "Metadata": {
+      "score": "88",
+      "author": "mlenhard",
+      "commentCount": "43"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.8095655+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49057666"
+    },
+    "Type": 1,
+    "Title": "Show HN: Reverse Minesweeper",
+    "Url": "https://sunflowersgame.com/",
+    "Description": "Show HN: Reverse Minesweeper",
+    "Metadata": {
+      "score": "64",
+      "author": "pompomsheep",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.8378189+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49057574"
+    },
+    "Type": 1,
+    "Title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
+    "Url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
+    "Description": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
+    "Metadata": {
+      "score": "250",
+      "author": "1vuio0pswjnm7",
+      "commentCount": "198"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.8675204+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49060277"
+    },
+    "Type": 1,
+    "Title": "Calling all open source maintainers working with Ruby",
+    "Url": "https://www.rubyforum.org/t/calling-all-open-source-maintainers-working-with-ruby/553",
+    "Description": "Calling all open source maintainers working with Ruby",
+    "Metadata": {
+      "score": "8",
+      "author": "arto",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.8956712+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49047453"
+    },
+    "Type": 1,
+    "Title": "A shell colon does nothing. Use it anyway",
+    "Url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+    "Description": "A shell colon does nothing. Use it anyway",
+    "Metadata": {
+      "score": "354",
+      "author": "olexsmir",
+      "commentCount": "151"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.9235292+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49020647"
+    },
+    "Type": 1,
+    "Title": "Sum of Cubes via Difference Tables",
+    "Url": "https://leancrew.com/all-this/2026/07/sum-of-cubes-via-difference-tables/",
+    "Description": "Sum of Cubes via Difference Tables",
+    "Metadata": {
+      "score": "7",
+      "author": "surprisetalk",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.9512642+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49060495"
+    },
+    "Type": 1,
+    "Title": "French firefighters face \u0027pyrocumulonimbus\u0027 for first time",
+    "Url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+    "Description": "French firefighters face \u0027pyrocumulonimbus\u0027 for first time",
+    "Metadata": {
+      "score": "28",
+      "author": "saaaaaam",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-07-26T18:59:57.9813235+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49059977"
+    },
+    "Type": 1,
+    "Title": "Using ThinkPad T480 as a mobile phone",
+    "Url": "https://grego.site/blog/thinkphone",
+    "Description": "Using ThinkPad T480 as a mobile phone",
+    "Metadata": {
+      "score": "5",
+      "author": "marosgrego",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-07-26T18:59:58.0092413+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49056620"
+    },
+    "Type": 1,
+    "Title": "Terence Tao: Mathematics in the Age of AI [pdf]",
+    "Url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+    "Description": "Terence Tao: Mathematics in the Age of AI [pdf]",
+    "Metadata": {
+      "score": "59",
+      "author": "Anon84",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-07-26T18:59:58.0397212+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49054107"
+    },
+    "Type": 1,
+    "Title": "An ESP32 based plane radar for my desk",
+    "Url": "https://blog.ktz.me/esp32-plane-radar/",
+    "Description": "An ESP32 based plane radar for my desk",
+    "Metadata": {
+      "score": "241",
+      "author": "alexktz",
+      "commentCount": "53"
+    },
+    "FetchedAt": "2026-07-26T18:59:58.0670105+00:00"
   }
 ]
