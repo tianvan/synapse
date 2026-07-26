@@ -196,261 +196,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49047453"
-    },
-    "Type": 1,
-    "Title": "A shell colon does nothing. Use it anyway",
-    "Url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-    "Description": "A shell colon does nothing. Use it anyway",
-    "Metadata": {
-      "score": "120",
-      "author": "olexsmir",
-      "commentCount": "37"
-    },
-    "FetchedAt": "2026-07-26T08:12:18.5871804+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49054107"
-    },
-    "Type": 1,
-    "Title": "An ESP32 based plane radar for my desk",
-    "Url": "https://blog.ktz.me/esp32-plane-radar/",
-    "Description": "An ESP32 based plane radar for my desk",
-    "Metadata": {
-      "score": "118",
-      "author": "alexktz",
-      "commentCount": "21"
-    },
-    "FetchedAt": "2026-07-26T08:12:18.6150373+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49051361"
-    },
-    "Type": 1,
-    "Title": "The new rules of context engineering for Claude 5 generation models",
-    "Url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-    "Description": "The new rules of context engineering for Claude 5 generation models",
-    "Metadata": {
-      "score": "301",
-      "author": "mellosouls",
-      "commentCount": "187"
-    },
-    "FetchedAt": "2026-07-26T08:12:18.642121+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49034777"
-    },
-    "Type": 1,
-    "Title": "Stinkpot: SQLite-backed shell history",
-    "Url": "https://tangled.org/oppi.li/stinkpot",
-    "Description": "Stinkpot: SQLite-backed shell history",
-    "Metadata": {
-      "score": "41",
-      "author": "nerdypepper",
-      "commentCount": "8"
-    },
-    "FetchedAt": "2026-07-26T08:12:18.6711786+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49054010"
-    },
-    "Type": 1,
-    "Title": "Show HN: I mapped every US golf course",
-    "Url": "https://golfcoursebrowser.com/",
-    "Description": "I got tired of Googling basic course info, so I made a free directory of every US course\u003Cp\u003EGoogle filters for golf course results are terrible so I built a better way to browse courses using OSM as the backbone.... \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;golfcoursebrowser.com\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;golfcoursebrowser.com\u0026#x2F;\u003C/a\u003E\u003Cp\u003EIt\u0026#x27;s a work in progress and mostly US for now, but I want to expand to the rest of North America, the EU, and the rest of the world ASAP.\u003Cp\u003EIt\u0026#x27;s free, n",
-    "Metadata": {
-      "score": "109",
-      "author": "rickmf",
-      "commentCount": "57"
-    },
-    "FetchedAt": "2026-07-26T08:12:18.702926+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49053375"
-    },
-    "Type": 1,
-    "Title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-    "Url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-    "Description": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-    "Metadata": {
-      "score": "109",
-      "author": "nateb2022",
-      "commentCount": "9"
-    },
-    "FetchedAt": "2026-07-26T08:12:18.7311763+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49052912"
-    },
-    "Type": 1,
-    "Title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-    "Url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-    "Description": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-    "Metadata": {
-      "score": "127",
-      "author": "oliculipolicula",
-      "commentCount": "92"
-    },
-    "FetchedAt": "2026-07-26T08:12:18.761212+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:48997828"
-    },
-    "Type": 1,
-    "Title": "Some more things about Django I\u0027ve been enjoying",
-    "Url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
-    "Description": "Some more things about Django I\u0027ve been enjoying",
-    "Metadata": {
-      "score": "18",
-      "author": "surprisetalk",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-07-26T08:12:18.7887852+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49052564"
-    },
-    "Type": 1,
-    "Title": "Cloudflare\u0027s new AI traffic options for customers",
-    "Url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-    "Description": "Cloudflare\u0027s new AI traffic options for customers",
-    "Metadata": {
-      "score": "103",
-      "author": "alphabetatango",
-      "commentCount": "74"
-    },
-    "FetchedAt": "2026-07-26T08:12:18.8187068+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49024980"
-    },
-    "Type": 1,
-    "Title": "Rethinking Legal Education in the AI Era",
-    "Url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
-    "Description": "Rethinking Legal Education in the AI Era",
-    "Metadata": {
-      "score": "68",
-      "author": "jjwiseman",
-      "commentCount": "31"
-    },
-    "FetchedAt": "2026-07-26T08:12:18.8463035+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49055169"
-    },
-    "Type": 1,
-    "Title": "GrapheneOS protections against data extraction from locked devices",
-    "Url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-    "Description": "GrapheneOS protections against data extraction from locked devices",
-    "Metadata": {
-      "score": "10",
-      "author": "Cider9986",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-07-26T08:12:18.8744363+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49054224"
-    },
-    "Type": 1,
-    "Title": "JetZero",
-    "Url": "https://www.jetzero.aero",
-    "Description": "JetZero",
-    "Metadata": {
-      "score": "183",
-      "author": "lisper",
-      "commentCount": "143"
-    },
-    "FetchedAt": "2026-07-26T08:12:18.9100129+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49053708"
-    },
-    "Type": 1,
-    "Title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
-    "Url": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/",
-    "Description": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
-    "Metadata": {
-      "score": "55",
-      "author": "spzx",
-      "commentCount": "15"
-    },
-    "FetchedAt": "2026-07-26T08:12:18.9380104+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49050512"
-    },
-    "Type": 1,
-    "Title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-    "Url": "https://github.com/slvDev/esp32-ai",
-    "Description": "Running a 28.9M parameter LLM on an $8 microcontroller",
-    "Metadata": {
-      "score": "166",
-      "author": "boveyking",
-      "commentCount": "37"
-    },
-    "FetchedAt": "2026-07-26T08:12:18.966223+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49053385"
-    },
-    "Type": 1,
-    "Title": "Git rebase -I is not that scary",
-    "Url": "https://cachebag.sh/journal/interactive-rebasing/",
-    "Description": "Git rebase -I is not that scary",
-    "Metadata": {
-      "score": "55",
-      "author": "vinhnx",
-      "commentCount": "53"
-    },
-    "FetchedAt": "2026-07-26T08:12:19.0056152+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49052628"
-    },
-    "Type": 1,
-    "Title": "Clinical failure rates over the decades: yikes",
-    "Url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
-    "Description": "Clinical failure rates over the decades: yikes",
-    "Metadata": {
-      "score": "94",
-      "author": "EA-3167",
-      "commentCount": "67"
-    },
-    "FetchedAt": "2026-07-26T08:12:19.038993+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49053382"
-    },
-    "Type": 1,
-    "Title": "Systems and Delays",
-    "Url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-    "Description": "Systems and Delays",
-    "Metadata": {
-      "score": "59",
-      "author": "vinhnx",
-      "commentCount": "14"
-    },
-    "FetchedAt": "2026-07-26T08:12:19.0672001+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49054697"
     },
     "Type": 1,
@@ -463,51 +208,6 @@
       "commentCount": "2"
     },
     "FetchedAt": "2026-07-26T08:12:19.0957507+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49050859"
-    },
-    "Type": 1,
-    "Title": "LLM Usage in Debian: Three Proposals",
-    "Url": "https://www.debian.org/vote/2026/vote_002",
-    "Description": "LLM Usage in Debian: Three Proposals",
-    "Metadata": {
-      "score": "141",
-      "author": "zdw",
-      "commentCount": "120"
-    },
-    "FetchedAt": "2026-07-26T08:12:19.1228247+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49052570"
-    },
-    "Type": 1,
-    "Title": "What is happening to jobs? Separating AI hype from reality",
-    "Url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-    "Description": "What is happening to jobs? Separating AI hype from reality",
-    "Metadata": {
-      "score": "76",
-      "author": "pod_krad",
-      "commentCount": "81"
-    },
-    "FetchedAt": "2026-07-26T08:12:19.1499226+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49013464"
-    },
-    "Type": 1,
-    "Title": "SIMD for Collision",
-    "Url": "https://box2d.org/posts/2026/07/simd-for-collision/",
-    "Description": "SIMD for Collision",
-    "Metadata": {
-      "score": "88",
-      "author": "birdculture",
-      "commentCount": "27"
-    },
-    "FetchedAt": "2026-07-26T08:12:19.1776662+00:00"
   },
   {
     "ExternalId": {
@@ -643,5 +343,455 @@
       "commentCount": "63"
     },
     "FetchedAt": "2026-07-26T08:12:19.4274685+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49057248"
+    },
+    "Type": 1,
+    "Title": "Third Drone Shot Down in Three Days in Romanian Territory",
+    "Url": "https://english.mapn.ro/",
+    "Description": "Third Drone Shot Down in Three Days in Romanian Territory",
+    "Metadata": {
+      "score": "56",
+      "author": "_tk_",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-07-26T13:03:10.7656925+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49056112"
+    },
+    "Type": 1,
+    "Title": "Ruff v0.16.0 \u2013 Significant new updates \u2013 413 default rules up from 59",
+    "Url": "https://astral.sh/blog/ruff-v0.16.0",
+    "Description": "Ruff v0.16.0 \u2013 Significant new updates \u2013 413 default rules up from 59",
+    "Metadata": {
+      "score": "150",
+      "author": "vismit2000",
+      "commentCount": "88"
+    },
+    "FetchedAt": "2026-07-26T13:03:10.7977287+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49055169"
+    },
+    "Type": 1,
+    "Title": "GrapheneOS protections against data extraction from locked devices",
+    "Url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+    "Description": "GrapheneOS protections against data extraction from locked devices",
+    "Metadata": {
+      "score": "158",
+      "author": "Cider9986",
+      "commentCount": "81"
+    },
+    "FetchedAt": "2026-07-26T13:03:10.8293592+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49047453"
+    },
+    "Type": 1,
+    "Title": "A shell colon does nothing. Use it anyway",
+    "Url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+    "Description": "A shell colon does nothing. Use it anyway",
+    "Metadata": {
+      "score": "268",
+      "author": "olexsmir",
+      "commentCount": "109"
+    },
+    "FetchedAt": "2026-07-26T13:03:10.8613546+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49056351"
+    },
+    "Type": 1,
+    "Title": "Systemd Linger",
+    "Url": "https://etbe.coker.com.au/2026/07/24/systemd-linger/",
+    "Description": "Systemd Linger",
+    "Metadata": {
+      "score": "23",
+      "author": "edward",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-07-26T13:03:10.8930701+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49054107"
+    },
+    "Type": 1,
+    "Title": "An ESP32 based plane radar for my desk",
+    "Url": "https://blog.ktz.me/esp32-plane-radar/",
+    "Description": "An ESP32 based plane radar for my desk",
+    "Metadata": {
+      "score": "187",
+      "author": "alexktz",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-07-26T13:03:10.9241598+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49015286"
+    },
+    "Type": 1,
+    "Title": "German Peasants\u0027 War",
+    "Url": "https://en.wikipedia.org/wiki/German_Peasants%27_War",
+    "Description": "German Peasants\u0027 War",
+    "Metadata": {
+      "score": "33",
+      "author": "constantius",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-07-26T13:03:10.9556159+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49051361"
+    },
+    "Type": 1,
+    "Title": "The new rules of context engineering for Claude 5 generation models",
+    "Url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+    "Description": "The new rules of context engineering for Claude 5 generation models",
+    "Metadata": {
+      "score": "370",
+      "author": "mellosouls",
+      "commentCount": "262"
+    },
+    "FetchedAt": "2026-07-26T13:03:10.9874697+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49053375"
+    },
+    "Type": 1,
+    "Title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+    "Url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+    "Description": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+    "Metadata": {
+      "score": "158",
+      "author": "nateb2022",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-07-26T13:03:11.01996+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49052912"
+    },
+    "Type": 1,
+    "Title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+    "Url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+    "Description": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+    "Metadata": {
+      "score": "190",
+      "author": "oliculipolicula",
+      "commentCount": "141"
+    },
+    "FetchedAt": "2026-07-26T13:03:11.0541156+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49054010"
+    },
+    "Type": 1,
+    "Title": "Show HN: I mapped every US golf course",
+    "Url": "https://golfcoursebrowser.com/",
+    "Description": "I got tired of Googling basic course info, so I made a free directory of every US course\u003Cp\u003EGoogle filters for golf course results are terrible so I built a better way to browse courses using OSM as the backbone.... \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;golfcoursebrowser.com\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;golfcoursebrowser.com\u0026#x2F;\u003C/a\u003E\u003Cp\u003EIt\u0026#x27;s a work in progress and mostly US for now, but I want to expand to the rest of North America, the EU, and the rest of the world ASAP.\u003Cp\u003EIt\u0026#x27;s free, n",
+    "Metadata": {
+      "score": "157",
+      "author": "rickmf",
+      "commentCount": "96"
+    },
+    "FetchedAt": "2026-07-26T13:03:11.0859232+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49053708"
+    },
+    "Type": 1,
+    "Title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
+    "Url": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/",
+    "Description": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
+    "Metadata": {
+      "score": "96",
+      "author": "spzx",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-07-26T13:03:11.1179511+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49034777"
+    },
+    "Type": 1,
+    "Title": "Stinkpot: SQLite-backed shell history",
+    "Url": "https://tangled.org/oppi.li/stinkpot",
+    "Description": "Stinkpot: SQLite-backed shell history",
+    "Metadata": {
+      "score": "85",
+      "author": "nerdypepper",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-07-26T13:03:11.1535558+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49052564"
+    },
+    "Type": 1,
+    "Title": "Cloudflare\u0027s new AI traffic options for customers",
+    "Url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+    "Description": "Cloudflare\u0027s new AI traffic options for customers",
+    "Metadata": {
+      "score": "142",
+      "author": "alphabetatango",
+      "commentCount": "123"
+    },
+    "FetchedAt": "2026-07-26T13:03:11.1852827+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49052570"
+    },
+    "Type": 1,
+    "Title": "What is happening to jobs? Separating AI hype from reality",
+    "Url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+    "Description": "What is happening to jobs? Separating AI hype from reality",
+    "Metadata": {
+      "score": "134",
+      "author": "pod_krad",
+      "commentCount": "173"
+    },
+    "FetchedAt": "2026-07-26T13:03:11.2174738+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49002762"
+    },
+    "Type": 1,
+    "Title": "DskDitto: Ultra-fast, parallel duplicate-file detector",
+    "Url": "https://github.com/jdefrancesco/dskDitto",
+    "Description": "DskDitto: Ultra-fast, parallel duplicate-file detector",
+    "Metadata": {
+      "score": "36",
+      "author": "ingve",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-07-26T13:03:11.2487477+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49050512"
+    },
+    "Type": 1,
+    "Title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+    "Url": "https://github.com/slvDev/esp32-ai",
+    "Description": "Running a 28.9M parameter LLM on an $8 microcontroller",
+    "Metadata": {
+      "score": "223",
+      "author": "boveyking",
+      "commentCount": "53"
+    },
+    "FetchedAt": "2026-07-26T13:03:11.2805707+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49053385"
+    },
+    "Type": 1,
+    "Title": "Git rebase -I is not that scary",
+    "Url": "https://cachebag.sh/journal/interactive-rebasing/",
+    "Description": "Git rebase -I is not that scary",
+    "Metadata": {
+      "score": "89",
+      "author": "vinhnx",
+      "commentCount": "104"
+    },
+    "FetchedAt": "2026-07-26T13:03:11.312784+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49024980"
+    },
+    "Type": 1,
+    "Title": "Rethinking Legal Education in the AI Era",
+    "Url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
+    "Description": "Rethinking Legal Education in the AI Era",
+    "Metadata": {
+      "score": "96",
+      "author": "jjwiseman",
+      "commentCount": "55"
+    },
+    "FetchedAt": "2026-07-26T13:03:11.3442074+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49023243"
+    },
+    "Type": 1,
+    "Title": "I wouldn\u0027t say Pangram is broken, but I would say that it\u0027s brittle",
+    "Url": "https://freddiedeboer.substack.com/p/i-wouldnt-say-pangram-is-broken-but",
+    "Description": "Response: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;substack.com\u0026#x2F;@maxspero\u0026#x2F;note\u0026#x2F;c-297953357\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;substack.com\u0026#x2F;@maxspero\u0026#x2F;note\u0026#x2F;c-297953357\u003C/a\u003E",
+    "Metadata": {
+      "score": "18",
+      "author": "antigizmo",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-07-26T13:03:11.3758486+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49005197"
+    },
+    "Type": 1,
+    "Title": "Overloaded Overloading",
+    "Url": "https://powerfulpython.com/blog/overloaded-overloading/",
+    "Description": "Overloaded Overloading",
+    "Metadata": {
+      "score": "25",
+      "author": "redsymbol",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-07-26T13:03:11.406981+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49050859"
+    },
+    "Type": 1,
+    "Title": "LLM Usage in Debian: Three Proposals",
+    "Url": "https://www.debian.org/vote/2026/vote_002",
+    "Description": "LLM Usage in Debian: Three Proposals",
+    "Metadata": {
+      "score": "179",
+      "author": "zdw",
+      "commentCount": "160"
+    },
+    "FetchedAt": "2026-07-26T13:03:11.4383489+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49057574"
+    },
+    "Type": 1,
+    "Title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
+    "Url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
+    "Description": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
+    "Metadata": {
+      "score": "6",
+      "author": "1vuio0pswjnm7",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-07-26T13:03:11.4705455+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49056194"
+    },
+    "Type": 1,
+    "Title": "Elevated Errors for Opus 5",
+    "Url": "https://status.claude.com/incidents/zftg3gqkmv18",
+    "Description": "Elevated Errors for Opus 5",
+    "Metadata": {
+      "score": "50",
+      "author": "TimCTRL",
+      "commentCount": "49"
+    },
+    "FetchedAt": "2026-07-26T13:03:11.5026589+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49052628"
+    },
+    "Type": 1,
+    "Title": "Clinical failure rates over the decades: yikes",
+    "Url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+    "Description": "Clinical failure rates over the decades: yikes",
+    "Metadata": {
+      "score": "112",
+      "author": "EA-3167",
+      "commentCount": "94"
+    },
+    "FetchedAt": "2026-07-26T13:03:11.5338512+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49056424"
+    },
+    "Type": 1,
+    "Title": "No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s",
+    "Url": "https://comuniq.xyz/post?t=1439",
+    "Description": "No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s",
+    "Metadata": {
+      "score": "37",
+      "author": "01-_-",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-07-26T13:03:11.5653785+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49013464"
+    },
+    "Type": 1,
+    "Title": "SIMD for Collision",
+    "Url": "https://box2d.org/posts/2026/07/simd-for-collision/",
+    "Description": "SIMD for Collision",
+    "Metadata": {
+      "score": "112",
+      "author": "birdculture",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-07-26T13:03:11.5967475+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49054224"
+    },
+    "Type": 1,
+    "Title": "JetZero",
+    "Url": "https://www.jetzero.aero",
+    "Description": "JetZero",
+    "Metadata": {
+      "score": "213",
+      "author": "lisper",
+      "commentCount": "198"
+    },
+    "FetchedAt": "2026-07-26T13:03:11.6279661+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:48997828"
+    },
+    "Type": 1,
+    "Title": "Some more things about Django I\u0027ve been enjoying",
+    "Url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+    "Description": "Some more things about Django I\u0027ve been enjoying",
+    "Metadata": {
+      "score": "70",
+      "author": "surprisetalk",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-07-26T13:03:11.6605093+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49053382"
+    },
+    "Type": 1,
+    "Title": "Systems and Delays",
+    "Url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+    "Description": "Systems and Delays",
+    "Metadata": {
+      "score": "67",
+      "author": "vinhnx",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-07-26T13:03:11.6934383+00:00"
   }
 ]
