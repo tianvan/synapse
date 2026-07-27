@@ -1,81 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:49063754"
-    },
-    "Type": 1,
-    "Title": "PGSimCity - How PostgreSQL Works",
-    "Url": "https://nikolays.github.io/PGSimCity/",
-    "Description": "PGSimCity - How PostgreSQL Works",
-    "Metadata": {
-      "score": "100",
-      "author": "jonbaer",
-      "commentCount": "16"
-    },
-    "FetchedAt": "2026-07-27T02:09:52.8455017+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49060856"
-    },
-    "Type": 1,
-    "Title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-    "Url": "https://beyondloom.com/decker/",
-    "Description": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-    "Metadata": {
-      "score": "227",
-      "author": "tosh",
-      "commentCount": "55"
-    },
-    "FetchedAt": "2026-07-27T02:09:52.8695057+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49021270"
-    },
-    "Type": 1,
-    "Title": "Show HN: Physically accurate black hole you can put in your room",
-    "Url": "https://blackhole.plav.in",
-    "Description": "We have a black hole at home \u2014 with actual relativistic physics, live in your browser.\u003Cp\u003EI\u0026#x27;m Sasha (Alexander) Plavin, an astrophysicist at Harvard\u0026#x27;s Black Hole Initiative studying quasars and black hole environments. I work with raytracing\u0026#x2F;radiative transfer simulations professionally, and wanted to make one anyone can play with \u2014 so I built this app.\u003Cp\u003EPut the black hole onto your screen (any browser), or directly into your room with AR or VR (requires WebXR, for example Chrome ",
-    "Metadata": {
-      "score": "29",
-      "author": "aplavin",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-07-27T02:09:52.8927818+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49062291"
-    },
-    "Type": 1,
-    "Title": "We have proof automation now",
-    "Url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-    "Description": "We have proof automation now",
-    "Metadata": {
-      "score": "79",
-      "author": "zdw",
-      "commentCount": "10"
-    },
-    "FetchedAt": "2026-07-27T02:09:52.9167353+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49060495"
-    },
-    "Type": 1,
-    "Title": "French firefighters face \u0027pyrocumulonimbus\u0027 for first time",
-    "Url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-    "Description": "French firefighters face \u0027pyrocumulonimbus\u0027 for first time",
-    "Metadata": {
-      "score": "189",
-      "author": "saaaaaam",
-      "commentCount": "96"
-    },
-    "FetchedAt": "2026-07-27T02:09:52.9406864+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49063789"
     },
     "Type": 1,
@@ -91,96 +16,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49062700"
-    },
-    "Type": 1,
-    "Title": "Teaching Kids Forth",
-    "Url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-    "Description": "Teaching Kids Forth",
-    "Metadata": {
-      "score": "52",
-      "author": "rbanffy",
-      "commentCount": "16"
-    },
-    "FetchedAt": "2026-07-27T02:09:52.9953798+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49063022"
-    },
-    "Type": 1,
-    "Title": "US citizen charged after GrapheneOS phone wipes during airport search",
-    "Url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-    "Description": "US citizen charged after GrapheneOS phone wipes during airport search",
-    "Metadata": {
-      "score": "173",
-      "author": "eecc",
-      "commentCount": "106"
-    },
-    "FetchedAt": "2026-07-27T02:09:53.0179186+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49060724"
-    },
-    "Type": 1,
-    "Title": "Introduction to Data-Oriented Design [pdf]",
-    "Url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
-    "Description": "Introduction to Data-Oriented Design [pdf]",
-    "Metadata": {
-      "score": "112",
-      "author": "tosh",
-      "commentCount": "36"
-    },
-    "FetchedAt": "2026-07-27T02:09:53.0426863+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49059367"
-    },
-    "Type": 1,
-    "Title": "Design is compromise",
-    "Url": "https://stephango.com/design-is-compromise",
-    "Description": "Design is compromise",
-    "Metadata": {
-      "score": "197",
-      "author": "ankitg12",
-      "commentCount": "74"
-    },
-    "FetchedAt": "2026-07-27T02:09:53.0668914+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49057241"
-    },
-    "Type": 1,
-    "Title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-    "Url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-    "Description": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-    "Metadata": {
-      "score": "363",
-      "author": "rcy",
-      "commentCount": "113"
-    },
-    "FetchedAt": "2026-07-27T02:09:53.0896543+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49061887"
-    },
-    "Type": 1,
-    "Title": "Simulate cassette tape audio profiles using FFmpeg",
-    "Url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
-    "Description": "Simulate cassette tape audio profiles using FFmpeg",
-    "Metadata": {
-      "score": "73",
-      "author": "xterminal",
-      "commentCount": "40"
-    },
-    "FetchedAt": "2026-07-27T02:09:53.1130581+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49062120"
     },
     "Type": 1,
@@ -193,36 +28,6 @@
       "commentCount": "25"
     },
     "FetchedAt": "2026-07-27T02:09:53.1363404+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49059398"
-    },
-    "Type": 1,
-    "Title": "Show HN: CheapSecurity \u2013 Lightweight, Self-Hosted CCTV for Linux SBCs",
-    "Url": "https://github.com/gmrandazzo/CheapSecurity",
-    "Description": "Show HN: CheapSecurity \u2013 Lightweight, Self-Hosted CCTV for Linux SBCs",
-    "Metadata": {
-      "score": "107",
-      "author": "zeldone",
-      "commentCount": "22"
-    },
-    "FetchedAt": "2026-07-27T02:09:53.1591763+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49060295"
-    },
-    "Type": 1,
-    "Title": "How to Write English Prose",
-    "Url": "https://thelampmagazine.com/blog/how-to-write-english-prose",
-    "Description": "How to Write English Prose",
-    "Metadata": {
-      "score": "75",
-      "author": "geneticdrifts",
-      "commentCount": "41"
-    },
-    "FetchedAt": "2026-07-27T02:09:53.1831808+00:00"
   },
   {
     "ExternalId": {
@@ -256,66 +61,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49057398"
-    },
-    "Type": 1,
-    "Title": "Go Analysis Framework: modular static analysis by go team",
-    "Url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
-    "Description": "Go Analysis Framework: modular static analysis by go team",
-    "Metadata": {
-      "score": "180",
-      "author": "AbuAssar",
-      "commentCount": "39"
-    },
-    "FetchedAt": "2026-07-27T02:09:53.2529033+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49063523"
-    },
-    "Type": 1,
-    "Title": "Fonts In Use \u2013 Find out where a font is used",
-    "Url": "https://fontsinuse.com/",
-    "Description": "Fonts In Use \u2013 Find out where a font is used",
-    "Metadata": {
-      "score": "13",
-      "author": "open_",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-07-27T02:09:53.2756807+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49058993"
-    },
-    "Type": 1,
-    "Title": "The relay market powering token resellers and fraud",
-    "Url": "https://vectoral.com/blog/token-relay-market",
-    "Description": "The relay market powering token resellers and fraud",
-    "Metadata": {
-      "score": "155",
-      "author": "mlenhard",
-      "commentCount": "93"
-    },
-    "FetchedAt": "2026-07-27T02:09:53.3008774+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49057877"
-    },
-    "Type": 1,
-    "Title": "The New AI Superpowers: Focus and Followthrough",
-    "Url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-    "Description": "The New AI Superpowers: Focus and Followthrough",
-    "Metadata": {
-      "score": "145",
-      "author": "mooreds",
-      "commentCount": "45"
-    },
-    "FetchedAt": "2026-07-27T02:09:53.3245023+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49063648"
     },
     "Type": 1,
@@ -343,66 +88,6 @@
       "commentCount": "1"
     },
     "FetchedAt": "2026-07-27T02:09:53.3705969+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49022355"
-    },
-    "Type": 1,
-    "Title": "I learned PCB design, 3D printing and C just to listen to music",
-    "Url": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
-    "Description": "I learned PCB design, 3D printing and C just to listen to music",
-    "Metadata": {
-      "score": "174",
-      "author": "interfeco",
-      "commentCount": "35"
-    },
-    "FetchedAt": "2026-07-27T02:09:53.3941899+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49057175"
-    },
-    "Type": 1,
-    "Title": "Kill The Cookie Banner",
-    "Url": "https://killthecookiebanner.eu/",
-    "Description": "Kill The Cookie Banner",
-    "Metadata": {
-      "score": "835",
-      "author": "rapnie",
-      "commentCount": "407"
-    },
-    "FetchedAt": "2026-07-27T02:09:53.4172813+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49020842"
-    },
-    "Type": 1,
-    "Title": "The Usefulness of Useless Knowledge (1939) [pdf]",
-    "Url": "https://faculty.lsu.edu/kharms/files/flexner_1939.pdf",
-    "Description": "The Usefulness of Useless Knowledge (1939) [pdf]",
-    "Metadata": {
-      "score": "21",
-      "author": "jxmorris12",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-07-27T02:09:53.440811+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49057666"
-    },
-    "Type": 1,
-    "Title": "Show HN: Reverse Minesweeper",
-    "Url": "https://sunflowersgame.com/",
-    "Description": "Show HN: Reverse Minesweeper",
-    "Metadata": {
-      "score": "150",
-      "author": "pompomsheep",
-      "commentCount": "50"
-    },
-    "FetchedAt": "2026-07-27T02:09:53.4640894+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +133,455 @@
       "commentCount": "34"
     },
     "FetchedAt": "2026-07-27T02:09:53.5372387+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49065752"
+    },
+    "Type": 1,
+    "Title": "Kimi-K3 Releases on HuggingFace 7/27",
+    "Url": "https://huggingface.co/moonshotai/Kimi-K3",
+    "Description": "Kimi-K3 Releases on HuggingFace 7/27",
+    "Metadata": {
+      "score": "262",
+      "author": "nateb2022",
+      "commentCount": "98"
+    },
+    "FetchedAt": "2026-07-27T09:35:29.7542388+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49063754"
+    },
+    "Type": 1,
+    "Title": "PGSimCity - How PostgreSQL Works",
+    "Url": "https://nikolays.github.io/PGSimCity/",
+    "Description": "PGSimCity - How PostgreSQL Works",
+    "Metadata": {
+      "score": "575",
+      "author": "jonbaer",
+      "commentCount": "57"
+    },
+    "FetchedAt": "2026-07-27T09:35:29.8037651+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49021270"
+    },
+    "Type": 1,
+    "Title": "Show HN: Physically accurate black hole you can put in your room",
+    "Url": "https://blackhole.plav.in",
+    "Description": "We have a black hole at home \u2014 with actual relativistic physics, live in your browser.\u003Cp\u003EI\u0026#x27;m Sasha (Alexander) Plavin, an astrophysicist at Harvard\u0026#x27;s Black Hole Initiative studying quasars and black hole environments. I work with raytracing\u0026#x2F;radiative transfer simulations professionally, and wanted to make one anyone can play with \u2014 so I built this app.\u003Cp\u003EPut the black hole onto your screen (any browser), or directly into your room with AR or VR (requires WebXR, for example Chrome ",
+    "Metadata": {
+      "score": "309",
+      "author": "aplavin",
+      "commentCount": "92"
+    },
+    "FetchedAt": "2026-07-27T09:35:29.8535108+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49063175"
+    },
+    "Type": 1,
+    "Title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+    "Url": "https://github.com/vercel-labs/scriptc",
+    "Description": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+    "Metadata": {
+      "score": "172",
+      "author": "maxloh",
+      "commentCount": "87"
+    },
+    "FetchedAt": "2026-07-27T09:35:29.9014749+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49060495"
+    },
+    "Type": 1,
+    "Title": "French firefighters face \u0027pyrocumulonimbus\u0027 for first time",
+    "Url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+    "Description": "French firefighters face \u0027pyrocumulonimbus\u0027 for first time",
+    "Metadata": {
+      "score": "369",
+      "author": "saaaaaam",
+      "commentCount": "239"
+    },
+    "FetchedAt": "2026-07-27T09:35:29.9502665+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49060856"
+    },
+    "Type": 1,
+    "Title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+    "Url": "https://beyondloom.com/decker/",
+    "Description": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+    "Metadata": {
+      "score": "312",
+      "author": "tosh",
+      "commentCount": "74"
+    },
+    "FetchedAt": "2026-07-27T09:35:29.9996567+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49063022"
+    },
+    "Type": 1,
+    "Title": "US citizen charged after GrapheneOS phone wipes during airport search",
+    "Url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+    "Description": "US citizen charged after GrapheneOS phone wipes during airport search",
+    "Metadata": {
+      "score": "743",
+      "author": "eecc",
+      "commentCount": "542"
+    },
+    "FetchedAt": "2026-07-27T09:35:30.0490102+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49062291"
+    },
+    "Type": 1,
+    "Title": "We have proof automation now",
+    "Url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+    "Description": "We have proof automation now",
+    "Metadata": {
+      "score": "164",
+      "author": "zdw",
+      "commentCount": "53"
+    },
+    "FetchedAt": "2026-07-27T09:35:30.0970472+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49057241"
+    },
+    "Type": 1,
+    "Title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+    "Url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+    "Description": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+    "Metadata": {
+      "score": "445",
+      "author": "rcy",
+      "commentCount": "147"
+    },
+    "FetchedAt": "2026-07-27T09:35:30.1451953+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49020219"
+    },
+    "Type": 1,
+    "Title": "I wanted a clock that never needed setting. Things escalated",
+    "Url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
+    "Description": "I wanted a clock that never needed setting. Things escalated",
+    "Metadata": {
+      "score": "101",
+      "author": "lee_ars",
+      "commentCount": "98"
+    },
+    "FetchedAt": "2026-07-27T09:35:30.1941131+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49060724"
+    },
+    "Type": 1,
+    "Title": "Introduction to Data-Oriented Design [pdf]",
+    "Url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+    "Description": "Introduction to Data-Oriented Design [pdf]",
+    "Metadata": {
+      "score": "170",
+      "author": "tosh",
+      "commentCount": "45"
+    },
+    "FetchedAt": "2026-07-27T09:35:30.2431055+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49063523"
+    },
+    "Type": 1,
+    "Title": "Fonts In Use \u2013 Find out where a font is used",
+    "Url": "https://fontsinuse.com/",
+    "Description": "Fonts In Use \u2013 Find out where a font is used",
+    "Metadata": {
+      "score": "67",
+      "author": "open_",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-07-27T09:35:30.2911753+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49009706"
+    },
+    "Type": 1,
+    "Title": "Magnolias Are So Old That They\u0027re Pollinated by Beetles, Not Bees",
+    "Url": "https://mymodernmet.com/magnolia-ancient-flowers-beetles/",
+    "Description": "Magnolias Are So Old That They\u0027re Pollinated by Beetles, Not Bees",
+    "Metadata": {
+      "score": "9",
+      "author": "speckx",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-07-27T09:35:30.3491836+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49066750"
+    },
+    "Type": 1,
+    "Title": "How Unix spell ran in 64 kB of RAM",
+    "Url": "https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram",
+    "Description": "How Unix spell ran in 64 kB of RAM",
+    "Metadata": {
+      "score": "8",
+      "author": "donw",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-27T09:35:30.4058016+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49061887"
+    },
+    "Type": 1,
+    "Title": "Simulate cassette tape audio profiles using FFmpeg",
+    "Url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
+    "Description": "Simulate cassette tape audio profiles using FFmpeg",
+    "Metadata": {
+      "score": "132",
+      "author": "xterminal",
+      "commentCount": "54"
+    },
+    "FetchedAt": "2026-07-27T09:35:30.4624751+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49059367"
+    },
+    "Type": 1,
+    "Title": "Design is compromise",
+    "Url": "https://stephango.com/design-is-compromise",
+    "Description": "Design is compromise",
+    "Metadata": {
+      "score": "252",
+      "author": "ankitg12",
+      "commentCount": "84"
+    },
+    "FetchedAt": "2026-07-27T09:35:30.5203379+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49033522"
+    },
+    "Type": 1,
+    "Title": "Measuring developer productivity with the DX Core 4",
+    "Url": "https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/",
+    "Description": "Measuring developer productivity with the DX Core 4",
+    "Metadata": {
+      "score": "13",
+      "author": "saikatsg",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-07-27T09:35:30.5769395+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49059398"
+    },
+    "Type": 1,
+    "Title": "Show HN: CheapSecurity \u2013 Lightweight, Self-Hosted CCTV for Linux SBCs",
+    "Url": "https://github.com/gmrandazzo/CheapSecurity",
+    "Description": "Show HN: CheapSecurity \u2013 Lightweight, Self-Hosted CCTV for Linux SBCs",
+    "Metadata": {
+      "score": "129",
+      "author": "zeldone",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-07-27T09:35:30.6331838+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49020842"
+    },
+    "Type": 1,
+    "Title": "The Usefulness of Useless Knowledge (1939) [pdf]",
+    "Url": "https://faculty.lsu.edu/kharms/files/flexner_1939.pdf",
+    "Description": "The Usefulness of Useless Knowledge (1939) [pdf]",
+    "Metadata": {
+      "score": "74",
+      "author": "jxmorris12",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-07-27T09:35:30.689363+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49057666"
+    },
+    "Type": 1,
+    "Title": "Show HN: Reverse Minesweeper",
+    "Url": "https://sunflowersgame.com/",
+    "Description": "Show HN: Reverse Minesweeper",
+    "Metadata": {
+      "score": "219",
+      "author": "pompomsheep",
+      "commentCount": "70"
+    },
+    "FetchedAt": "2026-07-27T09:35:30.745912+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49057398"
+    },
+    "Type": 1,
+    "Title": "Go Analysis Framework: modular static analysis by go team",
+    "Url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+    "Description": "Go Analysis Framework: modular static analysis by go team",
+    "Metadata": {
+      "score": "207",
+      "author": "AbuAssar",
+      "commentCount": "65"
+    },
+    "FetchedAt": "2026-07-27T09:35:30.8021065+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49060295"
+    },
+    "Type": 1,
+    "Title": "How to write English prose (2023)",
+    "Url": "https://thelampmagazine.com/blog/how-to-write-english-prose",
+    "Description": "How to write English prose (2023)",
+    "Metadata": {
+      "score": "118",
+      "author": "geneticdrifts",
+      "commentCount": "58"
+    },
+    "FetchedAt": "2026-07-27T09:35:30.8583957+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49064588"
+    },
+    "Type": 1,
+    "Title": "The old-school way of keeping the summer heat out of your home",
+    "Url": "https://monocle.com/design/architecture/keeping-your-home-cool-without-air-conditioning/",
+    "Description": "The old-school way of keeping the summer heat out of your home",
+    "Metadata": {
+      "score": "12",
+      "author": "andsoitis",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-07-27T09:35:30.9156035+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49008615"
+    },
+    "Type": 1,
+    "Title": "The Zen of Parallel Programming: The Posture of a Kernel",
+    "Url": "https://smolnero.com/posts/the-zen-of-parallel-programming-the-posture-of-a-kernel",
+    "Description": "The Zen of Parallel Programming: The Posture of a Kernel",
+    "Metadata": {
+      "score": "15",
+      "author": "edgar_ortega",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-27T09:35:30.971617+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49057175"
+    },
+    "Type": 1,
+    "Title": "Kill The Cookie Banner",
+    "Url": "https://killthecookiebanner.eu/",
+    "Description": "Kill The Cookie Banner",
+    "Metadata": {
+      "score": "1009",
+      "author": "rapnie",
+      "commentCount": "483"
+    },
+    "FetchedAt": "2026-07-27T09:35:31.0282376+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49022355"
+    },
+    "Type": 1,
+    "Title": "I learned PCB design, 3D printing and C just to listen to music",
+    "Url": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
+    "Description": "I learned PCB design, 3D printing and C just to listen to music",
+    "Metadata": {
+      "score": "211",
+      "author": "interfeco",
+      "commentCount": "45"
+    },
+    "FetchedAt": "2026-07-27T09:35:31.0853324+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49058993"
+    },
+    "Type": 1,
+    "Title": "The relay market powering token resellers and fraud",
+    "Url": "https://vectoral.com/blog/token-relay-market",
+    "Description": "The relay market powering token resellers and fraud",
+    "Metadata": {
+      "score": "192",
+      "author": "mlenhard",
+      "commentCount": "120"
+    },
+    "FetchedAt": "2026-07-27T09:35:31.1928484+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49016303"
+    },
+    "Type": 1,
+    "Title": "8086 Emulator Inside Scratch",
+    "Url": "https://turbowarp.org/1248315967?size=640x400",
+    "Description": "8086 Emulator Inside Scratch",
+    "Metadata": {
+      "score": "4",
+      "author": "rickcarlino",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-27T09:35:31.2504979+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49057877"
+    },
+    "Type": 1,
+    "Title": "The New AI Superpowers: Focus and Followthrough",
+    "Url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+    "Description": "The New AI Superpowers: Focus and Followthrough",
+    "Metadata": {
+      "score": "199",
+      "author": "mooreds",
+      "commentCount": "64"
+    },
+    "FetchedAt": "2026-07-27T09:35:31.3077872+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49062700"
+    },
+    "Type": 1,
+    "Title": "Teaching Kids Forth",
+    "Url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+    "Description": "Teaching Kids Forth",
+    "Metadata": {
+      "score": "88",
+      "author": "rbanffy",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-07-27T09:35:31.3651829+00:00"
   }
 ]

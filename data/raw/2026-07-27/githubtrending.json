@@ -14,7 +14,7 @@
       "stars": "1,166",
       "topics": "bluetooth, bluetooth-le, decentralized, e2e-encryption, ios, macos, mesh-network, messaging, nostr, swift"
     },
-    "FetchedAt": "2026-07-27T02:09:50.5307969+00:00"
+    "FetchedAt": "2026-07-27T09:35:27.4578053+00:00"
   },
   {
     "ExternalId": {
@@ -23,15 +23,15 @@
     "Type": 0,
     "Title": "citrolabs/ego-lite",
     "Url": "https://github.com/citrolabs/ego-lite",
-    "Description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "Description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
     "Metadata": {
       "owner": "citrolabs",
       "repo": "ego-lite",
       "language": "JavaScript",
       "stars": "900",
-      "topics": "agent-skills, ai-agent, browser, skills, skills-sh"
+      "topics": "agent-skills, ai-agent, automation, browser, browser-automation, claude-code, codex, hermes-agent, skills, skills-sh"
     },
-    "FetchedAt": "2026-07-27T02:09:50.7863217+00:00"
+    "FetchedAt": "2026-07-27T09:35:27.619605+00:00"
   },
   {
     "ExternalId": {
@@ -47,7 +47,7 @@
       "language": "Rust",
       "stars": "1,710"
     },
-    "FetchedAt": "2026-07-27T02:09:50.9165015+00:00"
+    "FetchedAt": "2026-07-27T09:35:27.7544126+00:00"
   },
   {
     "ExternalId": {
@@ -63,7 +63,7 @@
       "language": "TypeScript",
       "stars": "149"
     },
-    "FetchedAt": "2026-07-27T02:09:51.0860548+00:00"
+    "FetchedAt": "2026-07-27T09:35:27.9329478+00:00"
   },
   {
     "ExternalId": {
@@ -80,7 +80,7 @@
       "stars": "131",
       "topics": "bubbletea, cli, file-manager, filemanager, filesystem, golang, hacktoberfest, linux-app, terminal-app, terminal-based, tui"
     },
-    "FetchedAt": "2026-07-27T02:09:51.2152103+00:00"
+    "FetchedAt": "2026-07-27T09:35:28.0482241+00:00"
   },
   {
     "ExternalId": {
@@ -97,7 +97,7 @@
       "stars": "398",
       "topics": "ai, bi, chatgpt, clickhouse, clickhouse-client, database, datagrip, db2, dbeaver, gpt, hive, mysql, navicat, oracle, postgresql, redis, redis-client, sqlserver, text2sql"
     },
-    "FetchedAt": "2026-07-27T02:09:51.3405644+00:00"
+    "FetchedAt": "2026-07-27T09:35:28.1573246+00:00"
   },
   {
     "ExternalId": {
@@ -113,7 +113,7 @@
       "language": "JavaScript",
       "stars": "413"
     },
-    "FetchedAt": "2026-07-27T02:09:51.4715206+00:00"
+    "FetchedAt": "2026-07-27T09:35:28.2880331+00:00"
   },
   {
     "ExternalId": {
@@ -129,7 +129,7 @@
       "language": "Python",
       "stars": "321"
     },
-    "FetchedAt": "2026-07-27T02:09:51.5915962+00:00"
+    "FetchedAt": "2026-07-27T09:35:28.395229+00:00"
   },
   {
     "ExternalId": {
@@ -146,7 +146,7 @@
       "stars": "832",
       "topics": "agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context"
     },
-    "FetchedAt": "2026-07-27T02:09:51.7177385+00:00"
+    "FetchedAt": "2026-07-27T09:35:28.524366+00:00"
   },
   {
     "ExternalId": {
@@ -162,7 +162,7 @@
       "language": "Python",
       "stars": "187"
     },
-    "FetchedAt": "2026-07-27T02:09:51.8498752+00:00"
+    "FetchedAt": "2026-07-27T09:35:28.6525539+00:00"
   },
   {
     "ExternalId": {
@@ -178,7 +178,7 @@
       "language": "Jupyter Notebook",
       "stars": "379"
     },
-    "FetchedAt": "2026-07-27T02:09:51.9673762+00:00"
+    "FetchedAt": "2026-07-27T09:35:28.7716525+00:00"
   },
   {
     "ExternalId": {
@@ -195,7 +195,7 @@
       "stars": "338",
       "topics": "docker, game-server, gamedev, minecraft, minecraft-bedrock-edition, minecraft-protocol, minecraft-server, networking, rust, server"
     },
-    "FetchedAt": "2026-07-27T02:09:52.1019139+00:00"
+    "FetchedAt": "2026-07-27T09:35:28.8879266+00:00"
   },
   {
     "ExternalId": {
@@ -211,7 +211,7 @@
       "language": "Kotlin",
       "stars": "260"
     },
-    "FetchedAt": "2026-07-27T02:09:52.240728+00:00"
+    "FetchedAt": "2026-07-27T09:35:29.0541832+00:00"
   },
   {
     "ExternalId": {
@@ -228,7 +228,7 @@
       "stars": "18",
       "topics": "cicd, continuous-delivery, continuous-deployment, continuous-integration, devops, groovy, hacktoberfest, java, jenkins, pipelines-as-code"
     },
-    "FetchedAt": "2026-07-27T02:09:52.3787532+00:00"
+    "FetchedAt": "2026-07-27T09:35:29.1686997+00:00"
   },
   {
     "ExternalId": {
@@ -245,6 +245,6 @@
       "stars": "35",
       "topics": "cloak, gfw, ikev2, openvpn, shadowsocks, vpn, vpn-client, vpn-server, wireguard"
     },
-    "FetchedAt": "2026-07-27T02:09:52.5234626+00:00"
+    "FetchedAt": "2026-07-27T09:35:29.2921631+00:00"
   }
 ]
