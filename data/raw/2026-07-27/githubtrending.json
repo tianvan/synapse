@@ -1,0 +1,250 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:permissionlesstech/bitchat"
+    },
+    "Type": 0,
+    "Title": "permissionlesstech/bitchat",
+    "Url": "https://github.com/permissionlesstech/bitchat",
+    "Description": "bluetooth mesh chat, IRC vibes",
+    "Metadata": {
+      "owner": "permissionlesstech",
+      "repo": "bitchat",
+      "language": "Swift",
+      "stars": "1,166",
+      "topics": "bluetooth, bluetooth-le, decentralized, e2e-encryption, ios, macos, mesh-network, messaging, nostr, swift"
+    },
+    "FetchedAt": "2026-07-27T02:09:50.5307969+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:citrolabs/ego-lite"
+    },
+    "Type": 0,
+    "Title": "citrolabs/ego-lite",
+    "Url": "https://github.com/citrolabs/ego-lite",
+    "Description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "Metadata": {
+      "owner": "citrolabs",
+      "repo": "ego-lite",
+      "language": "JavaScript",
+      "stars": "900",
+      "topics": "agent-skills, ai-agent, browser, skills, skills-sh"
+    },
+    "FetchedAt": "2026-07-27T02:09:50.7863217+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:block/buzz"
+    },
+    "Type": 0,
+    "Title": "block/buzz",
+    "Url": "https://github.com/block/buzz",
+    "Description": "A hive mind communication platform",
+    "Metadata": {
+      "owner": "block",
+      "repo": "buzz",
+      "language": "Rust",
+      "stars": "1,710"
+    },
+    "FetchedAt": "2026-07-27T02:09:50.9165015+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pingdotgg/t3code"
+    },
+    "Type": 0,
+    "Title": "pingdotgg/t3code",
+    "Url": "https://github.com/pingdotgg/t3code",
+    "Description": "",
+    "Metadata": {
+      "owner": "pingdotgg",
+      "repo": "t3code",
+      "language": "TypeScript",
+      "stars": "149"
+    },
+    "FetchedAt": "2026-07-27T02:09:51.0860548+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:yorukot/superfile"
+    },
+    "Type": 0,
+    "Title": "yorukot/superfile",
+    "Url": "https://github.com/yorukot/superfile",
+    "Description": "Pretty fancy and modern terminal file manager",
+    "Metadata": {
+      "owner": "yorukot",
+      "repo": "superfile",
+      "language": "Go",
+      "stars": "131",
+      "topics": "bubbletea, cli, file-manager, filemanager, filesystem, golang, hacktoberfest, linux-app, terminal-app, terminal-based, tui"
+    },
+    "FetchedAt": "2026-07-27T02:09:51.2152103+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:OtterMind/Chat2DB"
+    },
+    "Type": 0,
+    "Title": "OtterMind/Chat2DB",
+    "Url": "https://github.com/OtterMind/Chat2DB",
+    "Description": "\uD83D\uDD25\uD83D\uDD25\uD83D\uDD25 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+    "Metadata": {
+      "owner": "OtterMind",
+      "repo": "Chat2DB",
+      "language": "Java",
+      "stars": "398",
+      "topics": "ai, bi, chatgpt, clickhouse, clickhouse-client, database, datagrip, db2, dbeaver, gpt, hive, mysql, navicat, oracle, postgresql, redis, redis-client, sqlserver, text2sql"
+    },
+    "FetchedAt": "2026-07-27T02:09:51.3405644+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pbakaus/impeccable"
+    },
+    "Type": 0,
+    "Title": "pbakaus/impeccable",
+    "Url": "https://github.com/pbakaus/impeccable",
+    "Description": "The design language that makes your AI harness better at design.",
+    "Metadata": {
+      "owner": "pbakaus",
+      "repo": "impeccable",
+      "language": "JavaScript",
+      "stars": "413"
+    },
+    "FetchedAt": "2026-07-27T02:09:51.4715206+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:shiyu-coder/Kronos"
+    },
+    "Type": 0,
+    "Title": "shiyu-coder/Kronos",
+    "Url": "https://github.com/shiyu-coder/Kronos",
+    "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "Metadata": {
+      "owner": "shiyu-coder",
+      "repo": "Kronos",
+      "language": "Python",
+      "stars": "321"
+    },
+    "FetchedAt": "2026-07-27T02:09:51.5915962+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alibaba/open-code-review"
+    },
+    "Type": 0,
+    "Title": "alibaba/open-code-review",
+    "Url": "https://github.com/alibaba/open-code-review",
+    "Description": "Open-source \u0026 free \u2014 Battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
+    "Metadata": {
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "language": "Go",
+      "stars": "832",
+      "topics": "agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context"
+    },
+    "FetchedAt": "2026-07-27T02:09:51.7177385+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:andrewyng/aisuite"
+    },
+    "Type": 0,
+    "Title": "andrewyng/aisuite",
+    "Url": "https://github.com/andrewyng/aisuite",
+    "Description": "Simple, unified interface to multiple Generative AI providers ",
+    "Metadata": {
+      "owner": "andrewyng",
+      "repo": "aisuite",
+      "language": "Python",
+      "stars": "187"
+    },
+    "FetchedAt": "2026-07-27T02:09:51.8498752+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-cookbooks"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-cookbooks",
+    "Url": "https://github.com/anthropics/claude-cookbooks",
+    "Description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-cookbooks",
+      "language": "Jupyter Notebook",
+      "stars": "379"
+    },
+    "FetchedAt": "2026-07-27T02:09:51.9673762+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Pumpkin-MC/Pumpkin"
+    },
+    "Type": 0,
+    "Title": "Pumpkin-MC/Pumpkin",
+    "Url": "https://github.com/Pumpkin-MC/Pumpkin",
+    "Description": "Empowering everyone to host fast and efficient Minecraft servers.",
+    "Metadata": {
+      "owner": "Pumpkin-MC",
+      "repo": "Pumpkin",
+      "language": "Rust",
+      "stars": "338",
+      "topics": "docker, game-server, gamedev, minecraft, minecraft-bedrock-edition, minecraft-protocol, minecraft-server, networking, rust, server"
+    },
+    "FetchedAt": "2026-07-27T02:09:52.1019139+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:permissionlesstech/bitchat-android"
+    },
+    "Type": 0,
+    "Title": "permissionlesstech/bitchat-android",
+    "Url": "https://github.com/permissionlesstech/bitchat-android",
+    "Description": "bluetooth mesh chat, IRC vibes",
+    "Metadata": {
+      "owner": "permissionlesstech",
+      "repo": "bitchat-android",
+      "language": "Kotlin",
+      "stars": "260"
+    },
+    "FetchedAt": "2026-07-27T02:09:52.240728+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jenkinsci/jenkins"
+    },
+    "Type": 0,
+    "Title": "jenkinsci/jenkins",
+    "Url": "https://github.com/jenkinsci/jenkins",
+    "Description": "Jenkins automation server",
+    "Metadata": {
+      "owner": "jenkinsci",
+      "repo": "jenkins",
+      "language": "Java",
+      "stars": "18",
+      "topics": "cicd, continuous-delivery, continuous-deployment, continuous-integration, devops, groovy, hacktoberfest, java, jenkins, pipelines-as-code"
+    },
+    "FetchedAt": "2026-07-27T02:09:52.3787532+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:amnezia-vpn/amnezia-client"
+    },
+    "Type": 0,
+    "Title": "amnezia-vpn/amnezia-client",
+    "Url": "https://github.com/amnezia-vpn/amnezia-client",
+    "Description": "Amnezia VPN Client (Desktop\u002BMobile)",
+    "Metadata": {
+      "owner": "amnezia-vpn",
+      "repo": "amnezia-client",
+      "language": "C\u002B\u002B",
+      "stars": "35",
+      "topics": "cloak, gfw, ikev2, openvpn, shadowsocks, vpn, vpn-client, vpn-server, wireguard"
+    },
+    "FetchedAt": "2026-07-27T02:09:52.5234626+00:00"
+  }
+]
