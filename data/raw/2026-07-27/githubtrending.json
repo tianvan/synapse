@@ -1,23 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:permissionlesstech/bitchat"
-    },
-    "Type": 0,
-    "Title": "permissionlesstech/bitchat",
-    "Url": "https://github.com/permissionlesstech/bitchat",
-    "Description": "bluetooth mesh chat, IRC vibes",
-    "Metadata": {
-      "owner": "permissionlesstech",
-      "repo": "bitchat",
-      "language": "Swift",
-      "stars": "1,166",
-      "topics": "bluetooth, bluetooth-le, decentralized, e2e-encryption, ios, macos, mesh-network, messaging, nostr, swift"
-    },
-    "FetchedAt": "2026-07-27T09:35:27.4578053+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:citrolabs/ego-lite"
     },
     "Type": 0,
@@ -67,23 +50,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:yorukot/superfile"
-    },
-    "Type": 0,
-    "Title": "yorukot/superfile",
-    "Url": "https://github.com/yorukot/superfile",
-    "Description": "Pretty fancy and modern terminal file manager",
-    "Metadata": {
-      "owner": "yorukot",
-      "repo": "superfile",
-      "language": "Go",
-      "stars": "131",
-      "topics": "bubbletea, cli, file-manager, filemanager, filesystem, golang, hacktoberfest, linux-app, terminal-app, terminal-based, tui"
-    },
-    "FetchedAt": "2026-07-27T09:35:28.0482241+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:OtterMind/Chat2DB"
     },
     "Type": 0,
@@ -98,55 +64,6 @@
       "topics": "ai, bi, chatgpt, clickhouse, clickhouse-client, database, datagrip, db2, dbeaver, gpt, hive, mysql, navicat, oracle, postgresql, redis, redis-client, sqlserver, text2sql"
     },
     "FetchedAt": "2026-07-27T09:35:28.1573246+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:pbakaus/impeccable"
-    },
-    "Type": 0,
-    "Title": "pbakaus/impeccable",
-    "Url": "https://github.com/pbakaus/impeccable",
-    "Description": "The design language that makes your AI harness better at design.",
-    "Metadata": {
-      "owner": "pbakaus",
-      "repo": "impeccable",
-      "language": "JavaScript",
-      "stars": "413"
-    },
-    "FetchedAt": "2026-07-27T09:35:28.2880331+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:shiyu-coder/Kronos"
-    },
-    "Type": 0,
-    "Title": "shiyu-coder/Kronos",
-    "Url": "https://github.com/shiyu-coder/Kronos",
-    "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "Metadata": {
-      "owner": "shiyu-coder",
-      "repo": "Kronos",
-      "language": "Python",
-      "stars": "321"
-    },
-    "FetchedAt": "2026-07-27T09:35:28.395229+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:alibaba/open-code-review"
-    },
-    "Type": 0,
-    "Title": "alibaba/open-code-review",
-    "Url": "https://github.com/alibaba/open-code-review",
-    "Description": "Open-source \u0026 free \u2014 Battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
-    "Metadata": {
-      "owner": "alibaba",
-      "repo": "open-code-review",
-      "language": "Go",
-      "stars": "832",
-      "topics": "agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context"
-    },
-    "FetchedAt": "2026-07-27T09:35:28.524366+00:00"
   },
   {
     "ExternalId": {
@@ -215,20 +132,20 @@
   },
   {
     "ExternalId": {
-      "Value": "github:jenkinsci/jenkins"
+      "Value": "github:permissionlesstech/bitchat"
     },
     "Type": 0,
-    "Title": "jenkinsci/jenkins",
-    "Url": "https://github.com/jenkinsci/jenkins",
-    "Description": "Jenkins automation server",
+    "Title": "permissionlesstech/bitchat",
+    "Url": "https://github.com/permissionlesstech/bitchat",
+    "Description": "bluetooth mesh chat, IRC vibes",
     "Metadata": {
-      "owner": "jenkinsci",
-      "repo": "jenkins",
-      "language": "Java",
-      "stars": "18",
-      "topics": "cicd, continuous-delivery, continuous-deployment, continuous-integration, devops, groovy, hacktoberfest, java, jenkins, pipelines-as-code"
+      "owner": "permissionlesstech",
+      "repo": "bitchat",
+      "language": "Swift",
+      "stars": "2,344",
+      "topics": "bluetooth, bluetooth-le, decentralized, e2e-encryption, ios, macos, mesh-network, messaging, nostr, swift"
     },
-    "FetchedAt": "2026-07-27T09:35:29.1686997+00:00"
+    "FetchedAt": "2026-07-27T14:14:14.1019532+00:00"
   },
   {
     "ExternalId": {
@@ -242,9 +159,176 @@
       "owner": "amnezia-vpn",
       "repo": "amnezia-client",
       "language": "C\u002B\u002B",
-      "stars": "35",
+      "stars": "515",
       "topics": "cloak, gfw, ikev2, openvpn, shadowsocks, vpn, vpn-client, vpn-server, wireguard"
     },
-    "FetchedAt": "2026-07-27T09:35:29.2921631+00:00"
+    "FetchedAt": "2026-07-27T14:14:14.3978479+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:moeru-ai/airi"
+    },
+    "Type": 0,
+    "Title": "moeru-ai/airi",
+    "Url": "https://github.com/moeru-ai/airi",
+    "Description": "\uD83D\uDC96\uD83E\uDDF8 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama\u0027s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "Metadata": {
+      "owner": "moeru-ai",
+      "repo": "airi",
+      "language": "TypeScript",
+      "stars": "554",
+      "topics": "ai-companion, ai-vtuber, airi, digital-life, grok-companion, live2d, neuro-sama, neurosama, openclaw, vrm, vtuber"
+    },
+    "FetchedAt": "2026-07-27T14:14:14.5613384+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:yorukot/superfile"
+    },
+    "Type": 0,
+    "Title": "yorukot/superfile",
+    "Url": "https://github.com/yorukot/superfile",
+    "Description": "Pretty fancy and modern terminal file manager",
+    "Metadata": {
+      "owner": "yorukot",
+      "repo": "superfile",
+      "language": "Go",
+      "stars": "600",
+      "topics": "bubbletea, cli, file-manager, filemanager, filesystem, golang, hacktoberfest, linux-app, terminal-app, terminal-based, tui"
+    },
+    "FetchedAt": "2026-07-27T14:14:14.7449855+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pbakaus/impeccable"
+    },
+    "Type": 0,
+    "Title": "pbakaus/impeccable",
+    "Url": "https://github.com/pbakaus/impeccable",
+    "Description": "The design language that makes your AI harness better at design.",
+    "Metadata": {
+      "owner": "pbakaus",
+      "repo": "impeccable",
+      "language": "JavaScript",
+      "stars": "849"
+    },
+    "FetchedAt": "2026-07-27T14:14:14.913945+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:shiyu-coder/Kronos"
+    },
+    "Type": 0,
+    "Title": "shiyu-coder/Kronos",
+    "Url": "https://github.com/shiyu-coder/Kronos",
+    "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "Metadata": {
+      "owner": "shiyu-coder",
+      "repo": "Kronos",
+      "language": "Python",
+      "stars": "442"
+    },
+    "FetchedAt": "2026-07-27T14:14:15.0674125+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alibaba/open-code-review"
+    },
+    "Type": 0,
+    "Title": "alibaba/open-code-review",
+    "Url": "https://github.com/alibaba/open-code-review",
+    "Description": "Open-source \u0026 free \u2014 Battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
+    "Metadata": {
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "language": "Go",
+      "stars": "980",
+      "topics": "agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context"
+    },
+    "FetchedAt": "2026-07-27T14:14:15.2247193+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jenkinsci/jenkins"
+    },
+    "Type": 0,
+    "Title": "jenkinsci/jenkins",
+    "Url": "https://github.com/jenkinsci/jenkins",
+    "Description": "Jenkins automation server",
+    "Metadata": {
+      "owner": "jenkinsci",
+      "repo": "jenkins",
+      "language": "Java",
+      "stars": "179",
+      "topics": "cicd, continuous-delivery, continuous-deployment, continuous-integration, devops, groovy, hacktoberfest, java, jenkins, pipelines-as-code"
+    },
+    "FetchedAt": "2026-07-27T14:14:15.3814929+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:bradautomates/claude-video"
+    },
+    "Type": 0,
+    "Title": "bradautomates/claude-video",
+    "Url": "https://github.com/bradautomates/claude-video",
+    "Description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "Metadata": {
+      "owner": "bradautomates",
+      "repo": "claude-video",
+      "language": "Python",
+      "stars": "412"
+    },
+    "FetchedAt": "2026-07-27T14:14:15.5490638+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:apache/cassandra"
+    },
+    "Type": 0,
+    "Title": "apache/cassandra",
+    "Url": "https://github.com/apache/cassandra",
+    "Description": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
+    "Metadata": {
+      "owner": "apache",
+      "repo": "cassandra",
+      "language": "Java",
+      "stars": "7",
+      "topics": "cassandra, database, java"
+    },
+    "FetchedAt": "2026-07-27T14:14:15.7113457+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mvanhorn/last30days-skill"
+    },
+    "Type": 0,
+    "Title": "mvanhorn/last30days-skill",
+    "Url": "https://github.com/mvanhorn/last30days-skill",
+    "Description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "Metadata": {
+      "owner": "mvanhorn",
+      "repo": "last30days-skill",
+      "language": "Python",
+      "stars": "221",
+      "topics": "ai-prompts, ai-skill, bluesky, claude, claude-code, clawhub, deep-research, hackernews, instagram, openclaw, polymarket, recency, reddit, research, social-media, tiktok, trends, twitter, web-search, youtube"
+    },
+    "FetchedAt": "2026-07-27T14:14:15.9158846+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ocornut/imgui"
+    },
+    "Type": 0,
+    "Title": "ocornut/imgui",
+    "Url": "https://github.com/ocornut/imgui",
+    "Description": "Dear ImGui: Bloat-free Graphical User interface for C\u002B\u002B with minimal dependencies",
+    "Metadata": {
+      "owner": "ocornut",
+      "repo": "imgui",
+      "language": "C\u002B\u002B",
+      "stars": "64",
+      "topics": "api, cplusplus, framework, game-development, game-engine, gamedev, gui, imgui, immediate-gui, library, multi-platform, native, toolkit, tools, ui"
+    },
+    "FetchedAt": "2026-07-27T14:14:16.0703215+00:00"
   }
 ]
