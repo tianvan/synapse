@@ -1,51 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:49076057"
-    },
-    "Type": 1,
-    "Title": "Our position on open-weights models",
-    "Url": "https://www.anthropic.com/news/position-open-weights-models",
-    "Description": "Our position on open-weights models",
-    "Metadata": {
-      "score": "450",
-      "author": "surprisetalk",
-      "commentCount": "619"
-    },
-    "FetchedAt": "2026-07-28T01:50:20.2892361+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49076391"
-    },
-    "Type": 1,
-    "Title": "Benchmarking Opus 5 on SlopCodeBench",
-    "Url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-    "Description": "Benchmarking Opus 5 on SlopCodeBench",
-    "Metadata": {
-      "score": "114",
-      "author": "dhorthy",
-      "commentCount": "28"
-    },
-    "FetchedAt": "2026-07-28T01:50:20.332466+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49076840"
-    },
-    "Type": 1,
-    "Title": "DConf 2026 in London",
-    "Url": "https://dconf.org/2026/index.html",
-    "Description": "DConf 2026 in London",
-    "Metadata": {
-      "score": "44",
-      "author": "teleforce",
-      "commentCount": "15"
-    },
-    "FetchedAt": "2026-07-28T01:50:20.3741713+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49076900"
     },
     "Type": 1,
@@ -58,36 +13,6 @@
       "commentCount": "17"
     },
     "FetchedAt": "2026-07-28T01:50:20.416791+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49045474"
-    },
-    "Type": 1,
-    "Title": "Watching Go\u0027s new garbage collector move through the heap",
-    "Url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-    "Description": "Watching Go\u0027s new garbage collector move through the heap",
-    "Metadata": {
-      "score": "172",
-      "author": "matheusmoreira",
-      "commentCount": "17"
-    },
-    "FetchedAt": "2026-07-28T01:50:20.4593895+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49076791"
-    },
-    "Type": 1,
-    "Title": "C/C\u002B\u002B projects packaged for Zig",
-    "Url": "https://github.com/allyourcodebase",
-    "Description": "C/C\u002B\u002B projects packaged for Zig",
-    "Metadata": {
-      "score": "27",
-      "author": "jcbhmr",
-      "commentCount": "19"
-    },
-    "FetchedAt": "2026-07-28T01:50:20.5032975+00:00"
   },
   {
     "ExternalId": {
@@ -106,51 +31,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49074817"
-    },
-    "Type": 1,
-    "Title": "Launch HN: Rise Reforming (YC S26) \u2013 Turning Waste Gases into Valuable Chemicals",
-    "Url": "https://www.rise-reforming.com",
-    "Description": "Hi HN! This is George, Lucas, and Jona from Rise Reforming\n(\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.rise-reforming.com\u0026#x2F;\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.rise-reforming.com\u0026#x2F;\u003C/a\u003E). We\u2019re developing a process to convert gas produced at landfills, farms, and wastewater plants (\u201Cbiogas\u201D) into higher value chemicals. Our technology is modular, designed to be deployed and operated on-site. Think of us as a chemical project developer; we sit between biogas producers (suppliers) and chemical end users (customers)",
-    "Metadata": {
-      "score": "60",
-      "author": "george_rose25",
-      "commentCount": "22"
-    },
-    "FetchedAt": "2026-07-28T01:50:20.5917267+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49073942"
-    },
-    "Type": 1,
-    "Title": "Self-contained highly-portable Python distributions",
-    "Url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-    "Description": "Self-contained highly-portable Python distributions",
-    "Metadata": {
-      "score": "113",
-      "author": "jcbhmr",
-      "commentCount": "22"
-    },
-    "FetchedAt": "2026-07-28T01:50:20.6372369+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49050021"
-    },
-    "Type": 1,
-    "Title": "Three Theses on the Literacy Crisis",
-    "Url": "https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis",
-    "Description": "Three Theses on the Literacy Crisis",
-    "Metadata": {
-      "score": "12",
-      "author": "samclemens",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-07-28T01:50:20.681274+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49020993"
     },
     "Type": 1,
@@ -163,51 +43,6 @@
       "commentCount": "84"
     },
     "FetchedAt": "2026-07-28T01:50:20.7239571+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49021024"
-    },
-    "Type": 1,
-    "Title": "Securing Services with Rootless Containers",
-    "Url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
-    "Description": "Securing Services with Rootless Containers",
-    "Metadata": {
-      "score": "61",
-      "author": "speckx",
-      "commentCount": "21"
-    },
-    "FetchedAt": "2026-07-28T01:50:20.7667696+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49021007"
-    },
-    "Type": 1,
-    "Title": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
-    "Url": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
-    "Description": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
-    "Metadata": {
-      "score": "70",
-      "author": "LorenDB",
-      "commentCount": "10"
-    },
-    "FetchedAt": "2026-07-28T01:50:20.8088361+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49041256"
-    },
-    "Type": 1,
-    "Title": "RTX 2080 Ti Memory Upgrade to 22 GB",
-    "Url": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
-    "Description": "RTX 2080 Ti Memory Upgrade to 22 GB",
-    "Metadata": {
-      "score": "7",
-      "author": "wslh",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-07-28T01:50:20.8512226+00:00"
   },
   {
     "ExternalId": {
@@ -286,21 +121,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49070138"
-    },
-    "Type": 1,
-    "Title": "Paged Out #9 [pdf]",
-    "Url": "https://pagedout.institute/download/PagedOut_009.pdf",
-    "Description": "Paged Out #9 [pdf]",
-    "Metadata": {
-      "score": "178",
-      "author": "laurensr",
-      "commentCount": "22"
-    },
-    "FetchedAt": "2026-07-28T01:50:21.1067074+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49073513"
     },
     "Type": 1,
@@ -331,21 +151,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49073834"
-    },
-    "Type": 1,
-    "Title": "Show HN: Yap \u2013 OSS on-device voice dictation for macOS with no model to download",
-    "Url": "https://github.com/FrigadeHQ/yap",
-    "Description": "Hey HN! I wanted to share this OSS project I\u0026#x27;ve been working on.\u003Cp\u003EIt\u0026#x27;s called Yap and its a small menu-bar app for macOS that does voice to text for any input. You\u0026#x27;ll set a hotkey, press it, talk, press it again, and the text gets pasted into whatever field you were in. Everything runs locally and never leaves your computer. Fully OSS and MIT licensed.\u003Cp\u003EWith macOS 26, Apple recently added two new APIs, SpeechAnalyzer and SpeechTranscriber, that do streaming on-device speech to t",
-    "Metadata": {
-      "score": "3",
-      "author": "pancomplex",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-07-28T01:50:21.2352701+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49072523"
     },
     "Type": 1,
@@ -358,36 +163,6 @@
       "commentCount": "0"
     },
     "FetchedAt": "2026-07-28T01:50:21.2775042+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49076505"
-    },
-    "Type": 1,
-    "Title": "Kimi K3 Now Available via Telnyx Inference API",
-    "Url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
-    "Description": "Kimi K3 Now Available via Telnyx Inference API",
-    "Metadata": {
-      "score": "12",
-      "author": "fionaattelnyx",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-07-28T01:50:21.319481+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49076923"
-    },
-    "Type": 1,
-    "Title": "Netflix employee fired for sharing personal details in retreat trust exercise",
-    "Url": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349",
-    "Description": "Netflix employee fired for sharing personal details in retreat trust exercise",
-    "Metadata": {
-      "score": "153",
-      "author": "softwaredoug",
-      "commentCount": "91"
-    },
-    "FetchedAt": "2026-07-28T01:50:21.3613577+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +223,455 @@
       "commentCount": "2"
     },
     "FetchedAt": "2026-07-28T01:50:21.5298521+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49080664"
+    },
+    "Type": 1,
+    "Title": "7.1 Earthquake in Japan",
+    "Url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528\u0026lang=en",
+    "Description": "7.1 Earthquake in Japan",
+    "Metadata": {
+      "score": "72",
+      "author": "krembo",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-07-28T08:19:51.6680575+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49076057"
+    },
+    "Type": 1,
+    "Title": "Our position on open-weights models",
+    "Url": "https://www.anthropic.com/news/position-open-weights-models",
+    "Description": "Our position on open-weights models",
+    "Metadata": {
+      "score": "843",
+      "author": "surprisetalk",
+      "commentCount": "1221"
+    },
+    "FetchedAt": "2026-07-28T08:19:51.7128523+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49078454"
+    },
+    "Type": 1,
+    "Title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+    "Url": "https://fermisense.com/when-machines-take-the-wheel/",
+    "Description": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+    "Metadata": {
+      "score": "150",
+      "author": "ilreb",
+      "commentCount": "43"
+    },
+    "FetchedAt": "2026-07-28T08:19:51.7571325+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49079727"
+    },
+    "Type": 1,
+    "Title": "Ars Astronomica \u2013 English translations of rare Hebrew and Latin astronomy texts",
+    "Url": "https://arsastronomica.com/",
+    "Description": "Ars Astronomica \u2013 English translations of rare Hebrew and Latin astronomy texts",
+    "Metadata": {
+      "score": "48",
+      "author": "sweisman",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-07-28T08:19:51.8023369+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49079490"
+    },
+    "Type": 1,
+    "Title": "Neutrino-1 8B",
+    "Url": "https://www.fermionresearch.com/models/neutrino-8b/",
+    "Description": "Neutrino-1 8B",
+    "Metadata": {
+      "score": "62",
+      "author": "handfuloflight",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-07-28T08:19:51.8474203+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49076391"
+    },
+    "Type": 1,
+    "Title": "Benchmarking Opus 5 on SlopCodeBench",
+    "Url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+    "Description": "Benchmarking Opus 5 on SlopCodeBench",
+    "Metadata": {
+      "score": "264",
+      "author": "dhorthy",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-07-28T08:19:51.8917577+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49078583"
+    },
+    "Type": 1,
+    "Title": "Using an open model feels surprisingly good",
+    "Url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+    "Description": "Using an open model feels surprisingly good",
+    "Metadata": {
+      "score": "257",
+      "author": "msaltz",
+      "commentCount": "82"
+    },
+    "FetchedAt": "2026-07-28T08:19:51.9359367+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49077999"
+    },
+    "Type": 1,
+    "Title": "Vehicle Motion Cues",
+    "Url": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
+    "Description": "Vehicle Motion Cues",
+    "Metadata": {
+      "score": "86",
+      "author": "Austin_Conlon",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-07-28T08:19:51.9803578+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49041256"
+    },
+    "Type": 1,
+    "Title": "RTX 2080 Ti Memory Upgrade to 22 GB",
+    "Url": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
+    "Description": "RTX 2080 Ti Memory Upgrade to 22 GB",
+    "Metadata": {
+      "score": "91",
+      "author": "wslh",
+      "commentCount": "58"
+    },
+    "FetchedAt": "2026-07-28T08:19:52.0249276+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49079454"
+    },
+    "Type": 1,
+    "Title": "PyTorch: A Reference Language",
+    "Url": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
+    "Description": "PyTorch: A Reference Language",
+    "Metadata": {
+      "score": "24",
+      "author": "matt_d",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-07-28T08:19:52.0690432+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49017741"
+    },
+    "Type": 1,
+    "Title": "Why copper still rules the motherboard trace",
+    "Url": "https://psyll.com/articles/technology/why-copper-still-rules-the-motherboard-trace",
+    "Description": "Why copper still rules the motherboard trace",
+    "Metadata": {
+      "score": "6",
+      "author": "lucasfletcher",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-07-28T08:19:52.1131543+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49045474"
+    },
+    "Type": 1,
+    "Title": "Watching Go\u0027s new garbage collector move through the heap",
+    "Url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+    "Description": "Watching Go\u0027s new garbage collector move through the heap",
+    "Metadata": {
+      "score": "209",
+      "author": "matheusmoreira",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-07-28T08:19:52.1574886+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49034534"
+    },
+    "Type": 1,
+    "Title": "Programming Languages Are Authoring Tools for Platforms",
+    "Url": "https://www.makonea.com/en-US/blog/programming-languages-are-authoring-tools-for-platforms",
+    "Description": "Programming Languages Are Authoring Tools for Platforms",
+    "Metadata": {
+      "score": "13",
+      "author": "jdw64",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-28T08:19:52.201503+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49076505"
+    },
+    "Type": 1,
+    "Title": "Kimi K3 Now Available via Telnyx Inference API",
+    "Url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+    "Description": "Moonshot AI released open weights for Kimi K3 today and it\u0026#x27;s live on Telnyx Inference. The architecture and Moonshot\u0026#x27;s own benchmarks are in their technical blog. This post is about running it on Telnyx.\u003Cp\u003EWhat we are adding: K3 is now available via the Telnyx Inference API, hosted on GPUs that we own and operate.\u003Cp\u003EThis matters due to the size of this model. A 2.8T model needs dedicated infra to serve well. Because we own and operate the GPUs, we can contorl throughput. with no inter-",
+    "Metadata": {
+      "score": "72",
+      "author": "fionaattelnyx",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-07-28T08:19:52.2456298+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49073834"
+    },
+    "Type": 1,
+    "Title": "Show HN: Yap \u2013 OSS on-device voice dictation for macOS with no model to download",
+    "Url": "https://github.com/FrigadeHQ/yap",
+    "Description": "Hey HN! I wanted to share this OSS project I\u0026#x27;ve been working on.\u003Cp\u003EIt\u0026#x27;s called Yap and its a small menu-bar app for macOS that does voice to text for any input. You\u0026#x27;ll set a hotkey, press it, talk, press it again, and the text gets pasted into whatever field you were in. Everything runs locally and never leaves your computer. Fully OSS and MIT licensed.\u003Cp\u003EWith macOS 26, Apple recently added two new APIs, SpeechAnalyzer and SpeechTranscriber, that do streaming on-device speech to t",
+    "Metadata": {
+      "score": "63",
+      "author": "pancomplex",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-07-28T08:19:52.2905303+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49078463"
+    },
+    "Type": 1,
+    "Title": "EYG: A Programming Language for Humans",
+    "Url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
+    "Description": "EYG: A Programming Language for Humans",
+    "Metadata": {
+      "score": "63",
+      "author": "crowdhailer",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-07-28T08:19:52.3346958+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49076840"
+    },
+    "Type": 1,
+    "Title": "DConf 2026 in London",
+    "Url": "https://dconf.org/2026/index.html",
+    "Description": "DConf 2026 in London",
+    "Metadata": {
+      "score": "81",
+      "author": "teleforce",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-07-28T08:19:52.3786912+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49076791"
+    },
+    "Type": 1,
+    "Title": "C/C\u002B\u002B projects packaged for Zig",
+    "Url": "https://github.com/allyourcodebase",
+    "Description": "C/C\u002B\u002B projects packaged for Zig",
+    "Metadata": {
+      "score": "54",
+      "author": "jcbhmr",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-07-28T08:19:52.4235126+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49074817"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Rise Reforming (YC S26) \u2013 Turning Waste Gases into Valuable Chemicals",
+    "Url": "https://www.rise-reforming.com",
+    "Description": "Hi HN! This is George, Lucas, and Jona from Rise Reforming\n(\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.rise-reforming.com\u0026#x2F;\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.rise-reforming.com\u0026#x2F;\u003C/a\u003E). We\u2019re developing a process to convert gas produced at landfills, farms, and wastewater plants (\u201Cbiogas\u201D) into higher value chemicals. Our technology is modular, designed to be deployed and operated on-site. Think of us as a chemical project developer; we sit between biogas producers (suppliers) and chemical end users (customers)",
+    "Metadata": {
+      "score": "71",
+      "author": "george_rose25",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-07-28T08:19:52.4682892+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49078575"
+    },
+    "Type": 1,
+    "Title": "An Uncomplicated Man \u2013 A review of The Odyssey, directed by Christopher Nolan",
+    "Url": "https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man",
+    "Description": "An Uncomplicated Man \u2013 A review of The Odyssey, directed by Christopher Nolan",
+    "Metadata": {
+      "score": "82",
+      "author": "andsoitis",
+      "commentCount": "56"
+    },
+    "FetchedAt": "2026-07-28T08:19:52.5124527+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49050021"
+    },
+    "Type": 1,
+    "Title": "Three Theses on the Literacy Crisis",
+    "Url": "https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis",
+    "Description": "Three Theses on the Literacy Crisis",
+    "Metadata": {
+      "score": "47",
+      "author": "samclemens",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-07-28T08:19:52.5573022+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49021007"
+    },
+    "Type": 1,
+    "Title": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
+    "Url": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
+    "Description": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
+    "Metadata": {
+      "score": "99",
+      "author": "LorenDB",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-07-28T08:19:52.6014781+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49049724"
+    },
+    "Type": 1,
+    "Title": "Some combinatorial applications of spacefilling curves",
+    "Url": "https://www2.isye.gatech.edu/~jjb/research/mow/mow.html",
+    "Description": "Some combinatorial applications of spacefilling curves",
+    "Metadata": {
+      "score": "50",
+      "author": "shraiwi",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-07-28T08:19:52.6455404+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49073942"
+    },
+    "Type": 1,
+    "Title": "Self-contained highly-portable Python distributions",
+    "Url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+    "Description": "Self-contained highly-portable Python distributions",
+    "Metadata": {
+      "score": "141",
+      "author": "jcbhmr",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-07-28T08:19:52.6903419+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49031322"
+    },
+    "Type": 1,
+    "Title": "A Dying Art: The last of the morticians",
+    "Url": "https://harpers.org/archive/2026/08/a-dying-art-john-semley-mortuary-sciences-competition/",
+    "Description": "A Dying Art: The last of the morticians",
+    "Metadata": {
+      "score": "27",
+      "author": "Petiver",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-28T08:19:52.7346536+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49021024"
+    },
+    "Type": 1,
+    "Title": "Securing Services with Rootless Containers",
+    "Url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
+    "Description": "Securing Services with Rootless Containers",
+    "Metadata": {
+      "score": "91",
+      "author": "speckx",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-07-28T08:19:52.7792137+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49070138"
+    },
+    "Type": 1,
+    "Title": "Paged Out #9 [pdf]",
+    "Url": "https://pagedout.institute/download/PagedOut_009.pdf",
+    "Description": "Paged Out #9 [pdf]",
+    "Metadata": {
+      "score": "225",
+      "author": "laurensr",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-07-28T08:19:52.8233531+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49079146"
+    },
+    "Type": 1,
+    "Title": "The age of token efficiency, the age of libraries",
+    "Url": "https://golemui.com/blog/the-age-of-token-efficiency/",
+    "Description": "The age of token efficiency, the age of libraries",
+    "Metadata": {
+      "score": "20",
+      "author": "handfuloflight",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-28T08:19:52.8680847+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49071190"
+    },
+    "Type": 1,
+    "Title": "How real are real numbers? (2004)",
+    "Url": "https://arxiv.org/abs/math/0411418",
+    "Description": "How real are real numbers? (2004)",
+    "Metadata": {
+      "score": "74",
+      "author": "surprisetalk",
+      "commentCount": "54"
+    },
+    "FetchedAt": "2026-07-28T08:19:52.9119249+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49076923"
+    },
+    "Type": 1,
+    "Title": "Netflix employee fired for sharing personal details in retreat trust exercise",
+    "Url": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.inc.com\u0026#x2F;amaya-nichole\u0026#x2F;netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning\u0026#x2F;91380349\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.inc.com\u0026#x2F;amaya-nichole\u0026#x2F;netflix-company-retreat-sp...\u003C/a\u003E",
+    "Metadata": {
+      "score": "286",
+      "author": "softwaredoug",
+      "commentCount": "244"
+    },
+    "FetchedAt": "2026-07-28T08:19:52.9564005+00:00"
   }
 ]
