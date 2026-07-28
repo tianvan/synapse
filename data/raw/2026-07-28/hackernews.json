@@ -496,51 +496,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49080664"
-    },
-    "Type": 1,
-    "Title": "7.1 Earthquake in Japan",
-    "Url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528\u0026lang=en",
-    "Description": "7.1 Earthquake in Japan",
-    "Metadata": {
-      "score": "451",
-      "author": "krembo",
-      "commentCount": "81"
-    },
-    "FetchedAt": "2026-07-28T13:45:49.5330729+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49083239"
-    },
-    "Type": 1,
-    "Title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-    "Url": "https://github.com/schildep/verified-3d-mesh-intersection",
-    "Description": "To my knowledge, this is the first formally verified implementation of a 3D constructive solid geometry (CSG) operation: mesh intersection, implemented in Lean 4 and verified against a concise specification that pins down the surface of the resulting mesh exactly and guarantees practical well-formedness conditions on the triangulation.\u003Cp\u003EThis project is also an experiment in avoiding having to trust AI-generated code. A human reviewer only needs to read 93 lines of formal specification and run t",
-    "Metadata": {
-      "score": "25",
-      "author": "permute",
-      "commentCount": "8"
-    },
-    "FetchedAt": "2026-07-28T13:45:49.5470343+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49083314"
-    },
-    "Type": 1,
-    "Title": "New HIV vaccine shows unprecedented success in preclinical study",
-    "Url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-    "Description": "New HIV vaccine shows unprecedented success in preclinical study",
-    "Metadata": {
-      "score": "42",
-      "author": "codebyaditya",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-07-28T13:45:49.5601393+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49081555"
     },
     "Type": 1,
@@ -553,21 +508,6 @@
       "commentCount": "73"
     },
     "FetchedAt": "2026-07-28T13:45:49.5749551+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49081644"
-    },
-    "Type": 1,
-    "Title": "Google\u0027s Beyond Zero: Enterprise Security for the AI Era",
-    "Url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-    "Description": "Google\u0027s Beyond Zero: Enterprise Security for the AI Era",
-    "Metadata": {
-      "score": "53",
-      "author": "jordigg",
-      "commentCount": "34"
-    },
-    "FetchedAt": "2026-07-28T13:45:49.5880466+00:00"
   },
   {
     "ExternalId": {
@@ -601,21 +541,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49082022"
-    },
-    "Type": 1,
-    "Title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
-    "Url": "https://arxiv.org/abs/2510.26692",
-    "Description": "Kimi Linear: An Expressive, Efficient Attention Architecture",
-    "Metadata": {
-      "score": "34",
-      "author": "ronfriedhaber",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-07-28T13:45:49.6276797+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49083132"
     },
     "Type": 1,
@@ -628,21 +553,6 @@
       "commentCount": "8"
     },
     "FetchedAt": "2026-07-28T13:45:49.6403946+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49036068"
-    },
-    "Type": 1,
-    "Title": "How to Survive Boiling Water",
-    "Url": "https://taxa.substack.com/p/how-to-survive-boiling-water",
-    "Description": "How to Survive Boiling Water",
-    "Metadata": {
-      "score": "149",
-      "author": "cainxinth",
-      "commentCount": "22"
-    },
-    "FetchedAt": "2026-07-28T13:45:49.6541509+00:00"
   },
   {
     "ExternalId": {
@@ -673,21 +583,6 @@
       "commentCount": "4"
     },
     "FetchedAt": "2026-07-28T13:45:49.6801998+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49081783"
-    },
-    "Type": 1,
-    "Title": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don\u0027t Enforce It",
-    "Url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
-    "Description": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don\u0027t Enforce It",
-    "Metadata": {
-      "score": "24",
-      "author": "adulion",
-      "commentCount": "17"
-    },
-    "FetchedAt": "2026-07-28T13:45:49.6931253+00:00"
   },
   {
     "ExternalId": {
@@ -943,5 +838,455 @@
       "commentCount": "47"
     },
     "FetchedAt": "2026-07-28T13:45:49.9304192+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49085909"
+    },
+    "Type": 1,
+    "Title": "A walk through of the DeltaNet family of linear attention variants",
+    "Url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+    "Description": "A walk through of the DeltaNet family of linear attention variants",
+    "Metadata": {
+      "score": "239",
+      "author": "AnhTho_FR",
+      "commentCount": "94"
+    },
+    "FetchedAt": "2026-07-28T19:11:25.1755998+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49088148"
+    },
+    "Type": 1,
+    "Title": "Deflock Casa Grande",
+    "Url": "https://deflockcg.com/",
+    "Description": "Deflock Casa Grande",
+    "Metadata": {
+      "score": "41",
+      "author": "mooreds",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-07-28T19:11:25.213666+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49086971"
+    },
+    "Type": 1,
+    "Title": "Steel Bank Common Lisp version 2.6.7",
+    "Url": "https://sbcl.org/all-news.html?2.6.7",
+    "Description": "Steel Bank Common Lisp version 2.6.7",
+    "Metadata": {
+      "score": "82",
+      "author": "tmtvl",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-07-28T19:11:25.2519229+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49085731"
+    },
+    "Type": 1,
+    "Title": "Delayed Gratification \u2013 Proud to Be \u0027Last to Breaking News\u0027",
+    "Url": "https://www.slow-journalism.com/",
+    "Description": "Delayed Gratification \u2013 Proud to Be \u0027Last to Breaking News\u0027",
+    "Metadata": {
+      "score": "128",
+      "author": "speerer",
+      "commentCount": "62"
+    },
+    "FetchedAt": "2026-07-28T19:11:25.2894304+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49085698"
+    },
+    "Type": 1,
+    "Title": "Kimi K3 Architecture Overview and Notes",
+    "Url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+    "Description": "Kimi K3 Architecture Overview and Notes",
+    "Metadata": {
+      "score": "116",
+      "author": "ModelForge",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-07-28T19:11:25.3272788+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49087091"
+    },
+    "Type": 1,
+    "Title": "Discovering Cryptographic Weaknesses with Claude",
+    "Url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+    "Description": "Discovering Cryptographic Weaknesses with Claude",
+    "Metadata": {
+      "score": "75",
+      "author": "gslin",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-07-28T19:11:25.3647908+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49085666"
+    },
+    "Type": 1,
+    "Title": "Zig\u0027s Incremental Compilation Internals",
+    "Url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+    "Description": "Zig\u0027s Incremental Compilation Internals",
+    "Metadata": {
+      "score": "113",
+      "author": "garyhtou",
+      "commentCount": "61"
+    },
+    "FetchedAt": "2026-07-28T19:11:25.4026119+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49080664"
+    },
+    "Type": 1,
+    "Title": "7.1 Earthquake in Japan",
+    "Url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528\u0026lang=en",
+    "Description": "7.1 Earthquake in Japan",
+    "Metadata": {
+      "score": "735",
+      "author": "krembo",
+      "commentCount": "195"
+    },
+    "FetchedAt": "2026-07-28T19:11:25.441843+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49085811"
+    },
+    "Type": 1,
+    "Title": "How Do I Profile eBPF Code?",
+    "Url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
+    "Description": "How Do I Profile eBPF Code?",
+    "Metadata": {
+      "score": "78",
+      "author": "snaveen",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-07-28T19:11:25.4805475+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49085798"
+    },
+    "Type": 1,
+    "Title": "Show HN: XY \u2013 A Fast, composable, GPU-accelerated interactive plotting library",
+    "Url": "https://github.com/reflex-dev/xy",
+    "Description": "Show HN: XY \u2013 A Fast, composable, GPU-accelerated interactive plotting library",
+    "Metadata": {
+      "score": "69",
+      "author": "apetuskey",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-07-28T19:11:25.51883+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49088058"
+    },
+    "Type": 1,
+    "Title": "MCP 2026-07-28 Specification: transport going stateless",
+    "Url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+    "Description": "MCP 2026-07-28 Specification: transport going stateless",
+    "Metadata": {
+      "score": "17",
+      "author": "Eldodi",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-07-28T19:11:25.5574438+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49086890"
+    },
+    "Type": 1,
+    "Title": "WOFF 1.0: a milestone on W3C\u0027s journey of fonts on the web",
+    "Url": "https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web/",
+    "Description": "WOFF 1.0: a milestone on W3C\u0027s journey of fonts on the web",
+    "Metadata": {
+      "score": "34",
+      "author": "hn_acker",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-28T19:11:25.5957841+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49083314"
+    },
+    "Type": 1,
+    "Title": "New HIV vaccine shows unprecedented success in preclinical study",
+    "Url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+    "Description": "New HIV vaccine shows unprecedented success in preclinical study",
+    "Metadata": {
+      "score": "412",
+      "author": "codebyaditya",
+      "commentCount": "196"
+    },
+    "FetchedAt": "2026-07-28T19:11:25.6333204+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49082022"
+    },
+    "Type": 1,
+    "Title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
+    "Url": "https://arxiv.org/abs/2510.26692",
+    "Description": "Kimi Linear: An Expressive, Efficient Attention Architecture",
+    "Metadata": {
+      "score": "232",
+      "author": "ronfriedhaber",
+      "commentCount": "92"
+    },
+    "FetchedAt": "2026-07-28T19:11:25.6717108+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49084987"
+    },
+    "Type": 1,
+    "Title": "Now Is the Time to Give LLMs Access to the ACM Digital Library",
+    "Url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+    "Description": "Now Is the Time to Give LLMs Access to the ACM Digital Library",
+    "Metadata": {
+      "score": "61",
+      "author": "rbanffy",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-07-28T19:11:25.7096104+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49086788"
+    },
+    "Type": 1,
+    "Title": "Substack writers, you need a website",
+    "Url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+    "Description": "Substack writers, you need a website",
+    "Metadata": {
+      "score": "103",
+      "author": "speckx",
+      "commentCount": "97"
+    },
+    "FetchedAt": "2026-07-28T19:11:25.7470729+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49084989"
+    },
+    "Type": 1,
+    "Title": "Anthropeum \u2013 Where in the world, and when, does this human artifact belong?",
+    "Url": "https://anthropeum.com/",
+    "Description": "Anthropeum \u2013 Where in the world, and when, does this human artifact belong?",
+    "Metadata": {
+      "score": "88",
+      "author": "bookofjoe",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-07-28T19:11:25.7860261+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49039904"
+    },
+    "Type": 1,
+    "Title": "The most advanced robotic servicing satellite\u2013that we know about",
+    "Url": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
+    "Description": "The most advanced robotic servicing satellite\u2013that we know about",
+    "Metadata": {
+      "score": "10",
+      "author": "GlenTheMachine",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-28T19:11:25.8239403+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49081783"
+    },
+    "Type": 1,
+    "Title": "DMARC has been public since 2012 but most company domains still don\u0027t enforce it",
+    "Url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
+    "Description": "DMARC has been public since 2012 but most company domains still don\u0027t enforce it",
+    "Metadata": {
+      "score": "148",
+      "author": "adulion",
+      "commentCount": "91"
+    },
+    "FetchedAt": "2026-07-28T19:11:25.8626687+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49036068"
+    },
+    "Type": 1,
+    "Title": "How to survive boiling water",
+    "Url": "https://taxa.substack.com/p/how-to-survive-boiling-water",
+    "Description": "How to survive boiling water",
+    "Metadata": {
+      "score": "374",
+      "author": "cainxinth",
+      "commentCount": "78"
+    },
+    "FetchedAt": "2026-07-28T19:11:25.9004872+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49085280"
+    },
+    "Type": 1,
+    "Title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
+    "Url": "https://arxiv.org/abs/1202.4212",
+    "Description": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
+    "Metadata": {
+      "score": "64",
+      "author": "surprisetalk",
+      "commentCount": "47"
+    },
+    "FetchedAt": "2026-07-28T19:11:25.938245+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49084938"
+    },
+    "Type": 1,
+    "Title": "Stop Killing the Internet: No Digital ID and No Age Verification",
+    "Url": "https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en",
+    "Description": "Stop Killing the Internet: No Digital ID and No Age Verification",
+    "Metadata": {
+      "score": "247",
+      "author": "doener",
+      "commentCount": "77"
+    },
+    "FetchedAt": "2026-07-28T19:11:25.9770705+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49085509"
+    },
+    "Type": 1,
+    "Title": "So, you want to make a game engine (2023)",
+    "Url": "https://lisyarus.github.io/blog/posts/so-you-want-to-make-a-game-engine.html#part-3",
+    "Description": "So, you want to make a game engine (2023)",
+    "Metadata": {
+      "score": "33",
+      "author": "kugurerdem",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-07-28T19:11:26.0147012+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49086987"
+    },
+    "Type": 1,
+    "Title": "Scientific computing in the age of agentic AI",
+    "Url": "https://openai.com/index/scientific-computing-agentic-ai/",
+    "Description": "Scientific computing in the age of agentic AI",
+    "Metadata": {
+      "score": "26",
+      "author": "mfiguiere",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-07-28T19:11:26.0540412+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49083634"
+    },
+    "Type": 1,
+    "Title": "VMs can\u0027t boot with Network Mode set to Bridged on Apple M5 Pro machines",
+    "Url": "https://github.com/utmapp/UTM/issues/7658",
+    "Description": "VMs can\u0027t boot with Network Mode set to Bridged on Apple M5 Pro machines",
+    "Metadata": {
+      "score": "56",
+      "author": "IndySun",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-07-28T19:11:26.0929267+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49081644"
+    },
+    "Type": 1,
+    "Title": "Google\u0027s Beyond Zero: Enterprise Security for the AI Era",
+    "Url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+    "Description": "Google\u0027s Beyond Zero: Enterprise Security for the AI Era",
+    "Metadata": {
+      "score": "125",
+      "author": "jordigg",
+      "commentCount": "68"
+    },
+    "FetchedAt": "2026-07-28T19:11:26.131147+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49083239"
+    },
+    "Type": 1,
+    "Title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+    "Url": "https://github.com/schildep/verified-3d-mesh-intersection",
+    "Description": "To my knowledge, this is the first formally verified implementation of a 3D constructive solid geometry (CSG) operation: mesh intersection, implemented in Lean 4 and verified against a concise specification that pins down the surface of the resulting mesh exactly and guarantees practical well-formedness conditions on the triangulation.\u003Cp\u003EThis project is also an experiment in avoiding having to trust AI-generated code. A human reviewer only needs to read 93 lines of formal specification and run t",
+    "Metadata": {
+      "score": "95",
+      "author": "permute",
+      "commentCount": "42"
+    },
+    "FetchedAt": "2026-07-28T19:11:26.1692434+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49075264"
+    },
+    "Type": 1,
+    "Title": "Solving Fermat: Andrew Wiles",
+    "Url": "https://www.pbs.org/wgbh/nova/proof/wiles.html",
+    "Description": "Solving Fermat: Andrew Wiles",
+    "Metadata": {
+      "score": "64",
+      "author": "1970-01-01",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-07-28T19:11:26.2073966+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49011739"
+    },
+    "Type": 1,
+    "Title": "Using a Gaming PC\u0027s RTX 5070 from a separate Linux workstation",
+    "Url": "https://stephenkrings.com/posts/rtx-5070-linux-gpu-server/",
+    "Description": "Using a Gaming PC\u0027s RTX 5070 from a separate Linux workstation",
+    "Metadata": {
+      "score": "21",
+      "author": "microbial",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-07-28T19:11:26.2458358+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49085503"
+    },
+    "Type": 1,
+    "Title": "Show HN: Flashpaper \u2013 Self-destructing secret sharing with no database",
+    "Url": "https://flashpaper.app/",
+    "Description": "Hi everyone! This is my first HN and I\u2019m very new to the scene. My name is Min from Bangkok.\u003Cp\u003EAt first, I just want to create a dead man\u0026#x27;s switch for personal use and for fun. then, I think about information that self destruct like a spy movie. after that, I try to come up with the better version of Privnote or Bitwarden with self-destruct and some kind of censoring or blocking download ability. Somehow, end up with this product. :O\u003Cp\u003EFlashpaper is for sending any information that would be",
+    "Metadata": {
+      "score": "22",
+      "author": "minpym",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-07-28T19:11:26.2838373+00:00"
   }
 ]
