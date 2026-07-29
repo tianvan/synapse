@@ -181,156 +181,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49093569"
-    },
-    "Type": 1,
-    "Title": "More Tailscale tricks for your jailbroken Kindle",
-    "Url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-    "Description": "More Tailscale tricks for your jailbroken Kindle",
-    "Metadata": {
-      "score": "141",
-      "author": "Error6571",
-      "commentCount": "43"
-    },
-    "FetchedAt": "2026-07-29T08:25:35.7041992+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49093434"
-    },
-    "Type": 1,
-    "Title": "User Interfaces of the Demo Scene",
-    "Url": "https://www.datagubbe.se/scenegui/",
-    "Description": "User Interfaces of the Demo Scene",
-    "Metadata": {
-      "score": "131",
-      "author": "zdw",
-      "commentCount": "21"
-    },
-    "FetchedAt": "2026-07-29T08:25:35.7609801+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49089755"
-    },
-    "Type": 1,
-    "Title": "Codex Security",
-    "Url": "https://github.com/openai/codex-security",
-    "Description": "Codex Security",
-    "Metadata": {
-      "score": "486",
-      "author": "bakigul",
-      "commentCount": "158"
-    },
-    "FetchedAt": "2026-07-29T08:25:35.8174122+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49090607"
-    },
-    "Type": 1,
-    "Title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-    "Url": "https://github.com/twalichiewicz/HNewhere",
-    "Description": "HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in another, constantly switching back and forth.\u003Cp\u003EI figured there was probably a simpler way, so I threw together this userscript to merge the two.\u003Cp\u003E1. Clicking a link from Hacker News opens the article with a side panel containing the discussion. It doesn\u0026#x27;t require your credentials, is resizable, a",
-    "Metadata": {
-      "score": "289",
-      "author": "twalichiewicz",
-      "commentCount": "73"
-    },
-    "FetchedAt": "2026-07-29T08:25:35.8732161+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49093435"
-    },
-    "Type": 1,
-    "Title": "Cracking Windows Open: Porting RADV to Win32",
-    "Url": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
-    "Description": "Cracking Windows Open: Porting RADV to Win32",
-    "Metadata": {
-      "score": "35",
-      "author": "zdw",
-      "commentCount": "8"
-    },
-    "FetchedAt": "2026-07-29T08:25:35.9306333+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49086788"
-    },
-    "Type": 1,
-    "Title": "Substack writers, you need a website",
-    "Url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-    "Description": "Substack writers, you need a website",
-    "Metadata": {
-      "score": "516",
-      "author": "speckx",
-      "commentCount": "254"
-    },
-    "FetchedAt": "2026-07-29T08:25:35.9873617+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49093232"
-    },
-    "Type": 1,
-    "Title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
-    "Url": "https://transformer-transformer.github.io/",
-    "Description": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
-    "Metadata": {
-      "score": "47",
-      "author": "ilreb",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-07-29T08:25:36.0438297+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49089814"
-    },
-    "Type": 1,
-    "Title": "Half-Life ported to Mac OS 9",
-    "Url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
-    "Description": "Half-Life ported to Mac OS 9",
-    "Metadata": {
-      "score": "222",
-      "author": "freediver",
-      "commentCount": "108"
-    },
-    "FetchedAt": "2026-07-29T08:25:36.1005641+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49092499"
-    },
-    "Type": 1,
-    "Title": "LearnVector \u2013 Andrew Ng\u0027s AI company building one\u2011to\u2011one learning experiences",
-    "Url": "https://learnvector.ai/",
-    "Description": "LearnVector \u2013 Andrew Ng\u0027s AI company building one\u2011to\u2011one learning experiences",
-    "Metadata": {
-      "score": "170",
-      "author": "ajhai",
-      "commentCount": "98"
-    },
-    "FetchedAt": "2026-07-29T08:25:36.1576568+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49091379"
-    },
-    "Type": 1,
-    "Title": "ReFrame \u2013 The EPaper Camera",
-    "Url": "https://reframe.camera/",
-    "Description": "ReFrame \u2013 The EPaper Camera",
-    "Metadata": {
-      "score": "113",
-      "author": "phil294",
-      "commentCount": "20"
-    },
-    "FetchedAt": "2026-07-29T08:25:36.2143472+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49085698"
     },
     "Type": 1,
@@ -391,21 +241,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49086971"
-    },
-    "Type": 1,
-    "Title": "Steel Bank Common Lisp version 2.6.7",
-    "Url": "https://sbcl.org/all-news.html?2.6.7",
-    "Description": "Steel Bank Common Lisp version 2.6.7",
-    "Metadata": {
-      "score": "227",
-      "author": "tmtvl",
-      "commentCount": "97"
-    },
-    "FetchedAt": "2026-07-29T08:25:36.4970253+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49021447"
     },
     "Type": 1,
@@ -418,21 +253,6 @@
       "commentCount": "0"
     },
     "FetchedAt": "2026-07-29T08:25:36.5527073+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49085731"
-    },
-    "Type": 1,
-    "Title": "Delayed Gratification \u2013 Proud to Be \u0027Last to Breaking News\u0027",
-    "Url": "https://www.slow-journalism.com/",
-    "Description": "Delayed Gratification \u2013 Proud to Be \u0027Last to Breaking News\u0027",
-    "Metadata": {
-      "score": "291",
-      "author": "speerer",
-      "commentCount": "162"
-    },
-    "FetchedAt": "2026-07-29T08:25:36.6085899+00:00"
   },
   {
     "ExternalId": {
@@ -628,5 +448,455 @@
       "commentCount": "3"
     },
     "FetchedAt": "2026-07-29T08:25:37.3419065+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49095865"
+    },
+    "Type": 1,
+    "Title": "KOReader",
+    "Url": "https://koreader.rocks/",
+    "Description": "KOReader",
+    "Metadata": {
+      "score": "233",
+      "author": "Cider9986",
+      "commentCount": "83"
+    },
+    "FetchedAt": "2026-07-29T13:50:58.6209725+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49096969"
+    },
+    "Type": 1,
+    "Title": "Handbook.md shows that long policy documents do not reliably govern agents",
+    "Url": "https://arxiv.org/abs/2607.25398",
+    "Description": "Handbook.md shows that long policy documents do not reliably govern agents",
+    "Metadata": {
+      "score": "34",
+      "author": "spIrr",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-07-29T13:50:58.6554644+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49096953"
+    },
+    "Type": 1,
+    "Title": "After the AI Crash",
+    "Url": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/",
+    "Description": "After the AI Crash",
+    "Metadata": {
+      "score": "30",
+      "author": "sysoleg",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-07-29T13:50:58.6957967+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49096188"
+    },
+    "Type": 1,
+    "Title": "Document-borne AI worms can self-propagate through Copilot for Word",
+    "Url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+    "Description": "Document-borne AI worms can self-propagate through Copilot for Word",
+    "Metadata": {
+      "score": "130",
+      "author": "Canopy9560",
+      "commentCount": "102"
+    },
+    "FetchedAt": "2026-07-29T13:50:58.7427679+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49096917"
+    },
+    "Type": 1,
+    "Title": "Show HN: Bullshit Detector \u2013 agent skills that fact-check videos and articles",
+    "Url": "https://github.com/SerhiiKorniienko/bullshit-detector",
+    "Description": "Show HN: Bullshit Detector \u2013 agent skills that fact-check videos and articles",
+    "Metadata": {
+      "score": "21",
+      "author": "skorniienko",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-07-29T13:50:58.776591+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49093569"
+    },
+    "Type": 1,
+    "Title": "More Tailscale tricks for your jailbroken Kindle",
+    "Url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+    "Description": "More Tailscale tricks for your jailbroken Kindle",
+    "Metadata": {
+      "score": "285",
+      "author": "Error6571",
+      "commentCount": "93"
+    },
+    "FetchedAt": "2026-07-29T13:50:58.8108558+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49096427"
+    },
+    "Type": 1,
+    "Title": "Disrupting supply chain attacks on NPM and GitHub Actions",
+    "Url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+    "Description": "Disrupting supply chain attacks on NPM and GitHub Actions",
+    "Metadata": {
+      "score": "17",
+      "author": "nyku",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-07-29T13:50:58.8452311+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49095511"
+    },
+    "Type": 1,
+    "Title": "Amiga Graphics Archive",
+    "Url": "https://amiga.lychesis.net/index.html",
+    "Description": "Amiga Graphics Archive",
+    "Metadata": {
+      "score": "67",
+      "author": "Bluestein",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-07-29T13:50:58.8863306+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49095628"
+    },
+    "Type": 1,
+    "Title": "SpecForge \u2013 A Platform for Authoring Formal Specifications",
+    "Url": "https://docs.imiron.io/v/0.5.10/en/tour.html",
+    "Description": "SpecForge \u2013 A Platform for Authoring Formal Specifications",
+    "Metadata": {
+      "score": "42",
+      "author": "agnishom",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-29T13:50:58.9213448+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49093434"
+    },
+    "Type": 1,
+    "Title": "User Interfaces of the Demo Scene",
+    "Url": "https://www.datagubbe.se/scenegui/",
+    "Description": "User Interfaces of the Demo Scene",
+    "Metadata": {
+      "score": "289",
+      "author": "zdw",
+      "commentCount": "48"
+    },
+    "FetchedAt": "2026-07-29T13:50:58.9561392+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49096742"
+    },
+    "Type": 1,
+    "Title": "A Texture Lookup Approach to B\u00E9zier Curve Evaluation on the GPU (JCGT)",
+    "Url": "https://jcgt.org/published/0015/02/01/",
+    "Description": "A Texture Lookup Approach to B\u00E9zier Curve Evaluation on the GPU (JCGT)",
+    "Metadata": {
+      "score": "11",
+      "author": "ibobev",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-29T13:50:58.9900799+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49094346"
+    },
+    "Type": 1,
+    "Title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+    "Url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+    "Description": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+    "Metadata": {
+      "score": "134",
+      "author": "ankitg12",
+      "commentCount": "50"
+    },
+    "FetchedAt": "2026-07-29T13:50:59.0241462+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49089755"
+    },
+    "Type": 1,
+    "Title": "Codex Security",
+    "Url": "https://github.com/openai/codex-security",
+    "Description": "Codex Security",
+    "Metadata": {
+      "score": "545",
+      "author": "bakigul",
+      "commentCount": "197"
+    },
+    "FetchedAt": "2026-07-29T13:50:59.0595403+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49060363"
+    },
+    "Type": 1,
+    "Title": "Lisp moving Forth moving Lisp",
+    "Url": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
+    "Description": "Lisp moving Forth moving Lisp",
+    "Metadata": {
+      "score": "63",
+      "author": "fallat",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-07-29T13:50:59.0937495+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49096290"
+    },
+    "Type": 1,
+    "Title": "French musician Kavinsky found dead",
+    "Url": "https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home",
+    "Description": "French musician Kavinsky found dead",
+    "Metadata": {
+      "score": "121",
+      "author": "bristleworm",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-07-29T13:50:59.1284429+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49096767"
+    },
+    "Type": 1,
+    "Title": "Show HN: Echologue \u2013 the private AI voice journal I built for myself",
+    "Url": "https://echologue.com/",
+    "Description": "I have tried journaling many times but nothing stuck. So I decided to make my own app for myself with these features:\u003Cp\u003E* Voice first\u003Cp\u003E* Private first\u003Cp\u003E* AI chat\u003Cp\u003E* Automatic tagging, meaning extraction, and semantic retrieval using embeddings stored locally\u003Cp\u003E* Export to LLM\u003Cp\u003Ethe AI angle is especially interesting for me. It allows me to ask questions like:\u003Cp\u003E* \u0026quot;remind me highlights and crazy nights in the last 3 months\u0026quot;\u003Cp\u003E* \u0026quot;How was I feeling during my trip in Spain and how ",
+    "Metadata": {
+      "score": "7",
+      "author": "arisAlexis",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-07-29T13:50:59.1632145+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49090607"
+    },
+    "Type": 1,
+    "Title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+    "Url": "https://github.com/twalichiewicz/HNewhere",
+    "Description": "HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in another, constantly switching back and forth.\u003Cp\u003EI figured there was probably a simpler way, so I threw together this userscript to merge the two.\u003Cp\u003E1. Clicking a link from Hacker News opens the article with a side panel containing the discussion. It doesn\u0026#x27;t require your credentials, is resizable, a",
+    "Metadata": {
+      "score": "365",
+      "author": "twalichiewicz",
+      "commentCount": "101"
+    },
+    "FetchedAt": "2026-07-29T13:50:59.1988867+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49012754"
+    },
+    "Type": 1,
+    "Title": "Ancient Rome\u0027s version of Google Maps: how long to reach the beach",
+    "Url": "https://www.euronews.com/culture/2026/07/02/ancient-romes-version-of-google-maps-how-long-to-reach-the-beach",
+    "Description": "Ancient Rome\u0027s version of Google Maps: how long to reach the beach",
+    "Metadata": {
+      "score": "41",
+      "author": "gnabgib",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-07-29T13:50:59.2326345+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49086788"
+    },
+    "Type": 1,
+    "Title": "Substack writers, you need a website",
+    "Url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+    "Description": "Substack writers, you need a website",
+    "Metadata": {
+      "score": "595",
+      "author": "speckx",
+      "commentCount": "313"
+    },
+    "FetchedAt": "2026-07-29T13:50:59.267218+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49096493"
+    },
+    "Type": 1,
+    "Title": "Pulse Path \u2013 a browser puzzle where placement is the only decision",
+    "Url": "https://pulsepathgame.netlify.app/",
+    "Description": "Pulse Path \u2013 a browser puzzle where placement is the only decision",
+    "Metadata": {
+      "score": "7",
+      "author": "crysislol",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-07-29T13:50:59.3016535+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49051355"
+    },
+    "Type": 1,
+    "Title": "ALP: Adaptive lossless floating-point compression",
+    "Url": "https://github.com/cwida/ALP",
+    "Description": "ALP: Adaptive lossless floating-point compression",
+    "Metadata": {
+      "score": "10",
+      "author": "fanf2",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-29T13:50:59.3363629+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49089814"
+    },
+    "Type": 1,
+    "Title": "Half-Life ported to Mac OS 9",
+    "Url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+    "Description": "Half-Life ported to Mac OS 9",
+    "Metadata": {
+      "score": "280",
+      "author": "freediver",
+      "commentCount": "132"
+    },
+    "FetchedAt": "2026-07-29T13:50:59.3815995+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49093435"
+    },
+    "Type": 1,
+    "Title": "Cracking Windows Open: Porting RADV to Win32",
+    "Url": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
+    "Description": "Cracking Windows Open: Porting RADV to Win32",
+    "Metadata": {
+      "score": "72",
+      "author": "zdw",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-07-29T13:50:59.4156414+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49091379"
+    },
+    "Type": 1,
+    "Title": "ReFrame \u2013 The EPaper Camera",
+    "Url": "https://reframe.camera/",
+    "Description": "ReFrame \u2013 The EPaper Camera",
+    "Metadata": {
+      "score": "171",
+      "author": "phil294",
+      "commentCount": "39"
+    },
+    "FetchedAt": "2026-07-29T13:50:59.4496775+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49095361"
+    },
+    "Type": 1,
+    "Title": "The only road in London where you have to drive on the right",
+    "Url": "https://www.mylondon.news/news/transport/only-road-london-you-drive-30499294",
+    "Description": "The only road in London where you have to drive on the right",
+    "Metadata": {
+      "score": "13",
+      "author": "theanonymousone",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-07-29T13:50:59.483582+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49086971"
+    },
+    "Type": 1,
+    "Title": "Steel Bank Common Lisp version 2.6.7",
+    "Url": "https://sbcl.org/all-news.html?2.6.7",
+    "Description": "Steel Bank Common Lisp version 2.6.7",
+    "Metadata": {
+      "score": "252",
+      "author": "tmtvl",
+      "commentCount": "119"
+    },
+    "FetchedAt": "2026-07-29T13:50:59.517763+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49085731"
+    },
+    "Type": 1,
+    "Title": "Delayed Gratification \u2013 Proud to Be \u0027Last to Breaking News\u0027",
+    "Url": "https://www.slow-journalism.com/",
+    "Description": "Delayed Gratification \u2013 Proud to Be \u0027Last to Breaking News\u0027",
+    "Metadata": {
+      "score": "317",
+      "author": "speerer",
+      "commentCount": "184"
+    },
+    "FetchedAt": "2026-07-29T13:50:59.5518051+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49092499"
+    },
+    "Type": 1,
+    "Title": "LearnVector \u2013 Andrew Ng\u0027s AI company building one\u2011to\u2011one learning experiences",
+    "Url": "https://learnvector.ai/",
+    "Description": "LearnVector \u2013 Andrew Ng\u0027s AI company building one\u2011to\u2011one learning experiences",
+    "Metadata": {
+      "score": "230",
+      "author": "ajhai",
+      "commentCount": "149"
+    },
+    "FetchedAt": "2026-07-29T13:50:59.585662+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49095143"
+    },
+    "Type": 1,
+    "Title": "Show HN: Vimgolf.ai \u2013 Learn Vim by playing through a map of levels",
+    "Url": "https://vimgolf.ai",
+    "Description": "Just launched my app, VimGolf.ai! As users complete the levels on the map, I introduce progressively more complicated concepts \u2014 it\u2019s aimed at people who have never used Vim. Any feedback would be much appreciated!",
+    "Metadata": {
+      "score": "23",
+      "author": "nickandbro",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-07-29T13:50:59.6269639+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49093232"
+    },
+    "Type": 1,
+    "Title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+    "Url": "https://transformer-transformer.github.io/",
+    "Description": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+    "Metadata": {
+      "score": "68",
+      "author": "ilreb",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-07-29T13:50:59.6613991+00:00"
   }
 ]

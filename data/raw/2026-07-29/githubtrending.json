@@ -18,22 +18,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:pascalorg/editor"
-    },
-    "Type": 0,
-    "Title": "pascalorg/editor",
-    "Url": "https://github.com/pascalorg/editor",
-    "Description": "Create and share 3D architectural projects.",
-    "Metadata": {
-      "owner": "pascalorg",
-      "repo": "editor",
-      "language": "TypeScript",
-      "stars": "341"
-    },
-    "FetchedAt": "2026-07-29T08:25:33.3663417+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:jenkinsci/jenkins"
     },
     "Type": 0,
@@ -51,23 +35,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:moeru-ai/airi"
-    },
-    "Type": 0,
-    "Title": "moeru-ai/airi",
-    "Url": "https://github.com/moeru-ai/airi",
-    "Description": "\uD83D\uDC96\uD83E\uDDF8 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama\u0027s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-    "Metadata": {
-      "owner": "moeru-ai",
-      "repo": "airi",
-      "language": "TypeScript",
-      "stars": "797",
-      "topics": "ai-companion, ai-vtuber, airi, digital-life, grok-companion, live2d, neuro-sama, neurosama, openclaw, vrm, vtuber"
-    },
-    "FetchedAt": "2026-07-29T08:25:33.8784616+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:andrewyng/aisuite"
     },
     "Type": 0,
@@ -81,40 +48,6 @@
       "stars": "62"
     },
     "FetchedAt": "2026-07-29T08:25:34.0905277+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:huggingface/speech-to-speech"
-    },
-    "Type": 0,
-    "Title": "huggingface/speech-to-speech",
-    "Url": "https://github.com/huggingface/speech-to-speech",
-    "Description": "Build local voice agents with open-source models",
-    "Metadata": {
-      "owner": "huggingface",
-      "repo": "speech-to-speech",
-      "language": "Python",
-      "stars": "227",
-      "topics": "ai, assistant, language-model, machine-learning, python, speech, speech-synthesis, speech-to-text, speech-translation"
-    },
-    "FetchedAt": "2026-07-29T08:25:34.2928432+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:paperswithbacktest/awesome-systematic-trading"
-    },
-    "Type": 0,
-    "Title": "paperswithbacktest/awesome-systematic-trading",
-    "Url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
-    "Description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
-    "Metadata": {
-      "owner": "paperswithbacktest",
-      "repo": "awesome-systematic-trading",
-      "language": "Python",
-      "stars": "309",
-      "topics": "algorithmic-trading, algotrading, alpha, arbitrage-bot, awesome, awesome-list, book, finance, futures, futures-historical-data, futures-market, futuresmarkets, paper, quant, quantitative-finance, quantitative-trading, trading-algorithms, trading-bot, trading-strategies"
-    },
-    "FetchedAt": "2026-07-29T08:25:34.5214772+00:00"
   },
   {
     "ExternalId": {
@@ -165,5 +98,187 @@
       "stars": "988"
     },
     "FetchedAt": "2026-07-29T08:25:35.1483323+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:moeru-ai/airi"
+    },
+    "Type": 0,
+    "Title": "moeru-ai/airi",
+    "Url": "https://github.com/moeru-ai/airi",
+    "Description": "\uD83D\uDC96\uD83E\uDDF8 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama\u0027s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "Metadata": {
+      "owner": "moeru-ai",
+      "repo": "airi",
+      "language": "TypeScript",
+      "stars": "676",
+      "topics": "ai-companion, ai-vtuber, airi, digital-life, grok-companion, live2d, neuro-sama, neurosama, openclaw, vrm, vtuber"
+    },
+    "FetchedAt": "2026-07-29T13:50:56.6813258+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:huggingface/speech-to-speech"
+    },
+    "Type": 0,
+    "Title": "huggingface/speech-to-speech",
+    "Url": "https://github.com/huggingface/speech-to-speech",
+    "Description": "Build local voice agents with open-source models",
+    "Metadata": {
+      "owner": "huggingface",
+      "repo": "speech-to-speech",
+      "language": "Python",
+      "stars": "837",
+      "topics": "ai, assistant, language-model, machine-learning, python, speech, speech-synthesis, speech-to-text, speech-translation"
+    },
+    "FetchedAt": "2026-07-29T13:50:56.903753+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:1jehuang/jcode"
+    },
+    "Type": 0,
+    "Title": "1jehuang/jcode",
+    "Url": "https://github.com/1jehuang/jcode",
+    "Description": "The most RAM effiecent harness",
+    "Metadata": {
+      "owner": "1jehuang",
+      "repo": "jcode",
+      "language": "Rust",
+      "stars": "652",
+      "topics": "ai, ai-agent, ai-coding-agent, claude, cli, coding-agent, llm, mcp, openai, rust, terminal, tui"
+    },
+    "FetchedAt": "2026-07-29T13:50:57.0454135+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:grokability/snipe-it"
+    },
+    "Type": 0,
+    "Title": "grokability/snipe-it",
+    "Url": "https://github.com/grokability/snipe-it",
+    "Description": "A free open source IT asset/license management system",
+    "Metadata": {
+      "owner": "grokability",
+      "repo": "snipe-it",
+      "language": "PHP",
+      "stars": "6",
+      "topics": "asset-management, asset-manager, assets-management, itam, license-management"
+    },
+    "FetchedAt": "2026-07-29T13:50:57.1762629+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:microsoft/VibeVoice"
+    },
+    "Type": 0,
+    "Title": "microsoft/VibeVoice",
+    "Url": "https://github.com/microsoft/VibeVoice",
+    "Description": "Open-Source Frontier Voice AI",
+    "Metadata": {
+      "owner": "microsoft",
+      "repo": "VibeVoice",
+      "language": "Python",
+      "stars": "332"
+    },
+    "FetchedAt": "2026-07-29T13:50:57.3271968+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:different-ai/openwork"
+    },
+    "Type": 0,
+    "Title": "different-ai/openwork",
+    "Url": "https://github.com/different-ai/openwork",
+    "Description": "The open-source alternative to Claude Cowork (powered by opencode)",
+    "Metadata": {
+      "owner": "different-ai",
+      "repo": "openwork",
+      "language": "TypeScript",
+      "stars": "58"
+    },
+    "FetchedAt": "2026-07-29T13:50:57.4771285+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:MoonshotAI/FlashKDA"
+    },
+    "Type": 0,
+    "Title": "MoonshotAI/FlashKDA",
+    "Url": "https://github.com/MoonshotAI/FlashKDA",
+    "Description": "FlashKDA: high-performance Kimi Delta Attention kernels",
+    "Metadata": {
+      "owner": "MoonshotAI",
+      "repo": "FlashKDA",
+      "language": "Cuda",
+      "stars": "216"
+    },
+    "FetchedAt": "2026-07-29T13:50:57.6321236+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alibaba/open-code-review"
+    },
+    "Type": 0,
+    "Title": "alibaba/open-code-review",
+    "Url": "https://github.com/alibaba/open-code-review",
+    "Description": "Open-source \u0026 free \u2014 Battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
+    "Metadata": {
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "language": "Go",
+      "stars": "918",
+      "topics": "agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context"
+    },
+    "FetchedAt": "2026-07-29T13:50:57.7744786+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:paperswithbacktest/awesome-systematic-trading"
+    },
+    "Type": 0,
+    "Title": "paperswithbacktest/awesome-systematic-trading",
+    "Url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+    "Description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+    "Metadata": {
+      "owner": "paperswithbacktest",
+      "repo": "awesome-systematic-trading",
+      "language": "Python",
+      "stars": "950",
+      "topics": "algorithmic-trading, algotrading, alpha, arbitrage-bot, awesome, awesome-list, book, finance, futures, futures-historical-data, futures-market, futuresmarkets, paper, quant, quantitative-finance, quantitative-trading, trading-algorithms, trading-bot, trading-strategies"
+    },
+    "FetchedAt": "2026-07-29T13:50:57.9221546+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:maderix/ANE"
+    },
+    "Type": 0,
+    "Title": "maderix/ANE",
+    "Url": "https://github.com/maderix/ANE",
+    "Description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+    "Metadata": {
+      "owner": "maderix",
+      "repo": "ANE",
+      "language": "Objective-C",
+      "stars": "13"
+    },
+    "FetchedAt": "2026-07-29T13:50:58.0588433+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pascalorg/editor"
+    },
+    "Type": 0,
+    "Title": "pascalorg/editor",
+    "Url": "https://github.com/pascalorg/editor",
+    "Description": "Create and share 3D architectural projects.",
+    "Metadata": {
+      "owner": "pascalorg",
+      "repo": "editor",
+      "language": "TypeScript",
+      "stars": "1,026"
+    },
+    "FetchedAt": "2026-07-29T13:50:58.1975069+00:00"
   }
 ]
