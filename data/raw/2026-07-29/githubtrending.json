@@ -1,0 +1,169 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:pascalorg/editor"
+    },
+    "Type": 0,
+    "Title": "pascalorg/editor",
+    "Url": "https://github.com/pascalorg/editor",
+    "Description": "Create and share 3D architectural projects.",
+    "Metadata": {
+      "owner": "pascalorg",
+      "repo": "editor",
+      "language": "TypeScript",
+      "stars": "341"
+    },
+    "FetchedAt": "2026-07-29T01:53:19.1639282+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jenkinsci/jenkins"
+    },
+    "Type": 0,
+    "Title": "jenkinsci/jenkins",
+    "Url": "https://github.com/jenkinsci/jenkins",
+    "Description": "Jenkins automation server",
+    "Metadata": {
+      "owner": "jenkinsci",
+      "repo": "jenkins",
+      "language": "Java",
+      "stars": "180",
+      "topics": "cicd, continuous-delivery, continuous-deployment, continuous-integration, devops, groovy, hacktoberfest, java, jenkins, pipelines-as-code"
+    },
+    "FetchedAt": "2026-07-29T01:53:19.307129+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:moeru-ai/airi"
+    },
+    "Type": 0,
+    "Title": "moeru-ai/airi",
+    "Url": "https://github.com/moeru-ai/airi",
+    "Description": "\uD83D\uDC96\uD83E\uDDF8 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama\u0027s altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "Metadata": {
+      "owner": "moeru-ai",
+      "repo": "airi",
+      "language": "TypeScript",
+      "stars": "797",
+      "topics": "ai-companion, ai-vtuber, airi, digital-life, grok-companion, live2d, neuro-sama, neurosama, openclaw, vrm, vtuber"
+    },
+    "FetchedAt": "2026-07-29T01:53:19.4192721+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:andrewyng/aisuite"
+    },
+    "Type": 0,
+    "Title": "andrewyng/aisuite",
+    "Url": "https://github.com/andrewyng/aisuite",
+    "Description": "Simple, unified interface to multiple Generative AI providers ",
+    "Metadata": {
+      "owner": "andrewyng",
+      "repo": "aisuite",
+      "language": "Python",
+      "stars": "62"
+    },
+    "FetchedAt": "2026-07-29T01:53:19.5383181+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:hello245m/free-stockdb"
+    },
+    "Type": 0,
+    "Title": "hello245m/free-stockdb",
+    "Url": "https://github.com/hello245m/free-stockdb",
+    "Description": "\u9762\u5411 A \u80A1\u65E5K\u3001\u5206\u949FK\u4E0EETF\u5206\u949F\u6570\u636E\u7684\u672C\u5730\u91CF\u5316\u5F15\u64CE\uFF0C\u96C6\u6210\u589E\u91CF\u540C\u6B65\u3001\u672C\u5730\u7F13\u5B58\u3001\u590D\u6743\u3001\u6279\u91CF\u67E5\u8BE2\u3001\u56DE\u6D4B\u4E0E\u6307\u6807\u8BA1\u7B97\u3002",
+    "Metadata": {
+      "owner": "hello245m",
+      "repo": "free-stockdb",
+      "language": "HTML",
+      "stars": "50",
+      "topics": "a-share, algorithmic-trading, backtesting, china-stock-market, kline, local-first, market-data, mcp, quant-research, quantitative-finance, stock-data, stock-market, technical-analysis, time-series-database"
+    },
+    "FetchedAt": "2026-07-29T01:53:19.6359285+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:huggingface/speech-to-speech"
+    },
+    "Type": 0,
+    "Title": "huggingface/speech-to-speech",
+    "Url": "https://github.com/huggingface/speech-to-speech",
+    "Description": "Build local voice agents with open-source models",
+    "Metadata": {
+      "owner": "huggingface",
+      "repo": "speech-to-speech",
+      "language": "Python",
+      "stars": "227",
+      "topics": "ai, assistant, language-model, machine-learning, python, speech, speech-synthesis, speech-to-text, speech-translation"
+    },
+    "FetchedAt": "2026-07-29T01:53:19.7293914+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:paperswithbacktest/awesome-systematic-trading"
+    },
+    "Type": 0,
+    "Title": "paperswithbacktest/awesome-systematic-trading",
+    "Url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+    "Description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+    "Metadata": {
+      "owner": "paperswithbacktest",
+      "repo": "awesome-systematic-trading",
+      "language": "Python",
+      "stars": "309",
+      "topics": "algorithmic-trading, algotrading, alpha, arbitrage-bot, awesome, awesome-list, book, finance, futures, futures-historical-data, futures-market, futuresmarkets, paper, quant, quantitative-finance, quantitative-trading, trading-algorithms, trading-bot, trading-strategies"
+    },
+    "FetchedAt": "2026-07-29T01:53:19.8690577+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:microsoft/agent-governance-toolkit"
+    },
+    "Type": 0,
+    "Title": "microsoft/agent-governance-toolkit",
+    "Url": "https://github.com/microsoft/agent-governance-toolkit",
+    "Description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+    "Metadata": {
+      "owner": "microsoft",
+      "repo": "agent-governance-toolkit",
+      "language": "Python",
+      "stars": "46",
+      "topics": "agent-framework, ai-agents, ai-safety, compliance, governance, microsoft, owasp, policy-engine, python, security, trust, zero-trust"
+    },
+    "FetchedAt": "2026-07-29T01:53:19.9901618+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:yorukot/superfile"
+    },
+    "Type": 0,
+    "Title": "yorukot/superfile",
+    "Url": "https://github.com/yorukot/superfile",
+    "Description": "Pretty fancy and modern terminal file manager",
+    "Metadata": {
+      "owner": "yorukot",
+      "repo": "superfile",
+      "language": "Go",
+      "stars": "662",
+      "topics": "bubbletea, cli, file-manager, filemanager, filesystem, golang, hacktoberfest, linux-app, terminal-app, terminal-based, tui"
+    },
+    "FetchedAt": "2026-07-29T01:53:20.1099245+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:bradautomates/claude-video"
+    },
+    "Type": 0,
+    "Title": "bradautomates/claude-video",
+    "Url": "https://github.com/bradautomates/claude-video",
+    "Description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "Metadata": {
+      "owner": "bradautomates",
+      "repo": "claude-video",
+      "language": "Python",
+      "stars": "988"
+    },
+    "FetchedAt": "2026-07-29T01:53:20.2118771+00:00"
+  }
+]
