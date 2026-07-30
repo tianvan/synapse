@@ -1,0 +1,452 @@
+[
+  {
+    "ExternalId": {
+      "Value": "hn:49103285"
+    },
+    "Type": 1,
+    "Title": "AI\u0027s top startups are barely publishing their research",
+    "Url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+    "Description": "AI\u0027s top startups are barely publishing their research",
+    "Metadata": {
+      "score": "198",
+      "author": "YeGoblynQueenne",
+      "commentCount": "114"
+    },
+    "FetchedAt": "2026-07-30T01:45:46.9962661+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49102774"
+    },
+    "Type": 1,
+    "Title": "The coolest use for the Vision Pro",
+    "Url": "https://christianselig.com/2026/07/vision-pro-house/",
+    "Description": "The coolest use for the Vision Pro",
+    "Metadata": {
+      "score": "386",
+      "author": "robbiet480",
+      "commentCount": "185"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.0298478+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49098510"
+    },
+    "Type": 1,
+    "Title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+    "Url": "https://github.com/drumih/turbo-fieldfare",
+    "Description": "Hi HN,\u003Cp\u003EI built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboFieldfare and is written in Swift and Metal.\u003Cp\u003EI have always adored on-device AI. It feels like magic that you can run a powerful NN on your Mac or iPhone. So I wanted to push the limits a bit and run a model whose weights don\u2019t fit in memory.\u003Cp\u003EThe model\u2019s 4-bit quantized weights occupy roughly 14 GB, which makes running it with conventional inferen",
+    "Metadata": {
+      "score": "652",
+      "author": "gitpusher42",
+      "commentCount": "227"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.0618515+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49098965"
+    },
+    "Type": 1,
+    "Title": "Superlogical",
+    "Url": "https://www.superlogical.com/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;mitchellh.com\u0026#x2F;writing\u0026#x2F;superlogical\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;mitchellh.com\u0026#x2F;writing\u0026#x2F;superlogical\u003C/a\u003E",
+    "Metadata": {
+      "score": "525",
+      "author": "yan",
+      "commentCount": "324"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.0910918+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49104117"
+    },
+    "Type": 1,
+    "Title": "LLM Honeypot",
+    "Url": "https://llm2human.pages.dev/",
+    "Description": "LLM Honeypot",
+    "Metadata": {
+      "score": "49",
+      "author": "8thom",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.1191014+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49099715"
+    },
+    "Type": 1,
+    "Title": "Keychron announces first open-source firmware for gaming mice",
+    "Url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+    "Description": "Keychron announces first open-source firmware for gaming mice",
+    "Metadata": {
+      "score": "293",
+      "author": "JLO64",
+      "commentCount": "109"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.149019+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49103089"
+    },
+    "Type": 1,
+    "Title": "The Cold Email",
+    "Url": "https://zachholman.com/posts/cold-email",
+    "Description": "The Cold Email",
+    "Metadata": {
+      "score": "88",
+      "author": "holman",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.1789467+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49089500"
+    },
+    "Type": 1,
+    "Title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+    "Url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "Description": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+    "Metadata": {
+      "score": "292",
+      "author": "artninja1988",
+      "commentCount": "172"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.2068196+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49104335"
+    },
+    "Type": 1,
+    "Title": "The Productivity Mirage",
+    "Url": "https://frantic.im/mirage/",
+    "Description": "The Productivity Mirage",
+    "Metadata": {
+      "score": "40",
+      "author": "msephton",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.2358124+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49095865"
+    },
+    "Type": 1,
+    "Title": "KOReader",
+    "Url": "https://koreader.rocks/",
+    "Description": "KOReader",
+    "Metadata": {
+      "score": "665",
+      "author": "Cider9986",
+      "commentCount": "211"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.2666453+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49105136"
+    },
+    "Type": 1,
+    "Title": "Flume Water Monitor 915 MHz Security Is Pretty Good",
+    "Url": "https://waveformsecurity.com/blog/flume/",
+    "Description": "Flume Water Monitor 915 MHz Security Is Pretty Good",
+    "Metadata": {
+      "score": "5",
+      "author": "credibleconure",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.2956695+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49101852"
+    },
+    "Type": 1,
+    "Title": "Kimi K3-256k",
+    "Url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+    "Description": "Kimi K3-256k",
+    "Metadata": {
+      "score": "339",
+      "author": "monneyboi",
+      "commentCount": "97"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.3255623+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49104747"
+    },
+    "Type": 1,
+    "Title": "Show HN: A local merge queue for parallel Claude Code agents",
+    "Url": "https://github.com/funador/claude-code-merge-queue",
+    "Description": "I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machine it is the fast lane to a force quit and restart. I also did not want to pay the CI minutes on 90 pushes a day.\u003Cp\u003ESo I designed a local merge queue to have all commits land one at a time and fully tested. Hopefully this helps other folks with more modest machines. Appreciate any feedback.",
+    "Metadata": {
+      "score": "15",
+      "author": "funador",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.3539414+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49080031"
+    },
+    "Type": 1,
+    "Title": "Recursive Filters: SMA, EMA, Low\u2011Pass, and a Tiny Kalman",
+    "Url": "https://www.staszewski.xyz/blog/recursive-filters/",
+    "Description": "Recursive Filters: SMA, EMA, Low\u2011Pass, and a Tiny Kalman",
+    "Metadata": {
+      "score": "12",
+      "author": "kamilstaszewski",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.3815437+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49103026"
+    },
+    "Type": 1,
+    "Title": "SalesPatriot (YC W25) Is Hiring FDEs",
+    "Url": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+    "Description": "SalesPatriot (YC W25) Is Hiring FDEs",
+    "Metadata": {
+      "score": "1",
+      "author": "maciejSz",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.4104642+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49098198"
+    },
+    "Type": 1,
+    "Title": "A.I. companies are recruiting electricians and carpenters by the thousands",
+    "Url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+    "Description": "A.I. companies are recruiting electricians and carpenters by the thousands",
+    "Metadata": {
+      "score": "214",
+      "author": "thm",
+      "commentCount": "272"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.4499356+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49104996"
+    },
+    "Type": 1,
+    "Title": "Starter Homes Are Piling Up While Luxury Homes Fly Off the Market",
+    "Url": "https://www.zillow.com/research/starter-homes-price-tiers-36571/",
+    "Description": "Starter Homes Are Piling Up While Luxury Homes Fly Off the Market",
+    "Metadata": {
+      "score": "8",
+      "author": "toomuchtodo",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.4785351+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49096188"
+    },
+    "Type": 1,
+    "Title": "Document-borne AI worms can self-propagate through Copilot for Word",
+    "Url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+    "Description": "Document-borne AI worms can self-propagate through Copilot for Word",
+    "Metadata": {
+      "score": "345",
+      "author": "Canopy9560",
+      "commentCount": "263"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.5072676+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49096969"
+    },
+    "Type": 1,
+    "Title": "Handbook.md shows that long policy documents do not reliably govern agents",
+    "Url": "https://arxiv.org/abs/2607.25398",
+    "Description": "Handbook.md shows that long policy documents do not reliably govern agents",
+    "Metadata": {
+      "score": "293",
+      "author": "spIrr",
+      "commentCount": "181"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.5357345+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49101198"
+    },
+    "Type": 1,
+    "Title": "Turning a dumb AC unit smart (without losing my security deposit)",
+    "Url": "https://prilik.com/blog/post/automating-ac-nyc/",
+    "Description": "Turning a dumb AC unit smart (without losing my security deposit)",
+    "Metadata": {
+      "score": "109",
+      "author": "austinallegro",
+      "commentCount": "88"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.5640767+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49102425"
+    },
+    "Type": 1,
+    "Title": "A Trampoline",
+    "Url": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
+    "Description": "A Trampoline",
+    "Metadata": {
+      "score": "70",
+      "author": "matthewsharpe3",
+      "commentCount": "39"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.5916523+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49103910"
+    },
+    "Type": 1,
+    "Title": "GitHub is the wrong shape for this new world",
+    "Url": "https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world",
+    "Description": "GitHub is the wrong shape for this new world",
+    "Metadata": {
+      "score": "43",
+      "author": "emschwartz",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.6201743+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49100043"
+    },
+    "Type": 1,
+    "Title": "Show HN: CheapFoodMap \u2013 A map of good meals under $10",
+    "Url": "https://cheapfoodmap.com/",
+    "Description": "I was recently laid off after 18 years, and gave myself 100 days to build soething useful in public. CheapFoodMap is a crowdsourced map of meal under $10, excluding franchises, local good eats only.\u003Cp\u003EIt\u0026#x27;s inspried by \uAC70\uC9C0\uB9F5 (Begger\u0026#x27;s Map) a Korean crowdsourced map students use to find cheap eats.\u003Cp\u003EOcverage is heaviest in Texas, since I live in Dallas, but have 1200 meals across 15 US cities. Seed data came from Google Review, 4.2 star or higher with at least 500 reviews, and verified pr",
+    "Metadata": {
+      "score": "126",
+      "author": "jaep1",
+      "commentCount": "153"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.648592+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49062997"
+    },
+    "Type": 1,
+    "Title": "Refactoring cuisine: how an Iraqi stew sailed to Singapore",
+    "Url": "https://iza.ac/posts/2026/07/the-journey-of-bamya/",
+    "Description": "Refactoring cuisine: how an Iraqi stew sailed to Singapore",
+    "Metadata": {
+      "score": "23",
+      "author": "infinitewalk",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.6762526+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49101529"
+    },
+    "Type": 1,
+    "Title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+    "Url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
+    "Description": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+    "Metadata": {
+      "score": "59",
+      "author": "cl42",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.7063199+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49096654"
+    },
+    "Type": 1,
+    "Title": "Darktable",
+    "Url": "https://www.darktable.org/",
+    "Description": "Darktable",
+    "Metadata": {
+      "score": "295",
+      "author": "siatko",
+      "commentCount": "142"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.7342957+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49104140"
+    },
+    "Type": 1,
+    "Title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
+    "Url": "https://archive.org/details/mancomputerbyjoh0000john",
+    "Description": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
+    "Metadata": {
+      "score": "17",
+      "author": "MilnerRoute",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.8799661+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49099143"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Tokenless (YC S26) \u2013 Automatic model switching to save money",
+    "Url": "https://usetokenless.com/",
+    "Description": "Hi HN, Rohit here from Tokenless (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;usetokenless.com\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;usetokenless.com\u0026#x2F;\u003C/a\u003E), which I\u2019m building alongside co-founders Andrew and Kev. We\u2019re building an API gateway which routes agent traffic dynamically turn-by-turn between different models to save on AI spend.\u003Cp\u003EThe cost of AI tokens is top-of-mind for many. Companies like Uber and Salesforce have been complaining about blowing their yearly AI spend faster than expected.\u003Cp\u003EFr",
+    "Metadata": {
+      "score": "53",
+      "author": "rohaga",
+      "commentCount": "43"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.9099397+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49099804"
+    },
+    "Type": 1,
+    "Title": "Some thoughts about Anthropic\u0027s new cryptanalysis results",
+    "Url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+    "Description": "Some thoughts about Anthropic\u0027s new cryptanalysis results",
+    "Metadata": {
+      "score": "106",
+      "author": "supermatou",
+      "commentCount": "55"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.940738+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49047351"
+    },
+    "Type": 1,
+    "Title": "The Rust on ESP Book",
+    "Url": "https://docs.espressif.com/projects/rust/book/",
+    "Description": "The Rust on ESP Book",
+    "Metadata": {
+      "score": "125",
+      "author": "AlexeyBrin",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-07-30T01:45:47.9762589+00:00"
+  }
+]
