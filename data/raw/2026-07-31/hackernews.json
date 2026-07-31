@@ -166,66 +166,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49118781"
-    },
-    "Type": 1,
-    "Title": "The session you cannot take with you",
-    "Url": "https://earendil.com/posts/session-portability/",
-    "Description": "The session you cannot take with you",
-    "Metadata": {
-      "score": "257",
-      "author": "apitman",
-      "commentCount": "53"
-    },
-    "FetchedAt": "2026-07-31T08:37:52.0370597+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49119063"
-    },
-    "Type": 1,
-    "Title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
-    "Url": "https://github.com/openjdk/jdk/pull/31120",
-    "Description": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
-    "Metadata": {
-      "score": "87",
-      "author": "mfiguiere",
-      "commentCount": "31"
-    },
-    "FetchedAt": "2026-07-31T08:37:52.0502372+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49119559"
-    },
-    "Type": 1,
-    "Title": "DeepSeek-V4-Flash Update",
-    "Url": "https://api-docs.deepseek.com/updates/",
-    "Description": "DeepSeek-V4-Flash Update",
-    "Metadata": {
-      "score": "176",
-      "author": "dnhkng",
-      "commentCount": "67"
-    },
-    "FetchedAt": "2026-07-31T08:37:52.0634855+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49112232"
-    },
-    "Type": 1,
-    "Title": "Stacked PRs are now live on GitHub",
-    "Url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-    "Description": "Stacked PRs are now live on GitHub",
-    "Metadata": {
-      "score": "624",
-      "author": "tomzorz",
-      "commentCount": "211"
-    },
-    "FetchedAt": "2026-07-31T08:37:52.0777239+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49119274"
     },
     "Type": 1,
@@ -238,126 +178,6 @@
       "commentCount": "21"
     },
     "FetchedAt": "2026-07-31T08:37:52.0916522+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49111237"
-    },
-    "Type": 1,
-    "Title": "Gemini Robotics 2 brings whole body intelligence to robots",
-    "Url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-    "Description": "Gemini Robotics 2 brings whole body intelligence to robots",
-    "Metadata": {
-      "score": "550",
-      "author": "ai2027",
-      "commentCount": "438"
-    },
-    "FetchedAt": "2026-07-31T08:37:52.1083731+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49116721"
-    },
-    "Type": 1,
-    "Title": "I flagged two research papers for fake authors and both were accepted as orals",
-    "Url": "https://geospatialml.com/posts/reviewing-ai-slop/",
-    "Description": "I flagged two research papers for fake authors and both were accepted as orals",
-    "Metadata": {
-      "score": "181",
-      "author": "volumes94",
-      "commentCount": "77"
-    },
-    "FetchedAt": "2026-07-31T08:37:52.1216407+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49077372"
-    },
-    "Type": 1,
-    "Title": "Where USB Memory Sticks are Born (2013)",
-    "Url": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/",
-    "Description": "Where USB Memory Sticks are Born (2013)",
-    "Metadata": {
-      "score": "43",
-      "author": "jacquesm",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-07-31T08:37:52.1351111+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49120097"
-    },
-    "Type": 1,
-    "Title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "Url": "https://blog.google/security/chrome-stronger-with-every-update/",
-    "Description": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "Metadata": {
-      "score": "5",
-      "author": "Garbage",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-07-31T08:37:52.1479051+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49119425"
-    },
-    "Type": 1,
-    "Title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
-    "Url": "https://github.com/mokshablr/gander",
-    "Description": "Hi HN,\u003Cp\u003EI built an Android file viewer that opens PDF, Word, Excel, PowerPoint, images, video, audio, Markdown and code, and asks for no permissions at all.\u003Cp\u003EI have always been uneasy about opening files people send me. On Android you either install a 400 MB office suite and sign in or use a small free viewer that wants storage access and ends up uploading your file to a server to render it. Also the hassle of having to download different apps for different file formats was really annoying.\u003Cp\u003E",
-    "Metadata": {
-      "score": "33",
-      "author": "mokshablr",
-      "commentCount": "13"
-    },
-    "FetchedAt": "2026-07-31T08:37:52.1608466+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49096170"
-    },
-    "Type": 1,
-    "Title": "The mean means nothing: data visualization to debug a latency problem",
-    "Url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
-    "Description": "The mean means nothing: data visualization to debug a latency problem",
-    "Metadata": {
-      "score": "29",
-      "author": "fanf2",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-07-31T08:37:52.1752019+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49117284"
-    },
-    "Type": 1,
-    "Title": "The Religion of Speed",
-    "Url": "https://graybeard.ing/the-religion-of-speed/",
-    "Description": "The Religion of Speed",
-    "Metadata": {
-      "score": "135",
-      "author": "MobiusHorizons",
-      "commentCount": "69"
-    },
-    "FetchedAt": "2026-07-31T08:37:52.188185+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49112744"
-    },
-    "Type": 1,
-    "Title": "Read this before you buy that TV streaming stick",
-    "Url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-    "Description": "Read this before you buy that TV streaming stick",
-    "Metadata": {
-      "score": "699",
-      "author": "speckx",
-      "commentCount": "398"
-    },
-    "FetchedAt": "2026-07-31T08:37:52.2014744+00:00"
   },
   {
     "ExternalId": {
@@ -376,66 +196,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49117099"
-    },
-    "Type": 1,
-    "Title": "The AI Aesthetic",
-    "Url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-    "Description": "The AI Aesthetic",
-    "Metadata": {
-      "score": "298",
-      "author": "montroser",
-      "commentCount": "126"
-    },
-    "FetchedAt": "2026-07-31T08:37:52.2293545+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49111176"
-    },
-    "Type": 1,
-    "Title": "The Economic Benefit of Refactoring",
-    "Url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
-    "Description": "The Economic Benefit of Refactoring",
-    "Metadata": {
-      "score": "233",
-      "author": "javaeeeee",
-      "commentCount": "96"
-    },
-    "FetchedAt": "2026-07-31T08:37:52.2424769+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49113338"
-    },
-    "Type": 1,
-    "Title": "CodePen 2.0",
-    "Url": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
-    "Description": "CodePen 2.0",
-    "Metadata": {
-      "score": "165",
-      "author": "robin_reala",
-      "commentCount": "47"
-    },
-    "FetchedAt": "2026-07-31T08:37:52.2559148+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49088098"
-    },
-    "Type": 1,
-    "Title": "Simulating TCP loss and congestion in browser using Go/WASM",
-    "Url": "https://ccsim.fly.dev",
-    "Description": "Simulating TCP loss and congestion in browser using Go/WASM",
-    "Metadata": {
-      "score": "13",
-      "author": "dilyevsky",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-07-31T08:37:52.2690422+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49116272"
     },
     "Type": 1,
@@ -448,51 +208,6 @@
       "commentCount": "27"
     },
     "FetchedAt": "2026-07-31T08:37:52.2828727+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49071299"
-    },
-    "Type": 1,
-    "Title": "Bad Apple but It\u0027s Traceroute",
-    "Url": "https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html",
-    "Description": "Bad Apple but It\u0027s Traceroute",
-    "Metadata": {
-      "score": "106",
-      "author": "jssfr",
-      "commentCount": "24"
-    },
-    "FetchedAt": "2026-07-31T08:37:52.2960522+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49108685"
-    },
-    "Type": 1,
-    "Title": "GCC steering committee announces AI policy",
-    "Url": "https://lwn.net/Articles/1086041/",
-    "Description": "GCC steering committee announces AI policy",
-    "Metadata": {
-      "score": "285",
-      "author": "arto",
-      "commentCount": "314"
-    },
-    "FetchedAt": "2026-07-31T08:37:52.308993+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49083970"
-    },
-    "Type": 1,
-    "Title": "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",
-    "Url": "https://github.com/MemoireMorte/Memo-1",
-    "Description": "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",
-    "Metadata": {
-      "score": "74",
-      "author": "sciences44",
-      "commentCount": "10"
-    },
-    "FetchedAt": "2026-07-31T08:37:52.3221334+00:00"
   },
   {
     "ExternalId": {
@@ -511,36 +226,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49113929"
-    },
-    "Type": 1,
-    "Title": "UEFA and its national associations will not participate in FIFA competitions",
-    "Url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
-    "Description": "UEFA and its national associations will not participate in FIFA competitions",
-    "Metadata": {
-      "score": "997",
-      "author": "dickfickling",
-      "commentCount": "535"
-    },
-    "FetchedAt": "2026-07-31T08:37:52.3481798+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49110308"
-    },
-    "Type": 1,
-    "Title": "The lost civic life of movie rental stores",
-    "Url": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
-    "Description": "The lost civic life of movie rental stores",
-    "Metadata": {
-      "score": "165",
-      "author": "facundo_olano",
-      "commentCount": "216"
-    },
-    "FetchedAt": "2026-07-31T08:37:52.3613333+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49118474"
     },
     "Type": 1,
@@ -553,21 +238,6 @@
       "commentCount": "1"
     },
     "FetchedAt": "2026-07-31T08:37:52.3740859+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49113599"
-    },
-    "Type": 1,
-    "Title": "Show HN: Distilling DeepSeek into GPT-OSS doesn\u0027t transfer censorship. Try it",
-    "Url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-    "Description": "We recently used DeepSeek V4 Flash as a teacher for finance tasks with GPT-OSS-120B. Distillation works well on this problem. At a constrained 8k token budget, our self-distilled 120B scores 83.61% on FinanceReasoning, above Kimi K3 (81.93%) and Inkling (65.13%). We released the 20B open weights. With V4 as the teacher though, we realized it would be timely to measure if the censorship characteristic of it transferred to the distilled version of the base model. tl;dr it didn\u0026#x27;t, the teacher ",
-    "Metadata": {
-      "score": "123",
-      "author": "cgorlla",
-      "commentCount": "64"
-    },
-    "FetchedAt": "2026-07-31T08:37:52.3874746+00:00"
   },
   {
     "ExternalId": {
@@ -601,6 +271,426 @@
   },
   {
     "ExternalId": {
+      "Value": "hn:49120299"
+    },
+    "Type": 1,
+    "Title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+    "Url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+    "Description": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+    "Metadata": {
+      "score": "180",
+      "author": "theanonymousone",
+      "commentCount": "63"
+    },
+    "FetchedAt": "2026-07-31T13:45:51.4877184+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49121980"
+    },
+    "Type": 1,
+    "Title": "The End of an Era",
+    "Url": "https://hughhowey.com/the-end-of-an-era/",
+    "Description": "The End of an Era",
+    "Metadata": {
+      "score": "161",
+      "author": "harscoat",
+      "commentCount": "152"
+    },
+    "FetchedAt": "2026-07-31T13:45:51.5215405+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49118781"
+    },
+    "Type": 1,
+    "Title": "The session you cannot take with you",
+    "Url": "https://earendil.com/posts/session-portability/",
+    "Description": "The session you cannot take with you",
+    "Metadata": {
+      "score": "540",
+      "author": "apitman",
+      "commentCount": "145"
+    },
+    "FetchedAt": "2026-07-31T13:45:51.5537702+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49119063"
+    },
+    "Type": 1,
+    "Title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+    "Url": "https://github.com/openjdk/jdk/pull/31120",
+    "Description": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+    "Metadata": {
+      "score": "174",
+      "author": "mfiguiere",
+      "commentCount": "94"
+    },
+    "FetchedAt": "2026-07-31T13:45:51.5857548+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49120097"
+    },
+    "Type": 1,
+    "Title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "Url": "https://blog.google/security/chrome-stronger-with-every-update/",
+    "Description": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "Metadata": {
+      "score": "216",
+      "author": "Garbage",
+      "commentCount": "219"
+    },
+    "FetchedAt": "2026-07-31T13:45:51.6200697+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49112232"
+    },
+    "Type": 1,
+    "Title": "Stacked PRs are now live on GitHub",
+    "Url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+    "Description": "Stacked PRs are now live on GitHub",
+    "Metadata": {
+      "score": "712",
+      "author": "tomzorz",
+      "commentCount": "247"
+    },
+    "FetchedAt": "2026-07-31T13:45:51.6522444+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49119559"
+    },
+    "Type": 1,
+    "Title": "DeepSeek-V4-Flash Update",
+    "Url": "https://api-docs.deepseek.com/updates/",
+    "Description": "DeepSeek-V4-Flash Update",
+    "Metadata": {
+      "score": "425",
+      "author": "dnhkng",
+      "commentCount": "220"
+    },
+    "FetchedAt": "2026-07-31T13:45:51.6845982+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49122034"
+    },
+    "Type": 1,
+    "Title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+    "Url": "https://tasklet.ai/careers/customer-success-engineer",
+    "Description": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+    "Metadata": {
+      "score": "1",
+      "author": "mayop100",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-31T13:45:51.716659+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49116721"
+    },
+    "Type": 1,
+    "Title": "I flagged two research papers for fake authors and both were accepted as orals",
+    "Url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+    "Description": "I flagged two research papers for fake authors and both were accepted as orals",
+    "Metadata": {
+      "score": "245",
+      "author": "volumes94",
+      "commentCount": "111"
+    },
+    "FetchedAt": "2026-07-31T13:45:51.7486459+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49111237"
+    },
+    "Type": 1,
+    "Title": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "Url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "Description": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "Metadata": {
+      "score": "586",
+      "author": "ai2027",
+      "commentCount": "473"
+    },
+    "FetchedAt": "2026-07-31T13:45:51.7809062+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49119425"
+    },
+    "Type": 1,
+    "Title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
+    "Url": "https://github.com/mokshablr/gander",
+    "Description": "Hi HN,\u003Cp\u003EI built an Android file viewer that opens PDF, Word, Excel, PowerPoint, images, video, audio, Markdown and code, and asks for no permissions at all.\u003Cp\u003EI have always been uneasy about opening files people send me. On Android you either install a 400 MB office suite and sign in or use a small free viewer that wants storage access and ends up uploading your file to a server to render it. Also the hassle of having to download different apps for different file formats was really annoying.\u003Cp\u003E",
+    "Metadata": {
+      "score": "120",
+      "author": "mokshablr",
+      "commentCount": "57"
+    },
+    "FetchedAt": "2026-07-31T13:45:51.8132137+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49104245"
+    },
+    "Type": 1,
+    "Title": "We shall dwell amidst wonder and glory for ever: On weird fiction",
+    "Url": "https://clereviewofbooks.com/we-shall-dwell-amidst-wonder-and-glory-for-ever-on-weird-fiction/",
+    "Description": "We shall dwell amidst wonder and glory for ever: On weird fiction",
+    "Metadata": {
+      "score": "23",
+      "author": "plimp",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-07-31T13:45:51.8467251+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49096170"
+    },
+    "Type": 1,
+    "Title": "The mean means nothing: data visualization to debug a latency problem",
+    "Url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
+    "Description": "The mean means nothing: data visualization to debug a latency problem",
+    "Metadata": {
+      "score": "68",
+      "author": "fanf2",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-07-31T13:45:51.8796364+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49122994"
+    },
+    "Type": 1,
+    "Title": "Situational Awareness Down 67% in July in AI Stock Rout",
+    "Url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
+    "Description": "Situational Awareness Down 67% in July in AI Stock Rout",
+    "Metadata": {
+      "score": "6",
+      "author": "pondsider",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-31T13:45:51.9461927+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49112744"
+    },
+    "Type": 1,
+    "Title": "Read this before you buy that TV streaming stick",
+    "Url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+    "Description": "Read this before you buy that TV streaming stick",
+    "Metadata": {
+      "score": "753",
+      "author": "speckx",
+      "commentCount": "457"
+    },
+    "FetchedAt": "2026-07-31T13:45:51.9912364+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49122105"
+    },
+    "Type": 1,
+    "Title": "Ruby Central\u0027s Destructive Legacy",
+    "Url": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
+    "Description": "Ruby Central\u0027s Destructive Legacy",
+    "Metadata": {
+      "score": "26",
+      "author": "4d66ba06",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-07-31T13:45:52.0249078+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49117284"
+    },
+    "Type": 1,
+    "Title": "The Religion of Speed",
+    "Url": "https://graybeard.ing/the-religion-of-speed/",
+    "Description": "The Religion of Speed",
+    "Metadata": {
+      "score": "215",
+      "author": "MobiusHorizons",
+      "commentCount": "107"
+    },
+    "FetchedAt": "2026-07-31T13:45:52.0598722+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49117266"
+    },
+    "Type": 1,
+    "Title": "Premier league bans gambling sponsors",
+    "Url": "https://www.footyheadlines.com/2646571793/betting-ban-takes-effect-no-more-gambling-sponsors-in-the-premier-league.html",
+    "Description": "Premier league bans gambling sponsors",
+    "Metadata": {
+      "score": "91",
+      "author": "paoliniluis",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-07-31T13:45:52.0918929+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49077372"
+    },
+    "Type": 1,
+    "Title": "Where USB Memory Sticks are Born (2013)",
+    "Url": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/",
+    "Description": "Where USB Memory Sticks are Born (2013)",
+    "Metadata": {
+      "score": "73",
+      "author": "jacquesm",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-07-31T13:45:52.1240689+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49111176"
+    },
+    "Type": 1,
+    "Title": "The Economic Benefit of Refactoring",
+    "Url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+    "Description": "The Economic Benefit of Refactoring",
+    "Metadata": {
+      "score": "256",
+      "author": "javaeeeee",
+      "commentCount": "111"
+    },
+    "FetchedAt": "2026-07-31T13:45:52.1579661+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49108685"
+    },
+    "Type": 1,
+    "Title": "GCC steering committee announces AI policy",
+    "Url": "https://lwn.net/Articles/1086041/",
+    "Description": "GCC steering committee announces AI policy",
+    "Metadata": {
+      "score": "317",
+      "author": "arto",
+      "commentCount": "360"
+    },
+    "FetchedAt": "2026-07-31T13:45:52.1908347+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49088098"
+    },
+    "Type": 1,
+    "Title": "Simulating TCP loss and congestion in browser using Go/WASM",
+    "Url": "https://ccsim.fly.dev",
+    "Description": "Simulating TCP loss and congestion in browser using Go/WASM",
+    "Metadata": {
+      "score": "43",
+      "author": "dilyevsky",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-07-31T13:45:52.2238307+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49083970"
+    },
+    "Type": 1,
+    "Title": "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",
+    "Url": "https://github.com/MemoireMorte/Memo-1",
+    "Description": "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",
+    "Metadata": {
+      "score": "90",
+      "author": "sciences44",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-07-31T13:45:52.2562986+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49071299"
+    },
+    "Type": 1,
+    "Title": "Bad Apple but It\u0027s Traceroute",
+    "Url": "https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html",
+    "Description": "Bad Apple but It\u0027s Traceroute",
+    "Metadata": {
+      "score": "140",
+      "author": "jssfr",
+      "commentCount": "44"
+    },
+    "FetchedAt": "2026-07-31T13:45:52.2890572+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49110308"
+    },
+    "Type": 1,
+    "Title": "The lost civic life of movie rental stores",
+    "Url": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
+    "Description": "The lost civic life of movie rental stores",
+    "Metadata": {
+      "score": "189",
+      "author": "facundo_olano",
+      "commentCount": "246"
+    },
+    "FetchedAt": "2026-07-31T13:45:52.3220153+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49113929"
+    },
+    "Type": 1,
+    "Title": "UEFA and its national associations will not participate in FIFA competitions",
+    "Url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+    "Description": "UEFA and its national associations will not participate in FIFA competitions",
+    "Metadata": {
+      "score": "1129",
+      "author": "dickfickling",
+      "commentCount": "601"
+    },
+    "FetchedAt": "2026-07-31T13:45:52.3613606+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49113599"
+    },
+    "Type": 1,
+    "Title": "Show HN: Distilling DeepSeek into GPT-OSS doesn\u0027t transfer censorship. Try it",
+    "Url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+    "Description": "We recently used DeepSeek V4 Flash as a teacher for finance tasks with GPT-OSS-120B. Distillation works well on this problem. At a constrained 8k token budget, our self-distilled 120B scores 83.61% on FinanceReasoning, above Kimi K3 (81.93%) and Inkling (65.13%). We released the 20B open weights. With V4 as the teacher though, we realized it would be timely to measure if the censorship characteristic of it transferred to the distilled version of the base model. tl;dr it didn\u0026#x27;t, the teacher ",
+    "Metadata": {
+      "score": "145",
+      "author": "cgorlla",
+      "commentCount": "70"
+    },
+    "FetchedAt": "2026-07-31T13:45:52.3956587+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49117099"
+    },
+    "Type": 1,
+    "Title": "The AI Aesthetic",
+    "Url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+    "Description": "The AI Aesthetic",
+    "Metadata": {
+      "score": "343",
+      "author": "montroser",
+      "commentCount": "154"
+    },
+    "FetchedAt": "2026-07-31T13:45:52.4282373+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "hn:49109193"
     },
     "Type": 1,
@@ -608,10 +698,25 @@
     "Url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
     "Description": "Why is everyone trying to build a solid-state battery?",
     "Metadata": {
-      "score": "192",
+      "score": "207",
       "author": "crescit_eundo",
-      "commentCount": "239"
+      "commentCount": "263"
     },
-    "FetchedAt": "2026-07-31T08:37:52.4276959+00:00"
+    "FetchedAt": "2026-07-31T13:45:52.4610154+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49113338"
+    },
+    "Type": 1,
+    "Title": "CodePen 2.0",
+    "Url": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
+    "Description": "CodePen 2.0",
+    "Metadata": {
+      "score": "175",
+      "author": "robin_reala",
+      "commentCount": "50"
+    },
+    "FetchedAt": "2026-07-31T13:45:52.4940646+00:00"
   }
 ]
