@@ -1,216 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:49124218"
-    },
-    "Type": 1,
-    "Title": "Elevators",
-    "Url": "https://john.fun/elevators",
-    "Description": "Elevators",
-    "Metadata": {
-      "score": "886",
-      "author": "Jrh0203",
-      "commentCount": "221"
-    },
-    "FetchedAt": "2026-08-01T02:04:39.3781367+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49126604"
-    },
-    "Type": 1,
-    "Title": "qm \u2013 Multiplayer agent harness for work",
-    "Url": "https://github.com/yc-software/qm",
-    "Description": "qm \u2013 Multiplayer agent harness for work",
-    "Metadata": {
-      "score": "466",
-      "author": "tosh",
-      "commentCount": "100"
-    },
-    "FetchedAt": "2026-08-01T02:04:39.4465348+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49083599"
-    },
-    "Type": 1,
-    "Title": "Twenty-five years ago it was cryptography, today it\u0027s model weights",
-    "Url": "https://weeraman.com/because-we-can/",
-    "Description": "Twenty-five years ago it was cryptography, today it\u0027s model weights",
-    "Metadata": {
-      "score": "168",
-      "author": "aweeraman",
-      "commentCount": "67"
-    },
-    "FetchedAt": "2026-08-01T02:04:39.5118012+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49117089"
-    },
-    "Type": 1,
-    "Title": "The Absurdity of Albert Camus",
-    "Url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
-    "Description": "The Absurdity of Albert Camus",
-    "Metadata": {
-      "score": "50",
-      "author": "apollinaire",
-      "commentCount": "33"
-    },
-    "FetchedAt": "2026-08-01T02:04:39.5765799+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49121196"
-    },
-    "Type": 1,
-    "Title": "Progressive Web Components",
-    "Url": "https://arielsalminen.com/2026/progressive-web-components/",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;arielsalminen\u0026#x2F;elena\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;arielsalminen\u0026#x2F;elena\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;elenajs.com\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;elenajs.com\u0026#x2F;\u003C/a\u003E",
-    "Metadata": {
-      "score": "90",
-      "author": "hosteur",
-      "commentCount": "14"
-    },
-    "FetchedAt": "2026-08-01T02:04:39.6337956+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49126765"
-    },
-    "Type": 1,
-    "Title": "June in Servo: real world compat, media queries, SharedWorker, and more",
-    "Url": "https://servo.org/blog/2026/07/31/june-in-servo/",
-    "Description": "June in Servo: real world compat, media queries, SharedWorker, and more",
-    "Metadata": {
-      "score": "105",
-      "author": "iamnothere",
-      "commentCount": "32"
-    },
-    "FetchedAt": "2026-08-01T02:04:39.692221+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49129990"
-    },
-    "Type": 1,
-    "Title": "How to Exist",
-    "Url": "https://www.raptitude.com/2026/07/how-to-exist/",
-    "Description": "How to Exist",
-    "Metadata": {
-      "score": "12",
-      "author": "walterbell",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-08-01T02:04:39.7499019+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49124858"
-    },
-    "Type": 1,
-    "Title": "Big Food vs. the People",
-    "Url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
-    "Description": "Big Food vs. the People",
-    "Metadata": {
-      "score": "193",
-      "author": "jruohonen",
-      "commentCount": "131"
-    },
-    "FetchedAt": "2026-08-01T02:04:39.8082278+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49125034"
-    },
-    "Type": 1,
-    "Title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
-    "Url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-    "Description": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
-    "Metadata": {
-      "score": "142",
-      "author": "speckx",
-      "commentCount": "84"
-    },
-    "FetchedAt": "2026-08-01T02:04:39.8654447+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49127306"
-    },
-    "Type": 1,
-    "Title": "Tailscale didn\u0027t stop the Hugging Face intrusion",
-    "Url": "https://tailscale.com/blog/hugging-face-intrusion",
-    "Description": "Tailscale didn\u0027t stop the Hugging Face intrusion",
-    "Metadata": {
-      "score": "464",
-      "author": "bluehatbrit",
-      "commentCount": "175"
-    },
-    "FetchedAt": "2026-08-01T02:04:39.9230614+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49128323"
-    },
-    "Type": 1,
-    "Title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
-    "Url": "https://arxiv.org/abs/2607.28233",
-    "Description": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
-    "Metadata": {
-      "score": "34",
-      "author": "Jimmc414",
-      "commentCount": "17"
-    },
-    "FetchedAt": "2026-08-01T02:04:39.9808622+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49123386"
-    },
-    "Type": 1,
-    "Title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
-    "Url": "https://github.com/sqliteai/waste",
-    "Description": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
-    "Metadata": {
-      "score": "158",
-      "author": "marcobambini",
-      "commentCount": "62"
-    },
-    "FetchedAt": "2026-08-01T02:04:40.0383477+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49119270"
-    },
-    "Type": 1,
-    "Title": "Let\u0027s make the worst Htmx",
-    "Url": "https://zserge.com/posts/worst-htmx-ever/",
-    "Description": "Let\u0027s make the worst Htmx",
-    "Metadata": {
-      "score": "66",
-      "author": "RebelPotato",
-      "commentCount": "20"
-    },
-    "FetchedAt": "2026-08-01T02:04:40.095908+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49127031"
-    },
-    "Type": 1,
-    "Title": "Golang proposal: container/: generic collection types",
-    "Url": "https://github.com/golang/go/issues/80590",
-    "Description": "Golang proposal: container/: generic collection types",
-    "Metadata": {
-      "score": "124",
-      "author": "jabits",
-      "commentCount": "77"
-    },
-    "FetchedAt": "2026-08-01T02:04:40.1537816+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49070810"
     },
     "Type": 1,
@@ -223,36 +13,6 @@
       "commentCount": "13"
     },
     "FetchedAt": "2026-08-01T02:04:40.2107811+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49128462"
-    },
-    "Type": 1,
-    "Title": "Loops (YC W22) Is Hiring a Product Educator",
-    "Url": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
-    "Description": "Loops (YC W22) Is Hiring a Product Educator",
-    "Metadata": {
-      "score": "1",
-      "author": "chrisfrantz",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-08-01T02:04:40.2684604+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49124042"
-    },
-    "Type": 1,
-    "Title": "The most official water costs $120k a gallon",
-    "Url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
-    "Description": "The most official water costs $120k a gallon",
-    "Metadata": {
-      "score": "139",
-      "author": "surprisetalk",
-      "commentCount": "123"
-    },
-    "FetchedAt": "2026-08-01T02:04:40.3252934+00:00"
   },
   {
     "ExternalId": {
@@ -316,21 +76,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49123468"
-    },
-    "Type": 1,
-    "Title": "Authorize, don\u0027t authenticate",
-    "Url": "https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html",
-    "Description": "Authorize, don\u0027t authenticate",
-    "Metadata": {
-      "score": "56",
-      "author": "marcua",
-      "commentCount": "14"
-    },
-    "FetchedAt": "2026-08-01T02:04:40.6120466+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49127874"
     },
     "Type": 1,
@@ -358,21 +103,6 @@
       "commentCount": "181"
     },
     "FetchedAt": "2026-08-01T02:04:40.7253652+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49124358"
-    },
-    "Type": 1,
-    "Title": "Is AI reasoning right for the wrong reasons?",
-    "Url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-    "Description": "Is AI reasoning right for the wrong reasons?",
-    "Metadata": {
-      "score": "121",
-      "author": "retupmoc01",
-      "commentCount": "153"
-    },
-    "FetchedAt": "2026-08-01T02:04:40.782239+00:00"
   },
   {
     "ExternalId": {
@@ -436,17 +166,452 @@
   },
   {
     "ExternalId": {
+      "Value": "hn:49132058"
+    },
+    "Type": 1,
+    "Title": "Ten advances in mathematics and theoretical computer science",
+    "Url": "https://openai.com/index/ten-advances-in-mathematics/",
+    "Description": "Ten advances in mathematics and theoretical computer science",
+    "Metadata": {
+      "score": "28",
+      "author": "milkshakes",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-08-01T08:07:18.9988021+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49124218"
+    },
+    "Type": 1,
+    "Title": "Elevators",
+    "Url": "https://john.fun/elevators",
+    "Description": "Elevators",
+    "Metadata": {
+      "score": "1229",
+      "author": "Jrh0203",
+      "commentCount": "293"
+    },
+    "FetchedAt": "2026-08-01T08:07:19.0312677+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49130604"
+    },
+    "Type": 1,
+    "Title": "Flint: A Visualization Language for the AI Era",
+    "Url": "https://microsoft.github.io/flint-chart/",
+    "Description": "Flint: A Visualization Language for the AI Era",
+    "Metadata": {
+      "score": "95",
+      "author": "vinhnx",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-08-01T08:07:19.0640177+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49131367"
+    },
+    "Type": 1,
+    "Title": "Ten Ways NAS Is Getting Enshitified",
+    "Url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
+    "Description": "Ten Ways NAS Is Getting Enshitified",
+    "Metadata": {
+      "score": "50",
+      "author": "giuliomagnifico",
+      "commentCount": "39"
+    },
+    "FetchedAt": "2026-08-01T08:07:19.1086382+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49129990"
+    },
+    "Type": 1,
+    "Title": "How to Exist",
+    "Url": "https://www.raptitude.com/2026/07/how-to-exist/",
+    "Description": "How to Exist",
+    "Metadata": {
+      "score": "165",
+      "author": "walterbell",
+      "commentCount": "89"
+    },
+    "FetchedAt": "2026-08-01T08:07:19.1411237+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49126604"
+    },
+    "Type": 1,
+    "Title": "qm \u2013 Multiplayer agent harness for work",
+    "Url": "https://github.com/yc-software/qm",
+    "Description": "qm \u2013 Multiplayer agent harness for work",
+    "Metadata": {
+      "score": "546",
+      "author": "tosh",
+      "commentCount": "113"
+    },
+    "FetchedAt": "2026-08-01T08:07:19.1743412+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49130726"
+    },
+    "Type": 1,
+    "Title": "The development pipeline is a production system",
+    "Url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+    "Description": "The development pipeline is a production system",
+    "Metadata": {
+      "score": "67",
+      "author": "firefoxd",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-08-01T08:07:19.2082517+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49096605"
+    },
+    "Type": 1,
+    "Title": "Software for One",
+    "Url": "https://www.ajwaxman.com/writing/software-for-one",
+    "Description": "Software for One",
+    "Metadata": {
+      "score": "91",
+      "author": "awaxman11",
+      "commentCount": "72"
+    },
+    "FetchedAt": "2026-08-01T08:07:19.2411765+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49121196"
+    },
+    "Type": 1,
+    "Title": "Progressive Web Components",
+    "Url": "https://arielsalminen.com/2026/progressive-web-components/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;arielsalminen\u0026#x2F;elena\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;arielsalminen\u0026#x2F;elena\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;elenajs.com\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;elenajs.com\u0026#x2F;\u003C/a\u003E",
+    "Metadata": {
+      "score": "146",
+      "author": "hosteur",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-08-01T08:07:19.2772284+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49077646"
+    },
+    "Type": 1,
+    "Title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
+    "Url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
+    "Description": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
+    "Metadata": {
+      "score": "19",
+      "author": "matt_d",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-01T08:07:19.3166876+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49120097"
+    },
+    "Type": 1,
+    "Title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "Url": "https://blog.google/security/chrome-stronger-with-every-update/",
+    "Description": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "Metadata": {
+      "score": "497",
+      "author": "Garbage",
+      "commentCount": "513"
+    },
+    "FetchedAt": "2026-08-01T08:07:19.3493168+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49117089"
+    },
+    "Type": 1,
+    "Title": "The Absurdity of Albert Camus",
+    "Url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+    "Description": "The Absurdity of Albert Camus",
+    "Metadata": {
+      "score": "105",
+      "author": "apollinaire",
+      "commentCount": "53"
+    },
+    "FetchedAt": "2026-08-01T08:07:19.3827349+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49123386"
+    },
+    "Type": 1,
+    "Title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+    "Url": "https://github.com/sqliteai/waste",
+    "Description": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+    "Metadata": {
+      "score": "235",
+      "author": "marcobambini",
+      "commentCount": "96"
+    },
+    "FetchedAt": "2026-08-01T08:07:19.4705988+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49130295"
+    },
+    "Type": 1,
+    "Title": "A week in Matrix",
+    "Url": "https://piegames.de/dumps/a-week-in-matrix/",
+    "Description": "A week in Matrix",
+    "Metadata": {
+      "score": "53",
+      "author": "Kesseki",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-08-01T08:07:19.5043208+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49091614"
+    },
+    "Type": 1,
+    "Title": "A tiny holdout building in the middle of Macy\u2019s is back in view",
+    "Url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
+    "Description": "A tiny holdout building in the middle of Macy\u2019s is back in view",
+    "Metadata": {
+      "score": "14",
+      "author": "donohoe",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-08-01T08:07:19.5404054+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49125034"
+    },
+    "Type": 1,
+    "Title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+    "Url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+    "Description": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+    "Metadata": {
+      "score": "183",
+      "author": "speckx",
+      "commentCount": "95"
+    },
+    "FetchedAt": "2026-08-01T08:07:19.5755028+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49126765"
+    },
+    "Type": 1,
+    "Title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+    "Url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+    "Description": "June in Servo: real world compat, media queries, SharedWorker, and more",
+    "Metadata": {
+      "score": "134",
+      "author": "iamnothere",
+      "commentCount": "46"
+    },
+    "FetchedAt": "2026-08-01T08:07:19.6422267+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "hn:49084005"
     },
     "Type": 1,
-    "Title": "How far can you push the range of Wi-Fi connectivity in an ideal environment?",
+    "Title": "Long Range Wi-Fi \u2013 Pushing 2.4 GHz Wi-Fi to the limits (2019)",
     "Url": "https://www.phidgets.com/?view=articles\u0026article=LongRangeWifi",
-    "Description": "How far can you push the range of Wi-Fi connectivity in an ideal environment?",
+    "Description": "Long Range Wi-Fi \u2013 Pushing 2.4 GHz Wi-Fi to the limits (2019)",
     "Metadata": {
-      "score": "6",
+      "score": "47",
       "author": "rzk",
-      "commentCount": "3"
+      "commentCount": "30"
     },
-    "FetchedAt": "2026-08-01T02:04:41.0707446+00:00"
+    "FetchedAt": "2026-08-01T08:07:19.7085071+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49124858"
+    },
+    "Type": 1,
+    "Title": "Big Food vs. the People",
+    "Url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+    "Description": "Big Food vs. the People",
+    "Metadata": {
+      "score": "225",
+      "author": "jruohonen",
+      "commentCount": "143"
+    },
+    "FetchedAt": "2026-08-01T08:07:19.7558323+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49127031"
+    },
+    "Type": 1,
+    "Title": "Golang proposal: container/: generic collection types",
+    "Url": "https://github.com/golang/go/issues/80590",
+    "Description": "Golang proposal: container/: generic collection types",
+    "Metadata": {
+      "score": "147",
+      "author": "jabits",
+      "commentCount": "114"
+    },
+    "FetchedAt": "2026-08-01T08:07:19.7959685+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49121849"
+    },
+    "Type": 1,
+    "Title": "Increasing the lifespan of a bulb makes it worse in every other way",
+    "Url": "https://maurycyz.com/misc/tungsten/",
+    "Description": "Increasing the lifespan of a bulb makes it worse in every other way",
+    "Metadata": {
+      "score": "72",
+      "author": "tonyg",
+      "commentCount": "70"
+    },
+    "FetchedAt": "2026-08-01T08:07:19.8648919+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49128323"
+    },
+    "Type": 1,
+    "Title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+    "Url": "https://arxiv.org/abs/2607.28233",
+    "Description": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+    "Metadata": {
+      "score": "48",
+      "author": "Jimmc414",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-08-01T08:07:19.8983754+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49119270"
+    },
+    "Type": 1,
+    "Title": "Let\u0027s make the worst Htmx",
+    "Url": "https://zserge.com/posts/worst-htmx-ever/",
+    "Description": "Let\u0027s make the worst Htmx",
+    "Metadata": {
+      "score": "93",
+      "author": "RebelPotato",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-08-01T08:07:19.9316025+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49084215"
+    },
+    "Type": 1,
+    "Title": "When Internal Memory Fails: A No-Solder Wii U Recovery",
+    "Url": "https://smolnero.com/posts/when-internal-memory-fails-a-no-solder-wii-u-recovery",
+    "Description": "When Internal Memory Fails: A No-Solder Wii U Recovery",
+    "Metadata": {
+      "score": "7",
+      "author": "edgar_ortega",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-01T08:07:19.964083+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49124042"
+    },
+    "Type": 1,
+    "Title": "The most official water costs $120k a gallon",
+    "Url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
+    "Description": "The most official water costs $120k a gallon",
+    "Metadata": {
+      "score": "176",
+      "author": "surprisetalk",
+      "commentCount": "144"
+    },
+    "FetchedAt": "2026-08-01T08:07:19.9960785+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49128462"
+    },
+    "Type": 1,
+    "Title": "Loops (YC W22) Is Hiring a Product Educator",
+    "Url": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
+    "Description": "Loops (YC W22) Is Hiring a Product Educator",
+    "Metadata": {
+      "score": "1",
+      "author": "chrisfrantz",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-01T08:07:20.0281044+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49127306"
+    },
+    "Type": 1,
+    "Title": "Tailscale didn\u0027t stop the Hugging Face intrusion",
+    "Url": "https://tailscale.com/blog/hugging-face-intrusion",
+    "Description": "Tailscale didn\u0027t stop the Hugging Face intrusion",
+    "Metadata": {
+      "score": "538",
+      "author": "bluehatbrit",
+      "commentCount": "199"
+    },
+    "FetchedAt": "2026-08-01T08:07:20.0597588+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49123468"
+    },
+    "Type": 1,
+    "Title": "Authorize, don\u0027t authenticate",
+    "Url": "https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html",
+    "Description": "Authorize, don\u0027t authenticate",
+    "Metadata": {
+      "score": "83",
+      "author": "marcua",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-08-01T08:07:20.0916427+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49124358"
+    },
+    "Type": 1,
+    "Title": "Is AI reasoning right for the wrong reasons?",
+    "Url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+    "Description": "Is AI reasoning right for the wrong reasons?",
+    "Metadata": {
+      "score": "157",
+      "author": "retupmoc01",
+      "commentCount": "181"
+    },
+    "FetchedAt": "2026-08-01T08:07:20.124015+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49083599"
+    },
+    "Type": 1,
+    "Title": "Twenty-five years ago it was cryptography, today it\u0027s model weights",
+    "Url": "https://weeraman.com/because-we-can/",
+    "Description": "Twenty-five years ago it was cryptography, today it\u0027s model weights",
+    "Metadata": {
+      "score": "233",
+      "author": "aweeraman",
+      "commentCount": "119"
+    },
+    "FetchedAt": "2026-08-01T08:07:20.1567988+00:00"
   }
 ]
