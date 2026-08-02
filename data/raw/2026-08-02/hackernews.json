@@ -466,51 +466,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49143479"
-    },
-    "Type": 1,
-    "Title": "Meshdiff \u2013 visually compare two STL versions in the browser, client-side",
-    "Url": "https://meshdiff.com/",
-    "Description": "Meshdiff \u2013 visually compare two STL versions in the browser, client-side",
-    "Metadata": {
-      "score": "52",
-      "author": "projscope",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-08-02T13:03:25.8651011+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49143967"
-    },
-    "Type": 1,
-    "Title": "Twenty Years of RISC OS Open",
-    "Url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-    "Description": "Twenty Years of RISC OS Open",
-    "Metadata": {
-      "score": "12",
-      "author": "AlexeyBrin",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-08-02T13:03:25.8923712+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49142569"
-    },
-    "Type": 1,
-    "Title": "Show HN: Bor \u2013 Open-source policy management for Linux desktops",
-    "Url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-    "Description": "Hi HN! I\u0026#x27;ve been working on Bor, an open-source system for centralized Linux desktop management.\u003Cp\u003EBor consists of a lightweight Go agent and a central server. Policies are streamed to clients over mTLS\u0026#x2F;gRPC in real time\u2014no polling\u2014and currently support Firefox, Chrome, KDE, dconf, polkit and package management, with more coming.\u003Cp\u003EVersion 0.8 introduces several new policy types - Thunderbird, Microsoft Edge for Business and FirewallD zones, along with a number of improvements and fixe",
-    "Metadata": {
-      "score": "64",
-      "author": "eniac111",
-      "commentCount": "12"
-    },
-    "FetchedAt": "2026-08-02T13:03:25.920542+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49143414"
     },
     "Type": 1,
@@ -541,96 +496,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49143001"
-    },
-    "Type": 1,
-    "Title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-    "Url": "https://publicdomainreview.org/essay/ars-notoria/",
-    "Description": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-    "Metadata": {
-      "score": "42",
-      "author": "jruohonen",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-08-02T13:03:26.0018902+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49142794"
-    },
-    "Type": 1,
-    "Title": "Show HN: Syncular \u2013 offline-first SQL sync with TypeScript and Rust cores",
-    "Url": "https://github.com/syncular/syncular",
-    "Description": "Show HN: Syncular \u2013 offline-first SQL sync with TypeScript and Rust cores",
-    "Metadata": {
-      "score": "32",
-      "author": "quambo",
-      "commentCount": "15"
-    },
-    "FetchedAt": "2026-08-02T13:03:26.0290236+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49143683"
-    },
-    "Type": 1,
-    "Title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
-    "Url": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
-    "Description": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
-    "Metadata": {
-      "score": "1",
-      "author": "nedwin",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-08-02T13:03:26.0561082+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49140218"
-    },
-    "Type": 1,
-    "Title": "Go 1.27 Interactive Tour",
-    "Url": "https://victoriametrics.com/blog/go-1-27/index.html",
-    "Description": "Go 1.27 Interactive Tour",
-    "Metadata": {
-      "score": "255",
-      "author": "Hixon10",
-      "commentCount": "103"
-    },
-    "FetchedAt": "2026-08-02T13:03:26.0841818+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49143412"
-    },
-    "Type": 1,
-    "Title": "Show HN: Fuse \u2013 statically typed functional programming language",
-    "Url": "https://fuselang.org",
-    "Description": "Hi HN! I\u0026#x27;ve been working on the fuse programming language, it\u0026#x27;s a statically typed purely functional language with higher-kinder types and ad-hoc polymorphism. It compiles to the GRIN whole-program optimizer, producing LLVM-generated native code.\u003Cp\u003EFuse supports ADTs, Generics, Type Methods, Traits, Pattern matching etc. all in a functional style with no mutations.\u003Cp\u003EI\u2019ve been developing the language for 5 years, with code written in Scala. I\u2019ve started coding the language from the bas",
-    "Metadata": {
-      "score": "13",
-      "author": "the_unproven",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-08-02T13:03:26.1111683+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49140396"
-    },
-    "Type": 1,
-    "Title": "Show HN: I\u0027m a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
-    "Url": "https://github.com/tom-ilan/cycloidal_gearbox",
-    "Description": "Show HN: I\u0027m a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
-    "Metadata": {
-      "score": "195",
-      "author": "tomilan",
-      "commentCount": "62"
-    },
-    "FetchedAt": "2026-08-02T13:03:26.1383391+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49138302"
     },
     "Type": 1,
@@ -658,36 +523,6 @@
       "commentCount": "24"
     },
     "FetchedAt": "2026-08-02T13:03:26.1935979+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49138188"
-    },
-    "Type": 1,
-    "Title": "Di\u00E1taxis",
-    "Url": "https://diataxis.fr/",
-    "Description": "Di\u00E1taxis",
-    "Metadata": {
-      "score": "393",
-      "author": "ryanseys",
-      "commentCount": "49"
-    },
-    "FetchedAt": "2026-08-02T13:03:26.2206273+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49140702"
-    },
-    "Type": 1,
-    "Title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
-    "Url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
-    "Description": "MkLinux and the pimped-out Apple Workgroup Server 9150",
-    "Metadata": {
-      "score": "68",
-      "author": "goldenskye",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-08-02T13:03:26.2481208+00:00"
   },
   {
     "ExternalId": {
@@ -748,21 +583,6 @@
       "commentCount": "14"
     },
     "FetchedAt": "2026-08-02T13:03:26.3761698+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49116917"
-    },
-    "Type": 1,
-    "Title": "Holocloth",
-    "Url": "https://holocloth.vercel.app",
-    "Description": "Holocloth",
-    "Metadata": {
-      "score": "31",
-      "author": "ingve",
-      "commentCount": "7"
-    },
-    "FetchedAt": "2026-08-02T13:03:26.4043581+00:00"
   },
   {
     "ExternalId": {
@@ -898,5 +718,455 @@
       "commentCount": "17"
     },
     "FetchedAt": "2026-08-02T13:03:26.6594425+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49145937"
+    },
+    "Type": 1,
+    "Title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
+    "Url": "https://github.com/wie-project/kakehashi",
+    "Description": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
+    "Metadata": {
+      "score": "70",
+      "author": "vlad_kalinkin",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-08-02T18:58:49.1522737+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49097961"
+    },
+    "Type": 1,
+    "Title": "Developers are attached to tools because tools encode trust",
+    "Url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+    "Description": "Developers are attached to tools because tools encode trust",
+    "Metadata": {
+      "score": "36",
+      "author": "HieronymusBosch",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-08-02T18:58:49.1951692+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49146267"
+    },
+    "Type": 1,
+    "Title": "Show HN: NixOS-DGX-Spark \u2013 Nix and NixOS on the DGX Spark",
+    "Url": "https://github.com/graham33/nixos-dgx-spark",
+    "Description": "Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems.\u003Cp\u003EThis works on the NVIDIA DGX Spark itself and also on the Asus Ascent GX10.\u003Cp\u003ESee my 5 minute lightning talk from Planet Nix for an intro: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;youtu.be\u0026#x2F;AvK_gi_snJE?si=MPKv3iiuS9B5elIE\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;youtu.be\u0026#x2F;AvK_gi_snJE?si=MPKv3iiuS9B5elIE\u003C/a\u003E",
+    "Metadata": {
+      "score": "35",
+      "author": "graham33",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-08-02T18:58:49.2386291+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49145883"
+    },
+    "Type": 1,
+    "Title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+    "Url": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
+    "Description": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+    "Metadata": {
+      "score": "35",
+      "author": "mindracer",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-02T18:58:49.2834306+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49143967"
+    },
+    "Type": 1,
+    "Title": "Twenty Years of RISC OS Open",
+    "Url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+    "Description": "Twenty Years of RISC OS Open",
+    "Metadata": {
+      "score": "114",
+      "author": "AlexeyBrin",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-08-02T18:58:49.3258883+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49145590"
+    },
+    "Type": 1,
+    "Title": "How the words we teach English language learners changed",
+    "Url": "https://pudding.cool/2026/07/essential-words/",
+    "Description": "How the words we teach English language learners changed",
+    "Metadata": {
+      "score": "128",
+      "author": "c-oreills",
+      "commentCount": "74"
+    },
+    "FetchedAt": "2026-08-02T18:58:49.368943+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49146605"
+    },
+    "Type": 1,
+    "Title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
+    "Url": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
+    "Description": "Harvesting SSH Credentials: Insights from My Honeypot Network",
+    "Metadata": {
+      "score": "10",
+      "author": "whatbackup",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-08-02T18:58:49.4114585+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49143925"
+    },
+    "Type": 1,
+    "Title": "F*: A general-purpose proof-oriented programming language",
+    "Url": "https://fstar-lang.org/",
+    "Description": "F*: A general-purpose proof-oriented programming language",
+    "Metadata": {
+      "score": "104",
+      "author": "ducktective",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-08-02T18:58:49.4545807+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49143479"
+    },
+    "Type": 1,
+    "Title": "Meshdiff \u2013 visually compare two STL versions in the browser, client-side",
+    "Url": "https://meshdiff.com/",
+    "Description": "Meshdiff \u2013 visually compare two STL versions in the browser, client-side",
+    "Metadata": {
+      "score": "145",
+      "author": "projscope",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-08-02T18:58:49.4986732+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49140998"
+    },
+    "Type": 1,
+    "Title": "Karpathy\u2019s Pelican",
+    "Url": "https://twitter.com/karpathy/status/2083749667410727319",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;karpathy\u0026#x2F;status\u0026#x2F;2083749667410727319\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;karpathy\u0026#x2F;status\u0026#x2F;2083749667410727319\u003C/a\u003E",
+    "Metadata": {
+      "score": "162",
+      "author": "delichon",
+      "commentCount": "138"
+    },
+    "FetchedAt": "2026-08-02T18:58:49.5421002+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49094151"
+    },
+    "Type": 1,
+    "Title": "Fasttracker II clone in C using SDL 2",
+    "Url": "https://16-bits.org/ft2.php",
+    "Description": "Fasttracker II clone in C using SDL 2",
+    "Metadata": {
+      "score": "73",
+      "author": "andsoitis",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-08-02T18:58:49.5869834+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49093845"
+    },
+    "Type": 1,
+    "Title": "Folding Paper Globes",
+    "Url": "https://foldingglobes.com/globes",
+    "Description": "Folding Paper Globes",
+    "Metadata": {
+      "score": "103",
+      "author": "dango2506",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-08-02T18:58:49.6299251+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49123003"
+    },
+    "Type": 1,
+    "Title": "When transit passes were designed by hand (2022)",
+    "Url": "https://letterformarchive.org/news/milwaukee-transit-passes/",
+    "Description": "When transit passes were designed by hand (2022)",
+    "Metadata": {
+      "score": "49",
+      "author": "nate",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-08-02T18:58:49.6723538+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49142569"
+    },
+    "Type": 1,
+    "Title": "Show HN: Bor \u2013 Open-source policy management for Linux desktops",
+    "Url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+    "Description": "Hi HN! I\u0026#x27;ve been working on Bor, an open-source system for centralized Linux desktop management.\u003Cp\u003EBor consists of a lightweight Go agent and a central server. Policies are streamed to clients over mTLS\u0026#x2F;gRPC in real time\u2014no polling\u2014and currently support Firefox, Chrome, KDE, dconf, polkit and package management, with more coming.\u003Cp\u003EVersion 0.8 introduces several new policy types - Thunderbird, Microsoft Edge for Business and FirewallD zones, along with a number of improvements and fixe",
+    "Metadata": {
+      "score": "142",
+      "author": "eniac111",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-08-02T18:58:49.7149631+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49083146"
+    },
+    "Type": 1,
+    "Title": "Turtle-inspired interactive Python project",
+    "Url": "https://www.codembark.com/projects/fv20lz9map/spider-web-drawing",
+    "Description": "Turtle-inspired interactive Python project",
+    "Metadata": {
+      "score": "7",
+      "author": "camdenreslink",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-02T18:58:49.7578961+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49143412"
+    },
+    "Type": 1,
+    "Title": "Show HN: Fuse \u2013 statically typed functional programming language",
+    "Url": "https://fuselang.org",
+    "Description": "Hi HN! I\u0026#x27;ve been working on the fuse programming language, it\u0026#x27;s a statically typed purely functional language with higher-kinder types and ad-hoc polymorphism. It compiles to the GRIN whole-program optimizer, producing LLVM-generated native code.\u003Cp\u003EFuse supports ADTs, Generics, Type Methods, Traits, Pattern matching etc. all in a functional style with no mutations.\u003Cp\u003EI\u2019ve been developing the language for 5 years, with code written in Scala. I\u2019ve started coding the language from the bas",
+    "Metadata": {
+      "score": "79",
+      "author": "the_unproven",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-08-02T18:58:49.8016541+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49143096"
+    },
+    "Type": 1,
+    "Title": "Rust All Hands 2026 Retrospective",
+    "Url": "https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/",
+    "Description": "Rust All Hands 2026 Retrospective",
+    "Metadata": {
+      "score": "66",
+      "author": "dcminter",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-08-02T18:58:49.8448038+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49143001"
+    },
+    "Type": 1,
+    "Title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+    "Url": "https://publicdomainreview.org/essay/ars-notoria/",
+    "Description": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+    "Metadata": {
+      "score": "99",
+      "author": "jruohonen",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-08-02T18:58:49.8874532+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49143683"
+    },
+    "Type": 1,
+    "Title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+    "Url": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
+    "Description": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+    "Metadata": {
+      "score": "1",
+      "author": "nedwin",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-02T18:58:49.9304764+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49140218"
+    },
+    "Type": 1,
+    "Title": "Go 1.27 Interactive Tour",
+    "Url": "https://victoriametrics.com/blog/go-1-27/index.html",
+    "Description": "Go 1.27 Interactive Tour",
+    "Metadata": {
+      "score": "327",
+      "author": "Hixon10",
+      "commentCount": "160"
+    },
+    "FetchedAt": "2026-08-02T18:58:49.9733547+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49140396"
+    },
+    "Type": 1,
+    "Title": "Show HN: I\u0027m a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+    "Url": "https://github.com/tom-ilan/cycloidal_gearbox",
+    "Description": "Show HN: I\u0027m a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+    "Metadata": {
+      "score": "285",
+      "author": "tomilan",
+      "commentCount": "94"
+    },
+    "FetchedAt": "2026-08-02T18:58:50.0168838+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49146238"
+    },
+    "Type": 1,
+    "Title": "Pushes to arch AUR are suspendended right now.",
+    "Url": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/",
+    "Description": "Pushes to arch AUR are suspendended right now.",
+    "Metadata": {
+      "score": "39",
+      "author": "EbNar",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-08-02T18:58:50.0597562+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49116917"
+    },
+    "Type": 1,
+    "Title": "Holocloth",
+    "Url": "https://holocloth.vercel.app",
+    "Description": "Holocloth",
+    "Metadata": {
+      "score": "127",
+      "author": "ingve",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-08-02T18:58:50.1018177+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49138188"
+    },
+    "Type": 1,
+    "Title": "Di\u00E1taxis",
+    "Url": "https://diataxis.fr/",
+    "Description": "Di\u00E1taxis",
+    "Metadata": {
+      "score": "483",
+      "author": "ryanseys",
+      "commentCount": "56"
+    },
+    "FetchedAt": "2026-08-02T18:58:50.1443191+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49147209"
+    },
+    "Type": 1,
+    "Title": "Microsoft raises Xbox prices by up to 43%",
+    "Url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+    "Description": "Microsoft raises Xbox prices by up to 43%",
+    "Metadata": {
+      "score": "4",
+      "author": "BlueBerry2001",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-02T18:58:50.1877355+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49078283"
+    },
+    "Type": 1,
+    "Title": "Norway Salmon",
+    "Url": "https://www.abc.net.au/news/2026-07-28/how-norway-s-salmon-industry-became-a-global-behemoth/106949872",
+    "Description": "Norway Salmon",
+    "Metadata": {
+      "score": "89",
+      "author": "CHB0403085482",
+      "commentCount": "56"
+    },
+    "FetchedAt": "2026-08-02T18:58:50.2310933+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49140702"
+    },
+    "Type": 1,
+    "Title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+    "Url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+    "Description": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+    "Metadata": {
+      "score": "97",
+      "author": "goldenskye",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-08-02T18:58:50.2731933+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49145201"
+    },
+    "Type": 1,
+    "Title": "A Rant About \u201CTechnology\u201D (2005)",
+    "Url": "https://www.ursulakleguin.com/a-rant-about-technology",
+    "Description": "A Rant About \u201CTechnology\u201D (2005)",
+    "Metadata": {
+      "score": "116",
+      "author": "jamesgill",
+      "commentCount": "65"
+    },
+    "FetchedAt": "2026-08-02T18:58:50.3159643+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49141828"
+    },
+    "Type": 1,
+    "Title": "ESP32-C3 SuperMini antenna modification",
+    "Url": "https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/",
+    "Description": "ESP32-C3 SuperMini antenna modification",
+    "Metadata": {
+      "score": "63",
+      "author": "ta988",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-08-02T18:58:50.3584902+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49142794"
+    },
+    "Type": 1,
+    "Title": "Show HN: Syncular \u2013 offline-first SQL sync with TypeScript and Rust cores",
+    "Url": "https://github.com/syncular/syncular",
+    "Description": "Show HN: Syncular \u2013 offline-first SQL sync with TypeScript and Rust cores",
+    "Metadata": {
+      "score": "66",
+      "author": "quambo",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-08-02T18:58:50.40058+00:00"
   }
 ]
