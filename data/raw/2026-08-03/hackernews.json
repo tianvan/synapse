@@ -571,81 +571,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49154332"
-    },
-    "Type": 1,
-    "Title": "Critical CVE issued for hallucinated SQLite vulnerability",
-    "Url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-    "Description": "Critical CVE issued for hallucinated SQLite vulnerability",
-    "Metadata": {
-      "score": "342",
-      "author": "ymir_e",
-      "commentCount": "106"
-    },
-    "FetchedAt": "2026-08-03T14:21:08.5204553+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49155629"
-    },
-    "Type": 1,
-    "Title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-    "Url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-    "Description": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-    "Metadata": {
-      "score": "48",
-      "author": "vblanco",
-      "commentCount": "12"
-    },
-    "FetchedAt": "2026-08-03T14:21:08.542384+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49151933"
-    },
-    "Type": 1,
-    "Title": "Don\u0027t be a meat proxy",
-    "Url": "https://gruhn.me/blog/2026-08-03/",
-    "Description": "Don\u0027t be a meat proxy",
-    "Metadata": {
-      "score": "1098",
-      "author": "ngruhn",
-      "commentCount": "463"
-    },
-    "FetchedAt": "2026-08-03T14:21:08.5635364+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49150470"
-    },
-    "Type": 1,
-    "Title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-    "Url": "https://qwen.ai/blog?id=qwen3.8",
-    "Description": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-    "Metadata": {
-      "score": "821",
-      "author": "ai2027",
-      "commentCount": "414"
-    },
-    "FetchedAt": "2026-08-03T14:21:08.5847229+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49154228"
-    },
-    "Type": 1,
-    "Title": "AirLLM 70B inference with single 4GB GPU",
-    "Url": "https://github.com/lyogavin/airllm",
-    "Description": "AirLLM 70B inference with single 4GB GPU",
-    "Metadata": {
-      "score": "53",
-      "author": "Anon84",
-      "commentCount": "20"
-    },
-    "FetchedAt": "2026-08-03T14:21:08.6076329+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49125168"
     },
     "Type": 1,
@@ -661,66 +586,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49155626"
-    },
-    "Type": 1,
-    "Title": "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",
-    "Url": "https://dmarcguard.io/blog/spf-record-syntax/",
-    "Description": "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",
-    "Metadata": {
-      "score": "8",
-      "author": "meysamazad",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-08-03T14:21:08.6517739+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49153374"
-    },
-    "Type": 1,
-    "Title": "Prevent cognitive debt by manually retyping LLM-generated code",
-    "Url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-    "Description": "Prevent cognitive debt by manually retyping LLM-generated code",
-    "Metadata": {
-      "score": "189",
-      "author": "mpweiher",
-      "commentCount": "141"
-    },
-    "FetchedAt": "2026-08-03T14:21:08.6740883+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49152842"
-    },
-    "Type": 1,
-    "Title": "Bonsai: Janestreet\u0027s UI Library",
-    "Url": "https://github.com/janestreet/bonsai",
-    "Description": "Bonsai: Janestreet\u0027s UI Library",
-    "Metadata": {
-      "score": "139",
-      "author": "KolmogorovComp",
-      "commentCount": "51"
-    },
-    "FetchedAt": "2026-08-03T14:21:08.6954592+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49154127"
-    },
-    "Type": 1,
-    "Title": "Show HN: Nightcrawler \u2013 A local AI pentesting agent running on a smartphone",
-    "Url": "https://github.com/garagehq/nightcrawler/",
-    "Description": "Show HN: Nightcrawler \u2013 A local AI pentesting agent running on a smartphone",
-    "Metadata": {
-      "score": "47",
-      "author": "NickySlicks",
-      "commentCount": "16"
-    },
-    "FetchedAt": "2026-08-03T14:21:08.7173098+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49152973"
     },
     "Type": 1,
@@ -733,36 +598,6 @@
       "commentCount": "32"
     },
     "FetchedAt": "2026-08-03T14:21:08.7388347+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49152023"
-    },
-    "Type": 1,
-    "Title": "Rust project goals: Immobile types and guaranteed destructors",
-    "Url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
-    "Description": "Rust project goals: Immobile types and guaranteed destructors",
-    "Metadata": {
-      "score": "145",
-      "author": "paavohtl",
-      "commentCount": "53"
-    },
-    "FetchedAt": "2026-08-03T14:21:08.7744648+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49153361"
-    },
-    "Type": 1,
-    "Title": "What DMARC Protects You From, and What It Does Not",
-    "Url": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
-    "Description": "What DMARC Protects You From, and What It Does Not",
-    "Metadata": {
-      "score": "60",
-      "author": "adulion",
-      "commentCount": "15"
-    },
-    "FetchedAt": "2026-08-03T14:21:08.7955089+00:00"
   },
   {
     "ExternalId": {
@@ -853,21 +688,6 @@
       "commentCount": "0"
     },
     "FetchedAt": "2026-08-03T14:21:08.9337156+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49147907"
-    },
-    "Type": 1,
-    "Title": "Games at the press of a button: The Rip-O-Bot (1989)",
-    "Url": "https://blog.gingerbeardman.com/2026/08/02/games-at-the-press-of-a-button-the-rip-o-bot/",
-    "Description": "Games at the press of a button: The Rip-O-Bot (1989)",
-    "Metadata": {
-      "score": "4",
-      "author": "msephton",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-08-03T14:21:08.9551087+00:00"
   },
   {
     "ExternalId": {
@@ -1018,5 +838,455 @@
       "commentCount": "227"
     },
     "FetchedAt": "2026-08-03T14:21:09.1747892+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49157930"
+    },
+    "Type": 1,
+    "Title": "Ten advances in mathematics and theoretical computer science",
+    "Url": "https://openai.com/index/ten-advances-in-mathematics/",
+    "Description": "Ten advances in mathematics and theoretical computer science",
+    "Metadata": {
+      "score": "168",
+      "author": "milkshakes",
+      "commentCount": "450"
+    },
+    "FetchedAt": "2026-08-03T19:21:53.1348955+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49156111"
+    },
+    "Type": 1,
+    "Title": "Devtools must be open source",
+    "Url": "https://blog.exe.dev/devtools-must-be-open-source",
+    "Description": "Devtools must be open source",
+    "Metadata": {
+      "score": "335",
+      "author": "bryanmikaelian",
+      "commentCount": "124"
+    },
+    "FetchedAt": "2026-08-03T19:21:53.1912741+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49155359"
+    },
+    "Type": 1,
+    "Title": "Wind and solar overtake fossil fuels in Germany for the first time",
+    "Url": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
+    "Description": "Wind and solar overtake fossil fuels in Germany for the first time",
+    "Metadata": {
+      "score": "221",
+      "author": "just_some_user",
+      "commentCount": "115"
+    },
+    "FetchedAt": "2026-08-03T19:21:53.391706+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49158474"
+    },
+    "Type": 1,
+    "Title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+    "Url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+    "Description": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+    "Metadata": {
+      "score": "65",
+      "author": "roryirvine",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-08-03T19:21:53.4846332+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49155629"
+    },
+    "Type": 1,
+    "Title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+    "Url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+    "Description": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+    "Metadata": {
+      "score": "195",
+      "author": "vblanco",
+      "commentCount": "56"
+    },
+    "FetchedAt": "2026-08-03T19:21:53.5646086+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49156011"
+    },
+    "Type": 1,
+    "Title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+    "Url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+    "Description": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+    "Metadata": {
+      "score": "181",
+      "author": "nikolay_sivko",
+      "commentCount": "40"
+    },
+    "FetchedAt": "2026-08-03T19:21:53.6289983+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49158581"
+    },
+    "Type": 1,
+    "Title": "Smaller, faster, safer: running Kimi and GLM at scale",
+    "Url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+    "Description": "Smaller, faster, safer: running Kimi and GLM at scale",
+    "Metadata": {
+      "score": "25",
+      "author": "ascorbic",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-08-03T19:21:53.7415762+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49082937"
+    },
+    "Type": 1,
+    "Title": "How Hollywood stopped making movies in Hollywood",
+    "Url": "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies",
+    "Description": "How Hollywood stopped making movies in Hollywood",
+    "Metadata": {
+      "score": "118",
+      "author": "speckx",
+      "commentCount": "112"
+    },
+    "FetchedAt": "2026-08-03T19:21:53.8058328+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49157997"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Hoplite (YC S26) \u2013 Effortlessly deploy cloud coding agents",
+    "Url": "https://hoplite.sh",
+    "Description": "Hi HN, we\u2019re Bence and Ryan, founders of Hoplite (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;hoplite.sh\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;hoplite.sh\u003C/a\u003E). Hoplite lets you deploy coding agents in the cloud, with a suite of tools that makes it incredibly easy to QA features. During onboarding, we port over your local setup - sessions, memories, MCP servers, and get your projects ready to run in the cloud.\u003Cp\u003EHere\u2019s a demo: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;youtu.be\u0026#x2F;bnyktZ_9pjE\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;youtu.be\u0026#x2F;bnykt",
+    "Metadata": {
+      "score": "24",
+      "author": "BenceRed",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-08-03T19:21:53.8842083+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49124213"
+    },
+    "Type": 1,
+    "Title": "Massively Parallel Postgres Backups",
+    "Url": "https://planetscale.com/blog/massively-parallel-postgres-backups",
+    "Description": "Massively Parallel Postgres Backups",
+    "Metadata": {
+      "score": "35",
+      "author": "ksec",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-03T19:21:53.951188+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49158714"
+    },
+    "Type": 1,
+    "Title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
+    "Url": "https://blog.cloudflare.com/billable-usage-api/",
+    "Description": "The Billable Usage API: programmatic cost visibility for Cloudflare",
+    "Metadata": {
+      "score": "18",
+      "author": "ashleypeacock",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-08-03T19:21:54.0077903+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49154228"
+    },
+    "Type": 1,
+    "Title": "AirLLM 70B inference with single 4GB GPU",
+    "Url": "https://github.com/lyogavin/airllm",
+    "Description": "AirLLM 70B inference with single 4GB GPU",
+    "Metadata": {
+      "score": "147",
+      "author": "Anon84",
+      "commentCount": "53"
+    },
+    "FetchedAt": "2026-08-03T19:21:54.06458+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49123105"
+    },
+    "Type": 1,
+    "Title": "Kelly Criterion Simulator",
+    "Url": "https://kellysimulator.com/",
+    "Description": "Kelly Criterion Simulator",
+    "Metadata": {
+      "score": "9",
+      "author": "aleyan",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-03T19:21:54.1221865+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49152842"
+    },
+    "Type": 1,
+    "Title": "Bonsai: Janestreet\u0027s UI Library",
+    "Url": "https://github.com/janestreet/bonsai",
+    "Description": "Bonsai: Janestreet\u0027s UI Library",
+    "Metadata": {
+      "score": "247",
+      "author": "KolmogorovComp",
+      "commentCount": "94"
+    },
+    "FetchedAt": "2026-08-03T19:21:54.1789495+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49158287"
+    },
+    "Type": 1,
+    "Title": "Use Task Runners for Common Coding Tasks",
+    "Url": "https://hamvocke.com/blog/task-runners/",
+    "Description": "Use Task Runners for Common Coding Tasks",
+    "Metadata": {
+      "score": "23",
+      "author": "speckx",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-08-03T19:21:54.2357229+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49157807"
+    },
+    "Type": 1,
+    "Title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+    "Url": "https://armature.tech/",
+    "Description": "Hi HN! We\u2019re Theodore and Louis, founders of Armature (YC P26). We reconstruct the entire session behind the MCP tool calls you receive, including what the user asked their agent to do and what the agent thought.\u003Cp\u003EYou wrap your MCP in 3 lines of code (our SDK is available in Typescript, Python and Go) and start seeing in your dashboard:\n- All sessions reconstructed: it\u2019s like reading the real conversation the user had inside Claude or ChatGPT!\n- A ranking of your MCP most popular use cases, bui",
+    "Metadata": {
+      "score": "21",
+      "author": "screm",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-03T19:21:54.2939985+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49151933"
+    },
+    "Type": 1,
+    "Title": "Don\u0027t be a meat proxy",
+    "Url": "https://gruhn.me/blog/2026-08-03/",
+    "Description": "Don\u0027t be a meat proxy",
+    "Metadata": {
+      "score": "1538",
+      "author": "ngruhn",
+      "commentCount": "643"
+    },
+    "FetchedAt": "2026-08-03T19:21:54.3506777+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49154332"
+    },
+    "Type": 1,
+    "Title": "SQLite Critical CVEs or LLM Slop?",
+    "Url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+    "Description": "SQLite Critical CVEs or LLM Slop?",
+    "Metadata": {
+      "score": "667",
+      "author": "ymir_e",
+      "commentCount": "299"
+    },
+    "FetchedAt": "2026-08-03T19:21:54.4088731+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49155626"
+    },
+    "Type": 1,
+    "Title": "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",
+    "Url": "https://dmarcguard.io/blog/spf-record-syntax/",
+    "Description": "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",
+    "Metadata": {
+      "score": "35",
+      "author": "meysamazad",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-08-03T19:21:54.4657615+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49158141"
+    },
+    "Type": 1,
+    "Title": "SearXNG in Rust",
+    "Url": "https://github.com/MikeLuu99/searxng-rust",
+    "Description": "SearXNG in Rust",
+    "Metadata": {
+      "score": "27",
+      "author": "dluuuu",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-08-03T19:21:54.5242337+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49153374"
+    },
+    "Type": 1,
+    "Title": "Prevent cognitive debt by manually retyping LLM-generated code",
+    "Url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+    "Description": "Prevent cognitive debt by manually retyping LLM-generated code",
+    "Metadata": {
+      "score": "310",
+      "author": "mpweiher",
+      "commentCount": "266"
+    },
+    "FetchedAt": "2026-08-03T19:21:54.5812129+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49157645"
+    },
+    "Type": 1,
+    "Title": "Explanation of INT8 ConvRot (FP8 is no longer needed)",
+    "Url": "https://note.com/hirorohi03/n/n047a8c5f7f8b?hl=en",
+    "Description": "Explanation of INT8 ConvRot (FP8 is no longer needed)",
+    "Metadata": {
+      "score": "14",
+      "author": "peter_d_sherman",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-08-03T19:21:54.6375826+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49150470"
+    },
+    "Type": 1,
+    "Title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+    "Url": "https://qwen.ai/blog?id=qwen3.8",
+    "Description": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+    "Metadata": {
+      "score": "990",
+      "author": "ai2027",
+      "commentCount": "522"
+    },
+    "FetchedAt": "2026-08-03T19:21:54.6958665+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49152023"
+    },
+    "Type": 1,
+    "Title": "Rust project goals: Immobile types and guaranteed destructors",
+    "Url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+    "Description": "Rust project goals: Immobile types and guaranteed destructors",
+    "Metadata": {
+      "score": "203",
+      "author": "paavohtl",
+      "commentCount": "76"
+    },
+    "FetchedAt": "2026-08-03T19:21:54.7528965+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49107888"
+    },
+    "Type": 1,
+    "Title": "C\u002B\u002B float-to-int conversion can be undefined behavior",
+    "Url": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
+    "Description": "C\u002B\u002B float-to-int conversion can be undefined behavior",
+    "Metadata": {
+      "score": "30",
+      "author": "signa11",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-08-03T19:21:54.809463+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49154127"
+    },
+    "Type": 1,
+    "Title": "Show HN: Nightcrawler \u2013 A local AI pentesting agent running on a smartphone",
+    "Url": "https://github.com/garagehq/nightcrawler/",
+    "Description": "Show HN: Nightcrawler \u2013 A local AI pentesting agent running on a smartphone",
+    "Metadata": {
+      "score": "89",
+      "author": "NickySlicks",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-08-03T19:21:54.8658006+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49153361"
+    },
+    "Type": 1,
+    "Title": "What DMARC Protects You From, and What It Does Not",
+    "Url": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
+    "Description": "What DMARC Protects You From, and What It Does Not",
+    "Metadata": {
+      "score": "109",
+      "author": "adulion",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-08-03T19:21:54.922962+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49110912"
+    },
+    "Type": 1,
+    "Title": "Kraid is a now a real compiler",
+    "Url": "https://www.collabora.com/news-and-blog/news-and-events/kraid-is-a-now-a-real-compiler.html",
+    "Description": "Kraid is a now a real compiler",
+    "Metadata": {
+      "score": "21",
+      "author": "losgehts",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-08-03T19:21:54.9793808+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49157128"
+    },
+    "Type": 1,
+    "Title": "Taylor Farms has rewritten its cyclospora statement four times in sixteen days",
+    "Url": "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/",
+    "Description": "Taylor Farms has rewritten its cyclospora statement four times in sixteen days",
+    "Metadata": {
+      "score": "259",
+      "author": "speckx",
+      "commentCount": "180"
+    },
+    "FetchedAt": "2026-08-03T19:21:55.0360458+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49147907"
+    },
+    "Type": 1,
+    "Title": "Games at the press of a button: The Rip-O-Bot (1989)",
+    "Url": "https://blog.gingerbeardman.com/2026/08/02/games-at-the-press-of-a-button-the-rip-o-bot/",
+    "Description": "Games at the press of a button: The Rip-O-Bot (1989)",
+    "Metadata": {
+      "score": "26",
+      "author": "msephton",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-08-03T19:21:55.0927081+00:00"
   }
 ]
