@@ -286,66 +286,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49151933"
-    },
-    "Type": 1,
-    "Title": "Don\u0027t be a meat proxy",
-    "Url": "https://gruhn.me/blog/2026-08-03/",
-    "Description": "Don\u0027t be a meat proxy",
-    "Metadata": {
-      "score": "473",
-      "author": "ngruhn",
-      "commentCount": "207"
-    },
-    "FetchedAt": "2026-08-03T09:28:01.5174513+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49150470"
-    },
-    "Type": 1,
-    "Title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-    "Url": "https://qwen.ai/blog?id=qwen3.8",
-    "Description": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-    "Metadata": {
-      "score": "541",
-      "author": "ai2027",
-      "commentCount": "267"
-    },
-    "FetchedAt": "2026-08-03T09:28:01.5443292+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49152023"
-    },
-    "Type": 1,
-    "Title": "Rust project goals: Immobile types and guaranteed destructors",
-    "Url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
-    "Description": "Rust project goals: Immobile types and guaranteed destructors",
-    "Metadata": {
-      "score": "57",
-      "author": "paavohtl",
-      "commentCount": "14"
-    },
-    "FetchedAt": "2026-08-03T09:28:01.5706655+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49152842"
-    },
-    "Type": 1,
-    "Title": "Bonsai: Janestreet\u0027s UI Library",
-    "Url": "https://github.com/janestreet/bonsai",
-    "Description": "Bonsai: Janestreet\u0027s UI Library",
-    "Metadata": {
-      "score": "25",
-      "author": "KolmogorovComp",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-08-03T09:28:01.5970835+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49152222"
     },
     "Type": 1,
@@ -358,36 +298,6 @@
       "commentCount": "17"
     },
     "FetchedAt": "2026-08-03T09:28:01.6233974+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49152640"
-    },
-    "Type": 1,
-    "Title": "Octane \u2013 React\u0027s programming model, compiled",
-    "Url": "https://octanejs.dev",
-    "Description": "Octane \u2013 React\u0027s programming model, compiled",
-    "Metadata": {
-      "score": "11",
-      "author": "nnx",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-08-03T09:28:01.6510433+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49149966"
-    },
-    "Type": 1,
-    "Title": "Show HN: Isopolis \u2013 Isometric pixel map of SF",
-    "Url": "https://sf.isopolis.city/",
-    "Description": "Show HN: Isopolis \u2013 Isometric pixel map of SF",
-    "Metadata": {
-      "score": "213",
-      "author": "nuwandavek",
-      "commentCount": "48"
-    },
-    "FetchedAt": "2026-08-03T09:28:01.6777608+00:00"
   },
   {
     "ExternalId": {
@@ -406,21 +316,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49149805"
-    },
-    "Type": 1,
-    "Title": "Show HN: ssh ssh.place",
-    "Url": "https://ssh.place",
-    "Description": "Show HN: ssh ssh.place",
-    "Metadata": {
-      "score": "112",
-      "author": "jeninh",
-      "commentCount": "66"
-    },
-    "FetchedAt": "2026-08-03T09:28:01.7307786+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49151734"
     },
     "Type": 1,
@@ -436,21 +331,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49125065"
-    },
-    "Type": 1,
-    "Title": "Why we write our own C and C\u002B\u002B inference engines",
-    "Url": "https://localai.io/blog/why-we-write-our-own-engines/",
-    "Description": "Why we write our own C and C\u002B\u002B inference engines",
-    "Metadata": {
-      "score": "51",
-      "author": "eatonphil",
-      "commentCount": "26"
-    },
-    "FetchedAt": "2026-08-03T09:28:01.785538+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49092215"
     },
     "Type": 1,
@@ -463,21 +343,6 @@
       "commentCount": "4"
     },
     "FetchedAt": "2026-08-03T09:28:01.8131855+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49149898"
-    },
-    "Type": 1,
-    "Title": "CP/M-386 \u2013 CP/M for 386 protected mode, derived from CP/M\u201168K",
-    "Url": "https://github.com/johnsonjh/cpm386",
-    "Description": "CP/M-386 \u2013 CP/M for 386 protected mode, derived from CP/M\u201168K",
-    "Metadata": {
-      "score": "67",
-      "author": "TMWNN",
-      "commentCount": "30"
-    },
-    "FetchedAt": "2026-08-03T09:28:01.8397278+00:00"
   },
   {
     "ExternalId": {
@@ -586,21 +451,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49147263"
-    },
-    "Type": 1,
-    "Title": "SwiftUI After 7 Years",
-    "Url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
-    "Description": "SwiftUI After 7 Years",
-    "Metadata": {
-      "score": "191",
-      "author": "mpweiher",
-      "commentCount": "171"
-    },
-    "FetchedAt": "2026-08-03T09:28:02.0549694+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49149746"
     },
     "Type": 1,
@@ -628,21 +478,6 @@
       "commentCount": "48"
     },
     "FetchedAt": "2026-08-03T09:28:02.1094044+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49151871"
-    },
-    "Type": 1,
-    "Title": "Situational Awareness and the Impending Stock Market Volatility",
-    "Url": "https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/",
-    "Description": "Situational Awareness and the Impending Stock Market Volatility",
-    "Metadata": {
-      "score": "6",
-      "author": "cl42",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-08-03T09:28:02.1359046+00:00"
   },
   {
     "ExternalId": {
@@ -733,5 +568,455 @@
       "commentCount": "168"
     },
     "FetchedAt": "2026-08-03T09:28:02.2993205+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49154332"
+    },
+    "Type": 1,
+    "Title": "Critical CVE issued for hallucinated SQLite vulnerability",
+    "Url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+    "Description": "Critical CVE issued for hallucinated SQLite vulnerability",
+    "Metadata": {
+      "score": "342",
+      "author": "ymir_e",
+      "commentCount": "106"
+    },
+    "FetchedAt": "2026-08-03T14:21:08.5204553+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49155629"
+    },
+    "Type": 1,
+    "Title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+    "Url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+    "Description": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+    "Metadata": {
+      "score": "48",
+      "author": "vblanco",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-08-03T14:21:08.542384+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49151933"
+    },
+    "Type": 1,
+    "Title": "Don\u0027t be a meat proxy",
+    "Url": "https://gruhn.me/blog/2026-08-03/",
+    "Description": "Don\u0027t be a meat proxy",
+    "Metadata": {
+      "score": "1098",
+      "author": "ngruhn",
+      "commentCount": "463"
+    },
+    "FetchedAt": "2026-08-03T14:21:08.5635364+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49150470"
+    },
+    "Type": 1,
+    "Title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+    "Url": "https://qwen.ai/blog?id=qwen3.8",
+    "Description": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+    "Metadata": {
+      "score": "821",
+      "author": "ai2027",
+      "commentCount": "414"
+    },
+    "FetchedAt": "2026-08-03T14:21:08.5847229+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49154228"
+    },
+    "Type": 1,
+    "Title": "AirLLM 70B inference with single 4GB GPU",
+    "Url": "https://github.com/lyogavin/airllm",
+    "Description": "AirLLM 70B inference with single 4GB GPU",
+    "Metadata": {
+      "score": "53",
+      "author": "Anon84",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-08-03T14:21:08.6076329+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49125168"
+    },
+    "Type": 1,
+    "Title": "The Abandoned Fish Sauce Terrorizing a Small Canadian Town",
+    "Url": "https://defector.com/abandoned-fish-sauce-canada-interview",
+    "Description": "The Abandoned Fish Sauce Terrorizing a Small Canadian Town",
+    "Metadata": {
+      "score": "58",
+      "author": "ohjeez",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-08-03T14:21:08.6300265+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49155626"
+    },
+    "Type": 1,
+    "Title": "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",
+    "Url": "https://dmarcguard.io/blog/spf-record-syntax/",
+    "Description": "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",
+    "Metadata": {
+      "score": "8",
+      "author": "meysamazad",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-03T14:21:08.6517739+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49153374"
+    },
+    "Type": 1,
+    "Title": "Prevent cognitive debt by manually retyping LLM-generated code",
+    "Url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+    "Description": "Prevent cognitive debt by manually retyping LLM-generated code",
+    "Metadata": {
+      "score": "189",
+      "author": "mpweiher",
+      "commentCount": "141"
+    },
+    "FetchedAt": "2026-08-03T14:21:08.6740883+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49152842"
+    },
+    "Type": 1,
+    "Title": "Bonsai: Janestreet\u0027s UI Library",
+    "Url": "https://github.com/janestreet/bonsai",
+    "Description": "Bonsai: Janestreet\u0027s UI Library",
+    "Metadata": {
+      "score": "139",
+      "author": "KolmogorovComp",
+      "commentCount": "51"
+    },
+    "FetchedAt": "2026-08-03T14:21:08.6954592+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49154127"
+    },
+    "Type": 1,
+    "Title": "Show HN: Nightcrawler \u2013 A local AI pentesting agent running on a smartphone",
+    "Url": "https://github.com/garagehq/nightcrawler/",
+    "Description": "Show HN: Nightcrawler \u2013 A local AI pentesting agent running on a smartphone",
+    "Metadata": {
+      "score": "47",
+      "author": "NickySlicks",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-08-03T14:21:08.7173098+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49152973"
+    },
+    "Type": 1,
+    "Title": "The true power of regular expressions (2012)",
+    "Url": "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html",
+    "Description": "The true power of regular expressions (2012)",
+    "Metadata": {
+      "score": "44",
+      "author": "uneven9434",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-08-03T14:21:08.7388347+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49152023"
+    },
+    "Type": 1,
+    "Title": "Rust project goals: Immobile types and guaranteed destructors",
+    "Url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+    "Description": "Rust project goals: Immobile types and guaranteed destructors",
+    "Metadata": {
+      "score": "145",
+      "author": "paavohtl",
+      "commentCount": "53"
+    },
+    "FetchedAt": "2026-08-03T14:21:08.7744648+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49153361"
+    },
+    "Type": 1,
+    "Title": "What DMARC Protects You From, and What It Does Not",
+    "Url": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
+    "Description": "What DMARC Protects You From, and What It Does Not",
+    "Metadata": {
+      "score": "60",
+      "author": "adulion",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-08-03T14:21:08.7955089+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49078856"
+    },
+    "Type": 1,
+    "Title": "Walk on Decomposed Subdomains",
+    "Url": "https://clementjambon.github.io/wods/index.html#blogpost",
+    "Description": "Walk on Decomposed Subdomains",
+    "Metadata": {
+      "score": "8",
+      "author": "E-Reverance",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-03T14:21:08.8171265+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49154237"
+    },
+    "Type": 1,
+    "Title": "ICE Collected Nearly 1M People\u0027s DNA Last Year\u2013Including Young Children",
+    "Url": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
+    "Description": "ICE Collected Nearly 1M People\u0027s DNA Last Year\u2013Including Young Children",
+    "Metadata": {
+      "score": "170",
+      "author": "BlueBerry2001",
+      "commentCount": "69"
+    },
+    "FetchedAt": "2026-08-03T14:21:08.8481191+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49152640"
+    },
+    "Type": 1,
+    "Title": "Octane \u2013 React\u0027s programming model, compiled",
+    "Url": "https://octanejs.dev",
+    "Description": "Octane \u2013 React\u0027s programming model, compiled",
+    "Metadata": {
+      "score": "76",
+      "author": "nnx",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-08-03T14:21:08.8688626+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49149966"
+    },
+    "Type": 1,
+    "Title": "Show HN: Isopolis \u2013 Isometric pixel map of SF",
+    "Url": "https://sf.isopolis.city/",
+    "Description": "Show HN: Isopolis \u2013 Isometric pixel map of SF",
+    "Metadata": {
+      "score": "278",
+      "author": "nuwandavek",
+      "commentCount": "61"
+    },
+    "FetchedAt": "2026-08-03T14:21:08.8902529+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49115935"
+    },
+    "Type": 1,
+    "Title": "Train Simulator Controller",
+    "Url": "https://z80.me/blog/tsc-2026-july/",
+    "Description": "Train Simulator Controller",
+    "Metadata": {
+      "score": "46",
+      "author": "austinallegro",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-03T14:21:08.9120825+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49145193"
+    },
+    "Type": 1,
+    "Title": "Finding zombies in our systems: A real-world story of CPU bottlenecks",
+    "Url": "https://medium.com/pinterest-engineering/finding-zombies-in-our-systems-a-real-world-story-of-cpu-bottlenecks-ea4722e552eb",
+    "Description": "Finding zombies in our systems: A real-world story of CPU bottlenecks",
+    "Metadata": {
+      "score": "3",
+      "author": "fagnerbrack",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-03T14:21:08.9337156+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49147907"
+    },
+    "Type": 1,
+    "Title": "Games at the press of a button: The Rip-O-Bot (1989)",
+    "Url": "https://blog.gingerbeardman.com/2026/08/02/games-at-the-press-of-a-button-the-rip-o-bot/",
+    "Description": "Games at the press of a button: The Rip-O-Bot (1989)",
+    "Metadata": {
+      "score": "4",
+      "author": "msephton",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-03T14:21:08.9551087+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49114146"
+    },
+    "Type": 1,
+    "Title": "Characterizing Warp Divergence from Pascal to Blackwell",
+    "Url": "https://arxiv.org/abs/2607.23402",
+    "Description": "Characterizing Warp Divergence from Pascal to Blackwell",
+    "Metadata": {
+      "score": "15",
+      "author": "matt_d",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-03T14:21:08.9778706+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49155492"
+    },
+    "Type": 1,
+    "Title": "Ask HN: What are the viable alternatives to DuckDuckGo?",
+    "Url": "https://news.ycombinator.com/item?id=49155492",
+    "Description": "More than 10 years ago I dropped Google Search because my searches were enshitified and bubble wrapped and quotes stop to matter so it became impossible to escape the bubble.\u003Cp\u003EAs the saying goes, it happened before and will happen again : it now the turn of DuckDuckGo to enshitify my searches by bubblification and ignoring quotes.\u003Cp\u003EAlso, not interested in IA chatbot, I prefer multiple sources and to cross-check the information myself, thank you.\u003Cp\u003EWhat alternatives are you using \u0026#x2F; recomme",
+    "Metadata": {
+      "score": "9",
+      "author": "ldng",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-08-03T14:21:08.9997223+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49153029"
+    },
+    "Type": 1,
+    "Title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+    "Url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+    "Description": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+    "Metadata": {
+      "score": "17",
+      "author": "mohamed_am83",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-08-03T14:21:09.0213661+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49152871"
+    },
+    "Type": 1,
+    "Title": "Show HN: We Fixed UniFi\u0027s Slow PPPoE Performance with PPPoE Half-Bridge",
+    "Url": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
+    "Description": "Show HN: We Fixed UniFi\u0027s Slow PPPoE Performance with PPPoE Half-Bridge",
+    "Metadata": {
+      "score": "42",
+      "author": "uneven9434",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-08-03T14:21:09.0436022+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49154249"
+    },
+    "Type": 1,
+    "Title": "9front \u0022This Was Supposed to Be Fun\u0022 Released",
+    "Url": "https://9front.org/releases/2026/08/02/0/",
+    "Description": "9front \u0022This Was Supposed to Be Fun\u0022 Released",
+    "Metadata": {
+      "score": "56",
+      "author": "birdculture",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-08-03T14:21:09.0652118+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49125065"
+    },
+    "Type": 1,
+    "Title": "Why we write our own C and C\u002B\u002B inference engines",
+    "Url": "https://localai.io/blog/why-we-write-our-own-engines/",
+    "Description": "Why we write our own C and C\u002B\u002B inference engines",
+    "Metadata": {
+      "score": "89",
+      "author": "eatonphil",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-08-03T14:21:09.0865154+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49149805"
+    },
+    "Type": 1,
+    "Title": "Show HN: ssh ssh.place",
+    "Url": "https://ssh.place",
+    "Description": "Show HN: ssh ssh.place",
+    "Metadata": {
+      "score": "151",
+      "author": "jeninh",
+      "commentCount": "85"
+    },
+    "FetchedAt": "2026-08-03T14:21:09.1105079+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49151871"
+    },
+    "Type": 1,
+    "Title": "Situational Awareness and the Impending Stock Market Volatility",
+    "Url": "https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/",
+    "Description": "Situational Awareness and the Impending Stock Market Volatility",
+    "Metadata": {
+      "score": "45",
+      "author": "cl42",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-08-03T14:21:09.1324704+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49149898"
+    },
+    "Type": 1,
+    "Title": "CP/M-386 \u2013 CP/M for 386 protected mode, derived from CP/M\u201168K",
+    "Url": "https://github.com/johnsonjh/cpm386",
+    "Description": "CP/M-386 \u2013 CP/M for 386 protected mode, derived from CP/M\u201168K",
+    "Metadata": {
+      "score": "87",
+      "author": "TMWNN",
+      "commentCount": "41"
+    },
+    "FetchedAt": "2026-08-03T14:21:09.1540893+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49147263"
+    },
+    "Type": 1,
+    "Title": "SwiftUI After 7 Years",
+    "Url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
+    "Description": "SwiftUI After 7 Years",
+    "Metadata": {
+      "score": "228",
+      "author": "mpweiher",
+      "commentCount": "227"
+    },
+    "FetchedAt": "2026-08-03T14:21:09.1747892+00:00"
   }
 ]
