@@ -391,21 +391,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49166386"
-    },
-    "Type": 1,
-    "Title": "DeepSeek V4 Flash on a Single AMD MI300X",
-    "Url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-    "Description": "DeepSeek V4 Flash on a Single AMD MI300X",
-    "Metadata": {
-      "score": "155",
-      "author": "zhoutong",
-      "commentCount": "38"
-    },
-    "FetchedAt": "2026-08-04T13:52:09.544229+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49166491"
     },
     "Type": 1,
@@ -421,21 +406,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49167448"
-    },
-    "Type": 1,
-    "Title": "Xbox goes down. You can\u0027t play games you own on disc",
-    "Url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-    "Description": "Xbox goes down. You can\u0027t play games you own on disc",
-    "Metadata": {
-      "score": "152",
-      "author": "surprisetalk",
-      "commentCount": "149"
-    },
-    "FetchedAt": "2026-08-04T13:52:09.6277228+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49161518"
     },
     "Type": 1,
@@ -448,36 +418,6 @@
       "commentCount": "468"
     },
     "FetchedAt": "2026-08-04T13:52:09.6694628+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49167147"
-    },
-    "Type": 1,
-    "Title": "Buckminster Fuller: everything I know",
-    "Url": "https://www.bfi.org/about-fuller/everything-i-know/",
-    "Description": "Buckminster Fuller: everything I know",
-    "Metadata": {
-      "score": "41",
-      "author": "simonebrunozzi",
-      "commentCount": "14"
-    },
-    "FetchedAt": "2026-08-04T13:52:09.7122233+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49164896"
-    },
-    "Type": 1,
-    "Title": "Harness Engineering for Self-Improvement",
-    "Url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-    "Description": "Harness Engineering for Self-Improvement",
-    "Metadata": {
-      "score": "138",
-      "author": "tosh",
-      "commentCount": "25"
-    },
-    "FetchedAt": "2026-08-04T13:52:09.7538474+00:00"
   },
   {
     "ExternalId": {
@@ -538,21 +478,6 @@
       "commentCount": "0"
     },
     "FetchedAt": "2026-08-04T13:52:09.9219696+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49166874"
-    },
-    "Type": 1,
-    "Title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-    "Url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-    "Description": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-    "Metadata": {
-      "score": "39",
-      "author": "cimi_",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-08-04T13:52:09.9642792+00:00"
   },
   {
     "ExternalId": {
@@ -658,36 +583,6 @@
       "commentCount": "1"
     },
     "FetchedAt": "2026-08-04T13:52:10.2622336+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49162653"
-    },
-    "Type": 1,
-    "Title": "There Will Come Soft Rains (1950) [pdf]",
-    "Url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-    "Description": "There Will Come Soft Rains (1950) [pdf]",
-    "Metadata": {
-      "score": "231",
-      "author": "pmg101",
-      "commentCount": "79"
-    },
-    "FetchedAt": "2026-08-04T13:52:10.3042488+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49166918"
-    },
-    "Type": 1,
-    "Title": "Nobel Disease",
-    "Url": "https://en.wikipedia.org/wiki/Nobel_disease",
-    "Description": "Nobel Disease",
-    "Metadata": {
-      "score": "46",
-      "author": "num42",
-      "commentCount": "34"
-    },
-    "FetchedAt": "2026-08-04T13:52:10.3456431+00:00"
   },
   {
     "ExternalId": {
@@ -838,5 +733,455 @@
       "commentCount": "25"
     },
     "FetchedAt": "2026-08-04T13:52:10.7850292+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49172550"
+    },
+    "Type": 1,
+    "Title": "Why some people mow a lawn better than others",
+    "Url": "https://pudding.cool/2026/06/mow/",
+    "Description": "Why some people mow a lawn better than others",
+    "Metadata": {
+      "score": "48",
+      "author": "carlos-menezes",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.3233785+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49170165"
+    },
+    "Type": 1,
+    "Title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+    "Url": "https://toneyalexander.github.io/inclusive-color-space/",
+    "Description": "Hello HN!\u003Cp\u003EI found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it easy.\u003Cp\u003EI\u0026#x27;ve built a color picker and procedural generation algorithm based on the space as well as a bunch of other fun js features and demos throughout the page that use the equations. If you find it interesting, I have lots of explanations of how I built it and what pro",
+    "Metadata": {
+      "score": "289",
+      "author": "automatoney",
+      "commentCount": "68"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.3564211+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49172405"
+    },
+    "Type": 1,
+    "Title": "Hop.earth \u2013 OpenStreetMap based car racing game",
+    "Url": "https://hop.earth/?server=lkhr7\u0026route=fQ5nuu9R",
+    "Description": "Hop.earth \u2013 OpenStreetMap based car racing game",
+    "Metadata": {
+      "score": "28",
+      "author": "faebi",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.370332+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49171766"
+    },
+    "Type": 1,
+    "Title": "The Warp Agent CLI",
+    "Url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
+    "Description": "The Warp Agent CLI",
+    "Metadata": {
+      "score": "48",
+      "author": "emschwartz",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.3837025+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49171268"
+    },
+    "Type": 1,
+    "Title": "Mistral\u0027s Shieldstral: 3B open-weights model for multimodal moderation",
+    "Url": "https://mistral.ai/news/shieldstral/",
+    "Description": "Mistral\u0027s Shieldstral: 3B open-weights model for multimodal moderation",
+    "Metadata": {
+      "score": "43",
+      "author": "riadsila",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.3974849+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49172836"
+    },
+    "Type": 1,
+    "Title": "Waymo \u2013 Dallas Open to All",
+    "Url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+    "Description": "Waymo \u2013 Dallas Open to All",
+    "Metadata": {
+      "score": "12",
+      "author": "xnx",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.4112573+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49166386"
+    },
+    "Type": 1,
+    "Title": "DeepSeek V4 Flash on a Single AMD MI300X",
+    "Url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+    "Description": "DeepSeek V4 Flash on a Single AMD MI300X",
+    "Metadata": {
+      "score": "317",
+      "author": "zhoutong",
+      "commentCount": "73"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.4247365+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49172936"
+    },
+    "Type": 1,
+    "Title": "Launch HN: EdotEnv (YC S26) \u2013 Quant Trading RL Envs to Teach LLMs Research",
+    "Url": "https://edotenv.com/",
+    "Description": "We are Rui and Michael and we\u2019re building EdotEnv (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;edotenv.com\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;edotenv.com\u003C/a\u003E): self-improving RL environments from Quant Trading workflows.\u003Cp\u003EWith all the benchmaxxing around, evals saturate and become meaningless for model comparison. Useful benchmarks should increase in difficulty as models advance. Back in our Quant jobs, Michael and I saw that the market has exactly this property: markets became more efficient as people profited ",
+    "Metadata": {
+      "score": "9",
+      "author": "Mzzzzz",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.4390361+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49172251"
+    },
+    "Type": 1,
+    "Title": "Vlt 1.0 and Hosted Package Registries",
+    "Url": "https://www.vlt.io/blog/1-0",
+    "Description": "Vlt 1.0 and Hosted Package Registries",
+    "Metadata": {
+      "score": "32",
+      "author": "patrikcsak",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.4525052+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49170915"
+    },
+    "Type": 1,
+    "Title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+    "Url": "https://arxiv.org/abs/2602.16763",
+    "Description": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+    "Metadata": {
+      "score": "37",
+      "author": "doppp",
+      "commentCount": "52"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.4669018+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49171650"
+    },
+    "Type": 1,
+    "Title": "Truemetrics (YC S23) Is Hiring in Berlin \u2013 GTM Lead",
+    "Url": "https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead",
+    "Description": "Truemetrics (YC S23) Is Hiring in Berlin \u2013 GTM Lead",
+    "Metadata": {
+      "score": "1",
+      "author": "truemetricsIngo",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.4800155+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49173576"
+    },
+    "Type": 1,
+    "Title": "Investors in Situational Awareness deserved to lose their shirts",
+    "Url": "https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts",
+    "Description": "Investors in Situational Awareness deserved to lose their shirts",
+    "Metadata": {
+      "score": "3",
+      "author": "Anon84",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.4944447+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49166860"
+    },
+    "Type": 1,
+    "Title": "U.S. used \u0027virtually all\u0027 of its long-range precision missiles during Iran war",
+    "Url": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
+    "Description": "U.S. used \u0027virtually all\u0027 of its long-range precision missiles during Iran war",
+    "Metadata": {
+      "score": "166",
+      "author": "tcp_handshaker",
+      "commentCount": "243"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.5075025+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49172834"
+    },
+    "Type": 1,
+    "Title": "Web security is too hard",
+    "Url": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
+    "Description": "Web security is too hard",
+    "Metadata": {
+      "score": "84",
+      "author": "kevincox",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.5209718+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49170479"
+    },
+    "Type": 1,
+    "Title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "Url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+    "Description": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "Metadata": {
+      "score": "212",
+      "author": "thewebguyd",
+      "commentCount": "154"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.5340212+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49166874"
+    },
+    "Type": 1,
+    "Title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+    "Url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+    "Description": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+    "Metadata": {
+      "score": "192",
+      "author": "cimi_",
+      "commentCount": "98"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.5478274+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49167448"
+    },
+    "Type": 1,
+    "Title": "Xbox goes down. You can\u0027t play games you own on disc",
+    "Url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+    "Description": "Xbox goes down. You can\u0027t play games you own on disc",
+    "Metadata": {
+      "score": "455",
+      "author": "surprisetalk",
+      "commentCount": "514"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.5620832+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49172597"
+    },
+    "Type": 1,
+    "Title": "Blackmail Fail (2013)",
+    "Url": "https://gwern.net/blackmail",
+    "Description": "Blackmail Fail (2013)",
+    "Metadata": {
+      "score": "8",
+      "author": "simonebrunozzi",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.5774681+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49170859"
+    },
+    "Type": 1,
+    "Title": "Most countries provide between 20 and 40 paid days off",
+    "Url": "https://www.not-ship.com/not-ship-summer-vacation/",
+    "Description": "Most countries provide between 20 and 40 paid days off",
+    "Metadata": {
+      "score": "48",
+      "author": "speckx",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.5915288+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49155622"
+    },
+    "Type": 1,
+    "Title": "The Red Strings Club",
+    "Url": "https://www.vegard.net/the-red-strings-club-review/",
+    "Description": "The Red Strings Club",
+    "Metadata": {
+      "score": "4",
+      "author": "meysamazad",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.6044037+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49170508"
+    },
+    "Type": 1,
+    "Title": "Perspec 1.0",
+    "Url": "https://adriansieber.com/announcing-perspec-1-0/",
+    "Description": "Perspec 1.0",
+    "Metadata": {
+      "score": "23",
+      "author": "surprisetalk",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.6171611+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49136363"
+    },
+    "Type": 1,
+    "Title": "Dates That Don\u0027t Exist (2015)",
+    "Url": "https://blog.yossarian.net/2015/06/09/Dates-That-Dont-Exist",
+    "Description": "Dates That Don\u0027t Exist (2015)",
+    "Metadata": {
+      "score": "86",
+      "author": "EndXA",
+      "commentCount": "56"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.6312463+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49167147"
+    },
+    "Type": 1,
+    "Title": "Everything I Know (1975)",
+    "Url": "https://www.bfi.org/about-fuller/everything-i-know/",
+    "Description": "Everything I Know (1975)",
+    "Metadata": {
+      "score": "107",
+      "author": "simonebrunozzi",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.6450785+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49170001"
+    },
+    "Type": 1,
+    "Title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
+    "Url": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
+    "Description": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
+    "Metadata": {
+      "score": "157",
+      "author": "speckx",
+      "commentCount": "51"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.6580416+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49164896"
+    },
+    "Type": 1,
+    "Title": "Harness engineering for self-improvement",
+    "Url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+    "Description": "Harness engineering for self-improvement",
+    "Metadata": {
+      "score": "255",
+      "author": "tosh",
+      "commentCount": "55"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.6715977+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49162653"
+    },
+    "Type": 1,
+    "Title": "There Will Come Soft Rains (1950) [pdf]",
+    "Url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+    "Description": "There Will Come Soft Rains (1950) [pdf]",
+    "Metadata": {
+      "score": "298",
+      "author": "pmg101",
+      "commentCount": "335"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.6853628+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49104534"
+    },
+    "Type": 1,
+    "Title": "The Pedagogy Behind the Studio",
+    "Url": "https://gail.wharton.upenn.edu/gen-ai-studio/the-generative-ai-studio-pedagogy/",
+    "Description": "The Pedagogy Behind the Studio",
+    "Metadata": {
+      "score": "5",
+      "author": "ray__",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.6998931+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49171068"
+    },
+    "Type": 1,
+    "Title": "MariaDB: Promote getting to 10k GitHub stars in server log and client prompt",
+    "Url": "https://github.com/MariaDB/server/pull/4262",
+    "Description": "MariaDB: Promote getting to 10k GitHub stars in server log and client prompt",
+    "Metadata": {
+      "score": "18",
+      "author": "petecooper",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.7134814+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49124291"
+    },
+    "Type": 1,
+    "Title": "Where .env Went Wrong",
+    "Url": "https://secretspec.dev/blog/where-env-went-wrong/",
+    "Description": "Where .env Went Wrong",
+    "Metadata": {
+      "score": "75",
+      "author": "domenkozar",
+      "commentCount": "56"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.7270256+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49166918"
+    },
+    "Type": 1,
+    "Title": "Nobel Disease",
+    "Url": "https://en.wikipedia.org/wiki/Nobel_disease",
+    "Description": "Nobel Disease",
+    "Metadata": {
+      "score": "66",
+      "author": "num42",
+      "commentCount": "69"
+    },
+    "FetchedAt": "2026-08-04T19:20:39.7422637+00:00"
   }
 ]

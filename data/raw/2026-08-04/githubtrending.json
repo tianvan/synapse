@@ -128,9 +128,10 @@
       "owner": "TencentCloud",
       "repo": "TencentDB-Agent-Memory",
       "language": "TypeScript",
-      "stars": "1,138"
+      "stars": "1,138",
+      "topics": "agent, ai-agent, embedding, llm, local-first, long-term-memory, memory, openclaw-plugin, vector-search"
     },
-    "FetchedAt": "2026-08-04T13:52:08.2924503+00:00"
+    "FetchedAt": "2026-08-04T19:20:36.6402065+00:00"
   },
   {
     "ExternalId": {
@@ -139,14 +140,14 @@
     "Type": 0,
     "Title": "zhaoxuya520/reverse-skill",
     "Url": "https://github.com/zhaoxuya520/reverse-skill",
-    "Description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing \u002B On-demand toolchain bootstrapping \u002B Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients \u9006\u5411/\u6E17\u900F/\u5B89\u5168\u6280\u80FD\u8DEF\u7531\u5305 - AI \u81EA\u52A8\u8DEF\u7531 \u002B \u6309\u9700\u81EA\u4E3E\u5DE5\u5177\u94FE \u002B \u81EA\u52A8\u8FDB\u5316\u7ECF\u9A8C\u5E93 | \u652F\u6301 Claude Code / Kiro / Cursor / Cline \u7B49\u4EE3\u7801 AI \u5BA2\u6237\u7AEF",
+    "Description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing \u002B On-demand toolchain bootstrapping \u002B Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients \u9006\u5411/\u6E17\u900F/\u5B89\u5168\u6280\u80FD\u8DEF\u7531\u5305 - AI \u81EA\u52A8\u8DEF\u7531 \u002B \u6309\u9700\u81EA\u4E3E\u5DE5\u5177\u94FE \u002B \u81EA\u52A8\u8FDB\u5316\u7ECF\u9A8C\u5E93 | \u652F\u6301 Claude Code / Kiro / Cursor / Cline \u7B49\u4EE3\u7801 AI \u5BA2\u6237\u7AEF",
     "Metadata": {
       "owner": "zhaoxuya520",
       "repo": "reverse-skill",
       "language": "PowerShell",
       "stars": "2,310"
     },
-    "FetchedAt": "2026-08-04T13:52:08.4795972+00:00"
+    "FetchedAt": "2026-08-04T19:20:36.8780611+00:00"
   },
   {
     "ExternalId": {
@@ -160,9 +161,10 @@
       "owner": "firecrawl",
       "repo": "pdf-inspector",
       "language": "Rust",
-      "stars": "2,524"
+      "stars": "2,524",
+      "topics": "markdown, nodejs, ocr-routing, pdf, pdf-classification, pdf-extraction, pdf-parser, python, rust, text-extraction"
     },
-    "FetchedAt": "2026-08-04T13:52:08.5382158+00:00"
+    "FetchedAt": "2026-08-04T19:20:37.0549574+00:00"
   },
   {
     "ExternalId": {
@@ -176,9 +178,10 @@
       "owner": "uber",
       "repo": "ADR",
       "language": "Python",
-      "stars": "140"
+      "stars": "140",
+      "topics": "agent-security, ai-agents, ai-security, benchmark, claude, claude-code, codex, cursor, llm-security, mcp, model-context-protocol, prompt-injection, threat-detection"
     },
-    "FetchedAt": "2026-08-04T13:52:08.596737+00:00"
+    "FetchedAt": "2026-08-04T19:20:37.1939894+00:00"
   },
   {
     "ExternalId": {
@@ -187,14 +190,15 @@
     "Type": 0,
     "Title": "microsoft/generative-ai-for-beginners",
     "Url": "https://github.com/microsoft/generative-ai-for-beginners",
-    "Description": "21 Lessons, Get Started Building with Generative AI",
+    "Description": "21 Lessons, Get Started Building with Generative AI ",
     "Metadata": {
       "owner": "microsoft",
       "repo": "generative-ai-for-beginners",
       "language": "Jupyter Notebook",
-      "stars": "784"
+      "stars": "784",
+      "topics": "ai, azure, chatgpt, dall-e, generative-ai, generativeai, gpt, language-model, llms, microsoft-for-beginners, openai, prompt-engineering, semantic-search, transformers"
     },
-    "FetchedAt": "2026-08-04T13:52:08.655694+00:00"
+    "FetchedAt": "2026-08-04T19:20:37.3493789+00:00"
   },
   {
     "ExternalId": {
@@ -208,9 +212,10 @@
       "owner": "cypress-io",
       "repo": "cypress",
       "language": "TypeScript",
-      "stars": "6"
+      "stars": "6",
+      "topics": "angular-testing-library, component-testing, cypress, cypress-cloud, cypress-schematic, end-to-end-testing, react-testing-library, svelte-testing-library, test-replay, testing-framework, testing-library, testing-tool, vue-testing-library"
     },
-    "FetchedAt": "2026-08-04T13:52:08.7132739+00:00"
+    "FetchedAt": "2026-08-04T19:20:37.5041096+00:00"
   },
   {
     "ExternalId": {
@@ -224,9 +229,10 @@
       "owner": "webpack",
       "repo": "webpack",
       "language": "JavaScript",
-      "stars": "8"
+      "stars": "8",
+      "topics": "amd, build-tool, commonjs, compiler, es2015, es6, esm, javascript, javascript-compiler, javascript-modules, loaders, module-bundler, plugins, web, web-performance, webpack"
     },
-    "FetchedAt": "2026-08-04T13:52:08.7715682+00:00"
+    "FetchedAt": "2026-08-04T19:20:37.6536515+00:00"
   },
   {
     "ExternalId": {
@@ -240,9 +246,10 @@
       "owner": "gabime",
       "repo": "spdlog",
       "language": "C\u002B\u002B",
-      "stars": "9"
+      "stars": "9",
+      "topics": "cpp, cpp11, header-only, logging, spdlog"
     },
-    "FetchedAt": "2026-08-04T13:52:08.829489+00:00"
+    "FetchedAt": "2026-08-04T19:20:37.8146778+00:00"
   },
   {
     "ExternalId": {
@@ -256,9 +263,10 @@
       "owner": "denoland",
       "repo": "deno",
       "language": "Rust",
-      "stars": "27"
+      "stars": "27",
+      "topics": "deno, javascript, rust, typescript"
     },
-    "FetchedAt": "2026-08-04T13:52:08.887343+00:00"
+    "FetchedAt": "2026-08-04T19:20:37.9456232+00:00"
   },
   {
     "ExternalId": {
@@ -267,14 +275,15 @@
     "Type": 0,
     "Title": "livekit/agents",
     "Url": "https://github.com/livekit/agents",
-    "Description": "A framework for building realtime voice AI agents \uD83E\uDD16\uD83C\uDF99\uFE0F\uD83D\uDCF9",
+    "Description": "A framework for building realtime voice AI agents \uD83E\uDD16\uD83C\uDF99\uFE0F\uD83D\uDCF9 ",
     "Metadata": {
       "owner": "livekit",
       "repo": "agents",
       "language": "Python",
-      "stars": "432"
+      "stars": "432",
+      "topics": "agents, ai, openai, real-time, video, voice"
     },
-    "FetchedAt": "2026-08-04T13:52:08.9499796+00:00"
+    "FetchedAt": "2026-08-04T19:20:38.0899552+00:00"
   },
   {
     "ExternalId": {
@@ -288,9 +297,10 @@
       "owner": "angular",
       "repo": "angular",
       "language": "TypeScript",
-      "stars": "8"
+      "stars": "8",
+      "topics": "angular, javascript, pwa, typescript, web, web-framework, web-performance"
     },
-    "FetchedAt": "2026-08-04T13:52:09.0094985+00:00"
+    "FetchedAt": "2026-08-04T19:20:38.2930996+00:00"
   },
   {
     "ExternalId": {
@@ -304,9 +314,10 @@
       "owner": "tailwindlabs",
       "repo": "tailwindcss",
       "language": "TypeScript",
-      "stars": "30"
+      "stars": "30",
+      "topics": "css, css-framework, functional-css, postcss, responsive, tailwindcss, utility-classes"
     },
-    "FetchedAt": "2026-08-04T13:52:09.0690582+00:00"
+    "FetchedAt": "2026-08-04T19:20:38.4575823+00:00"
   },
   {
     "ExternalId": {
@@ -322,7 +333,7 @@
       "language": "Python",
       "stars": "306"
     },
-    "FetchedAt": "2026-08-04T13:52:09.1284824+00:00"
+    "FetchedAt": "2026-08-04T19:20:38.6787697+00:00"
   },
   {
     "ExternalId": {
@@ -336,9 +347,10 @@
       "owner": "esengine",
       "repo": "DeepSeek-Reasonix",
       "language": "Go",
-      "stars": "924"
+      "stars": "924",
+      "topics": "agent, agent-framework, ai-agent, ai-coding, cli, coding-agent, deepseek, developer-tools, ink, llm, prompt-caching, r1, terminal, tool-use, tui, typescript"
     },
-    "FetchedAt": "2026-08-04T13:52:09.188289+00:00"
+    "FetchedAt": "2026-08-04T19:20:38.8569057+00:00"
   },
   {
     "ExternalId": {
@@ -352,8 +364,9 @@
       "owner": "EveryInc",
       "repo": "compound-engineering-plugin",
       "language": "TypeScript",
-      "stars": "33"
+      "stars": "33",
+      "topics": "compound, engineering"
     },
-    "FetchedAt": "2026-08-04T13:52:09.2469163+00:00"
+    "FetchedAt": "2026-08-04T19:20:39.0004887+00:00"
   }
 ]
