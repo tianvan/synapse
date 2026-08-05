@@ -1,23 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:TencentCloud/TencentDB-Agent-Memory"
-    },
-    "Type": 0,
-    "Title": "TencentCloud/TencentDB-Agent-Memory",
-    "Url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-    "Description": "TencentDB Agent Memory is a team-level memory hub for AI Agents \u2014 turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-    "Metadata": {
-      "owner": "TencentCloud",
-      "repo": "TencentDB-Agent-Memory",
-      "language": "TypeScript",
-      "stars": "1,111",
-      "topics": "agent, ai-agent, embedding, llm, local-first, long-term-memory, memory, openclaw-plugin, vector-search"
-    },
-    "FetchedAt": "2026-08-05T08:22:48.202721+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:zhaoxuya520/reverse-skill"
     },
     "Type": 0,
@@ -31,40 +14,6 @@
       "stars": "2,297"
     },
     "FetchedAt": "2026-08-05T08:22:48.3846887+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:firecrawl/pdf-inspector"
-    },
-    "Type": 0,
-    "Title": "firecrawl/pdf-inspector",
-    "Url": "https://github.com/firecrawl/pdf-inspector",
-    "Description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-    "Metadata": {
-      "owner": "firecrawl",
-      "repo": "pdf-inspector",
-      "language": "Rust",
-      "stars": "2,540",
-      "topics": "markdown, nodejs, ocr-routing, pdf, pdf-classification, pdf-extraction, pdf-parser, python, rust, text-extraction"
-    },
-    "FetchedAt": "2026-08-05T08:22:48.501774+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:uber/ADR"
-    },
-    "Type": 0,
-    "Title": "uber/ADR",
-    "Url": "https://github.com/uber/ADR",
-    "Description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
-    "Metadata": {
-      "owner": "uber",
-      "repo": "ADR",
-      "language": "Python",
-      "stars": "148",
-      "topics": "agent-security, ai-agents, ai-security, benchmark, claude, claude-code, codex, cursor, llm-security, mcp, model-context-protocol, prompt-injection, threat-detection"
-    },
-    "FetchedAt": "2026-08-05T08:22:48.6557915+00:00"
   },
   {
     "ExternalId": {
@@ -187,23 +136,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:tailwindlabs/tailwindcss"
-    },
-    "Type": 0,
-    "Title": "tailwindlabs/tailwindcss",
-    "Url": "https://github.com/tailwindlabs/tailwindcss",
-    "Description": "A utility-first CSS framework for rapid UI development.",
-    "Metadata": {
-      "owner": "tailwindlabs",
-      "repo": "tailwindcss",
-      "language": "TypeScript",
-      "stars": "52",
-      "topics": "css, css-framework, functional-css, postcss, responsive, tailwindcss, utility-classes"
-    },
-    "FetchedAt": "2026-08-05T08:22:49.7692714+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:browser-use/video-use"
     },
     "Type": 0,
@@ -217,23 +149,6 @@
       "stars": "320"
     },
     "FetchedAt": "2026-08-05T08:22:49.9391478+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:esengine/DeepSeek-Reasonix"
-    },
-    "Type": 0,
-    "Title": "esengine/DeepSeek-Reasonix",
-    "Url": "https://github.com/esengine/DeepSeek-Reasonix",
-    "Description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "Metadata": {
-      "owner": "esengine",
-      "repo": "DeepSeek-Reasonix",
-      "language": "Go",
-      "stars": "922",
-      "topics": "agent, agent-framework, ai-agent, ai-coding, cli, coding-agent, deepseek, developer-tools, ink, llm, prompt-caching, r1, terminal, tool-use, tui, typescript"
-    },
-    "FetchedAt": "2026-08-05T08:22:50.1041476+00:00"
   },
   {
     "ExternalId": {
@@ -251,5 +166,191 @@
       "topics": "compound, engineering"
     },
     "FetchedAt": "2026-08-05T08:22:50.227817+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cloudflare/computer"
+    },
+    "Type": 0,
+    "Title": "cloudflare/computer",
+    "Url": "https://github.com/cloudflare/computer",
+    "Description": "Give your agent a computer \uD83D\uDC7E",
+    "Metadata": {
+      "owner": "cloudflare",
+      "repo": "computer",
+      "language": "TypeScript",
+      "stars": "796"
+    },
+    "FetchedAt": "2026-08-05T13:48:18.0630407+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:huangruiteng/loopx"
+    },
+    "Type": 0,
+    "Title": "huangruiteng/loopx",
+    "Url": "https://github.com/huangruiteng/loopx",
+    "Description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+    "Metadata": {
+      "owner": "huangruiteng",
+      "repo": "loopx",
+      "language": "Python",
+      "stars": "327",
+      "topics": "agent-control-plane, agent-ops, ai-agents, codex, long-running-agents, loop-engineering, loopx, workflow-automation"
+    },
+    "FetchedAt": "2026-08-05T13:48:18.527936+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:TencentCloud/TencentDB-Agent-Memory"
+    },
+    "Type": 0,
+    "Title": "TencentCloud/TencentDB-Agent-Memory",
+    "Url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "Description": "TencentDB Agent Memory is a team-level memory hub for AI Agents \u2014 turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+    "Metadata": {
+      "owner": "TencentCloud",
+      "repo": "TencentDB-Agent-Memory",
+      "language": "TypeScript",
+      "stars": "1,891",
+      "topics": "agent, ai-agent, embedding, llm, local-first, long-term-memory, memory, openclaw-plugin, vector-search"
+    },
+    "FetchedAt": "2026-08-05T13:48:18.6594069+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:donnemartin/system-design-primer"
+    },
+    "Type": 0,
+    "Title": "donnemartin/system-design-primer",
+    "Url": "https://github.com/donnemartin/system-design-primer",
+    "Description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+    "Metadata": {
+      "owner": "donnemartin",
+      "repo": "system-design-primer",
+      "language": "Python",
+      "stars": "304",
+      "topics": "design, design-patterns, design-system, development, interview, interview-practice, interview-questions, programming, python, system, web, web-application, webapp"
+    },
+    "FetchedAt": "2026-08-05T13:48:18.8036227+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:firecrawl/pdf-inspector"
+    },
+    "Type": 0,
+    "Title": "firecrawl/pdf-inspector",
+    "Url": "https://github.com/firecrawl/pdf-inspector",
+    "Description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+    "Metadata": {
+      "owner": "firecrawl",
+      "repo": "pdf-inspector",
+      "language": "Rust",
+      "stars": "1,583",
+      "topics": "markdown, nodejs, ocr-routing, pdf, pdf-classification, pdf-extraction, pdf-parser, python, rust, text-extraction"
+    },
+    "FetchedAt": "2026-08-05T13:48:18.916146+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:esengine/DeepSeek-Reasonix"
+    },
+    "Type": 0,
+    "Title": "esengine/DeepSeek-Reasonix",
+    "Url": "https://github.com/esengine/DeepSeek-Reasonix",
+    "Description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "Metadata": {
+      "owner": "esengine",
+      "repo": "DeepSeek-Reasonix",
+      "language": "Go",
+      "stars": "747",
+      "topics": "agent, agent-framework, ai-agent, ai-coding, cli, coding-agent, deepseek, developer-tools, ink, llm, prompt-caching, r1, terminal, tool-use, tui, typescript"
+    },
+    "FetchedAt": "2026-08-05T13:48:19.0638559+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "JavaScript",
+      "stars": "203",
+      "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
+    },
+    "FetchedAt": "2026-08-05T13:48:19.1842068+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:roboflow/supervision"
+    },
+    "Type": 0,
+    "Title": "roboflow/supervision",
+    "Url": "https://github.com/roboflow/supervision",
+    "Description": "We write your reusable computer vision tools. \uD83D\uDC9C",
+    "Metadata": {
+      "owner": "roboflow",
+      "repo": "supervision",
+      "language": "Python",
+      "stars": "132",
+      "topics": "classification, coco, computer-vision, deep-learning, hacktoberfest, image-processing, instance-segmentation, low-code, machine-learning, metrics, object-detection, oriented-bounding-box, pascal-voc, python, pytorch, tensorflow, tracking, video-processing, yolo"
+    },
+    "FetchedAt": "2026-08-05T13:48:19.3906341+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:vercel/next.js"
+    },
+    "Type": 0,
+    "Title": "vercel/next.js",
+    "Url": "https://github.com/vercel/next.js",
+    "Description": "The React Framework",
+    "Metadata": {
+      "owner": "vercel",
+      "repo": "next.js",
+      "language": "JavaScript",
+      "stars": "58",
+      "topics": "blog, browser, compiler, components, hybrid, nextjs, node, react, server-rendering, ssg, static, static-site-generator, universal, vercel"
+    },
+    "FetchedAt": "2026-08-05T13:48:19.61457+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:tailwindlabs/tailwindcss"
+    },
+    "Type": 0,
+    "Title": "tailwindlabs/tailwindcss",
+    "Url": "https://github.com/tailwindlabs/tailwindcss",
+    "Description": "A utility-first CSS framework for rapid UI development.",
+    "Metadata": {
+      "owner": "tailwindlabs",
+      "repo": "tailwindcss",
+      "language": "TypeScript",
+      "stars": "408",
+      "topics": "css, css-framework, functional-css, postcss, responsive, tailwindcss, utility-classes"
+    },
+    "FetchedAt": "2026-08-05T13:48:19.7582099+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:uber/ADR"
+    },
+    "Type": 0,
+    "Title": "uber/ADR",
+    "Url": "https://github.com/uber/ADR",
+    "Description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+    "Metadata": {
+      "owner": "uber",
+      "repo": "ADR",
+      "language": "Python",
+      "stars": "354",
+      "topics": "agent-security, ai-agents, ai-security, benchmark, claude, claude-code, codex, cursor, llm-security, mcp, model-context-protocol, prompt-injection, threat-detection"
+    },
+    "FetchedAt": "2026-08-05T13:48:19.9000058+00:00"
   }
 ]

@@ -121,36 +121,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49131438"
-    },
-    "Type": 1,
-    "Title": "Stateless MCP has recaptured my interest",
-    "Url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-    "Description": "Stateless MCP has recaptured my interest",
-    "Metadata": {
-      "score": "156",
-      "author": "tosh",
-      "commentCount": "77"
-    },
-    "FetchedAt": "2026-08-05T08:22:50.5826207+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49105978"
-    },
-    "Type": 1,
-    "Title": "\u0022Gravity is worth asking about.\u0022",
-    "Url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
-    "Description": "\u0022Gravity is worth asking about.\u0022",
-    "Metadata": {
-      "score": "35",
-      "author": "nozzlegear",
-      "commentCount": "17"
-    },
-    "FetchedAt": "2026-08-05T08:22:50.6155129+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49172784"
     },
     "Type": 1,
@@ -163,156 +133,6 @@
       "commentCount": "35"
     },
     "FetchedAt": "2026-08-05T08:22:50.6476759+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49124273"
-    },
-    "Type": 1,
-    "Title": "The Pneumatics of Hero of Alexandria",
-    "Url": "https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html",
-    "Description": "The Pneumatics of Hero of Alexandria",
-    "Metadata": {
-      "score": "18",
-      "author": "gregsadetsky",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-08-05T08:22:50.680816+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49176038"
-    },
-    "Type": 1,
-    "Title": "Pi\u0027s Minimalism Is Its Advantage",
-    "Url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-    "Description": "Pi\u0027s Minimalism Is Its Advantage",
-    "Metadata": {
-      "score": "321",
-      "author": "luispa",
-      "commentCount": "125"
-    },
-    "FetchedAt": "2026-08-05T08:22:50.7128674+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49178608"
-    },
-    "Type": 1,
-    "Title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-    "Url": "https://arxiv.org/abs/2607.29377",
-    "Description": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-    "Metadata": {
-      "score": "27",
-      "author": "theanonymousone",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-08-05T08:22:50.7449905+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49171268"
-    },
-    "Type": 1,
-    "Title": "Mistral\u0027s Shieldstral: 3B open-weights model for multimodal moderation",
-    "Url": "https://mistral.ai/news/shieldstral/",
-    "Description": "Mistral\u0027s Shieldstral: 3B open-weights model for multimodal moderation",
-    "Metadata": {
-      "score": "394",
-      "author": "riadsila",
-      "commentCount": "97"
-    },
-    "FetchedAt": "2026-08-05T08:22:50.77748+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49170165"
-    },
-    "Type": 1,
-    "Title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-    "Url": "https://toneyalexander.github.io/inclusive-color-space/",
-    "Description": "Hello HN!\u003Cp\u003EI found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it easy.\u003Cp\u003EI\u0026#x27;ve built a color picker and procedural generation algorithm based on the space as well as a bunch of other fun js features and demos throughout the page that use the equations. If you find it interesting, I have lots of explanations of how I built it and what pro",
-    "Metadata": {
-      "score": "516",
-      "author": "automatoney",
-      "commentCount": "92"
-    },
-    "FetchedAt": "2026-08-05T08:22:50.8097242+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49176697"
-    },
-    "Type": 1,
-    "Title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
-    "Url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
-    "Description": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
-    "Metadata": {
-      "score": "97",
-      "author": "lapcat",
-      "commentCount": "14"
-    },
-    "FetchedAt": "2026-08-05T08:22:50.8418848+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49173984"
-    },
-    "Type": 1,
-    "Title": "Show HN: Maple-Preview \u2013 Ternary 20B MoE running at 120 tok/s on a iPhone",
-    "Url": "https://deepgrove.ai/maple-preview",
-    "Description": "Show HN: Maple-Preview \u2013 Ternary 20B MoE running at 120 tok/s on a iPhone",
-    "Metadata": {
-      "score": "105",
-      "author": "edwardbzhang",
-      "commentCount": "30"
-    },
-    "FetchedAt": "2026-08-05T08:22:50.8744793+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49173165"
-    },
-    "Type": 1,
-    "Title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-    "Url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-    "Description": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-    "Metadata": {
-      "score": "1302",
-      "author": "jdcampolargo",
-      "commentCount": "74"
-    },
-    "FetchedAt": "2026-08-05T08:22:50.9074693+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49175924"
-    },
-    "Type": 1,
-    "Title": "DuckDB \u2013 Data power tools for your laptop, now in Clojure (2023)",
-    "Url": "https://techascent.com/blog/just-ducking-around.html",
-    "Description": "DuckDB \u2013 Data power tools for your laptop, now in Clojure (2023)",
-    "Metadata": {
-      "score": "92",
-      "author": "sourdecor",
-      "commentCount": "15"
-    },
-    "FetchedAt": "2026-08-05T08:22:50.9403797+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49084236"
-    },
-    "Type": 1,
-    "Title": "Rio-vt and librio: Rio\u0027s terminal engine, now embeddable",
-    "Url": "https://rioterm.com/blog/2026/07/27/rio-vt-and-librio",
-    "Description": "Rio-vt and librio: Rio\u0027s terminal engine, now embeddable",
-    "Metadata": {
-      "score": "28",
-      "author": "vinhnx",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-08-05T08:22:50.9725896+00:00"
   },
   {
     "ExternalId": {
@@ -361,21 +181,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49176947"
-    },
-    "Type": 1,
-    "Title": "Bugtraq is back",
-    "Url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
-    "Description": "Bugtraq is back",
-    "Metadata": {
-      "score": "38",
-      "author": "bashtoni",
-      "commentCount": "9"
-    },
-    "FetchedAt": "2026-08-05T08:22:51.1008796+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49176606"
     },
     "Type": 1,
@@ -388,21 +193,6 @@
       "commentCount": "42"
     },
     "FetchedAt": "2026-08-05T08:22:51.1339284+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49176055"
-    },
-    "Type": 1,
-    "Title": "We finally learned to center a div, then browsers added sidebars",
-    "Url": "https://seg6.space/posts/center-div/",
-    "Description": "We finally learned to center a div, then browsers added sidebars",
-    "Metadata": {
-      "score": "120",
-      "author": "seg6",
-      "commentCount": "99"
-    },
-    "FetchedAt": "2026-08-05T08:22:51.1662006+00:00"
   },
   {
     "ExternalId": {
@@ -436,21 +226,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49162653"
-    },
-    "Type": 1,
-    "Title": "There Will Come Soft Rains (1950) [pdf]",
-    "Url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-    "Description": "There Will Come Soft Rains (1950) [pdf]",
-    "Metadata": {
-      "score": "377",
-      "author": "pmg101",
-      "commentCount": "399"
-    },
-    "FetchedAt": "2026-08-05T08:22:51.2622768+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49176983"
     },
     "Type": 1,
@@ -478,21 +253,6 @@
       "commentCount": "171"
     },
     "FetchedAt": "2026-08-05T08:22:51.3283161+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49178464"
-    },
-    "Type": 1,
-    "Title": "An SLM trained on $8 ESP32-S3",
-    "Url": "https://github.com/Carloscodix/qapla",
-    "Description": "An SLM trained on $8 ESP32-S3",
-    "Metadata": {
-      "score": "18",
-      "author": "pavelai",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-08-05T08:22:51.3615834+00:00"
   },
   {
     "ExternalId": {
@@ -568,5 +328,455 @@
       "commentCount": "665"
     },
     "FetchedAt": "2026-08-05T08:22:51.5257709+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49181083"
+    },
+    "Type": 1,
+    "Title": "Position: LLMs Can\u0027t Jump",
+    "Url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+    "Description": "Position: LLMs Can\u0027t Jump",
+    "Metadata": {
+      "score": "109",
+      "author": "theanonymousone",
+      "commentCount": "66"
+    },
+    "FetchedAt": "2026-08-05T13:48:20.2343604+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49181519"
+    },
+    "Type": 1,
+    "Title": "Why the Legendary Erd\u0151s Problems Are Falling to AI",
+    "Url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+    "Description": "Why the Legendary Erd\u0151s Problems Are Falling to AI",
+    "Metadata": {
+      "score": "34",
+      "author": "pseudolus",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-08-05T13:48:20.2701656+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49181099"
+    },
+    "Type": 1,
+    "Title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+    "Url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+    "Description": "Civilian plane crash in New Mexico tied to military GPS blocking",
+    "Metadata": {
+      "score": "199",
+      "author": "dzdt",
+      "commentCount": "88"
+    },
+    "FetchedAt": "2026-08-05T13:48:20.2976027+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49131438"
+    },
+    "Type": 1,
+    "Title": "Stateless MCP has recaptured my interest",
+    "Url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+    "Description": "Stateless MCP has recaptured my interest",
+    "Metadata": {
+      "score": "307",
+      "author": "tosh",
+      "commentCount": "166"
+    },
+    "FetchedAt": "2026-08-05T13:48:20.3265869+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49112023"
+    },
+    "Type": 1,
+    "Title": "Scaling NumPy on Free-Threaded Python",
+    "Url": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
+    "Description": "Scaling NumPy on Free-Threaded Python",
+    "Metadata": {
+      "score": "45",
+      "author": "ngoldbaum",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-08-05T13:48:20.3545116+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49182041"
+    },
+    "Type": 1,
+    "Title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+    "Url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
+    "Description": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+    "Metadata": {
+      "score": "39",
+      "author": "vincent_s",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-08-05T13:48:20.3816565+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49105978"
+    },
+    "Type": 1,
+    "Title": "\u201CGravity is worth asking about\u201D",
+    "Url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
+    "Description": "\u201CGravity is worth asking about\u201D",
+    "Metadata": {
+      "score": "155",
+      "author": "nozzlegear",
+      "commentCount": "95"
+    },
+    "FetchedAt": "2026-08-05T13:48:20.4089582+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49176038"
+    },
+    "Type": 1,
+    "Title": "Pi\u0027s Minimalism Is Its Advantage",
+    "Url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+    "Description": "Pi\u0027s Minimalism Is Its Advantage",
+    "Metadata": {
+      "score": "451",
+      "author": "luispa",
+      "commentCount": "225"
+    },
+    "FetchedAt": "2026-08-05T13:48:20.4375166+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49148176"
+    },
+    "Type": 1,
+    "Title": "Bubble Memory",
+    "Url": "https://en.wikipedia.org/wiki/Bubble_memory",
+    "Description": "Bubble Memory",
+    "Metadata": {
+      "score": "37",
+      "author": "jacquesm",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-08-05T13:48:20.4647834+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49113523"
+    },
+    "Type": 1,
+    "Title": "Birduino: A card-triggered audio player for [learning] the birds",
+    "Url": "https://hannahilea.com/blog/birduino/",
+    "Description": "Birduino: A card-triggered audio player for [learning] the birds",
+    "Metadata": {
+      "score": "24",
+      "author": "austinallegro",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-08-05T13:48:20.4924172+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49171268"
+    },
+    "Type": 1,
+    "Title": "Mistral\u0027s Shieldstral: 3B open-weights model for multimodal moderation",
+    "Url": "https://mistral.ai/news/shieldstral/",
+    "Description": "Mistral\u0027s Shieldstral: 3B open-weights model for multimodal moderation",
+    "Metadata": {
+      "score": "455",
+      "author": "riadsila",
+      "commentCount": "117"
+    },
+    "FetchedAt": "2026-08-05T13:48:20.5196889+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49170165"
+    },
+    "Type": 1,
+    "Title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+    "Url": "https://toneyalexander.github.io/inclusive-color-space/",
+    "Description": "Hello HN!\u003Cp\u003EI found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it easy.\u003Cp\u003EI\u0026#x27;ve built a color picker and procedural generation algorithm based on the space as well as a bunch of other fun js features and demos throughout the page that use the equations. If you find it interesting, I have lots of explanations of how I built it and what pro",
+    "Metadata": {
+      "score": "570",
+      "author": "automatoney",
+      "commentCount": "97"
+    },
+    "FetchedAt": "2026-08-05T13:48:20.5482305+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49180407"
+    },
+    "Type": 1,
+    "Title": "Helsinki Hacker News Meetup",
+    "Url": "https://calpaterson.com/helsinki-hn.html",
+    "Description": "Helsinki Hacker News Meetup",
+    "Metadata": {
+      "score": "150",
+      "author": "calpaterson",
+      "commentCount": "99"
+    },
+    "FetchedAt": "2026-08-05T13:48:20.5760849+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49181419"
+    },
+    "Type": 1,
+    "Title": "Could psilocybin be the key to treating anorexia?",
+    "Url": "https://www.scientificamerican.com/article/psilocybin-could-kick-start-anorexia-recovery-early-results-suggest/",
+    "Description": "Could psilocybin be the key to treating anorexia?",
+    "Metadata": {
+      "score": "25",
+      "author": "tzury",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-08-05T13:48:20.6115845+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49182052"
+    },
+    "Type": 1,
+    "Title": "Iowa et al asks OpenAI to keep their bots sandboxed",
+    "Url": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
+    "Description": "Iowa et al asks OpenAI to keep their bots sandboxed",
+    "Metadata": {
+      "score": "46",
+      "author": "ArcHound",
+      "commentCount": "74"
+    },
+    "FetchedAt": "2026-08-05T13:48:20.6481084+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49182784"
+    },
+    "Type": 1,
+    "Title": "The Architecture of Israel\u0027s Genocide in Gaza",
+    "Url": "https://foreignpolicy.com/2026/08/04/gaza-palestinian-genocide-israel-book/",
+    "Description": "The Architecture of Israel\u0027s Genocide in Gaza",
+    "Metadata": {
+      "score": "4",
+      "author": "rzk",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-05T13:48:20.685077+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49176697"
+    },
+    "Type": 1,
+    "Title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+    "Url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+    "Description": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+    "Metadata": {
+      "score": "142",
+      "author": "lapcat",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-08-05T13:48:20.7206822+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49124273"
+    },
+    "Type": 1,
+    "Title": "The Pneumatics of Hero of Alexandria (1851)",
+    "Url": "https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html",
+    "Description": "The Pneumatics of Hero of Alexandria (1851)",
+    "Metadata": {
+      "score": "44",
+      "author": "gregsadetsky",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-08-05T13:48:20.7563007+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49178608"
+    },
+    "Type": 1,
+    "Title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+    "Url": "https://arxiv.org/abs/2607.29377",
+    "Description": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+    "Metadata": {
+      "score": "73",
+      "author": "theanonymousone",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-08-05T13:48:20.7922524+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49173984"
+    },
+    "Type": 1,
+    "Title": "Show HN: Maple-Preview \u2013 Ternary 20B MoE running at 120 tok/s on a iPhone",
+    "Url": "https://deepgrove.ai/maple-preview",
+    "Description": "Show HN: Maple-Preview \u2013 Ternary 20B MoE running at 120 tok/s on a iPhone",
+    "Metadata": {
+      "score": "157",
+      "author": "edwardbzhang",
+      "commentCount": "46"
+    },
+    "FetchedAt": "2026-08-05T13:48:20.8277312+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49109576"
+    },
+    "Type": 1,
+    "Title": "BSD Make extravaganza: Mandelbrot Set In bmake",
+    "Url": "https://github.com/b-aaz/bmake-extravaganza/tree/master",
+    "Description": "BSD Make extravaganza: Mandelbrot Set In bmake",
+    "Metadata": {
+      "score": "4",
+      "author": "signa11",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-05T13:48:20.8643938+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49173165"
+    },
+    "Type": 1,
+    "Title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+    "Url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+    "Description": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+    "Metadata": {
+      "score": "1501",
+      "author": "jdcampolargo",
+      "commentCount": "88"
+    },
+    "FetchedAt": "2026-08-05T13:48:20.9002903+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49175924"
+    },
+    "Type": 1,
+    "Title": "DuckDB \u2013 Data power tools for your laptop, now in Clojure (2023)",
+    "Url": "https://techascent.com/blog/just-ducking-around.html",
+    "Description": "DuckDB \u2013 Data power tools for your laptop, now in Clojure (2023)",
+    "Metadata": {
+      "score": "132",
+      "author": "sourdecor",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-08-05T13:48:20.9360836+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49181678"
+    },
+    "Type": 1,
+    "Title": "Three Six Mafia \u2013 Data about \u00226/6/6 dating\u0022 (2024)",
+    "Url": "https://divingintheshallowend.com/three-six-mafia/",
+    "Description": "Three Six Mafia \u2013 Data about \u00226/6/6 dating\u0022 (2024)",
+    "Metadata": {
+      "score": "94",
+      "author": "embedding-shape",
+      "commentCount": "90"
+    },
+    "FetchedAt": "2026-08-05T13:48:20.9722113+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49176055"
+    },
+    "Type": 1,
+    "Title": "We finally learned to center a div, then browsers added sidebars",
+    "Url": "https://seg6.space/posts/center-div/",
+    "Description": "We finally learned to center a div, then browsers added sidebars",
+    "Metadata": {
+      "score": "165",
+      "author": "seg6",
+      "commentCount": "128"
+    },
+    "FetchedAt": "2026-08-05T13:48:21.0076019+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49176947"
+    },
+    "Type": 1,
+    "Title": "Bugtraq is back",
+    "Url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
+    "Description": "Bugtraq is back",
+    "Metadata": {
+      "score": "68",
+      "author": "bashtoni",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-08-05T13:48:21.0435734+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49178464"
+    },
+    "Type": 1,
+    "Title": "An SLM trained on $8 ESP32-S3",
+    "Url": "https://github.com/Carloscodix/qapla",
+    "Description": "An SLM trained on $8 ESP32-S3",
+    "Metadata": {
+      "score": "52",
+      "author": "pavelai",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-08-05T13:48:21.0795578+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49084236"
+    },
+    "Type": 1,
+    "Title": "Rio-vt and librio: Rio\u0027s terminal engine, now embeddable",
+    "Url": "https://rioterm.com/blog/2026/07/27/rio-vt-and-librio",
+    "Description": "Rio-vt and librio: Rio\u0027s terminal engine, now embeddable",
+    "Metadata": {
+      "score": "47",
+      "author": "vinhnx",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-08-05T13:48:21.1153694+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49123231"
+    },
+    "Type": 1,
+    "Title": "Why is it all in the kernel?",
+    "Url": "https://lawrencecpaulson.github.io//2026/07/30/Collatz.html",
+    "Description": "Why is it all in the kernel?",
+    "Metadata": {
+      "score": "67",
+      "author": "ibobev",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-08-05T13:48:21.1508864+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49162653"
+    },
+    "Type": 1,
+    "Title": "There Will Come Soft Rains (1950) [pdf]",
+    "Url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+    "Description": "There Will Come Soft Rains (1950) [pdf]",
+    "Metadata": {
+      "score": "406",
+      "author": "pmg101",
+      "commentCount": "413"
+    },
+    "FetchedAt": "2026-08-05T13:48:21.1786841+00:00"
   }
 ]
