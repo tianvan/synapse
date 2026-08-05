@@ -1,0 +1,255 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:TencentCloud/TencentDB-Agent-Memory"
+    },
+    "Type": 0,
+    "Title": "TencentCloud/TencentDB-Agent-Memory",
+    "Url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "Description": "TencentDB Agent Memory is a team-level memory hub for AI Agents \u2014 turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+    "Metadata": {
+      "owner": "TencentCloud",
+      "repo": "TencentDB-Agent-Memory",
+      "language": "TypeScript",
+      "stars": "1,111",
+      "topics": "agent, ai-agent, embedding, llm, local-first, long-term-memory, memory, openclaw-plugin, vector-search"
+    },
+    "FetchedAt": "2026-08-05T01:50:19.15203+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:zhaoxuya520/reverse-skill"
+    },
+    "Type": 0,
+    "Title": "zhaoxuya520/reverse-skill",
+    "Url": "https://github.com/zhaoxuya520/reverse-skill",
+    "Description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing \u002B On-demand toolchain bootstrapping \u002B Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients \u9006\u5411/\u6E17\u900F/\u5B89\u5168\u6280\u80FD\u8DEF\u7531\u5305 - AI \u81EA\u52A8\u8DEF\u7531 \u002B \u6309\u9700\u81EA\u4E3E\u5DE5\u5177\u94FE \u002B \u81EA\u52A8\u8FDB\u5316\u7ECF\u9A8C\u5E93 | \u652F\u6301 Claude Code / Kiro / Cursor / Cline \u7B49\u4EE3\u7801 AI \u5BA2\u6237\u7AEF",
+    "Metadata": {
+      "owner": "zhaoxuya520",
+      "repo": "reverse-skill",
+      "language": "PowerShell",
+      "stars": "2,297"
+    },
+    "FetchedAt": "2026-08-05T01:50:19.4292866+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:firecrawl/pdf-inspector"
+    },
+    "Type": 0,
+    "Title": "firecrawl/pdf-inspector",
+    "Url": "https://github.com/firecrawl/pdf-inspector",
+    "Description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+    "Metadata": {
+      "owner": "firecrawl",
+      "repo": "pdf-inspector",
+      "language": "Rust",
+      "stars": "2,540",
+      "topics": "markdown, nodejs, ocr-routing, pdf, pdf-classification, pdf-extraction, pdf-parser, python, rust, text-extraction"
+    },
+    "FetchedAt": "2026-08-05T01:50:19.6229363+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:uber/ADR"
+    },
+    "Type": 0,
+    "Title": "uber/ADR",
+    "Url": "https://github.com/uber/ADR",
+    "Description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+    "Metadata": {
+      "owner": "uber",
+      "repo": "ADR",
+      "language": "Python",
+      "stars": "148",
+      "topics": "agent-security, ai-agents, ai-security, benchmark, claude, claude-code, codex, cursor, llm-security, mcp, model-context-protocol, prompt-injection, threat-detection"
+    },
+    "FetchedAt": "2026-08-05T01:50:19.8729157+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:microsoft/generative-ai-for-beginners"
+    },
+    "Type": 0,
+    "Title": "microsoft/generative-ai-for-beginners",
+    "Url": "https://github.com/microsoft/generative-ai-for-beginners",
+    "Description": "21 Lessons, Get Started Building with Generative AI ",
+    "Metadata": {
+      "owner": "microsoft",
+      "repo": "generative-ai-for-beginners",
+      "language": "Jupyter Notebook",
+      "stars": "783",
+      "topics": "ai, azure, chatgpt, dall-e, generative-ai, generativeai, gpt, language-model, llms, microsoft-for-beginners, openai, prompt-engineering, semantic-search, transformers"
+    },
+    "FetchedAt": "2026-08-05T01:50:20.0560719+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cypress-io/cypress"
+    },
+    "Type": 0,
+    "Title": "cypress-io/cypress",
+    "Url": "https://github.com/cypress-io/cypress",
+    "Description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "Metadata": {
+      "owner": "cypress-io",
+      "repo": "cypress",
+      "language": "TypeScript",
+      "stars": "11",
+      "topics": "angular-testing-library, component-testing, cypress, cypress-cloud, cypress-schematic, end-to-end-testing, react-testing-library, svelte-testing-library, test-replay, testing-framework, testing-library, testing-tool, vue-testing-library"
+    },
+    "FetchedAt": "2026-08-05T01:50:20.259766+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:webpack/webpack"
+    },
+    "Type": 0,
+    "Title": "webpack/webpack",
+    "Url": "https://github.com/webpack/webpack",
+    "Description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \u0022loaders\u0022, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+    "Metadata": {
+      "owner": "webpack",
+      "repo": "webpack",
+      "language": "JavaScript",
+      "stars": "10",
+      "topics": "amd, build-tool, commonjs, compiler, es2015, es6, esm, javascript, javascript-compiler, javascript-modules, loaders, module-bundler, plugins, web, web-performance, webpack"
+    },
+    "FetchedAt": "2026-08-05T01:50:20.4793562+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:gabime/spdlog"
+    },
+    "Type": 0,
+    "Title": "gabime/spdlog",
+    "Url": "https://github.com/gabime/spdlog",
+    "Description": "Fast C\u002B\u002B logging library.",
+    "Metadata": {
+      "owner": "gabime",
+      "repo": "spdlog",
+      "language": "C\u002B\u002B",
+      "stars": "10",
+      "topics": "cpp, cpp11, header-only, logging, spdlog"
+    },
+    "FetchedAt": "2026-08-05T01:50:20.6720269+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:denoland/deno"
+    },
+    "Type": 0,
+    "Title": "denoland/deno",
+    "Url": "https://github.com/denoland/deno",
+    "Description": "A modern runtime for JavaScript and TypeScript.",
+    "Metadata": {
+      "owner": "denoland",
+      "repo": "deno",
+      "language": "Rust",
+      "stars": "31",
+      "topics": "deno, javascript, rust, typescript"
+    },
+    "FetchedAt": "2026-08-05T01:50:20.8951977+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:livekit/agents"
+    },
+    "Type": 0,
+    "Title": "livekit/agents",
+    "Url": "https://github.com/livekit/agents",
+    "Description": "A framework for building realtime voice AI agents \uD83E\uDD16\uD83C\uDF99\uFE0F\uD83D\uDCF9 ",
+    "Metadata": {
+      "owner": "livekit",
+      "repo": "agents",
+      "language": "Python",
+      "stars": "432",
+      "topics": "agents, ai, openai, real-time, video, voice"
+    },
+    "FetchedAt": "2026-08-05T01:50:21.1118166+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:angular/angular"
+    },
+    "Type": 0,
+    "Title": "angular/angular",
+    "Url": "https://github.com/angular/angular",
+    "Description": "Deliver web apps with confidence \uD83D\uDE80",
+    "Metadata": {
+      "owner": "angular",
+      "repo": "angular",
+      "language": "TypeScript",
+      "stars": "13",
+      "topics": "angular, javascript, pwa, typescript, web, web-framework, web-performance"
+    },
+    "FetchedAt": "2026-08-05T01:50:21.3476711+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:tailwindlabs/tailwindcss"
+    },
+    "Type": 0,
+    "Title": "tailwindlabs/tailwindcss",
+    "Url": "https://github.com/tailwindlabs/tailwindcss",
+    "Description": "A utility-first CSS framework for rapid UI development.",
+    "Metadata": {
+      "owner": "tailwindlabs",
+      "repo": "tailwindcss",
+      "language": "TypeScript",
+      "stars": "52",
+      "topics": "css, css-framework, functional-css, postcss, responsive, tailwindcss, utility-classes"
+    },
+    "FetchedAt": "2026-08-05T01:50:21.5621667+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:browser-use/video-use"
+    },
+    "Type": 0,
+    "Title": "browser-use/video-use",
+    "Url": "https://github.com/browser-use/video-use",
+    "Description": "Edit videos with coding agents",
+    "Metadata": {
+      "owner": "browser-use",
+      "repo": "video-use",
+      "language": "Python",
+      "stars": "320"
+    },
+    "FetchedAt": "2026-08-05T01:50:21.7602444+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:esengine/DeepSeek-Reasonix"
+    },
+    "Type": 0,
+    "Title": "esengine/DeepSeek-Reasonix",
+    "Url": "https://github.com/esengine/DeepSeek-Reasonix",
+    "Description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "Metadata": {
+      "owner": "esengine",
+      "repo": "DeepSeek-Reasonix",
+      "language": "Go",
+      "stars": "922",
+      "topics": "agent, agent-framework, ai-agent, ai-coding, cli, coding-agent, deepseek, developer-tools, ink, llm, prompt-caching, r1, terminal, tool-use, tui, typescript"
+    },
+    "FetchedAt": "2026-08-05T01:50:21.9848066+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:EveryInc/compound-engineering-plugin"
+    },
+    "Type": 0,
+    "Title": "EveryInc/compound-engineering-plugin",
+    "Url": "https://github.com/EveryInc/compound-engineering-plugin",
+    "Description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+    "Metadata": {
+      "owner": "EveryInc",
+      "repo": "compound-engineering-plugin",
+      "language": "TypeScript",
+      "stars": "40",
+      "topics": "compound, engineering"
+    },
+    "FetchedAt": "2026-08-05T01:50:22.1666174+00:00"
+  }
+]
