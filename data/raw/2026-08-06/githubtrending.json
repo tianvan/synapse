@@ -1,56 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:cloudflare/computer"
-    },
-    "Type": 0,
-    "Title": "cloudflare/computer",
-    "Url": "https://github.com/cloudflare/computer",
-    "Description": "Give your agent a computer \uD83D\uDC7E",
-    "Metadata": {
-      "owner": "cloudflare",
-      "repo": "computer",
-      "language": "TypeScript",
-      "stars": "891"
-    },
-    "FetchedAt": "2026-08-06T08:19:53.5619509+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:huangruiteng/loopx"
-    },
-    "Type": 0,
-    "Title": "huangruiteng/loopx",
-    "Url": "https://github.com/huangruiteng/loopx",
-    "Description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
-    "Metadata": {
-      "owner": "huangruiteng",
-      "repo": "loopx",
-      "language": "Python",
-      "stars": "326",
-      "topics": "agent-control-plane, agent-ops, ai-agents, codex, long-running-agents, loop-engineering, loopx, workflow-automation"
-    },
-    "FetchedAt": "2026-08-06T08:19:55.1929065+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:TencentCloud/TencentDB-Agent-Memory"
-    },
-    "Type": 0,
-    "Title": "TencentCloud/TencentDB-Agent-Memory",
-    "Url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-    "Description": "TencentDB Agent Memory is a team-level memory hub for AI Agents \u2014 turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-    "Metadata": {
-      "owner": "TencentCloud",
-      "repo": "TencentDB-Agent-Memory",
-      "language": "TypeScript",
-      "stars": "1,892",
-      "topics": "agent, ai-agent, embedding, llm, local-first, long-term-memory, memory, openclaw-plugin, vector-search"
-    },
-    "FetchedAt": "2026-08-06T08:19:55.4202748+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:donnemartin/system-design-primer"
     },
     "Type": 0,
@@ -65,57 +15,6 @@
       "topics": "design, design-patterns, design-system, development, interview, interview-practice, interview-questions, programming, python, system, web, web-application, webapp"
     },
     "FetchedAt": "2026-08-06T08:19:55.6308478+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:firecrawl/pdf-inspector"
-    },
-    "Type": 0,
-    "Title": "firecrawl/pdf-inspector",
-    "Url": "https://github.com/firecrawl/pdf-inspector",
-    "Description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-    "Metadata": {
-      "owner": "firecrawl",
-      "repo": "pdf-inspector",
-      "language": "Rust",
-      "stars": "1,582",
-      "topics": "markdown, nodejs, ocr-routing, pdf, pdf-classification, pdf-extraction, pdf-parser, python, rust, text-extraction"
-    },
-    "FetchedAt": "2026-08-06T08:19:55.8133921+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:esengine/DeepSeek-Reasonix"
-    },
-    "Type": 0,
-    "Title": "esengine/DeepSeek-Reasonix",
-    "Url": "https://github.com/esengine/DeepSeek-Reasonix",
-    "Description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
-    "Metadata": {
-      "owner": "esengine",
-      "repo": "DeepSeek-Reasonix",
-      "language": "Go",
-      "stars": "747",
-      "topics": "agent, agent-framework, ai-agent, ai-coding, cli, coding-agent, deepseek, developer-tools, ink, llm, prompt-caching, r1, terminal, tool-use, tui, typescript"
-    },
-    "FetchedAt": "2026-08-06T08:19:56.0311176+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:addyosmani/agent-skills"
-    },
-    "Type": 0,
-    "Title": "addyosmani/agent-skills",
-    "Url": "https://github.com/addyosmani/agent-skills",
-    "Description": "Production-grade engineering skills for AI coding agents.",
-    "Metadata": {
-      "owner": "addyosmani",
-      "repo": "agent-skills",
-      "language": "JavaScript",
-      "stars": "226",
-      "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
-    },
-    "FetchedAt": "2026-08-06T08:19:56.2363401+00:00"
   },
   {
     "ExternalId": {
@@ -184,5 +83,156 @@
       "topics": "agent-security, ai-agents, ai-security, benchmark, claude, claude-code, codex, cursor, llm-security, mcp, model-context-protocol, prompt-injection, threat-detection"
     },
     "FetchedAt": "2026-08-06T08:19:57.0951206+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:TencentCloud/TencentDB-Agent-Memory"
+    },
+    "Type": 0,
+    "Title": "TencentCloud/TencentDB-Agent-Memory",
+    "Url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "Description": "TencentDB Agent Memory is a team-level memory hub for AI Agents \u2014 turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+    "Metadata": {
+      "owner": "TencentCloud",
+      "repo": "TencentDB-Agent-Memory",
+      "language": "TypeScript",
+      "stars": "1,053",
+      "topics": "agent, ai-agent, embedding, llm, local-first, long-term-memory, memory, openclaw-plugin, vector-search"
+    },
+    "FetchedAt": "2026-08-06T13:45:47.7930887+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "JavaScript",
+      "stars": "588",
+      "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
+    },
+    "FetchedAt": "2026-08-06T13:45:48.0692724+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cloudflare/computer"
+    },
+    "Type": 0,
+    "Title": "cloudflare/computer",
+    "Url": "https://github.com/cloudflare/computer",
+    "Description": "Give your agent a computer \uD83D\uDC7E",
+    "Metadata": {
+      "owner": "cloudflare",
+      "repo": "computer",
+      "language": "TypeScript",
+      "stars": "2,690"
+    },
+    "FetchedAt": "2026-08-06T13:45:48.2942296+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:huangruiteng/loopx"
+    },
+    "Type": 0,
+    "Title": "huangruiteng/loopx",
+    "Url": "https://github.com/huangruiteng/loopx",
+    "Description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+    "Metadata": {
+      "owner": "huangruiteng",
+      "repo": "loopx",
+      "language": "Python",
+      "stars": "854",
+      "topics": "agent-control-plane, agent-ops, ai-agents, codex, long-running-agents, loop-engineering, loopx, workflow-automation"
+    },
+    "FetchedAt": "2026-08-06T13:45:48.5593836+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google/guava"
+    },
+    "Type": 0,
+    "Title": "google/guava",
+    "Url": "https://github.com/google/guava",
+    "Description": "Google core libraries for Java",
+    "Metadata": {
+      "owner": "google",
+      "repo": "guava",
+      "language": "Java",
+      "stars": "9",
+      "topics": "guava, java"
+    },
+    "FetchedAt": "2026-08-06T13:45:48.8262509+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:TapXWorld/ChinaTextbook"
+    },
+    "Type": 0,
+    "Title": "TapXWorld/ChinaTextbook",
+    "Url": "https://github.com/TapXWorld/ChinaTextbook",
+    "Description": "\u6240\u6709\u5C0F\u521D\u9AD8\u3001\u5927\u5B66PDF\u6559\u6750\u3002",
+    "Metadata": {
+      "owner": "TapXWorld",
+      "repo": "ChinaTextbook",
+      "language": "Roff",
+      "stars": "157"
+    },
+    "FetchedAt": "2026-08-06T13:45:49.1263242+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Significant-Gravitas/AutoGPT"
+    },
+    "Type": 0,
+    "Title": "Significant-Gravitas/AutoGPT",
+    "Url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "Description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "Metadata": {
+      "owner": "Significant-Gravitas",
+      "repo": "AutoGPT",
+      "language": "Python",
+      "stars": "28",
+      "topics": "agentic-ai, agents, ai, artificial-intelligence, autonomous-agents, claude, gpt, llama-api, llm, openai, python"
+    },
+    "FetchedAt": "2026-08-06T13:45:49.3359647+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:esengine/DeepSeek-Reasonix"
+    },
+    "Type": 0,
+    "Title": "esengine/DeepSeek-Reasonix",
+    "Url": "https://github.com/esengine/DeepSeek-Reasonix",
+    "Description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+    "Metadata": {
+      "owner": "esengine",
+      "repo": "DeepSeek-Reasonix",
+      "language": "Go",
+      "stars": "894",
+      "topics": "agent, agent-framework, ai-agent, ai-coding, cli, coding-agent, deepseek, developer-tools, ink, llm, prompt-caching, r1, terminal, tool-use, tui, typescript"
+    },
+    "FetchedAt": "2026-08-06T13:45:49.5599596+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:firecrawl/pdf-inspector"
+    },
+    "Type": 0,
+    "Title": "firecrawl/pdf-inspector",
+    "Url": "https://github.com/firecrawl/pdf-inspector",
+    "Description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+    "Metadata": {
+      "owner": "firecrawl",
+      "repo": "pdf-inspector",
+      "language": "Rust",
+      "stars": "1,194",
+      "topics": "markdown, nodejs, ocr-routing, pdf, pdf-classification, pdf-extraction, pdf-parser, python, rust, text-extraction"
+    },
+    "FetchedAt": "2026-08-06T13:45:49.7543585+00:00"
   }
 ]
