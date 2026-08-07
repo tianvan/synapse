@@ -18,39 +18,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:addyosmani/agent-skills"
-    },
-    "Type": 0,
-    "Title": "addyosmani/agent-skills",
-    "Url": "https://github.com/addyosmani/agent-skills",
-    "Description": "Production-grade engineering skills for AI coding agents.",
-    "Metadata": {
-      "owner": "addyosmani",
-      "repo": "agent-skills",
-      "language": "JavaScript",
-      "stars": "593",
-      "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
-    },
-    "FetchedAt": "2026-08-07T07:02:21.9471509+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:cloudflare/computer"
-    },
-    "Type": 0,
-    "Title": "cloudflare/computer",
-    "Url": "https://github.com/cloudflare/computer",
-    "Description": "Give your agent a computer \uD83D\uDC7E",
-    "Metadata": {
-      "owner": "cloudflare",
-      "repo": "computer",
-      "language": "TypeScript",
-      "stars": "2,802"
-    },
-    "FetchedAt": "2026-08-07T07:02:22.0798627+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:huangruiteng/loopx"
     },
     "Type": 0,
@@ -68,23 +35,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:google/guava"
-    },
-    "Type": 0,
-    "Title": "google/guava",
-    "Url": "https://github.com/google/guava",
-    "Description": "Google core libraries for Java",
-    "Metadata": {
-      "owner": "google",
-      "repo": "guava",
-      "language": "Java",
-      "stars": "13",
-      "topics": "guava, java"
-    },
-    "FetchedAt": "2026-08-07T07:02:22.3752681+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:TapXWorld/ChinaTextbook"
     },
     "Type": 0,
@@ -98,23 +48,6 @@
       "stars": "134"
     },
     "FetchedAt": "2026-08-07T07:02:22.5235647+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:Significant-Gravitas/AutoGPT"
-    },
-    "Type": 0,
-    "Title": "Significant-Gravitas/AutoGPT",
-    "Url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "Description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-    "Metadata": {
-      "owner": "Significant-Gravitas",
-      "repo": "AutoGPT",
-      "language": "Python",
-      "stars": "37",
-      "topics": "agentic-ai, agents, ai, artificial-intelligence, autonomous-agents, claude, gpt, llama-api, llm, openai, python"
-    },
-    "FetchedAt": "2026-08-07T07:02:22.658854+00:00"
   },
   {
     "ExternalId": {
@@ -149,5 +82,187 @@
       "topics": "markdown, nodejs, ocr-routing, pdf, pdf-classification, pdf-extraction, pdf-parser, python, rust, text-extraction"
     },
     "FetchedAt": "2026-08-07T07:02:22.9397085+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:PrimeIntellect-ai/prime-agent"
+    },
+    "Type": 0,
+    "Title": "PrimeIntellect-ai/prime-agent",
+    "Url": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "Description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "Metadata": {
+      "owner": "PrimeIntellect-ai",
+      "repo": "prime-agent",
+      "language": "TypeScript",
+      "stars": "2,271"
+    },
+    "FetchedAt": "2026-08-07T12:43:45.4176015+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "JavaScript",
+      "stars": "1,131",
+      "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
+    },
+    "FetchedAt": "2026-08-07T12:43:45.70475+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cloudflare/computer"
+    },
+    "Type": 0,
+    "Title": "cloudflare/computer",
+    "Url": "https://github.com/cloudflare/computer",
+    "Description": "Give your agent a computer \uD83D\uDC7E",
+    "Metadata": {
+      "owner": "cloudflare",
+      "repo": "computer",
+      "language": "TypeScript",
+      "stars": "894"
+    },
+    "FetchedAt": "2026-08-07T12:43:45.8509928+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:666ghj/MiroFish"
+    },
+    "Type": 0,
+    "Title": "666ghj/MiroFish",
+    "Url": "https://github.com/666ghj/MiroFish",
+    "Description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. \u7B80\u6D01\u901A\u7528\u7684\u7FA4\u4F53\u667A\u80FD\u5F15\u64CE\uFF0C\u9884\u6D4B\u4E07\u7269",
+    "Metadata": {
+      "owner": "666ghj",
+      "repo": "MiroFish",
+      "language": "Python",
+      "stars": "126",
+      "topics": "agent-memory, financial-forecasting, future-prediction, knowledge-graph, llms, multi-agent-simulation, public-opinion-analysis, python3, social-prediction, swarm-intelligence"
+    },
+    "FetchedAt": "2026-08-07T12:43:46.0076706+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:chenyme/grok2api"
+    },
+    "Type": 0,
+    "Title": "chenyme/grok2api",
+    "Url": "https://github.com/chenyme/grok2api",
+    "Description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+    "Metadata": {
+      "owner": "chenyme",
+      "repo": "grok2api",
+      "language": "Go",
+      "stars": "43",
+      "topics": "grok, grok-build, grok-console, grok-imagine, grok-video, grok-web"
+    },
+    "FetchedAt": "2026-08-07T12:43:46.1595511+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Significant-Gravitas/AutoGPT"
+    },
+    "Type": 0,
+    "Title": "Significant-Gravitas/AutoGPT",
+    "Url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "Description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "Metadata": {
+      "owner": "Significant-Gravitas",
+      "repo": "AutoGPT",
+      "language": "Python",
+      "stars": "363",
+      "topics": "agentic-ai, agents, ai, artificial-intelligence, autonomous-agents, claude, gpt, llama-api, llm, openai, python"
+    },
+    "FetchedAt": "2026-08-07T12:43:46.3107184+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google/guava"
+    },
+    "Type": 0,
+    "Title": "google/guava",
+    "Url": "https://github.com/google/guava",
+    "Description": "Google core libraries for Java",
+    "Metadata": {
+      "owner": "google",
+      "repo": "guava",
+      "language": "Java",
+      "stars": "156",
+      "topics": "guava, java"
+    },
+    "FetchedAt": "2026-08-07T12:43:46.4750953+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:unclebob/swarm-forge"
+    },
+    "Type": 0,
+    "Title": "unclebob/swarm-forge",
+    "Url": "https://github.com/unclebob/swarm-forge",
+    "Description": "A simple tool for coordinating several AI agents.",
+    "Metadata": {
+      "owner": "unclebob",
+      "repo": "swarm-forge",
+      "language": "Clojure",
+      "stars": "85"
+    },
+    "FetchedAt": "2026-08-07T12:43:46.6356539+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:denoland/celld"
+    },
+    "Type": 0,
+    "Title": "denoland/celld",
+    "Url": "https://github.com/denoland/celld",
+    "Description": "self-hosted, distributed Durable Objects",
+    "Metadata": {
+      "owner": "denoland",
+      "repo": "celld",
+      "language": "Rust",
+      "stars": "546"
+    },
+    "FetchedAt": "2026-08-07T12:43:46.7822218+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:K2SOsint/Legendary_OSINT"
+    },
+    "Type": 0,
+    "Title": "K2SOsint/Legendary_OSINT",
+    "Url": "https://github.com/K2SOsint/Legendary_OSINT",
+    "Description": "A list of OSINT tools \u0026 resources for (fraud-)investigators, CTI-analysts, KYC, AML and more. ",
+    "Metadata": {
+      "owner": "K2SOsint",
+      "repo": "Legendary_OSINT",
+      "stars": "64",
+      "topics": "cti, cyberthreatintelligence, osint, osint-tools-list, socmint"
+    },
+    "FetchedAt": "2026-08-07T12:43:46.9530486+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google/skills"
+    },
+    "Type": 0,
+    "Title": "google/skills",
+    "Url": "https://github.com/google/skills",
+    "Description": "Agent Skills for Google products and technologies",
+    "Metadata": {
+      "owner": "google",
+      "repo": "skills",
+      "language": "Python",
+      "stars": "305",
+      "topics": "google, googlecloud, skills"
+    },
+    "FetchedAt": "2026-08-07T12:43:47.0928959+00:00"
   }
 ]
