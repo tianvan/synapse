@@ -1,39 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:PrimeIntellect-ai/prime-agent"
-    },
-    "Type": 0,
-    "Title": "PrimeIntellect-ai/prime-agent",
-    "Url": "https://github.com/PrimeIntellect-ai/prime-agent",
-    "Description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-    "Metadata": {
-      "owner": "PrimeIntellect-ai",
-      "repo": "prime-agent",
-      "language": "TypeScript",
-      "stars": "2,293"
-    },
-    "FetchedAt": "2026-08-08T06:37:45.2965705+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:addyosmani/agent-skills"
-    },
-    "Type": 0,
-    "Title": "addyosmani/agent-skills",
-    "Url": "https://github.com/addyosmani/agent-skills",
-    "Description": "Production-grade engineering skills for AI coding agents.",
-    "Metadata": {
-      "owner": "addyosmani",
-      "repo": "agent-skills",
-      "language": "JavaScript",
-      "stars": "1,131",
-      "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
-    },
-    "FetchedAt": "2026-08-08T06:37:45.5764706+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:cloudflare/computer"
     },
     "Type": 0,
@@ -101,23 +68,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:google/guava"
-    },
-    "Type": 0,
-    "Title": "google/guava",
-    "Url": "https://github.com/google/guava",
-    "Description": "Google core libraries for Java",
-    "Metadata": {
-      "owner": "google",
-      "repo": "guava",
-      "language": "Java",
-      "stars": "152",
-      "topics": "guava, java"
-    },
-    "FetchedAt": "2026-08-08T06:37:46.3320851+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:unclebob/swarm-forge"
     },
     "Type": 0,
@@ -131,22 +81,6 @@
       "stars": "81"
     },
     "FetchedAt": "2026-08-08T06:37:46.4842065+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:denoland/celld"
-    },
-    "Type": 0,
-    "Title": "denoland/celld",
-    "Url": "https://github.com/denoland/celld",
-    "Description": "self-hosted, distributed Durable Objects",
-    "Metadata": {
-      "owner": "denoland",
-      "repo": "celld",
-      "language": "Rust",
-      "stars": "516"
-    },
-    "FetchedAt": "2026-08-08T06:37:46.6331496+00:00"
   },
   {
     "ExternalId": {
@@ -166,6 +100,55 @@
   },
   {
     "ExternalId": {
+      "Value": "github:PrimeIntellect-ai/prime-agent"
+    },
+    "Type": 0,
+    "Title": "PrimeIntellect-ai/prime-agent",
+    "Url": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "Description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "Metadata": {
+      "owner": "PrimeIntellect-ai",
+      "repo": "prime-agent",
+      "language": "TypeScript",
+      "stars": "2,293"
+    },
+    "FetchedAt": "2026-08-08T12:31:10.1422055+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "JavaScript",
+      "stars": "1,131",
+      "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
+    },
+    "FetchedAt": "2026-08-08T12:31:10.3292329+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:TapXWorld/ChinaTextbook"
+    },
+    "Type": 0,
+    "Title": "TapXWorld/ChinaTextbook",
+    "Url": "https://github.com/TapXWorld/ChinaTextbook",
+    "Description": "\u6240\u6709\u5C0F\u521D\u9AD8\u3001\u5927\u5B66PDF\u6559\u6750\u3002",
+    "Metadata": {
+      "owner": "TapXWorld",
+      "repo": "ChinaTextbook",
+      "language": "Roff",
+      "stars": "591"
+    },
+    "FetchedAt": "2026-08-08T12:31:10.4502533+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:google/skills"
     },
     "Type": 0,
@@ -179,6 +162,105 @@
       "stars": "327",
       "topics": "google, googlecloud, skills"
     },
-    "FetchedAt": "2026-08-08T06:37:46.940666+00:00"
+    "FetchedAt": "2026-08-08T12:31:10.5580877+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:TauricResearch/TradingAgents"
+    },
+    "Type": 0,
+    "Title": "TauricResearch/TradingAgents",
+    "Url": "https://github.com/TauricResearch/TradingAgents",
+    "Description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "Metadata": {
+      "owner": "TauricResearch",
+      "repo": "TradingAgents",
+      "language": "Python",
+      "stars": "126",
+      "topics": "agent, finance, llm, multiagent, trading"
+    },
+    "FetchedAt": "2026-08-08T12:31:10.6724627+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google/guava"
+    },
+    "Type": 0,
+    "Title": "google/guava",
+    "Url": "https://github.com/google/guava",
+    "Description": "Google core libraries for Java",
+    "Metadata": {
+      "owner": "google",
+      "repo": "guava",
+      "language": "Java",
+      "stars": "152",
+      "topics": "guava, java"
+    },
+    "FetchedAt": "2026-08-08T12:31:10.7946943+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:LadybirdBrowser/ladybird"
+    },
+    "Type": 0,
+    "Title": "LadybirdBrowser/ladybird",
+    "Url": "https://github.com/LadybirdBrowser/ladybird",
+    "Description": "Truly independent web browser",
+    "Metadata": {
+      "owner": "LadybirdBrowser",
+      "repo": "ladybird",
+      "language": "C\u002B\u002B",
+      "stars": "42",
+      "topics": "browser, browser-engine"
+    },
+    "FetchedAt": "2026-08-08T12:31:10.9226141+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:denoland/celld"
+    },
+    "Type": 0,
+    "Title": "denoland/celld",
+    "Url": "https://github.com/denoland/celld",
+    "Description": "self-hosted, distributed Durable Objects",
+    "Metadata": {
+      "owner": "denoland",
+      "repo": "celld",
+      "language": "Rust",
+      "stars": "516"
+    },
+    "FetchedAt": "2026-08-08T12:31:11.0424784+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:litu54/DevOps-Interview-Guide"
+    },
+    "Type": 0,
+    "Title": "litu54/DevOps-Interview-Guide",
+    "Url": "https://github.com/litu54/DevOps-Interview-Guide",
+    "Description": " DevOps Interview Guide",
+    "Metadata": {
+      "owner": "litu54",
+      "repo": "DevOps-Interview-Guide",
+      "stars": "59"
+    },
+    "FetchedAt": "2026-08-08T12:31:11.1611676+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:bannedbook/fanqiang"
+    },
+    "Type": 0,
+    "Title": "bannedbook/fanqiang",
+    "Url": "https://github.com/bannedbook/fanqiang",
+    "Description": "\u7FFB\u5899-\u79D1\u5B66\u4E0A\u7F51",
+    "Metadata": {
+      "owner": "bannedbook",
+      "repo": "fanqiang",
+      "language": "Kotlin",
+      "stars": "140",
+      "topics": "brook, daze, fanqiang, goflyway, lightsocks, proxy, psiphon, shadowsocks, ssr, trojan, v2ray"
+    },
+    "FetchedAt": "2026-08-08T12:31:11.2663394+00:00"
   }
 ]
