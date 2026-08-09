@@ -1,96 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:49226636"
-    },
-    "Type": 1,
-    "Title": "My server is a phone now",
-    "Url": "https://seg6.space/posts/phone-server/",
-    "Description": "My server is a phone now",
-    "Metadata": {
-      "score": "67",
-      "author": "seg6",
-      "commentCount": "26"
-    },
-    "FetchedAt": "2026-08-09T01:06:07.8962372+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49223082"
-    },
-    "Type": 1,
-    "Title": "Fastmail offers EU data region",
-    "Url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-    "Description": "Fastmail offers EU data region",
-    "Metadata": {
-      "score": "314",
-      "author": "groomlake",
-      "commentCount": "140"
-    },
-    "FetchedAt": "2026-08-09T01:06:07.9320999+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49079995"
-    },
-    "Type": 1,
-    "Title": "Improving Heuristics for A* Pathfinding",
-    "Url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
-    "Description": "Improving Heuristics for A* Pathfinding",
-    "Metadata": {
-      "score": "31",
-      "author": "bobbiechen",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-08-09T01:06:07.965975+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49221668"
-    },
-    "Type": 1,
-    "Title": "_for-sale DNS records",
-    "Url": "https://specification.website/spec/foundations/for-sale-dns/",
-    "Description": "_for-sale DNS records",
-    "Metadata": {
-      "score": "341",
-      "author": "shaunpud",
-      "commentCount": "131"
-    },
-    "FetchedAt": "2026-08-09T01:06:08.0005779+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49225139"
-    },
-    "Type": 1,
-    "Title": "Open-source interactive map for the Aug 12 total solar eclipse",
-    "Url": "https://eclipsefan.org/?v=2\u0026t=max\u0026layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm\u0026lat=43.4623\u0026lon=-3.8099\u0026opacity=besselian%3A0.2%2Cumbra-live%3A0.2\u0026zoom=6\u0026palier=minute",
-    "Description": "Open-source interactive map for the Aug 12 total solar eclipse",
-    "Metadata": {
-      "score": "83",
-      "author": "MarcoDewey",
-      "commentCount": "18"
-    },
-    "FetchedAt": "2026-08-09T01:06:08.0350635+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49180649"
-    },
-    "Type": 1,
-    "Title": "Making difficulty curves in games",
-    "Url": "http://www.davetech.co.uk/difficultycurves",
-    "Description": "Making difficulty curves in games",
-    "Metadata": {
-      "score": "50",
-      "author": "hakkikonu",
-      "commentCount": "13"
-    },
-    "FetchedAt": "2026-08-09T01:06:08.0688931+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49223079"
     },
     "Type": 1,
@@ -166,51 +76,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49221711"
-    },
-    "Type": 1,
-    "Title": "Triton: DirectX 11 Driver for QEMU",
-    "Url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-    "Description": "Triton: DirectX 11 Driver for QEMU",
-    "Metadata": {
-      "score": "132",
-      "author": "electricant",
-      "commentCount": "24"
-    },
-    "FetchedAt": "2026-08-09T01:06:08.2765165+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49133850"
-    },
-    "Type": 1,
-    "Title": "Building a local positioning system to track runners using Ultra-Wideband",
-    "Url": "https://zeus.ugent.be/blog/25-26/12urenloop-uwb/",
-    "Description": "Building a local positioning system to track runners using Ultra-Wideband",
-    "Metadata": {
-      "score": "39",
-      "author": "robinpdev",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-08-09T01:06:08.3108791+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49169973"
-    },
-    "Type": 1,
-    "Title": "Preventing Misfolding by Preventing Folding",
-    "Url": "https://www.science.org/content/blog-post/preventing-misfolding-preventing-folding",
-    "Description": "Preventing Misfolding by Preventing Folding",
-    "Metadata": {
-      "score": "39",
-      "author": "surprisetalk",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-08-09T01:06:08.3454702+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49220339"
     },
     "Type": 1,
@@ -241,21 +106,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49226742"
-    },
-    "Type": 1,
-    "Title": "Dithered QR Codes",
-    "Url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-    "Description": "Dithered QR Codes",
-    "Metadata": {
-      "score": "7",
-      "author": "jmusall",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-08-09T01:06:08.4497467+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49224020"
     },
     "Type": 1,
@@ -271,51 +121,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49179352"
-    },
-    "Type": 1,
-    "Title": "The Sound and Music of \u0027Hyper Light Drifter\u0027 [video]",
-    "Url": "https://gdcvault.com/play/1024135/The-Sound-and-Music-of",
-    "Description": "The Sound and Music of \u0027Hyper Light Drifter\u0027 [video]",
-    "Metadata": {
-      "score": "4",
-      "author": "hyperific",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-08-09T01:06:08.5192063+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49151146"
-    },
-    "Type": 1,
-    "Title": "DDisasm: Reversible (bi-directional) Disassembler",
-    "Url": "https://github.com/GrammaTech/ddisasm",
-    "Description": "DDisasm: Reversible (bi-directional) Disassembler",
-    "Metadata": {
-      "score": "17",
-      "author": "aboardRat4",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-08-09T01:06:08.5536106+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49226923"
-    },
-    "Type": 1,
-    "Title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
-    "Url": "https://os8088.com/",
-    "Description": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
-    "Metadata": {
-      "score": "7",
-      "author": "jggonz",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-08-09T01:06:08.5877271+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49221220"
     },
     "Type": 1,
@@ -328,36 +133,6 @@
       "commentCount": "74"
     },
     "FetchedAt": "2026-08-09T01:06:08.6238866+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49222189"
-    },
-    "Type": 1,
-    "Title": "\u201CCode was never the hard part\u201D is an insult to all programmers",
-    "Url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-    "Description": "\u201CCode was never the hard part\u201D is an insult to all programmers",
-    "Metadata": {
-      "score": "556",
-      "author": "senko",
-      "commentCount": "356"
-    },
-    "FetchedAt": "2026-08-09T01:06:08.672328+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49226536"
-    },
-    "Type": 1,
-    "Title": "Shopify replaced Redis with MySQL for inventory reservations\u2013and it scaled",
-    "Url": "https://shopify.engineering/scaling-inventory-reservations",
-    "Description": "Shopify replaced Redis with MySQL for inventory reservations\u2013and it scaled",
-    "Metadata": {
-      "score": "6",
-      "author": "adletbalzhanov",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-08-09T01:06:08.7138495+00:00"
   },
   {
     "ExternalId": {
@@ -391,21 +166,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49215786"
-    },
-    "Type": 1,
-    "Title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-    "Url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;un1c0rnioz\u0026#x2F;status\u0026#x2F;2084686552299634805\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;un1c0rnioz\u0026#x2F;status\u0026#x2F;2084686552299634805\u003C/a\u003E",
-    "Metadata": {
-      "score": "214",
-      "author": "ilamont",
-      "commentCount": "157"
-    },
-    "FetchedAt": "2026-08-09T01:06:08.823911+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49226767"
     },
     "Type": 1,
@@ -421,21 +181,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49222824"
-    },
-    "Type": 1,
-    "Title": "Message your other Claude Code sessions",
-    "Url": "https://code.claude.com/docs/en/cross-session-messaging",
-    "Description": "Message your other Claude Code sessions",
-    "Metadata": {
-      "score": "55",
-      "author": "mfiguiere",
-      "commentCount": "28"
-    },
-    "FetchedAt": "2026-08-09T01:06:08.8928468+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49221679"
     },
     "Type": 1,
@@ -448,5 +193,455 @@
       "commentCount": "12"
     },
     "FetchedAt": "2026-08-09T01:06:08.9268062+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49228458"
+    },
+    "Type": 1,
+    "Title": "The original URL for this prediction will no longer be available in 11 years (2011)",
+    "Url": "http://longbets.org/601/",
+    "Description": "The original URL for this prediction will no longer be available in 11 years (2011)",
+    "Metadata": {
+      "score": "96",
+      "author": "doubletwoyou",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-08-09T06:41:25.8769846+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49226636"
+    },
+    "Type": 1,
+    "Title": "My server is a phone now",
+    "Url": "https://seg6.space/posts/phone-server/",
+    "Description": "My server is a phone now",
+    "Metadata": {
+      "score": "244",
+      "author": "seg6",
+      "commentCount": "89"
+    },
+    "FetchedAt": "2026-08-09T06:41:25.9122548+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49079995"
+    },
+    "Type": 1,
+    "Title": "Improving Heuristics for A* Pathfinding",
+    "Url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+    "Description": "Improving Heuristics for A* Pathfinding",
+    "Metadata": {
+      "score": "174",
+      "author": "bobbiechen",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-08-09T06:41:25.947482+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49228663"
+    },
+    "Type": 1,
+    "Title": "Microsoft Word for Windows 1.1a, Native X64 Port",
+    "Url": "https://github.com/jmarshall23/msword",
+    "Description": "Microsoft Word for Windows 1.1a, Native X64 Port",
+    "Metadata": {
+      "score": "10",
+      "author": "BruceEel",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-09T06:41:25.9820434+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49227365"
+    },
+    "Type": 1,
+    "Title": "Melatonin impairs morning cognition in healthy young adults",
+    "Url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
+    "Description": "Melatonin impairs morning cognition in healthy young adults",
+    "Metadata": {
+      "score": "62",
+      "author": "bohaska",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-08-09T06:41:26.0174094+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49226536"
+    },
+    "Type": 1,
+    "Title": "Shopify replaced Redis with MySQL for inventory reservations\u2013and it scaled",
+    "Url": "https://shopify.engineering/scaling-inventory-reservations",
+    "Description": "Shopify replaced Redis with MySQL for inventory reservations\u2013and it scaled",
+    "Metadata": {
+      "score": "146",
+      "author": "adletbalzhanov",
+      "commentCount": "81"
+    },
+    "FetchedAt": "2026-08-09T06:41:26.0543705+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49226742"
+    },
+    "Type": 1,
+    "Title": "Dithered QR Codes",
+    "Url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+    "Description": "Dithered QR Codes",
+    "Metadata": {
+      "score": "133",
+      "author": "jmusall",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-08-09T06:41:26.0888463+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49223082"
+    },
+    "Type": 1,
+    "Title": "Fastmail offers EU data region",
+    "Url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+    "Description": "Fastmail offers EU data region",
+    "Metadata": {
+      "score": "368",
+      "author": "groomlake",
+      "commentCount": "187"
+    },
+    "FetchedAt": "2026-08-09T06:41:26.123518+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49226923"
+    },
+    "Type": 1,
+    "Title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
+    "Url": "https://os8088.com/",
+    "Description": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
+    "Metadata": {
+      "score": "123",
+      "author": "jggonz",
+      "commentCount": "50"
+    },
+    "FetchedAt": "2026-08-09T06:41:26.1594344+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49227652"
+    },
+    "Type": 1,
+    "Title": "Incentives are for losers",
+    "Url": "https://www.experimental-history.com/p/incentives-are-for-losers",
+    "Description": "Incentives are for losers",
+    "Metadata": {
+      "score": "61",
+      "author": "bkudria",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-08-09T06:41:26.1936622+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49149163"
+    },
+    "Type": 1,
+    "Title": "Unexpected events and prosocial behavior: the Batman effect (2025)",
+    "Url": "https://www.nature.com/articles/s44184-025-00171-5",
+    "Description": "Unexpected events and prosocial behavior: the Batman effect (2025)",
+    "Metadata": {
+      "score": "42",
+      "author": "davidbarker",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-08-09T06:41:26.2286588+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49221668"
+    },
+    "Type": 1,
+    "Title": "_for-sale DNS records",
+    "Url": "https://specification.website/spec/foundations/for-sale-dns/",
+    "Description": "_for-sale DNS records",
+    "Metadata": {
+      "score": "379",
+      "author": "shaunpud",
+      "commentCount": "141"
+    },
+    "FetchedAt": "2026-08-09T06:41:26.2640706+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49180649"
+    },
+    "Type": 1,
+    "Title": "Making difficulty curves in games",
+    "Url": "http://www.davetech.co.uk/difficultycurves",
+    "Description": "Making difficulty curves in games",
+    "Metadata": {
+      "score": "99",
+      "author": "hakkikonu",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-08-09T06:41:26.2987637+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49228350"
+    },
+    "Type": 1,
+    "Title": "Illinois just told every operating system to start reporting your kid\u0027s age",
+    "Url": "https://itsfoss.com/news/illinois-age-verification-bill/",
+    "Description": "Illinois just told every operating system to start reporting your kid\u0027s age",
+    "Metadata": {
+      "score": "49",
+      "author": "WaitWaitWha",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-08-09T06:41:26.3343155+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49225139"
+    },
+    "Type": 1,
+    "Title": "Open-source interactive map for the Aug 12 total solar eclipse",
+    "Url": "https://eclipsefan.org/?v=2\u0026t=max\u0026layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm\u0026lat=43.4623\u0026lon=-3.8099\u0026opacity=besselian%3A0.2%2Cumbra-live%3A0.2\u0026zoom=6\u0026palier=minute",
+    "Description": "Open-source interactive map for the Aug 12 total solar eclipse",
+    "Metadata": {
+      "score": "126",
+      "author": "MarcoDewey",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-08-09T06:41:26.3695625+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49228166"
+    },
+    "Type": 1,
+    "Title": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection",
+    "Url": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
+    "Description": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection",
+    "Metadata": {
+      "score": "112",
+      "author": "minimaxir",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-08-09T06:41:26.4059952+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49164687"
+    },
+    "Type": 1,
+    "Title": "Assert(): A Modern How To",
+    "Url": "https://fiberfs.io/blog/assert_a_modern_how_to",
+    "Description": "Assert(): A Modern How To",
+    "Metadata": {
+      "score": "7",
+      "author": "nyc_pizzadev",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-09T06:41:26.4411937+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49227505"
+    },
+    "Type": 1,
+    "Title": "TheoremDB \u2013 A public workspace for machine mathematics",
+    "Url": "https://theoremdb.org/",
+    "Description": "TheoremDB \u2013 A public workspace for machine mathematics",
+    "Metadata": {
+      "score": "24",
+      "author": "frozenseven",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-09T06:41:26.47624+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49221711"
+    },
+    "Type": 1,
+    "Title": "Triton: DirectX 11 Driver for QEMU",
+    "Url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+    "Description": "Triton: DirectX 11 Driver for QEMU",
+    "Metadata": {
+      "score": "163",
+      "author": "electricant",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-08-09T06:41:26.512008+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49133850"
+    },
+    "Type": 1,
+    "Title": "Building a local positioning system to track runners using Ultra-Wideband",
+    "Url": "https://zeus.ugent.be/blog/25-26/12urenloop-uwb/",
+    "Description": "Building a local positioning system to track runners using Ultra-Wideband",
+    "Metadata": {
+      "score": "67",
+      "author": "robinpdev",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-08-09T06:41:26.6602939+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49228086"
+    },
+    "Type": 1,
+    "Title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+    "Url": "https://marketnow.site/",
+    "Description": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+    "Metadata": {
+      "score": "7",
+      "author": "eddyflores",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-09T06:41:26.7578776+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49082647"
+    },
+    "Type": 1,
+    "Title": "Fixing my tooltip accessibility mistake",
+    "Url": "https://jakearchibald.com/2026/my-tooltip-a11y-mistake/",
+    "Description": "Fixing my tooltip accessibility mistake",
+    "Metadata": {
+      "score": "22",
+      "author": "robin_reala",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-09T06:41:26.8083642+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49145193"
+    },
+    "Type": 1,
+    "Title": "Finding zombies in our systems: A real-world story of CPU bottlenecks",
+    "Url": "https://medium.com/pinterest-engineering/finding-zombies-in-our-systems-a-real-world-story-of-cpu-bottlenecks-ea4722e552eb",
+    "Description": "Finding zombies in our systems: A real-world story of CPU bottlenecks",
+    "Metadata": {
+      "score": "40",
+      "author": "fagnerbrack",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-08-09T06:41:26.8474259+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49179352"
+    },
+    "Type": 1,
+    "Title": "The Sound and Music of \u0027Hyper Light Drifter\u0027 [video]",
+    "Url": "https://gdcvault.com/play/1024135/The-Sound-and-Music-of",
+    "Description": "The Sound and Music of \u0027Hyper Light Drifter\u0027 [video]",
+    "Metadata": {
+      "score": "41",
+      "author": "hyperific",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-08-09T06:41:26.8874943+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49222824"
+    },
+    "Type": 1,
+    "Title": "Message your other Claude Code sessions",
+    "Url": "https://code.claude.com/docs/en/cross-session-messaging",
+    "Description": "Message your other Claude Code sessions",
+    "Metadata": {
+      "score": "105",
+      "author": "mfiguiere",
+      "commentCount": "44"
+    },
+    "FetchedAt": "2026-08-09T06:41:26.9212829+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49215786"
+    },
+    "Type": 1,
+    "Title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+    "Url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;un1c0rnioz\u0026#x2F;status\u0026#x2F;2084686552299634805\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;un1c0rnioz\u0026#x2F;status\u0026#x2F;2084686552299634805\u003C/a\u003E",
+    "Metadata": {
+      "score": "266",
+      "author": "ilamont",
+      "commentCount": "192"
+    },
+    "FetchedAt": "2026-08-09T06:41:26.9560617+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49227655"
+    },
+    "Type": 1,
+    "Title": "\u0022Coding is solved\u0022 misses the point",
+    "Url": "https://blog.mastykarz.nl/coding-is-solved-misses-the-point/",
+    "Description": "\u0022Coding is solved\u0022 misses the point",
+    "Metadata": {
+      "score": "11",
+      "author": "listless",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-08-09T06:41:26.9921219+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49151146"
+    },
+    "Type": 1,
+    "Title": "DDisasm: Reversible (bi-directional) Disassembler",
+    "Url": "https://github.com/GrammaTech/ddisasm",
+    "Description": "DDisasm: Reversible (bi-directional) Disassembler",
+    "Metadata": {
+      "score": "34",
+      "author": "aboardRat4",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-08-09T06:41:27.0274981+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49169973"
+    },
+    "Type": 1,
+    "Title": "Preventing Misfolding by Preventing Folding",
+    "Url": "https://www.science.org/content/blog-post/preventing-misfolding-preventing-folding",
+    "Description": "Preventing Misfolding by Preventing Folding",
+    "Metadata": {
+      "score": "59",
+      "author": "surprisetalk",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-08-09T06:41:27.0629975+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49222189"
+    },
+    "Type": 1,
+    "Title": "\u201CCode was never the hard part\u201D is an insult to all programmers",
+    "Url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+    "Description": "\u201CCode was never the hard part\u201D is an insult to all programmers",
+    "Metadata": {
+      "score": "681",
+      "author": "senko",
+      "commentCount": "413"
+    },
+    "FetchedAt": "2026-08-09T06:41:27.0980395+00:00"
   }
 ]
