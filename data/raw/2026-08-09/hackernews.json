@@ -436,51 +436,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49229174"
-    },
-    "Type": 1,
-    "Title": "There Are Magic Hexagons of Every Order",
-    "Url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
-    "Description": "There Are Magic Hexagons of Every Order",
-    "Metadata": {
-      "score": "64",
-      "author": "gukoff",
-      "commentCount": "14"
-    },
-    "FetchedAt": "2026-08-09T12:33:17.4259046+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49226636"
-    },
-    "Type": 1,
-    "Title": "My server is a phone now",
-    "Url": "https://seg6.space/posts/phone-server/",
-    "Description": "My server is a phone now",
-    "Metadata": {
-      "score": "371",
-      "author": "seg6",
-      "commentCount": "155"
-    },
-    "FetchedAt": "2026-08-09T12:33:17.4842627+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49228663"
-    },
-    "Type": 1,
-    "Title": "Microsoft Word for Windows 1.1a, Native X64 Port",
-    "Url": "https://github.com/jmarshall23/msword",
-    "Description": "Microsoft Word for Windows 1.1a, Native X64 Port",
-    "Metadata": {
-      "score": "100",
-      "author": "BruceEel",
-      "commentCount": "43"
-    },
-    "FetchedAt": "2026-08-09T12:33:17.5427371+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49226923"
     },
     "Type": 1,
@@ -511,21 +466,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49178476"
-    },
-    "Type": 1,
-    "Title": "The Grid That Doubles the Strength of the Ground",
-    "Url": "https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground",
-    "Description": "The Grid That Doubles the Strength of the Ground",
-    "Metadata": {
-      "score": "40",
-      "author": "michaefe",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-08-09T12:33:17.7179529+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49230514"
     },
     "Type": 1,
@@ -538,21 +478,6 @@
       "commentCount": "2"
     },
     "FetchedAt": "2026-08-09T12:33:17.7767035+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49230022"
-    },
-    "Type": 1,
-    "Title": "The Alpha 21264 CPU: NT\u0027s Greatest RISC (1998)",
-    "Url": "https://halfhill.com/byte/1998-12_alpha.html",
-    "Description": "The Alpha 21264 CPU: NT\u0027s Greatest RISC (1998)",
-    "Metadata": {
-      "score": "17",
-      "author": "Lammy",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-08-09T12:33:17.8361538+00:00"
   },
   {
     "ExternalId": {
@@ -598,21 +523,6 @@
       "commentCount": "21"
     },
     "FetchedAt": "2026-08-09T12:33:18.0123037+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49226536"
-    },
-    "Type": 1,
-    "Title": "Shopify replaced Redis with MySQL for inventory reservations\u2013and it scaled",
-    "Url": "https://shopify.engineering/scaling-inventory-reservations",
-    "Description": "Shopify replaced Redis with MySQL for inventory reservations\u2013and it scaled",
-    "Metadata": {
-      "score": "239",
-      "author": "adletbalzhanov",
-      "commentCount": "151"
-    },
-    "FetchedAt": "2026-08-09T12:33:18.0706265+00:00"
   },
   {
     "ExternalId": {
@@ -766,21 +676,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49229848"
-    },
-    "Type": 1,
-    "Title": "Show HN: Airy \u2013 Free, fast, and simple voice content creation",
-    "Url": "https://airy.so",
-    "Description": "Show HN: Airy \u2013 Free, fast, and simple voice content creation",
-    "Metadata": {
-      "score": "5",
-      "author": "login588",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-08-09T12:33:18.7183727+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49225139"
     },
     "Type": 1,
@@ -826,21 +721,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49227505"
-    },
-    "Type": 1,
-    "Title": "TheoremDB \u2013 A public workspace for machine mathematics",
-    "Url": "https://theoremdb.org/",
-    "Description": "TheoremDB \u2013 A public workspace for machine mathematics",
-    "Metadata": {
-      "score": "49",
-      "author": "frozenseven",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-08-09T12:33:18.953675+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49230066"
     },
     "Type": 1,
@@ -883,5 +763,455 @@
       "commentCount": "22"
     },
     "FetchedAt": "2026-08-09T12:33:19.1403019+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49232318"
+    },
+    "Type": 1,
+    "Title": "Criminal Deception in Silicon Valley",
+    "Url": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
+    "Description": "Criminal Deception in Silicon Valley",
+    "Metadata": {
+      "score": "114",
+      "author": "iamnothere",
+      "commentCount": "48"
+    },
+    "FetchedAt": "2026-08-09T18:28:11.5550023+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49231154"
+    },
+    "Type": 1,
+    "Title": "Mea Culpa \u2013 Dark Hours",
+    "Url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+    "Description": "Mea Culpa \u2013 Dark Hours",
+    "Metadata": {
+      "score": "381",
+      "author": "satvikpendem",
+      "commentCount": "167"
+    },
+    "FetchedAt": "2026-08-09T18:28:11.5848248+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49233423"
+    },
+    "Type": 1,
+    "Title": "Ask HN: What are you working on? (August 2026)",
+    "Url": "https://news.ycombinator.com/item?id=49233423",
+    "Description": "What are you working on?  What have you been curious about lately?",
+    "Metadata": {
+      "score": "34",
+      "author": "david927",
+      "commentCount": "105"
+    },
+    "FetchedAt": "2026-08-09T18:28:11.6142061+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49233394"
+    },
+    "Type": 1,
+    "Title": "Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon",
+    "Url": "https://frequal.com/aptera/ProductionImminent.html",
+    "Description": "Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon",
+    "Metadata": {
+      "score": "26",
+      "author": "TeaVMFan",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-08-09T18:28:11.6438297+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49233448"
+    },
+    "Type": 1,
+    "Title": "OpenChamber: An Agentic Development Environment",
+    "Url": "https://openchamber.dev/",
+    "Description": "OpenChamber: An Agentic Development Environment",
+    "Metadata": {
+      "score": "18",
+      "author": "hexomancer",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-08-09T18:28:11.6728967+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49231809"
+    },
+    "Type": 1,
+    "Title": "Cool URIs Don\u0027t Change (1998)",
+    "Url": "https://www.w3.org/Provider/Style/URI",
+    "Description": "Cool URIs Don\u0027t Change (1998)",
+    "Metadata": {
+      "score": "68",
+      "author": "Klaster_1",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-08-09T18:28:11.7030005+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49231397"
+    },
+    "Type": 1,
+    "Title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
+    "Url": "https://kibotronics.net/unlisted/lilly-machines/",
+    "Description": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
+    "Metadata": {
+      "score": "70",
+      "author": "Kiboneu",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-08-09T18:28:11.7350316+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49230891"
+    },
+    "Type": 1,
+    "Title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+    "Url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
+    "Description": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+    "Metadata": {
+      "score": "78",
+      "author": "Rochus",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-08-09T18:28:11.7642573+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49232410"
+    },
+    "Type": 1,
+    "Title": "Every fast write moves work somewhere else",
+    "Url": "https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/",
+    "Description": "Every fast write moves work somewhere else",
+    "Metadata": {
+      "score": "24",
+      "author": "shayonj",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-08-09T18:28:11.7934663+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49232300"
+    },
+    "Type": 1,
+    "Title": "Human vs. AI \u2013 Diff-based line-level provenance for text under agentic editing",
+    "Url": "https://github.com/eighttrigrams/us-vs-them",
+    "Description": "Human vs. AI \u2013 Diff-based line-level provenance for text under agentic editing",
+    "Metadata": {
+      "score": "18",
+      "author": "eighttrigrams",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-09T18:28:11.8226626+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49183291"
+    },
+    "Type": 1,
+    "Title": "Crickets as Pets",
+    "Url": "https://en.wikipedia.org/wiki/Crickets_as_pets",
+    "Description": "Crickets as Pets",
+    "Metadata": {
+      "score": "25",
+      "author": "Michelangelo11",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-08-09T18:28:11.8519248+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49233306"
+    },
+    "Type": 1,
+    "Title": "Show HN: A replayable A2A jury for tracing how agents influence decisions",
+    "Url": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom",
+    "Description": "Show HN: A replayable A2A jury for tracing how agents influence decisions",
+    "Metadata": {
+      "score": "5",
+      "author": "nmaroulis21",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-09T18:28:11.8854883+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49229174"
+    },
+    "Type": 1,
+    "Title": "There Are Magic Hexagons of Every Order",
+    "Url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
+    "Description": "There Are Magic Hexagons of Every Order",
+    "Metadata": {
+      "score": "149",
+      "author": "gukoff",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-08-09T18:28:11.9145757+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49232110"
+    },
+    "Type": 1,
+    "Title": "Tom Stanton\u0027s supersonic trebuchet breaks sound barrier with gravity alone",
+    "Url": "https://www.techeblog.com/tom-stanton-supersonic-trebuchet/",
+    "Description": "Tom Stanton\u0027s supersonic trebuchet breaks sound barrier with gravity alone",
+    "Metadata": {
+      "score": "100",
+      "author": "Thorondor",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-08-09T18:28:11.9437275+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49232857"
+    },
+    "Type": 1,
+    "Title": "FCC moves to ban Lidar-equipped foreign drones from US",
+    "Url": "https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows",
+    "Description": "FCC moves to ban Lidar-equipped foreign drones from US",
+    "Metadata": {
+      "score": "42",
+      "author": "f-serif",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-08-09T18:28:11.9734526+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49228663"
+    },
+    "Type": 1,
+    "Title": "Microsoft Word for Windows 1.1a, Native X64 Port",
+    "Url": "https://github.com/jmarshall23/msword",
+    "Description": "Microsoft Word for Windows 1.1a, Native X64 Port",
+    "Metadata": {
+      "score": "141",
+      "author": "BruceEel",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-08-09T18:28:12.0041135+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49231586"
+    },
+    "Type": 1,
+    "Title": "A partial digestion of the HRT counterexample",
+    "Url": "https://terrytao.wordpress.com/2026/08/06/a-partial-digestion-of-the-hrt-counterexample/",
+    "Description": "A partial digestion of the HRT counterexample",
+    "Metadata": {
+      "score": "14",
+      "author": "ijustlovemath",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-09T18:28:12.0428259+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49232253"
+    },
+    "Type": 1,
+    "Title": "Taxi drivers rarely die of Alzheimer\u0027s",
+    "Url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+    "Description": "Taxi drivers rarely die of Alzheimer\u0027s",
+    "Metadata": {
+      "score": "54",
+      "author": "jader201",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-08-09T18:28:12.0721903+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49232778"
+    },
+    "Type": 1,
+    "Title": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+    "Url": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/",
+    "Description": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+    "Metadata": {
+      "score": "10",
+      "author": "ashurandi",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-08-09T18:28:12.1016584+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49189618"
+    },
+    "Type": 1,
+    "Title": "Literary Sins",
+    "Url": "https://www.thedial.world/articles/news/seven-literary-sins",
+    "Description": "Literary Sins",
+    "Metadata": {
+      "score": "10",
+      "author": "lermontov",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-09T18:28:12.1307794+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49230022"
+    },
+    "Type": 1,
+    "Title": "The Alpha 21264 CPU: NT\u0027s Greatest RISC (1998)",
+    "Url": "https://halfhill.com/byte/1998-12_alpha.html",
+    "Description": "The Alpha 21264 CPU: NT\u0027s Greatest RISC (1998)",
+    "Metadata": {
+      "score": "62",
+      "author": "Lammy",
+      "commentCount": "41"
+    },
+    "FetchedAt": "2026-08-09T18:28:12.1600426+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49231777"
+    },
+    "Type": 1,
+    "Title": "Show HN: Today\u0027s cities on a globe of Earth\u0027s tectonic past and future",
+    "Url": "https://douwe.com/projects/tectonic_globe",
+    "Description": "Show HN: Today\u0027s cities on a globe of Earth\u0027s tectonic past and future",
+    "Metadata": {
+      "score": "16",
+      "author": "dosinga",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-08-09T18:28:12.1895441+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49232221"
+    },
+    "Type": 1,
+    "Title": "Silicon Valley misreads science fiction and undermines democracy",
+    "Url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+    "Description": "Silicon Valley misreads science fiction and undermines democracy",
+    "Metadata": {
+      "score": "158",
+      "author": "evo_9",
+      "commentCount": "121"
+    },
+    "FetchedAt": "2026-08-09T18:28:12.218949+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49178476"
+    },
+    "Type": 1,
+    "Title": "The Grid That Doubles the Strength of the Ground",
+    "Url": "https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground",
+    "Description": "The Grid That Doubles the Strength of the Ground",
+    "Metadata": {
+      "score": "105",
+      "author": "michaefe",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-08-09T18:28:12.2483713+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49232138"
+    },
+    "Type": 1,
+    "Title": "Windows 11\u0027s built-in Weather app wastes more than 1 GB of RAM",
+    "Url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
+    "Description": "Windows 11\u0027s built-in Weather app wastes more than 1 GB of RAM",
+    "Metadata": {
+      "score": "135",
+      "author": "akyuu",
+      "commentCount": "112"
+    },
+    "FetchedAt": "2026-08-09T18:28:12.2783239+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49232548"
+    },
+    "Type": 1,
+    "Title": "UnYOLO: Agent credential broker and policy engine for your GitHub account",
+    "Url": "https://unyolo.io/",
+    "Description": "UnYOLO: Agent credential broker and policy engine for your GitHub account",
+    "Metadata": {
+      "score": "4",
+      "author": "hosolmaz",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-09T18:28:12.3078278+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49229848"
+    },
+    "Type": 1,
+    "Title": "Show HN: Airy \u2013 Free, fast, and simple voice content creation",
+    "Url": "https://airy.so",
+    "Description": "Show HN: Airy \u2013 Free, fast, and simple voice content creation",
+    "Metadata": {
+      "score": "26",
+      "author": "login588",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-08-09T18:28:12.3371044+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49226536"
+    },
+    "Type": 1,
+    "Title": "We replaced Redis with MySQL for inventory reservations and it scaled",
+    "Url": "https://shopify.engineering/scaling-inventory-reservations",
+    "Description": "We replaced Redis with MySQL for inventory reservations and it scaled",
+    "Metadata": {
+      "score": "317",
+      "author": "adletbalzhanov",
+      "commentCount": "220"
+    },
+    "FetchedAt": "2026-08-09T18:28:12.3661242+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49226636"
+    },
+    "Type": 1,
+    "Title": "My server is a phone now",
+    "Url": "https://seg6.space/posts/phone-server/",
+    "Description": "My server is a phone now",
+    "Metadata": {
+      "score": "460",
+      "author": "seg6",
+      "commentCount": "224"
+    },
+    "FetchedAt": "2026-08-09T18:28:12.3958513+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49227505"
+    },
+    "Type": 1,
+    "Title": "TheoremDB \u2013 A public workspace for machine mathematics",
+    "Url": "https://theoremdb.org/",
+    "Description": "TheoremDB \u2013 A public workspace for machine mathematics",
+    "Metadata": {
+      "score": "84",
+      "author": "frozenseven",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-08-09T18:28:12.4251721+00:00"
   }
 ]
