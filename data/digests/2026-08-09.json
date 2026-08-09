@@ -1,0 +1,608 @@
+{
+  "Id": "2026-08-09",
+  "GeneratedAt": "2026-08-09T01:46:15.2739497+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:PrimeIntellect-ai/prime-agent"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A self-improving RLM agent for coding workflows and long-running autonomous tasks."
+      },
+      "Description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:addyosmani/agent-skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Production-grade engineering skills for AI coding agents."
+      },
+      "Description": "Production-grade engineering skills for AI coding agents.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:TapXWorld/ChinaTextbook"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u6240\u6709\u5C0F\u521D\u9AD8\u3001\u5927\u5B66PDF\u6559\u6750\u3002"
+      },
+      "Description": "\u6240\u6709\u5C0F\u521D\u9AD8\u3001\u5927\u5B66PDF\u6559\u6750\u3002",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:google/skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Agent Skills for Google products and technologies"
+      },
+      "Description": "Agent Skills for Google products and technologies",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:TauricResearch/TradingAgents"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+      },
+      "Description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:google/guava"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Google core libraries for Java"
+      },
+      "Description": "Google core libraries for Java",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:LadybirdBrowser/ladybird"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Truly independent web browser"
+      },
+      "Description": "Truly independent web browser",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:denoland/celld"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "self-hosted, distributed Durable Objects"
+      },
+      "Description": "self-hosted, distributed Durable Objects",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:litu54/DevOps-Interview-Guide"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": " DevOps Interview Guide"
+      },
+      "Description": " DevOps Interview Guide",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:bannedbook/fanqiang"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u7FFB\u5899-\u79D1\u5B66\u4E0A\u7F51"
+      },
+      "Description": "\u7FFB\u5899-\u79D1\u5B66\u4E0A\u7F51",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49226636"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "My server is a phone now"
+      },
+      "Description": "My server is a phone now",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49223082"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Fastmail offers EU data region"
+      },
+      "Description": "Fastmail offers EU data region",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49079995"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Improving Heuristics for A* Pathfinding"
+      },
+      "Description": "Improving Heuristics for A* Pathfinding",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49221668"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "_for-sale DNS records"
+      },
+      "Description": "_for-sale DNS records",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49225139"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Open-source interactive map for the Aug 12 total solar eclipse"
+      },
+      "Description": "Open-source interactive map for the Aug 12 total solar eclipse",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49180649"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Making difficulty curves in games"
+      },
+      "Description": "Making difficulty curves in games",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49223079"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Can Intel finally beat ARM on performance per Watt?"
+      },
+      "Description": "Can Intel finally beat ARM on performance per Watt?",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49226827"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal"
+      },
+      "Description": "Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49220126"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "DeepMind\u0027s WeatherNext model achieves breakthrough forecasting cyclones"
+      },
+      "Description": "DeepMind\u0027s WeatherNext model achieves breakthrough forecasting cyclones",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49220609"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Timeline of the OpenAI accidental attack against Hugging Face"
+      },
+      "Description": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49225918"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack"
+      },
+      "Description": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49221711"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Triton: DirectX 11 Driver for QEMU"
+      },
+      "Description": "Triton: DirectX 11 Driver for QEMU",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49133850"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Building a local positioning system to track runners using Ultra-Wideband"
+      },
+      "Description": "Building a local positioning system to track runners using Ultra-Wideband",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49169973"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Preventing Misfolding by Preventing Folding"
+      },
+      "Description": "Preventing Misfolding by Preventing Folding",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49220339"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;W2tpE\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;W2tpE\u003C/a\u003E"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;W2tpE\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;W2tpE\u003C/a\u003E",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49224294"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Danish high schoolers will have to verbally defend written assignments"
+      },
+      "Description": "Danish high schoolers will have to verbally defend written assignments",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49226742"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Dithered QR Codes"
+      },
+      "Description": "Dithered QR Codes",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49224020"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "TinySol, a tiny solitaire game for DOS"
+      },
+      "Description": "TinySol, a tiny solitaire game for DOS",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49179352"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Sound and Music of \u0027Hyper Light Drifter\u0027 [video]"
+      },
+      "Description": "The Sound and Music of \u0027Hyper Light Drifter\u0027 [video]",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49151146"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "DDisasm: Reversible (bi-directional) Disassembler"
+      },
+      "Description": "DDisasm: Reversible (bi-directional) Disassembler",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49226923"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386"
+      },
+      "Description": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49221220"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Gateway 2000\u0027s hilariously bad ads in the 90s (Part II)"
+      },
+      "Description": "Gateway 2000\u0027s hilariously bad ads in the 90s (Part II)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49222189"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u201CCode was never the hard part\u201D is an insult to all programmers"
+      },
+      "Description": "\u201CCode was never the hard part\u201D is an insult to all programmers",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49226536"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Shopify replaced Redis with MySQL for inventory reservations\u2013and it scaled"
+      },
+      "Description": "Shopify replaced Redis with MySQL for inventory reservations\u2013and it scaled",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49219508"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hardware backdoors in some x86 CPUs"
+      },
+      "Description": "Hardware backdoors in some x86 CPUs",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49225676"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]"
+      },
+      "Description": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49215786"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;un1c0rnioz\u0026#x2F;status\u0026#x2F;2084686552299634805\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;un1c0rnioz\u0026#x2F;status\u0026#x2F;2084686552299634805\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;un1c0rn",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49226767"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Depression has tripled in the last 15 years. Arthur Brooks about the cause"
+      },
+      "Description": "Depression has tripled in the last 15 years. Arthur Brooks about the cause",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49222824"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Message your other Claude Code sessions"
+      },
+      "Description": "Message your other Claude Code sessions",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49221679"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Voyager 1 FDS Computer Emulator"
+      },
+      "Description": "Voyager 1 FDS Computer Emulator",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 40 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
