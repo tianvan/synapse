@@ -391,21 +391,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49241679"
-    },
-    "Type": 1,
-    "Title": "Meta Muse Glimmer \u2013 open weights 30B local coding model",
-    "Url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-    "Description": "Meta Muse Glimmer \u2013 open weights 30B local coding model",
-    "Metadata": {
-      "score": "270",
-      "author": "riordan",
-      "commentCount": "106"
-    },
-    "FetchedAt": "2026-08-10T12:51:15.8120177+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49242245"
     },
     "Type": 1,
@@ -418,36 +403,6 @@
       "commentCount": "13"
     },
     "FetchedAt": "2026-08-10T12:51:15.8446673+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49242297"
-    },
-    "Type": 1,
-    "Title": "Tail-call optimization in C is relatively recent",
-    "Url": "https://lwn.net/Articles/1034703/",
-    "Description": "Tail-call optimization in C is relatively recent",
-    "Metadata": {
-      "score": "25",
-      "author": "prakashqwerty",
-      "commentCount": "8"
-    },
-    "FetchedAt": "2026-08-10T12:51:15.8777053+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49239751"
-    },
-    "Type": 1,
-    "Title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
-    "Url": "https://www.docker.com/products/docker-sandboxes/",
-    "Description": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
-    "Metadata": {
-      "score": "321",
-      "author": "etoxin",
-      "commentCount": "185"
-    },
-    "FetchedAt": "2026-08-10T12:51:15.9103929+00:00"
   },
   {
     "ExternalId": {
@@ -466,21 +421,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49242653"
-    },
-    "Type": 1,
-    "Title": "Squeak/Smalltalk 6.1 Release Notes",
-    "Url": "https://squeak.org/release_notes/6.1/",
-    "Description": "Squeak/Smalltalk 6.1 Release Notes",
-    "Metadata": {
-      "score": "4",
-      "author": "fniephaus",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-08-10T12:51:15.9773782+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49242213"
     },
     "Type": 1,
@@ -493,21 +433,6 @@
       "commentCount": "34"
     },
     "FetchedAt": "2026-08-10T12:51:16.0094694+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49241846"
-    },
-    "Type": 1,
-    "Title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
-    "Url": "https://ethw.org/Milestones:Parametron,_1954",
-    "Description": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
-    "Metadata": {
-      "score": "9",
-      "author": "xeonmc",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-08-10T12:51:16.042772+00:00"
   },
   {
     "ExternalId": {
@@ -838,5 +763,455 @@
       "commentCount": "257"
     },
     "FetchedAt": "2026-08-10T12:51:16.7892705+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49241679"
+    },
+    "Type": 1,
+    "Title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+    "Url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "Description": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+    "Metadata": {
+      "score": "804",
+      "author": "riordan",
+      "commentCount": "452"
+    },
+    "FetchedAt": "2026-08-10T18:44:42.7230592+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49208296"
+    },
+    "Type": 1,
+    "Title": "Sonic Pi v5",
+    "Url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
+    "Description": "Sonic Pi v5",
+    "Metadata": {
+      "score": "131",
+      "author": "samaaron",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-08-10T18:44:42.7462736+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49247070"
+    },
+    "Type": 1,
+    "Title": "Learning more about Claude\u0027s mathematical capabilities",
+    "Url": "https://www.anthropic.com/research/riemann-zeta",
+    "Description": "Learning more about Claude\u0027s mathematical capabilities",
+    "Metadata": {
+      "score": "57",
+      "author": "tosh",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-08-10T18:44:42.7908178+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49246057"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Stoa Markets (YC S26) \u2013 A Marketplace for GPUs and AI Servers",
+    "Url": "https://www.stoaexchange.com",
+    "Description": "Hi HN, we\u2019re Eren, Berat and Kaan. We\u2019re building Stoa (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.stoaexchange.com\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.stoaexchange.com\u003C/a\u003E), a marketplace for new and used GPUs and AI servers.\u003Cp\u003EGPUs are the collateral in the data center buildout. Today, financing terms mostly depend on the offtaker, meaning the company that has committed to use the compute.\u003Cp\u003EIf that company is a hyperscaler, the financing can look investment grade. If it\u2019s a smaller cloud or startup, terms get expensi",
+    "Metadata": {
+      "score": "36",
+      "author": "erenberke",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-08-10T18:44:42.8138135+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49245437"
+    },
+    "Type": 1,
+    "Title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+    "Url": "https://github.com/AntigmaLabs/ante",
+    "Description": "Show HN: Ante, a coding agent in a single binary that runs offline",
+    "Metadata": {
+      "score": "77",
+      "author": "ubermon",
+      "commentCount": "50"
+    },
+    "FetchedAt": "2026-08-10T18:44:42.8350728+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49245491"
+    },
+    "Type": 1,
+    "Title": "Exploiting System Management Mode with a very long interrupt",
+    "Url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
+    "Description": "Exploiting System Management Mode with a very long interrupt",
+    "Metadata": {
+      "score": "61",
+      "author": "WhiteDawn",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-08-10T18:44:42.8577406+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49245359"
+    },
+    "Type": 1,
+    "Title": "The Tragedy of the Cognitive Commons",
+    "Url": "https://arxiv.org/abs/2607.29380",
+    "Description": "The Tragedy of the Cognitive Commons",
+    "Metadata": {
+      "score": "41",
+      "author": "jmintz",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-08-10T18:44:42.879252+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49245348"
+    },
+    "Type": 1,
+    "Title": "Midlife Vascular Risk Burden and Dementia-Free Survival Years",
+    "Url": "https://www.neurology.org/doi/10.1212/WN9.0000000000000152",
+    "Description": "Midlife Vascular Risk Burden and Dementia-Free Survival Years",
+    "Metadata": {
+      "score": "46",
+      "author": "bookofjoe",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-08-10T18:44:42.9018734+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49243880"
+    },
+    "Type": 1,
+    "Title": "Mark Zuckerberg attacks \u0027closed\u0027 AI rivals as Meta returns to open models",
+    "Url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;20LOJ\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;20LOJ\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.meta.com\u0026#x2F;thefutureisforeveryone\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.meta.com\u0026#x2F;thefutureisforeveryone\u0026#x2F;\u003C/a\u003E",
+    "Metadata": {
+      "score": "94",
+      "author": "root-parent",
+      "commentCount": "109"
+    },
+    "FetchedAt": "2026-08-10T18:44:42.9227298+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49242653"
+    },
+    "Type": 1,
+    "Title": "Squeak 6.1",
+    "Url": "https://squeak.org/release_notes/6.1/",
+    "Description": "Squeak 6.1",
+    "Metadata": {
+      "score": "139",
+      "author": "fniephaus",
+      "commentCount": "82"
+    },
+    "FetchedAt": "2026-08-10T18:44:42.9439063+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49245251"
+    },
+    "Type": 1,
+    "Title": "Magnitude 7.4 Earthquake \u2013 5 km S of San Jos\u00E9 del Palmar, Colombia",
+    "Url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive",
+    "Description": "Magnitude 7.4 Earthquake \u2013 5 km S of San Jos\u00E9 del Palmar, Colombia",
+    "Metadata": {
+      "score": "113",
+      "author": "Bender",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-08-10T18:44:42.9657178+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49244916"
+    },
+    "Type": 1,
+    "Title": "Itadakimasu: A word you say to the food, not the cook",
+    "Url": "https://thetokyohermit.substack.com/p/itadakimasu-a-word-you-say-to-the",
+    "Description": "Itadakimasu: A word you say to the food, not the cook",
+    "Metadata": {
+      "score": "81",
+      "author": "surprisetalk",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-08-10T18:44:42.9875208+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49239751"
+    },
+    "Type": 1,
+    "Title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
+    "Url": "https://www.docker.com/products/docker-sandboxes/",
+    "Description": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
+    "Metadata": {
+      "score": "533",
+      "author": "etoxin",
+      "commentCount": "317"
+    },
+    "FetchedAt": "2026-08-10T18:44:43.0096778+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49213660"
+    },
+    "Type": 1,
+    "Title": "Ask HN: In your experience, what are sound conventions for e-ink UI development?",
+    "Url": "https://news.ycombinator.com/item?id=49213660",
+    "Description": "TL;DR I\u0026#x27;m looking for advice regarding browser-based frontend development from people with practical e-ink UI experience. My specific device is a Bigme Hibreak Pro BW but I\u0026#x27;m aiming for relatively broad compatibility.\u003Cp\u003EI\u0026#x27;ve recently switched to a black-and-white e-ink smartphone with the motivation of withdrawing from the attention economy somewhat and it\u0026#x27;s a genuinely cool piece of hardware. While the majority of my needs are met by this device there are a few things I\u0026#x27",
+    "Metadata": {
+      "score": "68",
+      "author": "BoxOfRain",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-08-10T18:44:43.0315798+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49243029"
+    },
+    "Type": 1,
+    "Title": "50k Boat Names",
+    "Url": "https://www.beautifulpublicdata.com/boat-names/",
+    "Description": "50k Boat Names",
+    "Metadata": {
+      "score": "116",
+      "author": "jonathanmkeegan",
+      "commentCount": "72"
+    },
+    "FetchedAt": "2026-08-10T18:44:43.0524318+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49244308"
+    },
+    "Type": 1,
+    "Title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "Url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+    "Description": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "Metadata": {
+      "score": "54",
+      "author": "hackerBanana",
+      "commentCount": "72"
+    },
+    "FetchedAt": "2026-08-10T18:44:43.0742131+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49245318"
+    },
+    "Type": 1,
+    "Title": "Extreme 220GHz\u002BBroadband Silicon Capacitor X2SC 0201M 22nF BV11",
+    "Url": "https://pim.murata.com/asset/pim4/siliconCapacitor/SICAP_X2SC422522_PDF_SILICONCAPACITOR",
+    "Description": "Extreme 220GHz\u002BBroadband Silicon Capacitor X2SC 0201M 22nF BV11",
+    "Metadata": {
+      "score": "29",
+      "author": "peter_d_sherman",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-08-10T18:44:43.0951262+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49172319"
+    },
+    "Type": 1,
+    "Title": "The Psychedelic Toad of the Sonoran Desert",
+    "Url": "https://en.wikipedia.org/wiki/Bufo_Alvarius:_the_Psychedelic_Toad_of_the_Sonoran_Desert",
+    "Description": "The Psychedelic Toad of the Sonoran Desert",
+    "Metadata": {
+      "score": "5",
+      "author": "simonebrunozzi",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-10T18:44:43.1178635+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49245023"
+    },
+    "Type": 1,
+    "Title": "Mars Bar from 1991 found \u2013 and it\u0027s 20g bigger than today\u0027s",
+    "Url": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
+    "Description": "Mars Bar from 1991 found \u2013 and it\u0027s 20g bigger than today\u0027s",
+    "Metadata": {
+      "score": "200",
+      "author": "RickJWagner",
+      "commentCount": "279"
+    },
+    "FetchedAt": "2026-08-10T18:44:43.1407861+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49245421"
+    },
+    "Type": 1,
+    "Title": "Back to the Future of Handwriting Recognition (2016)",
+    "Url": "https://jackschaedler.github.io/handwriting-recognition/",
+    "Description": "Back to the Future of Handwriting Recognition (2016)",
+    "Metadata": {
+      "score": "21",
+      "author": "at1as",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-08-10T18:44:43.162774+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49209971"
+    },
+    "Type": 1,
+    "Title": "Sorting, hashing, and sketches on 370,103 words",
+    "Url": "https://stochastic.blog/sorting-hashing-and-sketches-on-370-103-words/",
+    "Description": "Sorting, hashing, and sketches on 370,103 words",
+    "Metadata": {
+      "score": "11",
+      "author": "Anon84",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-10T18:44:43.1846194+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49243397"
+    },
+    "Type": 1,
+    "Title": "Mistral Patent for \u201CCode implemented tool calls\u201D",
+    "Url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+    "Description": "Mistral Patent for \u201CCode implemented tool calls\u201D",
+    "Metadata": {
+      "score": "143",
+      "author": "theanonymousone",
+      "commentCount": "125"
+    },
+    "FetchedAt": "2026-08-10T18:44:43.2057483+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49244569"
+    },
+    "Type": 1,
+    "Title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
+    "Url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
+    "Description": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
+    "Metadata": {
+      "score": "100",
+      "author": "kotaKat",
+      "commentCount": "110"
+    },
+    "FetchedAt": "2026-08-10T18:44:43.2266686+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49242297"
+    },
+    "Type": 1,
+    "Title": "Tail-call optimization in C is relatively recent (2025)",
+    "Url": "https://lwn.net/Articles/1034703/",
+    "Description": "Tail-call optimization in C is relatively recent (2025)",
+    "Metadata": {
+      "score": "94",
+      "author": "prakashqwerty",
+      "commentCount": "74"
+    },
+    "FetchedAt": "2026-08-10T18:44:43.2477022+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49247461"
+    },
+    "Type": 1,
+    "Title": "Security Vulnerability in Pioneer Rekordbox",
+    "Url": "https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/",
+    "Description": "Security Vulnerability in Pioneer Rekordbox",
+    "Metadata": {
+      "score": "3",
+      "author": "butterknife",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-10T18:44:43.2688644+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49241846"
+    },
+    "Type": 1,
+    "Title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
+    "Url": "https://ethw.org/Milestones:Parametron,_1954",
+    "Description": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
+    "Metadata": {
+      "score": "126",
+      "author": "xeonmc",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-08-10T18:44:43.2935999+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49243474"
+    },
+    "Type": 1,
+    "Title": "Humanising LLM Outputs Is Dumb",
+    "Url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+    "Description": "Humanising LLM Outputs Is Dumb",
+    "Metadata": {
+      "score": "40",
+      "author": "kuberwastaken",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-08-10T18:44:43.3161848+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49242739"
+    },
+    "Type": 1,
+    "Title": "Tl;dv: Over 180k meetings left wide open",
+    "Url": "https://bobdahacker.com/blog/tldv-hack",
+    "Description": "Tl;dv: Over 180k meetings left wide open",
+    "Metadata": {
+      "score": "392",
+      "author": "colesantiago",
+      "commentCount": "134"
+    },
+    "FetchedAt": "2026-08-10T18:44:43.3394366+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49245646"
+    },
+    "Type": 1,
+    "Title": "Why Addresses Have Numbers",
+    "Url": "https://thehistoricalinsights.page/2026/06/why-addresses-have-numbers.html",
+    "Description": "Why Addresses Have Numbers",
+    "Metadata": {
+      "score": "16",
+      "author": "historical1234",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-08-10T18:44:43.3751282+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49244085"
+    },
+    "Type": 1,
+    "Title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+    "Url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+    "Description": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+    "Metadata": {
+      "score": "32",
+      "author": "sshh12",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-08-10T18:44:43.3974349+00:00"
   }
 ]
