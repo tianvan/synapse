@@ -211,96 +211,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49239751"
-    },
-    "Type": 1,
-    "Title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
-    "Url": "https://www.docker.com/products/docker-sandboxes/",
-    "Description": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
-    "Metadata": {
-      "score": "64",
-      "author": "etoxin",
-      "commentCount": "34"
-    },
-    "FetchedAt": "2026-08-10T07:15:37.7385255+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49238561"
-    },
-    "Type": 1,
-    "Title": "What Happened to HackerOne?",
-    "Url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-    "Description": "What Happened to HackerOne?",
-    "Metadata": {
-      "score": "167",
-      "author": "hipparchus",
-      "commentCount": "62"
-    },
-    "FetchedAt": "2026-08-10T07:15:37.771591+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49239021"
-    },
-    "Type": 1,
-    "Title": "Auto mode is now the default in Claude Code",
-    "Url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-    "Description": "Auto mode is now the default in Claude Code",
-    "Metadata": {
-      "score": "152",
-      "author": "sbehere",
-      "commentCount": "131"
-    },
-    "FetchedAt": "2026-08-10T07:15:37.8036227+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49238818"
-    },
-    "Type": 1,
-    "Title": "Run Android ARM64 VR APKs on Apple Vision Pro",
-    "Url": "https://github.com/shinyquagsire23/Klepton",
-    "Description": "Run Android ARM64 VR APKs on Apple Vision Pro",
-    "Metadata": {
-      "score": "42",
-      "author": "LorenDB",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-08-10T07:15:37.8353773+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49238851"
-    },
-    "Type": 1,
-    "Title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-    "Url": "https://www.whodunnitai.com/",
-    "Description": "Hey HN!\u003Cp\u003EI\u0026#x27;m excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn\u0026#x27;t quite happy with it.\u003Cp\u003EI recently had the desire to check out the tech again, and know many of you will be interested.\u003Cp\u003EInterviews are speech to speech with OpenAI\u0026#x27;s gpt-realtime-2.1 over WebRTC. This model is... expensive, and ",
-    "Metadata": {
-      "score": "55",
-      "author": "MrRowTheBoat",
-      "commentCount": "16"
-    },
-    "FetchedAt": "2026-08-10T07:15:37.8681428+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49234675"
-    },
-    "Type": 1,
-    "Title": "How I use LLMs to learn complex topics",
-    "Url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-    "Description": "How I use LLMs to learn complex topics",
-    "Metadata": {
-      "score": "592",
-      "author": "laurentiurad",
-      "commentCount": "336"
-    },
-    "FetchedAt": "2026-08-10T07:15:37.9000395+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49239226"
     },
     "Type": 1,
@@ -313,21 +223,6 @@
       "commentCount": "16"
     },
     "FetchedAt": "2026-08-10T07:15:37.9321642+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49238050"
-    },
-    "Type": 1,
-    "Title": "How We Pushed CDC into Postgres",
-    "Url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-    "Description": "How We Pushed CDC into Postgres",
-    "Metadata": {
-      "score": "79",
-      "author": "craigkerstiens",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-08-10T07:15:37.9640888+00:00"
   },
   {
     "ExternalId": {
@@ -361,81 +256,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49232253"
-    },
-    "Type": 1,
-    "Title": "Taxi drivers rarely die of Alzheimer\u0027s",
-    "Url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-    "Description": "Taxi drivers rarely die of Alzheimer\u0027s",
-    "Metadata": {
-      "score": "266",
-      "author": "jader201",
-      "commentCount": "185"
-    },
-    "FetchedAt": "2026-08-10T07:15:38.0600352+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49174017"
-    },
-    "Type": 1,
-    "Title": "Nearest Pint",
-    "Url": "https://knowwhereconsulting.co.uk/maps/pubs/",
-    "Description": "Nearest Pint",
-    "Metadata": {
-      "score": "21",
-      "author": "bookofjoe",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-08-10T07:15:38.0929821+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49205082"
-    },
-    "Type": 1,
-    "Title": "An Interesting Fourier Transform \u2013 1/F Noise",
-    "Url": "https://www.dsprelated.com/showarticle/40.php",
-    "Description": "An Interesting Fourier Transform \u2013 1/F Noise",
-    "Metadata": {
-      "score": "11",
-      "author": "q7m",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-08-10T07:15:38.1261253+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49233423"
-    },
-    "Type": 1,
-    "Title": "Ask HN: What are you working on? (August 2026)",
-    "Url": "https://news.ycombinator.com/item?id=49233423",
-    "Description": "What are you working on?  What have you been curious about lately?",
-    "Metadata": {
-      "score": "230",
-      "author": "david927",
-      "commentCount": "791"
-    },
-    "FetchedAt": "2026-08-10T07:15:38.1592563+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49202912"
-    },
-    "Type": 1,
-    "Title": "ATProto for Distributed Systems Engineers",
-    "Url": "https://atproto.com/articles/atproto-for-distsys-engineers",
-    "Description": "ATProto for Distributed Systems Engineers",
-    "Metadata": {
-      "score": "59",
-      "author": "LelouBil",
-      "commentCount": "12"
-    },
-    "FetchedAt": "2026-08-10T07:15:38.1923336+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49235011"
     },
     "Type": 1,
@@ -451,66 +271,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49182148"
-    },
-    "Type": 1,
-    "Title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
-    "Url": "https://gitlab.com/Kazade/picophysics",
-    "Description": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
-    "Metadata": {
-      "score": "48",
-      "author": "klaussilveira",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-08-10T07:15:38.258272+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49231809"
-    },
-    "Type": 1,
-    "Title": "Cool URIs Don\u0027t Change (1998)",
-    "Url": "https://www.w3.org/Provider/Style/URI",
-    "Description": "Cool URIs Don\u0027t Change (1998)",
-    "Metadata": {
-      "score": "225",
-      "author": "Klaster_1",
-      "commentCount": "54"
-    },
-    "FetchedAt": "2026-08-10T07:15:38.2904831+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49235641"
-    },
-    "Type": 1,
-    "Title": "New Zealand lost its music media, and what we\u0027re building to replace it",
-    "Url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
-    "Description": "New Zealand lost its music media, and what we\u0027re building to replace it",
-    "Metadata": {
-      "score": "107",
-      "author": "berghoffer",
-      "commentCount": "66"
-    },
-    "FetchedAt": "2026-08-10T07:15:38.3224377+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49235697"
-    },
-    "Type": 1,
-    "Title": "Tuxedo No. 2 \u2013 Cocktail recipes",
-    "Url": "https://tuxedono2.com",
-    "Description": "Tuxedo No. 2 \u2013 Cocktail recipes",
-    "Metadata": {
-      "score": "82",
-      "author": "smartmic",
-      "commentCount": "22"
-    },
-    "FetchedAt": "2026-08-10T07:15:38.3546361+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49205793"
     },
     "Type": 1,
@@ -523,36 +283,6 @@
       "commentCount": "6"
     },
     "FetchedAt": "2026-08-10T07:15:38.386762+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49230477"
-    },
-    "Type": 1,
-    "Title": "Everything you do is being recorded",
-    "Url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.theatlantic.com\u0026#x2F;technology\u0026#x2F;2026\u0026#x2F;05\u0026#x2F;ai-wearable-surveillance-countermeasures\u0026#x2F;687203\u0026#x2F;?gift=Exty0c37iBapZfMrmNPU4s4IrZcZyRSK4f5vxuwohBM\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.theatlantic.com\u0026#x2F;technology\u0026#x2F;2026\u0026#x2F;05\u0026#x2F;ai-wearable-s...\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;JxaZ7\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;JxaZ7\u003C/a\u003E",
-    "Metadata": {
-      "score": "275",
-      "author": "ike_usawa",
-      "commentCount": "218"
-    },
-    "FetchedAt": "2026-08-10T07:15:38.4193954+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49234271"
-    },
-    "Type": 1,
-    "Title": "I made tinnitus my friend, then it disappeared [video]",
-    "Url": "https://mynoise.net/vlog.php?ep=20260803",
-    "Description": "I made tinnitus my friend, then it disappeared [video]",
-    "Metadata": {
-      "score": "112",
-      "author": "gregsadetsky",
-      "commentCount": "83"
-    },
-    "FetchedAt": "2026-08-10T07:15:38.4514968+00:00"
   },
   {
     "ExternalId": {
@@ -658,5 +388,455 @@
       "commentCount": "95"
     },
     "FetchedAt": "2026-08-10T07:15:38.6769511+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49241679"
+    },
+    "Type": 1,
+    "Title": "Meta Muse Glimmer \u2013 open weights 30B local coding model",
+    "Url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "Description": "Meta Muse Glimmer \u2013 open weights 30B local coding model",
+    "Metadata": {
+      "score": "270",
+      "author": "riordan",
+      "commentCount": "106"
+    },
+    "FetchedAt": "2026-08-10T12:51:15.8120177+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49242245"
+    },
+    "Type": 1,
+    "Title": "Because It\u0027s Not Fun Enough: why languages fail",
+    "Url": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
+    "Description": "Because It\u0027s Not Fun Enough: why languages fail",
+    "Metadata": {
+      "score": "40",
+      "author": "jottinger",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-08-10T12:51:15.8446673+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49242297"
+    },
+    "Type": 1,
+    "Title": "Tail-call optimization in C is relatively recent",
+    "Url": "https://lwn.net/Articles/1034703/",
+    "Description": "Tail-call optimization in C is relatively recent",
+    "Metadata": {
+      "score": "25",
+      "author": "prakashqwerty",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-08-10T12:51:15.8777053+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49239751"
+    },
+    "Type": 1,
+    "Title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
+    "Url": "https://www.docker.com/products/docker-sandboxes/",
+    "Description": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
+    "Metadata": {
+      "score": "321",
+      "author": "etoxin",
+      "commentCount": "185"
+    },
+    "FetchedAt": "2026-08-10T12:51:15.9103929+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49238561"
+    },
+    "Type": 1,
+    "Title": "What Happened to HackerOne?",
+    "Url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+    "Description": "What Happened to HackerOne?",
+    "Metadata": {
+      "score": "280",
+      "author": "hipparchus",
+      "commentCount": "142"
+    },
+    "FetchedAt": "2026-08-10T12:51:15.9433364+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49242653"
+    },
+    "Type": 1,
+    "Title": "Squeak/Smalltalk 6.1 Release Notes",
+    "Url": "https://squeak.org/release_notes/6.1/",
+    "Description": "Squeak/Smalltalk 6.1 Release Notes",
+    "Metadata": {
+      "score": "4",
+      "author": "fniephaus",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-10T12:51:15.9773782+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49242213"
+    },
+    "Type": 1,
+    "Title": "A \u0027bananas\u0027 order for 5000 obscure book titles fuels suspicion",
+    "Url": "https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/",
+    "Description": "A \u0027bananas\u0027 order for 5000 obscure book titles fuels suspicion",
+    "Metadata": {
+      "score": "43",
+      "author": "ohaodha",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-08-10T12:51:16.0094694+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49241846"
+    },
+    "Type": 1,
+    "Title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
+    "Url": "https://ethw.org/Milestones:Parametron,_1954",
+    "Description": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
+    "Metadata": {
+      "score": "9",
+      "author": "xeonmc",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-10T12:51:16.042772+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49209132"
+    },
+    "Type": 1,
+    "Title": "Tail-Call Interpreters in Rust \u2013 Jimmy Ostler",
+    "Url": "https://lordgoati.us/blog/tail-call/",
+    "Description": "Tail-Call Interpreters in Rust \u2013 Jimmy Ostler",
+    "Metadata": {
+      "score": "44",
+      "author": "amatheus",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-08-10T12:51:16.0755743+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49238818"
+    },
+    "Type": 1,
+    "Title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+    "Url": "https://github.com/shinyquagsire23/Klepton",
+    "Description": "Run Android ARM64 VR APKs on Apple Vision Pro",
+    "Metadata": {
+      "score": "114",
+      "author": "LorenDB",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-08-10T12:51:16.1086925+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49205082"
+    },
+    "Type": 1,
+    "Title": "An Interesting Fourier Transform \u2013 1/F Noise",
+    "Url": "https://www.dsprelated.com/showarticle/40.php",
+    "Description": "An Interesting Fourier Transform \u2013 1/F Noise",
+    "Metadata": {
+      "score": "66",
+      "author": "q7m",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-08-10T12:51:16.142607+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49238851"
+    },
+    "Type": 1,
+    "Title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+    "Url": "https://www.whodunnitai.com/",
+    "Description": "Hey HN!\u003Cp\u003EI\u0026#x27;m excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn\u0026#x27;t quite happy with it.\u003Cp\u003EI recently had the desire to check out the tech again, and know many of you will be interested.\u003Cp\u003EInterviews are speech to speech with OpenAI\u0026#x27;s gpt-realtime-2.1 over WebRTC. This model is... expensive, and ",
+    "Metadata": {
+      "score": "124",
+      "author": "MrRowTheBoat",
+      "commentCount": "52"
+    },
+    "FetchedAt": "2026-08-10T12:51:16.1751986+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49242728"
+    },
+    "Type": 1,
+    "Title": "DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years",
+    "Url": "https://twitter.com/thdxr/status/2086599224674681242",
+    "Description": "DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years",
+    "Metadata": {
+      "score": "8",
+      "author": "delduca",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-08-10T12:51:16.2073119+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49234675"
+    },
+    "Type": 1,
+    "Title": "How I use LLMs to learn complex topics",
+    "Url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+    "Description": "How I use LLMs to learn complex topics",
+    "Metadata": {
+      "score": "700",
+      "author": "laurentiurad",
+      "commentCount": "442"
+    },
+    "FetchedAt": "2026-08-10T12:51:16.2401161+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49181584"
+    },
+    "Type": 1,
+    "Title": "Findphone: Locate a nearby Bluetooth device by signal strength",
+    "Url": "https://github.com/ben-z/findphone",
+    "Description": "Findphone: Locate a nearby Bluetooth device by signal strength",
+    "Metadata": {
+      "score": "5",
+      "author": "helsinkiandrew",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-10T12:51:16.2726494+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49183917"
+    },
+    "Type": 1,
+    "Title": "How Blackwing Pencils are Made [video]",
+    "Url": "https://www.youtube.com/watch?v=fow-LsdaH2E",
+    "Description": "How Blackwing Pencils are Made [video]",
+    "Metadata": {
+      "score": "29",
+      "author": "NaOH",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-08-10T12:51:16.3134597+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49232253"
+    },
+    "Type": 1,
+    "Title": "Taxi drivers rarely die of Alzheimer\u0027s",
+    "Url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+    "Description": "Taxi drivers rarely die of Alzheimer\u0027s",
+    "Metadata": {
+      "score": "319",
+      "author": "jader201",
+      "commentCount": "225"
+    },
+    "FetchedAt": "2026-08-10T12:51:16.3463236+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49238050"
+    },
+    "Type": 1,
+    "Title": "How We Pushed CDC into Postgres",
+    "Url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+    "Description": "How We Pushed CDC into Postgres",
+    "Metadata": {
+      "score": "108",
+      "author": "craigkerstiens",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-08-10T12:51:16.3792852+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49233423"
+    },
+    "Type": 1,
+    "Title": "Ask HN: What are you working on? (August 2026)",
+    "Url": "https://news.ycombinator.com/item?id=49233423",
+    "Description": "What are you working on?  What have you been curious about lately?",
+    "Metadata": {
+      "score": "269",
+      "author": "david927",
+      "commentCount": "929"
+    },
+    "FetchedAt": "2026-08-10T12:51:16.4133216+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49231809"
+    },
+    "Type": 1,
+    "Title": "Cool URIs Don\u0027t Change (1998)",
+    "Url": "https://www.w3.org/Provider/Style/URI",
+    "Description": "Cool URIs Don\u0027t Change (1998)",
+    "Metadata": {
+      "score": "255",
+      "author": "Klaster_1",
+      "commentCount": "62"
+    },
+    "FetchedAt": "2026-08-10T12:51:16.4462323+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49211821"
+    },
+    "Type": 1,
+    "Title": "An alias-based formulation of the borrow checker (2018)",
+    "Url": "https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/",
+    "Description": "An alias-based formulation of the borrow checker (2018)",
+    "Metadata": {
+      "score": "17",
+      "author": "parksb",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-10T12:51:16.4791209+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49202912"
+    },
+    "Type": 1,
+    "Title": "ATProto for Distributed Systems Engineers",
+    "Url": "https://atproto.com/articles/atproto-for-distsys-engineers",
+    "Description": "ATProto for Distributed Systems Engineers",
+    "Metadata": {
+      "score": "101",
+      "author": "LelouBil",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-08-10T12:51:16.5223506+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49182148"
+    },
+    "Type": 1,
+    "Title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
+    "Url": "https://gitlab.com/Kazade/picophysics",
+    "Description": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
+    "Metadata": {
+      "score": "68",
+      "author": "klaussilveira",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-08-10T12:51:16.5547172+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49235697"
+    },
+    "Type": 1,
+    "Title": "Tuxedo No. 2 \u2013 Cocktail recipes",
+    "Url": "https://tuxedono2.com",
+    "Description": "Tuxedo No. 2 \u2013 Cocktail recipes",
+    "Metadata": {
+      "score": "107",
+      "author": "smartmic",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-08-10T12:51:16.5876608+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49174017"
+    },
+    "Type": 1,
+    "Title": "Nearest Pint",
+    "Url": "https://knowwhereconsulting.co.uk/maps/pubs/",
+    "Description": "Nearest Pint",
+    "Metadata": {
+      "score": "40",
+      "author": "bookofjoe",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-08-10T12:51:16.6197852+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49230477"
+    },
+    "Type": 1,
+    "Title": "Everything you do is being recorded",
+    "Url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.theatlantic.com\u0026#x2F;technology\u0026#x2F;2026\u0026#x2F;05\u0026#x2F;ai-wearable-surveillance-countermeasures\u0026#x2F;687203\u0026#x2F;?gift=Exty0c37iBapZfMrmNPU4s4IrZcZyRSK4f5vxuwohBM\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.theatlantic.com\u0026#x2F;technology\u0026#x2F;2026\u0026#x2F;05\u0026#x2F;ai-wearable-s...\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;JxaZ7\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;JxaZ7\u003C/a\u003E",
+    "Metadata": {
+      "score": "343",
+      "author": "ike_usawa",
+      "commentCount": "292"
+    },
+    "FetchedAt": "2026-08-10T12:51:16.6531499+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49242038"
+    },
+    "Type": 1,
+    "Title": "Meta\u0027s new open-weight model targets local agentic AI",
+    "Url": "https://twitter.com/finkd/status/2086754845218726027",
+    "Description": "Meta\u0027s new open-weight model targets local agentic AI",
+    "Metadata": {
+      "score": "16",
+      "author": "bakigul",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-08-10T12:51:16.6912528+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49234271"
+    },
+    "Type": 1,
+    "Title": "I made tinnitus my friend, then it disappeared [video]",
+    "Url": "https://mynoise.net/vlog.php?ep=20260803",
+    "Description": "I made tinnitus my friend, then it disappeared [video]",
+    "Metadata": {
+      "score": "172",
+      "author": "gregsadetsky",
+      "commentCount": "138"
+    },
+    "FetchedAt": "2026-08-10T12:51:16.7240232+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49235641"
+    },
+    "Type": 1,
+    "Title": "New Zealand lost its music media, and what we\u0027re building to replace it",
+    "Url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
+    "Description": "New Zealand lost its music media, and what we\u0027re building to replace it",
+    "Metadata": {
+      "score": "120",
+      "author": "berghoffer",
+      "commentCount": "82"
+    },
+    "FetchedAt": "2026-08-10T12:51:16.7568951+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49239021"
+    },
+    "Type": 1,
+    "Title": "Auto mode is now the default in Claude Code",
+    "Url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+    "Description": "Auto mode is now the default in Claude Code",
+    "Metadata": {
+      "score": "247",
+      "author": "sbehere",
+      "commentCount": "257"
+    },
+    "FetchedAt": "2026-08-10T12:51:16.7892705+00:00"
   }
 ]
