@@ -256,141 +256,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49254880"
-    },
-    "Type": 1,
-    "Title": "France to ban unsolicited telemarketing calls",
-    "Url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
-    "Description": "France to ban unsolicited telemarketing calls",
-    "Metadata": {
-      "score": "441",
-      "author": "aziaziazi",
-      "commentCount": "270"
-    },
-    "FetchedAt": "2026-08-11T12:45:02.7266591+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49252179"
-    },
-    "Type": 1,
-    "Title": "H3-metal \u2013 Native MiniMax-H3 inference for Apple Silicon",
-    "Url": "https://github.com/antirez/h3.c",
-    "Description": "H3-metal \u2013 Native MiniMax-H3 inference for Apple Silicon",
-    "Metadata": {
-      "score": "321",
-      "author": "swyx",
-      "commentCount": "67"
-    },
-    "FetchedAt": "2026-08-11T12:45:02.7628016+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49250836"
-    },
-    "Type": 1,
-    "Title": "As AI eats the web, the internet\u2019s collective memory is disappearing",
-    "Url": "https://thewalrus.ca/google-search-is-dying/",
-    "Description": "As AI eats the web, the internet\u2019s collective memory is disappearing",
-    "Metadata": {
-      "score": "424",
-      "author": "awnird",
-      "commentCount": "509"
-    },
-    "FetchedAt": "2026-08-11T12:45:02.7958679+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49251702"
-    },
-    "Type": 1,
-    "Title": "Chicken Scheme 6.0",
-    "Url": "https://code.call-cc.org/releases/6.0.0/NEWS",
-    "Description": "Chicken Scheme 6.0",
-    "Metadata": {
-      "score": "220",
-      "author": "eatonphil",
-      "commentCount": "30"
-    },
-    "FetchedAt": "2026-08-11T12:45:02.8296156+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49246804"
-    },
-    "Type": 1,
-    "Title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-    "Url": "https://cactuscompute.com/needle",
-    "Description": "Hey HN,\u003Cp\u003EHenry from Cactus here!\u003Cp\u003EWe previously released Cactus Needle, a 14MB agentic LLM for tool call, device use, and structured extraction for phones, wearables, smart homes, small robots and microcontrollers. We got really great feedback here, and have now incorporated the suggestions to release Needle 2.\u003Cp\u003EThe whole model is a single 14MB binary that runs a full session in 28MB of RAM; 45m parameters at 2bit compression. Needle hits 500 tokens\u0026#x2F;sec decode speed on a Raspberry Pi 5, ",
-    "Metadata": {
-      "score": "382",
-      "author": "HenryNdubuaku",
-      "commentCount": "139"
-    },
-    "FetchedAt": "2026-08-11T12:45:02.864877+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49173107"
-    },
-    "Type": 1,
-    "Title": "LFM2.5 2.6B model competitive with 4x larger models",
-    "Url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
-    "Description": "LFM2.5 2.6B model competitive with 4x larger models",
-    "Metadata": {
-      "score": "97",
-      "author": "nateb2022",
-      "commentCount": "24"
-    },
-    "FetchedAt": "2026-08-11T12:45:02.8979356+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49243880"
-    },
-    "Type": 1,
-    "Title": "Mark Zuckerberg attacks \u0027closed\u0027 AI rivals as Meta returns to open models",
-    "Url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;20LOJ\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;20LOJ\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.meta.com\u0026#x2F;thefutureisforeveryone\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.meta.com\u0026#x2F;thefutureisforeveryone\u0026#x2F;\u003C/a\u003E",
-    "Metadata": {
-      "score": "547",
-      "author": "root-parent",
-      "commentCount": "499"
-    },
-    "FetchedAt": "2026-08-11T12:45:02.9318919+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49251179"
-    },
-    "Type": 1,
-    "Title": "Show HN: Scroll through all 43252003274489856000 Rubik\u0027s Cube states",
-    "Url": "https://everycube.alen.is/",
-    "Description": "Show HN: Scroll through all 43252003274489856000 Rubik\u0027s Cube states",
-    "Metadata": {
-      "score": "220",
-      "author": "Alen123",
-      "commentCount": "77"
-    },
-    "FetchedAt": "2026-08-11T12:45:02.9669083+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49184220"
-    },
-    "Type": 1,
-    "Title": "The \u201Cmechanical miracle\u201D that ruined Mark Twain\u2019s life",
-    "Url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
-    "Description": "The \u201Cmechanical miracle\u201D that ruined Mark Twain\u2019s life",
-    "Metadata": {
-      "score": "156",
-      "author": "benbreen",
-      "commentCount": "81"
-    },
-    "FetchedAt": "2026-08-11T12:45:03.0015074+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49254881"
     },
     "Type": 1,
@@ -421,21 +286,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49250109"
-    },
-    "Type": 1,
-    "Title": "How Claude marks AI-generated content",
-    "Url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-    "Description": "How Claude marks AI-generated content",
-    "Metadata": {
-      "score": "229",
-      "author": "mfiguiere",
-      "commentCount": "194"
-    },
-    "FetchedAt": "2026-08-11T12:45:03.1014266+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49252462"
     },
     "Type": 1,
@@ -448,51 +298,6 @@
       "commentCount": "32"
     },
     "FetchedAt": "2026-08-11T12:45:03.1343706+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49209918"
-    },
-    "Type": 1,
-    "Title": "Stowaway \u2013 Take the window seat on any plane or satellite overhead",
-    "Url": "https://stowaway.live/",
-    "Description": "Stowaway \u2013 Take the window seat on any plane or satellite overhead",
-    "Metadata": {
-      "score": "304",
-      "author": "thunderbong",
-      "commentCount": "37"
-    },
-    "FetchedAt": "2026-08-11T12:45:03.1868075+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49196581"
-    },
-    "Type": 1,
-    "Title": "Faster floating point math with Rust\u0027s new API",
-    "Url": "https://pythonspeed.com/articles/faster-float-math-rust/",
-    "Description": "Faster floating point math with Rust\u0027s new API",
-    "Metadata": {
-      "score": "55",
-      "author": "subset",
-      "commentCount": "10"
-    },
-    "FetchedAt": "2026-08-11T12:45:03.2196946+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49208296"
-    },
-    "Type": 1,
-    "Title": "Sonic Pi v5",
-    "Url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-    "Description": "Sonic Pi v5",
-    "Metadata": {
-      "score": "392",
-      "author": "samaaron",
-      "commentCount": "92"
-    },
-    "FetchedAt": "2026-08-11T12:45:03.2528312+00:00"
   },
   {
     "ExternalId": {
@@ -703,5 +508,455 @@
       "commentCount": "74"
     },
     "FetchedAt": "2026-08-11T12:45:03.7297704+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49257377"
+    },
+    "Type": 1,
+    "Title": "England set to be one of the first countries to eliminate hepatitis C",
+    "Url": "https://www.bbc.com/news/articles/c75gk620r22o",
+    "Description": "England set to be one of the first countries to eliminate hepatitis C",
+    "Metadata": {
+      "score": "406",
+      "author": "stevekemp",
+      "commentCount": "289"
+    },
+    "FetchedAt": "2026-08-11T18:51:31.4415011+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49259339"
+    },
+    "Type": 1,
+    "Title": "Apple Silicon and macOS VMs: 11\u201316\u00D7 Faster LLM Inference with Llama.cpp",
+    "Url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+    "Description": "Apple Silicon and macOS VMs: 11\u201316\u00D7 Faster LLM Inference with Llama.cpp",
+    "Metadata": {
+      "score": "208",
+      "author": "frabonacci",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-08-11T18:51:31.4729629+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49261895"
+    },
+    "Type": 1,
+    "Title": "OpenSSH 10.5 released, AI assistance now welcome",
+    "Url": "https://www.openssh.org/releasenotes.html#10.5",
+    "Description": "OpenSSH 10.5 released, AI assistance now welcome",
+    "Metadata": {
+      "score": "28",
+      "author": "voxadam",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-08-11T18:51:31.5118806+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49257876"
+    },
+    "Type": 1,
+    "Title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "Url": "https://stolen-thoughts.com/",
+    "Description": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "Metadata": {
+      "score": "282",
+      "author": "quantumgarbage",
+      "commentCount": "102"
+    },
+    "FetchedAt": "2026-08-11T18:51:31.6023427+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49226623"
+    },
+    "Type": 1,
+    "Title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
+    "Url": "https://photosynthesis.camera",
+    "Description": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
+    "Metadata": {
+      "score": "64",
+      "author": "sajomes",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-08-11T18:51:31.6329485+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49258764"
+    },
+    "Type": 1,
+    "Title": "Manus will return to operating as an independent company",
+    "Url": "https://manus.im/blog/a-note-to-our-users",
+    "Description": "Manus will return to operating as an independent company",
+    "Metadata": {
+      "score": "88",
+      "author": "thm",
+      "commentCount": "39"
+    },
+    "FetchedAt": "2026-08-11T18:51:31.6877787+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49223965"
+    },
+    "Type": 1,
+    "Title": "Jolt: Clojure compiler implemented with Chez Scheme",
+    "Url": "https://jolt-lang.github.io",
+    "Description": "Jolt: Clojure compiler implemented with Chez Scheme",
+    "Metadata": {
+      "score": "74",
+      "author": "mark_l_watson",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-08-11T18:51:31.7219721+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49261133"
+    },
+    "Type": 1,
+    "Title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
+    "Url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+    "Description": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
+    "Metadata": {
+      "score": "103",
+      "author": "0xedb",
+      "commentCount": "107"
+    },
+    "FetchedAt": "2026-08-11T18:51:31.7515206+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49250836"
+    },
+    "Type": 1,
+    "Title": "As AI eats the web, the internet\u2019s collective memory is disappearing",
+    "Url": "https://thewalrus.ca/google-search-is-dying/",
+    "Description": "As AI eats the web, the internet\u2019s collective memory is disappearing",
+    "Metadata": {
+      "score": "776",
+      "author": "awnird",
+      "commentCount": "791"
+    },
+    "FetchedAt": "2026-08-11T18:51:31.782569+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49255710"
+    },
+    "Type": 1,
+    "Title": "Nvidia\u0027s Risky Business",
+    "Url": "https://stratechery.com/2026/nvidias-risky-business/",
+    "Description": "Nvidia\u0027s Risky Business",
+    "Metadata": {
+      "score": "210",
+      "author": "jonbaer",
+      "commentCount": "85"
+    },
+    "FetchedAt": "2026-08-11T18:51:31.8136538+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49254880"
+    },
+    "Type": 1,
+    "Title": "France to ban unsolicited telemarketing calls",
+    "Url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
+    "Description": "France to ban unsolicited telemarketing calls",
+    "Metadata": {
+      "score": "939",
+      "author": "aziaziazi",
+      "commentCount": "448"
+    },
+    "FetchedAt": "2026-08-11T18:51:31.850313+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49227610"
+    },
+    "Type": 1,
+    "Title": "Archive of Animal Photography Reveals 18,000 Species and Counting",
+    "Url": "https://www.smithsonianmag.com/science-nature/this-amazing-archive-of-animal-photography-reveals-18000-species-and-counting-heres-how-joel-sartore-built-his-photo-ark-180989282/",
+    "Description": "Archive of Animal Photography Reveals 18,000 Species and Counting",
+    "Metadata": {
+      "score": "15",
+      "author": "pseudolus",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-08-11T18:51:31.8806367+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49259309"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Keet (YC S24) \u2013 An app to create video courses on anything",
+    "Url": "https://www.trykeet.com/",
+    "Description": "Hi HN! We\u2019re Zack and Tommy the Co-Founders of Keet (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;trykeet.com\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;trykeet.com\u003C/a\u003E). We are building a mobile app that generates courses on any topic, with short videos for explanation and games for reinforcement. Courses mirror a real curriculum to help you learn over an extended period of time.\u003Cp\u003ETommy and I met in linear algebra class in college and spent the next 4 years taking classes together. Our friendship was formed around learning new things.",
+    "Metadata": {
+      "score": "23",
+      "author": "zackashen",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-08-11T18:51:31.9143211+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49252179"
+    },
+    "Type": 1,
+    "Title": "H3-metal \u2013 Native MiniMax-H3 inference for Apple Silicon",
+    "Url": "https://github.com/antirez/h3.c",
+    "Description": "H3-metal \u2013 Native MiniMax-H3 inference for Apple Silicon",
+    "Metadata": {
+      "score": "400",
+      "author": "swyx",
+      "commentCount": "93"
+    },
+    "FetchedAt": "2026-08-11T18:51:31.954838+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49256057"
+    },
+    "Type": 1,
+    "Title": "What I learned by putting GitHub Copilot behind a MitM proxy",
+    "Url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+    "Description": "What I learned by putting GitHub Copilot behind a MitM proxy",
+    "Metadata": {
+      "score": "105",
+      "author": "j0selit0",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-08-11T18:51:31.9867458+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49259611"
+    },
+    "Type": 1,
+    "Title": "Show HN: Git-knife \u2013 edit commit messages, authors, and dates like a spreadsheet",
+    "Url": "https://github.com/TheRealYT/git-knife",
+    "Description": "Show HN: Git-knife \u2013 edit commit messages, authors, and dates like a spreadsheet",
+    "Metadata": {
+      "score": "75",
+      "author": "YonathanTesfaye",
+      "commentCount": "60"
+    },
+    "FetchedAt": "2026-08-11T18:51:32.0518892+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49261128"
+    },
+    "Type": 1,
+    "Title": "Mojo 1.0 Is Here",
+    "Url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+    "Description": "Mojo 1.0 Is Here",
+    "Metadata": {
+      "score": "35",
+      "author": "dayanruben",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-08-11T18:51:32.0796405+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49246804"
+    },
+    "Type": 1,
+    "Title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+    "Url": "https://cactuscompute.com/needle",
+    "Description": "Hey HN,\u003Cp\u003EHenry from Cactus here!\u003Cp\u003EWe previously released Cactus Needle, a 14MB agentic LLM for tool call, device use, and structured extraction for phones, wearables, smart homes, small robots and microcontrollers. We got really great feedback here, and have now incorporated the suggestions to release Needle 2.\u003Cp\u003EThe whole model is a single 14MB binary that runs a full session in 28MB of RAM; 45m parameters at 2bit compression. Needle hits 500 tokens\u0026#x2F;sec decode speed on a Raspberry Pi 5, ",
+    "Metadata": {
+      "score": "489",
+      "author": "HenryNdubuaku",
+      "commentCount": "162"
+    },
+    "FetchedAt": "2026-08-11T18:51:32.1119354+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49211158"
+    },
+    "Type": 1,
+    "Title": "Halcyon Video \u2013 a 3D video store for your media server",
+    "Url": "https://github.com/halcyon-video/halcyon-video",
+    "Description": "Halcyon Video \u2013 a 3D video store for your media server",
+    "Metadata": {
+      "score": "55",
+      "author": "Gander5739",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-08-11T18:51:32.1485154+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49243880"
+    },
+    "Type": 1,
+    "Title": "Mark Zuckerberg attacks \u0027closed\u0027 AI rivals as Meta returns to open models",
+    "Url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;20LOJ\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;20LOJ\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.meta.com\u0026#x2F;thefutureisforeveryone\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.meta.com\u0026#x2F;thefutureisforeveryone\u0026#x2F;\u003C/a\u003E",
+    "Metadata": {
+      "score": "613",
+      "author": "root-parent",
+      "commentCount": "572"
+    },
+    "FetchedAt": "2026-08-11T18:51:32.1756152+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49251702"
+    },
+    "Type": 1,
+    "Title": "Chicken Scheme 6.0",
+    "Url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+    "Description": "Chicken Scheme 6.0",
+    "Metadata": {
+      "score": "281",
+      "author": "eatonphil",
+      "commentCount": "44"
+    },
+    "FetchedAt": "2026-08-11T18:51:32.2053319+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49173107"
+    },
+    "Type": 1,
+    "Title": "LFM2.5 2.6B model competitive with 4x larger models",
+    "Url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+    "Description": "LFM2.5 2.6B model competitive with 4x larger models",
+    "Metadata": {
+      "score": "147",
+      "author": "nateb2022",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-08-11T18:51:32.236005+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49251179"
+    },
+    "Type": 1,
+    "Title": "Show HN: Scroll through all 43252003274489856000 Rubik\u0027s Cube states",
+    "Url": "https://everycube.alen.is/",
+    "Description": "Show HN: Scroll through all 43252003274489856000 Rubik\u0027s Cube states",
+    "Metadata": {
+      "score": "274",
+      "author": "Alen123",
+      "commentCount": "108"
+    },
+    "FetchedAt": "2026-08-11T18:51:32.2631184+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49250109"
+    },
+    "Type": 1,
+    "Title": "How Claude marks AI-generated content",
+    "Url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+    "Description": "How Claude marks AI-generated content",
+    "Metadata": {
+      "score": "382",
+      "author": "mfiguiere",
+      "commentCount": "353"
+    },
+    "FetchedAt": "2026-08-11T18:51:32.3192326+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49209918"
+    },
+    "Type": 1,
+    "Title": "Stowaway \u2013 Take the window seat on any plane or satellite overhead",
+    "Url": "https://stowaway.live/",
+    "Description": "Stowaway \u2013 Take the window seat on any plane or satellite overhead",
+    "Metadata": {
+      "score": "409",
+      "author": "thunderbong",
+      "commentCount": "50"
+    },
+    "FetchedAt": "2026-08-11T18:51:32.3459144+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49257947"
+    },
+    "Type": 1,
+    "Title": "Nvidia Nemotron 3.5 Lightning",
+    "Url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+    "Description": "Nvidia Nemotron 3.5 Lightning",
+    "Metadata": {
+      "score": "101",
+      "author": "beklein",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-08-11T18:51:32.3862708+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49184220"
+    },
+    "Type": 1,
+    "Title": "The \u201Cmechanical miracle\u201D that ruined Mark Twain\u2019s life",
+    "Url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+    "Description": "The \u201Cmechanical miracle\u201D that ruined Mark Twain\u2019s life",
+    "Metadata": {
+      "score": "213",
+      "author": "benbreen",
+      "commentCount": "109"
+    },
+    "FetchedAt": "2026-08-11T18:51:32.4140465+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49196581"
+    },
+    "Type": 1,
+    "Title": "Faster floating point math with Rust\u0027s new API",
+    "Url": "https://pythonspeed.com/articles/faster-float-math-rust/",
+    "Description": "Faster floating point math with Rust\u0027s new API",
+    "Metadata": {
+      "score": "93",
+      "author": "subset",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-08-11T18:51:32.4410595+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49208296"
+    },
+    "Type": 1,
+    "Title": "Sonic Pi v5",
+    "Url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
+    "Description": "Sonic Pi v5",
+    "Metadata": {
+      "score": "420",
+      "author": "samaaron",
+      "commentCount": "103"
+    },
+    "FetchedAt": "2026-08-11T18:51:32.467765+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49262211"
+    },
+    "Type": 1,
+    "Title": "We Used to Get Jobs",
+    "Url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+    "Description": "We Used to Get Jobs",
+    "Metadata": {
+      "score": "9",
+      "author": "speckx",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-11T18:51:32.4949284+00:00"
   }
 ]

@@ -135,6 +135,22 @@
   },
   {
     "ExternalId": {
+      "Value": "github:cathrynlavery/diagram-design"
+    },
+    "Type": 0,
+    "Title": "cathrynlavery/diagram-design",
+    "Url": "https://github.com/cathrynlavery/diagram-design",
+    "Description": "29 editorial diagram types for Claude Code. Self-contained HTML \u002B SVG. No shadows, no Mermaid-slop.",
+    "Metadata": {
+      "owner": "cathrynlavery",
+      "repo": "diagram-design",
+      "language": "HTML",
+      "stars": "1,612"
+    },
+    "FetchedAt": "2026-08-11T18:51:29.3819411+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:nvm-sh/nvm"
     },
     "Type": 0,
@@ -148,7 +164,7 @@
       "stars": "18",
       "topics": "bash, install, lts, node, node-js, nodejs, nvm, nvmrc, posix, posix-compliant, shell, version-manager, zsh"
     },
-    "FetchedAt": "2026-08-11T12:45:00.4946608+00:00"
+    "FetchedAt": "2026-08-11T18:51:29.5356323+00:00"
   },
   {
     "ExternalId": {
@@ -165,7 +181,7 @@
       "stars": "571",
       "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
     },
-    "FetchedAt": "2026-08-11T12:45:00.7754425+00:00"
+    "FetchedAt": "2026-08-11T18:51:29.6775961+00:00"
   },
   {
     "ExternalId": {
@@ -179,10 +195,10 @@
       "owner": "ZhuLinsen",
       "repo": "daily_stock_analysis",
       "language": "Python",
-      "stars": "731",
+      "stars": "317",
       "topics": "a-stock, ai-agent, aigc, llm, quant, quantitative-finance, quantitative-trading"
     },
-    "FetchedAt": "2026-08-11T12:45:00.9380117+00:00"
+    "FetchedAt": "2026-08-11T18:51:29.7955782+00:00"
   },
   {
     "ExternalId": {
@@ -199,7 +215,7 @@
       "stars": "468",
       "topics": "agent-skills"
     },
-    "FetchedAt": "2026-08-11T12:45:01.0835336+00:00"
+    "FetchedAt": "2026-08-11T18:51:29.9165421+00:00"
   },
   {
     "ExternalId": {
@@ -213,10 +229,10 @@
       "owner": "3b1b",
       "repo": "manim",
       "language": "Python",
-      "stars": "381",
+      "stars": "246",
       "topics": "3b1b-videos, animation, explanatory-math-videos, python"
     },
-    "FetchedAt": "2026-08-11T12:45:01.2343563+00:00"
+    "FetchedAt": "2026-08-11T18:51:30.0904918+00:00"
   },
   {
     "ExternalId": {
@@ -233,7 +249,7 @@
       "stars": "829",
       "topics": "ai-agents, ai-tutor, clawdbot, cli-tool, deepresearch, interactive-learning, large-language-models, multi-agent-systems, rag"
     },
-    "FetchedAt": "2026-08-11T12:45:01.3699485+00:00"
+    "FetchedAt": "2026-08-11T18:51:30.2326464+00:00"
   },
   {
     "ExternalId": {
@@ -250,7 +266,7 @@
       "stars": "881",
       "topics": "ade, agent-ide, ai-agents, claude-code, cli, codex, cursor-agent, devtools, ghostty, ide, mobile-app, opencode, orchestration, parallel-agents, pi, terminal, worktrees, yc-backed"
     },
-    "FetchedAt": "2026-08-11T12:45:01.5446846+00:00"
+    "FetchedAt": "2026-08-11T18:51:30.3627626+00:00"
   },
   {
     "ExternalId": {
@@ -266,7 +282,7 @@
       "language": "TypeScript",
       "stars": "743"
     },
-    "FetchedAt": "2026-08-11T12:45:01.6928861+00:00"
+    "FetchedAt": "2026-08-11T18:51:30.4964538+00:00"
   },
   {
     "ExternalId": {
@@ -283,7 +299,7 @@
       "stars": "69",
       "topics": "audio, deep-learning, deepseek, gemma, glm, hacktoberfest, llm, machine-learning, model-hub, natural-language-processing, nlp, pretrained-models, python, pytorch, pytorch-transformers, qwen, speech-recognition, transformer, vlm"
     },
-    "FetchedAt": "2026-08-11T12:45:01.858568+00:00"
+    "FetchedAt": "2026-08-11T18:51:30.6302586+00:00"
   },
   {
     "ExternalId": {
@@ -299,7 +315,7 @@
       "language": "Python",
       "stars": "24"
     },
-    "FetchedAt": "2026-08-11T12:45:02.0406091+00:00"
+    "FetchedAt": "2026-08-11T18:51:30.7717741+00:00"
   },
   {
     "ExternalId": {
@@ -316,7 +332,7 @@
       "stars": "394",
       "topics": "beginner-project, cpp, golang, javascript, project, python, tutorial, webdevelopment"
     },
-    "FetchedAt": "2026-08-11T12:45:02.220512+00:00"
+    "FetchedAt": "2026-08-11T18:51:30.9031651+00:00"
   },
   {
     "ExternalId": {
@@ -332,6 +348,6 @@
       "language": "TypeScript",
       "stars": "1,148"
     },
-    "FetchedAt": "2026-08-11T12:45:02.3683413+00:00"
+    "FetchedAt": "2026-08-11T18:51:31.0250556+00:00"
   }
 ]
