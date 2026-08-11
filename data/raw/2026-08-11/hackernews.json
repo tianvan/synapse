@@ -16,156 +16,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49246804"
-    },
-    "Type": 1,
-    "Title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-    "Url": "https://cactuscompute.com/needle",
-    "Description": "Hey HN,\u003Cp\u003EHenry from Cactus here!\u003Cp\u003EWe previously released Cactus Needle, a 14MB agentic LLM for tool call, device use, and structured extraction for phones, wearables, smart homes, small robots and microcontrollers. We got really great feedback here, and have now incorporated the suggestions to release Needle 2.\u003Cp\u003EThe whole model is a single 14MB binary that runs a full session in 28MB of RAM; 45m parameters at 2bit compression. Needle hits 500 tokens\u0026#x2F;sec decode speed on a Raspberry Pi 5, ",
-    "Metadata": {
-      "score": "154",
-      "author": "HenryNdubuaku",
-      "commentCount": "70"
-    },
-    "FetchedAt": "2026-08-11T01:06:44.7636385+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49241679"
-    },
-    "Type": 1,
-    "Title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-    "Url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-    "Description": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-    "Metadata": {
-      "score": "1025",
-      "author": "riordan",
-      "commentCount": "571"
-    },
-    "FetchedAt": "2026-08-11T01:06:44.7961956+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49251179"
-    },
-    "Type": 1,
-    "Title": "Show HN: Scroll through all 43252003274489856000 Rubik\u0027s Cube states",
-    "Url": "https://everycube.alen.is/",
-    "Description": "Show HN: Scroll through all 43252003274489856000 Rubik\u0027s Cube states",
-    "Metadata": {
-      "score": "34",
-      "author": "Alen123",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-08-11T01:06:44.8292388+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49184220"
-    },
-    "Type": 1,
-    "Title": "The \u0022mechanical miracle\u0022 that ruined Mark Twain\u0027s life",
-    "Url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
-    "Description": "The \u0022mechanical miracle\u0022 that ruined Mark Twain\u0027s life",
-    "Metadata": {
-      "score": "26",
-      "author": "benbreen",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-08-11T01:06:44.8630754+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49243880"
-    },
-    "Type": 1,
-    "Title": "Mark Zuckerberg attacks \u0027closed\u0027 AI rivals as Meta returns to open models",
-    "Url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;20LOJ\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;20LOJ\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.meta.com\u0026#x2F;thefutureisforeveryone\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.meta.com\u0026#x2F;thefutureisforeveryone\u0026#x2F;\u003C/a\u003E",
-    "Metadata": {
-      "score": "354",
-      "author": "root-parent",
-      "commentCount": "375"
-    },
-    "FetchedAt": "2026-08-11T01:06:44.8953592+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49212449"
-    },
-    "Type": 1,
-    "Title": "Publishing Schematics Before \u201COpen Source\u201D Was a Word",
-    "Url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
-    "Description": "Publishing Schematics Before \u201COpen Source\u201D Was a Word",
-    "Metadata": {
-      "score": "60",
-      "author": "extralongdivisi",
-      "commentCount": "15"
-    },
-    "FetchedAt": "2026-08-11T01:06:44.9278352+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49247477"
-    },
-    "Type": 1,
-    "Title": "Rust SIMD on the GPU",
-    "Url": "https://www.vectorware.com/blog/simd-on-gpu/",
-    "Description": "Rust SIMD on the GPU",
-    "Metadata": {
-      "score": "119",
-      "author": "sagacity",
-      "commentCount": "59"
-    },
-    "FetchedAt": "2026-08-11T01:06:44.9598705+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49208296"
-    },
-    "Type": 1,
-    "Title": "Sonic Pi v5",
-    "Url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-    "Description": "Sonic Pi v5",
-    "Metadata": {
-      "score": "303",
-      "author": "samaaron",
-      "commentCount": "78"
-    },
-    "FetchedAt": "2026-08-11T01:06:44.99207+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49249555"
-    },
-    "Type": 1,
-    "Title": "Confessions of a Long-Distance Sailor",
-    "Url": "https://arachnoid.com/lutusp/sailbook.html",
-    "Description": "Confessions of a Long-Distance Sailor",
-    "Metadata": {
-      "score": "56",
-      "author": "AntiRush",
-      "commentCount": "10"
-    },
-    "FetchedAt": "2026-08-11T01:06:45.0258274+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49250894"
-    },
-    "Type": 1,
-    "Title": "World Train Map \u2013 1247 train routes around the world",
-    "Url": "https://worldtrainmap.com/",
-    "Description": "World Train Map \u2013 1247 train routes around the world",
-    "Metadata": {
-      "score": "23",
-      "author": "Flightmussy",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-08-11T01:06:45.05756+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49249481"
     },
     "Type": 1,
@@ -181,81 +31,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49209918"
-    },
-    "Type": 1,
-    "Title": "Stowaway \u2013 take the window seat on any plane or satellite overhead",
-    "Url": "https://stowaway.live/",
-    "Description": "Stowaway \u2013 take the window seat on any plane or satellite overhead",
-    "Metadata": {
-      "score": "98",
-      "author": "thunderbong",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-08-11T01:06:45.1244848+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49251702"
-    },
-    "Type": 1,
-    "Title": "Chicken Scheme 6.0 Released",
-    "Url": "https://code.call-cc.org/releases/6.0.0/NEWS",
-    "Description": "Chicken Scheme 6.0 Released",
-    "Metadata": {
-      "score": "3",
-      "author": "eatonphil",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-08-11T01:06:45.156795+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49242653"
-    },
-    "Type": 1,
-    "Title": "Squeak 6.1",
-    "Url": "https://squeak.org/release_notes/6.1/",
-    "Description": "Squeak 6.1",
-    "Metadata": {
-      "score": "219",
-      "author": "fniephaus",
-      "commentCount": "114"
-    },
-    "FetchedAt": "2026-08-11T01:06:45.189488+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49245491"
-    },
-    "Type": 1,
-    "Title": "Exploiting System Management Mode with a very long interrupt",
-    "Url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
-    "Description": "Exploiting System Management Mode with a very long interrupt",
-    "Metadata": {
-      "score": "123",
-      "author": "WhiteDawn",
-      "commentCount": "41"
-    },
-    "FetchedAt": "2026-08-11T01:06:45.2214015+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49243474"
-    },
-    "Type": 1,
-    "Title": "Humanising LLM Outputs Is Dumb",
-    "Url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-    "Description": "Humanising LLM Outputs Is Dumb",
-    "Metadata": {
-      "score": "150",
-      "author": "kuberwastaken",
-      "commentCount": "88"
-    },
-    "FetchedAt": "2026-08-11T01:06:45.254095+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49246057"
     },
     "Type": 1,
@@ -268,21 +43,6 @@
       "commentCount": "39"
     },
     "FetchedAt": "2026-08-11T01:06:45.2867824+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49245936"
-    },
-    "Type": 1,
-    "Title": "What\u0027s the best programming language for coding agents?",
-    "Url": "http://danluu.com/pl-tokens/",
-    "Description": "Related: \u003Ci\u003EWhich programming languages are most token-efficient?\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=46582728\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=46582728\u003C/a\u003E - Jan 2026 (91 comments)",
-    "Metadata": {
-      "score": "51",
-      "author": "chaychoong",
-      "commentCount": "29"
-    },
-    "FetchedAt": "2026-08-11T01:06:45.3194109+00:00"
   },
   {
     "ExternalId": {
@@ -331,21 +91,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49241846"
-    },
-    "Type": 1,
-    "Title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
-    "Url": "https://ethw.org/Milestones:Parametron,_1954",
-    "Description": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
-    "Metadata": {
-      "score": "183",
-      "author": "xeonmc",
-      "commentCount": "46"
-    },
-    "FetchedAt": "2026-08-11T01:06:45.452292+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49244308"
     },
     "Type": 1,
@@ -358,21 +103,6 @@
       "commentCount": "166"
     },
     "FetchedAt": "2026-08-11T01:06:45.485914+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49250836"
-    },
-    "Type": 1,
-    "Title": "Google Search Is Dying. What Comes Next Is Worse",
-    "Url": "https://thewalrus.ca/google-search-is-dying/",
-    "Description": "Google Search Is Dying. What Comes Next Is Worse",
-    "Metadata": {
-      "score": "89",
-      "author": "awnird",
-      "commentCount": "80"
-    },
-    "FetchedAt": "2026-08-11T01:06:45.5187701+00:00"
   },
   {
     "ExternalId": {
@@ -406,21 +136,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49242297"
-    },
-    "Type": 1,
-    "Title": "Tail-call optimization in C is relatively recent (2025)",
-    "Url": "https://lwn.net/Articles/1034703/",
-    "Description": "Tail-call optimization in C is relatively recent (2025)",
-    "Metadata": {
-      "score": "120",
-      "author": "prakashqwerty",
-      "commentCount": "121"
-    },
-    "FetchedAt": "2026-08-11T01:06:45.6161138+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49245318"
     },
     "Type": 1,
@@ -448,5 +163,455 @@
       "commentCount": "104"
     },
     "FetchedAt": "2026-08-11T01:06:45.6802354+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49252179"
+    },
+    "Type": 1,
+    "Title": "H3-metal \u2013 Native MiniMax-H3 inference for Apple Silicon",
+    "Url": "https://github.com/antirez/h3.c",
+    "Description": "H3-metal \u2013 Native MiniMax-H3 inference for Apple Silicon",
+    "Metadata": {
+      "score": "194",
+      "author": "swyx",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-08-11T06:53:30.4902059+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49253721"
+    },
+    "Type": 1,
+    "Title": "Show HN: Mcptoon \u2013 Token-efficient MCP CLI client",
+    "Url": "https://github.com/activeing123/mcptoon",
+    "Description": "Show HN: Mcptoon \u2013 Token-efficient MCP CLI client",
+    "Metadata": {
+      "score": "25",
+      "author": "mcptokensaver",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-08-11T06:53:30.5345334+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49251702"
+    },
+    "Type": 1,
+    "Title": "Chicken Scheme 6.0",
+    "Url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+    "Description": "Chicken Scheme 6.0",
+    "Metadata": {
+      "score": "138",
+      "author": "eatonphil",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-08-11T06:53:30.5786105+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49173107"
+    },
+    "Type": 1,
+    "Title": "LFM2.5 2.6B model competitive with 4x larger models",
+    "Url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+    "Description": "LFM2.5 2.6B model competitive with 4x larger models",
+    "Metadata": {
+      "score": "34",
+      "author": "nateb2022",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-08-11T06:53:30.6234385+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49251179"
+    },
+    "Type": 1,
+    "Title": "Show HN: Scroll through all 43252003274489856000 Rubik\u0027s Cube states",
+    "Url": "https://everycube.alen.is/",
+    "Description": "Show HN: Scroll through all 43252003274489856000 Rubik\u0027s Cube states",
+    "Metadata": {
+      "score": "159",
+      "author": "Alen123",
+      "commentCount": "46"
+    },
+    "FetchedAt": "2026-08-11T06:53:30.6673776+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49250836"
+    },
+    "Type": 1,
+    "Title": "As AI eats the web, the internet\u2019s collective memory is disappearing",
+    "Url": "https://thewalrus.ca/google-search-is-dying/",
+    "Description": "As AI eats the web, the internet\u2019s collective memory is disappearing",
+    "Metadata": {
+      "score": "136",
+      "author": "awnird",
+      "commentCount": "127"
+    },
+    "FetchedAt": "2026-08-11T06:53:30.7112283+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49246804"
+    },
+    "Type": 1,
+    "Title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+    "Url": "https://cactuscompute.com/needle",
+    "Description": "Hey HN,\u003Cp\u003EHenry from Cactus here!\u003Cp\u003EWe previously released Cactus Needle, a 14MB agentic LLM for tool call, device use, and structured extraction for phones, wearables, smart homes, small robots and microcontrollers. We got really great feedback here, and have now incorporated the suggestions to release Needle 2.\u003Cp\u003EThe whole model is a single 14MB binary that runs a full session in 28MB of RAM; 45m parameters at 2bit compression. Needle hits 500 tokens\u0026#x2F;sec decode speed on a Raspberry Pi 5, ",
+    "Metadata": {
+      "score": "285",
+      "author": "HenryNdubuaku",
+      "commentCount": "106"
+    },
+    "FetchedAt": "2026-08-11T06:53:30.7556407+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49184220"
+    },
+    "Type": 1,
+    "Title": "The \u201Cmechanical miracle\u201D that ruined Mark Twain\u2019s life",
+    "Url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+    "Description": "The \u201Cmechanical miracle\u201D that ruined Mark Twain\u2019s life",
+    "Metadata": {
+      "score": "111",
+      "author": "benbreen",
+      "commentCount": "53"
+    },
+    "FetchedAt": "2026-08-11T06:53:30.8154712+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49252462"
+    },
+    "Type": 1,
+    "Title": "Recycle \u2013 Floppydisks",
+    "Url": "https://www.floppydisk.com/recycle",
+    "Description": "Recycle \u2013 Floppydisks",
+    "Metadata": {
+      "score": "48",
+      "author": "calvinmorrison",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-08-11T06:53:30.9020324+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49243880"
+    },
+    "Type": 1,
+    "Title": "Mark Zuckerberg attacks \u0027closed\u0027 AI rivals as Meta returns to open models",
+    "Url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;20LOJ\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;20LOJ\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.meta.com\u0026#x2F;thefutureisforeveryone\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.meta.com\u0026#x2F;thefutureisforeveryone\u0026#x2F;\u003C/a\u003E",
+    "Metadata": {
+      "score": "471",
+      "author": "root-parent",
+      "commentCount": "434"
+    },
+    "FetchedAt": "2026-08-11T06:53:30.9736594+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49252493"
+    },
+    "Type": 1,
+    "Title": "Hyperspace",
+    "Url": "https://hypercritical.co/hyperspace/",
+    "Description": "Hyperspace",
+    "Metadata": {
+      "score": "53",
+      "author": "swyx",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-08-11T06:53:31.0296658+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49209918"
+    },
+    "Type": 1,
+    "Title": "Stowaway \u2013 Take the window seat on any plane or satellite overhead",
+    "Url": "https://stowaway.live/",
+    "Description": "Stowaway \u2013 Take the window seat on any plane or satellite overhead",
+    "Metadata": {
+      "score": "218",
+      "author": "thunderbong",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-08-11T06:53:31.0737398+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49208296"
+    },
+    "Type": 1,
+    "Title": "Sonic Pi v5",
+    "Url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
+    "Description": "Sonic Pi v5",
+    "Metadata": {
+      "score": "355",
+      "author": "samaaron",
+      "commentCount": "85"
+    },
+    "FetchedAt": "2026-08-11T06:53:31.1177635+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49247477"
+    },
+    "Type": 1,
+    "Title": "Rust SIMD on the GPU",
+    "Url": "https://www.vectorware.com/blog/simd-on-gpu/",
+    "Description": "Rust SIMD on the GPU",
+    "Metadata": {
+      "score": "168",
+      "author": "sagacity",
+      "commentCount": "80"
+    },
+    "FetchedAt": "2026-08-11T06:53:31.1625306+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49250109"
+    },
+    "Type": 1,
+    "Title": "How Claude marks AI-generated content",
+    "Url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+    "Description": "How Claude marks AI-generated content",
+    "Metadata": {
+      "score": "104",
+      "author": "mfiguiere",
+      "commentCount": "85"
+    },
+    "FetchedAt": "2026-08-11T06:53:31.2226808+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49245936"
+    },
+    "Type": 1,
+    "Title": "What\u0027s the best programming language for coding agents?",
+    "Url": "http://danluu.com/pl-tokens/",
+    "Description": "Related: \u003Ci\u003EWhich programming languages are most token-efficient?\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=46582728\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=46582728\u003C/a\u003E - Jan 2026 (91 comments)",
+    "Metadata": {
+      "score": "143",
+      "author": "chaychoong",
+      "commentCount": "96"
+    },
+    "FetchedAt": "2026-08-11T06:53:31.2666627+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49249555"
+    },
+    "Type": 1,
+    "Title": "Confessions of a Long-Distance Sailor",
+    "Url": "https://arachnoid.com/lutusp/sailbook.html",
+    "Description": "Confessions of a Long-Distance Sailor",
+    "Metadata": {
+      "score": "94",
+      "author": "AntiRush",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-08-11T06:53:31.3108881+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49212449"
+    },
+    "Type": 1,
+    "Title": "Publishing Schematics Before \u201COpen Source\u201D Was a Word",
+    "Url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
+    "Description": "Publishing Schematics Before \u201COpen Source\u201D Was a Word",
+    "Metadata": {
+      "score": "82",
+      "author": "extralongdivisi",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-08-11T06:53:31.3549116+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49241679"
+    },
+    "Type": 1,
+    "Title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+    "Url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "Description": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+    "Metadata": {
+      "score": "1094",
+      "author": "riordan",
+      "commentCount": "597"
+    },
+    "FetchedAt": "2026-08-11T06:53:31.3990033+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49242653"
+    },
+    "Type": 1,
+    "Title": "Squeak 6.1",
+    "Url": "https://squeak.org/release_notes/6.1/",
+    "Description": "Squeak 6.1",
+    "Metadata": {
+      "score": "252",
+      "author": "fniephaus",
+      "commentCount": "125"
+    },
+    "FetchedAt": "2026-08-11T06:53:31.4427691+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49242297"
+    },
+    "Type": 1,
+    "Title": "Tail-call optimization in C is relatively recent (2025)",
+    "Url": "https://lwn.net/Articles/1034703/",
+    "Description": "Tail-call optimization in C is relatively recent (2025)",
+    "Metadata": {
+      "score": "139",
+      "author": "prakashqwerty",
+      "commentCount": "127"
+    },
+    "FetchedAt": "2026-08-11T06:53:31.4870829+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49215111"
+    },
+    "Type": 1,
+    "Title": "Choral: Choreographic Programming for Java",
+    "Url": "https://www.choral-lang.org/",
+    "Description": "Choral: Choreographic Programming for Java",
+    "Metadata": {
+      "score": "20",
+      "author": "dplyukhin",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-08-11T06:53:31.5315211+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49247070"
+    },
+    "Type": 1,
+    "Title": "Learning more about Claude\u0027s mathematical capabilities",
+    "Url": "https://www.anthropic.com/research/riemann-zeta",
+    "Description": "Learning more about Claude\u0027s mathematical capabilities",
+    "Metadata": {
+      "score": "180",
+      "author": "tosh",
+      "commentCount": "122"
+    },
+    "FetchedAt": "2026-08-11T06:53:31.5755366+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49243474"
+    },
+    "Type": 1,
+    "Title": "Humanising LLM Outputs Is Dumb",
+    "Url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+    "Description": "Humanising LLM Outputs Is Dumb",
+    "Metadata": {
+      "score": "191",
+      "author": "kuberwastaken",
+      "commentCount": "124"
+    },
+    "FetchedAt": "2026-08-11T06:53:31.6190659+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49245437"
+    },
+    "Type": 1,
+    "Title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+    "Url": "https://github.com/AntigmaLabs/ante",
+    "Description": "Show HN: Ante, a coding agent in a single binary that runs offline",
+    "Metadata": {
+      "score": "125",
+      "author": "ubermon",
+      "commentCount": "75"
+    },
+    "FetchedAt": "2026-08-11T06:53:31.6632171+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49245491"
+    },
+    "Type": 1,
+    "Title": "Exploiting System Management Mode with a very long interrupt",
+    "Url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
+    "Description": "Exploiting System Management Mode with a very long interrupt",
+    "Metadata": {
+      "score": "151",
+      "author": "WhiteDawn",
+      "commentCount": "55"
+    },
+    "FetchedAt": "2026-08-11T06:53:31.7071671+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49245023"
+    },
+    "Type": 1,
+    "Title": "Mars Bar from 1991 found \u2013 and it\u0027s 20g bigger than today\u0027s",
+    "Url": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
+    "Description": "Mars Bar from 1991 found \u2013 and it\u0027s 20g bigger than today\u0027s",
+    "Metadata": {
+      "score": "322",
+      "author": "RickJWagner",
+      "commentCount": "478"
+    },
+    "FetchedAt": "2026-08-11T06:53:31.7507448+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49250894"
+    },
+    "Type": 1,
+    "Title": "World Train Map \u2013 1247 train routes around the world",
+    "Url": "https://worldtrainmap.com/",
+    "Description": "World Train Map \u2013 1247 train routes around the world",
+    "Metadata": {
+      "score": "106",
+      "author": "Flightmussy",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-08-11T06:53:31.7943566+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49200947"
+    },
+    "Type": 1,
+    "Title": "Once More in Triple Time",
+    "Url": "https://theamericanscholar.org/once-more-in-triple-time/",
+    "Description": "Once More in Triple Time",
+    "Metadata": {
+      "score": "3",
+      "author": "Petiver",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-11T06:53:31.8381828+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49241846"
+    },
+    "Type": 1,
+    "Title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
+    "Url": "https://ethw.org/Milestones:Parametron,_1954",
+    "Description": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
+    "Metadata": {
+      "score": "214",
+      "author": "xeonmc",
+      "commentCount": "53"
+    },
+    "FetchedAt": "2026-08-11T06:53:31.8824642+00:00"
   }
 ]
