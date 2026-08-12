@@ -1,36 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:49266277"
-    },
-    "Type": 1,
-    "Title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
-    "Url": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
-    "Description": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
-    "Metadata": {
-      "score": "81",
-      "author": "michaefe",
-      "commentCount": "32"
-    },
-    "FetchedAt": "2026-08-12T01:14:32.8665268+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49265879"
-    },
-    "Type": 1,
-    "Title": "US hires over 2k video gamers as air traffic controllers",
-    "Url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
-    "Description": "US hires over 2k video gamers as air traffic controllers",
-    "Metadata": {
-      "score": "60",
-      "author": "shagie",
-      "commentCount": "40"
-    },
-    "FetchedAt": "2026-08-12T01:14:33.0156915+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49265031"
     },
     "Type": 1,
@@ -181,66 +151,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49201953"
-    },
-    "Type": 1,
-    "Title": "The hardest working font in Manhattan (2025)",
-    "Url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
-    "Description": "The hardest working font in Manhattan (2025)",
-    "Metadata": {
-      "score": "144",
-      "author": "dcminter",
-      "commentCount": "17"
-    },
-    "FetchedAt": "2026-08-12T07:12:26.7957167+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49263497"
-    },
-    "Type": 1,
-    "Title": "Compression is prediction",
-    "Url": "https://ngrok.com/blog/compression-is-prediction",
-    "Description": "Compression is prediction",
-    "Metadata": {
-      "score": "458",
-      "author": "nikolay",
-      "commentCount": "193"
-    },
-    "FetchedAt": "2026-08-12T07:12:26.8236915+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49267928"
-    },
-    "Type": 1,
-    "Title": "llama.cpp",
-    "Url": "https://llama.app",
-    "Description": "llama.cpp",
-    "Metadata": {
-      "score": "121",
-      "author": "kristianpaul",
-      "commentCount": "57"
-    },
-    "FetchedAt": "2026-08-12T07:12:26.8521572+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49265051"
-    },
-    "Type": 1,
-    "Title": "WorldClaw Agentic 3D open-world generation at scale",
-    "Url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-    "Description": "WorldClaw Agentic 3D open-world generation at scale",
-    "Metadata": {
-      "score": "197",
-      "author": "EwanG",
-      "commentCount": "58"
-    },
-    "FetchedAt": "2026-08-12T07:12:26.8794083+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49266921"
     },
     "Type": 1,
@@ -253,111 +163,6 @@
       "commentCount": "18"
     },
     "FetchedAt": "2026-08-12T07:12:26.9080169+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49267108"
-    },
-    "Type": 1,
-    "Title": "The Human Is the Loop",
-    "Url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
-    "Description": "The Human Is the Loop",
-    "Metadata": {
-      "score": "69",
-      "author": "burnto",
-      "commentCount": "27"
-    },
-    "FetchedAt": "2026-08-12T07:12:26.935629+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49263340"
-    },
-    "Type": 1,
-    "Title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-    "Url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-    "Description": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-    "Metadata": {
-      "score": "214",
-      "author": "droidjj",
-      "commentCount": "111"
-    },
-    "FetchedAt": "2026-08-12T07:12:26.9629834+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49257876"
-    },
-    "Type": 1,
-    "Title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-    "Url": "https://stolen-thoughts.com/",
-    "Description": "Stealing Reasoning Traces from Proprietary LLM APIs",
-    "Metadata": {
-      "score": "593",
-      "author": "quantumgarbage",
-      "commentCount": "268"
-    },
-    "FetchedAt": "2026-08-12T07:12:26.9921991+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49197565"
-    },
-    "Type": 1,
-    "Title": "A shell exclamation mark is not for yelling. Be lazy",
-    "Url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
-    "Description": "A shell exclamation mark is not for yelling. Be lazy",
-    "Metadata": {
-      "score": "23",
-      "author": "refp",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-08-12T07:12:27.0202297+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49261128"
-    },
-    "Type": 1,
-    "Title": "Mojo 1.0",
-    "Url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-    "Description": "Mojo 1.0",
-    "Metadata": {
-      "score": "367",
-      "author": "dayanruben",
-      "commentCount": "169"
-    },
-    "FetchedAt": "2026-08-12T07:12:27.0494604+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49257160"
-    },
-    "Type": 1,
-    "Title": "OpenAI\u2019s head of ethics leaves less than a year after joining",
-    "Url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;W48UV\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;W48UV\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;aimagazine.com\u0026#x2F;news\u0026#x2F;why-did-openai-head-of-ethics-chloe-bakalar-leave\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;aimagazine.com\u0026#x2F;news\u0026#x2F;why-did-openai-head-of-ethics-ch...\u003C/a\u003E",
-    "Metadata": {
-      "score": "388",
-      "author": "ilamont",
-      "commentCount": "394"
-    },
-    "FetchedAt": "2026-08-12T07:12:27.0786003+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49261514"
-    },
-    "Type": 1,
-    "Title": "Grok Bot",
-    "Url": "https://x.ai/bot",
-    "Description": "Grok Bot",
-    "Metadata": {
-      "score": "248",
-      "author": "rvz",
-      "commentCount": "202"
-    },
-    "FetchedAt": "2026-08-12T07:12:27.1207647+00:00"
   },
   {
     "ExternalId": {
@@ -403,21 +208,6 @@
       "commentCount": "15"
     },
     "FetchedAt": "2026-08-12T07:12:27.2051042+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49226623"
-    },
-    "Type": 1,
-    "Title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
-    "Url": "https://photosynthesis.camera",
-    "Description": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
-    "Metadata": {
-      "score": "260",
-      "author": "sajomes",
-      "commentCount": "242"
-    },
-    "FetchedAt": "2026-08-12T07:12:27.2330826+00:00"
   },
   {
     "ExternalId": {
@@ -571,21 +361,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49262211"
-    },
-    "Type": 1,
-    "Title": "How we used to get jobs: A newspaper classifieds story",
-    "Url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
-    "Description": "How we used to get jobs: A newspaper classifieds story",
-    "Metadata": {
-      "score": "135",
-      "author": "speckx",
-      "commentCount": "105"
-    },
-    "FetchedAt": "2026-08-12T07:12:27.5539632+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49262172"
     },
     "Type": 1,
@@ -628,5 +403,455 @@
       "commentCount": "75"
     },
     "FetchedAt": "2026-08-12T07:12:27.6377557+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49270953"
+    },
+    "Type": 1,
+    "Title": "2026 Eclipse Webcams",
+    "Url": "https://jonty.github.io/2026_eclipse_webcams/",
+    "Description": "2026 Eclipse Webcams",
+    "Metadata": {
+      "score": "80",
+      "author": "zoenolan",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-08-12T12:51:07.0112056+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49270022"
+    },
+    "Type": 1,
+    "Title": "What sort of maths are LLMs good at?",
+    "Url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+    "Description": "What sort of maths are LLMs good at?",
+    "Metadata": {
+      "score": "116",
+      "author": "ColinWright",
+      "commentCount": "48"
+    },
+    "FetchedAt": "2026-08-12T12:51:07.0538087+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49270040"
+    },
+    "Type": 1,
+    "Title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+    "Url": "https://woxi.ad-si.com",
+    "Description": "Woxi is an interpreter for the Wolfram Language written in Rust.\u003Cp\u003EIt comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module.\u003Cp\u003ECompared with wolframscript \u0026#x2F; Mathematica, the main differences are:\u003Cp\u003E- Free and open source\n- Very fast startup - Typically milliseconds rather than seconds for the Wolfram kernel, making Woxi practical for shell scripts, one-liners, and other short-lived",
+    "Metadata": {
+      "score": "102",
+      "author": "adius",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-08-12T12:51:07.0994586+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49268564"
+    },
+    "Type": 1,
+    "Title": "LinkedIn CringeBot 3000",
+    "Url": "https://www.cringebot3000.com/",
+    "Description": "LinkedIn CringeBot 3000",
+    "Metadata": {
+      "score": "337",
+      "author": "theanonymousone",
+      "commentCount": "136"
+    },
+    "FetchedAt": "2026-08-12T12:51:07.1434209+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49270621"
+    },
+    "Type": 1,
+    "Title": "Delphi 13 Community Edition Is Now Available",
+    "Url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
+    "Description": "Delphi 13 Community Edition Is Now Available",
+    "Metadata": {
+      "score": "25",
+      "author": "layer8",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-08-12T12:51:07.1867229+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49194856"
+    },
+    "Type": 1,
+    "Title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
+    "Url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
+    "Description": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
+    "Metadata": {
+      "score": "45",
+      "author": "bookofjoe",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-08-12T12:51:07.228871+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49269818"
+    },
+    "Type": 1,
+    "Title": "Facebook is paying controversial creators to produce rage-bait content",
+    "Url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
+    "Description": "Facebook is paying controversial creators to produce rage-bait content",
+    "Metadata": {
+      "score": "232",
+      "author": "robtherobber",
+      "commentCount": "126"
+    },
+    "FetchedAt": "2026-08-12T12:51:07.270579+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49271126"
+    },
+    "Type": 1,
+    "Title": "Facebook ads are so hard to block that uBlock Origin stopped filtering them",
+    "Url": "https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/",
+    "Description": "Facebook ads are so hard to block that uBlock Origin stopped filtering them",
+    "Metadata": {
+      "score": "41",
+      "author": "bundie",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-08-12T12:51:07.3137629+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49201953"
+    },
+    "Type": 1,
+    "Title": "The hardest working font in Manhattan (2025)",
+    "Url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
+    "Description": "The hardest working font in Manhattan (2025)",
+    "Metadata": {
+      "score": "263",
+      "author": "dcminter",
+      "commentCount": "40"
+    },
+    "FetchedAt": "2026-08-12T12:51:07.357971+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49208693"
+    },
+    "Type": 1,
+    "Title": "Worms: The Future of Yesterday\u0027s Worms Today",
+    "Url": "https://worm.net/",
+    "Description": "Worms: The Future of Yesterday\u0027s Worms Today",
+    "Metadata": {
+      "score": "101",
+      "author": "doener",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-08-12T12:51:07.4004365+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49263497"
+    },
+    "Type": 1,
+    "Title": "Compression is prediction",
+    "Url": "https://ngrok.com/blog/compression-is-prediction",
+    "Description": "Compression is prediction",
+    "Metadata": {
+      "score": "585",
+      "author": "nikolay",
+      "commentCount": "238"
+    },
+    "FetchedAt": "2026-08-12T12:51:07.4417778+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49182772"
+    },
+    "Type": 1,
+    "Title": "I built a jellyfish laboratory in my backyard [video]",
+    "Url": "https://www.youtube.com/watch?v=MILwxfQBm6Q",
+    "Description": "I built a jellyfish laboratory in my backyard [video]",
+    "Metadata": {
+      "score": "11",
+      "author": "surprisetalk",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-12T12:51:07.5192564+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49269090"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Discovered Materials (YC P26) \u2013 AI agents to discover new materials",
+    "Url": "https://discoveredmaterials.com/research/",
+    "Description": "Hey HN, we\u0026#x27;re Advaith and Akash from Discovered Materials ( \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;discoveredmaterials.com\u0026#x2F;\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;discoveredmaterials.com\u0026#x2F;\u003C/a\u003E ).  We build AI agents that discover new materials for the semiconductor industry.\u003Cp\u003EGPUs today have a heat problem. Nvidia \u0026amp; AMD are almost doubling the TDP (Thermal Design Power) in every chip they release - the H100 (released 2022) has a TDP of 700W, Blackwell (2024) gives out 1.2 kW and Rubin (2026) gives out at 2.3",
+    "Metadata": {
+      "score": "31",
+      "author": "advaith08",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-08-12T12:51:07.561273+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49265051"
+    },
+    "Type": 1,
+    "Title": "WorldClaw Agentic 3D open-world generation at scale",
+    "Url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+    "Description": "WorldClaw Agentic 3D open-world generation at scale",
+    "Metadata": {
+      "score": "247",
+      "author": "EwanG",
+      "commentCount": "73"
+    },
+    "FetchedAt": "2026-08-12T12:51:07.6029766+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49260250"
+    },
+    "Type": 1,
+    "Title": "U of Michigan drops first-semester grades to \u2018curb mental health crisis\u2019",
+    "Url": "https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;FBFjJ\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;FBFjJ\u003C/a\u003E",
+    "Metadata": {
+      "score": "77",
+      "author": "cwwc",
+      "commentCount": "139"
+    },
+    "FetchedAt": "2026-08-12T12:51:07.6459534+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49197565"
+    },
+    "Type": 1,
+    "Title": "A shell exclamation mark is not for yelling. Be lazy",
+    "Url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
+    "Description": "A shell exclamation mark is not for yelling. Be lazy",
+    "Metadata": {
+      "score": "111",
+      "author": "refp",
+      "commentCount": "53"
+    },
+    "FetchedAt": "2026-08-12T12:51:07.6882668+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49257876"
+    },
+    "Type": 1,
+    "Title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "Url": "https://stolen-thoughts.com/",
+    "Description": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "Metadata": {
+      "score": "647",
+      "author": "quantumgarbage",
+      "commentCount": "290"
+    },
+    "FetchedAt": "2026-08-12T12:51:07.7302938+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49257160"
+    },
+    "Type": 1,
+    "Title": "OpenAI\u2019s head of ethics leaves less than a year after joining",
+    "Url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;W48UV\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;W48UV\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;aimagazine.com\u0026#x2F;news\u0026#x2F;why-did-openai-head-of-ethics-chloe-bakalar-leave\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;aimagazine.com\u0026#x2F;news\u0026#x2F;why-did-openai-head-of-ethics-ch...\u003C/a\u003E",
+    "Metadata": {
+      "score": "465",
+      "author": "ilamont",
+      "commentCount": "441"
+    },
+    "FetchedAt": "2026-08-12T12:51:07.7726357+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49267928"
+    },
+    "Type": 1,
+    "Title": "llama.cpp",
+    "Url": "https://llama.app",
+    "Description": "llama.cpp",
+    "Metadata": {
+      "score": "286",
+      "author": "kristianpaul",
+      "commentCount": "125"
+    },
+    "FetchedAt": "2026-08-12T12:51:07.8463495+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49265879"
+    },
+    "Type": 1,
+    "Title": "US hires over 2k video gamers as air traffic controllers",
+    "Url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
+    "Description": "US hires over 2k video gamers as air traffic controllers",
+    "Metadata": {
+      "score": "147",
+      "author": "shagie",
+      "commentCount": "112"
+    },
+    "FetchedAt": "2026-08-12T12:51:07.8968508+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49261128"
+    },
+    "Type": 1,
+    "Title": "Mojo 1.0",
+    "Url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+    "Description": "Mojo 1.0",
+    "Metadata": {
+      "score": "404",
+      "author": "dayanruben",
+      "commentCount": "205"
+    },
+    "FetchedAt": "2026-08-12T12:51:07.939432+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49263340"
+    },
+    "Type": 1,
+    "Title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+    "Url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+    "Description": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+    "Metadata": {
+      "score": "241",
+      "author": "droidjj",
+      "commentCount": "123"
+    },
+    "FetchedAt": "2026-08-12T12:51:07.9815646+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49266277"
+    },
+    "Type": 1,
+    "Title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
+    "Url": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
+    "Description": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
+    "Metadata": {
+      "score": "160",
+      "author": "michaefe",
+      "commentCount": "131"
+    },
+    "FetchedAt": "2026-08-12T12:51:08.0246463+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49263461"
+    },
+    "Type": 1,
+    "Title": "Bluesky\u0027s active user base is shrinking as its focus expands beyond the app",
+    "Url": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
+    "Description": "Bluesky\u0027s active user base is shrinking as its focus expands beyond the app",
+    "Metadata": {
+      "score": "58",
+      "author": "newusertoday",
+      "commentCount": "105"
+    },
+    "FetchedAt": "2026-08-12T12:51:08.0673255+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49235530"
+    },
+    "Type": 1,
+    "Title": "Newfoundland has a hard bread shortage, but why do they eat it?",
+    "Url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-hard-bread-history-shortage-9.7299276",
+    "Description": "Newfoundland has a hard bread shortage, but why do they eat it?",
+    "Metadata": {
+      "score": "39",
+      "author": "empressplay",
+      "commentCount": "39"
+    },
+    "FetchedAt": "2026-08-12T12:51:08.1099509+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49210987"
+    },
+    "Type": 1,
+    "Title": "Music Generation by a Composer, for Musicians",
+    "Url": "https://monictheory.com",
+    "Description": "Music Generation by a Composer, for Musicians",
+    "Metadata": {
+      "score": "7",
+      "author": "song_synth",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-08-12T12:51:08.1514839+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49261514"
+    },
+    "Type": 1,
+    "Title": "Grok Bot",
+    "Url": "https://x.ai/bot",
+    "Description": "Grok Bot",
+    "Metadata": {
+      "score": "310",
+      "author": "rvz",
+      "commentCount": "285"
+    },
+    "FetchedAt": "2026-08-12T12:51:08.1934469+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49267108"
+    },
+    "Type": 1,
+    "Title": "The Human Is the Loop",
+    "Url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
+    "Description": "The Human Is the Loop",
+    "Metadata": {
+      "score": "139",
+      "author": "burnto",
+      "commentCount": "66"
+    },
+    "FetchedAt": "2026-08-12T12:51:08.2362037+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49262211"
+    },
+    "Type": 1,
+    "Title": "How we used to get jobs: A newspaper classifieds story",
+    "Url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+    "Description": "How we used to get jobs: A newspaper classifieds story",
+    "Metadata": {
+      "score": "154",
+      "author": "speckx",
+      "commentCount": "122"
+    },
+    "FetchedAt": "2026-08-12T12:51:08.278757+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49226623"
+    },
+    "Type": 1,
+    "Title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
+    "Url": "https://photosynthesis.camera",
+    "Description": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
+    "Metadata": {
+      "score": "301",
+      "author": "sajomes",
+      "commentCount": "282"
+    },
+    "FetchedAt": "2026-08-12T12:51:08.3208029+00:00"
   }
 ]
