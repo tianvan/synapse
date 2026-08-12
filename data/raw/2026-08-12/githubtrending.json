@@ -1,0 +1,203 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:nvm-sh/nvm"
+    },
+    "Type": 0,
+    "Title": "nvm-sh/nvm",
+    "Url": "https://github.com/nvm-sh/nvm",
+    "Description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "Metadata": {
+      "owner": "nvm-sh",
+      "repo": "nvm",
+      "language": "Shell",
+      "stars": "22",
+      "topics": "bash, install, lts, node, node-js, nodejs, nvm, nvmrc, posix, posix-compliant, shell, version-manager, zsh"
+    },
+    "FetchedAt": "2026-08-12T01:14:31.066328+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "JavaScript",
+      "stars": "578",
+      "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
+    },
+    "FetchedAt": "2026-08-12T01:14:31.277519+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ZhuLinsen/daily_stock_analysis"
+    },
+    "Type": 0,
+    "Title": "ZhuLinsen/daily_stock_analysis",
+    "Url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "Description": "LLM \u9A71\u52A8\u7684\u591A\u5E02\u573A\u80A1\u7968\u667A\u80FD\u5206\u6790\u7CFB\u7EDF\uFF1A\u591A\u6E90\u884C\u60C5\u3001\u5B9E\u65F6\u65B0\u95FB\u3001\u51B3\u7B56\u770B\u677F\u4E0E\u81EA\u52A8\u63A8\u9001\uFF0C\u652F\u6301\u96F6\u6210\u672C\u5B9A\u65F6\u8FD0\u884C\u3002  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "Metadata": {
+      "owner": "ZhuLinsen",
+      "repo": "daily_stock_analysis",
+      "language": "Python",
+      "stars": "243",
+      "topics": "a-stock, ai-agent, aigc, llm, quant, quantitative-finance, quantitative-trading"
+    },
+    "FetchedAt": "2026-08-12T01:14:31.4038613+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/skills"
+    },
+    "Type": 0,
+    "Title": "anthropics/skills",
+    "Url": "https://github.com/anthropics/skills",
+    "Description": "Public repository for Agent Skills",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "skills",
+      "language": "Python",
+      "stars": "485",
+      "topics": "agent-skills"
+    },
+    "FetchedAt": "2026-08-12T01:14:31.5389888+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:3b1b/manim"
+    },
+    "Type": 0,
+    "Title": "3b1b/manim",
+    "Url": "https://github.com/3b1b/manim",
+    "Description": "Animation engine for explanatory math videos",
+    "Metadata": {
+      "owner": "3b1b",
+      "repo": "manim",
+      "language": "Python",
+      "stars": "197",
+      "topics": "3b1b-videos, animation, explanatory-math-videos, python"
+    },
+    "FetchedAt": "2026-08-12T01:14:31.6810276+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/DeepTutor"
+    },
+    "Type": 0,
+    "Title": "HKUDS/DeepTutor",
+    "Url": "https://github.com/HKUDS/DeepTutor",
+    "Description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "DeepTutor",
+      "language": "Python",
+      "stars": "812",
+      "topics": "ai-agents, ai-tutor, clawdbot, cli-tool, deepresearch, interactive-learning, large-language-models, multi-agent-systems, rag"
+    },
+    "FetchedAt": "2026-08-12T01:14:31.8126882+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:stablyai/orca"
+    },
+    "Type": 0,
+    "Title": "stablyai/orca",
+    "Url": "https://github.com/stablyai/orca",
+    "Description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+    "Metadata": {
+      "owner": "stablyai",
+      "repo": "orca",
+      "language": "TypeScript",
+      "stars": "875",
+      "topics": "ade, agent-ide, ai-agents, claude-code, cli, codex, cursor-agent, devtools, ghostty, ide, mobile-app, opencode, orchestration, parallel-agents, pi, terminal, worktrees, yc-backed"
+    },
+    "FetchedAt": "2026-08-12T01:14:31.9340481+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:paperclipai/paperclip"
+    },
+    "Type": 0,
+    "Title": "paperclipai/paperclip",
+    "Url": "https://github.com/paperclipai/paperclip",
+    "Description": "The open-source app everyone uses to manage agents at work",
+    "Metadata": {
+      "owner": "paperclipai",
+      "repo": "paperclip",
+      "language": "TypeScript",
+      "stars": "748"
+    },
+    "FetchedAt": "2026-08-12T01:14:32.0530371+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:huggingface/transformers"
+    },
+    "Type": 0,
+    "Title": "huggingface/transformers",
+    "Url": "https://github.com/huggingface/transformers",
+    "Description": "\uD83E\uDD17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "Metadata": {
+      "owner": "huggingface",
+      "repo": "transformers",
+      "language": "Python",
+      "stars": "80",
+      "topics": "audio, deep-learning, deepseek, gemma, glm, hacktoberfest, llm, machine-learning, model-hub, natural-language-processing, nlp, pretrained-models, python, pytorch, pytorch-transformers, qwen, speech-recognition, transformer, vlm"
+    },
+    "FetchedAt": "2026-08-12T01:14:32.1932783+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:harveyai/harvey-labs"
+    },
+    "Type": 0,
+    "Title": "harveyai/harvey-labs",
+    "Url": "https://github.com/harveyai/harvey-labs",
+    "Description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+    "Metadata": {
+      "owner": "harveyai",
+      "repo": "harvey-labs",
+      "language": "Python",
+      "stars": "28"
+    },
+    "FetchedAt": "2026-08-12T01:14:32.3341833+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:practical-tutorials/project-based-learning"
+    },
+    "Type": 0,
+    "Title": "practical-tutorials/project-based-learning",
+    "Url": "https://github.com/practical-tutorials/project-based-learning",
+    "Description": "Curated list of project-based tutorials",
+    "Metadata": {
+      "owner": "practical-tutorials",
+      "repo": "project-based-learning",
+      "language": "Python",
+      "stars": "401",
+      "topics": "beginner-project, cpp, golang, javascript, project, python, tutorial, webdevelopment"
+    },
+    "FetchedAt": "2026-08-12T01:14:32.4757703+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:PrimeIntellect-ai/prime-agent"
+    },
+    "Type": 0,
+    "Title": "PrimeIntellect-ai/prime-agent",
+    "Url": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "Description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "Metadata": {
+      "owner": "PrimeIntellect-ai",
+      "repo": "prime-agent",
+      "language": "TypeScript",
+      "stars": "1,138"
+    },
+    "FetchedAt": "2026-08-12T01:14:32.592393+00:00"
+  }
+]
