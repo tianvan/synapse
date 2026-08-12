@@ -406,51 +406,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49270953"
-    },
-    "Type": 1,
-    "Title": "2026 Eclipse Webcams",
-    "Url": "https://jonty.github.io/2026_eclipse_webcams/",
-    "Description": "2026 Eclipse Webcams",
-    "Metadata": {
-      "score": "80",
-      "author": "zoenolan",
-      "commentCount": "20"
-    },
-    "FetchedAt": "2026-08-12T12:51:07.0112056+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49270022"
-    },
-    "Type": 1,
-    "Title": "What sort of maths are LLMs good at?",
-    "Url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-    "Description": "What sort of maths are LLMs good at?",
-    "Metadata": {
-      "score": "116",
-      "author": "ColinWright",
-      "commentCount": "48"
-    },
-    "FetchedAt": "2026-08-12T12:51:07.0538087+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49270040"
-    },
-    "Type": 1,
-    "Title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
-    "Url": "https://woxi.ad-si.com",
-    "Description": "Woxi is an interpreter for the Wolfram Language written in Rust.\u003Cp\u003EIt comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module.\u003Cp\u003ECompared with wolframscript \u0026#x2F; Mathematica, the main differences are:\u003Cp\u003E- Free and open source\n- Very fast startup - Typically milliseconds rather than seconds for the Wolfram kernel, making Woxi practical for shell scripts, one-liners, and other short-lived",
-    "Metadata": {
-      "score": "102",
-      "author": "adius",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-08-12T12:51:07.0994586+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49268564"
     },
     "Type": 1,
@@ -463,36 +418,6 @@
       "commentCount": "136"
     },
     "FetchedAt": "2026-08-12T12:51:07.1434209+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49270621"
-    },
-    "Type": 1,
-    "Title": "Delphi 13 Community Edition Is Now Available",
-    "Url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
-    "Description": "Delphi 13 Community Edition Is Now Available",
-    "Metadata": {
-      "score": "25",
-      "author": "layer8",
-      "commentCount": "16"
-    },
-    "FetchedAt": "2026-08-12T12:51:07.1867229+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49194856"
-    },
-    "Type": 1,
-    "Title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
-    "Url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
-    "Description": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
-    "Metadata": {
-      "score": "45",
-      "author": "bookofjoe",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-08-12T12:51:07.228871+00:00"
   },
   {
     "ExternalId": {
@@ -853,5 +778,455 @@
       "commentCount": "282"
     },
     "FetchedAt": "2026-08-12T12:51:08.3208029+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49274600"
+    },
+    "Type": 1,
+    "Title": "DeepSeek V4 Pro 0813",
+    "Url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+    "Description": "DeepSeek V4 Pro 0813",
+    "Metadata": {
+      "score": "373",
+      "author": "explosion-s",
+      "commentCount": "130"
+    },
+    "FetchedAt": "2026-08-12T18:51:48.516365+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49272832"
+    },
+    "Type": 1,
+    "Title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+    "Url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "Description": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+    "Metadata": {
+      "score": "489",
+      "author": "ropbear",
+      "commentCount": "79"
+    },
+    "FetchedAt": "2026-08-12T18:51:48.5415722+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49276574"
+    },
+    "Type": 1,
+    "Title": "Zed: Delta",
+    "Url": "https://zed.dev/blog/introducing-delta",
+    "Description": "Zed: Delta",
+    "Metadata": {
+      "score": "42",
+      "author": "khy",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-08-12T18:51:48.5657444+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49270953"
+    },
+    "Type": 1,
+    "Title": "2026 Eclipse Webcams",
+    "Url": "https://jonty.github.io/2026_eclipse_webcams/",
+    "Description": "2026 Eclipse Webcams",
+    "Metadata": {
+      "score": "403",
+      "author": "zoenolan",
+      "commentCount": "104"
+    },
+    "FetchedAt": "2026-08-12T18:51:48.5898903+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49274950"
+    },
+    "Type": 1,
+    "Title": "Qwen3.8-2.4T",
+    "Url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
+    "Description": "Qwen3.8-2.4T",
+    "Metadata": {
+      "score": "71",
+      "author": "mmastrac",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-08-12T18:51:48.6128874+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49275132"
+    },
+    "Type": 1,
+    "Title": "Glaciers on the Climate Dashboard",
+    "Url": "https://climate.metoffice.cloud/glaciers.html",
+    "Description": "Glaciers on the Climate Dashboard",
+    "Metadata": {
+      "score": "59",
+      "author": "mooreds",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-08-12T18:51:48.6370406+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49272655"
+    },
+    "Type": 1,
+    "Title": "Tim King, AmigaDOS developer, has died",
+    "Url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+    "Description": "Tim King, AmigaDOS developer, has died",
+    "Metadata": {
+      "score": "139",
+      "author": "doener",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-08-12T18:51:48.6605631+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49272569"
+    },
+    "Type": 1,
+    "Title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+    "Url": "https://knownagents.com/insights",
+    "Description": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+    "Metadata": {
+      "score": "141",
+      "author": "gavinhking",
+      "commentCount": "87"
+    },
+    "FetchedAt": "2026-08-12T18:51:48.6858187+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49275335"
+    },
+    "Type": 1,
+    "Title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+    "Url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+    "Description": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+    "Metadata": {
+      "score": "37",
+      "author": "redbell",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-08-12T18:51:48.7097708+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49275465"
+    },
+    "Type": 1,
+    "Title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
+    "Url": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
+    "Description": "Reflex (YC W23) Is hiring Growth and GTM Roles",
+    "Metadata": {
+      "score": "1",
+      "author": "apetuskey",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-12T18:51:48.7333809+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49272549"
+    },
+    "Type": 1,
+    "Title": "Why Tiny JPEGs Look Different in Chrome",
+    "Url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+    "Description": "Why Tiny JPEGs Look Different in Chrome",
+    "Metadata": {
+      "score": "171",
+      "author": "gutechh",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-08-12T18:51:48.7577563+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49275385"
+    },
+    "Type": 1,
+    "Title": "SpaceXAI\u0027s Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
+    "Url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+    "Description": "SpaceXAI\u0027s Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
+    "Metadata": {
+      "score": "165",
+      "author": "wertyk",
+      "commentCount": "129"
+    },
+    "FetchedAt": "2026-08-12T18:51:48.7814747+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49274894"
+    },
+    "Type": 1,
+    "Title": "Wednesday, August 12: GitHub, Incident with Pull Requests and Issues",
+    "Url": "https://www.githubstatus.com/incidents/76t89hbfb09h",
+    "Description": "Wednesday, August 12: GitHub, Incident with Pull Requests and Issues",
+    "Metadata": {
+      "score": "46",
+      "author": "arm32",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-08-12T18:51:48.8046864+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49273165"
+    },
+    "Type": 1,
+    "Title": "License plate reader searches should require a warrant",
+    "Url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
+    "Description": "License plate reader searches should require a warrant",
+    "Metadata": {
+      "score": "382",
+      "author": "apwheele",
+      "commentCount": "238"
+    },
+    "FetchedAt": "2026-08-12T18:51:48.8277512+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49271994"
+    },
+    "Type": 1,
+    "Title": "AI is removing the middle class of software engineering",
+    "Url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "Description": "AI is removing the middle class of software engineering",
+    "Metadata": {
+      "score": "468",
+      "author": "florianherrengt",
+      "commentCount": "392"
+    },
+    "FetchedAt": "2026-08-12T18:51:48.8512792+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49274854"
+    },
+    "Type": 1,
+    "Title": "Bike Bureau: Report Bike Lane Obstructions",
+    "Url": "https://loudbicycle.com/bb",
+    "Description": "Bike Bureau: Report Bike Lane Obstructions",
+    "Metadata": {
+      "score": "30",
+      "author": "kdmccormick",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-08-12T18:51:48.875619+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49273478"
+    },
+    "Type": 1,
+    "Title": "Qwen/Qwen3.8-2.4T-A95B",
+    "Url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+    "Description": "Qwen/Qwen3.8-2.4T-A95B",
+    "Metadata": {
+      "score": "232",
+      "author": "Philpax",
+      "commentCount": "64"
+    },
+    "FetchedAt": "2026-08-12T18:51:48.900992+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49276534"
+    },
+    "Type": 1,
+    "Title": "Your Key to Success Isn\u0027t More Luck or Hard Work",
+    "Url": "https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/",
+    "Description": "Your Key to Success Isn\u0027t More Luck or Hard Work",
+    "Metadata": {
+      "score": "5",
+      "author": "julienreszka",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-12T18:51:48.9254599+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49270022"
+    },
+    "Type": 1,
+    "Title": "What sort of maths are LLMs good at?",
+    "Url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+    "Description": "What sort of maths are LLMs good at?",
+    "Metadata": {
+      "score": "205",
+      "author": "ColinWright",
+      "commentCount": "102"
+    },
+    "FetchedAt": "2026-08-12T18:51:48.9494612+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49271757"
+    },
+    "Type": 1,
+    "Title": "Shade Map",
+    "Url": "https://shademap.app",
+    "Description": "Shade Map",
+    "Metadata": {
+      "score": "74",
+      "author": "fredley",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-08-12T18:51:48.9738297+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49274858"
+    },
+    "Type": 1,
+    "Title": "We just raised $400M in Series C",
+    "Url": "https://lovable.dev/blog/series-c",
+    "Description": "We just raised $400M in Series C",
+    "Metadata": {
+      "score": "37",
+      "author": "thoughtpeddler",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-08-12T18:51:48.9972533+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49218190"
+    },
+    "Type": 1,
+    "Title": "The Bit Player: My Father with Steve Zissou",
+    "Url": "https://www.theparisreview.org/blog/2026/07/27/the-bit-player-my-father-with-steve-zissou/",
+    "Description": "The Bit Player: My Father with Steve Zissou",
+    "Metadata": {
+      "score": "17",
+      "author": "Thevet",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-12T18:51:49.0210575+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49270040"
+    },
+    "Type": 1,
+    "Title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+    "Url": "https://woxi.ad-si.com",
+    "Description": "Woxi is an interpreter for the Wolfram Language written in Rust.\u003Cp\u003EIt comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module.\u003Cp\u003ECompared with wolframscript \u0026#x2F; Mathematica, the main differences are:\u003Cp\u003E- Free and open source\n- Very fast startup - Typically milliseconds rather than seconds for the Wolfram kernel, making Woxi practical for shell scripts, one-liners, and other short-lived",
+    "Metadata": {
+      "score": "217",
+      "author": "adius",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-08-12T18:51:49.0470047+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49244339"
+    },
+    "Type": 1,
+    "Title": "Felix and I",
+    "Url": "https://jacobfilipp.com/felix/",
+    "Description": "Felix and I",
+    "Metadata": {
+      "score": "57",
+      "author": "surprisetalk",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-08-12T18:51:49.0699814+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49273175"
+    },
+    "Type": 1,
+    "Title": "Hax \u2013 a minimalist, terminal-native coding agent written in C",
+    "Url": "https://usehax.dev/",
+    "Description": "Hax \u2013 a minimalist, terminal-native coding agent written in C",
+    "Metadata": {
+      "score": "48",
+      "author": "OleksandrC",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-08-12T18:51:49.0933816+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49191000"
+    },
+    "Type": 1,
+    "Title": "The Essential Question: \u0022What should I read next?\u0022",
+    "Url": "https://thenewcuriosityshop.substack.com/p/the-essential-question",
+    "Description": "The Essential Question: \u0022What should I read next?\u0022",
+    "Metadata": {
+      "score": "7",
+      "author": "benbreen",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-12T18:51:49.1163796+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49270621"
+    },
+    "Type": 1,
+    "Title": "Delphi 13 Community Edition Is Now Available",
+    "Url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
+    "Description": "Delphi 13 Community Edition Is Now Available",
+    "Metadata": {
+      "score": "128",
+      "author": "layer8",
+      "commentCount": "90"
+    },
+    "FetchedAt": "2026-08-12T18:51:49.1404695+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49194856"
+    },
+    "Type": 1,
+    "Title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
+    "Url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
+    "Description": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
+    "Metadata": {
+      "score": "132",
+      "author": "bookofjoe",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-08-12T18:51:49.1643984+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49272282"
+    },
+    "Type": 1,
+    "Title": "Automatic1111 for Apple metal, 40% speed up sd1.5",
+    "Url": "https://therad.ninja/from-8-10-seconds-to-3-7-teaching-automatic1111-to-speak-metal-on-an-m3-pro/",
+    "Description": "Automatic1111 for Apple metal, 40% speed up sd1.5",
+    "Metadata": {
+      "score": "48",
+      "author": "dmikey831",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-08-12T18:51:49.1883103+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49177765"
+    },
+    "Type": 1,
+    "Title": "Solving the Shortest Vector Problem in $2^{0.6039n}$ Time via Mid-Point Hessian",
+    "Url": "https://arxiv.org/abs/2608.02478",
+    "Description": "Solving the Shortest Vector Problem in $2^{0.6039n}$ Time via Mid-Point Hessian",
+    "Metadata": {
+      "score": "26",
+      "author": "sbulaev",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-08-12T18:51:49.2118037+00:00"
   }
 ]
