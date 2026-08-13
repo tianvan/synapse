@@ -1,0 +1,668 @@
+{
+  "Id": "2026-08-13",
+  "GeneratedAt": "2026-08-13T02:00:50.5161565+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:cathrynlavery/diagram-design"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "29 editorial diagram types for Claude Code. Self-contained HTML \u002B SVG. No shadows, no Mermaid-slop."
+      },
+      "Description": "29 editorial diagram types for Claude Code. Self-contained HTML \u002B SVG. No shadows, no Mermaid-slop.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:macro-inc/macro"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM \u2014 @-linked together with shared"
+      },
+      "Description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM \u2014 @-linked together with shared AI memory.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:stablyai/orca"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available "
+      },
+      "Description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:shiyu-coder/Kronos"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Kronos: A Foundation Model for the Language of Financial Markets"
+      },
+      "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:hugohe3/ppt-master"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AI turns documents or topics into real, native PowerPoint decks\u2014with native shapes, transitions and animations, data-bac"
+      },
+      "Description": "AI turns documents or topics into real, native PowerPoint decks\u2014with native shapes, transitions and animations, data-backed charts and tables on deman",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:infiniflow/ragflow"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa"
+      },
+      "Description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior ",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:paperclipai/paperclip"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The open-source app everyone uses to manage agents at work"
+      },
+      "Description": "The open-source app everyone uses to manage agents at work",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:NVIDIA-NeMo/Switchyard"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": ""
+      },
+      "Description": "",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:ZuodaoTech/everyone-can-use-english"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u4EBA\u4EBA\u90FD\u80FD\u7528\u82F1\u8BED"
+      },
+      "Description": "\u4EBA\u4EBA\u90FD\u80FD\u7528\u82F1\u8BED",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:smicallef/spiderfoot"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface."
+      },
+      "Description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:localsend/localsend"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "An open-source cross-platform alternative to AirDrop"
+      },
+      "Description": "An open-source cross-platform alternative to AirDrop",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Lightricks/LTX-2"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Official Python inference and LoRA trainer package for the LTX-2 audio\u2013video generative model."
+      },
+      "Description": "Official Python inference and LoRA trainer package for the LTX-2 audio\u2013video generative model.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:embabel/embabel-agent"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Agent framework for the JVM. Pronounced Em-BAY-bel /\u025Bm\u02C8be\u026Ab\u0259l/"
+      },
+      "Description": "Agent framework for the JVM. Pronounced Em-BAY-bel /\u025Bm\u02C8be\u026Ab\u0259l/",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:cactus-compute/needle"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
+      },
+      "Description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49274600"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "DeepSeek V4 Pro 0813"
+      },
+      "Description": "DeepSeek V4 Pro 0813",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49276574"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Delta"
+      },
+      "Description": "Delta",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49272832"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug"
+      },
+      "Description": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49280103"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Happy 45th Birthday to the IBM PC and Model F/XT"
+      },
+      "Description": "Happy 45th Birthday to the IBM PC and Model F/XT",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49273478"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;huggingface.co\u0026#x2F;Qwen\u0026#x2F;Qwen3.8-2.4T-A95B-FP8\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;hugging"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;huggingface.co\u0026#x2F;Qwen\u0026#x2F;Qwen3.8-2.4T-A95B-FP8\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;huggingface.co\u0026#x2F;Qwen\u0026#x2F;Qwen3.8",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49280061"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "What\u0027s New in Flutter 3.47"
+      },
+      "Description": "What\u0027s New in Flutter 3.47",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49279928"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Principia Mathematica is modern and insightful"
+      },
+      "Description": "Principia Mathematica is modern and insightful",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49280184"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Show HN: Ballet \u2013 Workflow automation that writes integrations against any API"
+      },
+      "Description": "Show HN: Ballet \u2013 Workflow automation that writes integrations against any API",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49269429"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Why Target Common Lisp for Code Generation?"
+      },
+      "Description": "Why Target Common Lisp for Code Generation?",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49270953"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "2026 Eclipse Webcams"
+      },
+      "Description": "2026 Eclipse Webcams",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49272655"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Tim King, AmigaDOS developer, has died"
+      },
+      "Description": "Tim King, AmigaDOS developer, has died",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49275335"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "HTML over WebSockets: real-time SPAs with barely any JavaScript"
+      },
+      "Description": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49280047"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Build Wide, Ship Narrow"
+      },
+      "Description": "Build Wide, Ship Narrow",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49269090"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hey HN, we\u0026#x27;re Advaith and Akash from Discovered Materials ( \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;discoveredmaterials.com\u0026#x2F"
+      },
+      "Description": "Hey HN, we\u0026#x27;re Advaith and Akash from Discovered Materials ( \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;discoveredmaterials.com\u0026#x2F;\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;discovere",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49274027"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Grok 4.6"
+      },
+      "Description": "Grok 4.6",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49272569"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot"
+      },
+      "Description": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49270726"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;reddit.com\u0026#x2F;r\u0026#x2F;uBlockOrigin\u0026#x2F;comments\u0026#x2F;1vgcjg5\u0026#x2F;about_disgusting_facebook"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;reddit.com\u0026#x2F;r\u0026#x2F;uBlockOrigin\u0026#x2F;comments\u0026#x2F;1vgcjg5\u0026#x2F;about_disgusting_facebook_devs\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Eht",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49272549"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Why tiny JPEGs look different in Chrome"
+      },
+      "Description": "Why tiny JPEGs look different in Chrome",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49274757"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Pixel Watch 5"
+      },
+      "Description": "Pixel Watch 5",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49232312"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A Tale of Dynamic Programming (2022)"
+      },
+      "Description": "A Tale of Dynamic Programming (2022)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49277799"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Breaking the WAL"
+      },
+      "Description": "Breaking the WAL",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49279197"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Process as a Proxy for Motivation"
+      },
+      "Description": "Process as a Proxy for Motivation",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49275465"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Reflex (YC W23) Is hiring Growth and GTM Roles"
+      },
+      "Description": "Reflex (YC W23) Is hiring Growth and GTM Roles",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49279628"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I built a browser-native SysEx librarian for 80s/90s synthesizers"
+      },
+      "Description": "I built a browser-native SysEx librarian for 80s/90s synthesizers",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49221990"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Program images and portable Scheme back ends for Jolt"
+      },
+      "Description": "Program images and portable Scheme back ends for Jolt",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49231315"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Debugging Information for Inlined Functions"
+      },
+      "Description": "Debugging Information for Inlined Functions",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49271757"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Shade Map"
+      },
+      "Description": "Shade Map",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49275385"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index"
+      },
+      "Description": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49274858"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Lovable raises $400M Series C"
+      },
+      "Description": "Lovable raises $400M Series C",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49271994"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AI is removing the middle class of software engineering?"
+      },
+      "Description": "AI is removing the middle class of software engineering?",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 44 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
