@@ -127,9 +127,9 @@
       "owner": "cathrynlavery",
       "repo": "diagram-design",
       "language": "HTML",
-      "stars": "2,855"
+      "stars": "4,504"
     },
-    "FetchedAt": "2026-08-13T12:52:22.3827042+00:00"
+    "FetchedAt": "2026-08-13T18:51:59.6876779+00:00"
   },
   {
     "ExternalId": {
@@ -143,10 +143,10 @@
       "owner": "anthropics",
       "repo": "skills",
       "language": "Python",
-      "stars": "569",
+      "stars": "383",
       "topics": "agent-skills"
     },
-    "FetchedAt": "2026-08-13T12:52:22.6091174+00:00"
+    "FetchedAt": "2026-08-13T18:51:59.9023794+00:00"
   },
   {
     "ExternalId": {
@@ -160,10 +160,10 @@
       "owner": "cactus-compute",
       "repo": "needle",
       "language": "Python",
-      "stars": "315",
+      "stars": "768",
       "topics": "cactus, gemini, gemma, llm, on-device-ai"
     },
-    "FetchedAt": "2026-08-13T12:52:22.7797586+00:00"
+    "FetchedAt": "2026-08-13T18:52:00.0742562+00:00"
   },
   {
     "ExternalId": {
@@ -177,10 +177,10 @@
       "owner": "macro-inc",
       "repo": "macro",
       "language": "Rust",
-      "stars": "227",
+      "stars": "1,180",
       "topics": "agent, ai, ai-agents, all-in-one, crm, crm-system, email, linear, mcp, messaging, notes, notion, office, rust, slack, slack-alternative, startup, startup-tools, typescript, workspace"
     },
-    "FetchedAt": "2026-08-13T12:52:22.928357+00:00"
+    "FetchedAt": "2026-08-13T18:52:00.2408969+00:00"
   },
   {
     "ExternalId": {
@@ -197,7 +197,7 @@
       "stars": "166",
       "topics": "ebay, email, emails, information-gathering, instagram, open-source-intelligence, osint, osint-python, osint-tools, pypi, python, social-network, tellonym, trio, twitter"
     },
-    "FetchedAt": "2026-08-13T12:52:23.0741587+00:00"
+    "FetchedAt": "2026-08-13T18:52:00.3996887+00:00"
   },
   {
     "ExternalId": {
@@ -211,10 +211,10 @@
       "owner": "smicallef",
       "repo": "spiderfoot",
       "language": "Python",
-      "stars": "74",
+      "stars": "278",
       "topics": "attacksurface, cti, cybersecurity, footprinting, hacking, information-gathering, information-security, infosec, intelligence-gathering, osint, osint-framework, osint-reconnaissance, osint-tool, pentesting, python, recon, security-tools, threat-intelligence, threatintel"
     },
-    "FetchedAt": "2026-08-13T12:52:23.2043504+00:00"
+    "FetchedAt": "2026-08-13T18:52:00.538562+00:00"
   },
   {
     "ExternalId": {
@@ -223,14 +223,14 @@
     "Type": 0,
     "Title": "NVIDIA-NeMo/Switchyard",
     "Url": "https://github.com/NVIDIA-NeMo/Switchyard",
-    "Description": "",
+    "Description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
     "Metadata": {
       "owner": "NVIDIA-NeMo",
       "repo": "Switchyard",
       "language": "Rust",
-      "stars": "421"
+      "stars": "408"
     },
-    "FetchedAt": "2026-08-13T12:52:23.3651323+00:00"
+    "FetchedAt": "2026-08-13T18:52:00.6733092+00:00"
   },
   {
     "ExternalId": {
@@ -244,10 +244,10 @@
       "owner": "holaboss-ai",
       "repo": "holaOS",
       "language": "TypeScript",
-      "stars": "258",
+      "stars": "380",
       "topics": "agent, agent-harness, agent-os, agentic, ai, ai-agent, ai-agents, artificial-intelligence, claude-code, codex, electron, holaboss, holaos, llm, mcp, memory, model-context-protocol, runtime, typescript, workspace"
     },
-    "FetchedAt": "2026-08-13T12:52:23.5158186+00:00"
+    "FetchedAt": "2026-08-13T18:52:00.8300001+00:00"
   },
   {
     "ExternalId": {
@@ -261,10 +261,10 @@
       "owner": "3b1b",
       "repo": "manim",
       "language": "Python",
-      "stars": "506",
+      "stars": "204",
       "topics": "3b1b-videos, animation, explanatory-math-videos, python"
     },
-    "FetchedAt": "2026-08-13T12:52:23.689193+00:00"
+    "FetchedAt": "2026-08-13T18:52:00.9904123+00:00"
   },
   {
     "ExternalId": {
@@ -278,10 +278,10 @@
       "owner": "Lightricks",
       "repo": "LTX-2",
       "language": "Python",
-      "stars": "65",
+      "stars": "201",
       "topics": "generative-ai, ltx, ltx-2"
     },
-    "FetchedAt": "2026-08-13T12:52:23.8186448+00:00"
+    "FetchedAt": "2026-08-13T18:52:01.1271621+00:00"
   },
   {
     "ExternalId": {
@@ -295,9 +295,9 @@
       "owner": "infiniflow",
       "repo": "ragflow",
       "language": "Go",
-      "stars": "139",
+      "stars": "473",
       "topics": "agent-harness, agentic-ai, agentic-retrieval, agentic-search, ai, ai-agents, context-engine, context-engineering, context-management, harness-engineering, knowledge-compilation, llm-apps, rag, retrieval-augmented-generation"
     },
-    "FetchedAt": "2026-08-13T12:52:24.0883836+00:00"
+    "FetchedAt": "2026-08-13T18:52:01.268487+00:00"
   }
 ]
