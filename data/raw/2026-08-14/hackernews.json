@@ -256,51 +256,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49294997"
-    },
-    "Type": 1,
-    "Title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-    "Url": "https://z.ai/blog/glm-5.3",
-    "Description": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-    "Metadata": {
-      "score": "644",
-      "author": "pella",
-      "commentCount": "314"
-    },
-    "FetchedAt": "2026-08-14T12:46:22.7120003+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49296627"
-    },
-    "Type": 1,
-    "Title": "DeepSeek peak/off-peak pricing update",
-    "Url": "https://api-docs.deepseek.com/news/news260813/",
-    "Description": "DeepSeek peak/off-peak pricing update",
-    "Metadata": {
-      "score": "83",
-      "author": "fagnerbrack",
-      "commentCount": "36"
-    },
-    "FetchedAt": "2026-08-14T12:46:22.7852448+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49249523"
-    },
-    "Type": 1,
-    "Title": "Don\u0027t classify, hallucinate!",
-    "Url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
-    "Description": "Don\u0027t classify, hallucinate!",
-    "Metadata": {
-      "score": "19",
-      "author": "softwaredoug",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-08-14T12:46:22.812594+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49289112"
     },
     "Type": 1,
@@ -313,36 +268,6 @@
       "commentCount": "450"
     },
     "FetchedAt": "2026-08-14T12:46:22.8400658+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49231490"
-    },
-    "Type": 1,
-    "Title": "Differential Heuristics",
-    "Url": "https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/",
-    "Description": "Differential Heuristics",
-    "Metadata": {
-      "score": "50",
-      "author": "ibobev",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-08-14T12:46:22.8676804+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49296740"
-    },
-    "Type": 1,
-    "Title": "Why does Opus 5 feel worse to work with?",
-    "Url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-    "Description": "Why does Opus 5 feel worse to work with?",
-    "Metadata": {
-      "score": "163",
-      "author": "numeri",
-      "commentCount": "147"
-    },
-    "FetchedAt": "2026-08-14T12:46:22.8964733+00:00"
   },
   {
     "ExternalId": {
@@ -703,5 +628,455 @@
       "commentCount": "159"
     },
     "FetchedAt": "2026-08-14T12:46:24.3220969+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49299605"
+    },
+    "Type": 1,
+    "Title": "Qwen 3.8 27B",
+    "Url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "Description": "Qwen 3.8 27B",
+    "Metadata": {
+      "score": "414",
+      "author": "erdaltoprak",
+      "commentCount": "306"
+    },
+    "FetchedAt": "2026-08-14T18:42:20.5608385+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49301260"
+    },
+    "Type": 1,
+    "Title": "Count Binface receives over a quarter of votes in Clacton by-election",
+    "Url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+    "Description": "Count Binface receives over a quarter of votes in Clacton by-election",
+    "Metadata": {
+      "score": "187",
+      "author": "tcp_handshaker",
+      "commentCount": "99"
+    },
+    "FetchedAt": "2026-08-14T18:42:20.6222921+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49299675"
+    },
+    "Type": 1,
+    "Title": "Seven books I keep close because I love them",
+    "Url": "https://blog.plover.com/2026/08/02/",
+    "Description": "Seven books I keep close because I love them",
+    "Metadata": {
+      "score": "179",
+      "author": "surprisetalk",
+      "commentCount": "71"
+    },
+    "FetchedAt": "2026-08-14T18:42:20.6847923+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49300759"
+    },
+    "Type": 1,
+    "Title": "RustDesk now supports true unattended remote access on Wayland",
+    "Url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+    "Description": "RustDesk now supports true unattended remote access on Wayland",
+    "Metadata": {
+      "score": "90",
+      "author": "rustdesk",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-08-14T18:42:20.7461843+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49296740"
+    },
+    "Type": 1,
+    "Title": "Why does Opus 5 feel worse to work with?",
+    "Url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+    "Description": "Why does Opus 5 feel worse to work with?",
+    "Metadata": {
+      "score": "502",
+      "author": "numeri",
+      "commentCount": "468"
+    },
+    "FetchedAt": "2026-08-14T18:42:20.8076129+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49294997"
+    },
+    "Type": 1,
+    "Title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+    "Url": "https://z.ai/blog/glm-5.3",
+    "Description": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+    "Metadata": {
+      "score": "941",
+      "author": "pella",
+      "commentCount": "475"
+    },
+    "FetchedAt": "2026-08-14T18:42:20.8698208+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49299746"
+    },
+    "Type": 1,
+    "Title": "Introducing Toast 1",
+    "Url": "https://www.mixedbread.com/blog/toast-1",
+    "Description": "Introducing Toast 1",
+    "Metadata": {
+      "score": "114",
+      "author": "mplappert",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-08-14T18:42:20.9309886+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49300568"
+    },
+    "Type": 1,
+    "Title": "AI by Hand",
+    "Url": "https://www.byhand.ai/",
+    "Description": "AI by Hand",
+    "Metadata": {
+      "score": "62",
+      "author": "sans_souse",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-08-14T18:42:20.9931944+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49300800"
+    },
+    "Type": 1,
+    "Title": "Maximizing the value of your Claude Code sessions",
+    "Url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+    "Description": "Maximizing the value of your Claude Code sessions",
+    "Metadata": {
+      "score": "45",
+      "author": "twapi",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-08-14T18:42:21.0673225+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49211375"
+    },
+    "Type": 1,
+    "Title": "Ultraviolet Bird Photography",
+    "Url": "https://uvbirds.com/",
+    "Description": "Ultraviolet Bird Photography",
+    "Metadata": {
+      "score": "43",
+      "author": "EndXA",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-08-14T18:42:21.130078+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49269240"
+    },
+    "Type": 1,
+    "Title": "Forbidden City Cabbage",
+    "Url": "https://www.cnn.com/2025/11/10/style/jadeite-cabbage-taiwan-forbidden-city-curio-hnk-intl",
+    "Description": "Forbidden City Cabbage",
+    "Metadata": {
+      "score": "26",
+      "author": "dude250711",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-08-14T18:42:21.1926251+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49299081"
+    },
+    "Type": 1,
+    "Title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+    "Url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+    "Description": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+    "Metadata": {
+      "score": "68",
+      "author": "speckx",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-08-14T18:42:21.2541997+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49299222"
+    },
+    "Type": 1,
+    "Title": "Every Fucking Website (2020)",
+    "Url": "https://lxe.github.io/everywebsite/",
+    "Description": "Every Fucking Website (2020)",
+    "Metadata": {
+      "score": "577",
+      "author": "doubletwoyou",
+      "commentCount": "338"
+    },
+    "FetchedAt": "2026-08-14T18:42:21.3155767+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49253831"
+    },
+    "Type": 1,
+    "Title": "Moving integer division to floating-point is trivial",
+    "Url": "http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html",
+    "Description": "Moving integer division to floating-point is trivial",
+    "Metadata": {
+      "score": "12",
+      "author": "matt_d",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-14T18:42:21.3771174+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49300615"
+    },
+    "Type": 1,
+    "Title": "RayforceDB \u2013 a pure C analytics database with a Lisp-like syntax",
+    "Url": "https://rayforcedb.com/",
+    "Description": "RayforceDB \u2013 a pure C analytics database with a Lisp-like syntax",
+    "Metadata": {
+      "score": "24",
+      "author": "sourdecor",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-08-14T18:42:21.4382501+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49300671"
+    },
+    "Type": 1,
+    "Title": "France\u0027s top court blocks social media ban for under-15s",
+    "Url": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
+    "Description": "France\u0027s top court blocks social media ban for under-15s",
+    "Metadata": {
+      "score": "126",
+      "author": "BlueBerry2001",
+      "commentCount": "62"
+    },
+    "FetchedAt": "2026-08-14T18:42:21.5002272+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49249523"
+    },
+    "Type": 1,
+    "Title": "Don\u0027t classify, hallucinate",
+    "Url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
+    "Description": "Don\u0027t classify, hallucinate",
+    "Metadata": {
+      "score": "176",
+      "author": "softwaredoug",
+      "commentCount": "74"
+    },
+    "FetchedAt": "2026-08-14T18:42:21.5630296+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49298910"
+    },
+    "Type": 1,
+    "Title": "In Australia, a home battery boom has helped cut wholesale power prices",
+    "Url": "https://e360.yale.edu/digest/australia-home-batteries",
+    "Description": "In Australia, a home battery boom has helped cut wholesale power prices",
+    "Metadata": {
+      "score": "242",
+      "author": "speckx",
+      "commentCount": "185"
+    },
+    "FetchedAt": "2026-08-14T18:42:21.6241974+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49296627"
+    },
+    "Type": 1,
+    "Title": "DeepSeek peak/off-peak pricing update",
+    "Url": "https://api-docs.deepseek.com/news/news260813/",
+    "Description": "DeepSeek peak/off-peak pricing update",
+    "Metadata": {
+      "score": "212",
+      "author": "fagnerbrack",
+      "commentCount": "112"
+    },
+    "FetchedAt": "2026-08-14T18:42:21.6858678+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49301215"
+    },
+    "Type": 1,
+    "Title": "Show HN: LuaCAD \u2013 Parametric CAD Scripted in Lua",
+    "Url": "https://luacad.ad-si.com",
+    "Description": "LuaCAD models solids in Lua rather than the OpenSCAD language, with operator\noverloading for CSG (\u0060a \u002B b\u0060, \u0060a - b\u0060, \u0060a * b\u0060).\u003Cp\u003EIt ships with a CLI and a desktop app, including a preview area and a text editor.\u003Cp\u003EI\u0026#x27;ve always been a big fan of OpenSCAD, but the SCAD language itself is unfortunately quite cobbled-together and is a very poorly designed programming language.\u003Cp\u003ELuaCAD takes all the good parts of OpenSCAD and combines them with one of the best scripting languages. It has now comp",
+    "Metadata": {
+      "score": "32",
+      "author": "adius",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-08-14T18:42:21.747547+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49301417"
+    },
+    "Type": 1,
+    "Title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+    "Url": "https://arxiv.org/abs/2608.12700",
+    "Description": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+    "Metadata": {
+      "score": "7",
+      "author": "Jimmc414",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-14T18:42:21.8090627+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49300314"
+    },
+    "Type": 1,
+    "Title": "Google is making private AI practical with homomorphic encryption",
+    "Url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "Description": "Google is making private AI practical with homomorphic encryption",
+    "Metadata": {
+      "score": "86",
+      "author": "u1hcw9nx",
+      "commentCount": "63"
+    },
+    "FetchedAt": "2026-08-14T18:42:21.8708226+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49299102"
+    },
+    "Type": 1,
+    "Title": "AI Model Atlas \u2013 visualizing populations of ML models as interconnected 3D graph",
+    "Url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+    "Description": "AI Model Atlas \u2013 visualizing populations of ML models as interconnected 3D graph",
+    "Metadata": {
+      "score": "31",
+      "author": "bj-rn",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-08-14T18:42:21.9328537+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49299667"
+    },
+    "Type": 1,
+    "Title": "Self-hosted web push Cloudflare Worker, works on iOS",
+    "Url": "https://kukuroo.cc/",
+    "Description": "Self-hosted web push Cloudflare Worker, works on iOS",
+    "Metadata": {
+      "score": "41",
+      "author": "saiday",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-08-14T18:42:21.9939132+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49175067"
+    },
+    "Type": 1,
+    "Title": "G\u00F6del, Escher, Elisp: The Beauty of Macros",
+    "Url": "https://www.chiply.dev/post-elisp-macros-are-beautiful",
+    "Description": "G\u00F6del, Escher, Elisp: The Beauty of Macros",
+    "Metadata": {
+      "score": "56",
+      "author": "JNRowe",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-08-14T18:42:22.055099+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49301342"
+    },
+    "Type": 1,
+    "Title": "Discrete Fourier Transform by Hand",
+    "Url": "https://www.byhand.ai/p/28-discrete-fourier-transform",
+    "Description": "Discrete Fourier Transform by Hand",
+    "Metadata": {
+      "score": "15",
+      "author": "Bluestein",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-14T18:42:22.116998+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49297637"
+    },
+    "Type": 1,
+    "Title": "The TEMU-Fication of Software, Digital Goods and Services",
+    "Url": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
+    "Description": "The TEMU-Fication of Software, Digital Goods and Services",
+    "Metadata": {
+      "score": "91",
+      "author": "surprisetalk",
+      "commentCount": "67"
+    },
+    "FetchedAt": "2026-08-14T18:42:22.1791197+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49298088"
+    },
+    "Type": 1,
+    "Title": "HashAgent \u2013 Share an AI agent as a URL, runs locally via WebGPU",
+    "Url": "https://hashagent.pages.dev/",
+    "Description": "HashAgent \u2013 Share an AI agent as a URL, runs locally via WebGPU",
+    "Metadata": {
+      "score": "38",
+      "author": "masonhsu",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-08-14T18:42:22.2401582+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49299364"
+    },
+    "Type": 1,
+    "Title": "Earth.nullschool.net",
+    "Url": "https://earth.nullschool.net/",
+    "Description": "Earth.nullschool.net",
+    "Metadata": {
+      "score": "32",
+      "author": "TremendousJudge",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-08-14T18:42:22.3014681+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49231490"
+    },
+    "Type": 1,
+    "Title": "Differential Heuristics",
+    "Url": "https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/",
+    "Description": "Differential Heuristics",
+    "Metadata": {
+      "score": "101",
+      "author": "ibobev",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-08-14T18:42:22.3627003+00:00"
   }
 ]
