@@ -1,0 +1,623 @@
+{
+  "Id": "2026-08-14",
+  "GeneratedAt": "2026-08-14T01:58:26.2489147+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:cathrynlavery/diagram-design"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "29 editorial diagram types for Claude Code. Self-contained HTML \u002B SVG. No shadows, no Mermaid-slop."
+      },
+      "Description": "29 editorial diagram types for Claude Code. Self-contained HTML \u002B SVG. No shadows, no Mermaid-slop.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:anthropics/skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Public repository for Agent Skills"
+      },
+      "Description": "Public repository for Agent Skills",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:cactus-compute/needle"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
+      },
+      "Description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:macro-inc/macro"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM \u2014 @-linked together with shared"
+      },
+      "Description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM \u2014 @-linked together with shared AI memory.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:megadose/holehe"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information "
+      },
+      "Description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten pa",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:smicallef/spiderfoot"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface."
+      },
+      "Description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:NVIDIA-NeMo/Switchyard"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic "
+      },
+      "Description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling f",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:holaboss-ai/holaOS"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Open-source All in One AI agent workspace. Run any agent \u2014 Claude Code, Codex \u2014 across your tools (100\u002B integrations \u002B M"
+      },
+      "Description": "Open-source All in One AI agent workspace. Run any agent \u2014 Claude Code, Codex \u2014 across your tools (100\u002B integrations \u002B MCP), apps, browser, and files,",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:3b1b/manim"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Animation engine for explanatory math videos"
+      },
+      "Description": "Animation engine for explanatory math videos",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Lightricks/LTX-2"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Official Python inference and LoRA trainer package for the LTX-2 audio\u2013video generative model."
+      },
+      "Description": "Official Python inference and LoRA trainer package for the LTX-2 audio\u2013video generative model.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:infiniflow/ragflow"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capa"
+      },
+      "Description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior ",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49289112"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;ai.google.dev\u0026#x2F;gemini-api\u0026#x2F;docs\u0026#x2F;models\u0026#x2F;gemini-3.7-flash\u0022 rel=\u0022nofollow\u0022\u003Ehtt"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;ai.google.dev\u0026#x2F;gemini-api\u0026#x2F;docs\u0026#x2F;models\u0026#x2F;gemini-3.7-flash\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;ai.google.dev\u0026#",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49293324"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Bluesky Protocol Services"
+      },
+      "Description": "Bluesky Protocol Services",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49289844"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Accelerating GPT-5.6 Sol Ultrafast"
+      },
+      "Description": "Accelerating GPT-5.6 Sol Ultrafast",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49292932"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How AI text watermarking works"
+      },
+      "Description": "How AI text watermarking works",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49291268"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "NP-Overrated"
+      },
+      "Description": "NP-Overrated",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49293294"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "SparrowMap \u2013 Cameras that watch government vehicles"
+      },
+      "Description": "SparrowMap \u2013 Cameras that watch government vehicles",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49290299"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Understanding is the new bottleneck"
+      },
+      "Description": "Understanding is the new bottleneck",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49289465"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Donkey.bas is 45 Years Old \u2013 131 line of Glory"
+      },
+      "Description": "Donkey.bas is 45 Years Old \u2013 131 line of Glory",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49285244"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;deepseek-ai\u0026#x2F;deepseek-harness\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.co"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;deepseek-ai\u0026#x2F;deepseek-harness\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;deepseek-ai\u0026#x2F;deepse",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49288889"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Mistral OCR 4.1"
+      },
+      "Description": "Mistral OCR 4.1",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49289260"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I want extern \u0022fil-C\u0022"
+      },
+      "Description": "I want extern \u0022fil-C\u0022",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49289512"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Choose Boring Technology (2015)"
+      },
+      "Description": "Choose Boring Technology (2015)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49286341"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Spaghettifying DRAM"
+      },
+      "Description": "Spaghettifying DRAM",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49210740"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How a device finds encrypted DNS by itself"
+      },
+      "Description": "How a device finds encrypted DNS by itself",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49223964"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Finite State Machines in Forth (1994)"
+      },
+      "Description": "Finite State Machines in Forth (1994)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49290768"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How Organizations Use AI: Evidence from ChatGPT [pdf]"
+      },
+      "Description": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49289532"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Where did the old web go? We followed 657,607 links to find out"
+      },
+      "Description": "Where did the old web go? We followed 657,607 links to find out",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49290969"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How G\u00F6del\u0027s Proof Works (2020)"
+      },
+      "Description": "How G\u00F6del\u0027s Proof Works (2020)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49289654"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How Compaction Works in Pi"
+      },
+      "Description": "How Compaction Works in Pi",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49240615"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "An ambiguity in c89 which will never be fixed"
+      },
+      "Description": "An ambiguity in c89 which will never be fixed",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49290215"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Single log line is 49KB\u002B (ext4) / 110KB\u002B (btrfs) of systemd-journald disk writes"
+      },
+      "Description": "Single log line is 49KB\u002B (ext4) / 110KB\u002B (btrfs) of systemd-journald disk writes",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49285418"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Nine PBS sues Iron Mountain over blocked access to archival data"
+      },
+      "Description": "Nine PBS sues Iron Mountain over blocked access to archival data",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49244696"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Smooth Move: Taming Trajectories with Polynomials"
+      },
+      "Description": "Smooth Move: Taming Trajectories with Polynomials",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49236811"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game"
+      },
+      "Description": "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49289372"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;arxiv.org\u0026#x2F;pdf\u0026#x2F;2608.10605\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;arxiv.org\u0026#x2F;pdf\u0026#x2F;"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;arxiv.org\u0026#x2F;pdf\u0026#x2F;2608.10605\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;arxiv.org\u0026#x2F;pdf\u0026#x2F;2608.10605\u003C/a\u003E: Our new paper ",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49290166"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hello, me. It\u0027s been a while"
+      },
+      "Description": "Hello, me. It\u0027s been a while",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49286485"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Kubernetes on Oxide: How customer needs shaped our integrations"
+      },
+      "Description": "Kubernetes on Oxide: How customer needs shaped our integrations",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49283063"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hi HN! We\u2019re Adi and Alex, founders of Bullet, a faster coding agent.\u003Cp\u003EBullet started in a senior year dorm. We were fr"
+      },
+      "Description": "Hi HN! We\u2019re Adi and Alex, founders of Bullet, a faster coding agent.\u003Cp\u003EBullet started in a senior year dorm. We were fresh out of working at AppLovin",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49288293"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AI At Home Part 1: A Box Of Scraps"
+      },
+      "Description": "AI At Home Part 1: A Box Of Scraps",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49285770"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Ordinary abundance"
+      },
+      "Description": "Ordinary abundance",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 41 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
