@@ -1,51 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:49289112"
-    },
-    "Type": 1,
-    "Title": "Gemini 3.7 Flash",
-    "Url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;ai.google.dev\u0026#x2F;gemini-api\u0026#x2F;docs\u0026#x2F;models\u0026#x2F;gemini-3.7-flash\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;ai.google.dev\u0026#x2F;gemini-api\u0026#x2F;docs\u0026#x2F;models\u0026#x2F;gemini-3.7-flas...\u003C/a\u003E",
-    "Metadata": {
-      "score": "603",
-      "author": "thisisauserid",
-      "commentCount": "337"
-    },
-    "FetchedAt": "2026-08-14T01:15:27.2157124+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49293324"
-    },
-    "Type": 1,
-    "Title": "Bluesky Protocol Services",
-    "Url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-    "Description": "Bluesky Protocol Services",
-    "Metadata": {
-      "score": "47",
-      "author": "danabramov",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-08-14T01:15:27.2425429+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49289844"
-    },
-    "Type": 1,
-    "Title": "Accelerating GPT-5.6 Sol Ultrafast",
-    "Url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-    "Description": "Accelerating GPT-5.6 Sol Ultrafast",
-    "Metadata": {
-      "score": "411",
-      "author": "pr337h4m",
-      "commentCount": "172"
-    },
-    "FetchedAt": "2026-08-14T01:15:27.2705294+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49292932"
     },
     "Type": 1,
@@ -58,21 +13,6 @@
       "commentCount": "34"
     },
     "FetchedAt": "2026-08-14T01:15:27.2981596+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49291268"
-    },
-    "Type": 1,
-    "Title": "NP-Overrated",
-    "Url": "https://gruhn.me/blog/2026-08-13/",
-    "Description": "NP-Overrated",
-    "Metadata": {
-      "score": "144",
-      "author": "theanonymousone",
-      "commentCount": "88"
-    },
-    "FetchedAt": "2026-08-14T01:15:27.3268325+00:00"
   },
   {
     "ExternalId": {
@@ -91,66 +31,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49290299"
-    },
-    "Type": 1,
-    "Title": "Understanding is the new bottleneck",
-    "Url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-    "Description": "Understanding is the new bottleneck",
-    "Metadata": {
-      "score": "194",
-      "author": "sebg",
-      "commentCount": "101"
-    },
-    "FetchedAt": "2026-08-14T01:15:27.3809843+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49289465"
-    },
-    "Type": 1,
-    "Title": "Donkey.bas is 45 Years Old \u2013 131 line of Glory",
-    "Url": "https://donkeybas.com/",
-    "Description": "Donkey.bas is 45 Years Old \u2013 131 line of Glory",
-    "Metadata": {
-      "score": "185",
-      "author": "jkrauska",
-      "commentCount": "79"
-    },
-    "FetchedAt": "2026-08-14T01:15:27.4077822+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49285244"
-    },
-    "Type": 1,
-    "Title": "DeepSeek Harness developer preview",
-    "Url": "https://deepseek.com/harness/en/",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;deepseek-ai\u0026#x2F;deepseek-harness\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;deepseek-ai\u0026#x2F;deepseek-harness\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;deepseek-harness.github.io\u0026#x2F;deepseek-harness\u0026#x2F;en\u0026#x2F;guide\u0026#x2F;quickstart\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;deepseek-harness.github.io\u0026#x2F;deepseek-harness\u0026#x2F;en\u0026#x2F;guide...\u003C/a\u003E",
-    "Metadata": {
-      "score": "551",
-      "author": "bjin",
-      "commentCount": "241"
-    },
-    "FetchedAt": "2026-08-14T01:15:27.4571382+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49288889"
-    },
-    "Type": 1,
-    "Title": "Mistral OCR 4.1",
-    "Url": "https://docs.mistral.ai/models/ocr-4-1",
-    "Description": "Mistral OCR 4.1",
-    "Metadata": {
-      "score": "248",
-      "author": "spelk",
-      "commentCount": "97"
-    },
-    "FetchedAt": "2026-08-14T01:15:27.4843378+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49289260"
     },
     "Type": 1,
@@ -166,36 +46,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49289512"
-    },
-    "Type": 1,
-    "Title": "Choose Boring Technology (2015)",
-    "Url": "https://mcfunley.com/choose-boring-technology",
-    "Description": "Choose Boring Technology (2015)",
-    "Metadata": {
-      "score": "243",
-      "author": "tosh",
-      "commentCount": "128"
-    },
-    "FetchedAt": "2026-08-14T01:15:27.5372092+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49286341"
-    },
-    "Type": 1,
-    "Title": "Spaghettifying DRAM",
-    "Url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-    "Description": "Spaghettifying DRAM",
-    "Metadata": {
-      "score": "489",
-      "author": "matt_d",
-      "commentCount": "138"
-    },
-    "FetchedAt": "2026-08-14T01:15:27.5631404+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49210740"
     },
     "Type": 1,
@@ -208,126 +58,6 @@
       "commentCount": "3"
     },
     "FetchedAt": "2026-08-14T01:15:27.5895135+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49223964"
-    },
-    "Type": 1,
-    "Title": "Finite State Machines in Forth (1994)",
-    "Url": "https://www.forth.org/literature/noble.html",
-    "Description": "Finite State Machines in Forth (1994)",
-    "Metadata": {
-      "score": "42",
-      "author": "ofalkaed",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-08-14T01:15:27.6159597+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49290768"
-    },
-    "Type": 1,
-    "Title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-    "Url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-    "Description": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-    "Metadata": {
-      "score": "65",
-      "author": "malshe",
-      "commentCount": "34"
-    },
-    "FetchedAt": "2026-08-14T01:15:27.6424491+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49289532"
-    },
-    "Type": 1,
-    "Title": "Where did the old web go? We followed 657,607 links to find out",
-    "Url": "https://0.mk/blog/link-rot",
-    "Description": "Where did the old web go? We followed 657,607 links to find out",
-    "Metadata": {
-      "score": "127",
-      "author": "tdx",
-      "commentCount": "106"
-    },
-    "FetchedAt": "2026-08-14T01:15:27.6698453+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49290969"
-    },
-    "Type": 1,
-    "Title": "How G\u00F6del\u0027s Proof Works (2020)",
-    "Url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
-    "Description": "How G\u00F6del\u0027s Proof Works (2020)",
-    "Metadata": {
-      "score": "63",
-      "author": "tzury",
-      "commentCount": "33"
-    },
-    "FetchedAt": "2026-08-14T01:15:27.6960246+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49289654"
-    },
-    "Type": 1,
-    "Title": "How Compaction Works in Pi",
-    "Url": "https://earendil.com/posts/compaction-in-pi/",
-    "Description": "How Compaction Works in Pi",
-    "Metadata": {
-      "score": "101",
-      "author": "tosh",
-      "commentCount": "40"
-    },
-    "FetchedAt": "2026-08-14T01:15:27.722458+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49240615"
-    },
-    "Type": 1,
-    "Title": "An ambiguity in c89 which will never be fixed",
-    "Url": "https://sebsite.pw/w/20260810-c89ambiguity.html",
-    "Description": "An ambiguity in c89 which will never be fixed",
-    "Metadata": {
-      "score": "29",
-      "author": "runningmike",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-08-14T01:15:27.748884+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49290215"
-    },
-    "Type": 1,
-    "Title": "Single log line is 49KB\u002B (ext4) / 110KB\u002B (btrfs) of systemd-journald disk writes",
-    "Url": "https://github.com/systemd/systemd/issues/40262",
-    "Description": "Single log line is 49KB\u002B (ext4) / 110KB\u002B (btrfs) of systemd-journald disk writes",
-    "Metadata": {
-      "score": "144",
-      "author": "ValdikSS",
-      "commentCount": "93"
-    },
-    "FetchedAt": "2026-08-14T01:15:27.7758883+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49285418"
-    },
-    "Type": 1,
-    "Title": "Nine PBS sues Iron Mountain over blocked access to archival data",
-    "Url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
-    "Description": "Nine PBS sues Iron Mountain over blocked access to archival data",
-    "Metadata": {
-      "score": "238",
-      "author": "vinayakborkar",
-      "commentCount": "134"
-    },
-    "FetchedAt": "2026-08-14T01:15:27.8023005+00:00"
   },
   {
     "ExternalId": {
@@ -376,51 +106,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49290166"
-    },
-    "Type": 1,
-    "Title": "Hello, me. It\u0027s been a while",
-    "Url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
-    "Description": "Hello, me. It\u0027s been a while",
-    "Metadata": {
-      "score": "15",
-      "author": "somesoftdev",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-08-14T01:15:27.9075306+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49286485"
-    },
-    "Type": 1,
-    "Title": "Kubernetes on Oxide: How customer needs shaped our integrations",
-    "Url": "https://oxide.computer/blog/kubernetes-on-oxide",
-    "Description": "Kubernetes on Oxide: How customer needs shaped our integrations",
-    "Metadata": {
-      "score": "153",
-      "author": "stevehipwell",
-      "commentCount": "69"
-    },
-    "FetchedAt": "2026-08-14T01:15:27.9342323+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49283063"
-    },
-    "Type": 1,
-    "Title": "Launch HN: Bullet (YC S26) \u2013 A Faster Coding Agent",
-    "Url": "https://www.codewithbullet.com",
-    "Description": "Hi HN! We\u2019re Adi and Alex, founders of Bullet, a faster coding agent.\u003Cp\u003EBullet started in a senior year dorm. We were fresh out of working at AppLovin and Citadel, and naturally thought we were on a sure path to startup success. We were going to use our skills optimizing stock pricing calculation speeds and agent document context to take over the world. So, Bullet started as an AI hedge fund, a browser-use agent, synthetic financial data (oof), a mobile IDE, and a bunch of other things. We wante",
-    "Metadata": {
-      "score": "83",
-      "author": "adi1",
-      "commentCount": "52"
-    },
-    "FetchedAt": "2026-08-14T01:15:27.9617104+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49288293"
     },
     "Type": 1,
@@ -436,17 +121,452 @@
   },
   {
     "ExternalId": {
+      "Value": "hn:49294997"
+    },
+    "Type": 1,
+    "Title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+    "Url": "https://z.ai/blog/glm-5.3",
+    "Description": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+    "Metadata": {
+      "score": "240",
+      "author": "pella",
+      "commentCount": "83"
+    },
+    "FetchedAt": "2026-08-14T07:12:53.69699+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49289112"
+    },
+    "Type": 1,
+    "Title": "Gemini 3.7 Flash",
+    "Url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;ai.google.dev\u0026#x2F;gemini-api\u0026#x2F;docs\u0026#x2F;models\u0026#x2F;gemini-3.7-flash\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;ai.google.dev\u0026#x2F;gemini-api\u0026#x2F;docs\u0026#x2F;models\u0026#x2F;gemini-3.7-flas...\u003C/a\u003E",
+    "Metadata": {
+      "score": "776",
+      "author": "thisisauserid",
+      "commentCount": "405"
+    },
+    "FetchedAt": "2026-08-14T07:12:53.7547692+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49289844"
+    },
+    "Type": 1,
+    "Title": "Accelerating GPT-5.6 Sol Ultrafast",
+    "Url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+    "Description": "Accelerating GPT-5.6 Sol Ultrafast",
+    "Metadata": {
+      "score": "545",
+      "author": "pr337h4m",
+      "commentCount": "228"
+    },
+    "FetchedAt": "2026-08-14T07:12:53.8102977+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49290166"
+    },
+    "Type": 1,
+    "Title": "Hello, me. It\u0027s been a while",
+    "Url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
+    "Description": "Hello, me. It\u0027s been a while",
+    "Metadata": {
+      "score": "154",
+      "author": "somesoftdev",
+      "commentCount": "65"
+    },
+    "FetchedAt": "2026-08-14T07:12:53.8659934+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49293324"
+    },
+    "Type": 1,
+    "Title": "Bluesky Protocol Services",
+    "Url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+    "Description": "Bluesky Protocol Services",
+    "Metadata": {
+      "score": "144",
+      "author": "danabramov",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-08-14T07:12:53.9210804+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49285244"
+    },
+    "Type": 1,
+    "Title": "DeepSeek Harness developer preview",
+    "Url": "https://deepseek.com/harness/en/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;deepseek-ai\u0026#x2F;deepseek-harness\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;deepseek-ai\u0026#x2F;deepseek-harness\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;deepseek-harness.github.io\u0026#x2F;deepseek-harness\u0026#x2F;en\u0026#x2F;guide\u0026#x2F;quickstart\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;deepseek-harness.github.io\u0026#x2F;deepseek-harness\u0026#x2F;en\u0026#x2F;guide...\u003C/a\u003E",
+    "Metadata": {
+      "score": "627",
+      "author": "bjin",
+      "commentCount": "263"
+    },
+    "FetchedAt": "2026-08-14T07:12:53.9769532+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49286341"
+    },
+    "Type": 1,
+    "Title": "Spaghettifying DRAM",
+    "Url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+    "Description": "Spaghettifying DRAM",
+    "Metadata": {
+      "score": "579",
+      "author": "matt_d",
+      "commentCount": "153"
+    },
+    "FetchedAt": "2026-08-14T07:12:54.0320882+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49288889"
+    },
+    "Type": 1,
+    "Title": "Mistral OCR 4.1",
+    "Url": "https://docs.mistral.ai/models/ocr-4-1",
+    "Description": "Mistral OCR 4.1",
+    "Metadata": {
+      "score": "311",
+      "author": "spelk",
+      "commentCount": "118"
+    },
+    "FetchedAt": "2026-08-14T07:12:54.0870595+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49248769"
+    },
+    "Type": 1,
+    "Title": "The Library of Ashurbanipal",
+    "Url": "https://www.historytoday.com/archive/feature/library-ashurbanipal",
+    "Description": "The Library of Ashurbanipal",
+    "Metadata": {
+      "score": "16",
+      "author": "samizdis",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-14T07:12:54.1428755+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49290299"
+    },
+    "Type": 1,
+    "Title": "Understanding is the new bottleneck",
+    "Url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+    "Description": "Understanding is the new bottleneck",
+    "Metadata": {
+      "score": "293",
+      "author": "sebg",
+      "commentCount": "158"
+    },
+    "FetchedAt": "2026-08-14T07:12:54.1988437+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49289512"
+    },
+    "Type": 1,
+    "Title": "Choose Boring Technology (2015)",
+    "Url": "https://mcfunley.com/choose-boring-technology",
+    "Description": "Choose Boring Technology (2015)",
+    "Metadata": {
+      "score": "321",
+      "author": "tosh",
+      "commentCount": "159"
+    },
+    "FetchedAt": "2026-08-14T07:12:54.2540655+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49291268"
+    },
+    "Type": 1,
+    "Title": "NP-overrated",
+    "Url": "https://gruhn.me/blog/2026-08-13/",
+    "Description": "NP-overrated",
+    "Metadata": {
+      "score": "194",
+      "author": "theanonymousone",
+      "commentCount": "124"
+    },
+    "FetchedAt": "2026-08-14T07:12:54.310255+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49289465"
+    },
+    "Type": 1,
+    "Title": "Donkey.bas is 45 Years Old \u2013 131 line of Glory",
+    "Url": "https://donkeybas.com/",
+    "Description": "Donkey.bas is 45 Years Old \u2013 131 line of Glory",
+    "Metadata": {
+      "score": "220",
+      "author": "jkrauska",
+      "commentCount": "104"
+    },
+    "FetchedAt": "2026-08-14T07:12:54.3655241+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49242287"
+    },
+    "Type": 1,
+    "Title": "How do you sell a CPU design when the instruction set is free?",
+    "Url": "https://www.siliconimist.com/p/credibility-is-the-barrier-to-entry",
+    "Description": "How do you sell a CPU design when the instruction set is free?",
+    "Metadata": {
+      "score": "18",
+      "author": "johncole",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-08-14T07:12:54.420521+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49285418"
+    },
+    "Type": 1,
+    "Title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+    "Url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+    "Description": "Nine PBS sues Iron Mountain over blocked access to archival data",
+    "Metadata": {
+      "score": "294",
+      "author": "vinayakborkar",
+      "commentCount": "166"
+    },
+    "FetchedAt": "2026-08-14T07:12:54.4760123+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49293087"
+    },
+    "Type": 1,
+    "Title": "Blog about things you don\u0027t understand yet",
+    "Url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
+    "Description": "Blog about things you don\u0027t understand yet",
+    "Metadata": {
+      "score": "78",
+      "author": "gfysfm",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-08-14T07:12:54.5316298+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49289654"
+    },
+    "Type": 1,
+    "Title": "How Compaction Works in Pi",
+    "Url": "https://earendil.com/posts/compaction-in-pi/",
+    "Description": "How Compaction Works in Pi",
+    "Metadata": {
+      "score": "147",
+      "author": "tosh",
+      "commentCount": "58"
+    },
+    "FetchedAt": "2026-08-14T07:12:54.6116337+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49232753"
+    },
+    "Type": 1,
+    "Title": "The Legend of the Novell NE2000 [video]",
+    "Url": "https://www.youtube.com/watch?v=nNXzQ7V1S_k",
+    "Description": "The Legend of the Novell NE2000 [video]",
+    "Metadata": {
+      "score": "39",
+      "author": "voxadam",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-08-14T07:12:54.6690484+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49289532"
+    },
+    "Type": 1,
+    "Title": "Where did the old web go? We followed 657,607 links to find out",
+    "Url": "https://0.mk/blog/link-rot",
+    "Description": "Where did the old web go? We followed 657,607 links to find out",
+    "Metadata": {
+      "score": "166",
+      "author": "tdx",
+      "commentCount": "151"
+    },
+    "FetchedAt": "2026-08-14T07:12:54.7257687+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49258085"
+    },
+    "Type": 1,
+    "Title": "Show HN: C# Game Engine with its own scripting language and IDE",
+    "Url": "https://github.com/ArcadeMakerSources/ArcadeMaker",
+    "Description": "Show HN: C# Game Engine with its own scripting language and IDE",
+    "Metadata": {
+      "score": "5",
+      "author": "am-gm",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-14T07:12:54.7813106+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49290215"
+    },
+    "Type": 1,
+    "Title": "Single log line is 49KB\u002B (ext4) / 110KB\u002B (btrfs) of systemd-journald disk writes",
+    "Url": "https://github.com/systemd/systemd/issues/40262",
+    "Description": "Single log line is 49KB\u002B (ext4) / 110KB\u002B (btrfs) of systemd-journald disk writes",
+    "Metadata": {
+      "score": "196",
+      "author": "ValdikSS",
+      "commentCount": "121"
+    },
+    "FetchedAt": "2026-08-14T07:12:54.8388033+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49223964"
+    },
+    "Type": 1,
+    "Title": "Finite State Machines in Forth (1994)",
+    "Url": "https://www.forth.org/literature/noble.html",
+    "Description": "Finite State Machines in Forth (1994)",
+    "Metadata": {
+      "score": "71",
+      "author": "ofalkaed",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-08-14T07:12:54.8995186+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49290768"
+    },
+    "Type": 1,
+    "Title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+    "Url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+    "Description": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+    "Metadata": {
+      "score": "97",
+      "author": "malshe",
+      "commentCount": "52"
+    },
+    "FetchedAt": "2026-08-14T07:12:54.9555416+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49290969"
+    },
+    "Type": 1,
+    "Title": "How G\u00F6del\u0027s Proof Works (2020)",
+    "Url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+    "Description": "How G\u00F6del\u0027s Proof Works (2020)",
+    "Metadata": {
+      "score": "98",
+      "author": "tzury",
+      "commentCount": "42"
+    },
+    "FetchedAt": "2026-08-14T07:12:55.0148419+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49240615"
+    },
+    "Type": 1,
+    "Title": "An ambiguity in c89 which will never be fixed",
+    "Url": "https://sebsite.pw/w/20260810-c89ambiguity.html",
+    "Description": "An ambiguity in c89 which will never be fixed",
+    "Metadata": {
+      "score": "57",
+      "author": "runningmike",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-08-14T07:12:55.4206475+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "hn:49285770"
     },
     "Type": 1,
-    "Title": "Ordinary abundance",
+    "Title": "Ordinary Abundance",
     "Url": "https://ordinaryabundance.com/",
-    "Description": "Ordinary abundance",
+    "Description": "Ordinary Abundance",
     "Metadata": {
-      "score": "204",
+      "score": "283",
       "author": "yen223",
-      "commentCount": "113"
+      "commentCount": "142"
     },
-    "FetchedAt": "2026-08-14T01:15:28.0152061+00:00"
+    "FetchedAt": "2026-08-14T07:12:55.5764193+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49221431"
+    },
+    "Type": 1,
+    "Title": "Cave of the Crystals",
+    "Url": "https://en.wikipedia.org/wiki/Cave_of_the_Crystals",
+    "Description": "Cave of the Crystals",
+    "Metadata": {
+      "score": "32",
+      "author": "ColinWright",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-14T07:12:55.6313275+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49285327"
+    },
+    "Type": 1,
+    "Title": "Choosing an AI model: one prompt, 11 models, different results",
+    "Url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+    "Description": "Choosing an AI model: one prompt, 11 models, different results",
+    "Metadata": {
+      "score": "197",
+      "author": "toddmorey",
+      "commentCount": "82"
+    },
+    "FetchedAt": "2026-08-14T07:12:55.687617+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49283063"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Bullet (YC S26) \u2013 A Faster Coding Agent",
+    "Url": "https://www.codewithbullet.com",
+    "Description": "Hi HN! We\u2019re Adi and Alex, founders of Bullet, a faster coding agent.\u003Cp\u003EBullet started in a senior year dorm. We were fresh out of working at AppLovin and Citadel, and naturally thought we were on a sure path to startup success. We were going to use our skills optimizing stock pricing calculation speeds and agent document context to take over the world. So, Bullet started as an AI hedge fund, a browser-use agent, synthetic financial data (oof), a mobile IDE, and a bunch of other things. We wante",
+    "Metadata": {
+      "score": "95",
+      "author": "adi1",
+      "commentCount": "73"
+    },
+    "FetchedAt": "2026-08-14T07:12:55.744693+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49286485"
+    },
+    "Type": 1,
+    "Title": "Kubernetes on Oxide: How customer needs shaped our integrations",
+    "Url": "https://oxide.computer/blog/kubernetes-on-oxide",
+    "Description": "Kubernetes on Oxide: How customer needs shaped our integrations",
+    "Metadata": {
+      "score": "180",
+      "author": "stevehipwell",
+      "commentCount": "78"
+    },
+    "FetchedAt": "2026-08-14T07:12:55.7999607+00:00"
   }
 ]
