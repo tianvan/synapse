@@ -1,0 +1,187 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:cathrynlavery/diagram-design"
+    },
+    "Type": 0,
+    "Title": "cathrynlavery/diagram-design",
+    "Url": "https://github.com/cathrynlavery/diagram-design",
+    "Description": "29 editorial diagram types for Claude Code. Self-contained HTML \u002B SVG. No shadows, no Mermaid-slop.",
+    "Metadata": {
+      "owner": "cathrynlavery",
+      "repo": "diagram-design",
+      "language": "HTML",
+      "stars": "4,475"
+    },
+    "FetchedAt": "2026-08-14T01:15:25.2562196+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/skills"
+    },
+    "Type": 0,
+    "Title": "anthropics/skills",
+    "Url": "https://github.com/anthropics/skills",
+    "Description": "Public repository for Agent Skills",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "skills",
+      "language": "Python",
+      "stars": "312",
+      "topics": "agent-skills"
+    },
+    "FetchedAt": "2026-08-14T01:15:25.4844941+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cactus-compute/needle"
+    },
+    "Type": 0,
+    "Title": "cactus-compute/needle",
+    "Url": "https://github.com/cactus-compute/needle",
+    "Description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "Metadata": {
+      "owner": "cactus-compute",
+      "repo": "needle",
+      "language": "Python",
+      "stars": "769",
+      "topics": "cactus, gemini, gemma, llm, on-device-ai"
+    },
+    "FetchedAt": "2026-08-14T01:15:25.6420598+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:macro-inc/macro"
+    },
+    "Type": 0,
+    "Title": "macro-inc/macro",
+    "Url": "https://github.com/macro-inc/macro",
+    "Description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM \u2014 @-linked together with shared AI memory.",
+    "Metadata": {
+      "owner": "macro-inc",
+      "repo": "macro",
+      "language": "Rust",
+      "stars": "1,239",
+      "topics": "agent, ai, ai-agents, all-in-one, crm, crm-system, email, linear, mcp, messaging, notes, notion, office, rust, slack, slack-alternative, startup, startup-tools, typescript, workspace"
+    },
+    "FetchedAt": "2026-08-14T01:15:25.8013584+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:megadose/holehe"
+    },
+    "Type": 0,
+    "Title": "megadose/holehe",
+    "Url": "https://github.com/megadose/holehe",
+    "Description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "Metadata": {
+      "owner": "megadose",
+      "repo": "holehe",
+      "language": "Python",
+      "stars": "195",
+      "topics": "ebay, email, emails, information-gathering, instagram, open-source-intelligence, osint, osint-python, osint-tools, pypi, python, social-network, tellonym, trio, twitter"
+    },
+    "FetchedAt": "2026-08-14T01:15:25.9506435+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:smicallef/spiderfoot"
+    },
+    "Type": 0,
+    "Title": "smicallef/spiderfoot",
+    "Url": "https://github.com/smicallef/spiderfoot",
+    "Description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+    "Metadata": {
+      "owner": "smicallef",
+      "repo": "spiderfoot",
+      "language": "Python",
+      "stars": "283",
+      "topics": "attacksurface, cti, cybersecurity, footprinting, hacking, information-gathering, information-security, infosec, intelligence-gathering, osint, osint-framework, osint-reconnaissance, osint-tool, pentesting, python, recon, security-tools, threat-intelligence, threatintel"
+    },
+    "FetchedAt": "2026-08-14T01:15:26.1060303+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NVIDIA-NeMo/Switchyard"
+    },
+    "Type": 0,
+    "Title": "NVIDIA-NeMo/Switchyard",
+    "Url": "https://github.com/NVIDIA-NeMo/Switchyard",
+    "Description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+    "Metadata": {
+      "owner": "NVIDIA-NeMo",
+      "repo": "Switchyard",
+      "language": "Rust",
+      "stars": "408"
+    },
+    "FetchedAt": "2026-08-14T01:15:26.2562223+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:holaboss-ai/holaOS"
+    },
+    "Type": 0,
+    "Title": "holaboss-ai/holaOS",
+    "Url": "https://github.com/holaboss-ai/holaOS",
+    "Description": "Open-source All in One AI agent workspace. Run any agent \u2014 Claude Code, Codex \u2014 across your tools (100\u002B integrations \u002B MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+    "Metadata": {
+      "owner": "holaboss-ai",
+      "repo": "holaOS",
+      "language": "TypeScript",
+      "stars": "241",
+      "topics": "agent, agent-harness, agent-os, agentic, ai, ai-agent, ai-agents, artificial-intelligence, claude-code, codex, electron, holaboss, holaos, llm, mcp, memory, model-context-protocol, runtime, typescript, workspace"
+    },
+    "FetchedAt": "2026-08-14T01:15:26.4147018+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:3b1b/manim"
+    },
+    "Type": 0,
+    "Title": "3b1b/manim",
+    "Url": "https://github.com/3b1b/manim",
+    "Description": "Animation engine for explanatory math videos",
+    "Metadata": {
+      "owner": "3b1b",
+      "repo": "manim",
+      "language": "Python",
+      "stars": "176",
+      "topics": "3b1b-videos, animation, explanatory-math-videos, python"
+    },
+    "FetchedAt": "2026-08-14T01:15:26.5933898+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Lightricks/LTX-2"
+    },
+    "Type": 0,
+    "Title": "Lightricks/LTX-2",
+    "Url": "https://github.com/Lightricks/LTX-2",
+    "Description": "Official Python inference and LoRA trainer package for the LTX-2 audio\u2013video generative model.",
+    "Metadata": {
+      "owner": "Lightricks",
+      "repo": "LTX-2",
+      "language": "Python",
+      "stars": "205",
+      "topics": "generative-ai, ltx, ltx-2"
+    },
+    "FetchedAt": "2026-08-14T01:15:26.728256+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:infiniflow/ragflow"
+    },
+    "Type": 0,
+    "Title": "infiniflow/ragflow",
+    "Url": "https://github.com/infiniflow/ragflow",
+    "Description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+    "Metadata": {
+      "owner": "infiniflow",
+      "repo": "ragflow",
+      "language": "Go",
+      "stars": "465",
+      "topics": "agent-harness, agentic-ai, agentic-retrieval, agentic-search, ai, ai-agents, context-engine, context-engineering, context-management, harness-engineering, knowledge-compilation, llm-apps, rag, retrieval-augmented-generation"
+    },
+    "FetchedAt": "2026-08-14T01:15:26.8970022+00:00"
+  }
+]
