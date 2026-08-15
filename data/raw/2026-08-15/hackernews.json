@@ -376,126 +376,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49309549"
-    },
-    "Type": 1,
-    "Title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-    "Url": "https://sankalp.bearblog.dev/autoresearch/",
-    "Description": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-    "Metadata": {
-      "score": "29",
-      "author": "tosh",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-08-15T12:21:26.2027345+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49307592"
-    },
-    "Type": 1,
-    "Title": "The other Sean Byrne doesn\u0027t exist",
-    "Url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-    "Description": "The other Sean Byrne doesn\u0027t exist",
-    "Metadata": {
-      "score": "236",
-      "author": "rdl",
-      "commentCount": "115"
-    },
-    "FetchedAt": "2026-08-15T12:21:26.2594995+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49299605"
-    },
-    "Type": 1,
-    "Title": "Qwen 3.8 27B",
-    "Url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-    "Description": "Qwen 3.8 27B",
-    "Metadata": {
-      "score": "1197",
-      "author": "erdaltoprak",
-      "commentCount": "716"
-    },
-    "FetchedAt": "2026-08-15T12:21:26.3238713+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49237183"
-    },
-    "Type": 1,
-    "Title": "The mathematical beauty of hyperbezier curves",
-    "Url": "https://linebender.org/blog/hyperbezier/",
-    "Description": "The mathematical beauty of hyperbezier curves",
-    "Metadata": {
-      "score": "33",
-      "author": "raphlinus",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-08-15T12:21:26.378674+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49308685"
-    },
-    "Type": 1,
-    "Title": "Using GCC\u0027s Nested Functions with Wide Pointers and No Trampolines II",
-    "Url": "https://uecker.codeberg.page/2026-07-14.html",
-    "Description": "Using GCC\u0027s Nested Functions with Wide Pointers and No Trampolines II",
-    "Metadata": {
-      "score": "33",
-      "author": "uecker",
-      "commentCount": "12"
-    },
-    "FetchedAt": "2026-08-15T12:21:26.43536+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49304447"
-    },
-    "Type": 1,
-    "Title": "Going Dark, and the era of law enforcement hacking",
-    "Url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-    "Description": "Going Dark, and the era of law enforcement hacking",
-    "Metadata": {
-      "score": "366",
-      "author": "vslira",
-      "commentCount": "170"
-    },
-    "FetchedAt": "2026-08-15T12:21:26.4907265+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49271382"
-    },
-    "Type": 1,
-    "Title": "In 1962, Egypt\u0027s Missile Program Lost Its Key Scientist Without a Trace",
-    "Url": "https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/",
-    "Description": "In 1962, Egypt\u0027s Missile Program Lost Its Key Scientist Without a Trace",
-    "Metadata": {
-      "score": "57",
-      "author": "bookofjoe",
-      "commentCount": "35"
-    },
-    "FetchedAt": "2026-08-15T12:21:26.5454991+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49246366"
-    },
-    "Type": 1,
-    "Title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
-    "Url": "https://baselashraf81.github.io/eigendrum/",
-    "Description": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
-    "Metadata": {
-      "score": "33",
-      "author": "BaselAshraf81",
-      "commentCount": "7"
-    },
-    "FetchedAt": "2026-08-15T12:21:26.6013913+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49271442"
     },
     "Type": 1,
@@ -523,66 +403,6 @@
       "commentCount": "14"
     },
     "FetchedAt": "2026-08-15T12:21:26.7124421+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49300314"
-    },
-    "Type": 1,
-    "Title": "Google is making private AI practical with homomorphic encryption",
-    "Url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "Description": "Google is making private AI practical with homomorphic encryption",
-    "Metadata": {
-      "score": "420",
-      "author": "u1hcw9nx",
-      "commentCount": "255"
-    },
-    "FetchedAt": "2026-08-15T12:21:26.7715873+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49303202"
-    },
-    "Type": 1,
-    "Title": "Firefox is now the last major browser that still supports uBlock Origin",
-    "Url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-    "Description": "Firefox is now the last major browser that still supports uBlock Origin",
-    "Metadata": {
-      "score": "1196",
-      "author": "DemiGuru",
-      "commentCount": "460"
-    },
-    "FetchedAt": "2026-08-15T12:21:26.8288174+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49300759"
-    },
-    "Type": 1,
-    "Title": "RustDesk now supports true unattended remote access on Wayland",
-    "Url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-    "Description": "RustDesk now supports true unattended remote access on Wayland",
-    "Metadata": {
-      "score": "311",
-      "author": "rustdesk",
-      "commentCount": "129"
-    },
-    "FetchedAt": "2026-08-15T12:21:26.8840793+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49260582"
-    },
-    "Type": 1,
-    "Title": "The Color of White Light",
-    "Url": "https://ludens.cl/photo/spectra/spectra.html",
-    "Description": "The Color of White Light",
-    "Metadata": {
-      "score": "5",
-      "author": "xk3",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-08-15T12:21:26.9399663+00:00"
   },
   {
     "ExternalId": {
@@ -823,5 +643,455 @@
       "commentCount": "38"
     },
     "FetchedAt": "2026-08-15T12:21:27.8602366+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49311651"
+    },
+    "Type": 1,
+    "Title": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
+    "Url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+    "Description": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
+    "Metadata": {
+      "score": "123",
+      "author": "randycupertino",
+      "commentCount": "67"
+    },
+    "FetchedAt": "2026-08-15T18:17:27.4359808+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49310682"
+    },
+    "Type": 1,
+    "Title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
+    "Url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+    "Description": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
+    "Metadata": {
+      "score": "118",
+      "author": "gmays",
+      "commentCount": "44"
+    },
+    "FetchedAt": "2026-08-15T18:17:27.4686363+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49298035"
+    },
+    "Type": 1,
+    "Title": "RISC-V: They Should Have Known Better",
+    "Url": "https://dmitry.gr/?r=06.%20Thoughts\u0026proj=12.%20RV",
+    "Description": "RISC-V: They Should Have Known Better",
+    "Metadata": {
+      "score": "84",
+      "author": "dmitrygr",
+      "commentCount": "224"
+    },
+    "FetchedAt": "2026-08-15T18:17:27.5019918+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49309549"
+    },
+    "Type": 1,
+    "Title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+    "Url": "https://sankalp.bearblog.dev/autoresearch/",
+    "Description": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+    "Metadata": {
+      "score": "285",
+      "author": "tosh",
+      "commentCount": "75"
+    },
+    "FetchedAt": "2026-08-15T18:17:27.5350251+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49312845"
+    },
+    "Type": 1,
+    "Title": "AI Isn\u0027t Outthinking Mathematicians. It\u0027s Out-Remembering Them",
+    "Url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "Description": "AI Isn\u0027t Outthinking Mathematicians. It\u0027s Out-Remembering Them",
+    "Metadata": {
+      "score": "5",
+      "author": "rzk",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-15T18:17:27.5681144+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49312008"
+    },
+    "Type": 1,
+    "Title": "A controversial Alzheimer\u0027s surgery is said to reverse symptoms",
+    "Url": "https://www.nature.com/articles/d41586-026-02448-x",
+    "Description": "A controversial Alzheimer\u0027s surgery is said to reverse symptoms",
+    "Metadata": {
+      "score": "72",
+      "author": "jeffreyrogers",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-08-15T18:17:27.6008494+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49310926"
+    },
+    "Type": 1,
+    "Title": "A Spectre Is Haunting Unicode",
+    "Url": "https://www.dampfkraft.com/ghost-characters.html",
+    "Description": "A Spectre Is Haunting Unicode",
+    "Metadata": {
+      "score": "47",
+      "author": "sensanaty",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-08-15T18:17:27.6345839+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49309451"
+    },
+    "Type": 1,
+    "Title": "Working with AI Feels More Like Leadership Than Coding",
+    "Url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+    "Description": "Working with AI Feels More Like Leadership Than Coding",
+    "Metadata": {
+      "score": "165",
+      "author": "allenb",
+      "commentCount": "118"
+    },
+    "FetchedAt": "2026-08-15T18:17:27.667466+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49310362"
+    },
+    "Type": 1,
+    "Title": "Could a computer scientist build a brain?",
+    "Url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
+    "Description": "Could a computer scientist build a brain?",
+    "Metadata": {
+      "score": "38",
+      "author": "ogundipeore",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-08-15T18:17:27.6997373+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49306333"
+    },
+    "Type": 1,
+    "Title": "2D Gaussian Splatting for B\u00E9zier Spline Line Art Vectorization",
+    "Url": "https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/",
+    "Description": "2D Gaussian Splatting for B\u00E9zier Spline Line Art Vectorization",
+    "Metadata": {
+      "score": "25",
+      "author": "Jimmc414",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-08-15T18:17:27.7328033+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49237183"
+    },
+    "Type": 1,
+    "Title": "The mathematical beauty of hyperbezier curves",
+    "Url": "https://linebender.org/blog/hyperbezier/",
+    "Description": "The mathematical beauty of hyperbezier curves",
+    "Metadata": {
+      "score": "135",
+      "author": "raphlinus",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-08-15T18:17:27.7657375+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49307592"
+    },
+    "Type": 1,
+    "Title": "The other Sean Byrne doesn\u0027t exist",
+    "Url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+    "Description": "The other Sean Byrne doesn\u0027t exist",
+    "Metadata": {
+      "score": "330",
+      "author": "rdl",
+      "commentCount": "159"
+    },
+    "FetchedAt": "2026-08-15T18:17:27.799674+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49312413"
+    },
+    "Type": 1,
+    "Title": "Europe\u0027s scorched landscapes seen from space after summer heatwaves",
+    "Url": "https://www.bbc.com/news/articles/c4gxy0wqqd9o",
+    "Description": "Europe\u0027s scorched landscapes seen from space after summer heatwaves",
+    "Metadata": {
+      "score": "30",
+      "author": "blondie9x",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-08-15T18:17:27.8323146+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49246366"
+    },
+    "Type": 1,
+    "Title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
+    "Url": "https://baselashraf81.github.io/eigendrum/",
+    "Description": "Hi HN, I built Eigendrum, a web tool that solves the 2D wave equation for arbitrary shapes so you can hear what they sound like as drums.\u003Cp\u003EHow it works:\n* Solves -\u2207\u00B2u = \u03BBu using finite element analysis (K\u03C6 = \u03BBM\u03C6) on a triangle mesh.\n* Validated to \u0026lt;0.1% error against closed-form solutions for circles (Bessel zeros) and rectangles.\n* Sound model factors in strike location, Rayleigh damping, and mallet width.\n* Includes Kac drums I \u0026amp; II to demonstrate identical sound spectra from different",
+    "Metadata": {
+      "score": "130",
+      "author": "BaselAshraf81",
+      "commentCount": "80"
+    },
+    "FetchedAt": "2026-08-15T18:17:27.8650002+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49312165"
+    },
+    "Type": 1,
+    "Title": "The Dutch Community Where People Live on Strips of Land in a Lake",
+    "Url": "https://www.core77.com/posts/144869",
+    "Description": "The Dutch Community Where People Live on Strips of Land in a Lake",
+    "Metadata": {
+      "score": "29",
+      "author": "Bowes-Lyon",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-08-15T18:17:27.8981313+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49312465"
+    },
+    "Type": 1,
+    "Title": "TreasuryDirect: Prepare for ID.me \u2013 Your New Way to Log In",
+    "Url": "https://www.treasurydirect.gov/savings-bonds/idme-one-month/",
+    "Description": "TreasuryDirect: Prepare for ID.me \u2013 Your New Way to Log In",
+    "Metadata": {
+      "score": "15",
+      "author": "Mindless2112",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-08-15T18:17:27.9305987+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49310495"
+    },
+    "Type": 1,
+    "Title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+    "Url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+    "Description": "Yadda 3.0.0: BDD in the Age of AI Agents",
+    "Metadata": {
+      "score": "38",
+      "author": "scresswell",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-08-15T18:17:27.9656179+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49304447"
+    },
+    "Type": 1,
+    "Title": "Going Dark, and the era of law enforcement hacking",
+    "Url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+    "Description": "Going Dark, and the era of law enforcement hacking",
+    "Metadata": {
+      "score": "423",
+      "author": "vslira",
+      "commentCount": "224"
+    },
+    "FetchedAt": "2026-08-15T18:17:27.9993663+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49308685"
+    },
+    "Type": 1,
+    "Title": "Using GCC\u0027s Nested Functions with Wide Pointers and No Trampolines II",
+    "Url": "https://uecker.codeberg.page/2026-07-14.html",
+    "Description": "Using GCC\u0027s Nested Functions with Wide Pointers and No Trampolines II",
+    "Metadata": {
+      "score": "68",
+      "author": "uecker",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-08-15T18:17:28.0317965+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49260582"
+    },
+    "Type": 1,
+    "Title": "The Color of White Light",
+    "Url": "https://ludens.cl/photo/spectra/spectra.html",
+    "Description": "The Color of White Light",
+    "Metadata": {
+      "score": "59",
+      "author": "xk3",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-08-15T18:17:28.0658483+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49310128"
+    },
+    "Type": 1,
+    "Title": "Xorshift Generators",
+    "Url": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
+    "Description": "Xorshift Generators",
+    "Metadata": {
+      "score": "22",
+      "author": "tobr",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-08-15T18:17:28.0987522+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49271382"
+    },
+    "Type": 1,
+    "Title": "In 1962, Egypt\u0027s Missile Program Lost Its Key Scientist Without a Trace",
+    "Url": "https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/",
+    "Description": "In 1962, Egypt\u0027s Missile Program Lost Its Key Scientist Without a Trace",
+    "Metadata": {
+      "score": "101",
+      "author": "bookofjoe",
+      "commentCount": "63"
+    },
+    "FetchedAt": "2026-08-15T18:17:28.1314989+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49242085"
+    },
+    "Type": 1,
+    "Title": "M\u00F6bius Strips and Differential Equations",
+    "Url": "https://hidden-phenomena.com/articles/monodromy",
+    "Description": "M\u00F6bius Strips and Differential Equations",
+    "Metadata": {
+      "score": "39",
+      "author": "mbustamanter",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-08-15T18:17:28.1652796+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49266411"
+    },
+    "Type": 1,
+    "Title": "The Programming Ape (Code Hale, 2012) [video]",
+    "Url": "https://www.youtube.com/watch?v=e_6gkfTomUQ",
+    "Description": "The Programming Ape (Code Hale, 2012) [video]",
+    "Metadata": {
+      "score": "5",
+      "author": "dhorthy",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-15T18:17:28.1983552+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49299605"
+    },
+    "Type": 1,
+    "Title": "Qwen 3.8 27B",
+    "Url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "Description": "Qwen 3.8 27B",
+    "Metadata": {
+      "score": "1295",
+      "author": "erdaltoprak",
+      "commentCount": "751"
+    },
+    "FetchedAt": "2026-08-15T18:17:28.2317437+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49300314"
+    },
+    "Type": 1,
+    "Title": "Google is making private AI practical with homomorphic encryption",
+    "Url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "Description": "Google is making private AI practical with homomorphic encryption",
+    "Metadata": {
+      "score": "466",
+      "author": "u1hcw9nx",
+      "commentCount": "273"
+    },
+    "FetchedAt": "2026-08-15T18:17:28.2946223+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49303202"
+    },
+    "Type": 1,
+    "Title": "Firefox is now the last major browser that still supports uBlock Origin",
+    "Url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+    "Description": "Firefox is now the last major browser that still supports uBlock Origin",
+    "Metadata": {
+      "score": "1544",
+      "author": "DemiGuru",
+      "commentCount": "581"
+    },
+    "FetchedAt": "2026-08-15T18:17:28.3277297+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49310829"
+    },
+    "Type": 1,
+    "Title": "Printytron \u2013 Type it. 3D Print it",
+    "Url": "https://printytron.com",
+    "Description": "Printytron \u2013 Type it. 3D Print it",
+    "Metadata": {
+      "score": "6",
+      "author": "statenjason",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-15T18:17:28.3610893+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49276353"
+    },
+    "Type": 1,
+    "Title": "A Planet Position Widget",
+    "Url": "https://leancrew.com/all-this/2026/08/a-planet-position-widget/",
+    "Description": "A Planet Position Widget",
+    "Metadata": {
+      "score": "11",
+      "author": "speckx",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-15T18:17:28.3940829+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49300759"
+    },
+    "Type": 1,
+    "Title": "RustDesk now supports true unattended remote access on Wayland",
+    "Url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+    "Description": "RustDesk now supports true unattended remote access on Wayland",
+    "Metadata": {
+      "score": "329",
+      "author": "rustdesk",
+      "commentCount": "142"
+    },
+    "FetchedAt": "2026-08-15T18:17:28.4263632+00:00"
   }
 ]
