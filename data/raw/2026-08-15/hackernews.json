@@ -226,81 +226,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49299605"
-    },
-    "Type": 1,
-    "Title": "Qwen 3.8 27B",
-    "Url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-    "Description": "Qwen 3.8 27B",
-    "Metadata": {
-      "score": "1033",
-      "author": "erdaltoprak",
-      "commentCount": "658"
-    },
-    "FetchedAt": "2026-08-15T06:24:00.5111262+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49307592"
-    },
-    "Type": 1,
-    "Title": "The other Sean Byrne doesn\u0027t exist",
-    "Url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-    "Description": "The other Sean Byrne doesn\u0027t exist",
-    "Metadata": {
-      "score": "37",
-      "author": "rdl",
-      "commentCount": "9"
-    },
-    "FetchedAt": "2026-08-15T06:24:00.5675336+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49282951"
-    },
-    "Type": 1,
-    "Title": "Coin-sized device can hack a Boeing 737",
-    "Url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
-    "Description": "Coin-sized device can hack a Boeing 737",
-    "Metadata": {
-      "score": "27",
-      "author": "_tk_",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-08-15T06:24:00.6276517+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49304447"
-    },
-    "Type": 1,
-    "Title": "Going Dark, and the era of law enforcement hacking",
-    "Url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-    "Description": "Going Dark, and the era of law enforcement hacking",
-    "Metadata": {
-      "score": "289",
-      "author": "vslira",
-      "commentCount": "138"
-    },
-    "FetchedAt": "2026-08-15T06:24:00.68443+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49306577"
-    },
-    "Type": 1,
-    "Title": "Magnitude 7.7 Earthquake \u2013 68 km NNW of Ende, Indonesia",
-    "Url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-    "Description": "Magnitude 7.7 Earthquake \u2013 68 km NNW of Ende, Indonesia",
-    "Metadata": {
-      "score": "167",
-      "author": "Bender",
-      "commentCount": "35"
-    },
-    "FetchedAt": "2026-08-15T06:24:00.7415323+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49308073"
     },
     "Type": 1,
@@ -331,111 +256,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49300314"
-    },
-    "Type": 1,
-    "Title": "Google is making private AI practical with homomorphic encryption",
-    "Url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "Description": "Google is making private AI practical with homomorphic encryption",
-    "Metadata": {
-      "score": "344",
-      "author": "u1hcw9nx",
-      "commentCount": "204"
-    },
-    "FetchedAt": "2026-08-15T06:24:00.9132519+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49305250"
-    },
-    "Type": 1,
-    "Title": "eigendrum",
-    "Url": "https://eigendrum.com/#p=circle",
-    "Description": "eigendrum",
-    "Metadata": {
-      "score": "101",
-      "author": "bookofjoe",
-      "commentCount": "23"
-    },
-    "FetchedAt": "2026-08-15T06:24:00.9705657+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49300759"
-    },
-    "Type": 1,
-    "Title": "RustDesk now supports true unattended remote access on Wayland",
-    "Url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-    "Description": "RustDesk now supports true unattended remote access on Wayland",
-    "Metadata": {
-      "score": "258",
-      "author": "rustdesk",
-      "commentCount": "112"
-    },
-    "FetchedAt": "2026-08-15T06:24:01.0274575+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49306196"
-    },
-    "Type": 1,
-    "Title": "Simplifying and Refactoring Introductory Calculus (2018)",
-    "Url": "https://arxiv.org/abs/1811.03459",
-    "Description": "Simplifying and Refactoring Introductory Calculus (2018)",
-    "Metadata": {
-      "score": "68",
-      "author": "E-Reverance",
-      "commentCount": "25"
-    },
-    "FetchedAt": "2026-08-15T06:24:01.0850608+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49303202"
-    },
-    "Type": 1,
-    "Title": "Firefox is now the last major browser that still supports uBlock Origin",
-    "Url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-    "Description": "Firefox is now the last major browser that still supports uBlock Origin",
-    "Metadata": {
-      "score": "733",
-      "author": "DemiGuru",
-      "commentCount": "281"
-    },
-    "FetchedAt": "2026-08-15T06:24:01.1460741+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49300568"
-    },
-    "Type": 1,
-    "Title": "AI by Hand",
-    "Url": "https://www.byhand.ai/",
-    "Description": "AI by Hand",
-    "Metadata": {
-      "score": "264",
-      "author": "sans_souse",
-      "commentCount": "20"
-    },
-    "FetchedAt": "2026-08-15T06:24:01.2034738+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49272784"
-    },
-    "Type": 1,
-    "Title": "Unearthing a 31 year old Easter egg in Ecco the Dolphin",
-    "Url": "https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin-98c",
-    "Description": "Unearthing a 31 year old Easter egg in Ecco the Dolphin",
-    "Metadata": {
-      "score": "64",
-      "author": "bbayles",
-      "commentCount": "15"
-    },
-    "FetchedAt": "2026-08-15T06:24:01.2633697+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49308059"
     },
     "Type": 1,
@@ -451,21 +271,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49263186"
-    },
-    "Type": 1,
-    "Title": "This Hi-Fi Tape Recorder Changed Radio Forever",
-    "Url": "https://spectrum.ieee.org/magnetophon-laugh-track",
-    "Description": "This Hi-Fi Tape Recorder Changed Radio Forever",
-    "Metadata": {
-      "score": "34",
-      "author": "Jimmc414",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-08-15T06:24:01.3782812+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49273346"
     },
     "Type": 1,
@@ -478,81 +283,6 @@
       "commentCount": "8"
     },
     "FetchedAt": "2026-08-15T06:24:01.4392948+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49215682"
-    },
-    "Type": 1,
-    "Title": "Super Mario Derivations",
-    "Url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
-    "Description": "Super Mario Derivations",
-    "Metadata": {
-      "score": "85",
-      "author": "domenkozar",
-      "commentCount": "15"
-    },
-    "FetchedAt": "2026-08-15T06:24:01.4964337+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49300800"
-    },
-    "Type": 1,
-    "Title": "Maximizing the value of your Claude Code sessions",
-    "Url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-    "Description": "Maximizing the value of your Claude Code sessions",
-    "Metadata": {
-      "score": "173",
-      "author": "twapi",
-      "commentCount": "110"
-    },
-    "FetchedAt": "2026-08-15T06:24:01.5534445+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49299081"
-    },
-    "Type": 1,
-    "Title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
-    "Url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
-    "Description": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
-    "Metadata": {
-      "score": "170",
-      "author": "speckx",
-      "commentCount": "66"
-    },
-    "FetchedAt": "2026-08-15T06:24:01.611789+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49307700"
-    },
-    "Type": 1,
-    "Title": "Show HN: ThoughtDAG \u2013 An editable context graph for LLM conversations",
-    "Url": "https://chenxiachan.github.io/thoughtdag/",
-    "Description": "Show HN: ThoughtDAG \u2013 An editable context graph for LLM conversations",
-    "Metadata": {
-      "score": "4",
-      "author": "chatchan",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-08-15T06:24:01.6690619+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49299746"
-    },
-    "Type": 1,
-    "Title": "Introducing Toast 1",
-    "Url": "https://www.mixedbread.com/blog/toast-1",
-    "Description": "Introducing Toast 1",
-    "Metadata": {
-      "score": "192",
-      "author": "mplappert",
-      "commentCount": "59"
-    },
-    "FetchedAt": "2026-08-15T06:24:01.7267343+00:00"
   },
   {
     "ExternalId": {
@@ -616,21 +346,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49294997"
-    },
-    "Type": 1,
-    "Title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-    "Url": "https://z.ai/blog/glm-5.3",
-    "Description": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-    "Metadata": {
-      "score": "1069",
-      "author": "pella",
-      "commentCount": "525"
-    },
-    "FetchedAt": "2026-08-15T06:24:02.0381596+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49269809"
     },
     "Type": 1,
@@ -646,21 +361,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49302562"
-    },
-    "Type": 1,
-    "Title": "Racket v9.3",
-    "Url": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
-    "Description": "Racket v9.3",
-    "Metadata": {
-      "score": "64",
-      "author": "privong",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-08-15T06:24:02.1531104+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49296740"
     },
     "Type": 1,
@@ -673,5 +373,455 @@
       "commentCount": "758"
     },
     "FetchedAt": "2026-08-15T06:24:02.209431+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49309549"
+    },
+    "Type": 1,
+    "Title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+    "Url": "https://sankalp.bearblog.dev/autoresearch/",
+    "Description": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+    "Metadata": {
+      "score": "29",
+      "author": "tosh",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-08-15T12:21:26.2027345+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49307592"
+    },
+    "Type": 1,
+    "Title": "The other Sean Byrne doesn\u0027t exist",
+    "Url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+    "Description": "The other Sean Byrne doesn\u0027t exist",
+    "Metadata": {
+      "score": "236",
+      "author": "rdl",
+      "commentCount": "115"
+    },
+    "FetchedAt": "2026-08-15T12:21:26.2594995+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49299605"
+    },
+    "Type": 1,
+    "Title": "Qwen 3.8 27B",
+    "Url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "Description": "Qwen 3.8 27B",
+    "Metadata": {
+      "score": "1197",
+      "author": "erdaltoprak",
+      "commentCount": "716"
+    },
+    "FetchedAt": "2026-08-15T12:21:26.3238713+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49237183"
+    },
+    "Type": 1,
+    "Title": "The mathematical beauty of hyperbezier curves",
+    "Url": "https://linebender.org/blog/hyperbezier/",
+    "Description": "The mathematical beauty of hyperbezier curves",
+    "Metadata": {
+      "score": "33",
+      "author": "raphlinus",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-15T12:21:26.378674+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49308685"
+    },
+    "Type": 1,
+    "Title": "Using GCC\u0027s Nested Functions with Wide Pointers and No Trampolines II",
+    "Url": "https://uecker.codeberg.page/2026-07-14.html",
+    "Description": "Using GCC\u0027s Nested Functions with Wide Pointers and No Trampolines II",
+    "Metadata": {
+      "score": "33",
+      "author": "uecker",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-08-15T12:21:26.43536+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49304447"
+    },
+    "Type": 1,
+    "Title": "Going Dark, and the era of law enforcement hacking",
+    "Url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+    "Description": "Going Dark, and the era of law enforcement hacking",
+    "Metadata": {
+      "score": "366",
+      "author": "vslira",
+      "commentCount": "170"
+    },
+    "FetchedAt": "2026-08-15T12:21:26.4907265+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49271382"
+    },
+    "Type": 1,
+    "Title": "In 1962, Egypt\u0027s Missile Program Lost Its Key Scientist Without a Trace",
+    "Url": "https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/",
+    "Description": "In 1962, Egypt\u0027s Missile Program Lost Its Key Scientist Without a Trace",
+    "Metadata": {
+      "score": "57",
+      "author": "bookofjoe",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-08-15T12:21:26.5454991+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49246366"
+    },
+    "Type": 1,
+    "Title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
+    "Url": "https://baselashraf81.github.io/eigendrum/",
+    "Description": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
+    "Metadata": {
+      "score": "33",
+      "author": "BaselAshraf81",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-08-15T12:21:26.6013913+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49271442"
+    },
+    "Type": 1,
+    "Title": "Understanding WCAG 2.2 as ePub and PDF",
+    "Url": "https://doeken.org/wcag-ebook",
+    "Description": "Understanding WCAG 2.2 as ePub and PDF",
+    "Metadata": {
+      "score": "29",
+      "author": "doekenorg",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-08-15T12:21:26.6568389+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49307700"
+    },
+    "Type": 1,
+    "Title": "Show HN: ThoughtDAG \u2013 An editable context graph for LLM conversations",
+    "Url": "https://chenxiachan.github.io/thoughtdag/",
+    "Description": "Show HN: ThoughtDAG \u2013 An editable context graph for LLM conversations",
+    "Metadata": {
+      "score": "50",
+      "author": "chatchan",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-08-15T12:21:26.7124421+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49300314"
+    },
+    "Type": 1,
+    "Title": "Google is making private AI practical with homomorphic encryption",
+    "Url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "Description": "Google is making private AI practical with homomorphic encryption",
+    "Metadata": {
+      "score": "420",
+      "author": "u1hcw9nx",
+      "commentCount": "255"
+    },
+    "FetchedAt": "2026-08-15T12:21:26.7715873+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49303202"
+    },
+    "Type": 1,
+    "Title": "Firefox is now the last major browser that still supports uBlock Origin",
+    "Url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+    "Description": "Firefox is now the last major browser that still supports uBlock Origin",
+    "Metadata": {
+      "score": "1196",
+      "author": "DemiGuru",
+      "commentCount": "460"
+    },
+    "FetchedAt": "2026-08-15T12:21:26.8288174+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49300759"
+    },
+    "Type": 1,
+    "Title": "RustDesk now supports true unattended remote access on Wayland",
+    "Url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+    "Description": "RustDesk now supports true unattended remote access on Wayland",
+    "Metadata": {
+      "score": "311",
+      "author": "rustdesk",
+      "commentCount": "129"
+    },
+    "FetchedAt": "2026-08-15T12:21:26.8840793+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49260582"
+    },
+    "Type": 1,
+    "Title": "The Color of White Light",
+    "Url": "https://ludens.cl/photo/spectra/spectra.html",
+    "Description": "The Color of White Light",
+    "Metadata": {
+      "score": "5",
+      "author": "xk3",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-15T12:21:26.9399663+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49306577"
+    },
+    "Type": 1,
+    "Title": "Magnitude 7.7 Earthquake \u2013 68 km NNW of Ende, Indonesia",
+    "Url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+    "Description": "Magnitude 7.7 Earthquake \u2013 68 km NNW of Ende, Indonesia",
+    "Metadata": {
+      "score": "206",
+      "author": "Bender",
+      "commentCount": "51"
+    },
+    "FetchedAt": "2026-08-15T12:21:26.9964431+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49277535"
+    },
+    "Type": 1,
+    "Title": "Show HN: Silent Shark \u2013 tactical map-based WWII submarine sim",
+    "Url": "https://silentshark.app/",
+    "Description": "I posted an early beta of this game a few months ago: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48180924\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48180924\u003C/a\u003E - May 2026 (45 comments) and today released the full version.\u003Cp\u003EYou all gave extremely valuable and helpful feedback back then - thank you so much for that. It led to a lot of improvements:\u003Cp\u003E* I reworked the onboarding tutorials multiple times for clarity, adding protections to stop players from shooting the",
+    "Metadata": {
+      "score": "44",
+      "author": "epaga",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-08-15T12:21:27.0523367+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49282951"
+    },
+    "Type": 1,
+    "Title": "Coin-sized device can hack a Boeing 737",
+    "Url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
+    "Description": "Coin-sized device can hack a Boeing 737",
+    "Metadata": {
+      "score": "97",
+      "author": "_tk_",
+      "commentCount": "69"
+    },
+    "FetchedAt": "2026-08-15T12:21:27.1073824+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49300568"
+    },
+    "Type": 1,
+    "Title": "AI by Hand",
+    "Url": "https://www.byhand.ai/",
+    "Description": "AI by Hand",
+    "Metadata": {
+      "score": "326",
+      "author": "sans_souse",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-08-15T12:21:27.1892352+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49305250"
+    },
+    "Type": 1,
+    "Title": "eigendrum",
+    "Url": "https://eigendrum.com/#p=circle",
+    "Description": "eigendrum",
+    "Metadata": {
+      "score": "180",
+      "author": "bookofjoe",
+      "commentCount": "51"
+    },
+    "FetchedAt": "2026-08-15T12:21:27.2450842+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49300800"
+    },
+    "Type": 1,
+    "Title": "Maximizing the value of your Claude Code sessions",
+    "Url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+    "Description": "Maximizing the value of your Claude Code sessions",
+    "Metadata": {
+      "score": "253",
+      "author": "twapi",
+      "commentCount": "135"
+    },
+    "FetchedAt": "2026-08-15T12:21:27.3015358+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49306196"
+    },
+    "Type": 1,
+    "Title": "Simplifying and Refactoring Introductory Calculus (2018)",
+    "Url": "https://arxiv.org/abs/1811.03459",
+    "Description": "Simplifying and Refactoring Introductory Calculus (2018)",
+    "Metadata": {
+      "score": "102",
+      "author": "E-Reverance",
+      "commentCount": "53"
+    },
+    "FetchedAt": "2026-08-15T12:21:27.3573526+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49309050"
+    },
+    "Type": 1,
+    "Title": "Debian has begun voting on the future of AI/LLM contributions",
+    "Url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+    "Description": "Debian has begun voting on the future of AI/LLM contributions",
+    "Metadata": {
+      "score": "36",
+      "author": "matheusmoreira",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-08-15T12:21:27.4146199+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49272784"
+    },
+    "Type": 1,
+    "Title": "Unearthing a 31 year old Easter egg in Ecco the Dolphin",
+    "Url": "https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin-98c",
+    "Description": "Unearthing a 31 year old Easter egg in Ecco the Dolphin",
+    "Metadata": {
+      "score": "103",
+      "author": "bbayles",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-08-15T12:21:27.4713459+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49263186"
+    },
+    "Type": 1,
+    "Title": "This Hi-Fi Tape Recorder Changed Radio Forever",
+    "Url": "https://spectrum.ieee.org/magnetophon-laugh-track",
+    "Description": "This Hi-Fi Tape Recorder Changed Radio Forever",
+    "Metadata": {
+      "score": "52",
+      "author": "Jimmc414",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-08-15T12:21:27.5272542+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49299081"
+    },
+    "Type": 1,
+    "Title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+    "Url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+    "Description": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+    "Metadata": {
+      "score": "200",
+      "author": "speckx",
+      "commentCount": "82"
+    },
+    "FetchedAt": "2026-08-15T12:21:27.5827477+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49215682"
+    },
+    "Type": 1,
+    "Title": "Super Mario Derivations",
+    "Url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
+    "Description": "Super Mario Derivations",
+    "Metadata": {
+      "score": "114",
+      "author": "domenkozar",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-08-15T12:21:27.6387287+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49299746"
+    },
+    "Type": 1,
+    "Title": "Introducing Toast 1",
+    "Url": "https://www.mixedbread.com/blog/toast-1",
+    "Description": "Introducing Toast 1",
+    "Metadata": {
+      "score": "209",
+      "author": "mplappert",
+      "commentCount": "64"
+    },
+    "FetchedAt": "2026-08-15T12:21:27.6936571+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49302562"
+    },
+    "Type": 1,
+    "Title": "Racket v9.3",
+    "Url": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
+    "Description": "Racket v9.3",
+    "Metadata": {
+      "score": "106",
+      "author": "privong",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-08-15T12:21:27.7492205+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49294997"
+    },
+    "Type": 1,
+    "Title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+    "Url": "https://z.ai/blog/glm-5.3",
+    "Description": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+    "Metadata": {
+      "score": "1104",
+      "author": "pella",
+      "commentCount": "543"
+    },
+    "FetchedAt": "2026-08-15T12:21:27.805395+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49308553"
+    },
+    "Type": 1,
+    "Title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+    "Url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+    "Description": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+    "Metadata": {
+      "score": "47",
+      "author": "jnord",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-08-15T12:21:27.8602366+00:00"
   }
 ]

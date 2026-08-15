@@ -1,54 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:cathrynlavery/diagram-design"
-    },
-    "Type": 0,
-    "Title": "cathrynlavery/diagram-design",
-    "Url": "https://github.com/cathrynlavery/diagram-design",
-    "Description": "29 editorial diagram types for Claude Code. Self-contained HTML \u002B SVG. No shadows, no Mermaid-slop.",
-    "Metadata": {
-      "owner": "cathrynlavery",
-      "repo": "diagram-design",
-      "language": "HTML",
-      "stars": "3,646"
-    },
-    "FetchedAt": "2026-08-15T06:23:59.8945935+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:cactus-compute/needle"
-    },
-    "Type": 0,
-    "Title": "cactus-compute/needle",
-    "Url": "https://github.com/cactus-compute/needle",
-    "Description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-    "Metadata": {
-      "owner": "cactus-compute",
-      "repo": "needle",
-      "language": "Python",
-      "stars": "662"
-    },
-    "FetchedAt": "2026-08-15T06:23:59.9752091+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:megadose/holehe"
-    },
-    "Type": 0,
-    "Title": "megadose/holehe",
-    "Url": "https://github.com/megadose/holehe",
-    "Description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-    "Metadata": {
-      "owner": "megadose",
-      "repo": "holehe",
-      "language": "Python",
-      "stars": "427"
-    },
-    "FetchedAt": "2026-08-15T06:23:59.9978312+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:macro-inc/macro"
     },
     "Type": 0,
@@ -81,22 +33,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:citrolabs/ego-lite"
-    },
-    "Type": 0,
-    "Title": "citrolabs/ego-lite",
-    "Url": "https://github.com/citrolabs/ego-lite",
-    "Description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-    "Metadata": {
-      "owner": "citrolabs",
-      "repo": "ego-lite",
-      "language": "JavaScript",
-      "stars": "165"
-    },
-    "FetchedAt": "2026-08-15T06:24:00.060545+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:holaboss-ai/holaOS"
     },
     "Type": 0,
@@ -110,22 +46,6 @@
       "stars": "769"
     },
     "FetchedAt": "2026-08-15T06:24:00.0806936+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:github/spec-kit"
-    },
-    "Type": 0,
-    "Title": "github/spec-kit",
-    "Url": "https://github.com/github/spec-kit",
-    "Description": "\uD83D\uDCAB Toolkit to help you get started with Spec-Driven Development",
-    "Metadata": {
-      "owner": "github",
-      "repo": "spec-kit",
-      "language": "Python",
-      "stars": "1,160"
-    },
-    "FetchedAt": "2026-08-15T06:24:00.109571+00:00"
   },
   {
     "ExternalId": {
@@ -145,22 +65,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:cursor/plugins"
-    },
-    "Type": 0,
-    "Title": "cursor/plugins",
-    "Url": "https://github.com/cursor/plugins",
-    "Description": "Cursor plugin specification and official plugins",
-    "Metadata": {
-      "owner": "cursor",
-      "repo": "plugins",
-      "language": "TypeScript",
-      "stars": "41"
-    },
-    "FetchedAt": "2026-08-15T06:24:00.153435+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:deepseek-ai/awesome-deepseek-agent"
     },
     "Type": 0,
@@ -173,5 +77,172 @@
       "stars": "222"
     },
     "FetchedAt": "2026-08-15T06:24:00.174308+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cordiverse/cordis"
+    },
+    "Type": 0,
+    "Title": "cordiverse/cordis",
+    "Url": "https://github.com/cordiverse/cordis",
+    "Description": "Meta-Framework of Spatiotemporal Composability",
+    "Metadata": {
+      "owner": "cordiverse",
+      "repo": "cordis",
+      "language": "TypeScript",
+      "stars": "616",
+      "topics": "effect, framework, nodejs, plugin"
+    },
+    "FetchedAt": "2026-08-15T12:21:24.3158238+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cathrynlavery/diagram-design"
+    },
+    "Type": 0,
+    "Title": "cathrynlavery/diagram-design",
+    "Url": "https://github.com/cathrynlavery/diagram-design",
+    "Description": "29 editorial diagram types for Claude Code. Self-contained HTML \u002B SVG. No shadows, no Mermaid-slop.",
+    "Metadata": {
+      "owner": "cathrynlavery",
+      "repo": "diagram-design",
+      "language": "HTML",
+      "stars": "3,646"
+    },
+    "FetchedAt": "2026-08-15T12:21:24.5233308+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cursor/plugins"
+    },
+    "Type": 0,
+    "Title": "cursor/plugins",
+    "Url": "https://github.com/cursor/plugins",
+    "Description": "Cursor plugin specification and official plugins",
+    "Metadata": {
+      "owner": "cursor",
+      "repo": "plugins",
+      "language": "TypeScript",
+      "stars": "41"
+    },
+    "FetchedAt": "2026-08-15T12:21:24.6552003+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cactus-compute/needle"
+    },
+    "Type": 0,
+    "Title": "cactus-compute/needle",
+    "Url": "https://github.com/cactus-compute/needle",
+    "Description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "Metadata": {
+      "owner": "cactus-compute",
+      "repo": "needle",
+      "language": "Python",
+      "stars": "662",
+      "topics": "cactus, gemini, gemma, llm, on-device-ai"
+    },
+    "FetchedAt": "2026-08-15T12:21:24.8196897+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:public-apis/public-apis"
+    },
+    "Type": 0,
+    "Title": "public-apis/public-apis",
+    "Url": "https://github.com/public-apis/public-apis",
+    "Description": "A collective list of free APIs",
+    "Metadata": {
+      "owner": "public-apis",
+      "repo": "public-apis",
+      "language": "Python",
+      "stars": "2,476",
+      "topics": "api, apis, dataset, development, free, list, lists, open-source, public, public-api, public-apis, resources, software"
+    },
+    "FetchedAt": "2026-08-15T12:21:24.9706467+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:MakazhanAlpamys/Soup"
+    },
+    "Type": 0,
+    "Title": "MakazhanAlpamys/Soup",
+    "Url": "https://github.com/MakazhanAlpamys/Soup",
+    "Description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "Metadata": {
+      "owner": "MakazhanAlpamys",
+      "repo": "Soup",
+      "language": "Python",
+      "stars": "303",
+      "topics": "cli, consumer-gpu, dpo, fine-tuning, gguf, huggingface, llm, llmops, local-ai, local-llm, lora, low-vram, machine-learning, ollama, peft, python, pytorch, qlora, sft, transformers"
+    },
+    "FetchedAt": "2026-08-15T12:21:25.1223509+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:github/spec-kit"
+    },
+    "Type": 0,
+    "Title": "github/spec-kit",
+    "Url": "https://github.com/github/spec-kit",
+    "Description": "\uD83D\uDCAB Toolkit to help you get started with Spec-Driven Development",
+    "Metadata": {
+      "owner": "github",
+      "repo": "spec-kit",
+      "language": "Python",
+      "stars": "1,160",
+      "topics": "ai, copilot, development, engineering, prd, spec, spec-driven"
+    },
+    "FetchedAt": "2026-08-15T12:21:25.2969338+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:megadose/holehe"
+    },
+    "Type": 0,
+    "Title": "megadose/holehe",
+    "Url": "https://github.com/megadose/holehe",
+    "Description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "Metadata": {
+      "owner": "megadose",
+      "repo": "holehe",
+      "language": "Python",
+      "stars": "427",
+      "topics": "ebay, email, emails, information-gathering, instagram, open-source-intelligence, osint, osint-python, osint-tools, pypi, python, social-network, tellonym, trio, twitter"
+    },
+    "FetchedAt": "2026-08-15T12:21:25.4602865+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/CLI-Anything"
+    },
+    "Type": 0,
+    "Title": "HKUDS/CLI-Anything",
+    "Url": "https://github.com/HKUDS/CLI-Anything",
+    "Description": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "CLI-Anything",
+      "language": "Python",
+      "stars": "100"
+    },
+    "FetchedAt": "2026-08-15T12:21:25.5943149+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:citrolabs/ego-lite"
+    },
+    "Type": 0,
+    "Title": "citrolabs/ego-lite",
+    "Url": "https://github.com/citrolabs/ego-lite",
+    "Description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "Metadata": {
+      "owner": "citrolabs",
+      "repo": "ego-lite",
+      "language": "JavaScript",
+      "stars": "165",
+      "topics": "agent-skills, ai-agent, automation, browser, browser-automation, claude-code, codex, hermes-agent, skills, skills-sh"
+    },
+    "FetchedAt": "2026-08-15T12:21:25.7429781+00:00"
   }
 ]
