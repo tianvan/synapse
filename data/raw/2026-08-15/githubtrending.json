@@ -1,0 +1,185 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:cathrynlavery/diagram-design"
+    },
+    "Type": 0,
+    "Title": "cathrynlavery/diagram-design",
+    "Url": "https://github.com/cathrynlavery/diagram-design",
+    "Description": "29 editorial diagram types for Claude Code. Self-contained HTML \u002B SVG. No shadows, no Mermaid-slop.",
+    "Metadata": {
+      "owner": "cathrynlavery",
+      "repo": "diagram-design",
+      "language": "HTML",
+      "stars": "3,646"
+    },
+    "FetchedAt": "2026-08-15T00:47:04.1847227+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cactus-compute/needle"
+    },
+    "Type": 0,
+    "Title": "cactus-compute/needle",
+    "Url": "https://github.com/cactus-compute/needle",
+    "Description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "Metadata": {
+      "owner": "cactus-compute",
+      "repo": "needle",
+      "language": "Python",
+      "stars": "662",
+      "topics": "cactus, gemini, gemma, llm, on-device-ai"
+    },
+    "FetchedAt": "2026-08-15T00:47:04.4330778+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:megadose/holehe"
+    },
+    "Type": 0,
+    "Title": "megadose/holehe",
+    "Url": "https://github.com/megadose/holehe",
+    "Description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "Metadata": {
+      "owner": "megadose",
+      "repo": "holehe",
+      "language": "Python",
+      "stars": "427",
+      "topics": "ebay, email, emails, information-gathering, instagram, open-source-intelligence, osint, osint-python, osint-tools, pypi, python, social-network, tellonym, trio, twitter"
+    },
+    "FetchedAt": "2026-08-15T00:47:04.6519871+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:macro-inc/macro"
+    },
+    "Type": 0,
+    "Title": "macro-inc/macro",
+    "Url": "https://github.com/macro-inc/macro",
+    "Description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM \u2014 @-linked together with shared AI memory.",
+    "Metadata": {
+      "owner": "macro-inc",
+      "repo": "macro",
+      "language": "Rust",
+      "stars": "436",
+      "topics": "agent, ai, ai-agents, all-in-one, crm, crm-system, email, linear, mcp, messaging, notes, notion, office, rust, slack, slack-alternative, startup, startup-tools, typescript, workspace"
+    },
+    "FetchedAt": "2026-08-15T00:47:04.8571115+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:smicallef/spiderfoot"
+    },
+    "Type": 0,
+    "Title": "smicallef/spiderfoot",
+    "Url": "https://github.com/smicallef/spiderfoot",
+    "Description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+    "Metadata": {
+      "owner": "smicallef",
+      "repo": "spiderfoot",
+      "language": "Python",
+      "stars": "293",
+      "topics": "attacksurface, cti, cybersecurity, footprinting, hacking, information-gathering, information-security, infosec, intelligence-gathering, osint, osint-framework, osint-reconnaissance, osint-tool, pentesting, python, recon, security-tools, threat-intelligence, threatintel"
+    },
+    "FetchedAt": "2026-08-15T00:47:05.0625981+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:citrolabs/ego-lite"
+    },
+    "Type": 0,
+    "Title": "citrolabs/ego-lite",
+    "Url": "https://github.com/citrolabs/ego-lite",
+    "Description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "Metadata": {
+      "owner": "citrolabs",
+      "repo": "ego-lite",
+      "language": "JavaScript",
+      "stars": "165",
+      "topics": "agent-skills, ai-agent, automation, browser, browser-automation, claude-code, codex, hermes-agent, skills, skills-sh"
+    },
+    "FetchedAt": "2026-08-15T00:47:05.2909756+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:holaboss-ai/holaOS"
+    },
+    "Type": 0,
+    "Title": "holaboss-ai/holaOS",
+    "Url": "https://github.com/holaboss-ai/holaOS",
+    "Description": "Open-source All in One AI agent workspace. Run any agent \u2014 Claude Code, Codex \u2014 across your tools (100\u002B integrations \u002B MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+    "Metadata": {
+      "owner": "holaboss-ai",
+      "repo": "holaOS",
+      "language": "TypeScript",
+      "stars": "769",
+      "topics": "agent, agent-harness, agent-os, agentic, ai, ai-agent, ai-agents, artificial-intelligence, claude-code, codex, electron, holaboss, holaos, llm, mcp, memory, model-context-protocol, runtime, typescript, workspace"
+    },
+    "FetchedAt": "2026-08-15T00:47:05.5030657+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:github/spec-kit"
+    },
+    "Type": 0,
+    "Title": "github/spec-kit",
+    "Url": "https://github.com/github/spec-kit",
+    "Description": "\uD83D\uDCAB Toolkit to help you get started with Spec-Driven Development",
+    "Metadata": {
+      "owner": "github",
+      "repo": "spec-kit",
+      "language": "Python",
+      "stars": "1,160",
+      "topics": "ai, copilot, development, engineering, prd, spec, spec-driven"
+    },
+    "FetchedAt": "2026-08-15T00:47:05.7301803+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:infiniflow/ragflow"
+    },
+    "Type": 0,
+    "Title": "infiniflow/ragflow",
+    "Url": "https://github.com/infiniflow/ragflow",
+    "Description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+    "Metadata": {
+      "owner": "infiniflow",
+      "repo": "ragflow",
+      "language": "Go",
+      "stars": "473",
+      "topics": "agent-harness, agentic-ai, agentic-retrieval, agentic-search, ai, ai-agents, context-engine, context-engineering, context-management, harness-engineering, knowledge-compilation, llm-apps, rag, retrieval-augmented-generation"
+    },
+    "FetchedAt": "2026-08-15T00:47:05.9666492+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cursor/plugins"
+    },
+    "Type": 0,
+    "Title": "cursor/plugins",
+    "Url": "https://github.com/cursor/plugins",
+    "Description": "Cursor plugin specification and official plugins",
+    "Metadata": {
+      "owner": "cursor",
+      "repo": "plugins",
+      "language": "TypeScript",
+      "stars": "41"
+    },
+    "FetchedAt": "2026-08-15T00:47:06.1684956+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:deepseek-ai/awesome-deepseek-agent"
+    },
+    "Type": 0,
+    "Title": "deepseek-ai/awesome-deepseek-agent",
+    "Url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+    "Description": "",
+    "Metadata": {
+      "owner": "deepseek-ai",
+      "repo": "awesome-deepseek-agent",
+      "stars": "222"
+    },
+    "FetchedAt": "2026-08-15T00:47:06.3552796+00:00"
+  }
+]
