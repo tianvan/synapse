@@ -117,39 +117,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:cordiverse/cordis"
-    },
-    "Type": 0,
-    "Title": "cordiverse/cordis",
-    "Url": "https://github.com/cordiverse/cordis",
-    "Description": "Meta-Framework of Spatiotemporal Composability",
-    "Metadata": {
-      "owner": "cordiverse",
-      "repo": "cordis",
-      "language": "TypeScript",
-      "stars": "599",
-      "topics": "effect, framework, nodejs, plugin"
-    },
-    "FetchedAt": "2026-08-16T12:22:23.175016+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:basecamp/omarchy"
-    },
-    "Type": 0,
-    "Title": "basecamp/omarchy",
-    "Url": "https://github.com/basecamp/omarchy",
-    "Description": "Beautiful, Modern \u0026 Opinionated Linux",
-    "Metadata": {
-      "owner": "basecamp",
-      "repo": "omarchy",
-      "language": "Shell",
-      "stars": "225"
-    },
-    "FetchedAt": "2026-08-16T12:22:23.3503745+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:akitaonrails/ai-memory"
     },
     "Type": 0,
@@ -166,6 +133,39 @@
   },
   {
     "ExternalId": {
+      "Value": "github:cordiverse/cordis"
+    },
+    "Type": 0,
+    "Title": "cordiverse/cordis",
+    "Url": "https://github.com/cordiverse/cordis",
+    "Description": "Meta-Framework of Spatiotemporal Composability",
+    "Metadata": {
+      "owner": "cordiverse",
+      "repo": "cordis",
+      "language": "TypeScript",
+      "stars": "719",
+      "topics": "effect, framework, nodejs, plugin"
+    },
+    "FetchedAt": "2026-08-16T18:17:18.8213373+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:basecamp/omarchy"
+    },
+    "Type": 0,
+    "Title": "basecamp/omarchy",
+    "Url": "https://github.com/basecamp/omarchy",
+    "Description": "Beautiful, Modern \u0026 Opinionated Linux",
+    "Metadata": {
+      "owner": "basecamp",
+      "repo": "omarchy",
+      "language": "Shell",
+      "stars": "225"
+    },
+    "FetchedAt": "2026-08-16T18:17:19.0239702+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:public-apis/public-apis"
     },
     "Type": 0,
@@ -176,10 +176,10 @@
       "owner": "public-apis",
       "repo": "public-apis",
       "language": "Python",
-      "stars": "2,260",
+      "stars": "1,583",
       "topics": "api, apis, dataset, development, free, list, lists, open-source, public, public-api, public-apis, resources, software"
     },
-    "FetchedAt": "2026-08-16T12:22:23.6292253+00:00"
+    "FetchedAt": "2026-08-16T18:17:19.1855922+00:00"
   },
   {
     "ExternalId": {
@@ -193,9 +193,9 @@
       "owner": "cactus-compute",
       "repo": "needle",
       "language": "Python",
-      "stars": "547",
+      "stars": "447",
       "topics": "cactus, gemini, gemma, llm, on-device-ai"
     },
-    "FetchedAt": "2026-08-16T12:22:23.759811+00:00"
+    "FetchedAt": "2026-08-16T18:17:19.3220658+00:00"
   }
 ]
