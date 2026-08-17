@@ -1,0 +1,69 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:cordiverse/cordis"
+    },
+    "Type": 0,
+    "Title": "cordiverse/cordis",
+    "Url": "https://github.com/cordiverse/cordis",
+    "Description": "Meta-Framework of Spatiotemporal Composability",
+    "Metadata": {
+      "owner": "cordiverse",
+      "repo": "cordis",
+      "language": "TypeScript",
+      "stars": "720",
+      "topics": "effect, framework, nodejs, plugin"
+    },
+    "FetchedAt": "2026-08-17T00:48:06.8585939+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:basecamp/omarchy"
+    },
+    "Type": 0,
+    "Title": "basecamp/omarchy",
+    "Url": "https://github.com/basecamp/omarchy",
+    "Description": "Beautiful, Modern \u0026 Opinionated Linux",
+    "Metadata": {
+      "owner": "basecamp",
+      "repo": "omarchy",
+      "language": "Shell",
+      "stars": "270"
+    },
+    "FetchedAt": "2026-08-17T00:48:07.1137+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:public-apis/public-apis"
+    },
+    "Type": 0,
+    "Title": "public-apis/public-apis",
+    "Url": "https://github.com/public-apis/public-apis",
+    "Description": "A collective list of free APIs",
+    "Metadata": {
+      "owner": "public-apis",
+      "repo": "public-apis",
+      "language": "Python",
+      "stars": "1,588",
+      "topics": "api, apis, dataset, development, free, list, lists, open-source, public, public-api, public-apis, resources, software"
+    },
+    "FetchedAt": "2026-08-17T00:48:07.3037308+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cactus-compute/needle"
+    },
+    "Type": 0,
+    "Title": "cactus-compute/needle",
+    "Url": "https://github.com/cactus-compute/needle",
+    "Description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "Metadata": {
+      "owner": "cactus-compute",
+      "repo": "needle",
+      "language": "Python",
+      "stars": "443",
+      "topics": "cactus, gemini, gemma, llm, on-device-ai"
+    },
+    "FetchedAt": "2026-08-17T00:48:07.5047333+00:00"
+  }
+]
