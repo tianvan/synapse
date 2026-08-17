@@ -1,23 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:cordiverse/cordis"
-    },
-    "Type": 0,
-    "Title": "cordiverse/cordis",
-    "Url": "https://github.com/cordiverse/cordis",
-    "Description": "Meta-Framework of Spatiotemporal Composability",
-    "Metadata": {
-      "owner": "cordiverse",
-      "repo": "cordis",
-      "language": "TypeScript",
-      "stars": "720",
-      "topics": "effect, framework, nodejs, plugin"
-    },
-    "FetchedAt": "2026-08-17T06:37:12.826117+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:basecamp/omarchy"
     },
     "Type": 0,
@@ -65,5 +48,124 @@
       "topics": "cactus, gemini, gemma, llm, on-device-ai"
     },
     "FetchedAt": "2026-08-17T06:37:13.4910025+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:harry0703/MoneyPrinterTurbo"
+    },
+    "Type": 0,
+    "Title": "harry0703/MoneyPrinterTurbo",
+    "Url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "Description": "\u5229\u7528 AI \u5927\u6A21\u578B\u548C\u81EA\u52A8\u5316\u5DE5\u4F5C\u6D41\uFF0C\u6839\u636E\u4E3B\u9898\u6216\u5173\u952E\u8BCD\u4E00\u952E\u751F\u6210\u9AD8\u6E05\u77ED\u89C6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "Metadata": {
+      "owner": "harry0703",
+      "repo": "MoneyPrinterTurbo",
+      "language": "Python",
+      "stars": "494",
+      "topics": "ai-video-generator, content-creation, ffmpeg, instagram-reels, llm, python, short-video, subtitles, text-to-speech, tiktok, video-automation, video-workflow, workflow-automation, youtube-shorts"
+    },
+    "FetchedAt": "2026-08-17T12:27:16.2018532+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:usestrix/strix"
+    },
+    "Type": 0,
+    "Title": "usestrix/strix",
+    "Url": "https://github.com/usestrix/strix",
+    "Description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
+    "Metadata": {
+      "owner": "usestrix",
+      "repo": "strix",
+      "language": "Python",
+      "stars": "856",
+      "topics": "agents, ai-hacking, ai-penetration-testing, ai-pentesting, ai-security, artificial-intelligence, bug-bounty, code-quality, ctf-tools, cybersecurity, cybersecurity-tools, ethical-hacking, hacking, llm-security, offensive-security, penetration-testing, pentesting-tools, red-teaming, security, security-automation"
+    },
+    "FetchedAt": "2026-08-17T12:27:16.493135+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:nautechsystems/nautilus_trader"
+    },
+    "Type": 0,
+    "Title": "nautechsystems/nautilus_trader",
+    "Url": "https://github.com/nautechsystems/nautilus_trader",
+    "Description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+    "Metadata": {
+      "owner": "nautechsystems",
+      "repo": "nautilus_trader",
+      "language": "Rust",
+      "stars": "115",
+      "topics": "algorithmic-trading-engine, artificial-intelligence, crypto-trading, equity-trading, forex, futures-trading, machine-learning, options-trading, python, rust, sports-betting, trading, trading-platform"
+    },
+    "FetchedAt": "2026-08-17T12:27:16.6679935+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jundot/omlx"
+    },
+    "Type": 0,
+    "Title": "jundot/omlx",
+    "Url": "https://github.com/jundot/omlx",
+    "Description": "LLM inference server with continuous batching \u0026 SSD caching for Apple Silicon \u2014 managed from the macOS menu bar",
+    "Metadata": {
+      "owner": "jundot",
+      "repo": "omlx",
+      "language": "Python",
+      "stars": "60",
+      "topics": "apple-silicon, inference-server, llm, macos, mlx, openai-api"
+    },
+    "FetchedAt": "2026-08-17T12:27:16.8383947+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:immich-app/immich"
+    },
+    "Type": 0,
+    "Title": "immich-app/immich",
+    "Url": "https://github.com/immich-app/immich",
+    "Description": "High performance self-hosted photo and video management solution.",
+    "Metadata": {
+      "owner": "immich-app",
+      "repo": "immich",
+      "language": "TypeScript",
+      "stars": "140",
+      "topics": "backup-tool, flutter, google-photos, google-photos-alternative, javascript, mobile-app, nestjs, nodejs, photo-gallery, photos, photos-management, self-hosted, svelte, sveltekit, typescript, videos"
+    },
+    "FetchedAt": "2026-08-17T12:27:17.0317343+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cordiverse/cordis"
+    },
+    "Type": 0,
+    "Title": "cordiverse/cordis",
+    "Url": "https://github.com/cordiverse/cordis",
+    "Description": "Meta-Framework of Spatiotemporal Composability",
+    "Metadata": {
+      "owner": "cordiverse",
+      "repo": "cordis",
+      "language": "TypeScript",
+      "stars": "959",
+      "topics": "effect, framework, nodejs, plugin"
+    },
+    "FetchedAt": "2026-08-17T12:27:17.2016636+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:agalwood/Motrix"
+    },
+    "Type": 0,
+    "Title": "agalwood/Motrix",
+    "Url": "https://github.com/agalwood/Motrix",
+    "Description": "A full-featured download manager.",
+    "Metadata": {
+      "owner": "agalwood",
+      "repo": "Motrix",
+      "language": "TypeScript",
+      "stars": "295",
+      "topics": "aria2, bittorrent, bt, download, download-manager, electron, linux, mac, macos, magnet, motrix, torrent, windows"
+    },
+    "FetchedAt": "2026-08-17T12:27:17.3937603+00:00"
   }
 ]
