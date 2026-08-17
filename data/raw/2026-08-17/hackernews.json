@@ -1,66 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:49321717"
-    },
-    "Type": 1,
-    "Title": "A 3rd World Embedded Engineer Responds to \u0022RISC-V They Should Have Known Better\u0022",
-    "Url": "https://rvembedded.com/blog_post/12/",
-    "Description": "A 3rd World Embedded Engineer Responds to \u0022RISC-V They Should Have Known Better\u0022",
-    "Metadata": {
-      "score": "353",
-      "author": "Narishma",
-      "commentCount": "182"
-    },
-    "FetchedAt": "2026-08-17T00:48:08.0086917+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49319556"
-    },
-    "Type": 1,
-    "Title": "Claude: System Prompts",
-    "Url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-    "Description": "Claude: System Prompts",
-    "Metadata": {
-      "score": "523",
-      "author": "tosh",
-      "commentCount": "220"
-    },
-    "FetchedAt": "2026-08-17T00:48:08.0666206+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49285096"
-    },
-    "Type": 1,
-    "Title": "SIMD in the 90s: Programming Intel\u0027s Pentium MMX",
-    "Url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
-    "Description": "SIMD in the 90s: Programming Intel\u0027s Pentium MMX",
-    "Metadata": {
-      "score": "66",
-      "author": "ibobev",
-      "commentCount": "27"
-    },
-    "FetchedAt": "2026-08-17T00:48:08.1420454+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49259980"
-    },
-    "Type": 1,
-    "Title": "Low-Tech Ceramic Water Filter",
-    "Url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
-    "Description": "Low-Tech Ceramic Water Filter",
-    "Metadata": {
-      "score": "86",
-      "author": "Bluestein",
-      "commentCount": "22"
-    },
-    "FetchedAt": "2026-08-17T00:48:08.1987097+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49303776"
     },
     "Type": 1,
@@ -73,51 +13,6 @@
       "commentCount": "12"
     },
     "FetchedAt": "2026-08-17T00:48:08.2553357+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49325185"
-    },
-    "Type": 1,
-    "Title": "The Life and Death of Direct File [pdf]",
-    "Url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
-    "Description": "The Life and Death of Direct File [pdf]",
-    "Metadata": {
-      "score": "5",
-      "author": "ronbenton",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-08-17T00:48:08.3118682+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49322573"
-    },
-    "Type": 1,
-    "Title": "Protobuf has LSP support. You\u0027re welcome",
-    "Url": "https://buf.build/blog/protobuf-lsp",
-    "Description": "Protobuf has LSP support. You\u0027re welcome",
-    "Metadata": {
-      "score": "103",
-      "author": "theanonymousone",
-      "commentCount": "74"
-    },
-    "FetchedAt": "2026-08-17T00:48:08.376241+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49320611"
-    },
-    "Type": 1,
-    "Title": "The AI Credit Resale Economy",
-    "Url": "https://vectoral.com/blog/who-are-the-token-brokers",
-    "Description": "The AI Credit Resale Economy",
-    "Metadata": {
-      "score": "221",
-      "author": "mlenhard",
-      "commentCount": "88"
-    },
-    "FetchedAt": "2026-08-17T00:48:08.4424939+00:00"
   },
   {
     "ExternalId": {
@@ -136,96 +31,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49322330"
-    },
-    "Type": 1,
-    "Title": "MathCode, Mathematical Coding Agent",
-    "Url": "https://math-ai-org.github.io/mathcode/",
-    "Description": "MathCode, Mathematical Coding Agent",
-    "Metadata": {
-      "score": "54",
-      "author": "homarp",
-      "commentCount": "17"
-    },
-    "FetchedAt": "2026-08-17T00:48:08.5794274+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49323686"
-    },
-    "Type": 1,
-    "Title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-    "Url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-    "Description": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-    "Metadata": {
-      "score": "87",
-      "author": "root-parent",
-      "commentCount": "20"
-    },
-    "FetchedAt": "2026-08-17T00:48:08.6456151+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49257362"
-    },
-    "Type": 1,
-    "Title": "Dancing with friends and enemies: boids\u0027 swarm intelligence",
-    "Url": "https://community.wolfram.com/groups/-/m/t/122095",
-    "Description": "Dancing with friends and enemies: boids\u0027 swarm intelligence",
-    "Metadata": {
-      "score": "4",
-      "author": "surprisetalk",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-08-17T00:48:08.7026435+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49281352"
-    },
-    "Type": 1,
-    "Title": "Clamiga: Common Lisp for the Amiga",
-    "Url": "https://nnamgreb.de/blog/Clamiga\u002B-\u002BCommon\u002BLisp\u002Bfor\u002Bthe\u002BAmiga",
-    "Description": "Clamiga: Common Lisp for the Amiga",
-    "Metadata": {
-      "score": "81",
-      "author": "emptybits",
-      "commentCount": "8"
-    },
-    "FetchedAt": "2026-08-17T00:48:08.7595196+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49306021"
-    },
-    "Type": 1,
-    "Title": "Anton Chekhov played at love most of his life",
-    "Url": "https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/",
-    "Description": "Anton Chekhov played at love most of his life",
-    "Metadata": {
-      "score": "58",
-      "author": "lermontov",
-      "commentCount": "13"
-    },
-    "FetchedAt": "2026-08-17T00:48:08.8179231+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49313920"
-    },
-    "Type": 1,
-    "Title": "Plastic mechanical computer from 1963: The Digi-Comp 1 [video]",
-    "Url": "https://www.youtube.com/watch?v=-y8bGBE71yw",
-    "Description": "Plastic mechanical computer from 1963: The Digi-Comp 1 [video]",
-    "Metadata": {
-      "score": "44",
-      "author": "tobr",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-08-17T00:48:08.8750201+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49323459"
     },
     "Type": 1,
@@ -241,36 +46,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49319633"
-    },
-    "Type": 1,
-    "Title": "Firefox for iOS now has a native adblocker",
-    "Url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
-    "Description": "Firefox for iOS now has a native adblocker",
-    "Metadata": {
-      "score": "521",
-      "author": "pentagrama",
-      "commentCount": "215"
-    },
-    "FetchedAt": "2026-08-17T00:48:08.9893573+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49323381"
-    },
-    "Type": 1,
-    "Title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-    "Url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-    "Description": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-    "Metadata": {
-      "score": "168",
-      "author": "zacharyozer",
-      "commentCount": "118"
-    },
-    "FetchedAt": "2026-08-17T00:48:09.0475045+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49322107"
     },
     "Type": 1,
@@ -283,21 +58,6 @@
       "commentCount": "61"
     },
     "FetchedAt": "2026-08-17T00:48:09.10436+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49320856"
-    },
-    "Type": 1,
-    "Title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-    "Url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
-    "Description": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-    "Metadata": {
-      "score": "152",
-      "author": "toomuchtodo",
-      "commentCount": "115"
-    },
-    "FetchedAt": "2026-08-17T00:48:09.1610486+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +208,455 @@
       "commentCount": "31"
     },
     "FetchedAt": "2026-08-17T00:48:09.8851927+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49324985"
+    },
+    "Type": 1,
+    "Title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+    "Url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "Description": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+    "Metadata": {
+      "score": "290",
+      "author": "bilsbie",
+      "commentCount": "121"
+    },
+    "FetchedAt": "2026-08-17T06:37:13.903251+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49325185"
+    },
+    "Type": 1,
+    "Title": "The Life and Death of Direct File [pdf]",
+    "Url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+    "Description": "The Life and Death of Direct File [pdf]",
+    "Metadata": {
+      "score": "162",
+      "author": "ronbenton",
+      "commentCount": "69"
+    },
+    "FetchedAt": "2026-08-17T06:37:13.9477235+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49325714"
+    },
+    "Type": 1,
+    "Title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+    "Url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
+    "Description": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+    "Metadata": {
+      "score": "58",
+      "author": "erickhill",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-08-17T06:37:13.9925216+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49321717"
+    },
+    "Type": 1,
+    "Title": "A third world engineer responds to \u201CRISC-V: They should have known better\u201D",
+    "Url": "https://rvembedded.com/blog_post/12/",
+    "Description": "A third world engineer responds to \u201CRISC-V: They should have known better\u201D",
+    "Metadata": {
+      "score": "449",
+      "author": "Narishma",
+      "commentCount": "233"
+    },
+    "FetchedAt": "2026-08-17T06:37:14.0367724+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49319556"
+    },
+    "Type": 1,
+    "Title": "Claude: System Prompts",
+    "Url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+    "Description": "Claude: System Prompts",
+    "Metadata": {
+      "score": "614",
+      "author": "tosh",
+      "commentCount": "248"
+    },
+    "FetchedAt": "2026-08-17T06:37:14.0810418+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49325061"
+    },
+    "Type": 1,
+    "Title": "Reticulum \u2013 Decentralized Mesh Network",
+    "Url": "https://reticulum.network/",
+    "Description": "Reticulum \u2013 Decentralized Mesh Network",
+    "Metadata": {
+      "score": "79",
+      "author": "sudo_cowsay",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-08-17T06:37:14.1257373+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49325384"
+    },
+    "Type": 1,
+    "Title": "Rhombus 1.1 is now available",
+    "Url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+    "Description": "Rhombus 1.1 is now available",
+    "Metadata": {
+      "score": "52",
+      "author": "spdegabrielle",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-08-17T06:37:14.1702054+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49259980"
+    },
+    "Type": 1,
+    "Title": "Low-Tech Ceramic Water Filter",
+    "Url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
+    "Description": "Low-Tech Ceramic Water Filter",
+    "Metadata": {
+      "score": "151",
+      "author": "Bluestein",
+      "commentCount": "40"
+    },
+    "FetchedAt": "2026-08-17T06:37:14.2153947+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49325304"
+    },
+    "Type": 1,
+    "Title": "Applying a photosynthetic process to treat \u201Cdry eye\u201D",
+    "Url": "https://www.science.org/content/blog-post/taking-tip-plants-eyes",
+    "Description": "Applying a photosynthetic process to treat \u201Cdry eye\u201D",
+    "Metadata": {
+      "score": "35",
+      "author": "gumby",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-08-17T06:37:14.259664+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49231418"
+    },
+    "Type": 1,
+    "Title": "Interview with Amit Patel, Creator of \u201CSolar Realms Elite\u201D (2013)",
+    "Url": "https://breakintochat.com/blog/2013/02/18/amit-patel-creator-of-solar-realms-elite/",
+    "Description": "Interview with Amit Patel, Creator of \u201CSolar Realms Elite\u201D (2013)",
+    "Metadata": {
+      "score": "45",
+      "author": "bananaboy",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-08-17T06:37:14.304956+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49290545"
+    },
+    "Type": 1,
+    "Title": "How do I permanently disable random Google Photos popup to backup photos? (2024)",
+    "Url": "https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en",
+    "Description": "How do I permanently disable random Google Photos popup to backup photos? (2024)",
+    "Metadata": {
+      "score": "78",
+      "author": "dt3ft",
+      "commentCount": "41"
+    },
+    "FetchedAt": "2026-08-17T06:37:14.3493847+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49285096"
+    },
+    "Type": 1,
+    "Title": "SIMD in the 90s: Programming Intel\u0027s Pentium MMX",
+    "Url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
+    "Description": "SIMD in the 90s: Programming Intel\u0027s Pentium MMX",
+    "Metadata": {
+      "score": "105",
+      "author": "ibobev",
+      "commentCount": "42"
+    },
+    "FetchedAt": "2026-08-17T06:37:14.3943025+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49326816"
+    },
+    "Type": 1,
+    "Title": "Linear Algebra Done Right \u2013 Sheldon Axler",
+    "Url": "https://linear.axler.net/",
+    "Description": "Linear Algebra Done Right \u2013 Sheldon Axler",
+    "Metadata": {
+      "score": "4",
+      "author": "the-mitr",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-17T06:37:14.4384579+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49326071"
+    },
+    "Type": 1,
+    "Title": "Strong gravitational lensing and microlensing of supernovae (2024)",
+    "Url": "https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5",
+    "Description": "Strong gravitational lensing and microlensing of supernovae (2024)",
+    "Metadata": {
+      "score": "8",
+      "author": "andsoitis",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-17T06:37:14.4829686+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49257362"
+    },
+    "Type": 1,
+    "Title": "Dancing with friends and enemies: boids\u0027 swarm intelligence (2012)",
+    "Url": "https://community.wolfram.com/groups/-/m/t/122095",
+    "Description": "Dancing with friends and enemies: boids\u0027 swarm intelligence (2012)",
+    "Metadata": {
+      "score": "38",
+      "author": "surprisetalk",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-08-17T06:37:14.528585+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49326825"
+    },
+    "Type": 1,
+    "Title": "$12B of US ratepayers\u0027 money wasted on a modeling mistake in PJM",
+    "Url": "https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted",
+    "Description": "$12B of US ratepayers\u0027 money wasted on a modeling mistake in PJM",
+    "Metadata": {
+      "score": "14",
+      "author": "_delirium",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-08-17T06:37:14.5739614+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49320611"
+    },
+    "Type": 1,
+    "Title": "The AI Credit Resale Economy",
+    "Url": "https://vectoral.com/blog/who-are-the-token-brokers",
+    "Description": "The AI Credit Resale Economy",
+    "Metadata": {
+      "score": "264",
+      "author": "mlenhard",
+      "commentCount": "110"
+    },
+    "FetchedAt": "2026-08-17T06:37:14.6189087+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49245021"
+    },
+    "Type": 1,
+    "Title": "Show HN: Vocal Slice \u2013 Cut audio by selecting text, fully on-device",
+    "Url": "https://vocalslice.com/",
+    "Description": "I make audio tools, and this one came out of the clip-pulling loop: scrub to find the right line, set the in point, set the out point, name the file, repeat.\u003Cp\u003EVocal Slice transcribes your audio, then you can simply highlight the passage you want and the waveform jumps to exactly that span. Fine-tune with the handles, export a named clip.\u003Cp\u003EWindows and macOS.\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;vocalslice.com\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;vocalslice.com\u003C/a\u003E\nwesley@vocalslice.com\u003Cp\u003EHappy to answer a",
+    "Metadata": {
+      "score": "11",
+      "author": "terranivium",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-08-17T06:37:14.6640261+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49298932"
+    },
+    "Type": 1,
+    "Title": "Design 3D-printable parts by talking",
+    "Url": "https://nurb.dev/",
+    "Description": "Design 3D-printable parts by talking",
+    "Metadata": {
+      "score": "3",
+      "author": "mkmk",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-17T06:37:14.7086545+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49322330"
+    },
+    "Type": 1,
+    "Title": "MathCode, Mathematical Coding Agent",
+    "Url": "https://math-ai-org.github.io/mathcode/",
+    "Description": "MathCode, Mathematical Coding Agent",
+    "Metadata": {
+      "score": "83",
+      "author": "homarp",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-08-17T06:37:14.7537917+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49322573"
+    },
+    "Type": 1,
+    "Title": "Protobuf has LSP support. You\u0027re welcome",
+    "Url": "https://buf.build/blog/protobuf-lsp",
+    "Description": "Protobuf has LSP support. You\u0027re welcome",
+    "Metadata": {
+      "score": "138",
+      "author": "theanonymousone",
+      "commentCount": "91"
+    },
+    "FetchedAt": "2026-08-17T06:37:14.798217+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49323381"
+    },
+    "Type": 1,
+    "Title": "Stripe will reportedly acquire OpenRouter for $7B\u002B",
+    "Url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "Description": "Stripe will reportedly acquire OpenRouter for $7B\u002B",
+    "Metadata": {
+      "score": "285",
+      "author": "zacharyozer",
+      "commentCount": "194"
+    },
+    "FetchedAt": "2026-08-17T06:37:14.8434758+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49323136"
+    },
+    "Type": 1,
+    "Title": "Red queen hypothesis \u2013 A new way forward for self-improving AI",
+    "Url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+    "Description": "Red queen hypothesis \u2013 A new way forward for self-improving AI",
+    "Metadata": {
+      "score": "38",
+      "author": "hardlianotion",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-08-17T06:37:14.8882236+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49325458"
+    },
+    "Type": 1,
+    "Title": "Prolly: A content-addressed ordered map built on prolly trees",
+    "Url": "https://github.com/crabbuild/prolly",
+    "Description": "Prolly: A content-addressed ordered map built on prolly trees",
+    "Metadata": {
+      "score": "24",
+      "author": "forhappy",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-17T06:37:14.9330767+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49313920"
+    },
+    "Type": 1,
+    "Title": "Plastic mechanical computer from 1963: The Digi-Comp 1 [video]",
+    "Url": "https://www.youtube.com/watch?v=-y8bGBE71yw",
+    "Description": "Plastic mechanical computer from 1963: The Digi-Comp 1 [video]",
+    "Metadata": {
+      "score": "62",
+      "author": "tobr",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-08-17T06:37:14.979422+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49281352"
+    },
+    "Type": 1,
+    "Title": "Clamiga: Common Lisp for the Amiga",
+    "Url": "https://nnamgreb.de/blog/Clamiga\u002B-\u002BCommon\u002BLisp\u002Bfor\u002Bthe\u002BAmiga",
+    "Description": "Clamiga: Common Lisp for the Amiga",
+    "Metadata": {
+      "score": "104",
+      "author": "emptybits",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-08-17T06:37:15.0239132+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49323686"
+    },
+    "Type": 1,
+    "Title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+    "Url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+    "Description": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+    "Metadata": {
+      "score": "184",
+      "author": "root-parent",
+      "commentCount": "84"
+    },
+    "FetchedAt": "2026-08-17T06:37:15.0687354+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49306021"
+    },
+    "Type": 1,
+    "Title": "Anton Chekhov played at love most of his life",
+    "Url": "https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/",
+    "Description": "Anton Chekhov played at love most of his life",
+    "Metadata": {
+      "score": "83",
+      "author": "lermontov",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-08-17T06:37:15.1135634+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49319633"
+    },
+    "Type": 1,
+    "Title": "Firefox for iOS now has a native adblocker",
+    "Url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+    "Description": "Firefox for iOS now has a native adblocker",
+    "Metadata": {
+      "score": "618",
+      "author": "pentagrama",
+      "commentCount": "252"
+    },
+    "FetchedAt": "2026-08-17T06:37:15.1586227+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49320856"
+    },
+    "Type": 1,
+    "Title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
+    "Url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
+    "Description": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
+    "Metadata": {
+      "score": "182",
+      "author": "toomuchtodo",
+      "commentCount": "133"
+    },
+    "FetchedAt": "2026-08-17T06:37:15.2033231+00:00"
   }
 ]
