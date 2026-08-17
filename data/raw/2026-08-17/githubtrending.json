@@ -61,10 +61,10 @@
       "owner": "harry0703",
       "repo": "MoneyPrinterTurbo",
       "language": "Python",
-      "stars": "494",
+      "stars": "1,275",
       "topics": "ai-video-generator, content-creation, ffmpeg, instagram-reels, llm, python, short-video, subtitles, text-to-speech, tiktok, video-automation, video-workflow, workflow-automation, youtube-shorts"
     },
-    "FetchedAt": "2026-08-17T12:27:16.2018532+00:00"
+    "FetchedAt": "2026-08-17T18:26:31.6908722+00:00"
   },
   {
     "ExternalId": {
@@ -78,10 +78,10 @@
       "owner": "usestrix",
       "repo": "strix",
       "language": "Python",
-      "stars": "856",
+      "stars": "656",
       "topics": "agents, ai-hacking, ai-penetration-testing, ai-pentesting, ai-security, artificial-intelligence, bug-bounty, code-quality, ctf-tools, cybersecurity, cybersecurity-tools, ethical-hacking, hacking, llm-security, offensive-security, penetration-testing, pentesting-tools, red-teaming, security, security-automation"
     },
-    "FetchedAt": "2026-08-17T12:27:16.493135+00:00"
+    "FetchedAt": "2026-08-17T18:26:34.9980921+00:00"
   },
   {
     "ExternalId": {
@@ -98,7 +98,23 @@
       "stars": "115",
       "topics": "algorithmic-trading-engine, artificial-intelligence, crypto-trading, equity-trading, forex, futures-trading, machine-learning, options-trading, python, rust, sports-betting, trading, trading-platform"
     },
-    "FetchedAt": "2026-08-17T12:27:16.6679935+00:00"
+    "FetchedAt": "2026-08-17T18:26:39.4351255+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:akitaonrails/ai-memory"
+    },
+    "Type": 0,
+    "Title": "akitaonrails/ai-memory",
+    "Url": "https://github.com/akitaonrails/ai-memory",
+    "Description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "Metadata": {
+      "owner": "akitaonrails",
+      "repo": "ai-memory",
+      "language": "Rust",
+      "stars": "207"
+    },
+    "FetchedAt": "2026-08-17T18:26:43.6264431+00:00"
   },
   {
     "ExternalId": {
@@ -112,10 +128,10 @@
       "owner": "jundot",
       "repo": "omlx",
       "language": "Python",
-      "stars": "60",
+      "stars": "96",
       "topics": "apple-silicon, inference-server, llm, macos, mlx, openai-api"
     },
-    "FetchedAt": "2026-08-17T12:27:16.8383947+00:00"
+    "FetchedAt": "2026-08-17T18:26:46.9618359+00:00"
   },
   {
     "ExternalId": {
@@ -132,7 +148,7 @@
       "stars": "140",
       "topics": "backup-tool, flutter, google-photos, google-photos-alternative, javascript, mobile-app, nestjs, nodejs, photo-gallery, photos, photos-management, self-hosted, svelte, sveltekit, typescript, videos"
     },
-    "FetchedAt": "2026-08-17T12:27:17.0317343+00:00"
+    "FetchedAt": "2026-08-17T18:26:49.9389039+00:00"
   },
   {
     "ExternalId": {
@@ -149,7 +165,7 @@
       "stars": "959",
       "topics": "effect, framework, nodejs, plugin"
     },
-    "FetchedAt": "2026-08-17T12:27:17.2016636+00:00"
+    "FetchedAt": "2026-08-17T18:26:55.1938312+00:00"
   },
   {
     "ExternalId": {
@@ -166,6 +182,6 @@
       "stars": "295",
       "topics": "aria2, bittorrent, bt, download, download-manager, electron, linux, mac, macos, magnet, motrix, torrent, windows"
     },
-    "FetchedAt": "2026-08-17T12:27:17.3937603+00:00"
+    "FetchedAt": "2026-08-17T18:26:59.8813035+00:00"
   }
 ]

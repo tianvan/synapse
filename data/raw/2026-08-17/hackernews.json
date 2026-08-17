@@ -376,36 +376,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49325789"
-    },
-    "Type": 1,
-    "Title": "On A.I. regulation and messaging",
-    "Url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;DarioAmodei\u0026#x2F;status\u0026#x2F;2088758816376807762\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;DarioAmodei\u0026#x2F;status\u0026#x2F;2088758816376807762\u003C/a\u003E",
-    "Metadata": {
-      "score": "117",
-      "author": "jacquesm",
-      "commentCount": "212"
-    },
-    "FetchedAt": "2026-08-17T12:27:17.8074783+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49324087"
-    },
-    "Type": 1,
-    "Title": "Anthropic\u0027s \u0027watermark\u0027 text adulteration in Claude is a perversion of writing",
-    "Url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-    "Description": "Anthropic\u0027s \u0027watermark\u0027 text adulteration in Claude is a perversion of writing",
-    "Metadata": {
-      "score": "385",
-      "author": "ropbear",
-      "commentCount": "370"
-    },
-    "FetchedAt": "2026-08-17T12:27:17.8416398+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49321717"
     },
     "Type": 1,
@@ -448,36 +418,6 @@
       "commentCount": "4"
     },
     "FetchedAt": "2026-08-17T12:27:17.9461589+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49327643"
-    },
-    "Type": 1,
-    "Title": "Show HN: Desktopcolors.com \u2013 A museum for solid background colors of classic OS",
-    "Url": "https://desktopcolors.com",
-    "Description": "Hi HN, in my last vacation, I built desktopcolors.com as a place to collect iconic solid background colors. Let me know what you think.",
-    "Metadata": {
-      "score": "31",
-      "author": "vlowrian",
-      "commentCount": "16"
-    },
-    "FetchedAt": "2026-08-17T12:27:17.9814635+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49325061"
-    },
-    "Type": 1,
-    "Title": "Reticulum \u2013 Decentralized Mesh Network",
-    "Url": "https://reticulum.network/",
-    "Description": "Reticulum \u2013 Decentralized Mesh Network",
-    "Metadata": {
-      "score": "148",
-      "author": "sudo_cowsay",
-      "commentCount": "48"
-    },
-    "FetchedAt": "2026-08-17T12:27:18.0162585+00:00"
   },
   {
     "ExternalId": {
@@ -808,5 +748,455 @@
       "commentCount": "77"
     },
     "FetchedAt": "2026-08-17T12:27:18.8604701+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49330781"
+    },
+    "Type": 1,
+    "Title": "A Preview of DuckDB v2.0",
+    "Url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+    "Description": "A Preview of DuckDB v2.0",
+    "Metadata": {
+      "score": "335",
+      "author": "ibotty",
+      "commentCount": "53"
+    },
+    "FetchedAt": "2026-08-17T18:27:04.394916+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49331423"
+    },
+    "Type": 1,
+    "Title": "AI-Generated GitHub Copilot \u201CAutofix\u201D Allowed Compromise of Snowflake\u0027s Jira",
+    "Url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+    "Description": "AI-Generated GitHub Copilot \u201CAutofix\u201D Allowed Compromise of Snowflake\u0027s Jira",
+    "Metadata": {
+      "score": "192",
+      "author": "galnagli",
+      "commentCount": "89"
+    },
+    "FetchedAt": "2026-08-17T18:27:04.4524958+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49330597"
+    },
+    "Type": 1,
+    "Title": "Incident with Github.com",
+    "Url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+    "Description": "Just got this message: \u0026quot;No server is currently available to service your request. Sorry about that. Please try refreshing and contact us if the problem persists.\u0026quot;\u003Cp\u003EEdit: at the time of posting there was not an incident on githubstatus.com. Now there is. https:\u0026#x2F;\u0026#x2F;www.githubstatus.com\u0026#x2F;incidents\u0026#x2F;zkxwbgr0cnmx\u003Cp\u003EOriginal Title: \u0026quot;Tell HN: GitHub Is Overloaded\u0026quot;",
+    "Metadata": {
+      "score": "260",
+      "author": "SpyCoder77",
+      "commentCount": "735"
+    },
+    "FetchedAt": "2026-08-17T18:27:04.511753+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49331220"
+    },
+    "Type": 1,
+    "Title": "How to disable or avoid intrusive AI",
+    "Url": "https://www.librarian.net/notoai/",
+    "Description": "How to disable or avoid intrusive AI",
+    "Metadata": {
+      "score": "143",
+      "author": "ColinWright",
+      "commentCount": "60"
+    },
+    "FetchedAt": "2026-08-17T18:27:04.5696954+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49332751"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Speko (YC S26) \u2013 OpenRouter for Voice AI",
+    "Url": "https://speko.ai/",
+    "Description": "Hi HN! I\u0026#x27;m Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why.\u003Cp\u003EDemo: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=no2LY2gRh-c\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=no2LY2gRh-c\u003C/a\u003E\u003Cp\u003ETypical production voice agent is an ensemble of three models: STT, an LLM, and TTS.\u003Cp\u003EEach of those layers offers a dozen ",
+    "Metadata": {
+      "score": "58",
+      "author": "abdik",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-08-17T18:27:04.6283595+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49329575"
+    },
+    "Type": 1,
+    "Title": "GPT 5.6 Sol is the best \u0022vision\u0022 model OpenAI ever released",
+    "Url": "https://blog.roboflow.com/openai-gpt-5-6/",
+    "Description": "GPT 5.6 Sol is the best \u0022vision\u0022 model OpenAI ever released",
+    "Metadata": {
+      "score": "222",
+      "author": "plurby",
+      "commentCount": "119"
+    },
+    "FetchedAt": "2026-08-17T18:27:04.685885+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49334544"
+    },
+    "Type": 1,
+    "Title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+    "Url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+    "Description": "Qwen3.8 27B scores 52 on Artificial Analysis",
+    "Metadata": {
+      "score": "39",
+      "author": "anana_",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-08-17T18:27:04.7444035+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49270194"
+    },
+    "Type": 1,
+    "Title": "Olo (Color)",
+    "Url": "https://en.wikipedia.org/wiki/Olo_(color)",
+    "Description": "Olo (Color)",
+    "Metadata": {
+      "score": "137",
+      "author": "inigyou",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-08-17T18:27:04.802557+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49333824"
+    },
+    "Type": 1,
+    "Title": "Sun Clock",
+    "Url": "https://sunclock.net/",
+    "Description": "Sun Clock",
+    "Metadata": {
+      "score": "22",
+      "author": "Gecko4072",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-08-17T18:27:04.8619194+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49331474"
+    },
+    "Type": 1,
+    "Title": "How to put 170 atoms in an atom",
+    "Url": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
+    "Description": "How to put 170 atoms in an atom",
+    "Metadata": {
+      "score": "65",
+      "author": "surprisetalk",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-08-17T18:27:04.9208248+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49331033"
+    },
+    "Type": 1,
+    "Title": "Ask HN: Alternatives to GitHub",
+    "Url": "https://news.ycombinator.com/item?id=49331033",
+    "Description": "Github has been down consistently over the last few months - does it make sense to switch to alternatives?",
+    "Metadata": {
+      "score": "327",
+      "author": "dhruv3006",
+      "commentCount": "209"
+    },
+    "FetchedAt": "2026-08-17T18:27:04.9794414+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49333344"
+    },
+    "Type": 1,
+    "Title": "Judge sets framework for Nine PBS to retrieve archival data",
+    "Url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
+    "Description": "Judge sets framework for Nine PBS to retrieve archival data",
+    "Metadata": {
+      "score": "18",
+      "author": "qingcharles",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-08-17T18:27:05.0386597+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49272891"
+    },
+    "Type": 1,
+    "Title": "A particle made of force: physicists say they\u0027ve found mysterious \u0027glueball\u0027",
+    "Url": "https://www.nature.com/articles/d41586-026-02498-1",
+    "Description": "A particle made of force: physicists say they\u0027ve found mysterious \u0027glueball\u0027",
+    "Metadata": {
+      "score": "19",
+      "author": "Brajeshwar",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-17T18:27:05.0968295+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49333932"
+    },
+    "Type": 1,
+    "Title": "Buy Your Friends Batteries",
+    "Url": "https://domenkozar.com/2026/08/17/buy-your-friends-batteries/",
+    "Description": "Buy Your Friends Batteries",
+    "Metadata": {
+      "score": "80",
+      "author": "domenkozar",
+      "commentCount": "83"
+    },
+    "FetchedAt": "2026-08-17T18:27:05.1546006+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49324087"
+    },
+    "Type": 1,
+    "Title": "Anthropic\u0027s \u2018watermark\u2019 text adulteration in Claude is a perversion of writing",
+    "Url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+    "Description": "Anthropic\u0027s \u2018watermark\u2019 text adulteration in Claude is a perversion of writing",
+    "Metadata": {
+      "score": "685",
+      "author": "ropbear",
+      "commentCount": "599"
+    },
+    "FetchedAt": "2026-08-17T18:27:05.2140617+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49330215"
+    },
+    "Type": 1,
+    "Title": "Show HN: Sokoban AI Solver",
+    "Url": "https://mkornreich.me/projects/sokoban/",
+    "Description": "Show HN: Sokoban AI Solver",
+    "Metadata": {
+      "score": "52",
+      "author": "enjoyyourlife",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-08-17T18:27:05.2724449+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49331551"
+    },
+    "Type": 1,
+    "Title": "Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",
+    "Url": "https://saggar.marginalutility.dev/",
+    "Description": "Hi HN, like many of you talented folk, I\u2019ve been building more, faster than ever. I built Saggar after my terminal stopped feeling like a tool and started feeling like a tab-management problem. Let me know you think!",
+    "Metadata": {
+      "score": "27",
+      "author": "mcclowes",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-08-17T18:27:05.3304854+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49323474"
+    },
+    "Type": 1,
+    "Title": "How I developed an Am29000 C compiler and web browser",
+    "Url": "https://nanochess.org/am29000_c_compiler_web_browser.html",
+    "Description": "How I developed an Am29000 C compiler and web browser",
+    "Metadata": {
+      "score": "54",
+      "author": "nanochess",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-08-17T18:27:05.3892293+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49334960"
+    },
+    "Type": 1,
+    "Title": "Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices",
+    "Url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
+    "Description": "Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices",
+    "Metadata": {
+      "score": "33",
+      "author": "haunter",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-08-17T18:27:05.4471288+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49331222"
+    },
+    "Type": 1,
+    "Title": "Apple\u0027s App Tracking Transparency treated its own apps better than rivals",
+    "Url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
+    "Description": "Apple\u0027s App Tracking Transparency treated its own apps better than rivals",
+    "Metadata": {
+      "score": "201",
+      "author": "nyku",
+      "commentCount": "74"
+    },
+    "FetchedAt": "2026-08-17T18:27:05.5066109+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49330978"
+    },
+    "Type": 1,
+    "Title": "How to ship a database every day",
+    "Url": "https://turbopuffer.com/blog/control-plane",
+    "Description": "How to ship a database every day",
+    "Metadata": {
+      "score": "46",
+      "author": "tarunnnp",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-08-17T18:27:05.5668807+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49325789"
+    },
+    "Type": 1,
+    "Title": "On AI regulation and messaging",
+    "Url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;DarioAmodei\u0026#x2F;status\u0026#x2F;2088758816376807762\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;DarioAmodei\u0026#x2F;status\u0026#x2F;2088758816376807762\u003C/a\u003E",
+    "Metadata": {
+      "score": "210",
+      "author": "jacquesm",
+      "commentCount": "423"
+    },
+    "FetchedAt": "2026-08-17T18:27:05.6250159+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49327643"
+    },
+    "Type": 1,
+    "Title": "Show HN: Desktopcolors.com \u2013 A museum for solid background colors of classic OS",
+    "Url": "https://desktopcolors.com",
+    "Description": "Hi HN, in my last vacation, I built desktopcolors.com as a place to collect iconic solid background colors. Let me know what you think.",
+    "Metadata": {
+      "score": "110",
+      "author": "vlowrian",
+      "commentCount": "42"
+    },
+    "FetchedAt": "2026-08-17T18:27:05.6830168+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49331288"
+    },
+    "Type": 1,
+    "Title": "Show HN: Learn Flags Quiz",
+    "Url": "https://flagquizzes.com/",
+    "Description": "Show HN: Learn Flags Quiz",
+    "Metadata": {
+      "score": "27",
+      "author": "artiomyak",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-08-17T18:27:05.750735+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49329583"
+    },
+    "Type": 1,
+    "Title": "Mexico crackdown on coastal development",
+    "Url": "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/",
+    "Description": "Mexico crackdown on coastal development",
+    "Metadata": {
+      "score": "98",
+      "author": "untiledsource",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-08-17T18:27:05.8109723+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49335163"
+    },
+    "Type": 1,
+    "Title": "Meta faces \u0027astronomical\u0027 consequences as legal fight reaches critical moment",
+    "Url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+    "Description": "Meta faces \u0027astronomical\u0027 consequences as legal fight reaches critical moment",
+    "Metadata": {
+      "score": "8",
+      "author": "root-parent",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-17T18:27:05.8690313+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49335345"
+    },
+    "Type": 1,
+    "Title": "Demand for Canadian citizenship certificates soaring, fuelled by Americans",
+    "Url": "https://www.cbc.ca/news/politics/canadian-citizenship-certificates-americans-9.7307536",
+    "Description": "Demand for Canadian citizenship certificates soaring, fuelled by Americans",
+    "Metadata": {
+      "score": "5",
+      "author": "geox",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-17T18:27:05.9272356+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49332564"
+    },
+    "Type": 1,
+    "Title": "Anthropic\u0027s War on open source AI",
+    "Url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+    "Description": "Anthropic\u0027s War on open source AI",
+    "Metadata": {
+      "score": "83",
+      "author": "bilsbie",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-08-17T18:27:05.9867779+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49289893"
+    },
+    "Type": 1,
+    "Title": "Cross-Validation From Scratch and a Surprise at n=100",
+    "Url": "https://www.kenkoonwong.com/blog/crossvalidation/",
+    "Description": "Cross-Validation From Scratch and a Surprise at n=100",
+    "Metadata": {
+      "score": "4",
+      "author": "sebg",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-17T18:27:06.0465249+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49325061"
+    },
+    "Type": 1,
+    "Title": "Reticulum \u2013 Decentralized Mesh Network",
+    "Url": "https://reticulum.network/",
+    "Description": "Reticulum \u2013 Decentralized Mesh Network",
+    "Metadata": {
+      "score": "209",
+      "author": "sudo_cowsay",
+      "commentCount": "66"
+    },
+    "FetchedAt": "2026-08-17T18:27:06.1045234+00:00"
   }
 ]
