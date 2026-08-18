@@ -1,21 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:49338459"
-    },
-    "Type": 1,
-    "Title": "How Bluesky draws its logo on screenshots",
-    "Url": "https://timmarinin.net/2026/bluesky-screenshots/",
-    "Description": "How Bluesky draws its logo on screenshots",
-    "Metadata": {
-      "score": "172",
-      "author": "gavide",
-      "commentCount": "127"
-    },
-    "FetchedAt": "2026-08-18T00:46:27.8472162+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49339359"
     },
     "Type": 1,
@@ -28,81 +13,6 @@
       "commentCount": "19"
     },
     "FetchedAt": "2026-08-18T00:46:27.8916962+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49338328"
-    },
-    "Type": 1,
-    "Title": "Quake Shareware, a CD-ROM just a little too full",
-    "Url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-    "Description": "Quake Shareware, a CD-ROM just a little too full",
-    "Metadata": {
-      "score": "111",
-      "author": "shdon",
-      "commentCount": "53"
-    },
-    "FetchedAt": "2026-08-18T00:46:27.9358836+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49338285"
-    },
-    "Type": 1,
-    "Title": "Fairphone 6 and PostmarketOS working main camera",
-    "Url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-    "Description": "Fairphone 6 and PostmarketOS working main camera",
-    "Metadata": {
-      "score": "67",
-      "author": "pizzaiolo",
-      "commentCount": "14"
-    },
-    "FetchedAt": "2026-08-18T00:46:27.998614+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49334991"
-    },
-    "Type": 1,
-    "Title": "GPU Offload in Rust: Portable, Safe, and Fast",
-    "Url": "https://arxiv.org/abs/2608.13759",
-    "Description": "GPU Offload in Rust: Portable, Safe, and Fast",
-    "Metadata": {
-      "score": "152",
-      "author": "linggen",
-      "commentCount": "33"
-    },
-    "FetchedAt": "2026-08-18T00:46:28.0433456+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49330781"
-    },
-    "Type": 1,
-    "Title": "A Preview of DuckDB v2.0",
-    "Url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-    "Description": "A Preview of DuckDB v2.0",
-    "Metadata": {
-      "score": "518",
-      "author": "ibotty",
-      "commentCount": "91"
-    },
-    "FetchedAt": "2026-08-18T00:46:28.0885477+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49337602"
-    },
-    "Type": 1,
-    "Title": "GPT-5.6 Sol Pricing Cut by 50%",
-    "Url": "https://openrouter.ai/openai/gpt-5.6-sol",
-    "Description": "GPT-5.6 Sol Pricing Cut by 50%",
-    "Metadata": {
-      "score": "65",
-      "author": "Topfi",
-      "commentCount": "14"
-    },
-    "FetchedAt": "2026-08-18T00:46:28.1344917+00:00"
   },
   {
     "ExternalId": {
@@ -121,156 +31,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49331423"
-    },
-    "Type": 1,
-    "Title": "AI-Generated GitHub Copilot \u201CAutofix\u201D Allowed Compromise of Snowflake\u0027s Jira",
-    "Url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-    "Description": "AI-Generated GitHub Copilot \u201CAutofix\u201D Allowed Compromise of Snowflake\u0027s Jira",
-    "Metadata": {
-      "score": "309",
-      "author": "galnagli",
-      "commentCount": "123"
-    },
-    "FetchedAt": "2026-08-18T00:46:28.2237398+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49270194"
-    },
-    "Type": 1,
-    "Title": "Olo (Color)",
-    "Url": "https://en.wikipedia.org/wiki/Olo_(color)",
-    "Description": "Olo (Color)",
-    "Metadata": {
-      "score": "296",
-      "author": "inigyou",
-      "commentCount": "64"
-    },
-    "FetchedAt": "2026-08-18T00:46:28.2798385+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49336573"
-    },
-    "Type": 1,
-    "Title": "AI;DR (AI; Didn\u0027t Read)",
-    "Url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-    "Description": "AI;DR (AI; Didn\u0027t Read)",
-    "Metadata": {
-      "score": "559",
-      "author": "mooreds",
-      "commentCount": "346"
-    },
-    "FetchedAt": "2026-08-18T00:46:28.3243358+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49329575"
-    },
-    "Type": 1,
-    "Title": "GPT 5.6 Sol is the best \u0022vision\u0022 model OpenAI ever released",
-    "Url": "https://blog.roboflow.com/openai-gpt-5-6/",
-    "Description": "GPT 5.6 Sol is the best \u0022vision\u0022 model OpenAI ever released",
-    "Metadata": {
-      "score": "296",
-      "author": "plurby",
-      "commentCount": "152"
-    },
-    "FetchedAt": "2026-08-18T00:46:28.3687492+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49333344"
-    },
-    "Type": 1,
-    "Title": "Judge sets framework for Nine PBS to retrieve archival data",
-    "Url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
-    "Description": "Judge sets framework for Nine PBS to retrieve archival data",
-    "Metadata": {
-      "score": "130",
-      "author": "qingcharles",
-      "commentCount": "52"
-    },
-    "FetchedAt": "2026-08-18T00:46:28.4138507+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49333824"
-    },
-    "Type": 1,
-    "Title": "Sun Clock",
-    "Url": "https://sunclock.net/",
-    "Description": "Sun Clock",
-    "Metadata": {
-      "score": "164",
-      "author": "Gecko4072",
-      "commentCount": "54"
-    },
-    "FetchedAt": "2026-08-18T00:46:28.4580003+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49269966"
-    },
-    "Type": 1,
-    "Title": "The Road to MS-DOS 2.0",
-    "Url": "https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2",
-    "Description": "The Road to MS-DOS 2.0",
-    "Metadata": {
-      "score": "9",
-      "author": "whobre",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-08-18T00:46:28.5031462+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49337630"
-    },
-    "Type": 1,
-    "Title": "How do functions like alloca allocate memory from the stack?",
-    "Url": "https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617",
-    "Description": "How do functions like alloca allocate memory from the stack?",
-    "Metadata": {
-      "score": "19",
-      "author": "ingve",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-08-18T00:46:28.5475545+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49331220"
-    },
-    "Type": 1,
-    "Title": "How to disable or avoid intrusive AI",
-    "Url": "https://www.librarian.net/notoai/",
-    "Description": "How to disable or avoid intrusive AI",
-    "Metadata": {
-      "score": "248",
-      "author": "ColinWright",
-      "commentCount": "151"
-    },
-    "FetchedAt": "2026-08-18T00:46:28.5922834+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49332751"
-    },
-    "Type": 1,
-    "Title": "Launch HN: Speko (YC S26) \u2013 OpenRouter for Voice AI",
-    "Url": "https://speko.ai/",
-    "Description": "Hi HN! I\u0026#x27;m Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why.\u003Cp\u003EDemo: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=no2LY2gRh-c\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=no2LY2gRh-c\u003C/a\u003E\u003Cp\u003ETypical production voice agent is an ensemble of three models: STT, an LLM, and TTS.\u003Cp\u003EEach of those layers offers a dozen ",
-    "Metadata": {
-      "score": "89",
-      "author": "abdik",
-      "commentCount": "51"
-    },
-    "FetchedAt": "2026-08-18T00:46:28.6370952+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49338732"
     },
     "Type": 1,
@@ -286,21 +46,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49272891"
-    },
-    "Type": 1,
-    "Title": "A particle made of force: physicists say they\u0027ve found mysterious \u0027glueball\u0027",
-    "Url": "https://www.nature.com/articles/d41586-026-02498-1",
-    "Description": "A particle made of force: physicists say they\u0027ve found mysterious \u0027glueball\u0027",
-    "Metadata": {
-      "score": "96",
-      "author": "Brajeshwar",
-      "commentCount": "14"
-    },
-    "FetchedAt": "2026-08-18T00:46:28.7264656+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49335517"
     },
     "Type": 1,
@@ -313,21 +58,6 @@
       "commentCount": "3"
     },
     "FetchedAt": "2026-08-18T00:46:28.7713077+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49331033"
-    },
-    "Type": 1,
-    "Title": "Ask HN: Alternatives to GitHub",
-    "Url": "https://news.ycombinator.com/item?id=49331033",
-    "Description": "Github has been down consistently over the last few months - does it make sense to switch to alternatives?",
-    "Metadata": {
-      "score": "485",
-      "author": "dhruv3006",
-      "commentCount": "308"
-    },
-    "FetchedAt": "2026-08-18T00:46:28.8161043+00:00"
   },
   {
     "ExternalId": {
@@ -373,21 +103,6 @@
       "commentCount": "14"
     },
     "FetchedAt": "2026-08-18T00:46:28.9506305+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49338428"
-    },
-    "Type": 1,
-    "Title": "scScript for Linux",
-    "Url": "https://scapplications.com/",
-    "Description": "scScript for Linux",
-    "Metadata": {
-      "score": "10",
-      "author": "OptionOfT",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-08-18T00:46:28.9948094+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +163,455 @@
       "commentCount": "23"
     },
     "FetchedAt": "2026-08-18T00:46:29.1722936+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49338459"
+    },
+    "Type": 1,
+    "Title": "How Bluesky draws its logo on screenshots",
+    "Url": "https://timmarinin.net/2026/bluesky-screenshots/",
+    "Description": "How Bluesky draws its logo on screenshots",
+    "Metadata": {
+      "score": "393",
+      "author": "gavide",
+      "commentCount": "266"
+    },
+    "FetchedAt": "2026-08-18T06:28:57.4080225+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49337602"
+    },
+    "Type": 1,
+    "Title": "GPT-5.6 Sol Pricing Cut by 50%",
+    "Url": "https://openrouter.ai/openai/gpt-5.6-sol",
+    "Description": "GPT-5.6 Sol Pricing Cut by 50%",
+    "Metadata": {
+      "score": "327",
+      "author": "Topfi",
+      "commentCount": "171"
+    },
+    "FetchedAt": "2026-08-18T06:28:57.4525646+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49338328"
+    },
+    "Type": 1,
+    "Title": "Quake Shareware, a CD-ROM just a little too full",
+    "Url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+    "Description": "Quake Shareware, a CD-ROM just a little too full",
+    "Metadata": {
+      "score": "272",
+      "author": "shdon",
+      "commentCount": "115"
+    },
+    "FetchedAt": "2026-08-18T06:28:57.4856237+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49340299"
+    },
+    "Type": 1,
+    "Title": "The Benchmarkpocalypse",
+    "Url": "https://danluu.com/benchpocalypse/",
+    "Description": "The Benchmarkpocalypse",
+    "Metadata": {
+      "score": "54",
+      "author": "cyndunlop",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-08-18T06:28:57.5166492+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49285139"
+    },
+    "Type": 1,
+    "Title": "Shattered skeleton is first confirmed death from trebuchet",
+    "Url": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
+    "Description": "Shattered skeleton is first confirmed death from trebuchet",
+    "Metadata": {
+      "score": "47",
+      "author": "hermitcrab",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-08-18T06:28:57.5476006+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49330781"
+    },
+    "Type": 1,
+    "Title": "A Preview of DuckDB v2.0",
+    "Url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+    "Description": "A Preview of DuckDB v2.0",
+    "Metadata": {
+      "score": "595",
+      "author": "ibotty",
+      "commentCount": "109"
+    },
+    "FetchedAt": "2026-08-18T06:28:57.5784037+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49338285"
+    },
+    "Type": 1,
+    "Title": "Fairphone 6 and PostmarketOS working main camera",
+    "Url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+    "Description": "Fairphone 6 and PostmarketOS working main camera",
+    "Metadata": {
+      "score": "136",
+      "author": "pizzaiolo",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-08-18T06:28:57.6095245+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49323983"
+    },
+    "Type": 1,
+    "Title": "Wellington second-hand bookstore\u0027s mysterious orders",
+    "Url": "https://www.rnz.co.nz/life/books/wellington-second-hand-book-store-s-mysterious-orders",
+    "Description": "Wellington second-hand bookstore\u0027s mysterious orders",
+    "Metadata": {
+      "score": "55",
+      "author": "beanaroo",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-08-18T06:28:57.6417302+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49331423"
+    },
+    "Type": 1,
+    "Title": "AI-Generated GitHub Copilot \u201CAutofix\u201D Allowed Compromise of Snowflake\u0027s Jira",
+    "Url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+    "Description": "AI-Generated GitHub Copilot \u201CAutofix\u201D Allowed Compromise of Snowflake\u0027s Jira",
+    "Metadata": {
+      "score": "351",
+      "author": "galnagli",
+      "commentCount": "137"
+    },
+    "FetchedAt": "2026-08-18T06:28:57.6733458+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49288129"
+    },
+    "Type": 1,
+    "Title": "The 37signals Manager Playbook",
+    "Url": "https://basecamp.com/managers",
+    "Description": "The 37signals Manager Playbook",
+    "Metadata": {
+      "score": "23",
+      "author": "tosh",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-08-18T06:28:57.7073599+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49334991"
+    },
+    "Type": 1,
+    "Title": "GPU Offload in Rust: Portable, Safe, and Fast",
+    "Url": "https://arxiv.org/abs/2608.13759",
+    "Description": "GPU Offload in Rust: Portable, Safe, and Fast",
+    "Metadata": {
+      "score": "189",
+      "author": "linggen",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-08-18T06:28:57.7384217+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49270194"
+    },
+    "Type": 1,
+    "Title": "Olo (Color)",
+    "Url": "https://en.wikipedia.org/wiki/Olo_(color)",
+    "Description": "Olo (Color)",
+    "Metadata": {
+      "score": "388",
+      "author": "inigyou",
+      "commentCount": "74"
+    },
+    "FetchedAt": "2026-08-18T06:28:57.7693165+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49269966"
+    },
+    "Type": 1,
+    "Title": "The Road to MS-DOS 2.0",
+    "Url": "https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2",
+    "Description": "The Road to MS-DOS 2.0",
+    "Metadata": {
+      "score": "52",
+      "author": "whobre",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-08-18T06:28:57.8009466+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49329575"
+    },
+    "Type": 1,
+    "Title": "GPT 5.6 Sol is the best \u0022vision\u0022 model OpenAI ever released",
+    "Url": "https://blog.roboflow.com/openai-gpt-5-6/",
+    "Description": "GPT 5.6 Sol is the best \u0022vision\u0022 model OpenAI ever released",
+    "Metadata": {
+      "score": "327",
+      "author": "plurby",
+      "commentCount": "158"
+    },
+    "FetchedAt": "2026-08-18T06:28:57.833184+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49334409"
+    },
+    "Type": 1,
+    "Title": "An update on leaving Gmail for Fastmail",
+    "Url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+    "Description": "An update on leaving Gmail for Fastmail",
+    "Metadata": {
+      "score": "176",
+      "author": "neogodless",
+      "commentCount": "120"
+    },
+    "FetchedAt": "2026-08-18T06:28:57.8641737+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49337392"
+    },
+    "Type": 1,
+    "Title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+    "Url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+    "Description": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+    "Metadata": {
+      "score": "328",
+      "author": "DeepLogin",
+      "commentCount": "205"
+    },
+    "FetchedAt": "2026-08-18T06:28:57.8973574+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49336573"
+    },
+    "Type": 1,
+    "Title": "AI;DR (AI; Didn\u0027t Read)",
+    "Url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+    "Description": "AI;DR (AI; Didn\u0027t Read)",
+    "Metadata": {
+      "score": "758",
+      "author": "mooreds",
+      "commentCount": "490"
+    },
+    "FetchedAt": "2026-08-18T06:28:57.9283654+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49333344"
+    },
+    "Type": 1,
+    "Title": "Judge sets framework for Nine PBS to retrieve archival data",
+    "Url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
+    "Description": "Judge sets framework for Nine PBS to retrieve archival data",
+    "Metadata": {
+      "score": "154",
+      "author": "qingcharles",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-08-18T06:28:57.9599047+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49335600"
+    },
+    "Type": 1,
+    "Title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
+    "Url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
+    "Description": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
+    "Metadata": {
+      "score": "133",
+      "author": "bookofjoe",
+      "commentCount": "46"
+    },
+    "FetchedAt": "2026-08-18T06:28:57.9912915+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49336304"
+    },
+    "Type": 1,
+    "Title": "India has paved the way for charging merchants a fee on UPI transactions",
+    "Url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
+    "Description": "India has paved the way for charging merchants a fee on UPI transactions",
+    "Metadata": {
+      "score": "130",
+      "author": "monkey_monkey",
+      "commentCount": "156"
+    },
+    "FetchedAt": "2026-08-18T06:28:58.0225022+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49333824"
+    },
+    "Type": 1,
+    "Title": "Sun Clock",
+    "Url": "https://sunclock.net/",
+    "Description": "Sun Clock",
+    "Metadata": {
+      "score": "208",
+      "author": "Gecko4072",
+      "commentCount": "66"
+    },
+    "FetchedAt": "2026-08-18T06:28:58.0539931+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49331220"
+    },
+    "Type": 1,
+    "Title": "How to disable or avoid intrusive AI",
+    "Url": "https://www.librarian.net/notoai/",
+    "Description": "How to disable or avoid intrusive AI",
+    "Metadata": {
+      "score": "281",
+      "author": "ColinWright",
+      "commentCount": "165"
+    },
+    "FetchedAt": "2026-08-18T06:28:58.0847211+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49339097"
+    },
+    "Type": 1,
+    "Title": "Repair Cafe \u2013 Fix Your Broken Items",
+    "Url": "https://www.repaircafe.org/",
+    "Description": "Repair Cafe \u2013 Fix Your Broken Items",
+    "Metadata": {
+      "score": "81",
+      "author": "rglover",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-08-18T06:28:58.1162648+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49337630"
+    },
+    "Type": 1,
+    "Title": "How do functions like alloca allocate memory from the stack?",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617",
+    "Description": "How do functions like alloca allocate memory from the stack?",
+    "Metadata": {
+      "score": "48",
+      "author": "ingve",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-08-18T06:28:58.1472978+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49324256"
+    },
+    "Type": 1,
+    "Title": "Ghosts of the Past and Devils of the Present",
+    "Url": "https://thenewcuriosityshop.substack.com/p/ghosts-of-the-past-and-devils-of",
+    "Description": "Ghosts of the Past and Devils of the Present",
+    "Metadata": {
+      "score": "4",
+      "author": "benbreen",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-18T06:28:58.716405+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49332751"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Speko (YC S26) \u2013 OpenRouter for Voice AI",
+    "Url": "https://speko.ai/",
+    "Description": "Hi HN! I\u0026#x27;m Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why.\u003Cp\u003EDemo: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=no2LY2gRh-c\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=no2LY2gRh-c\u003C/a\u003E\u003Cp\u003ETypical production voice agent is an ensemble of three models: STT, an LLM, and TTS.\u003Cp\u003EEach of those layers offers a dozen ",
+    "Metadata": {
+      "score": "99",
+      "author": "abdik",
+      "commentCount": "58"
+    },
+    "FetchedAt": "2026-08-18T06:28:58.8004341+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49294913"
+    },
+    "Type": 1,
+    "Title": "A digestion of the proof of Sendov\u0027s conjecture",
+    "Url": "https://terrytao.wordpress.com/2026/08/12/a-digestion-of-the-proof-of-sendovs-conjecture/",
+    "Description": "A digestion of the proof of Sendov\u0027s conjecture",
+    "Metadata": {
+      "score": "22",
+      "author": "surprisetalk",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-08-18T06:28:58.8428493+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49272891"
+    },
+    "Type": 1,
+    "Title": "A particle made of force: physicists say they\u0027ve found mysterious \u0027glueball\u0027",
+    "Url": "https://www.nature.com/articles/d41586-026-02498-1",
+    "Description": "A particle made of force: physicists say they\u0027ve found mysterious \u0027glueball\u0027",
+    "Metadata": {
+      "score": "119",
+      "author": "Brajeshwar",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-08-18T06:28:58.8764709+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49331033"
+    },
+    "Type": 1,
+    "Title": "Ask HN: Alternatives to GitHub",
+    "Url": "https://news.ycombinator.com/item?id=49331033",
+    "Description": "Github has been down consistently over the last few months - does it make sense to switch to alternatives?",
+    "Metadata": {
+      "score": "558",
+      "author": "dhruv3006",
+      "commentCount": "355"
+    },
+    "FetchedAt": "2026-08-18T06:28:58.9328182+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49338428"
+    },
+    "Type": 1,
+    "Title": "scScript for Linux",
+    "Url": "https://scapplications.com/",
+    "Description": "scScript for Linux",
+    "Metadata": {
+      "score": "30",
+      "author": "OptionOfT",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-08-18T06:28:58.9848089+00:00"
   }
 ]
