@@ -316,36 +316,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49342719"
-    },
-    "Type": 1,
-    "Title": "Linux 7.3 improves performance when running out of vRAM",
-    "Url": "https://pixelcluster.dev/VRAM-Overcommit/",
-    "Description": "Linux 7.3 improves performance when running out of vRAM",
-    "Metadata": {
-      "score": "251",
-      "author": "flaburgan",
-      "commentCount": "75"
-    },
-    "FetchedAt": "2026-08-18T12:29:13.9234166+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49343559"
-    },
-    "Type": 1,
-    "Title": "Google buys crashed airline Spirit\u0027s data at auction, because AI",
-    "Url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-    "Description": "Google buys crashed airline Spirit\u0027s data at auction, because AI",
-    "Metadata": {
-      "score": "145",
-      "author": "pseudolus",
-      "commentCount": "74"
-    },
-    "FetchedAt": "2026-08-18T12:29:13.9657171+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49338459"
     },
     "Type": 1,
@@ -388,36 +358,6 @@
       "commentCount": "171"
     },
     "FetchedAt": "2026-08-18T12:29:14.0939843+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49342530"
-    },
-    "Type": 1,
-    "Title": "Rethinking Database Programming",
-    "Url": "https://acadia.engineering/blog/rethinking-database-programming",
-    "Description": "Rethinking Database Programming",
-    "Metadata": {
-      "score": "101",
-      "author": "honungsburk",
-      "commentCount": "48"
-    },
-    "FetchedAt": "2026-08-18T12:29:14.1365316+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49272631"
-    },
-    "Type": 1,
-    "Title": "Teaching my kid to code with a modern MUD",
-    "Url": "https://tau.dev/2026/08/07/canon",
-    "Description": "Teaching my kid to code with a modern MUD",
-    "Metadata": {
-      "score": "9",
-      "author": "andrewjanke",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-08-18T12:29:14.1801096+00:00"
   },
   {
     "ExternalId": {
@@ -763,5 +703,455 @@
       "commentCount": "58"
     },
     "FetchedAt": "2026-08-18T12:29:15.2075805+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49348751"
+    },
+    "Type": 1,
+    "Title": "Claude Code weekly limits reduce by a third tomorrow",
+    "Url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+    "Description": "Claude Code weekly limits reduce by a third tomorrow",
+    "Metadata": {
+      "score": "158",
+      "author": "tyre",
+      "commentCount": "97"
+    },
+    "FetchedAt": "2026-08-18T18:25:37.8903946+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49349147"
+    },
+    "Type": 1,
+    "Title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+    "Url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+    "Description": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+    "Metadata": {
+      "score": "81",
+      "author": "cwwc",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-08-18T18:25:37.9223542+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49344825"
+    },
+    "Type": 1,
+    "Title": "Using the railway network as a flatbed scanner",
+    "Url": "https://philo.gay/linecam/",
+    "Description": "Using the railway network as a flatbed scanner",
+    "Metadata": {
+      "score": "290",
+      "author": "otherayden",
+      "commentCount": "52"
+    },
+    "FetchedAt": "2026-08-18T18:25:37.9518496+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49345220"
+    },
+    "Type": 1,
+    "Title": "Fixing a bricked Framework laptop",
+    "Url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+    "Description": "Fixing a bricked Framework laptop",
+    "Metadata": {
+      "score": "238",
+      "author": "jp_sc",
+      "commentCount": "149"
+    },
+    "FetchedAt": "2026-08-18T18:25:37.9817272+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49349898"
+    },
+    "Type": 1,
+    "Title": "Turbovec \u2013 Google\u0027s TurboQuant for vector search in Rust",
+    "Url": "https://github.com/RyanCodrai/turbovec",
+    "Description": "Turbovec \u2013 Google\u0027s TurboQuant for vector search in Rust",
+    "Metadata": {
+      "score": "8",
+      "author": "fittingopposite",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.0116493+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49345263"
+    },
+    "Type": 1,
+    "Title": "The Amazon tax",
+    "Url": "https://seths.blog/2026/08/the-amazon-tax/",
+    "Description": "The Amazon tax",
+    "Metadata": {
+      "score": "532",
+      "author": "herbertl",
+      "commentCount": "373"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.0413968+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49334209"
+    },
+    "Type": 1,
+    "Title": "Cursor launches Origin, GitHub alternative",
+    "Url": "https://cursor.com/changelog/origin-code-hosting",
+    "Description": "Cursor launches Origin, GitHub alternative",
+    "Metadata": {
+      "score": "251",
+      "author": "tomasreimers",
+      "commentCount": "202"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.0716878+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49348136"
+    },
+    "Type": 1,
+    "Title": "Launch HN: machine0 (YC S26) \u2013 Persistent CPU and GPU VMs from the CLI",
+    "Url": "https://machine0.io",
+    "Description": "Hi HN! I\u2019m Barnaby, founder of machine0 (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;machine0.io\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;machine0.io\u003C/a\u003E). I\u2019m building a CLI for long horizon agent compute: \u0060machine0 new mybox\u0060 gives your agent a persistent cloud VM, billed by the minute, from $0.013\u0026#x2F;hr up to 60 vCPU \u0026#x2F; 240 GB RAM and GPUs (H100s, H200s etc), with 99.99% VM level uptime. Agents self drive via CLI or MCP.\u003Cp\u003EDemo: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=gyllkZ0M04E\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026",
+    "Metadata": {
+      "score": "23",
+      "author": "bwm",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.1019282+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49342719"
+    },
+    "Type": 1,
+    "Title": "Linux 7.3 improves performance when running out of vRAM",
+    "Url": "https://pixelcluster.dev/VRAM-Overcommit/",
+    "Description": "Linux 7.3 improves performance when running out of vRAM",
+    "Metadata": {
+      "score": "430",
+      "author": "flaburgan",
+      "commentCount": "191"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.1332949+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49345476"
+    },
+    "Type": 1,
+    "Title": "Python Polars Cheatsheet (based on our O\u0027Reilly book)",
+    "Url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+    "Description": "Python Polars Cheatsheet (based on our O\u0027Reilly book)",
+    "Metadata": {
+      "score": "104",
+      "author": "jeroenjanssens",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.1643126+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49297150"
+    },
+    "Type": 1,
+    "Title": "We\u0027ve flown a radiation-blocking vest to the Moon and back, and it worked",
+    "Url": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
+    "Description": "We\u0027ve flown a radiation-blocking vest to the Moon and back, and it worked",
+    "Metadata": {
+      "score": "23",
+      "author": "rbanffy",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.1944599+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49310602"
+    },
+    "Type": 1,
+    "Title": "Splitting a Git Commit",
+    "Url": "https://blog.gnoack.org/post/git-history-split",
+    "Description": "Splitting a Git Commit",
+    "Metadata": {
+      "score": "75",
+      "author": "signa11",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.2330538+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49348152"
+    },
+    "Type": 1,
+    "Title": "Superpowers, Not Superintelligence",
+    "Url": "https://bond.now/news/superpowers-not-superintelligence",
+    "Description": "Superpowers, Not Superintelligence",
+    "Metadata": {
+      "score": "18",
+      "author": "edbernays",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.2632607+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49272631"
+    },
+    "Type": 1,
+    "Title": "Teaching my kid to code with a modern MUD",
+    "Url": "https://tau.dev/2026/08/07/canon",
+    "Description": "Teaching my kid to code with a modern MUD",
+    "Metadata": {
+      "score": "169",
+      "author": "andrewjanke",
+      "commentCount": "50"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.2926597+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49334960"
+    },
+    "Type": 1,
+    "Title": "Memory prices climb 500% in 12 months",
+    "Url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
+    "Description": "Memory prices climb 500% in 12 months",
+    "Metadata": {
+      "score": "207",
+      "author": "haunter",
+      "commentCount": "158"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.3225824+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49313346"
+    },
+    "Type": 1,
+    "Title": "Ask HN: I\u0027ve quit six systems for tracking my illness. What works?",
+    "Url": "https://news.ycombinator.com/item?id=49313346",
+    "Description": "Hey everyone, I am a 20 year old college student who was recently diagnosed with seronegative spondyloarthropathy. Over the last 3 years, Ive tried apps, paper journal, Google Sheets, and notes to track\u0026#x2F;catalogue my journey. I always ended up quitting within 2-4 weeks and not keeping accurate track.\u003Cp\u003EIs this a common experience or do I just have to be better at tracking? Is there a unique\u0026#x2F;non habit-building way to track\u0026#x2F;catalogue\u0026#x2F;recall?\u003Cp\u003EIm building something for this (par",
+    "Metadata": {
+      "score": "32",
+      "author": "Abh1Works",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.3528787+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49349159"
+    },
+    "Type": 1,
+    "Title": "Show HN: macOS data protection keychain for Electron apps",
+    "Url": "https://github.com/biw/keychain-store",
+    "Description": "Hey HN,\u003Cp\u003EI\u0026#x27;ve been working on Hansel [1] (an encrypted personal data store you can query with agents), and there wasn\u0026#x27;t a good way to use the modern macOS Data Protection Keychain.\u003Cp\u003EElectron\u0026#x27;s safeStorage [2] uses the legacy file-based keychain, which allows other apps\u0026#x2F;agents to query it with the \u0060security\u0060 CLI. Not great when you have a dozen agents running in the background! The Data Protection Keychain is nice because it limits access via code-signing access groups and l",
+    "Metadata": {
+      "score": "4",
+      "author": "biwills",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.3828689+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49345843"
+    },
+    "Type": 1,
+    "Title": "Babies born under sugar rationing grew into adults with lower cancer risk",
+    "Url": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
+    "Description": "Babies born under sugar rationing grew into adults with lower cancer risk",
+    "Metadata": {
+      "score": "159",
+      "author": "zeristor",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.438622+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49309248"
+    },
+    "Type": 1,
+    "Title": "Evolve: An incremental game about evolving a civilization",
+    "Url": "https://pmotschmann.github.io/Evolve/",
+    "Description": "Evolve: An incremental game about evolving a civilization",
+    "Metadata": {
+      "score": "5",
+      "author": "frozenseven",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.4704911+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49344811"
+    },
+    "Type": 1,
+    "Title": "Fairphone is now officially available in the United States",
+    "Url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+    "Description": "Fairphone is now officially available in the United States",
+    "Metadata": {
+      "score": "278",
+      "author": "Vinnl",
+      "commentCount": "136"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.5006653+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49347178"
+    },
+    "Type": 1,
+    "Title": "Show HN: Openleetcode \u2013 local LeetCode runner where tests live in the repo",
+    "Url": "https://github.com/therepanic/openleetcode",
+    "Description": "You write a standard solution, just like on LeetCode, and run it through the CLI. It identifies the problem by ID or title, executes your code against local test cases, and shows the result.\u003Cp\u003EIt currently supports around 1.4k problems and multiple languages, including Python, C\u002B\u002B, Rust, Java, Go, TypeScript, Swift, and others.\u003Cp\u003EThe project is still an MVP. System design, SQL, and concurrency problems are not supported yet, but support for more problem types is planned.\u003Cp\u003EMade in Haskell!",
+    "Metadata": {
+      "score": "17",
+      "author": "therepanic",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.54201+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49346538"
+    },
+    "Type": 1,
+    "Title": "Code-native generation of highly programmable 3D assets (2026)",
+    "Url": "https://arxiv.org/abs/2607.22738",
+    "Description": "Code-native generation of highly programmable 3D assets (2026)",
+    "Metadata": {
+      "score": "34",
+      "author": "baigy",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.5720779+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49332981"
+    },
+    "Type": 1,
+    "Title": "Universal health coverage could save $1T and 114k lives a year: study",
+    "Url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+    "Description": "Universal health coverage could save $1T and 114k lives a year: study",
+    "Metadata": {
+      "score": "478",
+      "author": "karakoram",
+      "commentCount": "589"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.6030166+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49343559"
+    },
+    "Type": 1,
+    "Title": "Google has acquired the data of failed US airline Spirit",
+    "Url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+    "Description": "Google has acquired the data of failed US airline Spirit",
+    "Metadata": {
+      "score": "491",
+      "author": "pseudolus",
+      "commentCount": "344"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.6335469+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49340710"
+    },
+    "Type": 1,
+    "Title": "California\u0027s new tire efficiency rules could save drivers $1B a year",
+    "Url": "https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/",
+    "Description": "California\u0027s new tire efficiency rules could save drivers $1B a year",
+    "Metadata": {
+      "score": "77",
+      "author": "littlexsparkee",
+      "commentCount": "106"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.6647102+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49349283"
+    },
+    "Type": 1,
+    "Title": "Columbia House, Mail-Order Media Company, Is Shuttering",
+    "Url": "https://consequence.net/2026/08/columbia-house-closing-down/",
+    "Description": "Columbia House, Mail-Order Media Company, Is Shuttering",
+    "Metadata": {
+      "score": "5",
+      "author": "speckx",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.695632+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49342530"
+    },
+    "Type": 1,
+    "Title": "Rethinking Database Programming",
+    "Url": "https://acadia.engineering/blog/rethinking-database-programming",
+    "Description": "Rethinking Database Programming",
+    "Metadata": {
+      "score": "195",
+      "author": "honungsburk",
+      "commentCount": "102"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.7262707+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49344654"
+    },
+    "Type": 1,
+    "Title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
+    "Url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
+    "Description": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
+    "Metadata": {
+      "score": "207",
+      "author": "DeepLogin",
+      "commentCount": "128"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.7572535+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49332495"
+    },
+    "Type": 1,
+    "Title": "Ask HN: GitHub employees what\u0027s going on? Why?",
+    "Url": "https://news.ycombinator.com/item?id=49332495",
+    "Description": "Pretty self explanatory. Could you folks shed some light on why these issues keep happening?\u003Cp\u003EI\u2019ve noticed most posts and replies are just people coming to their own conclusions based on whatever published data.\u003Cp\u003EI think it would be helpful to get some actual, non-corporate\u0026#x2F;marketing information on the goings-on by those that actually see what\u2019s happening on the inside.\u003Cp\u003EThanks",
+    "Metadata": {
+      "score": "138",
+      "author": "sharts",
+      "commentCount": "102"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.788651+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49348356"
+    },
+    "Type": 1,
+    "Title": "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows",
+    "Url": "https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows",
+    "Description": "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows",
+    "Metadata": {
+      "score": "31",
+      "author": "toomuchtodo",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-08-18T18:25:38.8197522+00:00"
   }
 ]
