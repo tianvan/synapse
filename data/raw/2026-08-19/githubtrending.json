@@ -1,156 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:harry0703/MoneyPrinterTurbo"
-    },
-    "Type": 0,
-    "Title": "harry0703/MoneyPrinterTurbo",
-    "Url": "https://github.com/harry0703/MoneyPrinterTurbo",
-    "Description": "\u5229\u7528 AI \u5927\u6A21\u578B\u548C\u81EA\u52A8\u5316\u5DE5\u4F5C\u6D41\uFF0C\u6839\u636E\u4E3B\u9898\u6216\u5173\u952E\u8BCD\u4E00\u952E\u751F\u6210\u9AD8\u6E05\u77ED\u89C6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
-    "Metadata": {
-      "owner": "harry0703",
-      "repo": "MoneyPrinterTurbo",
-      "language": "Python",
-      "stars": "2,304",
-      "topics": "ai-video-generator, content-creation, ffmpeg, instagram-reels, llm, python, short-video, subtitles, text-to-speech, tiktok, video-automation, video-workflow, workflow-automation, youtube-shorts"
-    },
-    "FetchedAt": "2026-08-19T00:47:07.2387863+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:chaitanyagiri/munder-difflin"
-    },
-    "Type": 0,
-    "Title": "chaitanyagiri/munder-difflin",
-    "Url": "https://github.com/chaitanyagiri/munder-difflin",
-    "Description": "local multi-agent harness",
-    "Metadata": {
-      "owner": "chaitanyagiri",
-      "repo": "munder-difflin",
-      "language": "TypeScript",
-      "stars": "306",
-      "topics": "agents, claude-code, free, harness, harness-engineering, memory"
-    },
-    "FetchedAt": "2026-08-19T00:47:07.3680011+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:akitaonrails/ai-memory"
-    },
-    "Type": 0,
-    "Title": "akitaonrails/ai-memory",
-    "Url": "https://github.com/akitaonrails/ai-memory",
-    "Description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-    "Metadata": {
-      "owner": "akitaonrails",
-      "repo": "ai-memory",
-      "language": "Rust",
-      "stars": "648"
-    },
-    "FetchedAt": "2026-08-19T00:47:07.5121328+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:volcengine/OpenViking"
-    },
-    "Type": 0,
-    "Title": "volcengine/OpenViking",
-    "Url": "https://github.com/volcengine/OpenViking",
-    "Description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "Metadata": {
-      "owner": "volcengine",
-      "repo": "OpenViking",
-      "language": "Python",
-      "stars": "213",
-      "topics": "agent-memory, agent-plugins, agentic-rag, context-database, dsh-plugin, self-evolving"
-    },
-    "FetchedAt": "2026-08-19T00:47:07.6252598+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:public-apis/public-apis"
-    },
-    "Type": 0,
-    "Title": "public-apis/public-apis",
-    "Url": "https://github.com/public-apis/public-apis",
-    "Description": "A collective list of free APIs",
-    "Metadata": {
-      "owner": "public-apis",
-      "repo": "public-apis",
-      "language": "Python",
-      "stars": "1,005",
-      "topics": "api, apis, dataset, development, free, list, lists, open-source, public, public-api, public-apis, resources, software"
-    },
-    "FetchedAt": "2026-08-19T00:47:07.7372081+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:basecamp/omarchy"
-    },
-    "Type": 0,
-    "Title": "basecamp/omarchy",
-    "Url": "https://github.com/basecamp/omarchy",
-    "Description": "Beautiful, Modern \u0026 Opinionated Linux",
-    "Metadata": {
-      "owner": "basecamp",
-      "repo": "omarchy",
-      "language": "Shell",
-      "stars": "356"
-    },
-    "FetchedAt": "2026-08-19T00:47:07.8587725+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:agalwood/Motrix"
-    },
-    "Type": 0,
-    "Title": "agalwood/Motrix",
-    "Url": "https://github.com/agalwood/Motrix",
-    "Description": "A full-featured download manager.",
-    "Metadata": {
-      "owner": "agalwood",
-      "repo": "Motrix",
-      "language": "TypeScript",
-      "stars": "609",
-      "topics": "aria2, bittorrent, bt, download, download-manager, electron, linux, mac, macos, magnet, motrix, torrent, windows"
-    },
-    "FetchedAt": "2026-08-19T00:47:07.976594+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:NawfalMotii79/PLFM_RADAR"
-    },
-    "Type": 0,
-    "Title": "NawfalMotii79/PLFM_RADAR",
-    "Url": "https://github.com/NawfalMotii79/PLFM_RADAR",
-    "Description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-    "Metadata": {
-      "owner": "NawfalMotii79",
-      "repo": "PLFM_RADAR",
-      "language": "PLSQL",
-      "stars": "192"
-    },
-    "FetchedAt": "2026-08-19T00:47:08.0811307+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:jundot/omlx"
-    },
-    "Type": 0,
-    "Title": "jundot/omlx",
-    "Url": "https://github.com/jundot/omlx",
-    "Description": "LLM inference server with continuous batching \u0026 SSD caching for Apple Silicon \u2014 managed from the macOS menu bar",
-    "Metadata": {
-      "owner": "jundot",
-      "repo": "omlx",
-      "language": "Python",
-      "stars": "370",
-      "topics": "apple-silicon, inference-server, llm, macos, mlx, openai-api"
-    },
-    "FetchedAt": "2026-08-19T00:47:08.1772921+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:bojieli/ai-agent-book"
     },
     "Type": 0,
@@ -168,6 +18,156 @@
   },
   {
     "ExternalId": {
+      "Value": "github:harry0703/MoneyPrinterTurbo"
+    },
+    "Type": 0,
+    "Title": "harry0703/MoneyPrinterTurbo",
+    "Url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "Description": "\u5229\u7528 AI \u5927\u6A21\u578B\u548C\u81EA\u52A8\u5316\u5DE5\u4F5C\u6D41\uFF0C\u6839\u636E\u4E3B\u9898\u6216\u5173\u952E\u8BCD\u4E00\u952E\u751F\u6210\u9AD8\u6E05\u77ED\u89C6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "Metadata": {
+      "owner": "harry0703",
+      "repo": "MoneyPrinterTurbo",
+      "language": "Python",
+      "stars": "2,304",
+      "topics": "ai-video-generator, content-creation, ffmpeg, instagram-reels, llm, python, short-video, subtitles, text-to-speech, tiktok, video-automation, video-workflow, workflow-automation, youtube-shorts"
+    },
+    "FetchedAt": "2026-08-19T06:29:40.8063733+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:chaitanyagiri/munder-difflin"
+    },
+    "Type": 0,
+    "Title": "chaitanyagiri/munder-difflin",
+    "Url": "https://github.com/chaitanyagiri/munder-difflin",
+    "Description": "local multi-agent harness",
+    "Metadata": {
+      "owner": "chaitanyagiri",
+      "repo": "munder-difflin",
+      "language": "TypeScript",
+      "stars": "306",
+      "topics": "agents, claude-code, free, harness, harness-engineering, memory"
+    },
+    "FetchedAt": "2026-08-19T06:29:41.0811997+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:akitaonrails/ai-memory"
+    },
+    "Type": 0,
+    "Title": "akitaonrails/ai-memory",
+    "Url": "https://github.com/akitaonrails/ai-memory",
+    "Description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "Metadata": {
+      "owner": "akitaonrails",
+      "repo": "ai-memory",
+      "language": "Rust",
+      "stars": "648"
+    },
+    "FetchedAt": "2026-08-19T06:29:41.2490327+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:volcengine/OpenViking"
+    },
+    "Type": 0,
+    "Title": "volcengine/OpenViking",
+    "Url": "https://github.com/volcengine/OpenViking",
+    "Description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "Metadata": {
+      "owner": "volcengine",
+      "repo": "OpenViking",
+      "language": "Python",
+      "stars": "213",
+      "topics": "agent-memory, agent-plugins, agentic-rag, context-database, dsh-plugin, self-evolving"
+    },
+    "FetchedAt": "2026-08-19T06:29:41.4218976+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:public-apis/public-apis"
+    },
+    "Type": 0,
+    "Title": "public-apis/public-apis",
+    "Url": "https://github.com/public-apis/public-apis",
+    "Description": "A collective list of free APIs",
+    "Metadata": {
+      "owner": "public-apis",
+      "repo": "public-apis",
+      "language": "Python",
+      "stars": "1,005",
+      "topics": "api, apis, dataset, development, free, list, lists, open-source, public, public-api, public-apis, resources, software"
+    },
+    "FetchedAt": "2026-08-19T06:29:41.605676+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:basecamp/omarchy"
+    },
+    "Type": 0,
+    "Title": "basecamp/omarchy",
+    "Url": "https://github.com/basecamp/omarchy",
+    "Description": "Beautiful, Modern \u0026 Opinionated Linux",
+    "Metadata": {
+      "owner": "basecamp",
+      "repo": "omarchy",
+      "language": "Shell",
+      "stars": "356"
+    },
+    "FetchedAt": "2026-08-19T06:29:41.772623+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:agalwood/Motrix"
+    },
+    "Type": 0,
+    "Title": "agalwood/Motrix",
+    "Url": "https://github.com/agalwood/Motrix",
+    "Description": "A full-featured download manager.",
+    "Metadata": {
+      "owner": "agalwood",
+      "repo": "Motrix",
+      "language": "TypeScript",
+      "stars": "609",
+      "topics": "aria2, bittorrent, bt, download, download-manager, electron, linux, mac, macos, magnet, motrix, torrent, windows"
+    },
+    "FetchedAt": "2026-08-19T06:29:41.9265879+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NawfalMotii79/PLFM_RADAR"
+    },
+    "Type": 0,
+    "Title": "NawfalMotii79/PLFM_RADAR",
+    "Url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+    "Description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+    "Metadata": {
+      "owner": "NawfalMotii79",
+      "repo": "PLFM_RADAR",
+      "language": "PLSQL",
+      "stars": "192"
+    },
+    "FetchedAt": "2026-08-19T06:29:42.1224317+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jundot/omlx"
+    },
+    "Type": 0,
+    "Title": "jundot/omlx",
+    "Url": "https://github.com/jundot/omlx",
+    "Description": "LLM inference server with continuous batching \u0026 SSD caching for Apple Silicon \u2014 managed from the macOS menu bar",
+    "Metadata": {
+      "owner": "jundot",
+      "repo": "omlx",
+      "language": "Python",
+      "stars": "370",
+      "topics": "apple-silicon, inference-server, llm, macos, mlx, openai-api"
+    },
+    "FetchedAt": "2026-08-19T06:29:42.3141061+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:genlayerlabs/genlayer-project-boilerplate"
     },
     "Type": 0,
@@ -180,6 +180,6 @@
       "language": "TypeScript",
       "stars": "535"
     },
-    "FetchedAt": "2026-08-19T00:47:08.4208273+00:00"
+    "FetchedAt": "2026-08-19T06:29:42.4758061+00:00"
   }
 ]
