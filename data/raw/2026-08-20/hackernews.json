@@ -346,21 +346,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49372583"
-    },
-    "Type": 1,
-    "Title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-    "Url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-    "Description": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-    "Metadata": {
-      "score": "168",
-      "author": "emctech",
-      "commentCount": "47"
-    },
-    "FetchedAt": "2026-08-20T12:31:16.6106537+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49373269"
     },
     "Type": 1,
@@ -373,36 +358,6 @@
       "commentCount": "35"
     },
     "FetchedAt": "2026-08-20T12:31:16.6560897+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49371006"
-    },
-    "Type": 1,
-    "Title": "Windows brings out the Rorschach test in everyone (2003)",
-    "Url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
-    "Description": "Windows brings out the Rorschach test in everyone (2003)",
-    "Metadata": {
-      "score": "247",
-      "author": "luu",
-      "commentCount": "94"
-    },
-    "FetchedAt": "2026-08-20T12:31:16.7013506+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49373456"
-    },
-    "Type": 1,
-    "Title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-    "Url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-    "Description": "I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes\u0026#x2F;sec on an iPhone 15).\u003Cp\u003EThe idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then continues what you played, entirely on-device.\u003Cp\u003EThe app is free if anyone wants to try it. Happy to answer questions about the model, training, Core ML, or the many things that didn\u0026#x27;t work.",
-    "Metadata": {
-      "score": "16",
-      "author": "simedw",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-08-20T12:31:16.74714+00:00"
   },
   {
     "ExternalId": {
@@ -778,5 +733,455 @@
       "commentCount": "9"
     },
     "FetchedAt": "2026-08-20T12:31:17.8862401+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49347543"
+    },
+    "Type": 1,
+    "Title": "I like \u0027em thick: an apology to my English teachers",
+    "Url": "https://www.experimental-history.com/p/i-like-em-thick",
+    "Description": "I like \u0027em thick: an apology to my English teachers",
+    "Metadata": {
+      "score": "296",
+      "author": "Ariarule",
+      "commentCount": "131"
+    },
+    "FetchedAt": "2026-08-20T18:26:57.6026936+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49372583"
+    },
+    "Type": 1,
+    "Title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+    "Url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+    "Description": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+    "Metadata": {
+      "score": "690",
+      "author": "emctech",
+      "commentCount": "228"
+    },
+    "FetchedAt": "2026-08-20T18:26:57.6378476+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49362689"
+    },
+    "Type": 1,
+    "Title": "HTML Can Do That",
+    "Url": "https://chrisburnell.com/html-can-do-that/",
+    "Description": "HTML Can Do That",
+    "Metadata": {
+      "score": "317",
+      "author": "encyclopedism",
+      "commentCount": "89"
+    },
+    "FetchedAt": "2026-08-20T18:26:57.6719389+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49376265"
+    },
+    "Type": 1,
+    "Title": "Linux 7.2 Released",
+    "Url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+    "Description": "Linux 7.2 Released",
+    "Metadata": {
+      "score": "64",
+      "author": "mariuz",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-08-20T18:26:57.7059801+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49368886"
+    },
+    "Type": 1,
+    "Title": "CIA funding helped keep NeXT afloat in the 80s",
+    "Url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1\u0026reflink=desktopwebshare_permalink",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;JfB5V\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;JfB5V\u003C/a\u003E",
+    "Metadata": {
+      "score": "198",
+      "author": "EwanG",
+      "commentCount": "103"
+    },
+    "FetchedAt": "2026-08-20T18:26:57.7407554+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49373456"
+    },
+    "Type": 1,
+    "Title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+    "Url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+    "Description": "I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes\u0026#x2F;sec on an iPhone 15).\u003Cp\u003EThe idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then continues what you played, entirely on-device.\u003Cp\u003EThe app is free if anyone wants to try it. Happy to answer questions about the model, training, Core ML, or the many things that didn\u0026#x27;t work.",
+    "Metadata": {
+      "score": "368",
+      "author": "simedw",
+      "commentCount": "88"
+    },
+    "FetchedAt": "2026-08-20T18:26:57.7751992+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49377853"
+    },
+    "Type": 1,
+    "Title": "I should have loved biology",
+    "Url": "https://jsomers.net/i-should-have-loved-biology/",
+    "Description": "I should have loved biology",
+    "Metadata": {
+      "score": "15",
+      "author": "tyre",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-08-20T18:26:57.809834+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49377660"
+    },
+    "Type": 1,
+    "Title": "Show HN: We chased a weather balloon across Montana and never found it",
+    "Url": "https://radi8.dev/blog/uplink/",
+    "Description": "Since April, I have been working with Sam Flynn (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;drook.dev\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;drook.dev\u003C/a\u003E) to make this balloon payload, UpLink. We did a similar launch last year with Hack Club but this was our first independent launch.\u003Cp\u003EUpLink was a 491 gram payload testing the insulation properties of 3D printing filaments, while also transmitting 320x240 images over a radio link -- up from the 18x10 images last year!\u003Cp\u003EThis is a writeup on our engineering process,",
+    "Metadata": {
+      "score": "20",
+      "author": "radeeyate",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-08-20T18:26:57.8454621+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49377248"
+    },
+    "Type": 1,
+    "Title": "Sixtyfour (YC P25) Is Hiring",
+    "Url": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
+    "Description": "Sixtyfour (YC P25) Is Hiring",
+    "Metadata": {
+      "score": "1",
+      "author": "HPMOR",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-20T18:26:57.8810773+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49374269"
+    },
+    "Type": 1,
+    "Title": "Malicious Rust crate Arrayref runs a build-time payload",
+    "Url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;blog.rust-lang.org\u0026#x2F;2026\u0026#x2F;08\u0026#x2F;20\u0026#x2F;supply-chain-attack-on-arrayref\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;blog.rust-lang.org\u0026#x2F;2026\u0026#x2F;08\u0026#x2F;20\u0026#x2F;supply-chain-attack-on...\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;rustsec\u0026#x2F;advisory-db\u0026#x2F;issues\u0026#x2F;3161\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;rustsec\u0026#x2F;advisory-db\u0026#x2F;issues\u0026#x2F;3161\u003C/a\u003E",
+    "Metadata": {
+      "score": "281",
+      "author": "abhisek",
+      "commentCount": "230"
+    },
+    "FetchedAt": "2026-08-20T18:26:57.9160946+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49374287"
+    },
+    "Type": 1,
+    "Title": "DiffusionGemma Technical Report",
+    "Url": "https://arxiv.org/abs/2608.00146",
+    "Description": "DiffusionGemma Technical Report",
+    "Metadata": {
+      "score": "104",
+      "author": "gmays",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-08-20T18:26:57.950364+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49376332"
+    },
+    "Type": 1,
+    "Title": "How to compromise your system with a job interview",
+    "Url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
+    "Description": "How to compromise your system with a job interview",
+    "Metadata": {
+      "score": "54",
+      "author": "codedge",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-08-20T18:26:57.985242+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49377249"
+    },
+    "Type": 1,
+    "Title": "The Defense-Tech Bubble Is Headed for Consolidation",
+    "Url": "https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation",
+    "Description": "The Defense-Tech Bubble Is Headed for Consolidation",
+    "Metadata": {
+      "score": "19",
+      "author": "asdfwebdf",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-08-20T18:26:58.0197481+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49373932"
+    },
+    "Type": 1,
+    "Title": "Xorg-server 26.1.0 rc1",
+    "Url": "https://lists.x.org/archives/xorg-announce/2026-August/003741.html",
+    "Description": "Xorg-server 26.1.0 rc1",
+    "Metadata": {
+      "score": "82",
+      "author": "st_goliath",
+      "commentCount": "41"
+    },
+    "FetchedAt": "2026-08-20T18:26:58.0544855+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49376211"
+    },
+    "Type": 1,
+    "Title": "Generic Methods in Go 1.27",
+    "Url": "https://dominik.info/blog/go-generic-methods",
+    "Description": "Generic Methods in Go 1.27",
+    "Metadata": {
+      "score": "41",
+      "author": "EspressoGPT",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-08-20T18:26:58.089954+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49377535"
+    },
+    "Type": 1,
+    "Title": "URL shortener links stored in your ATProto PDS",
+    "Url": "https://atpr.to/",
+    "Description": "URL shortener links stored in your ATProto PDS",
+    "Metadata": {
+      "score": "12",
+      "author": "jcbhmr",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-08-20T18:26:58.1247389+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49377923"
+    },
+    "Type": 1,
+    "Title": "Optimizing things in the USSR (2016)",
+    "Url": "https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/",
+    "Description": "Optimizing things in the USSR (2016)",
+    "Metadata": {
+      "score": "6",
+      "author": "cassepipe",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-08-20T18:26:58.1598864+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49374830"
+    },
+    "Type": 1,
+    "Title": "Show HN: Omacosy \u2013 Omarchy-style tiling desktop for macOS, no SIP",
+    "Url": "https://github.com/paulsp94/omacosy",
+    "Description": "I have been using omarchy on my tower since nearly a year now, shortly after it was released first. I really love the experience I am having with it but I still use my macbook for daly work, so I wanted to recreate a similar experience on it. Thats why I created omacosy, a setup for tiling windows, custom menu bar, some themes from omarchy, focus follows mouse, focus rings around windwos, some mac flavors with trackpad events and a custom mission control overview for your workspaces.\u003Cp\u003EI used Ae",
+    "Metadata": {
+      "score": "10",
+      "author": "paulsp",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-08-20T18:26:58.194794+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49348079"
+    },
+    "Type": 1,
+    "Title": "Mojo is now open source",
+    "Url": "https://www.modular.com/blog/mojo-open-source",
+    "Description": "Mojo is now open source",
+    "Metadata": {
+      "score": "256",
+      "author": "visheshdembla",
+      "commentCount": "61"
+    },
+    "FetchedAt": "2026-08-20T18:26:58.2296209+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49348141"
+    },
+    "Type": 1,
+    "Title": "Git at any scale",
+    "Url": "https://cursor.com/blog/git-at-any-scale",
+    "Description": "Git at any scale",
+    "Metadata": {
+      "score": "175",
+      "author": "meetpateltech",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-08-20T18:26:58.2650866+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49374772"
+    },
+    "Type": 1,
+    "Title": "Hacking with Claude on a $27 Smart Watch",
+    "Url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+    "Description": "Hacking with Claude on a $27 Smart Watch",
+    "Metadata": {
+      "score": "58",
+      "author": "speckx",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-08-20T18:26:58.2990205+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49376038"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Vendo (YC S26) \u2013 Let users build features on top of your product",
+    "Url": "https://github.com/runvendo/vendo",
+    "Description": "Hi HN, we\u2019re Yousef \u0026amp; Nour, founders of Vendo (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;vendo.run\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;vendo.run\u003C/a\u003E). Vendo lets users create new features inside the software they already use. A user describes the dashboard, workflow, or small app they need, and Vendo builds it on top of the product\u2019s existing data, API, and interface.\u003Cp\u003EDemo: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=VdpHehY64ls\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=VdpHehY64ls\u003C/a\u003E\u003Cp\u003E",
+    "Metadata": {
+      "score": "23",
+      "author": "yousefh409",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-08-20T18:26:58.3351809+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49374873"
+    },
+    "Type": 1,
+    "Title": "An elliptic curve of rank \u2265 30",
+    "Url": "https://elliptic-rank.icarm.cloud/curve/273",
+    "Description": "An elliptic curve of rank \u2265 30",
+    "Metadata": {
+      "score": "63",
+      "author": "robinhouston",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-08-20T18:26:58.3693304+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49312999"
+    },
+    "Type": 1,
+    "Title": "Show HN: sce (Simple Console Editor)",
+    "Url": "https://github.com/volution/simple-console-editor",
+    "Description": "Show HN: sce (Simple Console Editor)",
+    "Metadata": {
+      "score": "5",
+      "author": "ciprian_craciun",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-20T18:26:58.4035522+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49377739"
+    },
+    "Type": 1,
+    "Title": "Project Cybersyn",
+    "Url": "https://bactra.org/notebooks/cybersyn.html",
+    "Description": "Project Cybersyn",
+    "Metadata": {
+      "score": "5",
+      "author": "cassepipe",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-20T18:26:58.4380105+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49374635"
+    },
+    "Type": 1,
+    "Title": "Every Model Cheats",
+    "Url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
+    "Description": "Every Model Cheats",
+    "Metadata": {
+      "score": "49",
+      "author": "vga805",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-08-20T18:26:58.4733766+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49371006"
+    },
+    "Type": 1,
+    "Title": "Windows brings out the Rorschach test in everyone (2003)",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+    "Description": "Windows brings out the Rorschach test in everyone (2003)",
+    "Metadata": {
+      "score": "324",
+      "author": "luu",
+      "commentCount": "118"
+    },
+    "FetchedAt": "2026-08-20T18:26:58.5083355+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49378036"
+    },
+    "Type": 1,
+    "Title": "Bitflash: A Tor-native revival of Bitcoin 0.1.0, mined on CPUs with RandomX",
+    "Url": "https://bitflash.network/",
+    "Description": "Bitflash: A Tor-native revival of Bitcoin 0.1.0, mined on CPUs with RandomX",
+    "Metadata": {
+      "score": "3",
+      "author": "bitflash",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-20T18:26:58.5449447+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49375244"
+    },
+    "Type": 1,
+    "Title": "Show HN: Open-source Stripe Connect alternative",
+    "Url": "https://zoneless.com",
+    "Description": "Hey, I\u0026#x27;m Ben. I built Zoneless because I was paying so much to use Stripe Connect on my own marketplace. The fees were really, really bad, and it was also limiting in terms of the seller countries I could onboard. To give you an idea, I was paying around $9,000 per month in fees just to run payouts. Using Zoneless, that cost goes down to around $6.\u003Cp\u003EI\u0026#x27;ve been using it personally for the past few months, and onboarded 5,000\u002B sellers and done 3,000\u002B payouts. 74% of new sellers on my mar",
+    "Metadata": {
+      "score": "37",
+      "author": "tinyprojects",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-08-20T18:26:58.5805791+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49375237"
+    },
+    "Type": 1,
+    "Title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
+    "Url": "https://pub.doub.ly/",
+    "Description": "Hi HN, I built this. Quick background on why it exists:\u003Cp\u003EWhen music is streamed on digital streaming platforms (think Spotify, Apple Music, Pandora), there are two separate royalty streams: one for the recording, paid through your distributor (DistroKid, TuneCore, CDBaby), and one for the underlying work (generally known as publishing). The work side\u0026#x27;s mechanical royalties are collected by The MLC, a nonprofit that was created by the 2018 Music Modernization Act (MMA). If you haven\u0026#x27;t ",
+    "Metadata": {
+      "score": "45",
+      "author": "knaught",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-08-20T18:26:58.6153878+00:00"
   }
 ]
