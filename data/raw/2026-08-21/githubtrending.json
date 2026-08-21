@@ -1,39 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:modular/modular"
-    },
-    "Type": 0,
-    "Title": "modular/modular",
-    "Url": "https://github.com/modular/modular",
-    "Description": "The Modular Platform (includes MAX \u0026 Mojo)",
-    "Metadata": {
-      "owner": "modular",
-      "repo": "modular",
-      "language": "Mojo",
-      "stars": "268",
-      "topics": "ai, language, machine-learning, max, modular, mojo, programming-language"
-    },
-    "FetchedAt": "2026-08-21T12:30:22.3781751+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:cursor/plugins"
-    },
-    "Type": 0,
-    "Title": "cursor/plugins",
-    "Url": "https://github.com/cursor/plugins",
-    "Description": "Cursor plugin specification and official plugins",
-    "Metadata": {
-      "owner": "cursor",
-      "repo": "plugins",
-      "language": "TypeScript",
-      "stars": "449"
-    },
-    "FetchedAt": "2026-08-21T12:30:22.5481064+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:akitaonrails/ai-memory"
     },
     "Type": 0,
@@ -50,6 +17,39 @@
   },
   {
     "ExternalId": {
+      "Value": "github:modular/modular"
+    },
+    "Type": 0,
+    "Title": "modular/modular",
+    "Url": "https://github.com/modular/modular",
+    "Description": "The Modular Platform (includes MAX \u0026 Mojo)",
+    "Metadata": {
+      "owner": "modular",
+      "repo": "modular",
+      "language": "Mojo",
+      "stars": "905",
+      "topics": "ai, language, machine-learning, max, modular, mojo, programming-language"
+    },
+    "FetchedAt": "2026-08-21T18:25:02.5367221+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cursor/plugins"
+    },
+    "Type": 0,
+    "Title": "cursor/plugins",
+    "Url": "https://github.com/cursor/plugins",
+    "Description": "Cursor plugin specification and official plugins",
+    "Metadata": {
+      "owner": "cursor",
+      "repo": "plugins",
+      "language": "TypeScript",
+      "stars": "391"
+    },
+    "FetchedAt": "2026-08-21T18:25:02.812447+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:harry0703/MoneyPrinterTurbo"
     },
     "Type": 0,
@@ -60,10 +60,10 @@
       "owner": "harry0703",
       "repo": "MoneyPrinterTurbo",
       "language": "Python",
-      "stars": "2,761",
+      "stars": "1,187",
       "topics": "ai-video-generator, content-creation, ffmpeg, instagram-reels, llm, python, short-video, subtitles, text-to-speech, tiktok, video-automation, video-workflow, workflow-automation, youtube-shorts"
     },
-    "FetchedAt": "2026-08-21T12:30:22.8412983+00:00"
+    "FetchedAt": "2026-08-21T18:25:03.0189466+00:00"
   },
   {
     "ExternalId": {
@@ -77,9 +77,9 @@
       "owner": "agent-substrate",
       "repo": "substrate",
       "language": "Go",
-      "stars": "22"
+      "stars": "245"
     },
-    "FetchedAt": "2026-08-21T12:30:22.9711965+00:00"
+    "FetchedAt": "2026-08-21T18:25:03.2023086+00:00"
   },
   {
     "ExternalId": {
@@ -93,10 +93,10 @@
       "owner": "chaitanyagiri",
       "repo": "munder-difflin",
       "language": "TypeScript",
-      "stars": "507",
+      "stars": "344",
       "topics": "agents, claude-code, free, harness, harness-engineering, memory"
     },
-    "FetchedAt": "2026-08-21T12:30:23.1236275+00:00"
+    "FetchedAt": "2026-08-21T18:25:03.4241657+00:00"
   },
   {
     "ExternalId": {
@@ -110,10 +110,10 @@
       "owner": "PostHog",
       "repo": "posthog",
       "language": "Python",
-      "stars": "60",
+      "stars": "334",
       "topics": "ab-testing, ai-analytics, analytics, cdp, data-warehouse, experiments, feature-flags, javascript, product-analytics, python, react, session-replay, surveys, typescript, web-analytics"
     },
-    "FetchedAt": "2026-08-21T12:30:23.2850498+00:00"
+    "FetchedAt": "2026-08-21T18:25:03.6239893+00:00"
   },
   {
     "ExternalId": {
@@ -127,9 +127,9 @@
       "owner": "mahlernim",
       "repo": "google-timeline-visualizer",
       "language": "Kotlin",
-      "stars": "657"
+      "stars": "1,040"
     },
-    "FetchedAt": "2026-08-21T12:30:23.4374288+00:00"
+    "FetchedAt": "2026-08-21T18:25:03.8320618+00:00"
   },
   {
     "ExternalId": {
@@ -143,10 +143,10 @@
       "owner": "volcengine",
       "repo": "OpenViking",
       "language": "Python",
-      "stars": "950",
+      "stars": "659",
       "topics": "agent-memory, agent-plugins, agentic-rag, context-database, dsh-plugin, self-evolving"
     },
-    "FetchedAt": "2026-08-21T12:30:23.5448961+00:00"
+    "FetchedAt": "2026-08-21T18:25:04.0444646+00:00"
   },
   {
     "ExternalId": {
@@ -160,10 +160,10 @@
       "owner": "makeplane",
       "repo": "plane",
       "language": "TypeScript",
-      "stars": "98",
+      "stars": "577",
       "topics": "boards, bug-tracker, django, docker, gantt, issue-tracker, jira, jira-alternative, kanban, linear, postgresql, product-management, project-management, project-planning, python, react, redis, typescipt, vite, work-management"
     },
-    "FetchedAt": "2026-08-21T12:30:23.6824626+00:00"
+    "FetchedAt": "2026-08-21T18:25:04.2341944+00:00"
   },
   {
     "ExternalId": {
@@ -177,10 +177,10 @@
       "owner": "Tencent",
       "repo": "AI-Infra-Guard",
       "language": "Python",
-      "stars": "50",
+      "stars": "435",
       "topics": "agent, agent-security, ai-infra, ai-red-teaming, ai-security, llm, llm-evaluation, llm-jailbreak, llm-security, mcp-scan, openclaw-security, prompt-injection, prompt-security, scanner, security, security-tools, skill-scanner, skills-security, vulnerability"
     },
-    "FetchedAt": "2026-08-21T12:30:23.8273061+00:00"
+    "FetchedAt": "2026-08-21T18:25:04.4348475+00:00"
   },
   {
     "ExternalId": {
@@ -194,9 +194,9 @@
       "owner": "RyanCodrai",
       "repo": "turbovec",
       "language": "Rust",
-      "stars": "230",
+      "stars": "348",
       "topics": "ann, avx512, embedding, embeddings, faiss, nearest-neighbor, neon, python, quant, quantization, rag, rust, simd, turboquant, vector-search"
     },
-    "FetchedAt": "2026-08-21T12:30:23.962904+00:00"
+    "FetchedAt": "2026-08-21T18:25:04.6392257+00:00"
   }
 ]
