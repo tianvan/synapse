@@ -316,156 +316,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49398158"
-    },
-    "Type": 1,
-    "Title": "Z80\u2013The 1970s Microprocessor Still Alive",
-    "Url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-    "Description": "Z80\u2013The 1970s Microprocessor Still Alive",
-    "Metadata": {
-      "score": "28",
-      "author": "asdefghyk",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-08-22T12:22:06.9979029+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49398152"
-    },
-    "Type": 1,
-    "Title": "Munder Difflin \u2013 Agent harness to run an office of your clones",
-    "Url": "https://munderdiffl.in/",
-    "Description": "Munder Difflin \u2013 Agent harness to run an office of your clones",
-    "Metadata": {
-      "score": "42",
-      "author": "simonpure",
-      "commentCount": "17"
-    },
-    "FetchedAt": "2026-08-22T12:22:07.0213287+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49393052"
-    },
-    "Type": 1,
-    "Title": "Rust Glancer: Rust LSP using 100x less RAM",
-    "Url": "https://rust-glancer.github.io/blog/hello-world/",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;matklad.github.io\u0026#x2F;2026\u0026#x2F;08\u0026#x2F;21\u0026#x2F;rust-glancer.html\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;matklad.github.io\u0026#x2F;2026\u0026#x2F;08\u0026#x2F;21\u0026#x2F;rust-glancer.html\u003C/a\u003E",
-    "Metadata": {
-      "score": "291",
-      "author": "matklad",
-      "commentCount": "55"
-    },
-    "FetchedAt": "2026-08-22T12:22:07.045153+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49389430"
-    },
-    "Type": 1,
-    "Title": "Felony Bench",
-    "Url": "https://www.felonybench.com/",
-    "Description": "Felony Bench",
-    "Metadata": {
-      "score": "750",
-      "author": "colinprince",
-      "commentCount": "280"
-    },
-    "FetchedAt": "2026-08-22T12:22:07.068052+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49390427"
-    },
-    "Type": 1,
-    "Title": "Kobo can run apps now",
-    "Url": "https://bandarlabs.github.io/Cobalt/",
-    "Description": "Kobo can run apps now",
-    "Metadata": {
-      "score": "577",
-      "author": "thepoet",
-      "commentCount": "191"
-    },
-    "FetchedAt": "2026-08-22T12:22:07.0923715+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49386895"
-    },
-    "Type": 1,
-    "Title": "Felony charges for citizen deleting phone data at US Border",
-    "Url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;SflVC\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;SflVC\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=_2rokxux5cU\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=_2rokxux5cU\u003C/a\u003E",
-    "Metadata": {
-      "score": "851",
-      "author": "floathub",
-      "commentCount": "978"
-    },
-    "FetchedAt": "2026-08-22T12:22:07.1152072+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49395628"
-    },
-    "Type": 1,
-    "Title": "There\u0027s no reason for software to be slow anymore",
-    "Url": "https://danluu.com/perf-opt/",
-    "Description": "There\u0027s no reason for software to be slow anymore",
-    "Metadata": {
-      "score": "469",
-      "author": "Jach",
-      "commentCount": "335"
-    },
-    "FetchedAt": "2026-08-22T12:22:07.1384567+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49387570"
-    },
-    "Type": 1,
-    "Title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-    "Url": "https://lina.sh/blog/hijacking-e164-arpa",
-    "Description": "I accidentally logged hundreds of thousands of phone calls to military bases",
-    "Metadata": {
-      "score": "576",
-      "author": "gavide",
-      "commentCount": "70"
-    },
-    "FetchedAt": "2026-08-22T12:22:07.1611327+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49388694"
-    },
-    "Type": 1,
-    "Title": "Zig\u2019s io.threaded is neat",
-    "Url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
-    "Description": "Zig\u2019s io.threaded is neat",
-    "Metadata": {
-      "score": "92",
-      "author": "chilipepperhott",
-      "commentCount": "48"
-    },
-    "FetchedAt": "2026-08-22T12:22:07.1846714+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49388154"
-    },
-    "Type": 1,
-    "Title": "Kagi added a setting for removing paywalled links from search results",
-    "Url": "https://kagi.com/changelog#11296",
-    "Description": "Kagi added a setting for removing paywalled links from search results",
-    "Metadata": {
-      "score": "1156",
-      "author": "speckx",
-      "commentCount": "370"
-    },
-    "FetchedAt": "2026-08-22T12:22:07.2076827+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49394496"
     },
     "Type": 1,
@@ -478,51 +328,6 @@
       "commentCount": "74"
     },
     "FetchedAt": "2026-08-22T12:22:07.2487245+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49384210"
-    },
-    "Type": 1,
-    "Title": "Stop Making TUIs",
-    "Url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-    "Description": "Stop Making TUIs",
-    "Metadata": {
-      "score": "187",
-      "author": "underdeserver",
-      "commentCount": "261"
-    },
-    "FetchedAt": "2026-08-22T12:22:07.2799271+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49391553"
-    },
-    "Type": 1,
-    "Title": "OTel isn\u2019t going well",
-    "Url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-    "Description": "OTel isn\u2019t going well",
-    "Metadata": {
-      "score": "143",
-      "author": "hn_acker",
-      "commentCount": "57"
-    },
-    "FetchedAt": "2026-08-22T12:22:07.3044743+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49392200"
-    },
-    "Type": 1,
-    "Title": "Scientists release biggest 2D map of the universe",
-    "Url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-    "Description": "Direct link to Legacy Survey Sky Viewer: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;viewer.legacysurvey.org\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;viewer.legacysurvey.org\u003C/a\u003E",
-    "Metadata": {
-      "score": "217",
-      "author": "NKosmatos",
-      "commentCount": "57"
-    },
-    "FetchedAt": "2026-08-22T12:22:07.3280735+00:00"
   },
   {
     "ExternalId": {
@@ -748,5 +553,455 @@
       "commentCount": "36"
     },
     "FetchedAt": "2026-08-22T12:22:07.7436511+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49400408"
+    },
+    "Type": 1,
+    "Title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+    "Url": "https://quantumi.sh/public/labs.html",
+    "Description": "ElevenLabs, TwelveLabs, ThirteenLabs",
+    "Metadata": {
+      "score": "116",
+      "author": "jemoka",
+      "commentCount": "46"
+    },
+    "FetchedAt": "2026-08-22T18:17:34.4873822+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49399524"
+    },
+    "Type": 1,
+    "Title": "A Kantian Critique of \u0022Sorry\u0022 by Justin Bieber",
+    "Url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
+    "Description": "A Kantian Critique of \u0022Sorry\u0022 by Justin Bieber",
+    "Metadata": {
+      "score": "177",
+      "author": "altmanaltman",
+      "commentCount": "75"
+    },
+    "FetchedAt": "2026-08-22T18:17:34.5451958+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49399898"
+    },
+    "Type": 1,
+    "Title": "A Friendly Introduction to Racket",
+    "Url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+    "Description": "A Friendly Introduction to Racket",
+    "Metadata": {
+      "score": "69",
+      "author": "signa11",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-08-22T18:17:34.6143871+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49399591"
+    },
+    "Type": 1,
+    "Title": "New MCP Roadmap",
+    "Url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+    "Description": "New MCP Roadmap",
+    "Metadata": {
+      "score": "127",
+      "author": "pentagrama",
+      "commentCount": "94"
+    },
+    "FetchedAt": "2026-08-22T18:17:34.6714756+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49401549"
+    },
+    "Type": 1,
+    "Title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+    "Url": "https://twitter.com/argofowl/status/2091150597374537729",
+    "Description": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+    "Metadata": {
+      "score": "47",
+      "author": "matthieu_bl",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-08-22T18:17:34.7330236+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49398152"
+    },
+    "Type": 1,
+    "Title": "Munder Difflin \u2013 Agent harness to run an office of your clones",
+    "Url": "https://munderdiffl.in/",
+    "Description": "Munder Difflin \u2013 Agent harness to run an office of your clones",
+    "Metadata": {
+      "score": "196",
+      "author": "simonpure",
+      "commentCount": "81"
+    },
+    "FetchedAt": "2026-08-22T18:17:34.7897547+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49355659"
+    },
+    "Type": 1,
+    "Title": "RF Cafe",
+    "Url": "https://www.rfcafe.com/",
+    "Description": "RF Cafe",
+    "Metadata": {
+      "score": "22",
+      "author": "gregsadetsky",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-08-22T18:17:34.8470214+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49401122"
+    },
+    "Type": 1,
+    "Title": "Learning about \u0022The Unix Time-Sharing System\u0022",
+    "Url": "https://playtechnique.io/long/the-unix-time-sharing-system.html",
+    "Description": "Learning about \u0022The Unix Time-Sharing System\u0022",
+    "Metadata": {
+      "score": "14",
+      "author": "gwynforthewyn",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-08-22T18:17:34.9179399+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49398158"
+    },
+    "Type": 1,
+    "Title": "Z80 \u2013 The 1970s Microprocessor Still Alive (2021)",
+    "Url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+    "Description": "Z80 \u2013 The 1970s Microprocessor Still Alive (2021)",
+    "Metadata": {
+      "score": "88",
+      "author": "asdefghyk",
+      "commentCount": "42"
+    },
+    "FetchedAt": "2026-08-22T18:17:34.9755838+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49401621"
+    },
+    "Type": 1,
+    "Title": "Belgian car salesman becomes prince after DNA test proves royal parentage",
+    "Url": "https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl",
+    "Description": "Belgian car salesman becomes prince after DNA test proves royal parentage",
+    "Metadata": {
+      "score": "33",
+      "author": "MilnerRoute",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-08-22T18:17:35.0328634+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49391168"
+    },
+    "Type": 1,
+    "Title": "Show HN: Rotation via Double Reflection",
+    "Url": "https://static.laszlokorte.de/rotor-reflect/",
+    "Description": "While studying Geometric Algebra I have built some interactive visualization to demonstrate how geometric transformations (rotation, scaling, translation) can be constructed by just composing reflections.\u003Cp\u003EAccepting reflection as the most elementary geometric operation was an eye opening moment for me. I think some of you might enjoy the interactive visuals.",
+    "Metadata": {
+      "score": "35",
+      "author": "laszlokorte",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-08-22T18:17:35.0895136+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49380128"
+    },
+    "Type": 1,
+    "Title": "Ameliorate",
+    "Url": "https://ameliorate.app/",
+    "Description": "Ameliorate",
+    "Metadata": {
+      "score": "50",
+      "author": "hakkikonu",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-08-22T18:17:35.146133+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49393052"
+    },
+    "Type": 1,
+    "Title": "Rust Glancer: Rust LSP using 100x less RAM",
+    "Url": "https://rust-glancer.github.io/blog/hello-world/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;matklad.github.io\u0026#x2F;2026\u0026#x2F;08\u0026#x2F;21\u0026#x2F;rust-glancer.html\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;matklad.github.io\u0026#x2F;2026\u0026#x2F;08\u0026#x2F;21\u0026#x2F;rust-glancer.html\u003C/a\u003E",
+    "Metadata": {
+      "score": "370",
+      "author": "matklad",
+      "commentCount": "81"
+    },
+    "FetchedAt": "2026-08-22T18:17:35.2028034+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49381991"
+    },
+    "Type": 1,
+    "Title": "Dynamical dark energy and the week that broke cosmology",
+    "Url": "https://perimeterinstitute.ca/news/dynamical-dark-energy-and-week-broke-cosmology",
+    "Description": "Dynamical dark energy and the week that broke cosmology",
+    "Metadata": {
+      "score": "14",
+      "author": "rznicolet",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-22T18:17:35.2595719+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49389430"
+    },
+    "Type": 1,
+    "Title": "Felony Bench",
+    "Url": "https://www.felonybench.com/",
+    "Description": "Felony Bench",
+    "Metadata": {
+      "score": "805",
+      "author": "colinprince",
+      "commentCount": "321"
+    },
+    "FetchedAt": "2026-08-22T18:17:35.3161916+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49377316"
+    },
+    "Type": 1,
+    "Title": "Why it might be time to rethink the human family tree",
+    "Url": "https://nautil.us/why-it-might-be-time-to-rethink-the-human-family-tree-1283985",
+    "Description": "Why it might be time to rethink the human family tree",
+    "Metadata": {
+      "score": "13",
+      "author": "Anon84",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-08-22T18:17:35.3729343+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49390427"
+    },
+    "Type": 1,
+    "Title": "Kobo can run apps now",
+    "Url": "https://bandarlabs.github.io/Cobalt/",
+    "Description": "Kobo can run apps now",
+    "Metadata": {
+      "score": "632",
+      "author": "thepoet",
+      "commentCount": "201"
+    },
+    "FetchedAt": "2026-08-22T18:17:35.4306149+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49346854"
+    },
+    "Type": 1,
+    "Title": "typ.ing",
+    "Url": "https://typ.ing/",
+    "Description": "typ.ing",
+    "Metadata": {
+      "score": "15",
+      "author": "bookofjoe",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-08-22T18:17:35.487388+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49386895"
+    },
+    "Type": 1,
+    "Title": "Felony charges for citizen deleting phone data at US Border",
+    "Url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;SflVC\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;SflVC\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=_2rokxux5cU\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=_2rokxux5cU\u003C/a\u003E",
+    "Metadata": {
+      "score": "1005",
+      "author": "floathub",
+      "commentCount": "1221"
+    },
+    "FetchedAt": "2026-08-22T18:17:35.5438091+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49370284"
+    },
+    "Type": 1,
+    "Title": "MiniageOS: \u0022Dumbphone\u0022 Version of LineageOS",
+    "Url": "https://github.com/ofdryads/miniageOS",
+    "Description": "MiniageOS: \u0022Dumbphone\u0022 Version of LineageOS",
+    "Metadata": {
+      "score": "15",
+      "author": "ashenke",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-08-22T18:17:35.6001042+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49360643"
+    },
+    "Type": 1,
+    "Title": "What\u0027s in a PowerPoint File?",
+    "Url": "https://editide.com/blog/what-is-a-pptx-file/",
+    "Description": "What\u0027s in a PowerPoint File?",
+    "Metadata": {
+      "score": "15",
+      "author": "danielochoa0620",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-08-22T18:17:35.6566433+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49361478"
+    },
+    "Type": 1,
+    "Title": "Show HN: Anonymous age verification with passkey-powered encryption",
+    "Url": "https://loginwithone.com/",
+    "Description": "This project has been kicking around in my head since I first heard about the webauthn PRF extension in early 2024. I\u0026#x27;ve slowly chipped away at it since, and finally got things to a shareable state over the summer thanks to a very fun parental leave. Headed back to work tomorrow, so I figure there\u0026#x27;s no time like the present.\u003Cp\u003Etldr: A client-held encryption key derived during passkey authentication encrypts all sensitive user data prior to persistence so that only the user is able to d",
+    "Metadata": {
+      "score": "16",
+      "author": "mikeysight",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-08-22T18:17:35.7134+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49397074"
+    },
+    "Type": 1,
+    "Title": "Canada will match US tariffs \u0027dollar for dollar\u0027 as trade talks break down",
+    "Url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.pm.gc.ca\u0026#x2F;en\u0026#x2F;news\u0026#x2F;statements\u0026#x2F;2026\u0026#x2F;08\u0026#x2F;21\u0026#x2F;statement-prime-minister-carney-canada-us-trade-negotiations\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.pm.gc.ca\u0026#x2F;en\u0026#x2F;news\u0026#x2F;statements\u0026#x2F;2026\u0026#x2F;08\u0026#x2F;21\u0026#x2F;statement...\u003C/a\u003E",
+    "Metadata": {
+      "score": "153",
+      "author": "tartoran",
+      "commentCount": "738"
+    },
+    "FetchedAt": "2026-08-22T18:17:35.7726519+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49384210"
+    },
+    "Type": 1,
+    "Title": "Stop Making TUIs",
+    "Url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+    "Description": "Stop Making TUIs",
+    "Metadata": {
+      "score": "349",
+      "author": "underdeserver",
+      "commentCount": "445"
+    },
+    "FetchedAt": "2026-08-22T18:17:35.8305693+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49387570"
+    },
+    "Type": 1,
+    "Title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+    "Url": "https://lina.sh/blog/hijacking-e164-arpa",
+    "Description": "I accidentally logged hundreds of thousands of phone calls to military bases",
+    "Metadata": {
+      "score": "636",
+      "author": "gavide",
+      "commentCount": "82"
+    },
+    "FetchedAt": "2026-08-22T18:17:35.8885574+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49388154"
+    },
+    "Type": 1,
+    "Title": "Kagi added a setting for removing paywalled links from search results",
+    "Url": "https://kagi.com/changelog#11296",
+    "Description": "Kagi added a setting for removing paywalled links from search results",
+    "Metadata": {
+      "score": "1216",
+      "author": "speckx",
+      "commentCount": "379"
+    },
+    "FetchedAt": "2026-08-22T18:17:35.9454159+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49395628"
+    },
+    "Type": 1,
+    "Title": "There\u0027s no reason for software to be slow anymore",
+    "Url": "https://danluu.com/perf-opt/",
+    "Description": "There\u0027s no reason for software to be slow anymore",
+    "Metadata": {
+      "score": "589",
+      "author": "Jach",
+      "commentCount": "436"
+    },
+    "FetchedAt": "2026-08-22T18:17:36.0023788+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49391553"
+    },
+    "Type": 1,
+    "Title": "OTel isn\u2019t going well",
+    "Url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+    "Description": "OTel isn\u2019t going well",
+    "Metadata": {
+      "score": "203",
+      "author": "hn_acker",
+      "commentCount": "100"
+    },
+    "FetchedAt": "2026-08-22T18:17:36.0588253+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49388694"
+    },
+    "Type": 1,
+    "Title": "Zig\u2019s Io.Threaded is neat",
+    "Url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+    "Description": "Zig\u2019s Io.Threaded is neat",
+    "Metadata": {
+      "score": "135",
+      "author": "chilipepperhott",
+      "commentCount": "80"
+    },
+    "FetchedAt": "2026-08-22T18:17:36.1160678+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49392200"
+    },
+    "Type": 1,
+    "Title": "Scientists release biggest 2D map of the universe",
+    "Url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+    "Description": "Direct link to Legacy Survey Sky Viewer: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;viewer.legacysurvey.org\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;viewer.legacysurvey.org\u003C/a\u003E",
+    "Metadata": {
+      "score": "247",
+      "author": "NKosmatos",
+      "commentCount": "65"
+    },
+    "FetchedAt": "2026-08-22T18:17:36.1731754+00:00"
   }
 ]
