@@ -1,22 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:openai/codex"
-    },
-    "Type": 0,
-    "Title": "openai/codex",
-    "Url": "https://github.com/openai/codex",
-    "Description": "Lightweight coding agent that runs in your terminal",
-    "Metadata": {
-      "owner": "openai",
-      "repo": "codex",
-      "language": "Rust",
-      "stars": "1,544"
-    },
-    "FetchedAt": "2026-08-23T06:27:00.9178008+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:Wei-Shaw/sub2api"
     },
     "Type": 0,
@@ -132,23 +116,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:ripienaar/free-for-dev"
-    },
-    "Type": 0,
-    "Title": "ripienaar/free-for-dev",
-    "Url": "https://github.com/ripienaar/free-for-dev",
-    "Description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-    "Metadata": {
-      "owner": "ripienaar",
-      "repo": "free-for-dev",
-      "language": "HTML",
-      "stars": "829",
-      "topics": "awesome-list, free-for-developers"
-    },
-    "FetchedAt": "2026-08-23T06:27:18.650501+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:microsoft/TypeScript"
     },
     "Type": 0,
@@ -213,5 +180,203 @@
       "topics": "agent, agent-security, ai-infra, ai-red-teaming, ai-security, llm, llm-evaluation, llm-jailbreak, llm-security, mcp-scan, openclaw-security, prompt-injection, prompt-security, scanner, security, security-tools, skill-scanner, skills-security, vulnerability"
     },
     "FetchedAt": "2026-08-23T06:27:19.3710487+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:openai/codex"
+    },
+    "Type": 0,
+    "Title": "openai/codex",
+    "Url": "https://github.com/openai/codex",
+    "Description": "Lightweight coding agent that runs in your terminal",
+    "Metadata": {
+      "owner": "openai",
+      "repo": "codex",
+      "language": "Rust",
+      "stars": "1,544"
+    },
+    "FetchedAt": "2026-08-23T12:22:25.2418199+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:freestylefly/awesome-gpt-image-2"
+    },
+    "Type": 0,
+    "Title": "freestylefly/awesome-gpt-image-2",
+    "Url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "Description": "Prompt as Code | GPT-Image2 \u5DE5\u4E1A\u7EA7\u63D0\u793A\u8BCD\u5F15\u64CE\u4E0E\u6A21\u677F\u5E93\uFF0C470\u002B \u4E2A\u6848\u4F8B\u9006\u5411\u5DE5\u7A0B\uFF0C20\u002B \u5957\u5DE5\u4E1A\u7EA7\u6A21\u677F\uFF0C\u5E76\u63D0\u70BC\u51FASkills\uFF0C\u6301\u7EED\u66F4\u65B0\u4E2D",
+    "Metadata": {
+      "owner": "freestylefly",
+      "repo": "awesome-gpt-image-2",
+      "language": "JavaScript",
+      "stars": "628",
+      "topics": "agents, ai-image-generation, chatgpt, dsh-plugin, gpt-image-2, image-prompts, prompt-as-code, prompt-engineering, skills, workflow-automation"
+    },
+    "FetchedAt": "2026-08-23T12:22:25.4742178+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:basecamp/omarchy"
+    },
+    "Type": 0,
+    "Title": "basecamp/omarchy",
+    "Url": "https://github.com/basecamp/omarchy",
+    "Description": "Beautiful, Modern \u0026 Opinionated Linux",
+    "Metadata": {
+      "owner": "basecamp",
+      "repo": "omarchy",
+      "language": "Shell",
+      "stars": "803"
+    },
+    "FetchedAt": "2026-08-23T12:22:25.5981259+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:block/buzz"
+    },
+    "Type": 0,
+    "Title": "block/buzz",
+    "Url": "https://github.com/block/buzz",
+    "Description": "A hive mind communication platform",
+    "Metadata": {
+      "owner": "block",
+      "repo": "buzz",
+      "language": "Rust",
+      "stars": "564"
+    },
+    "FetchedAt": "2026-08-23T12:22:25.8028482+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:apache/maka"
+    },
+    "Type": 0,
+    "Title": "apache/maka",
+    "Url": "https://github.com/apache/maka",
+    "Description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+    "Metadata": {
+      "owner": "apache",
+      "repo": "maka",
+      "language": "TypeScript",
+      "stars": "49",
+      "topics": "agent-runtime, ai, ai-agent, apache, cli, desktop, electron, event-sourcing, incubator, llm, local-first, maka, tool-use, typescript"
+    },
+    "FetchedAt": "2026-08-23T12:22:25.9700519+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Alishahryar1/free-claude-code"
+    },
+    "Type": 0,
+    "Title": "Alishahryar1/free-claude-code",
+    "Url": "https://github.com/Alishahryar1/free-claude-code",
+    "Description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B\u002B free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported \u002B ToS friendly)",
+    "Metadata": {
+      "owner": "Alishahryar1",
+      "repo": "free-claude-code",
+      "language": "Python",
+      "stars": "1,040"
+    },
+    "FetchedAt": "2026-08-23T12:22:26.134003+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:tinyhumansai/openhuman"
+    },
+    "Type": 0,
+    "Title": "tinyhumansai/openhuman",
+    "Url": "https://github.com/tinyhumansai/openhuman",
+    "Description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+    "Metadata": {
+      "owner": "tinyhumansai",
+      "repo": "openhuman",
+      "language": "Rust",
+      "stars": "51"
+    },
+    "FetchedAt": "2026-08-23T12:22:26.2587196+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ruvnet/ruflo"
+    },
+    "Type": 0,
+    "Title": "ruvnet/ruflo",
+    "Url": "https://github.com/ruvnet/ruflo",
+    "Description": "\uD83C\uDF0A The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "Metadata": {
+      "owner": "ruvnet",
+      "repo": "ruflo",
+      "language": "TypeScript",
+      "stars": "134",
+      "topics": "agentic-ai, agentic-framework, agentic-workflow, agents, ai-agents, ai-assistant, ai-skills, autonomous-agents, claude-code, codex, dsh-plugin, harness, mcp-server, multi-agent, multi-agent-systems, npm, skills, swarm, swarm-intelligence, typescript"
+    },
+    "FetchedAt": "2026-08-23T12:22:26.4195742+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-plugins-community"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-plugins-community",
+    "Url": "https://github.com/anthropics/claude-plugins-community",
+    "Description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror \u2014 submit plugins at clau.de/plugin-directory-submission.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-plugins-community",
+      "language": "Python",
+      "stars": "190"
+    },
+    "FetchedAt": "2026-08-23T12:22:26.5781624+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ripienaar/free-for-dev"
+    },
+    "Type": 0,
+    "Title": "ripienaar/free-for-dev",
+    "Url": "https://github.com/ripienaar/free-for-dev",
+    "Description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "Metadata": {
+      "owner": "ripienaar",
+      "repo": "free-for-dev",
+      "language": "HTML",
+      "stars": "829",
+      "topics": "awesome-list, free-for-developers"
+    },
+    "FetchedAt": "2026-08-23T12:22:26.712734+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Comfy-Org/ComfyUI"
+    },
+    "Type": 0,
+    "Title": "Comfy-Org/ComfyUI",
+    "Url": "https://github.com/Comfy-Org/ComfyUI",
+    "Description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "Metadata": {
+      "owner": "Comfy-Org",
+      "repo": "ComfyUI",
+      "language": "Python",
+      "stars": "179",
+      "topics": "ai, comfy, comfyui, python, pytorch, stable-diffusion"
+    },
+    "FetchedAt": "2026-08-23T12:22:26.8322242+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NousResearch/hermes-agent"
+    },
+    "Type": 0,
+    "Title": "NousResearch/hermes-agent",
+    "Url": "https://github.com/NousResearch/hermes-agent",
+    "Description": "The agent that grows with you",
+    "Metadata": {
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "language": "Python",
+      "stars": "443",
+      "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex, hermes, hermes-agent, llm, nous-research, openai"
+    },
+    "FetchedAt": "2026-08-23T12:22:27.0032734+00:00"
   }
 ]
