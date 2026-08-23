@@ -1,0 +1,217 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:openai/codex"
+    },
+    "Type": 0,
+    "Title": "openai/codex",
+    "Url": "https://github.com/openai/codex",
+    "Description": "Lightweight coding agent that runs in your terminal",
+    "Metadata": {
+      "owner": "openai",
+      "repo": "codex",
+      "language": "Rust",
+      "stars": "1,544"
+    },
+    "FetchedAt": "2026-08-23T00:51:48.7395155+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Wei-Shaw/sub2api"
+    },
+    "Type": 0,
+    "Title": "Wei-Shaw/sub2api",
+    "Url": "https://github.com/Wei-Shaw/sub2api",
+    "Description": "Sub2API \u4E00\u7AD9\u5F0F\u5F00\u6E90\u4E2D\u8F6C\u670D\u52A1\uFF0C\u8BA9 Claude\u3001Openai \u3001Gemini\u3001Grok\u8BA2\u9605\u7EDF\u4E00\u63A5\u5165\uFF0C\u652F\u6301\u62FC\u8F66\u5171\u4EAB\uFF0C\u66F4\u9AD8\u6548\u5206\u644A\u6210\u672C\uFF0C\u539F\u751F\u5DE5\u5177\u65E0\u7F1D\u4F7F\u7528\u3002",
+    "Metadata": {
+      "owner": "Wei-Shaw",
+      "repo": "sub2api",
+      "language": "Go",
+      "stars": "278",
+      "topics": "2api, antigravity2api, cc2api, claude, claude-code, codex, crs, crs2, gemini"
+    },
+    "FetchedAt": "2026-08-23T00:51:58.8904743+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:makeplane/plane"
+    },
+    "Type": 0,
+    "Title": "makeplane/plane",
+    "Url": "https://github.com/makeplane/plane",
+    "Description": "\uD83D\uDD25\uD83D\uDD25\uD83D\uDD25 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+    "Metadata": {
+      "owner": "makeplane",
+      "repo": "plane",
+      "language": "TypeScript",
+      "stars": "263",
+      "topics": "boards, bug-tracker, django, docker, gantt, issue-tracker, jira, jira-alternative, kanban, linear, postgresql, product-management, project-management, project-planning, python, react, redis, typescipt, vite, work-management"
+    },
+    "FetchedAt": "2026-08-23T00:52:04.6941875+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:n8n-io/n8n"
+    },
+    "Type": 0,
+    "Title": "n8n-io/n8n",
+    "Url": "https://github.com/n8n-io/n8n",
+    "Description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400\u002B integrations.",
+    "Metadata": {
+      "owner": "n8n-io",
+      "repo": "n8n",
+      "language": "TypeScript",
+      "stars": "149",
+      "topics": "ai, apis, automation, cli, data-flow, development, integration-framework, integrations, ipaas, low-code, low-code-platform, mcp, mcp-client, mcp-server, n8n, no-code, self-hosted, typescript, workflow, workflow-automation"
+    },
+    "FetchedAt": "2026-08-23T00:52:06.9483479+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-code"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-code",
+    "Url": "https://github.com/anthropics/claude-code",
+    "Description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-code",
+      "language": "Python",
+      "stars": "127"
+    },
+    "FetchedAt": "2026-08-23T00:52:08.6664652+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:modular/modular"
+    },
+    "Type": 0,
+    "Title": "modular/modular",
+    "Url": "https://github.com/modular/modular",
+    "Description": "The Modular Platform (includes MAX \u0026 Mojo)",
+    "Metadata": {
+      "owner": "modular",
+      "repo": "modular",
+      "language": "Mojo",
+      "stars": "395",
+      "topics": "ai, language, machine-learning, max, modular, mojo, programming-language"
+    },
+    "FetchedAt": "2026-08-23T00:52:09.6548892+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:multica-ai/andrej-karpathy-skills"
+    },
+    "Type": 0,
+    "Title": "multica-ai/andrej-karpathy-skills",
+    "Url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "Description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy\u0027s observations on LLM coding pitfalls.",
+    "Metadata": {
+      "owner": "multica-ai",
+      "repo": "andrej-karpathy-skills",
+      "stars": "315"
+    },
+    "FetchedAt": "2026-08-23T00:52:10.3496223+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mahlernim/google-timeline-visualizer"
+    },
+    "Type": 0,
+    "Title": "mahlernim/google-timeline-visualizer",
+    "Url": "https://github.com/mahlernim/google-timeline-visualizer",
+    "Description": "Visualize your year in travel using your Google Location History (Timeline) data",
+    "Metadata": {
+      "owner": "mahlernim",
+      "repo": "google-timeline-visualizer",
+      "language": "Kotlin",
+      "stars": "441"
+    },
+    "FetchedAt": "2026-08-23T00:52:10.8789335+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ripienaar/free-for-dev"
+    },
+    "Type": 0,
+    "Title": "ripienaar/free-for-dev",
+    "Url": "https://github.com/ripienaar/free-for-dev",
+    "Description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "Metadata": {
+      "owner": "ripienaar",
+      "repo": "free-for-dev",
+      "language": "HTML",
+      "stars": "829",
+      "topics": "awesome-list, free-for-developers"
+    },
+    "FetchedAt": "2026-08-23T00:52:11.5495997+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:microsoft/TypeScript"
+    },
+    "Type": 0,
+    "Title": "microsoft/TypeScript",
+    "Url": "https://github.com/microsoft/TypeScript",
+    "Description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "Metadata": {
+      "owner": "microsoft",
+      "repo": "TypeScript",
+      "language": "Go",
+      "stars": "104",
+      "topics": "javascript, language, typechecker, typescript"
+    },
+    "FetchedAt": "2026-08-23T00:52:11.809131+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cursor/plugins"
+    },
+    "Type": 0,
+    "Title": "cursor/plugins",
+    "Url": "https://github.com/cursor/plugins",
+    "Description": "Cursor plugin specification and official plugins",
+    "Metadata": {
+      "owner": "cursor",
+      "repo": "plugins",
+      "language": "TypeScript",
+      "stars": "286"
+    },
+    "FetchedAt": "2026-08-23T00:52:12.1091418+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:PostHog/posthog"
+    },
+    "Type": 0,
+    "Title": "PostHog/posthog",
+    "Url": "https://github.com/PostHog/posthog",
+    "Description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools \u2013 AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more \u2013 capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "Metadata": {
+      "owner": "PostHog",
+      "repo": "posthog",
+      "language": "Python",
+      "stars": "286",
+      "topics": "ab-testing, ai-analytics, analytics, cdp, data-warehouse, experiments, feature-flags, javascript, product-analytics, python, react, session-replay, surveys, typescript, web-analytics"
+    },
+    "FetchedAt": "2026-08-23T00:52:12.4374278+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Tencent/AI-Infra-Guard"
+    },
+    "Type": 0,
+    "Title": "Tencent/AI-Infra-Guard",
+    "Url": "https://github.com/Tencent/AI-Infra-Guard",
+    "Description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+    "Metadata": {
+      "owner": "Tencent",
+      "repo": "AI-Infra-Guard",
+      "language": "Python",
+      "stars": "150",
+      "topics": "agent, agent-security, ai-infra, ai-red-teaming, ai-security, llm, llm-evaluation, llm-jailbreak, llm-security, mcp-scan, openclaw-security, prompt-injection, prompt-security, scanner, security, security-tools, skill-scanner, skills-security, vulnerability"
+    },
+    "FetchedAt": "2026-08-23T00:52:12.5845069+00:00"
+  }
+]
