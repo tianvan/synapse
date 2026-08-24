@@ -1,21 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:49405657"
-    },
-    "Type": 1,
-    "Title": "AI Chip Architectures",
-    "Url": "https://www.jepeake.com/ai-chip-architectures",
-    "Description": "AI Chip Architectures",
-    "Metadata": {
-      "score": "30",
-      "author": "Finbarr",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-08-24T00:49:50.8974609+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49406539"
     },
     "Type": 1,
@@ -58,21 +43,6 @@
       "commentCount": "77"
     },
     "FetchedAt": "2026-08-24T00:49:51.5360305+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49411468"
-    },
-    "Type": 1,
-    "Title": "Fable and the end of the free lunch",
-    "Url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
-    "Description": "Fable and the end of the free lunch",
-    "Metadata": {
-      "score": "103",
-      "author": "dbreunig",
-      "commentCount": "87"
-    },
-    "FetchedAt": "2026-08-24T00:49:51.6031519+00:00"
   },
   {
     "ExternalId": {
@@ -136,96 +106,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49413320"
-    },
-    "Type": 1,
-    "Title": "Everything I own, owned",
-    "Url": "https://schlarp.com/posts/everything-i-own-owned/",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260823225933\u0026#x2F;https:\u0026#x2F;\u0026#x2F;schlarp.com\u0026#x2F;posts\u0026#x2F;everything-i-own-owned\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260823225933\u0026#x2F;https:\u0026#x2F;\u0026#x2F;schlarp.c...\u003C/a\u003E",
-    "Metadata": {
-      "score": "617",
-      "author": "schlarpc",
-      "commentCount": "193"
-    },
-    "FetchedAt": "2026-08-24T06:40:07.9788939+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49411102"
-    },
-    "Type": 1,
-    "Title": "Anthropic\u0027s best AI model struggles to attract users as cheaper tools thrive",
-    "Url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-    "Description": "Anthropic\u0027s best AI model struggles to attract users as cheaper tools thrive",
-    "Metadata": {
-      "score": "419",
-      "author": "naves",
-      "commentCount": "365"
-    },
-    "FetchedAt": "2026-08-24T06:40:08.005986+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49411643"
-    },
-    "Type": 1,
-    "Title": "How I find problems to solve as a staff engineer",
-    "Url": "https://lalitm.com/post/find-problems-staff-engineer/",
-    "Description": "How I find problems to solve as a staff engineer",
-    "Metadata": {
-      "score": "372",
-      "author": "vanpra",
-      "commentCount": "123"
-    },
-    "FetchedAt": "2026-08-24T06:40:08.0328656+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49412396"
-    },
-    "Type": 1,
-    "Title": "I were 17, I\u0027d learn how to build LLMs from scratch",
-    "Url": "https://twitter.com/paulg/status/2091544343589060625",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;paulg\u0026#x2F;status\u0026#x2F;2091544343589060625\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;paulg\u0026#x2F;status\u0026#x2F;2091544343589060625\u003C/a\u003E",
-    "Metadata": {
-      "score": "6",
-      "author": "bilsbie",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-08-24T06:40:08.0603404+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49410932"
-    },
-    "Type": 1,
-    "Title": "My agent.md to improve LLM-assisted code quality",
-    "Url": "https://fabiensanglard.net/agent.md/index.html",
-    "Description": "My agent.md to improve LLM-assisted code quality",
-    "Metadata": {
-      "score": "278",
-      "author": "ibobev",
-      "commentCount": "109"
-    },
-    "FetchedAt": "2026-08-24T06:40:08.0879909+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49411717"
-    },
-    "Type": 1,
-    "Title": "Google Workspace thinks my domain is an email provider (2025)",
-    "Url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-    "Description": "Google Workspace thinks my domain is an email provider (2025)",
-    "Metadata": {
-      "score": "260",
-      "author": "el1s7",
-      "commentCount": "78"
-    },
-    "FetchedAt": "2026-08-24T06:40:08.1152691+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49414338"
     },
     "Type": 1,
@@ -238,66 +118,6 @@
       "commentCount": "35"
     },
     "FetchedAt": "2026-08-24T06:40:08.143029+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49413561"
-    },
-    "Type": 1,
-    "Title": "I built a low-latency AI companion that plays Skyrim with me",
-    "Url": "https://pantel.is/projects/ai-gaming-companion/",
-    "Description": "I built a low-latency AI companion that plays Skyrim with me",
-    "Metadata": {
-      "score": "87",
-      "author": "pantelisk",
-      "commentCount": "14"
-    },
-    "FetchedAt": "2026-08-24T06:40:08.1707137+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49409092"
-    },
-    "Type": 1,
-    "Title": "What Is a Harness?",
-    "Url": "https://earendil.com/posts/what-is-a-harness/",
-    "Description": "What Is a Harness?",
-    "Metadata": {
-      "score": "403",
-      "author": "tosh",
-      "commentCount": "146"
-    },
-    "FetchedAt": "2026-08-24T06:40:08.1982871+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49409473"
-    },
-    "Type": 1,
-    "Title": "How Complex Systems Fail (1998)",
-    "Url": "https://how.complexsystems.fail/",
-    "Description": "How Complex Systems Fail (1998)",
-    "Metadata": {
-      "score": "294",
-      "author": "shortcrct",
-      "commentCount": "66"
-    },
-    "FetchedAt": "2026-08-24T06:40:08.225886+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49408550"
-    },
-    "Type": 1,
-    "Title": "Malware infects Android-based automotive head unit firmware",
-    "Url": "https://securelist.com/android-head-unit-malware/121106/",
-    "Description": "Malware infects Android-based automotive head unit firmware",
-    "Metadata": {
-      "score": "230",
-      "author": "campuscodi",
-      "commentCount": "119"
-    },
-    "FetchedAt": "2026-08-24T06:40:08.2543464+00:00"
   },
   {
     "ExternalId": {
@@ -331,21 +151,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49408858"
-    },
-    "Type": 1,
-    "Title": "My favorite nonfiction books about cults, scams, and schemes",
-    "Url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-    "Description": "My favorite nonfiction books about cults, scams, and schemes",
-    "Metadata": {
-      "score": "221",
-      "author": "bwb",
-      "commentCount": "81"
-    },
-    "FetchedAt": "2026-08-24T06:40:08.3505073+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49409862"
     },
     "Type": 1,
@@ -358,21 +163,6 @@
       "commentCount": "100"
     },
     "FetchedAt": "2026-08-24T06:40:08.3782875+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49411020"
-    },
-    "Type": 1,
-    "Title": "Explain it to me like I\u0027m ten",
-    "Url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
-    "Description": "Explain it to me like I\u0027m ten",
-    "Metadata": {
-      "score": "120",
-      "author": "bookofjoe",
-      "commentCount": "46"
-    },
-    "FetchedAt": "2026-08-24T06:40:08.4052246+00:00"
   },
   {
     "ExternalId": {
@@ -433,21 +223,6 @@
       "commentCount": "0"
     },
     "FetchedAt": "2026-08-24T06:40:08.5154565+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49415621"
-    },
-    "Type": 1,
-    "Title": "New EU-wide product repair rules come into force",
-    "Url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
-    "Description": "New EU-wide product repair rules come into force",
-    "Metadata": {
-      "score": "12",
-      "author": "austinallegro",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-08-24T06:40:08.5425863+00:00"
   },
   {
     "ExternalId": {
@@ -583,5 +358,455 @@
       "commentCount": "28"
     },
     "FetchedAt": "2026-08-24T06:40:08.7963848+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49418255"
+    },
+    "Type": 1,
+    "Title": "SeL4 security proofs now complete on AArch64",
+    "Url": "https://proofcraft.systems/news-2026/#2026-08-21",
+    "Description": "SeL4 security proofs now complete on AArch64",
+    "Metadata": {
+      "score": "23",
+      "author": "snvzz",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-08-24T12:32:02.8717156+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49412396"
+    },
+    "Type": 1,
+    "Title": "I were 17, I\u0027d learn how to build LLMs from scratch",
+    "Url": "https://twitter.com/paulg/status/2091544343589060625",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;paulg\u0026#x2F;status\u0026#x2F;2091544343589060625\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;paulg\u0026#x2F;status\u0026#x2F;2091544343589060625\u003C/a\u003E",
+    "Metadata": {
+      "score": "229",
+      "author": "bilsbie",
+      "commentCount": "331"
+    },
+    "FetchedAt": "2026-08-24T12:32:02.9076304+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49413320"
+    },
+    "Type": 1,
+    "Title": "Everything I own, owned",
+    "Url": "https://schlarp.com/posts/everything-i-own-owned/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260823225933\u0026#x2F;https:\u0026#x2F;\u0026#x2F;schlarp.com\u0026#x2F;posts\u0026#x2F;everything-i-own-owned\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260823225933\u0026#x2F;https:\u0026#x2F;\u0026#x2F;schlarp.c...\u003C/a\u003E",
+    "Metadata": {
+      "score": "1063",
+      "author": "schlarpc",
+      "commentCount": "291"
+    },
+    "FetchedAt": "2026-08-24T12:32:02.9409293+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49418032"
+    },
+    "Type": 1,
+    "Title": "Omacom Foundation funding hits $10M",
+    "Url": "https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/",
+    "Description": "Omacom Foundation funding hits $10M",
+    "Metadata": {
+      "score": "37",
+      "author": "tosh",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-08-24T12:32:02.9740218+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49418117"
+    },
+    "Type": 1,
+    "Title": "Omakase Computing",
+    "Url": "https://learn.omacom.io/3/omacom/76/omakase-computing",
+    "Description": "Omakase Computing",
+    "Metadata": {
+      "score": "19",
+      "author": "Bluestein",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.0076684+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49415893"
+    },
+    "Type": 1,
+    "Title": "FDA clears blood test to aid evaluation for Alzheimer\u0027s disease",
+    "Url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+    "Description": "FDA clears blood test to aid evaluation for Alzheimer\u0027s disease",
+    "Metadata": {
+      "score": "73",
+      "author": "dabinat",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.0406711+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49416953"
+    },
+    "Type": 1,
+    "Title": "The Future Belongs to the Weird",
+    "Url": "https://essays.georgestrakhov.com/weird/",
+    "Description": "The Future Belongs to the Weird",
+    "Metadata": {
+      "score": "38",
+      "author": "georgestrakhov",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.0736919+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49415271"
+    },
+    "Type": 1,
+    "Title": "Executable Is a SQLite Database",
+    "Url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+    "Description": "Executable Is a SQLite Database",
+    "Metadata": {
+      "score": "165",
+      "author": "setheron",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.1067593+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49418163"
+    },
+    "Type": 1,
+    "Title": "Agent Is Not the Model",
+    "Url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
+    "Description": "Agent Is Not the Model",
+    "Metadata": {
+      "score": "7",
+      "author": "joejag",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.1401925+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49411102"
+    },
+    "Type": 1,
+    "Title": "Anthropic\u0027s best AI model struggles to attract users as cheaper tools thrive",
+    "Url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+    "Description": "Anthropic\u0027s best AI model struggles to attract users as cheaper tools thrive",
+    "Metadata": {
+      "score": "590",
+      "author": "naves",
+      "commentCount": "527"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.1739198+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49416652"
+    },
+    "Type": 1,
+    "Title": "Fast drilldown dashboards from a single Parquet file",
+    "Url": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
+    "Description": "Fast drilldown dashboards from a single Parquet file",
+    "Metadata": {
+      "score": "45",
+      "author": "v3gas",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.206883+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49415852"
+    },
+    "Type": 1,
+    "Title": "OCR It \u2013 pull text out of un-copyable documents for your LLM",
+    "Url": "https://github.com/thiagotigaz/ocr-it",
+    "Description": "OCR It \u2013 pull text out of un-copyable documents for your LLM",
+    "Metadata": {
+      "score": "68",
+      "author": "thiagolima",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.2395897+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49411643"
+    },
+    "Type": 1,
+    "Title": "How I find problems to solve as a staff engineer",
+    "Url": "https://lalitm.com/post/find-problems-staff-engineer/",
+    "Description": "How I find problems to solve as a staff engineer",
+    "Metadata": {
+      "score": "444",
+      "author": "vanpra",
+      "commentCount": "136"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.2722286+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49416055"
+    },
+    "Type": 1,
+    "Title": "Andreessen Horowitz is investing billions into a bleak future",
+    "Url": "https://www.modelrepublic.org/articles/a16z-portfolio",
+    "Description": "Andreessen Horowitz is investing billions into a bleak future",
+    "Metadata": {
+      "score": "278",
+      "author": "reasonableklout",
+      "commentCount": "98"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.3052424+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49413561"
+    },
+    "Type": 1,
+    "Title": "I built a low-latency AI companion that plays Skyrim with me",
+    "Url": "https://pantel.is/projects/ai-gaming-companion/",
+    "Description": "I built a low-latency AI companion that plays Skyrim with me",
+    "Metadata": {
+      "score": "204",
+      "author": "pantelisk",
+      "commentCount": "41"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.3385652+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49411717"
+    },
+    "Type": 1,
+    "Title": "Google Workspace thinks my domain is an email provider (2025)",
+    "Url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+    "Description": "Google Workspace thinks my domain is an email provider (2025)",
+    "Metadata": {
+      "score": "330",
+      "author": "el1s7",
+      "commentCount": "111"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.372714+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49409092"
+    },
+    "Type": 1,
+    "Title": "What Is a Harness?",
+    "Url": "https://earendil.com/posts/what-is-a-harness/",
+    "Description": "What Is a Harness?",
+    "Metadata": {
+      "score": "479",
+      "author": "tosh",
+      "commentCount": "157"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.4066182+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49410932"
+    },
+    "Type": 1,
+    "Title": "My agent.md to improve LLM-assisted code quality",
+    "Url": "https://fabiensanglard.net/agent.md/index.html",
+    "Description": "My agent.md to improve LLM-assisted code quality",
+    "Metadata": {
+      "score": "329",
+      "author": "ibobev",
+      "commentCount": "143"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.4403539+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49415621"
+    },
+    "Type": 1,
+    "Title": "New EU-wide product repair rules come into force",
+    "Url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
+    "Description": "New EU-wide product repair rules come into force",
+    "Metadata": {
+      "score": "160",
+      "author": "austinallegro",
+      "commentCount": "97"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.4745928+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49417394"
+    },
+    "Type": 1,
+    "Title": "Woman stranded in Spain after UK\u0027s eVisa system mistakes her for twin sister",
+    "Url": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
+    "Description": "Woman stranded in Spain after UK\u0027s eVisa system mistakes her for twin sister",
+    "Metadata": {
+      "score": "77",
+      "author": "giuliomagnifico",
+      "commentCount": "64"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.5079233+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49418449"
+    },
+    "Type": 1,
+    "Title": "Anthropic candidates face blunt money question",
+    "Url": "https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question",
+    "Description": "Anthropic candidates face blunt money question",
+    "Metadata": {
+      "score": "11",
+      "author": "samizdis",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.5429956+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49409473"
+    },
+    "Type": 1,
+    "Title": "How Complex Systems Fail (1998)",
+    "Url": "https://how.complexsystems.fail/",
+    "Description": "How Complex Systems Fail (1998)",
+    "Metadata": {
+      "score": "334",
+      "author": "shortcrct",
+      "commentCount": "72"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.5781923+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49408550"
+    },
+    "Type": 1,
+    "Title": "Malware infects Android-based automotive head unit firmware",
+    "Url": "https://securelist.com/android-head-unit-malware/121106/",
+    "Description": "Malware infects Android-based automotive head unit firmware",
+    "Metadata": {
+      "score": "247",
+      "author": "campuscodi",
+      "commentCount": "126"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.6133114+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49405657"
+    },
+    "Type": 1,
+    "Title": "AI Chip Architectures",
+    "Url": "https://www.jepeake.com/ai-chip-architectures",
+    "Description": "AI Chip Architectures",
+    "Metadata": {
+      "score": "98",
+      "author": "Finbarr",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.6470784+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49411468"
+    },
+    "Type": 1,
+    "Title": "Fable and the end of the free lunch",
+    "Url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+    "Description": "Fable and the end of the free lunch",
+    "Metadata": {
+      "score": "174",
+      "author": "dbreunig",
+      "commentCount": "162"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.6808478+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49416097"
+    },
+    "Type": 1,
+    "Title": "Over 5,200 Ebola cases recorded in Congo",
+    "Url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration",
+    "Description": "Over 5,200 Ebola cases recorded in Congo",
+    "Metadata": {
+      "score": "74",
+      "author": "simonebrunozzi",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.7140078+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49415265"
+    },
+    "Type": 1,
+    "Title": "Mourning Steve French",
+    "Url": "https://lwn.net/Articles/1090098/",
+    "Description": "Mourning Steve French",
+    "Metadata": {
+      "score": "26",
+      "author": "mfrw",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.7466046+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49408858"
+    },
+    "Type": 1,
+    "Title": "My favorite nonfiction books about cults, scams, and schemes",
+    "Url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+    "Description": "My favorite nonfiction books about cults, scams, and schemes",
+    "Metadata": {
+      "score": "246",
+      "author": "bwb",
+      "commentCount": "92"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.7800475+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49411020"
+    },
+    "Type": 1,
+    "Title": "Explain it to me like I\u0027m ten",
+    "Url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
+    "Description": "Explain it to me like I\u0027m ten",
+    "Metadata": {
+      "score": "155",
+      "author": "bookofjoe",
+      "commentCount": "57"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.8748636+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49417941"
+    },
+    "Type": 1,
+    "Title": "The treasury bond mess: is this the demise of the US as a safe haven?",
+    "Url": "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt",
+    "Description": "The treasury bond mess: is this the demise of the US as a safe haven?",
+    "Metadata": {
+      "score": "35",
+      "author": "fittingopposite",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-08-24T12:32:03.9075723+00:00"
   }
 ]
