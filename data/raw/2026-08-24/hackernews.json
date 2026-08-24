@@ -361,36 +361,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49418255"
-    },
-    "Type": 1,
-    "Title": "SeL4 security proofs now complete on AArch64",
-    "Url": "https://proofcraft.systems/news-2026/#2026-08-21",
-    "Description": "SeL4 security proofs now complete on AArch64",
-    "Metadata": {
-      "score": "23",
-      "author": "snvzz",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-08-24T12:32:02.8717156+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49412396"
-    },
-    "Type": 1,
-    "Title": "I were 17, I\u0027d learn how to build LLMs from scratch",
-    "Url": "https://twitter.com/paulg/status/2091544343589060625",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;paulg\u0026#x2F;status\u0026#x2F;2091544343589060625\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;paulg\u0026#x2F;status\u0026#x2F;2091544343589060625\u003C/a\u003E",
-    "Metadata": {
-      "score": "229",
-      "author": "bilsbie",
-      "commentCount": "331"
-    },
-    "FetchedAt": "2026-08-24T12:32:02.9076304+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49413320"
     },
     "Type": 1,
@@ -436,21 +406,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49415893"
-    },
-    "Type": 1,
-    "Title": "FDA clears blood test to aid evaluation for Alzheimer\u0027s disease",
-    "Url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-    "Description": "FDA clears blood test to aid evaluation for Alzheimer\u0027s disease",
-    "Metadata": {
-      "score": "73",
-      "author": "dabinat",
-      "commentCount": "26"
-    },
-    "FetchedAt": "2026-08-24T12:32:03.0406711+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49416953"
     },
     "Type": 1,
@@ -463,21 +418,6 @@
       "commentCount": "22"
     },
     "FetchedAt": "2026-08-24T12:32:03.0736919+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49415271"
-    },
-    "Type": 1,
-    "Title": "Executable Is a SQLite Database",
-    "Url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-    "Description": "Executable Is a SQLite Database",
-    "Metadata": {
-      "score": "165",
-      "author": "setheron",
-      "commentCount": "19"
-    },
-    "FetchedAt": "2026-08-24T12:32:03.1067593+00:00"
   },
   {
     "ExternalId": {
@@ -808,5 +748,455 @@
       "commentCount": "18"
     },
     "FetchedAt": "2026-08-24T12:32:03.9075723+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49420873"
+    },
+    "Type": 1,
+    "Title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+    "Url": "https://twitter.com/lemire/status/2091894299289874926",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;lemire\u0026#x2F;status\u0026#x2F;2091894299289874926\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;lemire\u0026#x2F;status\u0026#x2F;2091894299289874926\u003C/a\u003E",
+    "Metadata": {
+      "score": "414",
+      "author": "tosh",
+      "commentCount": "241"
+    },
+    "FetchedAt": "2026-08-24T18:28:17.3702278+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49421158"
+    },
+    "Type": 1,
+    "Title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+    "Url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+    "Description": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+    "Metadata": {
+      "score": "254",
+      "author": "ComputerGuru",
+      "commentCount": "111"
+    },
+    "FetchedAt": "2026-08-24T18:28:17.4014186+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49421489"
+    },
+    "Type": 1,
+    "Title": "IPFS Maintainers Winding Down",
+    "Url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+    "Description": "IPFS Maintainers Winding Down",
+    "Metadata": {
+      "score": "169",
+      "author": "iand",
+      "commentCount": "69"
+    },
+    "FetchedAt": "2026-08-24T18:28:17.4332994+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49422784"
+    },
+    "Type": 1,
+    "Title": "The entire city of San Francisco as a video game",
+    "Url": "https://sf.thijs.gg/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;twitter.com\u0026#x2F;cdngdev\u0026#x2F;status\u0026#x2F;2091909073038082139\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;twitter.com\u0026#x2F;cdngdev\u0026#x2F;status\u0026#x2F;2091909073038082139\u003C/a\u003E, \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;cdngdev\u0026#x2F;status\u0026#x2F;2091909073038082139\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;cdngdev\u0026#x2F;status\u0026#x2F;2091909073038082139\u003C/a\u003E",
+    "Metadata": {
+      "score": "67",
+      "author": "centrosphere",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-08-24T18:28:17.4638346+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49422548"
+    },
+    "Type": 1,
+    "Title": "Hot Chips 2026: CUDA Targets RISC-V \u2013 By Chester Lam",
+    "Url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+    "Description": "Hot Chips 2026: CUDA Targets RISC-V \u2013 By Chester Lam",
+    "Metadata": {
+      "score": "32",
+      "author": "rbanffy",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-08-24T18:28:17.4964216+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49419237"
+    },
+    "Type": 1,
+    "Title": "How Europe is killing makers and micro-entrepreneurs",
+    "Url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+    "Description": "How Europe is killing makers and micro-entrepreneurs",
+    "Metadata": {
+      "score": "723",
+      "author": "l-one-lone",
+      "commentCount": "485"
+    },
+    "FetchedAt": "2026-08-24T18:28:17.5284771+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49423495"
+    },
+    "Type": 1,
+    "Title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+    "Url": "https://www.ycombinator.com/companies/autostep/jobs",
+    "Description": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+    "Metadata": {
+      "score": "1",
+      "author": "adawg4",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-24T18:28:17.5601656+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49421536"
+    },
+    "Type": 1,
+    "Title": "Jabber/XMPP: 25 Years of Digital Independence",
+    "Url": "https://gultsch.de/posts/25-years-of-digital-independence/",
+    "Description": "Jabber/XMPP: 25 Years of Digital Independence",
+    "Metadata": {
+      "score": "53",
+      "author": "inputmice",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-08-24T18:28:17.593613+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49421948"
+    },
+    "Type": 1,
+    "Title": "Show HN: GlassBox \u2013 what the browser reveals, and how identifiable you are",
+    "Url": "https://glassbox.codecanary.org",
+    "Description": "Show HN: GlassBox \u2013 what the browser reveals, and how identifiable you are",
+    "Metadata": {
+      "score": "41",
+      "author": "tke248",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-08-24T18:28:17.6245522+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49421074"
+    },
+    "Type": 1,
+    "Title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+    "Url": "https://developers.openai.com/api/docs/pricing",
+    "Description": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+    "Metadata": {
+      "score": "169",
+      "author": "tosh",
+      "commentCount": "163"
+    },
+    "FetchedAt": "2026-08-24T18:28:17.6552943+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49421806"
+    },
+    "Type": 1,
+    "Title": "Show HN: PicoMQ \u2013 Durable Streams over HTTP, on object storage",
+    "Url": "https://picomq.com/",
+    "Description": "PicoMQ is a Rust server for Durable Streams, built on Object Store. Cheap, URL-addressable, granular streams (create\u0026#x2F;append\u0026#x2F;read\u0026#x2F;long-poll\u0026#x2F;SSE), with Pico Protocol or Durable Streams Protocol as the facade.\u003Cp\u003ES3Stream is the stream storage primitive, used in AutoMQ, shipped as a Rust library. Coordination is a command log in Postgres.",
+    "Metadata": {
+      "score": "33",
+      "author": "adesh_nalpet",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-24T18:28:17.6864992+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49418255"
+    },
+    "Type": 1,
+    "Title": "SeL4 security proofs now complete on AArch64",
+    "Url": "https://proofcraft.systems/news-2026/#2026-08-21",
+    "Description": "SeL4 security proofs now complete on AArch64",
+    "Metadata": {
+      "score": "142",
+      "author": "snvzz",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-08-24T18:28:17.7176055+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49421554"
+    },
+    "Type": 1,
+    "Title": "Coding expertise is going to collapse from AI reliance",
+    "Url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+    "Description": "Coding expertise is going to collapse from AI reliance",
+    "Metadata": {
+      "score": "237",
+      "author": "larsfaye",
+      "commentCount": "262"
+    },
+    "FetchedAt": "2026-08-24T18:28:17.7484579+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49423445"
+    },
+    "Type": 1,
+    "Title": "Adding 4 more 2.5GbE interfaces to the GMKtec NucBox G9",
+    "Url": "https://catskull.net/adding-4-more-25gbe-interfaces-to-the-gmktec-nucbox-g9.html",
+    "Description": "Adding 4 more 2.5GbE interfaces to the GMKtec NucBox G9",
+    "Metadata": {
+      "score": "6",
+      "author": "catskull",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-24T18:28:17.7814916+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49412396"
+    },
+    "Type": 1,
+    "Title": "I were 17, I\u0027d learn how to build LLMs from scratch",
+    "Url": "https://twitter.com/paulg/status/2091544343589060625",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;paulg\u0026#x2F;status\u0026#x2F;2091544343589060625\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;paulg\u0026#x2F;status\u0026#x2F;2091544343589060625\u003C/a\u003E",
+    "Metadata": {
+      "score": "419",
+      "author": "bilsbie",
+      "commentCount": "532"
+    },
+    "FetchedAt": "2026-08-24T18:28:17.8591989+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49423799"
+    },
+    "Type": 1,
+    "Title": "What Is a Syslog Server?",
+    "Url": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
+    "Description": "What Is a Syslog Server?",
+    "Metadata": {
+      "score": "3",
+      "author": "theanonymousone",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-08-24T18:28:17.8956788+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49420832"
+    },
+    "Type": 1,
+    "Title": "Adafruit USB Type C CC Resistor Fixer",
+    "Url": "https://www.adafruit.com/product/6323",
+    "Description": "Adafruit USB Type C CC Resistor Fixer",
+    "Metadata": {
+      "score": "42",
+      "author": "RicoElectrico",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-08-24T18:28:17.927728+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49422204"
+    },
+    "Type": 1,
+    "Title": "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
+    "Url": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure",
+    "Description": "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
+    "Metadata": {
+      "score": "69",
+      "author": "bearsyankees",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-08-24T18:28:17.9587011+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49420592"
+    },
+    "Type": 1,
+    "Title": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
+    "Url": "https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth",
+    "Description": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
+    "Metadata": {
+      "score": "32",
+      "author": "ksec",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-08-24T18:28:17.989972+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49422227"
+    },
+    "Type": 1,
+    "Title": "Public services are increasingly strained by LLM-written appeals for benefits",
+    "Url": "https://arxiv.org/abs/2608.16603",
+    "Description": "Public services are increasingly strained by LLM-written appeals for benefits",
+    "Metadata": {
+      "score": "47",
+      "author": "lensecat",
+      "commentCount": "56"
+    },
+    "FetchedAt": "2026-08-24T18:28:18.0535798+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49415271"
+    },
+    "Type": 1,
+    "Title": "Executable Is a SQLite Database",
+    "Url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+    "Description": "Executable Is a SQLite Database",
+    "Metadata": {
+      "score": "380",
+      "author": "setheron",
+      "commentCount": "77"
+    },
+    "FetchedAt": "2026-08-24T18:28:18.1393146+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49422481"
+    },
+    "Type": 1,
+    "Title": "EuroHPC Launches 6 Quantum Calls with \u20AC119M in Funding",
+    "Url": "https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/",
+    "Description": "EuroHPC Launches 6 Quantum Calls with \u20AC119M in Funding",
+    "Metadata": {
+      "score": "8",
+      "author": "rbanffy",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-08-24T18:28:18.1708782+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49357290"
+    },
+    "Type": 1,
+    "Title": "Curvature Beziers \u2013 Improving on a timeless recipe",
+    "Url": "https://acko.net/blog/curvature-beziers/",
+    "Description": "Curvature Beziers \u2013 Improving on a timeless recipe",
+    "Metadata": {
+      "score": "19",
+      "author": "boxed",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-08-24T18:28:18.2026704+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49419351"
+    },
+    "Type": 1,
+    "Title": "Show HN: A techno machine in one HTML file, with verifiable renders",
+    "Url": "https://ssx360.github.io/rack-02/?src=hn",
+    "Description": "Show HN: A techno machine in one HTML file, with verifiable renders",
+    "Metadata": {
+      "score": "86",
+      "author": "ssx360",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-08-24T18:28:18.2354357+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49415893"
+    },
+    "Type": 1,
+    "Title": "FDA clears blood test to aid evaluation for Alzheimer\u0027s disease",
+    "Url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+    "Description": "FDA clears blood test to aid evaluation for Alzheimer\u0027s disease",
+    "Metadata": {
+      "score": "157",
+      "author": "dabinat",
+      "commentCount": "74"
+    },
+    "FetchedAt": "2026-08-24T18:28:18.2680105+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49420861"
+    },
+    "Type": 1,
+    "Title": "Could We Dredge the Netherlands Without Fossil Fuels?",
+    "Url": "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels",
+    "Description": "Could We Dredge the Netherlands Without Fossil Fuels?",
+    "Metadata": {
+      "score": "19",
+      "author": "at1as",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-08-24T18:28:18.3018912+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49420902"
+    },
+    "Type": 1,
+    "Title": "Anna\u0027s Archive Owes $340 Million, Lost Several Domains, but It\u0027s Still Online",
+    "Url": "https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/",
+    "Description": "Anna\u0027s Archive Owes $340 Million, Lost Several Domains, but It\u0027s Still Online",
+    "Metadata": {
+      "score": "182",
+      "author": "Brajeshwar",
+      "commentCount": "111"
+    },
+    "FetchedAt": "2026-08-24T18:28:18.3514099+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49420556"
+    },
+    "Type": 1,
+    "Title": "Codefloe Is a Professionally Hosted Public Git Forge",
+    "Url": "https://codefloe.com/",
+    "Description": "Codefloe Is a Professionally Hosted Public Git Forge",
+    "Metadata": {
+      "score": "17",
+      "author": "jeremyjh",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-08-24T18:28:18.3833543+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49420781"
+    },
+    "Type": 1,
+    "Title": "Hot Chips 2026: Samsung and HBM Base Die Opportunities",
+    "Url": "https://chipsandcheese.com/p/hot-chips-2026-samsung-and-hbm-base",
+    "Description": "Hot Chips 2026: Samsung and HBM Base Die Opportunities",
+    "Metadata": {
+      "score": "11",
+      "author": "rbanffy",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-08-24T18:28:18.4227679+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49420999"
+    },
+    "Type": 1,
+    "Title": "NetBSD GSoC 2026 Improving RAIDframe",
+    "Url": "https://blog.netbsd.org/tnf/entry/gsoc2026_raidframe",
+    "Description": "NetBSD GSoC 2026 Improving RAIDframe",
+    "Metadata": {
+      "score": "17",
+      "author": "jaypatelani",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-08-24T18:28:18.4624809+00:00"
   }
 ]
