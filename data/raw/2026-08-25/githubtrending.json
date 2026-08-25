@@ -17,37 +17,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:openai/codex"
-    },
-    "Type": 0,
-    "Title": "openai/codex",
-    "Url": "https://github.com/openai/codex",
-    "Description": "Lightweight coding agent that runs in your terminal",
-    "Metadata": {
-      "owner": "openai",
-      "repo": "codex",
-      "language": "Rust",
-      "stars": "1,994"
-    },
-    "FetchedAt": "2026-08-25T06:32:25.5950182+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:multica-ai/andrej-karpathy-skills"
-    },
-    "Type": 0,
-    "Title": "multica-ai/andrej-karpathy-skills",
-    "Url": "https://github.com/multica-ai/andrej-karpathy-skills",
-    "Description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy\u0027s observations on LLM coding pitfalls.",
-    "Metadata": {
-      "owner": "multica-ai",
-      "repo": "andrej-karpathy-skills",
-      "stars": "588"
-    },
-    "FetchedAt": "2026-08-25T06:32:25.7794625+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:makeplane/plane"
     },
     "Type": 0,
@@ -82,39 +51,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:anthropics/claude-plugins-community"
-    },
-    "Type": 0,
-    "Title": "anthropics/claude-plugins-community",
-    "Url": "https://github.com/anthropics/claude-plugins-community",
-    "Description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror \u2014 submit plugins at clau.de/plugin-directory-submission.",
-    "Metadata": {
-      "owner": "anthropics",
-      "repo": "claude-plugins-community",
-      "language": "Python",
-      "stars": "489"
-    },
-    "FetchedAt": "2026-08-25T06:32:26.2890675+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:apache/maka"
-    },
-    "Type": 0,
-    "Title": "apache/maka",
-    "Url": "https://github.com/apache/maka",
-    "Description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-    "Metadata": {
-      "owner": "apache",
-      "repo": "maka",
-      "language": "TypeScript",
-      "stars": "411",
-      "topics": "agent-runtime, ai, ai-agent, apache, cli, desktop, electron, event-sourcing, incubator, llm, local-first, maka, tool-use, typescript"
-    },
-    "FetchedAt": "2026-08-25T06:32:26.4583795+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:PostHog/posthog"
     },
     "Type": 0,
@@ -129,39 +65,6 @@
       "topics": "ab-testing, ai-analytics, analytics, cdp, data-warehouse, experiments, feature-flags, javascript, product-analytics, python, react, session-replay, surveys, typescript, web-analytics"
     },
     "FetchedAt": "2026-08-25T06:32:26.6191695+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:AgriciDaniel/claude-obsidian"
-    },
-    "Type": 0,
-    "Title": "AgriciDaniel/claude-obsidian",
-    "Url": "https://github.com/AgriciDaniel/claude-obsidian",
-    "Description": "Self-organizing AI second brain for Obsidian \u002B Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy\u0027s LLM Wiki pattern.",
-    "Metadata": {
-      "owner": "AgriciDaniel",
-      "repo": "claude-obsidian",
-      "language": "Python",
-      "stars": "310",
-      "topics": "agent-skills, ai-note-taking, ai-second-brain, claude-code, claude-code-skill, claude-memory, claude-plugin, karpathy-llm-wiki, knowledge-graph, knowledge-management, note-taking, notion-alternative, obsidian, obsidian-ai, obsidian-plugin, obsidian-second-brain, open-source, personal-knowledge-management, pkm, second-brain"
-    },
-    "FetchedAt": "2026-08-25T06:32:26.8146745+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:basecamp/omarchy"
-    },
-    "Type": 0,
-    "Title": "basecamp/omarchy",
-    "Url": "https://github.com/basecamp/omarchy",
-    "Description": "Beautiful, Modern \u0026 Opinionated Linux",
-    "Metadata": {
-      "owner": "basecamp",
-      "repo": "omarchy",
-      "language": "Shell",
-      "stars": "1,056"
-    },
-    "FetchedAt": "2026-08-25T06:32:26.9575936+00:00"
   },
   {
     "ExternalId": {
@@ -191,10 +94,77 @@
       "owner": "freestylefly",
       "repo": "awesome-gpt-image-2",
       "language": "JavaScript",
-      "stars": "2,449",
+      "stars": "1,698",
       "topics": "agents, ai-image-generation, chatgpt, dsh-plugin, gpt-image-2, image-prompts, prompt-as-code, prompt-engineering, skills, workflow-automation"
     },
-    "FetchedAt": "2026-08-25T06:32:27.2688951+00:00"
+    "FetchedAt": "2026-08-25T12:32:19.6958268+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-plugins-community"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-plugins-community",
+    "Url": "https://github.com/anthropics/claude-plugins-community",
+    "Description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror \u2014 submit plugins at clau.de/plugin-directory-submission.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-plugins-community",
+      "language": "Python",
+      "stars": "350"
+    },
+    "FetchedAt": "2026-08-25T12:32:19.9497124+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:apache/maka"
+    },
+    "Type": 0,
+    "Title": "apache/maka",
+    "Url": "https://github.com/apache/maka",
+    "Description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+    "Metadata": {
+      "owner": "apache",
+      "repo": "maka",
+      "language": "TypeScript",
+      "stars": "538",
+      "topics": "agent-runtime, ai, ai-agent, apache, cli, desktop, electron, event-sourcing, incubator, llm, local-first, maka, tool-use, typescript"
+    },
+    "FetchedAt": "2026-08-25T12:32:20.1186151+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:TauricResearch/TradingAgents"
+    },
+    "Type": 0,
+    "Title": "TauricResearch/TradingAgents",
+    "Url": "https://github.com/TauricResearch/TradingAgents",
+    "Description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "Metadata": {
+      "owner": "TauricResearch",
+      "repo": "TradingAgents",
+      "language": "Python",
+      "stars": "191",
+      "topics": "agent, finance, llm, multiagent, trading"
+    },
+    "FetchedAt": "2026-08-25T12:32:20.2684224+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:AgriciDaniel/claude-obsidian"
+    },
+    "Type": 0,
+    "Title": "AgriciDaniel/claude-obsidian",
+    "Url": "https://github.com/AgriciDaniel/claude-obsidian",
+    "Description": "Self-organizing AI second brain for Obsidian \u002B Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy\u0027s LLM Wiki pattern.",
+    "Metadata": {
+      "owner": "AgriciDaniel",
+      "repo": "claude-obsidian",
+      "language": "Python",
+      "stars": "810",
+      "topics": "agent-skills, ai-note-taking, ai-second-brain, claude-code, claude-code-skill, claude-memory, claude-plugin, karpathy-llm-wiki, knowledge-graph, knowledge-management, note-taking, notion-alternative, obsidian, obsidian-ai, obsidian-plugin, obsidian-second-brain, open-source, personal-knowledge-management, pkm, second-brain"
+    },
+    "FetchedAt": "2026-08-25T12:32:20.4101895+00:00"
   },
   {
     "ExternalId": {
@@ -208,8 +178,105 @@
       "owner": "tinyhumansai",
       "repo": "openhuman",
       "language": "Rust",
-      "stars": "515"
+      "stars": "541"
     },
-    "FetchedAt": "2026-08-25T06:32:27.4229146+00:00"
+    "FetchedAt": "2026-08-25T12:32:20.5433105+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:basecamp/omarchy"
+    },
+    "Type": 0,
+    "Title": "basecamp/omarchy",
+    "Url": "https://github.com/basecamp/omarchy",
+    "Description": "Beautiful, Modern \u0026 Opinionated Linux",
+    "Metadata": {
+      "owner": "basecamp",
+      "repo": "omarchy",
+      "language": "Shell",
+      "stars": "1,080"
+    },
+    "FetchedAt": "2026-08-25T12:32:20.6817851+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Shubhamsaboo/awesome-llm-apps"
+    },
+    "Type": 0,
+    "Title": "Shubhamsaboo/awesome-llm-apps",
+    "Url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "Description": "100\u002B AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+    "Metadata": {
+      "owner": "Shubhamsaboo",
+      "repo": "awesome-llm-apps",
+      "language": "Python",
+      "stars": "161",
+      "topics": "agents, llms, python, rag"
+    },
+    "FetchedAt": "2026-08-25T12:32:20.8305907+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:multica-ai/andrej-karpathy-skills"
+    },
+    "Type": 0,
+    "Title": "multica-ai/andrej-karpathy-skills",
+    "Url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "Description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy\u0027s observations on LLM coding pitfalls.",
+    "Metadata": {
+      "owner": "multica-ai",
+      "repo": "andrej-karpathy-skills",
+      "stars": "828"
+    },
+    "FetchedAt": "2026-08-25T12:32:20.9772377+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:openai/codex"
+    },
+    "Type": 0,
+    "Title": "openai/codex",
+    "Url": "https://github.com/openai/codex",
+    "Description": "Lightweight coding agent that runs in your terminal",
+    "Metadata": {
+      "owner": "openai",
+      "repo": "codex",
+      "language": "Rust",
+      "stars": "1,183"
+    },
+    "FetchedAt": "2026-08-25T12:32:21.1185798+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:marin-community/marin"
+    },
+    "Type": 0,
+    "Title": "marin-community/marin",
+    "Url": "https://github.com/marin-community/marin",
+    "Description": "Open-source framework for the research and development of foundation models.",
+    "Metadata": {
+      "owner": "marin-community",
+      "repo": "marin",
+      "language": "Python",
+      "stars": "214"
+    },
+    "FetchedAt": "2026-08-25T12:32:21.3200539+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-plugins-official"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-plugins-official",
+    "Url": "https://github.com/anthropics/claude-plugins-official",
+    "Description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-plugins-official",
+      "language": "Python",
+      "stars": "47",
+      "topics": "claude-code, mcp, skills"
+    },
+    "FetchedAt": "2026-08-25T12:32:21.4748237+00:00"
   }
 ]
