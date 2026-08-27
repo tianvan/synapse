@@ -1,57 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:tt-a1i/archify"
-    },
-    "Type": 0,
-    "Title": "tt-a1i/archify",
-    "Url": "https://github.com/tt-a1i/archify",
-    "Description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams\u2014self-contained HTML with motion and crisp export.",
-    "Metadata": {
-      "owner": "tt-a1i",
-      "repo": "archify",
-      "language": "HTML",
-      "stars": "1,035",
-      "topics": "agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex, coding-agents, data-flow-diagram, deepseek-harness, developer-tools, diagram-as-code, diagrams, diagrams-as-code, dsh-plugin, mermaid-alternative, opencode, sequence-diagram, software-architecture, system-design, text-to-diagram"
-    },
-    "FetchedAt": "2026-08-27T06:24:41.5285757+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:freestylefly/awesome-gpt-image-2"
-    },
-    "Type": 0,
-    "Title": "freestylefly/awesome-gpt-image-2",
-    "Url": "https://github.com/freestylefly/awesome-gpt-image-2",
-    "Description": "Prompt as Code | GPT-Image2 \u5DE5\u4E1A\u7EA7\u63D0\u793A\u8BCD\u5F15\u64CE\u4E0E\u6A21\u677F\u5E93\uFF0C530\u002B \u4E2A\u6848\u4F8B\u9006\u5411\u5DE5\u7A0B\uFF0C20\u002B \u5957\u5DE5\u4E1A\u7EA7\u6A21\u677F\uFF0C\u5E76\u63D0\u70BC\u51FASkills\uFF0C\u6301\u7EED\u66F4\u65B0\u4E2D",
-    "Metadata": {
-      "owner": "freestylefly",
-      "repo": "awesome-gpt-image-2",
-      "language": "JavaScript",
-      "stars": "4,050",
-      "topics": "agents, ai-image-generation, chatgpt, dsh-plugin, gpt-image-2, image-prompts, prompt-as-code, prompt-engineering, skills, workflow-automation"
-    },
-    "FetchedAt": "2026-08-27T06:24:41.7259759+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:anthropics/claude-plugins-official"
-    },
-    "Type": 0,
-    "Title": "anthropics/claude-plugins-official",
-    "Url": "https://github.com/anthropics/claude-plugins-official",
-    "Description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "Metadata": {
-      "owner": "anthropics",
-      "repo": "claude-plugins-official",
-      "language": "Python",
-      "stars": "308",
-      "topics": "claude-code, mcp, skills"
-    },
-    "FetchedAt": "2026-08-27T06:24:41.8808743+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:Alishahryar1/free-claude-code"
     },
     "Type": 0,
@@ -65,23 +14,6 @@
       "stars": "536"
     },
     "FetchedAt": "2026-08-27T06:24:42.0180408+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:AgriciDaniel/claude-obsidian"
-    },
-    "Type": 0,
-    "Title": "AgriciDaniel/claude-obsidian",
-    "Url": "https://github.com/AgriciDaniel/claude-obsidian",
-    "Description": "Self-organizing AI second brain for Obsidian \u002B Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy\u0027s LLM Wiki pattern.",
-    "Metadata": {
-      "owner": "AgriciDaniel",
-      "repo": "claude-obsidian",
-      "language": "Python",
-      "stars": "810",
-      "topics": "agent-skills, ai-note-taking, ai-second-brain, claude-code, claude-code-skill, claude-memory, claude-plugin, karpathy-llm-wiki, knowledge-graph, knowledge-management, note-taking, notion-alternative, obsidian, obsidian-ai, obsidian-plugin, obsidian-second-brain, open-source, personal-knowledge-management, pkm, second-brain"
-    },
-    "FetchedAt": "2026-08-27T06:24:42.1352962+00:00"
   },
   {
     "ExternalId": {
@@ -133,23 +65,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:ConardLi/garden-skills"
-    },
-    "Type": 0,
-    "Title": "ConardLi/garden-skills",
-    "Url": "https://github.com/ConardLi/garden-skills",
-    "Description": "ConardLi\u0027s open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-    "Metadata": {
-      "owner": "ConardLi",
-      "repo": "garden-skills",
-      "language": "CSS",
-      "stars": "113",
-      "topics": "agent, claude, gpt-image-2, rag, skills, web-design"
-    },
-    "FetchedAt": "2026-08-27T06:24:42.6466537+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:browser-use/browser-use"
     },
     "Type": 0,
@@ -167,6 +82,91 @@
   },
   {
     "ExternalId": {
+      "Value": "github:bilawalsidhu/gods-eye-view"
+    },
+    "Type": 0,
+    "Title": "bilawalsidhu/gods-eye-view",
+    "Url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "Description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "Metadata": {
+      "owner": "bilawalsidhu",
+      "repo": "gods-eye-view",
+      "language": "JavaScript",
+      "stars": "1,984",
+      "topics": "3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis, osint, photogrammetry, satellite-tracking, spatial-intelligence, webgl, worldview"
+    },
+    "FetchedAt": "2026-08-27T21:30:53.3072207+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:freestylefly/awesome-gpt-image-2"
+    },
+    "Type": 0,
+    "Title": "freestylefly/awesome-gpt-image-2",
+    "Url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "Description": "Prompt as Code | GPT-Image2 \u5DE5\u4E1A\u7EA7\u63D0\u793A\u8BCD\u5F15\u64CE\u4E0E\u6A21\u677F\u5E93\uFF0C530\u002B \u4E2A\u6848\u4F8B\u9006\u5411\u5DE5\u7A0B\uFF0C20\u002B \u5957\u5DE5\u4E1A\u7EA7\u6A21\u677F\uFF0C\u5E76\u63D0\u70BC\u51FASkills\uFF0C\u6301\u7EED\u66F4\u65B0\u4E2D",
+    "Metadata": {
+      "owner": "freestylefly",
+      "repo": "awesome-gpt-image-2",
+      "language": "JavaScript",
+      "stars": "2,093",
+      "topics": "agents, ai-image-generation, chatgpt, dsh-plugin, gpt-image-2, image-prompts, prompt-as-code, prompt-engineering, skills, workflow-automation"
+    },
+    "FetchedAt": "2026-08-27T21:30:53.4615623+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:tt-a1i/archify"
+    },
+    "Type": 0,
+    "Title": "tt-a1i/archify",
+    "Url": "https://github.com/tt-a1i/archify",
+    "Description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams\u2014self-contained HTML with motion and crisp export.",
+    "Metadata": {
+      "owner": "tt-a1i",
+      "repo": "archify",
+      "language": "JavaScript",
+      "stars": "4,260",
+      "topics": "agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex, coding-agents, data-flow-diagram, deepseek-harness, developer-tools, diagram-as-code, diagrams, diagrams-as-code, dsh-plugin, mermaid-alternative, opencode, sequence-diagram, software-architecture, system-design, text-to-diagram"
+    },
+    "FetchedAt": "2026-08-27T21:30:53.5955367+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:JetBrains/go-modern-guidelines"
+    },
+    "Type": 0,
+    "Title": "JetBrains/go-modern-guidelines",
+    "Url": "https://github.com/JetBrains/go-modern-guidelines",
+    "Description": "Help AI coding agents write modern Go",
+    "Metadata": {
+      "owner": "JetBrains",
+      "repo": "go-modern-guidelines",
+      "language": "Go",
+      "stars": "314",
+      "topics": "ai-agents, coding-agent, developer-tools, go, golang, guidelines"
+    },
+    "FetchedAt": "2026-08-27T21:30:53.7153717+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-plugins-official"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-plugins-official",
+    "Url": "https://github.com/anthropics/claude-plugins-official",
+    "Description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-plugins-official",
+      "language": "Python",
+      "stars": "290",
+      "topics": "claude-code, mcp, skills"
+    },
+    "FetchedAt": "2026-08-27T21:30:53.8444533+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:K-Dense-AI/scientific-agent-skills"
     },
     "Type": 0,
@@ -177,10 +177,60 @@
       "owner": "K-Dense-AI",
       "repo": "scientific-agent-skills",
       "language": "Python",
-      "stars": "138",
+      "stars": "494",
       "topics": "agent-skills, ai-scientist, bioinformatics, chemoinformatics, claude, claude-skills, claudecode, clinical-research, computational-biology, data-analysis, drug-discovery, genomics, materials-science, metabolomics, proteomics, scientific-computing, scientific-visualization"
     },
-    "FetchedAt": "2026-08-27T06:24:43.060835+00:00"
+    "FetchedAt": "2026-08-27T21:30:53.9685662+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ConardLi/garden-skills"
+    },
+    "Type": 0,
+    "Title": "ConardLi/garden-skills",
+    "Url": "https://github.com/ConardLi/garden-skills",
+    "Description": "ConardLi\u0027s open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+    "Metadata": {
+      "owner": "ConardLi",
+      "repo": "garden-skills",
+      "language": "CSS",
+      "stars": "413",
+      "topics": "agent, claude, gpt-image-2, rag, skills, web-design"
+    },
+    "FetchedAt": "2026-08-27T21:30:54.0948618+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google/googletest"
+    },
+    "Type": 0,
+    "Title": "google/googletest",
+    "Url": "https://github.com/google/googletest",
+    "Description": "GoogleTest - Google Testing and Mocking Framework",
+    "Metadata": {
+      "owner": "google",
+      "repo": "googletest",
+      "language": "C\u002B\u002B",
+      "stars": "4"
+    },
+    "FetchedAt": "2026-08-27T21:30:54.2318697+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:AgriciDaniel/claude-obsidian"
+    },
+    "Type": 0,
+    "Title": "AgriciDaniel/claude-obsidian",
+    "Url": "https://github.com/AgriciDaniel/claude-obsidian",
+    "Description": "Self-organizing AI second brain for Obsidian \u002B Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy\u0027s LLM Wiki pattern.",
+    "Metadata": {
+      "owner": "AgriciDaniel",
+      "repo": "claude-obsidian",
+      "language": "Python",
+      "stars": "631",
+      "topics": "agent-skills, ai-note-taking, ai-second-brain, claude-code, claude-code-skill, claude-memory, claude-plugin, karpathy-llm-wiki, knowledge-graph, knowledge-management, note-taking, notion-alternative, obsidian, obsidian-ai, obsidian-plugin, obsidian-second-brain, open-source, personal-knowledge-management, pkm, second-brain"
+    },
+    "FetchedAt": "2026-08-27T21:30:54.3581287+00:00"
   },
   {
     "ExternalId": {
@@ -194,8 +244,57 @@
       "owner": "marin-community",
       "repo": "marin",
       "language": "Python",
-      "stars": "441"
+      "stars": "255"
     },
-    "FetchedAt": "2026-08-27T06:24:43.1959557+00:00"
+    "FetchedAt": "2026-08-27T21:30:54.4871581+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ComposioHQ/awesome-claude-skills"
+    },
+    "Type": 0,
+    "Title": "ComposioHQ/awesome-claude-skills",
+    "Url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "Description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "Metadata": {
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "language": "Python",
+      "stars": "125",
+      "topics": "agent-skills, ai-agents, antigravity, automation, claude, claude-code, codex, composio, cursor, developer-tools, gemini-cli, mcp, openai-codex, rube, saas, skill, workflow-automation"
+    },
+    "FetchedAt": "2026-08-27T21:30:54.6093297+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:actions/checkout"
+    },
+    "Type": 0,
+    "Title": "actions/checkout",
+    "Url": "https://github.com/actions/checkout",
+    "Description": "Action for checking out a repo",
+    "Metadata": {
+      "owner": "actions",
+      "repo": "checkout",
+      "language": "TypeScript",
+      "stars": "4"
+    },
+    "FetchedAt": "2026-08-27T21:30:54.7294525+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:TauricResearch/TradingAgents"
+    },
+    "Type": 0,
+    "Title": "TauricResearch/TradingAgents",
+    "Url": "https://github.com/TauricResearch/TradingAgents",
+    "Description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "Metadata": {
+      "owner": "TauricResearch",
+      "repo": "TradingAgents",
+      "language": "Python",
+      "stars": "323"
+    },
+    "FetchedAt": "2026-08-27T21:30:54.8554438+00:00"
   }
 ]
