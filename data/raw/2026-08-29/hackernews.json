@@ -136,21 +136,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49487341"
-    },
-    "Type": 1,
-    "Title": "Samsung\u0027s Processing-in-Memory (PIM)",
-    "Url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-    "Description": "Samsung\u0027s Processing-in-Memory (PIM)",
-    "Metadata": {
-      "score": "130",
-      "author": "ingve",
-      "commentCount": "44"
-    },
-    "FetchedAt": "2026-08-29T12:02:22.3851635+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49456819"
     },
     "Type": 1,
@@ -181,51 +166,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49485267"
-    },
-    "Type": 1,
-    "Title": "Boot a Virtual iPhone via Apple\u0027s Virtualization.framework",
-    "Url": "https://github.com/Lakr233/vphone-cli",
-    "Description": "Boot a Virtual iPhone via Apple\u0027s Virtualization.framework",
-    "Metadata": {
-      "score": "294",
-      "author": "hentrep",
-      "commentCount": "82"
-    },
-    "FetchedAt": "2026-08-29T12:02:22.5561033+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49450782"
-    },
-    "Type": 1,
-    "Title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
-    "Url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
-    "Description": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
-    "Metadata": {
-      "score": "36",
-      "author": "birdculture",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-08-29T12:02:22.6132603+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49478178"
-    },
-    "Type": 1,
-    "Title": "Htmx 4.0",
-    "Url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-    "Description": "Htmx 4.0",
-    "Metadata": {
-      "score": "690",
-      "author": "rmsaksida",
-      "commentCount": "172"
-    },
-    "FetchedAt": "2026-08-29T12:02:22.6699923+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49486334"
     },
     "Type": 1,
@@ -253,51 +193,6 @@
       "commentCount": "610"
     },
     "FetchedAt": "2026-08-29T12:02:22.7843829+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49486081"
-    },
-    "Type": 1,
-    "Title": "StemDeck, a free, open-source and local AI stem separator",
-    "Url": "https://github.com/stemdeckapp/stemdeck",
-    "Description": "StemDeck, a free, open-source and local AI stem separator",
-    "Metadata": {
-      "score": "116",
-      "author": "thclpr",
-      "commentCount": "26"
-    },
-    "FetchedAt": "2026-08-29T12:02:22.8411069+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49485416"
-    },
-    "Type": 1,
-    "Title": "I accidentally turned LLM memory into program analysis",
-    "Url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-    "Description": "I accidentally turned LLM memory into program analysis",
-    "Metadata": {
-      "score": "172",
-      "author": "matt_d",
-      "commentCount": "40"
-    },
-    "FetchedAt": "2026-08-29T12:02:22.8986325+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49477564"
-    },
-    "Type": 1,
-    "Title": "Inception-style curved map for turn-by-turn directions",
-    "Url": "https://www.orbify.eu/demo/",
-    "Description": "Inception-style curved map for turn-by-turn directions",
-    "Metadata": {
-      "score": "521",
-      "author": "smoser",
-      "commentCount": "176"
-    },
-    "FetchedAt": "2026-08-29T12:02:22.9551741+00:00"
   },
   {
     "ExternalId": {
@@ -391,21 +286,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49424320"
-    },
-    "Type": 1,
-    "Title": "Glacier Mice",
-    "Url": "https://en.wikipedia.org/wiki/Glacier_mice",
-    "Description": "Glacier Mice",
-    "Metadata": {
-      "score": "17",
-      "author": "ostacke",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-08-29T12:02:23.354807+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49486176"
     },
     "Type": 1,
@@ -448,21 +328,6 @@
       "commentCount": "15"
     },
     "FetchedAt": "2026-08-29T12:02:23.525436+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49435595"
-    },
-    "Type": 1,
-    "Title": "Time complexity of operations on Python\u0027s built-in types",
-    "Url": "https://docs.python.org/3.16/library/time-complexity.html",
-    "Description": "Time complexity of operations on Python\u0027s built-in types",
-    "Metadata": {
-      "score": "16",
-      "author": "theanonymousone",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-08-29T12:02:23.5818438+00:00"
   },
   {
     "ExternalId": {
@@ -568,5 +433,455 @@
       "commentCount": "32"
     },
     "FetchedAt": "2026-08-29T12:02:23.9851272+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49492193"
+    },
+    "Type": 1,
+    "Title": "The Internet Is Kind of a Predatory Cesspit Now",
+    "Url": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/",
+    "Description": "The Internet Is Kind of a Predatory Cesspit Now",
+    "Metadata": {
+      "score": "235",
+      "author": "ibobev",
+      "commentCount": "133"
+    },
+    "FetchedAt": "2026-08-29T20:14:38.1296216+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49492432"
+    },
+    "Type": 1,
+    "Title": "Warp builds self-improving agents on Claude",
+    "Url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+    "Description": "Warp builds self-improving agents on Claude",
+    "Metadata": {
+      "score": "31",
+      "author": "shenli3514",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-08-29T20:14:38.1757136+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49492632"
+    },
+    "Type": 1,
+    "Title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+    "Url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+    "Description": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+    "Metadata": {
+      "score": "13",
+      "author": "shenli3514",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-08-29T20:14:38.2210836+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49415386"
+    },
+    "Type": 1,
+    "Title": "Tether: iMessage, SMS, etc. on Linux",
+    "Url": "https://zackbartel.com/blog/2026/08/tether/",
+    "Description": "Tether: iMessage, SMS, etc. on Linux",
+    "Metadata": {
+      "score": "181",
+      "author": "zackb",
+      "commentCount": "89"
+    },
+    "FetchedAt": "2026-08-29T20:14:38.2662603+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49491714"
+    },
+    "Type": 1,
+    "Title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+    "Url": "https://tucker.wales/writing/bias-towards-action/",
+    "Description": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+    "Metadata": {
+      "score": "39",
+      "author": "tuckerwales",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-08-29T20:14:38.3129448+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49426995"
+    },
+    "Type": 1,
+    "Title": "SQLite as a Document Database (2020)",
+    "Url": "https://dgl.cx/2020/06/sqlite-json-support",
+    "Description": "SQLite as a Document Database (2020)",
+    "Metadata": {
+      "score": "125",
+      "author": "lioeters",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-08-29T20:14:38.3583856+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49492067"
+    },
+    "Type": 1,
+    "Title": "vLLM v0.28.0",
+    "Url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+    "Description": "vLLM v0.28.0",
+    "Metadata": {
+      "score": "11",
+      "author": "mrrrcs",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-29T20:14:38.4034118+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49491568"
+    },
+    "Type": 1,
+    "Title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+    "Url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+    "Description": "Good Culture Is the Biggest Productivity Hack, Not AI",
+    "Metadata": {
+      "score": "109",
+      "author": "gpi",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-08-29T20:14:38.4490489+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49492219"
+    },
+    "Type": 1,
+    "Title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+    "Url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
+    "Description": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+    "Metadata": {
+      "score": "98",
+      "author": "firefax",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-08-29T20:14:38.4951424+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49490138"
+    },
+    "Type": 1,
+    "Title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+    "Url": "https://uecker.codeberg.page/2026-08-29.html",
+    "Description": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+    "Metadata": {
+      "score": "53",
+      "author": "uecker",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-08-29T20:14:38.5404801+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49428756"
+    },
+    "Type": 1,
+    "Title": "Sleepwalker: Passive Backdoor with Its Own Command Language",
+    "Url": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
+    "Description": "Sleepwalker: Passive Backdoor with Its Own Command Language",
+    "Metadata": {
+      "score": "40",
+      "author": "defrost",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-08-29T20:14:38.5878751+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49447178"
+    },
+    "Type": 1,
+    "Title": "Show HN: Typebase \u2013 A single-folder back end you write in TypeScript",
+    "Url": "https://typebase.io",
+    "Description": "Hey HN!\u003Cp\u003EI built Typebase, a library that gives you Convex\u0026#x27;s DX with Supabase\u0026#x27;s openness.\u003Cp\u003EAfter trying Supabase I liked how fast it is to spin up a DB and auth, but really didn\u0026#x27;t like using RLS and SQL for authorization. With Convex I loved how your server \u0026quot;lives\u0026quot; in your code, but disliked the DB model and the realtime-first defaults.\u003Cp\u003EWith Typebase you just write TS files inside a typebase\u0026#x2F; folder in your existing repo. You can define your DB tables inside a s",
+    "Metadata": {
+      "score": "80",
+      "author": "andrewww-dev",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-08-29T20:14:38.6347781+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49424320"
+    },
+    "Type": 1,
+    "Title": "Glacier Mice",
+    "Url": "https://en.wikipedia.org/wiki/Glacier_mice",
+    "Description": "Glacier Mice",
+    "Metadata": {
+      "score": "207",
+      "author": "ostacke",
+      "commentCount": "43"
+    },
+    "FetchedAt": "2026-08-29T20:14:38.6810255+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49487341"
+    },
+    "Type": 1,
+    "Title": "Samsung\u0027s Processing-in-Memory (PIM)",
+    "Url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+    "Description": "Samsung\u0027s Processing-in-Memory (PIM)",
+    "Metadata": {
+      "score": "220",
+      "author": "ingve",
+      "commentCount": "76"
+    },
+    "FetchedAt": "2026-08-29T20:14:38.7263653+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49490832"
+    },
+    "Type": 1,
+    "Title": "Quantifying Colour",
+    "Url": "https://ekunazanu.foo/lab/quantifying-colour/",
+    "Description": "Quantifying Colour",
+    "Metadata": {
+      "score": "44",
+      "author": "vismit2000",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-08-29T20:14:38.7715206+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49491544"
+    },
+    "Type": 1,
+    "Title": "A better SQL in 11 lines of code",
+    "Url": "https://prela-lang.org/tutorial/",
+    "Description": "A better SQL in 11 lines of code",
+    "Metadata": {
+      "score": "22",
+      "author": "remywang",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-08-29T20:14:38.8174426+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49433328"
+    },
+    "Type": 1,
+    "Title": "EVE Online moves to Python 3",
+    "Url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+    "Description": "EVE Online moves to Python 3",
+    "Metadata": {
+      "score": "235",
+      "author": "TylerJaacks",
+      "commentCount": "118"
+    },
+    "FetchedAt": "2026-08-29T20:14:38.900868+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49479546"
+    },
+    "Type": 1,
+    "Title": "Creating the Aetheryte Radio",
+    "Url": "https://haz.ee/posts/aetheryte-radio.html",
+    "Description": "Creating the Aetheryte Radio",
+    "Metadata": {
+      "score": "52",
+      "author": "wonger_",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-08-29T20:14:38.9840602+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49417662"
+    },
+    "Type": 1,
+    "Title": "Kmart Digicam Mod Part 2",
+    "Url": "https://mason.bearblog.dev/kmart-digicam-mod-part-2/",
+    "Description": "Kmart Digicam Mod Part 2",
+    "Metadata": {
+      "score": "5",
+      "author": "masoniamme",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-08-29T20:14:39.0437861+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49490702"
+    },
+    "Type": 1,
+    "Title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+    "Url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
+    "Description": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+    "Metadata": {
+      "score": "169",
+      "author": "400thecat",
+      "commentCount": "60"
+    },
+    "FetchedAt": "2026-08-29T20:14:39.3464301+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49490870"
+    },
+    "Type": 1,
+    "Title": "Nancy Grace Roman Space Telescope",
+    "Url": "https://science.nasa.gov/mission/roman-space-telescope/",
+    "Description": "Nancy Grace Roman Space Telescope",
+    "Metadata": {
+      "score": "84",
+      "author": "JumpCrisscross",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-08-29T20:14:39.4139594+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49478178"
+    },
+    "Type": 1,
+    "Title": "Htmx 4.0",
+    "Url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+    "Description": "Htmx 4.0",
+    "Metadata": {
+      "score": "786",
+      "author": "rmsaksida",
+      "commentCount": "196"
+    },
+    "FetchedAt": "2026-08-29T20:14:39.4723349+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49491175"
+    },
+    "Type": 1,
+    "Title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
+    "Url": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
+    "Description": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
+    "Metadata": {
+      "score": "8",
+      "author": "mooreds",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-08-29T20:14:39.5318086+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49485267"
+    },
+    "Type": 1,
+    "Title": "Boot a Virtual iPhone via Apple\u0027s Virtualization.framework",
+    "Url": "https://github.com/Lakr233/vphone-cli",
+    "Description": "Boot a Virtual iPhone via Apple\u0027s Virtualization.framework",
+    "Metadata": {
+      "score": "360",
+      "author": "hentrep",
+      "commentCount": "95"
+    },
+    "FetchedAt": "2026-08-29T20:14:39.6003258+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49420524"
+    },
+    "Type": 1,
+    "Title": "Show HN: Galaxium, an experimental WebGPU space explorer",
+    "Url": "https://galaxium.app",
+    "Description": "Show HN: Galaxium, an experimental WebGPU space explorer",
+    "Metadata": {
+      "score": "84",
+      "author": "guillaumec",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-08-29T20:14:39.679081+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49450782"
+    },
+    "Type": 1,
+    "Title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
+    "Url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
+    "Description": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
+    "Metadata": {
+      "score": "97",
+      "author": "birdculture",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-08-29T20:14:39.7498623+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49486081"
+    },
+    "Type": 1,
+    "Title": "StemDeck, a free, open-source and local AI stem separator",
+    "Url": "https://github.com/stemdeckapp/stemdeck",
+    "Description": "StemDeck, a free, open-source and local AI stem separator",
+    "Metadata": {
+      "score": "186",
+      "author": "thclpr",
+      "commentCount": "57"
+    },
+    "FetchedAt": "2026-08-29T20:14:39.8063103+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49435595"
+    },
+    "Type": 1,
+    "Title": "Time complexity of operations on Python\u0027s built-in types",
+    "Url": "https://docs.python.org/3.16/library/time-complexity.html",
+    "Description": "Time complexity of operations on Python\u0027s built-in types",
+    "Metadata": {
+      "score": "83",
+      "author": "theanonymousone",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-08-29T20:14:39.8943159+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49485416"
+    },
+    "Type": 1,
+    "Title": "I accidentally turned LLM memory into program analysis",
+    "Url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+    "Description": "I accidentally turned LLM memory into program analysis",
+    "Metadata": {
+      "score": "262",
+      "author": "matt_d",
+      "commentCount": "71"
+    },
+    "FetchedAt": "2026-08-29T20:14:40.0106119+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49477564"
+    },
+    "Type": 1,
+    "Title": "Inception-style curved map for turn-by-turn directions",
+    "Url": "https://www.orbify.eu/demo/",
+    "Description": "Inception-style curved map for turn-by-turn directions",
+    "Metadata": {
+      "score": "592",
+      "author": "smoser",
+      "commentCount": "186"
+    },
+    "FetchedAt": "2026-08-29T20:14:40.0865678+00:00"
   }
 ]
