@@ -1,0 +1,253 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:tt-a1i/archify"
+    },
+    "Type": 0,
+    "Title": "tt-a1i/archify",
+    "Url": "https://github.com/tt-a1i/archify",
+    "Description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams\u2014self-contained HTML with motion and crisp export.",
+    "Metadata": {
+      "owner": "tt-a1i",
+      "repo": "archify",
+      "language": "JavaScript",
+      "stars": "3,902",
+      "topics": "agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex, coding-agents, data-flow-diagram, deepseek-harness, developer-tools, diagram-as-code, diagrams, diagrams-as-code, dsh-plugin, mermaid-alternative, opencode, sequence-diagram, software-architecture, system-design, text-to-diagram"
+    },
+    "FetchedAt": "2026-08-30T02:47:47.4386696+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:bilawalsidhu/gods-eye-view"
+    },
+    "Type": 0,
+    "Title": "bilawalsidhu/gods-eye-view",
+    "Url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "Description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "Metadata": {
+      "owner": "bilawalsidhu",
+      "repo": "gods-eye-view",
+      "language": "JavaScript",
+      "stars": "1,855",
+      "topics": "3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis, osint, photogrammetry, satellite-tracking, spatial-intelligence, webgl, worldview"
+    },
+    "FetchedAt": "2026-08-30T02:47:47.60713+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:K-Dense-AI/scientific-agent-skills"
+    },
+    "Type": 0,
+    "Title": "K-Dense-AI/scientific-agent-skills",
+    "Url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "Description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000\u002B scientists worldwide. 165 ready-to-use validated skills plus 100\u002B scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "Metadata": {
+      "owner": "K-Dense-AI",
+      "repo": "scientific-agent-skills",
+      "language": "Python",
+      "stars": "1,587",
+      "topics": "agent-skills, ai-scientist, bioinformatics, chemoinformatics, claude, claude-skills, claudecode, clinical-research, computational-biology, data-analysis, drug-discovery, genomics, materials-science, metabolomics, proteomics, scientific-computing, scientific-visualization"
+    },
+    "FetchedAt": "2026-08-30T02:47:47.7250735+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:tailscale/tailcat"
+    },
+    "Type": 0,
+    "Title": "tailscale/tailcat",
+    "Url": "https://github.com/tailscale/tailcat",
+    "Description": "like netcat, but over Tailscale\u0027s data plane, without Tailscale\u0027s control plane",
+    "Metadata": {
+      "owner": "tailscale",
+      "repo": "tailcat",
+      "language": "Go",
+      "stars": "789"
+    },
+    "FetchedAt": "2026-08-30T02:47:47.8554803+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:THU-MAIC/OpenMAIC"
+    },
+    "Type": 0,
+    "Title": "THU-MAIC/OpenMAIC",
+    "Url": "https://github.com/THU-MAIC/OpenMAIC",
+    "Description": "Open Multi-Agent Interactive Classroom \u2014 Get an immersive, multi-agent learning experience in just one click",
+    "Metadata": {
+      "owner": "THU-MAIC",
+      "repo": "OpenMAIC",
+      "language": "TypeScript",
+      "stars": "907"
+    },
+    "FetchedAt": "2026-08-30T02:47:47.9961499+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:p-e-w/heretic"
+    },
+    "Type": 0,
+    "Title": "p-e-w/heretic",
+    "Url": "https://github.com/p-e-w/heretic",
+    "Description": "Fully automatic censorship removal for language models",
+    "Metadata": {
+      "owner": "p-e-w",
+      "repo": "heretic",
+      "language": "Python",
+      "stars": "150",
+      "topics": "abliteration, llm, transformer"
+    },
+    "FetchedAt": "2026-08-30T02:47:48.1133661+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:JetBrains/go-modern-guidelines"
+    },
+    "Type": 0,
+    "Title": "JetBrains/go-modern-guidelines",
+    "Url": "https://github.com/JetBrains/go-modern-guidelines",
+    "Description": "Help AI coding agents write modern Go",
+    "Metadata": {
+      "owner": "JetBrains",
+      "repo": "go-modern-guidelines",
+      "language": "Go",
+      "stars": "303",
+      "topics": "ai-agents, coding-agent, developer-tools, go, golang, guidelines"
+    },
+    "FetchedAt": "2026-08-30T02:47:48.2358364+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ComposioHQ/awesome-claude-skills"
+    },
+    "Type": 0,
+    "Title": "ComposioHQ/awesome-claude-skills",
+    "Url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "Description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "Metadata": {
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "language": "Python",
+      "stars": "73",
+      "topics": "agent-skills, ai-agents, antigravity, automation, claude, claude-code, codex, composio, cursor, developer-tools, gemini-cli, mcp, openai-codex, rube, saas, skill, workflow-automation"
+    },
+    "FetchedAt": "2026-08-30T02:47:48.3669096+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:every-app/open-seo"
+    },
+    "Type": 0,
+    "Title": "every-app/open-seo",
+    "Url": "https://github.com/every-app/open-seo",
+    "Description": "Open source alternative to Semrush and Ahrefs",
+    "Metadata": {
+      "owner": "every-app",
+      "repo": "open-seo",
+      "language": "TypeScript",
+      "stars": "517",
+      "topics": "backlink-analysis, google-search-console-mcp, keyword-research, mcp, seo, seo-tools, site-audit"
+    },
+    "FetchedAt": "2026-08-30T02:47:48.5212223+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Osmantic/ODS"
+    },
+    "Type": 0,
+    "Title": "Osmantic/ODS",
+    "Url": "https://github.com/Osmantic/ODS",
+    "Description": "Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+    "Metadata": {
+      "owner": "Osmantic",
+      "repo": "ODS",
+      "language": "Python",
+      "stars": "35",
+      "topics": "ai-agents, amd, comfyui, docker, llama-cpp, llm, local-ai, n8n, nvidia, open-webui, rag, self-hosted, speech-to-text, strix-halo, text-to-speech, workflow-automation"
+    },
+    "FetchedAt": "2026-08-30T02:47:48.6462128+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-plugins-official"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-plugins-official",
+    "Url": "https://github.com/anthropics/claude-plugins-official",
+    "Description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-plugins-official",
+      "language": "Python",
+      "stars": "358",
+      "topics": "claude-code, mcp, skills"
+    },
+    "FetchedAt": "2026-08-30T02:47:48.799312+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google/googletest"
+    },
+    "Type": 0,
+    "Title": "google/googletest",
+    "Url": "https://github.com/google/googletest",
+    "Description": "GoogleTest - Google Testing and Mocking Framework",
+    "Metadata": {
+      "owner": "google",
+      "repo": "googletest",
+      "language": "C\u002B\u002B",
+      "stars": "128"
+    },
+    "FetchedAt": "2026-08-30T02:47:48.9384004+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:actions/checkout"
+    },
+    "Type": 0,
+    "Title": "actions/checkout",
+    "Url": "https://github.com/actions/checkout",
+    "Description": "Action for checking out a repo",
+    "Metadata": {
+      "owner": "actions",
+      "repo": "checkout",
+      "language": "TypeScript",
+      "stars": "5"
+    },
+    "FetchedAt": "2026-08-30T02:47:49.0752714+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "JavaScript",
+      "stars": "196",
+      "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
+    },
+    "FetchedAt": "2026-08-30T02:47:49.2085027+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:workweave/router"
+    },
+    "Type": 0,
+    "Title": "workweave/router",
+    "Url": "https://github.com/workweave/router",
+    "Description": "Model router for agentic systems. Routes every prompt to the right model in \u003C50ms. Cut costs 40-70% with just an endpoint change.",
+    "Metadata": {
+      "owner": "workweave",
+      "repo": "router",
+      "language": "Go",
+      "stars": "284",
+      "topics": "agentic-coding, ai-gateway, anthropic, claude-code, codex, model-router, openai-compatible"
+    },
+    "FetchedAt": "2026-08-30T02:47:49.3238061+00:00"
+  }
+]
