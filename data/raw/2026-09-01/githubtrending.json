@@ -1,0 +1,237 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:THU-MAIC/OpenMAIC"
+    },
+    "Type": 0,
+    "Title": "THU-MAIC/OpenMAIC",
+    "Url": "https://github.com/THU-MAIC/OpenMAIC",
+    "Description": "Open Multi-Agent Interactive Classroom \u2014 Get an immersive, multi-agent learning experience in just one click",
+    "Metadata": {
+      "owner": "THU-MAIC",
+      "repo": "OpenMAIC",
+      "language": "TypeScript",
+      "stars": "2,824"
+    },
+    "FetchedAt": "2026-09-01T02:53:21.4713808+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:tt-a1i/archify"
+    },
+    "Type": 0,
+    "Title": "tt-a1i/archify",
+    "Url": "https://github.com/tt-a1i/archify",
+    "Description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams\u2014self-contained HTML with motion and crisp export.",
+    "Metadata": {
+      "owner": "tt-a1i",
+      "repo": "archify",
+      "language": "JavaScript",
+      "stars": "3,991",
+      "topics": "agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex, coding-agents, data-flow-diagram, deepseek-harness, developer-tools, diagram-as-code, diagrams, diagrams-as-code, dsh-plugin, mermaid-alternative, opencode, sequence-diagram, software-architecture, system-design, text-to-diagram"
+    },
+    "FetchedAt": "2026-09-01T02:53:21.6253974+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:K-Dense-AI/scientific-agent-skills"
+    },
+    "Type": 0,
+    "Title": "K-Dense-AI/scientific-agent-skills",
+    "Url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "Description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000\u002B scientists worldwide. 165 ready-to-use validated skills plus 100\u002B scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "Metadata": {
+      "owner": "K-Dense-AI",
+      "repo": "scientific-agent-skills",
+      "language": "Python",
+      "stars": "1,980",
+      "topics": "agent-skills, ai-scientist, bioinformatics, chemoinformatics, claude, claude-skills, claudecode, clinical-research, computational-biology, data-analysis, drug-discovery, genomics, materials-science, metabolomics, proteomics, scientific-computing, scientific-visualization"
+    },
+    "FetchedAt": "2026-09-01T02:53:21.7365162+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:k1tbyte/Wand-Enhancer"
+    },
+    "Type": 0,
+    "Title": "k1tbyte/Wand-Enhancer",
+    "Url": "https://github.com/k1tbyte/Wand-Enhancer",
+    "Description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+    "Metadata": {
+      "owner": "k1tbyte",
+      "repo": "Wand-Enhancer",
+      "language": "C#",
+      "stars": "582",
+      "topics": "csharp, wand, wand-enhancer, wand-pro, wemod, wpf"
+    },
+    "FetchedAt": "2026-09-01T02:53:21.8468062+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:majd/ipatool"
+    },
+    "Type": 0,
+    "Title": "majd/ipatool",
+    "Url": "https://github.com/majd/ipatool",
+    "Description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+    "Metadata": {
+      "owner": "majd",
+      "repo": "ipatool",
+      "language": "Go",
+      "stars": "373",
+      "topics": "apple, appstore, cli, command-line, command-line-tool, go, golang, golang-library, ios, ipa, itunes, macos, research, reverse-engineering, security, swift, tool"
+    },
+    "FetchedAt": "2026-09-01T02:53:21.9527582+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jingyaogong/minimind"
+    },
+    "Type": 0,
+    "Title": "jingyaogong/minimind",
+    "Url": "https://github.com/jingyaogong/minimind",
+    "Description": "\uD83E\uDDE0 Train a 64M-parameter LLM from scratch in just 2h!",
+    "Metadata": {
+      "owner": "jingyaogong",
+      "repo": "minimind",
+      "language": "Python",
+      "stars": "495",
+      "topics": "artificial-intelligence, large-language-model"
+    },
+    "FetchedAt": "2026-09-01T02:53:22.0618341+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Osmantic/ODS"
+    },
+    "Type": 0,
+    "Title": "Osmantic/ODS",
+    "Url": "https://github.com/Osmantic/ODS",
+    "Description": "Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+    "Metadata": {
+      "owner": "Osmantic",
+      "repo": "ODS",
+      "language": "Python",
+      "stars": "77",
+      "topics": "ai-agents, amd, comfyui, docker, llama-cpp, llm, local-ai, n8n, nvidia, open-webui, rag, self-hosted, speech-to-text, strix-halo, text-to-speech, workflow-automation"
+    },
+    "FetchedAt": "2026-09-01T02:53:22.1732509+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:checkstyle/checkstyle"
+    },
+    "Type": 0,
+    "Title": "checkstyle/checkstyle",
+    "Url": "https://github.com/checkstyle/checkstyle",
+    "Description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+    "Metadata": {
+      "owner": "checkstyle",
+      "repo": "checkstyle",
+      "language": "Java",
+      "stars": "198",
+      "topics": "code-quality, command-line-tool, hacktoberfest, java, static-analysis, static-code-analysis"
+    },
+    "FetchedAt": "2026-09-01T02:53:22.2901576+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:zhaoxuya520/reverse-skill"
+    },
+    "Type": 0,
+    "Title": "zhaoxuya520/reverse-skill",
+    "Url": "https://github.com/zhaoxuya520/reverse-skill",
+    "Description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing \u002B On-demand toolchain bootstrapping \u002B Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients \u9006\u5411/\u6E17\u900F/\u5B89\u5168\u6280\u80FD\u8DEF\u7531\u5305 - AI \u81EA\u52A8\u8DEF\u7531 \u002B \u6309\u9700\u81EA\u4E3E\u5DE5\u5177\u94FE \u002B \u81EA\u52A8\u8FDB\u5316\u7ECF\u9A8C\u5E93 | \u652F\u6301 Claude Code / Kiro / Cursor / Cline \u7B49\u4EE3\u7801 AI \u5BA2\u6237\u7AEF",
+    "Metadata": {
+      "owner": "zhaoxuya520",
+      "repo": "reverse-skill",
+      "language": "PowerShell",
+      "stars": "1,401"
+    },
+    "FetchedAt": "2026-09-01T02:53:22.3971576+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:every-app/open-seo"
+    },
+    "Type": 0,
+    "Title": "every-app/open-seo",
+    "Url": "https://github.com/every-app/open-seo",
+    "Description": "Open source alternative to Semrush and Ahrefs",
+    "Metadata": {
+      "owner": "every-app",
+      "repo": "open-seo",
+      "language": "TypeScript",
+      "stars": "610",
+      "topics": "backlink-analysis, google-search-console-mcp, keyword-research, mcp, seo, seo-tools, site-audit"
+    },
+    "FetchedAt": "2026-09-01T02:53:22.5728958+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:p-e-w/heretic"
+    },
+    "Type": 0,
+    "Title": "p-e-w/heretic",
+    "Url": "https://github.com/p-e-w/heretic",
+    "Description": "Fully automatic censorship removal for language models",
+    "Metadata": {
+      "owner": "p-e-w",
+      "repo": "heretic",
+      "language": "Python",
+      "stars": "537",
+      "topics": "abliteration, llm, transformer"
+    },
+    "FetchedAt": "2026-09-01T02:53:22.679307+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:handsomestWei/patent-disclosure-skill"
+    },
+    "Type": 0,
+    "Title": "handsomestWei/patent-disclosure-skill",
+    "Url": "https://github.com/handsomestWei/patent-disclosure-skill",
+    "Description": "\u4E2D\u56FD\u4E13\u5229.skill\uFF1A\u4E13\u5229\u70B9\u6316\u6398\u4E0E\u4EA4\u5E95\u4E66\uFF08\u53D1\u660E/\u5B9E\u7528/\u5916\u89C2\uFF09\u7F16\u5199\uFF0C\u901A\u4FD7\u89E3\u8BFB\u4E13\u5229\uFF0C\u55C5\u63A2\u653F\u7B56\u52A8\u5411\uFF0C\u8F85\u52A9\u5BA1\u67E5\u7B54\u590D\u3002",
+    "Metadata": {
+      "owner": "handsomestWei",
+      "repo": "patent-disclosure-skill",
+      "language": "Python",
+      "stars": "571",
+      "topics": "chinese, disclosure, obsidian, patent, skill"
+    },
+    "FetchedAt": "2026-09-01T02:53:22.7889247+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:firecrawl/pdf-inspector"
+    },
+    "Type": 0,
+    "Title": "firecrawl/pdf-inspector",
+    "Url": "https://github.com/firecrawl/pdf-inspector",
+    "Description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+    "Metadata": {
+      "owner": "firecrawl",
+      "repo": "pdf-inspector",
+      "language": "Rust",
+      "stars": "228",
+      "topics": "markdown, nodejs, ocr-routing, pdf, pdf-classification, pdf-extraction, pdf-parser, python, rust, text-extraction"
+    },
+    "FetchedAt": "2026-09-01T02:53:22.9342128+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pollen-robotics/microduck_rl"
+    },
+    "Type": 0,
+    "Title": "pollen-robotics/microduck_rl",
+    "Url": "https://github.com/pollen-robotics/microduck_rl",
+    "Description": "RL training environments for Microduck (mjlab)",
+    "Metadata": {
+      "owner": "pollen-robotics",
+      "repo": "microduck_rl",
+      "language": "Python",
+      "stars": "385"
+    },
+    "FetchedAt": "2026-09-01T02:53:23.0638306+00:00"
+  }
+]
