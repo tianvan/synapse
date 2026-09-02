@@ -181,21 +181,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49533497"
-    },
-    "Type": 1,
-    "Title": "Commodore 64 released September 1, 1982",
-    "Url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
-    "Description": "Commodore 64 released September 1, 1982",
-    "Metadata": {
-      "score": "62",
-      "author": "giuliomagnifico",
-      "commentCount": "7"
-    },
-    "FetchedAt": "2026-09-02T10:18:20.9918621+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49525378"
     },
     "Type": 1,
@@ -211,21 +196,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49531651"
-    },
-    "Type": 1,
-    "Title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-    "Url": "https://arxiv.org/abs/2608.29530",
-    "Description": "The Emergent Symbolic Structure of Artificial Neural Networks",
-    "Metadata": {
-      "score": "151",
-      "author": "schmuhblaster",
-      "commentCount": "47"
-    },
-    "FetchedAt": "2026-09-02T10:18:21.1058872+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49526069"
     },
     "Type": 1,
@@ -238,21 +208,6 @@
       "commentCount": "784"
     },
     "FetchedAt": "2026-09-02T10:18:21.1633891+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49524863"
-    },
-    "Type": 1,
-    "Title": "Fine, I\u0027ll build my own text editor",
-    "Url": "https://dbushell.com/2026/09/01/text-editor/",
-    "Description": "Fine, I\u0027ll build my own text editor",
-    "Metadata": {
-      "score": "130",
-      "author": "Alephinitesimal",
-      "commentCount": "116"
-    },
-    "FetchedAt": "2026-09-02T10:18:21.2200905+00:00"
   },
   {
     "ExternalId": {
@@ -298,21 +253,6 @@
       "commentCount": "32"
     },
     "FetchedAt": "2026-09-02T10:18:21.3909282+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49533557"
-    },
-    "Type": 1,
-    "Title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
-    "Url": "https://careers.telli.com/",
-    "Description": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
-    "Metadata": {
-      "score": "1",
-      "author": "sebselassie",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-09-02T10:18:21.447686+00:00"
   },
   {
     "ExternalId": {
@@ -628,5 +568,455 @@
       "commentCount": "5"
     },
     "FetchedAt": "2026-09-02T10:18:22.6564322+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49535752"
+    },
+    "Type": 1,
+    "Title": "A Note from LWN",
+    "Url": "https://lwn.net/Articles/1090585/",
+    "Description": "A Note from LWN",
+    "Metadata": {
+      "score": "387",
+      "author": "rwky",
+      "commentCount": "76"
+    },
+    "FetchedAt": "2026-09-02T15:43:21.260303+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49537553"
+    },
+    "Type": 1,
+    "Title": "Gemini 3.8 Flash",
+    "Url": "https://deepmind.google/models/model-cards/gemini-3-8-flash/",
+    "Description": "Gemini 3.8 Flash",
+    "Metadata": {
+      "score": "48",
+      "author": "bratao",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-09-02T15:43:21.2885356+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49536079"
+    },
+    "Type": 1,
+    "Title": "Biggest dark matter detector spots a single weird particle",
+    "Url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+    "Description": "Biggest dark matter detector spots a single weird particle",
+    "Metadata": {
+      "score": "85",
+      "author": "randycupertino",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-09-02T15:43:21.3169616+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49536384"
+    },
+    "Type": 1,
+    "Title": "GrapheneOS says Pixel 11 has MTE support after all",
+    "Url": "https://grapheneos.social/@GrapheneOS/117194007157499435",
+    "Description": "GrapheneOS says Pixel 11 has MTE support after all",
+    "Metadata": {
+      "score": "69",
+      "author": "user_7832",
+      "commentCount": "49"
+    },
+    "FetchedAt": "2026-09-02T15:43:21.34581+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49535284"
+    },
+    "Type": 1,
+    "Title": "Mistral now trains on user input by default, except on enterprise tier",
+    "Url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+    "Description": "Mistral now trains on user input by default, except on enterprise tier",
+    "Metadata": {
+      "score": "128",
+      "author": "teekert",
+      "commentCount": "69"
+    },
+    "FetchedAt": "2026-09-02T15:43:21.3743123+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49536375"
+    },
+    "Type": 1,
+    "Title": "Three sites made 215,128 \u201Cbest software\u201D pages for AI. Perplexity cites them",
+    "Url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+    "Description": "Three sites made 215,128 \u201Cbest software\u201D pages for AI. Perplexity cites them",
+    "Metadata": {
+      "score": "111",
+      "author": "jakobgreenfeld",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-09-02T15:43:21.403607+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49536177"
+    },
+    "Type": 1,
+    "Title": "Poisson Disk Sampling",
+    "Url": "https://stripeacross.com/posts/poisson-disk-sampling/",
+    "Description": "Poisson Disk Sampling",
+    "Metadata": {
+      "score": "48",
+      "author": "vismit2000",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-09-02T15:43:21.4327659+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49536606"
+    },
+    "Type": 1,
+    "Title": "Exit the Cave",
+    "Url": "https://turtlespace.blog/p/exit-the-cave",
+    "Description": "Exit the Cave",
+    "Metadata": {
+      "score": "35",
+      "author": "akkartik",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-09-02T15:43:21.4631218+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49533497"
+    },
+    "Type": 1,
+    "Title": "Commodore 64 released September 1, 1982",
+    "Url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+    "Description": "Commodore 64 released September 1, 1982",
+    "Metadata": {
+      "score": "228",
+      "author": "giuliomagnifico",
+      "commentCount": "116"
+    },
+    "FetchedAt": "2026-09-02T15:43:21.4920327+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49536411"
+    },
+    "Type": 1,
+    "Title": "WebLLM: high-performance in-browser LLM inference engine",
+    "Url": "https://github.com/mlc-ai/web-llm",
+    "Description": "WebLLM: high-performance in-browser LLM inference engine",
+    "Metadata": {
+      "score": "17",
+      "author": "saikatsg",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-09-02T15:43:21.5203928+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49535548"
+    },
+    "Type": 1,
+    "Title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
+    "Url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+    "Description": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
+    "Metadata": {
+      "score": "57",
+      "author": "mdp2021",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-09-02T15:43:21.5517346+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49536114"
+    },
+    "Type": 1,
+    "Title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+    "Url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+    "Description": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+    "Metadata": {
+      "score": "71",
+      "author": "goobreee",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-09-02T15:43:21.5812399+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49536201"
+    },
+    "Type": 1,
+    "Title": "A third of Perplexity\u0027s citations don\u0027t contain the number they\u0027re cited for",
+    "Url": "https://hausresearch.com/reports/perplexity-citation-audit/",
+    "Description": "A third of Perplexity\u0027s citations don\u0027t contain the number they\u0027re cited for",
+    "Metadata": {
+      "score": "27",
+      "author": "jakobgreenfeld",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-09-02T15:43:21.6105873+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49513856"
+    },
+    "Type": 1,
+    "Title": "A Selection of Los Alamos Rolodex Business Cards",
+    "Url": "https://clui.org/collections/los-alamos-business-cards/selection-cards",
+    "Description": "A Selection of Los Alamos Rolodex Business Cards",
+    "Metadata": {
+      "score": "22",
+      "author": "1970-01-01",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-09-02T15:43:21.640987+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49535201"
+    },
+    "Type": 1,
+    "Title": "Check if a file was made with Claude",
+    "Url": "https://claude.com/check-content",
+    "Description": "Check if a file was made with Claude",
+    "Metadata": {
+      "score": "55",
+      "author": "frexs",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-09-02T15:43:21.6690085+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49535586"
+    },
+    "Type": 1,
+    "Title": "LLMs: Intelligence vs. Cost",
+    "Url": "https://openteams.com/intelligence-vs-cost/",
+    "Description": "LLMs: Intelligence vs. Cost",
+    "Metadata": {
+      "score": "32",
+      "author": "theanonymousone",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-09-02T15:43:21.6986692+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49535526"
+    },
+    "Type": 1,
+    "Title": "Dutch central bank moves share of gold from U.S., Canada to London",
+    "Url": "https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability",
+    "Description": "Dutch central bank moves share of gold from U.S., Canada to London",
+    "Metadata": {
+      "score": "141",
+      "author": "TechTechTech",
+      "commentCount": "117"
+    },
+    "FetchedAt": "2026-09-02T15:43:21.7479044+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49534921"
+    },
+    "Type": 1,
+    "Title": "Ending my elixir exploratory writing",
+    "Url": "https://lucassifoni.info/blog/the-end-of-this-elixir-log/",
+    "Description": "Ending my elixir exploratory writing",
+    "Metadata": {
+      "score": "52",
+      "author": "ffin",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-09-02T15:43:21.79852+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49531651"
+    },
+    "Type": 1,
+    "Title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+    "Url": "https://arxiv.org/abs/2608.29530",
+    "Description": "The Emergent Symbolic Structure of Artificial Neural Networks",
+    "Metadata": {
+      "score": "233",
+      "author": "schmuhblaster",
+      "commentCount": "80"
+    },
+    "FetchedAt": "2026-09-02T15:43:21.8467272+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49533557"
+    },
+    "Type": 1,
+    "Title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
+    "Url": "https://careers.telli.com/",
+    "Description": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
+    "Metadata": {
+      "score": "1",
+      "author": "sebselassie",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-02T15:43:21.8810725+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49535339"
+    },
+    "Type": 1,
+    "Title": "9000 RPM is faster than your screen refreshes",
+    "Url": "https://ma.ttias.be/9000-rpm/",
+    "Description": "9000 RPM is faster than your screen refreshes",
+    "Metadata": {
+      "score": "26",
+      "author": "Mojah",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-09-02T15:43:21.910036+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49535324"
+    },
+    "Type": 1,
+    "Title": "Using jq to format JSON on the clipboard",
+    "Url": "https://chris48s.github.io/blogmarks/posts/2021/jsontidy/",
+    "Description": "Using jq to format JSON on the clipboard",
+    "Metadata": {
+      "score": "33",
+      "author": "stefanvdw1",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-09-02T15:43:21.9388096+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49534041"
+    },
+    "Type": 1,
+    "Title": "Banca Etica Suspends A/I\u0027s Account While Condemning the Sanctions Behind It",
+    "Url": "https://sabot.media/post/banca-etica-statement-english",
+    "Description": "Banca Etica Suspends A/I\u0027s Account While Condemning the Sanctions Behind It",
+    "Metadata": {
+      "score": "46",
+      "author": "rendx",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-09-02T15:43:21.9686507+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49534524"
+    },
+    "Type": 1,
+    "Title": "It\u0027s OK to hardcode feature flags (2025)",
+    "Url": "https://code.mendhak.com/hardcode-feature-flags/",
+    "Description": "It\u0027s OK to hardcode feature flags (2025)",
+    "Metadata": {
+      "score": "56",
+      "author": "biscuits1",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-09-02T15:43:21.9967857+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49535583"
+    },
+    "Type": 1,
+    "Title": "The Cables That Connect the World",
+    "Url": "https://xn--gckvb8fzb.com/the-cables-that-connect-the-world/",
+    "Description": "The Cables That Connect the World",
+    "Metadata": {
+      "score": "24",
+      "author": "surprisetalk",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-09-02T15:43:22.0250943+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49535506"
+    },
+    "Type": 1,
+    "Title": "Why humanoid robots won\u0027t catch up to human workers any time soon",
+    "Url": "https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up",
+    "Description": "Why humanoid robots won\u0027t catch up to human workers any time soon",
+    "Metadata": {
+      "score": "19",
+      "author": "speckx",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-09-02T15:43:22.0561214+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49521590"
+    },
+    "Type": 1,
+    "Title": "Move in C\u002B\u002B without a std:move",
+    "Url": "https://andreasfertig.com/blog/2026/09/move-in-cpp-without-a-stdmove/",
+    "Description": "Move in C\u002B\u002B without a std:move",
+    "Metadata": {
+      "score": "28",
+      "author": "dalvrosa",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-09-02T15:43:22.0850423+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49534132"
+    },
+    "Type": 1,
+    "Title": "Quasar 438B: Europe\u0027s Leading AI Model",
+    "Url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+    "Description": "Quasar 438B: Europe\u0027s Leading AI Model",
+    "Metadata": {
+      "score": "102",
+      "author": "amunozo",
+      "commentCount": "84"
+    },
+    "FetchedAt": "2026-09-02T15:43:22.1130184+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49524863"
+    },
+    "Type": 1,
+    "Title": "Fine, I\u0027ll build my own text editor",
+    "Url": "https://dbushell.com/2026/09/01/text-editor/",
+    "Description": "Fine, I\u0027ll build my own text editor",
+    "Metadata": {
+      "score": "209",
+      "author": "Alephinitesimal",
+      "commentCount": "199"
+    },
+    "FetchedAt": "2026-09-02T15:43:22.1415337+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49535721"
+    },
+    "Type": 1,
+    "Title": "A Beginner\u0027s Deep Dive Guide to Entra Passkeys",
+    "Url": "https://emsroute.com/2026/03/19/passkeys-beginners-101/",
+    "Description": "A Beginner\u0027s Deep Dive Guide to Entra Passkeys",
+    "Metadata": {
+      "score": "16",
+      "author": "speckx",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-09-02T15:43:22.1712085+00:00"
   }
 ]
