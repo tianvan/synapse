@@ -1,0 +1,255 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:fmtlib/fmt"
+    },
+    "Type": 0,
+    "Title": "fmtlib/fmt",
+    "Url": "https://github.com/fmtlib/fmt",
+    "Description": "A modern formatting library",
+    "Metadata": {
+      "owner": "fmtlib",
+      "repo": "fmt",
+      "language": "C\u002B\u002B",
+      "stars": "14",
+      "topics": "c-plus-plus, chrono, cpp, cross-platform, floating-point, formatting, multiplatform, output, performance, printf, ranges, unicode"
+    },
+    "FetchedAt": "2026-09-03T02:20:56.0681819+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google-research/timesfm"
+    },
+    "Type": 0,
+    "Title": "google-research/timesfm",
+    "Url": "https://github.com/google-research/timesfm",
+    "Description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "Metadata": {
+      "owner": "google-research",
+      "repo": "timesfm",
+      "language": "Python",
+      "stars": "343"
+    },
+    "FetchedAt": "2026-09-03T02:20:56.2790521+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:debpalash/VoiceStudio"
+    },
+    "Type": 0,
+    "Title": "debpalash/VoiceStudio",
+    "Url": "https://github.com/debpalash/VoiceStudio",
+    "Description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription \u0026 audiobook creation in 646 languages.",
+    "Metadata": {
+      "owner": "debpalash",
+      "repo": "VoiceStudio",
+      "language": "Python",
+      "stars": "832",
+      "topics": "ai, audiobook, cuda, dubbing, elevenlabs-alternative, huggingface, local-first, mlx, omnivoice-studio, speech-to-text, tauri, text-to-speech, transcription, translate, tts, voice-ai, voice-cloning, voice-generation, voicestudio, workflow"
+    },
+    "FetchedAt": "2026-09-03T02:20:56.4316998+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:sngyai/Sequoia-X"
+    },
+    "Type": 0,
+    "Title": "sngyai/Sequoia-X",
+    "Url": "https://github.com/sngyai/Sequoia-X",
+    "Description": "A\u80A1\u81EA\u52A8\u9009\u80A1\u7CFB\u7EDF \u2014 \u591A\u79CD\u6280\u672F\u5F62\u6001\u81EA\u52A8\u626B\u63CF\uFF0C\u6536\u76D8\u540E\u81EA\u52A8\u8FD0\u884C\u5E76\u63A8\u9001\u98DE\u4E66",
+    "Metadata": {
+      "owner": "sngyai",
+      "repo": "Sequoia-X",
+      "language": "Python",
+      "stars": "63",
+      "topics": "a-shares, akshare, baostock, pandas, python, stock-screening, ta-lib, trading, turtle-trade"
+    },
+    "FetchedAt": "2026-09-03T02:20:56.5614548+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ChromeDevTools/chrome-devtools-mcp"
+    },
+    "Type": 0,
+    "Title": "ChromeDevTools/chrome-devtools-mcp",
+    "Url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "Description": "Chrome DevTools for coding agents",
+    "Metadata": {
+      "owner": "ChromeDevTools",
+      "repo": "chrome-devtools-mcp",
+      "language": "TypeScript",
+      "stars": "148",
+      "topics": "browser, chrome, chrome-devtools, debugging, devtools, mcp, mcp-server, puppeteer"
+    },
+    "FetchedAt": "2026-09-03T02:20:56.694751+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NousResearch/hermes-agent"
+    },
+    "Type": 0,
+    "Title": "NousResearch/hermes-agent",
+    "Url": "https://github.com/NousResearch/hermes-agent",
+    "Description": "The agent that grows with you",
+    "Metadata": {
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "language": "Python",
+      "stars": "533",
+      "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex, hermes, hermes-agent, llm, nous-research, openai"
+    },
+    "FetchedAt": "2026-09-03T02:20:56.8411379+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:superlinked/sie"
+    },
+    "Type": 0,
+    "Title": "superlinked/sie",
+    "Url": "https://github.com/superlinked/sie",
+    "Description": "Open-source inference server and production cluster for all the models your agent needs.",
+    "Metadata": {
+      "owner": "superlinked",
+      "repo": "sie",
+      "language": "Python",
+      "stars": "60",
+      "topics": "bge, colbert, data-pipeline, deep-learning, embeddings, inference, inference-server, information-retrieval, llm, ml, mlops, natural-language-processing, nlp, python, reranking, retrieval, retrieval-augmented-generation, semantic-search, splade, vector-search"
+    },
+    "FetchedAt": "2026-09-03T02:20:56.995453+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pacifio/atlas"
+    },
+    "Type": 0,
+    "Title": "pacifio/atlas",
+    "Url": "https://github.com/pacifio/atlas",
+    "Description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+    "Metadata": {
+      "owner": "pacifio",
+      "repo": "atlas",
+      "language": "Rust",
+      "stars": "888",
+      "topics": "ai, ai-coding-assistant, claude-code, codex, coding-agents, git, gitops, kilo-code, mcp, mcp-client, opencode, opencode-ai, opencode-skills, self-hosted, skills"
+    },
+    "FetchedAt": "2026-09-03T02:20:57.1478281+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:zyronon/TypeWords"
+    },
+    "Type": 0,
+    "Title": "zyronon/TypeWords",
+    "Url": "https://github.com/zyronon/TypeWords",
+    "Description": "Practice English, one strike, one step forward; \u7EC3\u4E60\u82F1\u8BED\uFF0C\u4E00\u6B21\u6572\u51FB\uFF0C\u4E00\u70B9\u8FDB\u6B65\uFF1B",
+    "Metadata": {
+      "owner": "zyronon",
+      "repo": "TypeWords",
+      "language": "Vue",
+      "stars": "21",
+      "topics": "english-learn, learn-english, memorizing-words, type-words, typing-practice, typingspeedtest"
+    },
+    "FetchedAt": "2026-09-03T02:20:57.2647748+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Imbad0202/academic-research-skills"
+    },
+    "Type": 0,
+    "Title": "Imbad0202/academic-research-skills",
+    "Url": "https://github.com/Imbad0202/academic-research-skills",
+    "Description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "Metadata": {
+      "owner": "Imbad0202",
+      "repo": "academic-research-skills",
+      "language": "Python",
+      "stars": "799",
+      "topics": "academic-pipeline, academic-writing, ai-research, claude, claude-code, literature-review, peer-review, prompt-engineering"
+    },
+    "FetchedAt": "2026-09-03T02:20:57.4092877+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:protocolbuffers/protobuf"
+    },
+    "Type": 0,
+    "Title": "protocolbuffers/protobuf",
+    "Url": "https://github.com/protocolbuffers/protobuf",
+    "Description": "Protocol Buffers - Google\u0027s data interchange format",
+    "Metadata": {
+      "owner": "protocolbuffers",
+      "repo": "protobuf",
+      "language": "C\u002B\u002B",
+      "stars": "18",
+      "topics": "marshalling, protobuf, protobuf-runtime, protoc, protocol-buffers, protocol-compiler, rpc, serialization"
+    },
+    "FetchedAt": "2026-09-03T02:20:57.5288858+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:vercel-labs/portless"
+    },
+    "Type": 0,
+    "Title": "vercel-labs/portless",
+    "Url": "https://github.com/vercel-labs/portless",
+    "Description": "Replace port numbers with stable, named local URLs. For humans and agents.",
+    "Metadata": {
+      "owner": "vercel-labs",
+      "repo": "portless",
+      "language": "TypeScript",
+      "stars": "73"
+    },
+    "FetchedAt": "2026-09-03T02:20:57.6650429+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:blader/humanizer"
+    },
+    "Type": 0,
+    "Title": "blader/humanizer",
+    "Url": "https://github.com/blader/humanizer",
+    "Description": "Agent skill that removes signs of AI-generated writing from text",
+    "Metadata": {
+      "owner": "blader",
+      "repo": "humanizer",
+      "language": "Python",
+      "stars": "374",
+      "topics": "agent-skills, ai-writing, claude-code, codex, cursor, prompt-engineering, writing-tools"
+    },
+    "FetchedAt": "2026-09-03T02:20:57.8100551+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Gitlawb/openclaude"
+    },
+    "Type": 0,
+    "Title": "Gitlawb/openclaude",
+    "Url": "https://github.com/Gitlawb/openclaude",
+    "Description": "runs anywhere. uses anything",
+    "Metadata": {
+      "owner": "Gitlawb",
+      "repo": "openclaude",
+      "language": "TypeScript",
+      "stars": "775",
+      "topics": "ai, ai-agent, ai-tools, cli, coding"
+    },
+    "FetchedAt": "2026-09-03T02:20:57.9489426+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:firecrawl/pdf-inspector"
+    },
+    "Type": 0,
+    "Title": "firecrawl/pdf-inspector",
+    "Url": "https://github.com/firecrawl/pdf-inspector",
+    "Description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+    "Metadata": {
+      "owner": "firecrawl",
+      "repo": "pdf-inspector",
+      "language": "Rust",
+      "stars": "586",
+      "topics": "markdown, nodejs, ocr-routing, pdf, pdf-classification, pdf-extraction, pdf-parser, python, rust, text-extraction"
+    },
+    "FetchedAt": "2026-09-03T02:20:58.0829878+00:00"
+  }
+]
