@@ -361,21 +361,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49548395"
-    },
-    "Type": 1,
-    "Title": "Audacity 4.0",
-    "Url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
-    "Description": "Audacity 4.0",
-    "Metadata": {
-      "score": "626",
-      "author": "ClydeN",
-      "commentCount": "150"
-    },
-    "FetchedAt": "2026-09-03T15:33:33.186902+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49550614"
     },
     "Type": 1,
@@ -391,21 +376,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49550698"
-    },
-    "Type": 1,
-    "Title": "Any Human Ever \u2013 One life, drawn at random from all who have ever lived",
-    "Url": "https://anyhumanever.com/",
-    "Description": "Any Human Ever \u2013 One life, drawn at random from all who have ever lived",
-    "Metadata": {
-      "score": "31",
-      "author": "thinkingemote",
-      "commentCount": "13"
-    },
-    "FetchedAt": "2026-09-03T15:33:33.2433652+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49549676"
     },
     "Type": 1,
@@ -418,21 +388,6 @@
       "commentCount": "134"
     },
     "FetchedAt": "2026-09-03T15:33:33.2710879+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49546753"
-    },
-    "Type": 1,
-    "Title": "Pre-Release of Polars 2.0",
-    "Url": "https://pola.rs/posts/announcing-polars-2/",
-    "Description": "Pre-Release of Polars 2.0",
-    "Metadata": {
-      "score": "305",
-      "author": "komape",
-      "commentCount": "100"
-    },
-    "FetchedAt": "2026-09-03T15:33:33.2992311+00:00"
   },
   {
     "ExternalId": {
@@ -631,21 +586,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49551096"
-    },
-    "Type": 1,
-    "Title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
-    "Url": "https://news.ycombinator.com/item?id=49551096",
-    "Description": "https:\u0026#x2F;\u0026#x2F;status.openai.com\nhttps:\u0026#x2F;\u0026#x2F;status.claude.com\nhttps:\u0026#x2F;\u0026#x2F;status.x.ai",
-    "Metadata": {
-      "score": "13",
-      "author": "halcdev",
-      "commentCount": "9"
-    },
-    "FetchedAt": "2026-09-03T15:33:33.6997816+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49511493"
     },
     "Type": 1,
@@ -808,5 +748,455 @@
       "commentCount": "130"
     },
     "FetchedAt": "2026-09-03T15:33:34.0147297+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49554643"
+    },
+    "Type": 1,
+    "Title": "GPT-6 Astra",
+    "Url": "https://openai.com/index/gpt-6-astra/",
+    "Description": "System Card: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;deploymentsafety.openai.com\u0026#x2F;gpt-6-astra\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;deploymentsafety.openai.com\u0026#x2F;gpt-6-astra\u003C/a\u003E",
+    "Metadata": {
+      "score": "481",
+      "author": "kibae",
+      "commentCount": "270"
+    },
+    "FetchedAt": "2026-09-03T20:20:44.4284349+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49554520"
+    },
+    "Type": 1,
+    "Title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+    "Url": "https://inference-docs.cerebras.ai/models/overview",
+    "Description": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+    "Metadata": {
+      "score": "252",
+      "author": "altertable",
+      "commentCount": "83"
+    },
+    "FetchedAt": "2026-09-03T20:20:44.4630842+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49550772"
+    },
+    "Type": 1,
+    "Title": ".name Termination",
+    "Url": "https://neil.fraser.name/news/2026/09/03/",
+    "Description": ".name Termination",
+    "Metadata": {
+      "score": "973",
+      "author": "pavel_lishin",
+      "commentCount": "287"
+    },
+    "FetchedAt": "2026-09-03T20:20:44.4972631+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49551760"
+    },
+    "Type": 1,
+    "Title": "K2 Horizon: A connected fleet of six open models",
+    "Url": "https://ifm.ai/blog/k2/",
+    "Description": "K2 Horizon: A connected fleet of six open models",
+    "Metadata": {
+      "score": "193",
+      "author": "karimf",
+      "commentCount": "63"
+    },
+    "FetchedAt": "2026-09-03T20:20:44.5320169+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49550698"
+    },
+    "Type": 1,
+    "Title": "Any Human Ever \u2013 One life, drawn at random from all who have ever lived",
+    "Url": "https://anyhumanever.com/",
+    "Description": "Any Human Ever \u2013 One life, drawn at random from all who have ever lived",
+    "Metadata": {
+      "score": "312",
+      "author": "thinkingemote",
+      "commentCount": "140"
+    },
+    "FetchedAt": "2026-09-03T20:20:44.5661468+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49550375"
+    },
+    "Type": 1,
+    "Title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+    "Url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+    "Description": "These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday.  It took an evening! Getting the feel right and shipping it took a few more weekends and evenings.\u003Cp\u003EI spent the last few weeks analyzing what Claude did, feeding it my 33 years of memory of how I built the game, my notes and the git repos. It wrote the first draft of the article, and I edited line by line over a week. The screen",
+    "Metadata": {
+      "score": "90",
+      "author": "rabahs",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-09-03T20:20:44.5997245+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49556147"
+    },
+    "Type": 1,
+    "Title": "GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index",
+    "Url": "https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra",
+    "Description": "GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index",
+    "Metadata": {
+      "score": "6",
+      "author": "wertyk",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-03T20:20:44.6345483+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49551096"
+    },
+    "Type": 1,
+    "Title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+    "Url": "https://news.ycombinator.com/item?id=49551096",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;status.openai.com\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;status.openai.com\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;status.claude.com\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;status.claude.com\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;status.x.ai\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;status.x.ai\u003C/a\u003E\u003Cp\u003E\u003Ci\u003EChatGPT outage \u2013 Resolved\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=49550614\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=49550614\u003C/a\u003E (315 comments)\u003Cp\u003E\u003Ci\u003EClaude outag",
+    "Metadata": {
+      "score": "261",
+      "author": "halcdev",
+      "commentCount": "472"
+    },
+    "FetchedAt": "2026-09-03T20:20:44.6698681+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49552572"
+    },
+    "Type": 1,
+    "Title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+    "Url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+    "Description": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+    "Metadata": {
+      "score": "55",
+      "author": "speckx",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-09-03T20:20:44.7043189+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49538069"
+    },
+    "Type": 1,
+    "Title": "Unusual Suspects",
+    "Url": "https://neal.fun/unusual-suspects/",
+    "Description": "Unusual Suspects",
+    "Metadata": {
+      "score": "34",
+      "author": "beeperboy95",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-09-03T20:20:44.7392573+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49537632"
+    },
+    "Type": 1,
+    "Title": "The true horror of Edgar Allan Poe\u2019s stories lies in their confessions",
+    "Url": "https://yalereview.org/article/emily-ogden-edgar-allan-poe",
+    "Description": "The true horror of Edgar Allan Poe\u2019s stories lies in their confessions",
+    "Metadata": {
+      "score": "18",
+      "author": "lermontov",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-09-03T20:20:44.774658+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49555691"
+    },
+    "Type": 1,
+    "Title": "OpenAI\u0027s GPT-6 Astra on ARC-AGI-3",
+    "Url": "https://arcprize.org/blog/astra",
+    "Description": "OpenAI\u0027s GPT-6 Astra on ARC-AGI-3",
+    "Metadata": {
+      "score": "16",
+      "author": "vignesh_warar",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-09-03T20:20:44.8339477+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49553173"
+    },
+    "Type": 1,
+    "Title": "Gooseworks (YC W23) Is Hiring \u2013\u00A0Founding Creative Engineer",
+    "Url": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer",
+    "Description": "Gooseworks (YC W23) Is Hiring \u2013\u00A0Founding Creative Engineer",
+    "Metadata": {
+      "score": "1",
+      "author": "shivsak",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-03T20:20:44.8687619+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49526453"
+    },
+    "Type": 1,
+    "Title": "The largest electric aircraft just flew [video]",
+    "Url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.ycombinator.com\u0026#x2F;library\u0026#x2F;Y6-the-world-s-largest-electric-aircraft-just-flew\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.ycombinator.com\u0026#x2F;library\u0026#x2F;Y6-the-world-s-largest-e...\u003C/a\u003E",
+    "Metadata": {
+      "score": "14",
+      "author": "feb",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-09-03T20:20:44.9017544+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49544618"
+    },
+    "Type": 1,
+    "Title": "GPS glitched across the US by as much as 33 feet",
+    "Url": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
+    "Description": "GPS glitched across the US by as much as 33 feet",
+    "Metadata": {
+      "score": "39",
+      "author": "thread_id",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-09-03T20:20:44.9352909+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49539556"
+    },
+    "Type": 1,
+    "Title": "Static Allocation, Constant Work",
+    "Url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
+    "Description": "Static Allocation, Constant Work",
+    "Metadata": {
+      "score": "80",
+      "author": "surprisetalk",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-09-03T20:20:44.9700194+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49548395"
+    },
+    "Type": 1,
+    "Title": "Audacity 4.0",
+    "Url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+    "Description": "Audacity 4.0",
+    "Metadata": {
+      "score": "945",
+      "author": "ClydeN",
+      "commentCount": "210"
+    },
+    "FetchedAt": "2026-09-03T20:20:45.0031798+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49552616"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Mireye (YC S26) \u2013 Infrastructure for Physical World AI Agents",
+    "Url": "https://news.ycombinator.com/item?id=49552616",
+    "Description": "Hi HN, I\u0026#x27;m Ansh, founder of Mireye (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.mireye.com\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.mireye.com\u003C/a\u003E). I\u0026#x27;m building the infrastructure AI agents use to make decisions about physical places: data, enrichment, tools, and signals for any US location, behind one API and MCP server.\u003Cp\u003EHere\u0026#x27;s a demo video: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=haqO6UbUqU0\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=haqO6UbUqU0\u003C/a\u003E\u003Cp\u003ETo try it, paste \u003Ca",
+    "Metadata": {
+      "score": "23",
+      "author": "anshchokshi",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-03T20:20:45.0369564+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49543220"
+    },
+    "Type": 1,
+    "Title": "VC isn\u0027t VC anymore",
+    "Url": "https://www.anildash.com/2026/09/02/cancer-capital/",
+    "Description": "VC isn\u0027t VC anymore",
+    "Metadata": {
+      "score": "97",
+      "author": "cdrnsf",
+      "commentCount": "116"
+    },
+    "FetchedAt": "2026-09-03T20:20:45.0711381+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49553321"
+    },
+    "Type": 1,
+    "Title": "How concerned should we be about Astra\u0027s recurrent architecture?",
+    "Url": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
+    "Description": "How concerned should we be about Astra\u0027s recurrent architecture?",
+    "Metadata": {
+      "score": "39",
+      "author": "yurivish",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-09-03T20:20:45.1053086+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49548256"
+    },
+    "Type": 1,
+    "Title": "Gloria Steinem has died",
+    "Url": "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.nytimes.com\u0026#x2F;2026\u0026#x2F;09\u0026#x2F;03\u0026#x2F;us\u0026#x2F;politics\u0026#x2F;gloria-steinem-dead.html\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.nytimes.com\u0026#x2F;2026\u0026#x2F;09\u0026#x2F;03\u0026#x2F;us\u0026#x2F;politics\u0026#x2F;gloria-steine...\u003C/a\u003E, \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;cfC1K\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;cfC1K\u003C/a\u003E",
+    "Metadata": {
+      "score": "55",
+      "author": "mellosouls",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-09-03T20:20:45.1406562+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49494043"
+    },
+    "Type": 1,
+    "Title": "\u201CWe want it to really confuse people, but also really make people happy\u201D",
+    "Url": "https://unsung.aresluna.org/we-want-it-to-really-confuse-people-but-also-really-make-people-happy/",
+    "Description": "\u201CWe want it to really confuse people, but also really make people happy\u201D",
+    "Metadata": {
+      "score": "38",
+      "author": "zdw",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-09-03T20:20:45.1747811+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49555478"
+    },
+    "Type": 1,
+    "Title": "The death of San Francisco\u0027s Market Street",
+    "Url": "https://www.noahpinion.blog/p/the-death-of-market-street",
+    "Description": "The death of San Francisco\u0027s Market Street",
+    "Metadata": {
+      "score": "11",
+      "author": "A_D_E_P_T",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-03T20:20:45.2095313+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49526298"
+    },
+    "Type": 1,
+    "Title": "Xanadu was waiting for agents",
+    "Url": "https://zed.dev/blog/agentic-xanadu",
+    "Description": "Xanadu was waiting for agents",
+    "Metadata": {
+      "score": "12",
+      "author": "nsm",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-09-03T20:20:45.2440732+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49548452"
+    },
+    "Type": 1,
+    "Title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
+    "Url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
+    "Description": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
+    "Metadata": {
+      "score": "211",
+      "author": "tosh",
+      "commentCount": "148"
+    },
+    "FetchedAt": "2026-09-03T20:20:45.2778973+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49515558"
+    },
+    "Type": 1,
+    "Title": "How to get a free .arpa domain",
+    "Url": "https://hawksley.dev/blog/get-free-arpa-domain",
+    "Description": "How to get a free .arpa domain",
+    "Metadata": {
+      "score": "70",
+      "author": "ethanhawksley",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-09-03T20:20:46.6089271+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49555233"
+    },
+    "Type": 1,
+    "Title": "The asteroid currently hitting front end web development",
+    "Url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+    "Description": "The asteroid currently hitting front end web development",
+    "Metadata": {
+      "score": "16",
+      "author": "codechicago277",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-09-03T20:20:47.1904828+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49544762"
+    },
+    "Type": 1,
+    "Title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+    "Url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+    "Description": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+    "Metadata": {
+      "score": "79",
+      "author": "gmays",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-09-03T20:20:47.2490513+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49540827"
+    },
+    "Type": 1,
+    "Title": "Unified Arabic",
+    "Url": "https://worksthatwork.com/6/unified-arabic",
+    "Description": "Unified Arabic",
+    "Metadata": {
+      "score": "50",
+      "author": "spacebuffer",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-09-03T20:20:47.3438648+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49546753"
+    },
+    "Type": 1,
+    "Title": "Pre-Release of Polars 2.0",
+    "Url": "https://pola.rs/posts/announcing-polars-2/",
+    "Description": "Pre-Release of Polars 2.0",
+    "Metadata": {
+      "score": "364",
+      "author": "komape",
+      "commentCount": "120"
+    },
+    "FetchedAt": "2026-09-03T20:20:47.4344111+00:00"
   }
 ]
