@@ -1,90 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:fmtlib/fmt"
-    },
-    "Type": 0,
-    "Title": "fmtlib/fmt",
-    "Url": "https://github.com/fmtlib/fmt",
-    "Description": "A modern formatting library",
-    "Metadata": {
-      "owner": "fmtlib",
-      "repo": "fmt",
-      "language": "C\u002B\u002B",
-      "stars": "963",
-      "topics": "c-plus-plus, chrono, cpp, cross-platform, floating-point, formatting, multiplatform, output, performance, printf, ranges, unicode"
-    },
-    "FetchedAt": "2026-09-04T10:16:13.0126557+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:NousResearch/hermes-agent"
-    },
-    "Type": 0,
-    "Title": "NousResearch/hermes-agent",
-    "Url": "https://github.com/NousResearch/hermes-agent",
-    "Description": "The agent that grows with you",
-    "Metadata": {
-      "owner": "NousResearch",
-      "repo": "hermes-agent",
-      "language": "Python",
-      "stars": "774",
-      "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex, hermes, hermes-agent, llm, nous-research, openai"
-    },
-    "FetchedAt": "2026-09-04T10:16:13.1860025+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:anthropics/skills"
-    },
-    "Type": 0,
-    "Title": "anthropics/skills",
-    "Url": "https://github.com/anthropics/skills",
-    "Description": "Public repository for Agent Skills",
-    "Metadata": {
-      "owner": "anthropics",
-      "repo": "skills",
-      "language": "Python",
-      "stars": "281",
-      "topics": "agent-skills"
-    },
-    "FetchedAt": "2026-09-04T10:16:13.337558+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:blader/humanizer"
-    },
-    "Type": 0,
-    "Title": "blader/humanizer",
-    "Url": "https://github.com/blader/humanizer",
-    "Description": "Agent skill that removes signs of AI-generated writing from text",
-    "Metadata": {
-      "owner": "blader",
-      "repo": "humanizer",
-      "language": "Python",
-      "stars": "1,208",
-      "topics": "agent-skills, ai-writing, claude-code, codex, cursor, prompt-engineering, writing-tools"
-    },
-    "FetchedAt": "2026-09-04T10:16:13.4617633+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:google-research/timesfm"
-    },
-    "Type": 0,
-    "Title": "google-research/timesfm",
-    "Url": "https://github.com/google-research/timesfm",
-    "Description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-    "Metadata": {
-      "owner": "google-research",
-      "repo": "timesfm",
-      "language": "Python",
-      "stars": "1,618"
-    },
-    "FetchedAt": "2026-09-04T10:16:13.5726955+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:averygan/reclip"
     },
     "Type": 0,
@@ -98,23 +14,6 @@
       "stars": "88"
     },
     "FetchedAt": "2026-09-04T10:16:13.7026585+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:bannedbook/fanqiang"
-    },
-    "Type": 0,
-    "Title": "bannedbook/fanqiang",
-    "Url": "https://github.com/bannedbook/fanqiang",
-    "Description": "\u7FFB\u5899-\u79D1\u5B66\u4E0A\u7F51",
-    "Metadata": {
-      "owner": "bannedbook",
-      "repo": "fanqiang",
-      "language": "Kotlin",
-      "stars": "522",
-      "topics": "brook, daze, fanqiang, goflyway, lightsocks, proxy, psiphon, shadowsocks, ssr, trojan, v2ray"
-    },
-    "FetchedAt": "2026-09-04T10:16:13.8345861+00:00"
   },
   {
     "ExternalId": {
@@ -148,22 +47,6 @@
       "topics": "aws, cloud-computing, coding-interviews, computer-science, interview-questions, software-architecture, software-development, software-engineering, system-design, system-design-interview"
     },
     "FetchedAt": "2026-09-04T10:16:15.0727417+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:magnitudedev/magnitude"
-    },
-    "Type": 0,
-    "Title": "magnitudedev/magnitude",
-    "Url": "https://github.com/magnitudedev/magnitude",
-    "Description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-    "Metadata": {
-      "owner": "magnitudedev",
-      "repo": "magnitude",
-      "language": "TypeScript",
-      "stars": "161"
-    },
-    "FetchedAt": "2026-09-04T10:16:15.1957698+00:00"
   },
   {
     "ExternalId": {
@@ -201,6 +84,123 @@
   },
   {
     "ExternalId": {
+      "Value": "github:fmtlib/fmt"
+    },
+    "Type": 0,
+    "Title": "fmtlib/fmt",
+    "Url": "https://github.com/fmtlib/fmt",
+    "Description": "A modern formatting library",
+    "Metadata": {
+      "owner": "fmtlib",
+      "repo": "fmt",
+      "language": "C\u002B\u002B",
+      "stars": "681",
+      "topics": "c-plus-plus, chrono, cpp, cross-platform, floating-point, formatting, multiplatform, output, performance, printf, ranges, unicode"
+    },
+    "FetchedAt": "2026-09-04T15:31:46.4333542+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/skills"
+    },
+    "Type": 0,
+    "Title": "anthropics/skills",
+    "Url": "https://github.com/anthropics/skills",
+    "Description": "Public repository for Agent Skills",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "skills",
+      "language": "Python",
+      "stars": "512",
+      "topics": "agent-skills"
+    },
+    "FetchedAt": "2026-09-04T15:31:46.6648455+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:blader/humanizer"
+    },
+    "Type": 0,
+    "Title": "blader/humanizer",
+    "Url": "https://github.com/blader/humanizer",
+    "Description": "Agent skill that removes signs of AI-generated writing from text",
+    "Metadata": {
+      "owner": "blader",
+      "repo": "humanizer",
+      "language": "Python",
+      "stars": "1,132",
+      "topics": "agent-skills, ai-writing, claude-code, codex, cursor, prompt-engineering, writing-tools"
+    },
+    "FetchedAt": "2026-09-04T15:31:46.8330813+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NousResearch/hermes-agent"
+    },
+    "Type": 0,
+    "Title": "NousResearch/hermes-agent",
+    "Url": "https://github.com/NousResearch/hermes-agent",
+    "Description": "The agent that grows with you",
+    "Metadata": {
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "language": "Python",
+      "stars": "721",
+      "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex, hermes, hermes-agent, llm, nous-research, openai"
+    },
+    "FetchedAt": "2026-09-04T15:31:46.9835078+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:magnitudedev/magnitude"
+    },
+    "Type": 0,
+    "Title": "magnitudedev/magnitude",
+    "Url": "https://github.com/magnitudedev/magnitude",
+    "Description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+    "Metadata": {
+      "owner": "magnitudedev",
+      "repo": "magnitude",
+      "language": "TypeScript",
+      "stars": "395"
+    },
+    "FetchedAt": "2026-09-04T15:31:47.1654886+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:bikini/exploitarium"
+    },
+    "Type": 0,
+    "Title": "bikini/exploitarium",
+    "Url": "https://github.com/bikini/exploitarium",
+    "Description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I\u0027ve always found this is the most efficient way.",
+    "Metadata": {
+      "owner": "bikini",
+      "repo": "exploitarium",
+      "language": "Python",
+      "stars": "68"
+    },
+    "FetchedAt": "2026-09-04T15:31:47.3550502+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:bannedbook/fanqiang"
+    },
+    "Type": 0,
+    "Title": "bannedbook/fanqiang",
+    "Url": "https://github.com/bannedbook/fanqiang",
+    "Description": "\u7FFB\u5899-\u79D1\u5B66\u4E0A\u7F51",
+    "Metadata": {
+      "owner": "bannedbook",
+      "repo": "fanqiang",
+      "language": "Kotlin",
+      "stars": "735",
+      "topics": "brook, daze, fanqiang, goflyway, lightsocks, proxy, psiphon, shadowsocks, ssr, trojan, v2ray"
+    },
+    "FetchedAt": "2026-09-04T15:31:47.4969059+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:debpalash/VoiceStudio"
     },
     "Type": 0,
@@ -211,9 +211,75 @@
       "owner": "debpalash",
       "repo": "VoiceStudio",
       "language": "Python",
-      "stars": "1,672",
+      "stars": "1,345",
       "topics": "ai, audiobook, cuda, dubbing, elevenlabs-alternative, huggingface, local-first, mlx, omnivoice-studio, speech-to-text, tauri, text-to-speech, transcription, translate, tts, voice-ai, voice-cloning, voice-generation, voicestudio, workflow"
     },
-    "FetchedAt": "2026-09-04T10:16:15.5953308+00:00"
+    "FetchedAt": "2026-09-04T15:31:47.6450704+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google-research/timesfm"
+    },
+    "Type": 0,
+    "Title": "google-research/timesfm",
+    "Url": "https://github.com/google-research/timesfm",
+    "Description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "Metadata": {
+      "owner": "google-research",
+      "repo": "timesfm",
+      "language": "Python",
+      "stars": "340"
+    },
+    "FetchedAt": "2026-09-04T15:31:47.7796886+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:radixark/miles"
+    },
+    "Type": 0,
+    "Title": "radixark/miles",
+    "Url": "https://github.com/radixark/miles",
+    "Description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+    "Metadata": {
+      "owner": "radixark",
+      "repo": "miles",
+      "language": "Python",
+      "stars": "55"
+    },
+    "FetchedAt": "2026-09-04T15:31:47.9601475+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:clshortfuse/renodx"
+    },
+    "Type": 0,
+    "Title": "clshortfuse/renodx",
+    "Url": "https://github.com/clshortfuse/renodx",
+    "Description": "Renovation Engine for DirectX Games",
+    "Metadata": {
+      "owner": "clshortfuse",
+      "repo": "renodx",
+      "language": "HLSL",
+      "stars": "759",
+      "topics": "directx, games, hdr, mod"
+    },
+    "FetchedAt": "2026-09-04T15:31:48.1185051+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cathrynlavery/diagram-design"
+    },
+    "Type": 0,
+    "Title": "cathrynlavery/diagram-design",
+    "Url": "https://github.com/cathrynlavery/diagram-design",
+    "Description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML \u002B SVG. No shadows. No Mermaid slop.",
+    "Metadata": {
+      "owner": "cathrynlavery",
+      "repo": "diagram-design",
+      "language": "HTML",
+      "stars": "426",
+      "topics": "agent-skills, claude-code, codex, data-visualization, diagrams, drawio, mermaid, svg"
+    },
+    "FetchedAt": "2026-09-04T15:31:48.286979+00:00"
   }
 ]
