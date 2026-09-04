@@ -1,0 +1,219 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:fmtlib/fmt"
+    },
+    "Type": 0,
+    "Title": "fmtlib/fmt",
+    "Url": "https://github.com/fmtlib/fmt",
+    "Description": "A modern formatting library",
+    "Metadata": {
+      "owner": "fmtlib",
+      "repo": "fmt",
+      "language": "C\u002B\u002B",
+      "stars": "963",
+      "topics": "c-plus-plus, chrono, cpp, cross-platform, floating-point, formatting, multiplatform, output, performance, printf, ranges, unicode"
+    },
+    "FetchedAt": "2026-09-04T02:15:54.200816+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NousResearch/hermes-agent"
+    },
+    "Type": 0,
+    "Title": "NousResearch/hermes-agent",
+    "Url": "https://github.com/NousResearch/hermes-agent",
+    "Description": "The agent that grows with you",
+    "Metadata": {
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "language": "Python",
+      "stars": "774",
+      "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex, hermes, hermes-agent, llm, nous-research, openai"
+    },
+    "FetchedAt": "2026-09-04T02:15:54.4091593+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/skills"
+    },
+    "Type": 0,
+    "Title": "anthropics/skills",
+    "Url": "https://github.com/anthropics/skills",
+    "Description": "Public repository for Agent Skills",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "skills",
+      "language": "Python",
+      "stars": "281",
+      "topics": "agent-skills"
+    },
+    "FetchedAt": "2026-09-04T02:15:54.6228542+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:blader/humanizer"
+    },
+    "Type": 0,
+    "Title": "blader/humanizer",
+    "Url": "https://github.com/blader/humanizer",
+    "Description": "Agent skill that removes signs of AI-generated writing from text",
+    "Metadata": {
+      "owner": "blader",
+      "repo": "humanizer",
+      "language": "Python",
+      "stars": "1,208",
+      "topics": "agent-skills, ai-writing, claude-code, codex, cursor, prompt-engineering, writing-tools"
+    },
+    "FetchedAt": "2026-09-04T02:15:54.828448+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google-research/timesfm"
+    },
+    "Type": 0,
+    "Title": "google-research/timesfm",
+    "Url": "https://github.com/google-research/timesfm",
+    "Description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "Metadata": {
+      "owner": "google-research",
+      "repo": "timesfm",
+      "language": "Python",
+      "stars": "1,618"
+    },
+    "FetchedAt": "2026-09-04T02:15:55.0067568+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:averygan/reclip"
+    },
+    "Type": 0,
+    "Title": "averygan/reclip",
+    "Url": "https://github.com/averygan/reclip",
+    "Description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+    "Metadata": {
+      "owner": "averygan",
+      "repo": "reclip",
+      "language": "HTML",
+      "stars": "88"
+    },
+    "FetchedAt": "2026-09-04T02:15:55.1855184+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:bannedbook/fanqiang"
+    },
+    "Type": 0,
+    "Title": "bannedbook/fanqiang",
+    "Url": "https://github.com/bannedbook/fanqiang",
+    "Description": "\u7FFB\u5899-\u79D1\u5B66\u4E0A\u7F51",
+    "Metadata": {
+      "owner": "bannedbook",
+      "repo": "fanqiang",
+      "language": "Kotlin",
+      "stars": "522",
+      "topics": "brook, daze, fanqiang, goflyway, lightsocks, proxy, psiphon, shadowsocks, ssr, trojan, v2ray"
+    },
+    "FetchedAt": "2026-09-04T02:15:55.3465078+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "JavaScript",
+      "stars": "264",
+      "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
+    },
+    "FetchedAt": "2026-09-04T02:15:55.5359593+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ByteByteGoHq/system-design-101"
+    },
+    "Type": 0,
+    "Title": "ByteByteGoHq/system-design-101",
+    "Url": "https://github.com/ByteByteGoHq/system-design-101",
+    "Description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+    "Metadata": {
+      "owner": "ByteByteGoHq",
+      "repo": "system-design-101",
+      "stars": "171",
+      "topics": "aws, cloud-computing, coding-interviews, computer-science, interview-questions, software-architecture, software-development, software-engineering, system-design, system-design-interview"
+    },
+    "FetchedAt": "2026-09-04T02:15:55.7450394+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:magnitudedev/magnitude"
+    },
+    "Type": 0,
+    "Title": "magnitudedev/magnitude",
+    "Url": "https://github.com/magnitudedev/magnitude",
+    "Description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+    "Metadata": {
+      "owner": "magnitudedev",
+      "repo": "magnitude",
+      "language": "TypeScript",
+      "stars": "161"
+    },
+    "FetchedAt": "2026-09-04T02:15:55.9244643+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Imbad0202/academic-research-skills"
+    },
+    "Type": 0,
+    "Title": "Imbad0202/academic-research-skills",
+    "Url": "https://github.com/Imbad0202/academic-research-skills",
+    "Description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "Metadata": {
+      "owner": "Imbad0202",
+      "repo": "academic-research-skills",
+      "language": "Python",
+      "stars": "496",
+      "topics": "academic-pipeline, academic-writing, ai-research, claude, claude-code, literature-review, peer-review, prompt-engineering"
+    },
+    "FetchedAt": "2026-09-04T02:15:56.1043913+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Gitlawb/openclaude"
+    },
+    "Type": 0,
+    "Title": "Gitlawb/openclaude",
+    "Url": "https://github.com/Gitlawb/openclaude",
+    "Description": "runs anywhere. uses anything",
+    "Metadata": {
+      "owner": "Gitlawb",
+      "repo": "openclaude",
+      "language": "TypeScript",
+      "stars": "451",
+      "topics": "ai, ai-agent, ai-tools, cli, coding"
+    },
+    "FetchedAt": "2026-09-04T02:15:56.2782217+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:debpalash/VoiceStudio"
+    },
+    "Type": 0,
+    "Title": "debpalash/VoiceStudio",
+    "Url": "https://github.com/debpalash/VoiceStudio",
+    "Description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription \u0026 audiobook creation in 646 languages.",
+    "Metadata": {
+      "owner": "debpalash",
+      "repo": "VoiceStudio",
+      "language": "Python",
+      "stars": "1,672",
+      "topics": "ai, audiobook, cuda, dubbing, elevenlabs-alternative, huggingface, local-first, mlx, omnivoice-studio, speech-to-text, tauri, text-to-speech, transcription, translate, tts, voice-ai, voice-cloning, voice-generation, voicestudio, workflow"
+    },
+    "FetchedAt": "2026-09-04T02:15:56.4659169+00:00"
+  }
+]
