@@ -1,0 +1,202 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:fmtlib/fmt"
+    },
+    "Type": 0,
+    "Title": "fmtlib/fmt",
+    "Url": "https://github.com/fmtlib/fmt",
+    "Description": "A modern formatting library",
+    "Metadata": {
+      "owner": "fmtlib",
+      "repo": "fmt",
+      "language": "C\u002B\u002B",
+      "stars": "688",
+      "topics": "c-plus-plus, chrono, cpp, cross-platform, floating-point, formatting, multiplatform, output, performance, printf, ranges, unicode"
+    },
+    "FetchedAt": "2026-09-05T02:16:36.7305208+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/skills"
+    },
+    "Type": 0,
+    "Title": "anthropics/skills",
+    "Url": "https://github.com/anthropics/skills",
+    "Description": "Public repository for Agent Skills",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "skills",
+      "language": "Python",
+      "stars": "511",
+      "topics": "agent-skills"
+    },
+    "FetchedAt": "2026-09-05T02:16:36.930631+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:blader/humanizer"
+    },
+    "Type": 0,
+    "Title": "blader/humanizer",
+    "Url": "https://github.com/blader/humanizer",
+    "Description": "Agent skill that removes signs of AI-generated writing from text",
+    "Metadata": {
+      "owner": "blader",
+      "repo": "humanizer",
+      "language": "Python",
+      "stars": "1,130",
+      "topics": "agent-skills, ai-writing, claude-code, codex, cursor, prompt-engineering, writing-tools"
+    },
+    "FetchedAt": "2026-09-05T02:16:37.1232843+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NousResearch/hermes-agent"
+    },
+    "Type": 0,
+    "Title": "NousResearch/hermes-agent",
+    "Url": "https://github.com/NousResearch/hermes-agent",
+    "Description": "The agent that grows with you",
+    "Metadata": {
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "language": "Python",
+      "stars": "720",
+      "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex, hermes, hermes-agent, llm, nous-research, openai"
+    },
+    "FetchedAt": "2026-09-05T02:16:37.2732065+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:magnitudedev/magnitude"
+    },
+    "Type": 0,
+    "Title": "magnitudedev/magnitude",
+    "Url": "https://github.com/magnitudedev/magnitude",
+    "Description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+    "Metadata": {
+      "owner": "magnitudedev",
+      "repo": "magnitude",
+      "language": "TypeScript",
+      "stars": "391"
+    },
+    "FetchedAt": "2026-09-05T02:16:37.4588668+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:bikini/exploitarium"
+    },
+    "Type": 0,
+    "Title": "bikini/exploitarium",
+    "Url": "https://github.com/bikini/exploitarium",
+    "Description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I\u0027ve always found this is the most efficient way.",
+    "Metadata": {
+      "owner": "bikini",
+      "repo": "exploitarium",
+      "language": "Python",
+      "stars": "74"
+    },
+    "FetchedAt": "2026-09-05T02:16:37.5949678+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:bannedbook/fanqiang"
+    },
+    "Type": 0,
+    "Title": "bannedbook/fanqiang",
+    "Url": "https://github.com/bannedbook/fanqiang",
+    "Description": "\u7FFB\u5899-\u79D1\u5B66\u4E0A\u7F51",
+    "Metadata": {
+      "owner": "bannedbook",
+      "repo": "fanqiang",
+      "language": "Kotlin",
+      "stars": "730",
+      "topics": "brook, daze, fanqiang, goflyway, lightsocks, proxy, psiphon, shadowsocks, ssr, trojan, v2ray"
+    },
+    "FetchedAt": "2026-09-05T02:16:37.696051+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:debpalash/VoiceStudio"
+    },
+    "Type": 0,
+    "Title": "debpalash/VoiceStudio",
+    "Url": "https://github.com/debpalash/VoiceStudio",
+    "Description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription \u0026 audiobook creation in 646 languages.",
+    "Metadata": {
+      "owner": "debpalash",
+      "repo": "VoiceStudio",
+      "language": "Python",
+      "stars": "1,345",
+      "topics": "ai, audiobook, cuda, dubbing, elevenlabs-alternative, huggingface, local-first, mlx, omnivoice-studio, speech-to-text, tauri, text-to-speech, transcription, translate, tts, voice-ai, voice-cloning, voice-generation, voicestudio, workflow"
+    },
+    "FetchedAt": "2026-09-05T02:16:37.8468096+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google-research/timesfm"
+    },
+    "Type": 0,
+    "Title": "google-research/timesfm",
+    "Url": "https://github.com/google-research/timesfm",
+    "Description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "Metadata": {
+      "owner": "google-research",
+      "repo": "timesfm",
+      "language": "Python",
+      "stars": "342"
+    },
+    "FetchedAt": "2026-09-05T02:16:37.9753885+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:radixark/miles"
+    },
+    "Type": 0,
+    "Title": "radixark/miles",
+    "Url": "https://github.com/radixark/miles",
+    "Description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+    "Metadata": {
+      "owner": "radixark",
+      "repo": "miles",
+      "language": "Python",
+      "stars": "64"
+    },
+    "FetchedAt": "2026-09-05T02:16:38.1843592+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:clshortfuse/renodx"
+    },
+    "Type": 0,
+    "Title": "clshortfuse/renodx",
+    "Url": "https://github.com/clshortfuse/renodx",
+    "Description": "Renovation Engine for DirectX Games",
+    "Metadata": {
+      "owner": "clshortfuse",
+      "repo": "renodx",
+      "language": "HLSL",
+      "stars": "261",
+      "topics": "directx, games, hdr, mod"
+    },
+    "FetchedAt": "2026-09-05T02:16:38.3096835+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cathrynlavery/diagram-design"
+    },
+    "Type": 0,
+    "Title": "cathrynlavery/diagram-design",
+    "Url": "https://github.com/cathrynlavery/diagram-design",
+    "Description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML \u002B SVG. No shadows. No Mermaid slop.",
+    "Metadata": {
+      "owner": "cathrynlavery",
+      "repo": "diagram-design",
+      "language": "HTML",
+      "stars": "437",
+      "topics": "agent-skills, claude-code, codex, data-visualization, diagrams, drawio, mermaid, svg"
+    },
+    "FetchedAt": "2026-09-05T02:16:38.4473664+00:00"
+  }
+]
