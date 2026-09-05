@@ -1,156 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:49570669"
-    },
-    "Type": 1,
-    "Title": "Actively exploited sandbox RCE in all Chromium versions",
-    "Url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-    "Description": "Actively exploited sandbox RCE in all Chromium versions",
-    "Metadata": {
-      "score": "249",
-      "author": "negura",
-      "commentCount": "140"
-    },
-    "FetchedAt": "2026-09-05T02:16:39.0628843+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49568506"
-    },
-    "Type": 1,
-    "Title": "Formalizing Fermat\u0027s Last Theorem",
-    "Url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xenaproject.wordpress.com\u0026#x2F;2026\u0026#x2F;09\u0026#x2F;04\u0026#x2F;flt-anthropic-has-beaten-me-to-it\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xenaproject.wordpress.com\u0026#x2F;2026\u0026#x2F;09\u0026#x2F;04\u0026#x2F;flt-anthropic-h...\u003C/a\u003E",
-    "Metadata": {
-      "score": "501",
-      "author": "jlebar",
-      "commentCount": "319"
-    },
-    "FetchedAt": "2026-09-05T02:16:39.1178191+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49563355"
-    },
-    "Type": 1,
-    "Title": "Discovery of a new OpenAI agent message board",
-    "Url": "https://collusion.wiki/",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.reuters.com\u0026#x2F;world\u0026#x2F;europe\u0026#x2F;openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.reuters.com\u0026#x2F;world\u0026#x2F;europe\u0026#x2F;openai-agents-hijacked-...\u003C/a\u003E",
-    "Metadata": {
-      "score": "1493",
-      "author": "moultano",
-      "commentCount": "1192"
-    },
-    "FetchedAt": "2026-09-05T02:16:39.1711908+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49571632"
-    },
-    "Type": 1,
-    "Title": "Artificial Analysis Intelligence Index v4.2",
-    "Url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-    "Description": "Artificial Analysis Intelligence Index v4.2",
-    "Metadata": {
-      "score": "50",
-      "author": "nojs",
-      "commentCount": "15"
-    },
-    "FetchedAt": "2026-09-05T02:16:39.2259271+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49569896"
-    },
-    "Type": 1,
-    "Title": "Statichost.eu \u2013 European static site hosting",
-    "Url": "https://www.statichost.eu/",
-    "Description": "Statichost.eu \u2013 European static site hosting",
-    "Metadata": {
-      "score": "175",
-      "author": "p4bl0",
-      "commentCount": "55"
-    },
-    "FetchedAt": "2026-09-05T02:16:39.2804979+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49570545"
-    },
-    "Type": 1,
-    "Title": "GPT-6 Astra on OpenRouter",
-    "Url": "https://openrouter.ai/openai/gpt-6-astra",
-    "Description": "GPT-6 Astra on OpenRouter",
-    "Metadata": {
-      "score": "126",
-      "author": "Topfi",
-      "commentCount": "66"
-    },
-    "FetchedAt": "2026-09-05T02:16:39.3342037+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49568579"
-    },
-    "Type": 1,
-    "Title": "Shutting down our public encrypted DNS",
-    "Url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
-    "Description": "Shutting down our public encrypted DNS",
-    "Metadata": {
-      "score": "255",
-      "author": "mywacaday",
-      "commentCount": "102"
-    },
-    "FetchedAt": "2026-09-05T02:16:39.3871844+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49571465"
-    },
-    "Type": 1,
-    "Title": "Portal by Spotify cut my Claude Code token usage by 90%",
-    "Url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-    "Description": "Portal by Spotify cut my Claude Code token usage by 90%",
-    "Metadata": {
-      "score": "40",
-      "author": "cebert",
-      "commentCount": "13"
-    },
-    "FetchedAt": "2026-09-05T02:16:39.4404479+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49569366"
-    },
-    "Type": 1,
-    "Title": "Can AI design circuit boards yet?",
-    "Url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-    "Description": "Can AI design circuit boards yet?",
-    "Metadata": {
-      "score": "169",
-      "author": "iopapa",
-      "commentCount": "110"
-    },
-    "FetchedAt": "2026-09-05T02:16:39.4936386+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49571047"
-    },
-    "Type": 1,
-    "Title": "Can guitar frets perform multiplication?",
-    "Url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
-    "Description": "Can guitar frets perform multiplication?",
-    "Metadata": {
-      "score": "32",
-      "author": "wibbily",
-      "commentCount": "7"
-    },
-    "FetchedAt": "2026-09-05T02:16:39.547421+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49571627"
     },
     "Type": 1,
@@ -163,96 +13,6 @@
       "commentCount": "4"
     },
     "FetchedAt": "2026-09-05T02:16:39.6007497+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49546284"
-    },
-    "Type": 1,
-    "Title": "RSA-260 Factorized",
-    "Url": "https://twitter.com/penlume/status/2095372672356212876",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;lilting.ch\u0026#x2F;en\u0026#x2F;articles\u0026#x2F;rsa-260-factored-how-computed\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;lilting.ch\u0026#x2F;en\u0026#x2F;articles\u0026#x2F;rsa-260-factored-how-computed\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.scientificamerican.com\u0026#x2F;article\u0026#x2F;whats-the-tech-behind-the-record-breaking-rsa-260-crack\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.scientificamerican.com\u0026#x2F;article\u0026#x2F;whats-the-tech-be...\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;en.wikipedia.org\u0026#x2F;wiki\u0026#x2",
-    "Metadata": {
-      "score": "65",
-      "author": "samyok",
-      "commentCount": "26"
-    },
-    "FetchedAt": "2026-09-05T02:16:39.6546526+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49567437"
-    },
-    "Type": 1,
-    "Title": "Show HN: Open-Source eInk Bike Computer",
-    "Url": "https://opentrailpaper.com",
-    "Description": "Hey all, i just launched my Eink Bike computer project and think it is cool.\u003Cp\u003EAnother tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout\u0026#x2F;biking) implementation for ESP32 by messing around with undocumented registers: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;RaemondBW\u0026#x2F;esp32-ant\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;RaemondBW\u0026#x2F;esp32-ant\u003C/a\u003E",
-    "Metadata": {
-      "score": "237",
-      "author": "stingrae",
-      "commentCount": "81"
-    },
-    "FetchedAt": "2026-09-05T02:16:39.7091565+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49569663"
-    },
-    "Type": 1,
-    "Title": "An open DNS recursive service for free security and high privacy",
-    "Url": "https://quad9.net/",
-    "Description": "An open DNS recursive service for free security and high privacy",
-    "Metadata": {
-      "score": "64",
-      "author": "mooreds",
-      "commentCount": "14"
-    },
-    "FetchedAt": "2026-09-05T02:16:39.763708+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49568828"
-    },
-    "Type": 1,
-    "Title": "Government Rails Site Hit Hours After CVE Patch",
-    "Url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
-    "Description": "Government Rails Site Hit Hours After CVE Patch",
-    "Metadata": {
-      "score": "75",
-      "author": "rietta",
-      "commentCount": "22"
-    },
-    "FetchedAt": "2026-09-05T02:16:39.8173234+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49568697"
-    },
-    "Type": 1,
-    "Title": "Fermat\u0027s Last Theorem in Lean 4",
-    "Url": "https://github.com/anthropics/fermats-last-theorem",
-    "Description": "Fermat\u0027s Last Theorem in Lean 4",
-    "Metadata": {
-      "score": "68",
-      "author": "aaraujo002",
-      "commentCount": "15"
-    },
-    "FetchedAt": "2026-09-05T02:16:39.8717041+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49570772"
-    },
-    "Type": 1,
-    "Title": "Record-High 89% in U.S. Say Government Corruption Widespread",
-    "Url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
-    "Description": "Record-High 89% in U.S. Say Government Corruption Widespread",
-    "Metadata": {
-      "score": "201",
-      "author": "karakoram",
-      "commentCount": "136"
-    },
-    "FetchedAt": "2026-09-05T02:16:39.9254463+00:00"
   },
   {
     "ExternalId": {
@@ -286,36 +46,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49567873"
-    },
-    "Type": 1,
-    "Title": "The Rust React Compiler is now native in Vite",
-    "Url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
-    "Description": "The Rust React Compiler is now native in Vite",
-    "Metadata": {
-      "score": "115",
-      "author": "acusti",
-      "commentCount": "22"
-    },
-    "FetchedAt": "2026-09-05T02:16:40.1050741+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49563851"
-    },
-    "Type": 1,
-    "Title": "IBM Bob",
-    "Url": "https://bob.ibm.com/",
-    "Description": "IBM Bob",
-    "Metadata": {
-      "score": "228",
-      "author": "artpar",
-      "commentCount": "262"
-    },
-    "FetchedAt": "2026-09-05T02:16:40.1589757+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49521631"
     },
     "Type": 1,
@@ -346,21 +76,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49529161"
-    },
-    "Type": 1,
-    "Title": "Decompiler Explorer",
-    "Url": "https://dogbolt.org",
-    "Description": "Decompiler Explorer",
-    "Metadata": {
-      "score": "36",
-      "author": "tripdout",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-09-05T02:16:40.3203796+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49570328"
     },
     "Type": 1,
@@ -388,21 +103,6 @@
       "commentCount": "0"
     },
     "FetchedAt": "2026-09-05T02:16:40.4283755+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49566193"
-    },
-    "Type": 1,
-    "Title": "deSEC \u2013 Free Secure DNS",
-    "Url": "https://desec.io/",
-    "Description": "deSEC \u2013 Free Secure DNS",
-    "Metadata": {
-      "score": "113",
-      "author": "gurjeet",
-      "commentCount": "41"
-    },
-    "FetchedAt": "2026-09-05T02:16:40.4824055+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +148,455 @@
       "commentCount": "181"
     },
     "FetchedAt": "2026-09-05T02:16:40.6448987+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49574167"
+    },
+    "Type": 1,
+    "Title": "AI handles incidents, engineers lose touch with their systems",
+    "Url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+    "Description": "AI handles incidents, engineers lose touch with their systems",
+    "Metadata": {
+      "score": "76",
+      "author": "sylvainkalache",
+      "commentCount": "42"
+    },
+    "FetchedAt": "2026-09-05T09:44:11.3348051+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49570669"
+    },
+    "Type": 1,
+    "Title": "Actively exploited sandbox RCE in all Chromium versions",
+    "Url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+    "Description": "Actively exploited sandbox RCE in all Chromium versions",
+    "Metadata": {
+      "score": "494",
+      "author": "negura",
+      "commentCount": "271"
+    },
+    "FetchedAt": "2026-09-05T09:44:11.3732037+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49563355"
+    },
+    "Type": 1,
+    "Title": "Discovery of a new OpenAI agent message board",
+    "Url": "https://collusion.wiki/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.reuters.com\u0026#x2F;world\u0026#x2F;europe\u0026#x2F;openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.reuters.com\u0026#x2F;world\u0026#x2F;europe\u0026#x2F;openai-agents-hijacked-...\u003C/a\u003E",
+    "Metadata": {
+      "score": "1710",
+      "author": "moultano",
+      "commentCount": "1316"
+    },
+    "FetchedAt": "2026-09-05T09:44:11.4065619+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49568506"
+    },
+    "Type": 1,
+    "Title": "Formalizing Fermat\u0027s Last Theorem",
+    "Url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xenaproject.wordpress.com\u0026#x2F;2026\u0026#x2F;09\u0026#x2F;04\u0026#x2F;flt-anthropic-has-beaten-me-to-it\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xenaproject.wordpress.com\u0026#x2F;2026\u0026#x2F;09\u0026#x2F;04\u0026#x2F;flt-anthropic-h...\u003C/a\u003E",
+    "Metadata": {
+      "score": "618",
+      "author": "jlebar",
+      "commentCount": "385"
+    },
+    "FetchedAt": "2026-09-05T09:44:11.4385586+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49571634"
+    },
+    "Type": 1,
+    "Title": "Nitter has more working instances than before the takedowns",
+    "Url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+    "Description": "Nitter has more working instances than before the takedowns",
+    "Metadata": {
+      "score": "211",
+      "author": "Cider9986",
+      "commentCount": "72"
+    },
+    "FetchedAt": "2026-09-05T09:44:11.4703587+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49569896"
+    },
+    "Type": 1,
+    "Title": "Statichost.eu \u2013 European static site hosting",
+    "Url": "https://www.statichost.eu/",
+    "Description": "Statichost.eu \u2013 European static site hosting",
+    "Metadata": {
+      "score": "286",
+      "author": "p4bl0",
+      "commentCount": "111"
+    },
+    "FetchedAt": "2026-09-05T09:44:11.5359126+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49516962"
+    },
+    "Type": 1,
+    "Title": "Kale: A Transformation-Safe Spreadsheet System",
+    "Url": "https://arxiv.org/abs/2608.26345",
+    "Description": "Kale: A Transformation-Safe Spreadsheet System",
+    "Metadata": {
+      "score": "9",
+      "author": "zdw",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-05T09:44:11.5677015+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49570545"
+    },
+    "Type": 1,
+    "Title": "GPT-6 Astra on OpenRouter",
+    "Url": "https://openrouter.ai/openai/gpt-6-astra",
+    "Description": "GPT-6 Astra on OpenRouter",
+    "Metadata": {
+      "score": "225",
+      "author": "Topfi",
+      "commentCount": "131"
+    },
+    "FetchedAt": "2026-09-05T09:44:11.5988417+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49569366"
+    },
+    "Type": 1,
+    "Title": "Can AI design circuit boards yet?",
+    "Url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+    "Description": "Can AI design circuit boards yet?",
+    "Metadata": {
+      "score": "260",
+      "author": "iopapa",
+      "commentCount": "154"
+    },
+    "FetchedAt": "2026-09-05T09:44:11.6297787+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49572875"
+    },
+    "Type": 1,
+    "Title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+    "Url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+    "Description": "GPT-6 Astra in code review: Gains, privacy, and cost",
+    "Metadata": {
+      "score": "41",
+      "author": "cebert",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-09-05T09:44:11.6630127+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49568579"
+    },
+    "Type": 1,
+    "Title": "Shutting down our public encrypted DNS",
+    "Url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+    "Description": "Shutting down our public encrypted DNS",
+    "Metadata": {
+      "score": "346",
+      "author": "mywacaday",
+      "commentCount": "157"
+    },
+    "FetchedAt": "2026-09-05T09:44:11.6963927+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49571465"
+    },
+    "Type": 1,
+    "Title": "Portal by Spotify cut my Claude Code token usage by 90%",
+    "Url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+    "Description": "Portal by Spotify cut my Claude Code token usage by 90%",
+    "Metadata": {
+      "score": "134",
+      "author": "cebert",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-09-05T09:44:11.7275627+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49519850"
+    },
+    "Type": 1,
+    "Title": "Git Submodules as a Package Manager",
+    "Url": "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html",
+    "Description": "Git Submodules as a Package Manager",
+    "Metadata": {
+      "score": "57",
+      "author": "ErenayDev",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-09-05T09:44:11.7617674+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49571632"
+    },
+    "Type": 1,
+    "Title": "Artificial Analysis Intelligence Index v4.2",
+    "Url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+    "Description": "Artificial Analysis Intelligence Index v4.2",
+    "Metadata": {
+      "score": "118",
+      "author": "nojs",
+      "commentCount": "41"
+    },
+    "FetchedAt": "2026-09-05T09:44:11.7930827+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49537340"
+    },
+    "Type": 1,
+    "Title": "The Highest Point in the Netherlands",
+    "Url": "https://ipv6.hanazo.no/posts/anniversary-personal/",
+    "Description": "The Highest Point in the Netherlands",
+    "Metadata": {
+      "score": "55",
+      "author": "haasted",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-09-05T09:44:11.82406+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49571047"
+    },
+    "Type": 1,
+    "Title": "Can guitar frets perform multiplication?",
+    "Url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+    "Description": "Can guitar frets perform multiplication?",
+    "Metadata": {
+      "score": "78",
+      "author": "wibbily",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-09-05T09:44:11.8576126+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49533840"
+    },
+    "Type": 1,
+    "Title": "Ask HN: Resources to get good at soldering?",
+    "Url": "https://news.ycombinator.com/item?id=49533840",
+    "Description": "Hello. I\u0026#x27;ve recently started soldering, specifically wanting to repair the joysticks on several Playstation 4 controllers I have, but I also want to get good at electronic repair in general.\u003Cp\u003ERight now I\u0026#x27;ve busted a board, and managed to desolder and resolder a stick but the controller doesn\u0026#x27;t turn on anymore. I\u0026#x27;m doing this all by myself, and I think I\u0026#x27;m following good advice (ventilation, good iron tip, using flux etc...).\u003Cp\u003EBut there are many variables, and a lot of ",
+    "Metadata": {
+      "score": "129",
+      "author": "tosmatos",
+      "commentCount": "74"
+    },
+    "FetchedAt": "2026-09-05T09:44:11.8886301+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49567437"
+    },
+    "Type": 1,
+    "Title": "Show HN: Open-Source eInk Bike Computer",
+    "Url": "https://opentrailpaper.com",
+    "Description": "Hey all, i just launched my Eink Bike computer project and think it is cool.\u003Cp\u003EAnother tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout\u0026#x2F;biking) implementation for ESP32 by messing around with undocumented registers: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;RaemondBW\u0026#x2F;esp32-ant\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;RaemondBW\u0026#x2F;esp32-ant\u003C/a\u003E",
+    "Metadata": {
+      "score": "288",
+      "author": "stingrae",
+      "commentCount": "102"
+    },
+    "FetchedAt": "2026-09-05T09:44:11.9204767+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49563851"
+    },
+    "Type": 1,
+    "Title": "IBM Bob",
+    "Url": "https://bob.ibm.com/",
+    "Description": "IBM Bob",
+    "Metadata": {
+      "score": "270",
+      "author": "artpar",
+      "commentCount": "290"
+    },
+    "FetchedAt": "2026-09-05T09:44:11.9517489+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49535024"
+    },
+    "Type": 1,
+    "Title": "Pointing at the error: compiler-style diagnostics in uutils coreutils",
+    "Url": "https://uutils.org/blog/2026-08-error-diagnostics/",
+    "Description": "Pointing at the error: compiler-style diagnostics in uutils coreutils",
+    "Metadata": {
+      "score": "11",
+      "author": "ingve",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-05T09:44:11.9837714+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49569663"
+    },
+    "Type": 1,
+    "Title": "An open DNS recursive service for free security and high privacy",
+    "Url": "https://quad9.net/",
+    "Description": "An open DNS recursive service for free security and high privacy",
+    "Metadata": {
+      "score": "90",
+      "author": "mooreds",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-09-05T09:44:12.0148739+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49568697"
+    },
+    "Type": 1,
+    "Title": "Fermat\u0027s Last Theorem in Lean 4",
+    "Url": "https://github.com/anthropics/fermats-last-theorem",
+    "Description": "Fermat\u0027s Last Theorem in Lean 4",
+    "Metadata": {
+      "score": "108",
+      "author": "aaraujo002",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-09-05T09:44:12.0475118+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49570772"
+    },
+    "Type": 1,
+    "Title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+    "Url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+    "Description": "Record-High 89% in U.S. Say Government Corruption Widespread",
+    "Metadata": {
+      "score": "420",
+      "author": "karakoram",
+      "commentCount": "319"
+    },
+    "FetchedAt": "2026-09-05T09:44:12.0790537+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49567873"
+    },
+    "Type": 1,
+    "Title": "The Rust React Compiler is now native in Vite",
+    "Url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+    "Description": "The Rust React Compiler is now native in Vite",
+    "Metadata": {
+      "score": "138",
+      "author": "acusti",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-09-05T09:44:12.1104089+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49568828"
+    },
+    "Type": 1,
+    "Title": "Government Rails Site Hit Hours After CVE Patch",
+    "Url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+    "Description": "Government Rails Site Hit Hours After CVE Patch",
+    "Metadata": {
+      "score": "94",
+      "author": "rietta",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-09-05T09:44:12.8961022+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49529161"
+    },
+    "Type": 1,
+    "Title": "Decompiler Explorer",
+    "Url": "https://dogbolt.org",
+    "Description": "Decompiler Explorer",
+    "Metadata": {
+      "score": "86",
+      "author": "tripdout",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-09-05T09:44:12.9442477+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49562219"
+    },
+    "Type": 1,
+    "Title": "Show HN: TERMy \u2013 A fast terminal assistant that does not use LLMs",
+    "Url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+    "Description": "I love research and development, you may have heard of me because of PJON (Padded Jittering Operative Network). It is a network protocol I started developing in 2010, which was recently implemented in silicon by the ETH Zurich university thanks to the research of Pius Sieber.\u003Cp\u003EI am excited to share with you TERMy, a terminal assistant built on top of the NPC-Forge framework. Unlike everything else being built today, TERMy does not use embeddings, machine-learning or LLMs. It runs on the CPU (ev",
+    "Metadata": {
+      "score": "132",
+      "author": "gioscarab",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-09-05T09:44:13.0092126+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49546284"
+    },
+    "Type": 1,
+    "Title": "RSA-260 Factorized",
+    "Url": "https://twitter.com/penlume/status/2095372672356212876",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;lilting.ch\u0026#x2F;en\u0026#x2F;articles\u0026#x2F;rsa-260-factored-how-computed\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;lilting.ch\u0026#x2F;en\u0026#x2F;articles\u0026#x2F;rsa-260-factored-how-computed\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.scientificamerican.com\u0026#x2F;article\u0026#x2F;whats-the-tech-behind-the-record-breaking-rsa-260-crack\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.scientificamerican.com\u0026#x2F;article\u0026#x2F;whats-the-tech-be...\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;en.wikipedia.org\u0026#x2F;wiki\u0026#x2",
+    "Metadata": {
+      "score": "114",
+      "author": "samyok",
+      "commentCount": "61"
+    },
+    "FetchedAt": "2026-09-05T09:44:13.053035+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49573680"
+    },
+    "Type": 1,
+    "Title": "Git hosting that never leaves Europe",
+    "Url": "https://pushin.eu",
+    "Description": "Git hosting that never leaves Europe",
+    "Metadata": {
+      "score": "74",
+      "author": "sevenseacat",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-09-05T09:44:13.0857859+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49566193"
+    },
+    "Type": 1,
+    "Title": "deSEC \u2013 Free Secure DNS",
+    "Url": "https://desec.io/",
+    "Description": "deSEC \u2013 Free Secure DNS",
+    "Metadata": {
+      "score": "132",
+      "author": "gurjeet",
+      "commentCount": "46"
+    },
+    "FetchedAt": "2026-09-05T09:44:13.1171247+00:00"
   }
 ]
