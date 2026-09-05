@@ -1,0 +1,638 @@
+{
+  "Id": "2026-09-05",
+  "GeneratedAt": "2026-09-05T03:19:27.0418658+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:fmtlib/fmt"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A modern formatting library"
+      },
+      "Description": "A modern formatting library",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:anthropics/skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Public repository for Agent Skills"
+      },
+      "Description": "Public repository for Agent Skills",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:blader/humanizer"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Agent skill that removes signs of AI-generated writing from text"
+      },
+      "Description": "Agent skill that removes signs of AI-generated writing from text",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:NousResearch/hermes-agent"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The agent that grows with you"
+      },
+      "Description": "The agent that grows with you",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:magnitudedev/magnitude"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. "
+      },
+      "Description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Herme",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:bikini/exploitarium"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been re"
+      },
+      "Description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report th",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:bannedbook/fanqiang"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u7FFB\u5899-\u79D1\u5B66\u4E0A\u7F51"
+      },
+      "Description": "\u7FFB\u5899-\u79D1\u5B66\u4E0A\u7F51",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:debpalash/VoiceStudio"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictati"
+      },
+      "Description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription \u0026 audiobook ",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:google-research/timesfm"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for tim"
+      },
+      "Description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:radixark/miles"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolvin"
+      },
+      "Description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:clshortfuse/renodx"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Renovation Engine for DirectX Games"
+      },
+      "Description": "Renovation Engine for DirectX Games",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:cathrynlavery/diagram-design"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML \u002B SVG. No shadows. No Mermaid slop."
+      },
+      "Description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML \u002B SVG. No shadows. No Mermaid slop.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49570669"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Actively exploited sandbox RCE in all Chromium versions"
+      },
+      "Description": "Actively exploited sandbox RCE in all Chromium versions",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49568506"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xenaproject.wordpress.com\u0026#x2F;2026\u0026#x2F;09\u0026#x2F;04\u0026#x2F;flt-anthropic-has-beaten-me-to-it\u0026#x"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xenaproject.wordpress.com\u0026#x2F;2026\u0026#x2F;09\u0026#x2F;04\u0026#x2F;flt-anthropic-has-beaten-me-to-it\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49563355"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.reuters.com\u0026#x2F;world\u0026#x2F;europe\u0026#x2F;openai-agents-hijacked-german-website-previously-"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.reuters.com\u0026#x2F;world\u0026#x2F;europe\u0026#x2F;openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49571632"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Artificial Analysis Intelligence Index v4.2"
+      },
+      "Description": "Artificial Analysis Intelligence Index v4.2",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49569896"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Statichost.eu \u2013 European static site hosting"
+      },
+      "Description": "Statichost.eu \u2013 European static site hosting",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49570545"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "GPT-6 Astra on OpenRouter"
+      },
+      "Description": "GPT-6 Astra on OpenRouter",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49568579"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Shutting down our public encrypted DNS"
+      },
+      "Description": "Shutting down our public encrypted DNS",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49571465"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Portal by Spotify cut my Claude Code token usage by 90%"
+      },
+      "Description": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49569366"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Can AI design circuit boards yet?"
+      },
+      "Description": "Can AI design circuit boards yet?",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49571047"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Can guitar frets perform multiplication?"
+      },
+      "Description": "Can guitar frets perform multiplication?",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49571627"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Reversing MikroTik\u0027s Silent Patch: The RouterOS 7.23.4 Fix They Wouldn\u0027t Explain"
+      },
+      "Description": "Reversing MikroTik\u0027s Silent Patch: The RouterOS 7.23.4 Fix They Wouldn\u0027t Explain",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49546284"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;lilting.ch\u0026#x2F;en\u0026#x2F;articles\u0026#x2F;rsa-260-factored-how-computed\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;lilting.ch\u0026#x2F;en\u0026#x2F;articles\u0026#x2F;rsa-260-factored-how-computed\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;lilting.ch\u0026#x2F;en\u0026#x",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49567437"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hey all, i just launched my Eink Bike computer project and think it is cool.\u003Cp\u003EAnother tidbit, in the crazy things that "
+      },
+      "Description": "Hey all, i just launched my Eink Bike computer project and think it is cool.\u003Cp\u003EAnother tidbit, in the crazy things that AI has done... It has helped c",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49569663"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "An open DNS recursive service for free security and high privacy"
+      },
+      "Description": "An open DNS recursive service for free security and high privacy",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49568828"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Government Rails Site Hit Hours After CVE Patch"
+      },
+      "Description": "Government Rails Site Hit Hours After CVE Patch",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49568697"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Fermat\u0027s Last Theorem in Lean 4"
+      },
+      "Description": "Fermat\u0027s Last Theorem in Lean 4",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49570772"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Record-High 89% in U.S. Say Government Corruption Widespread"
+      },
+      "Description": "Record-High 89% in U.S. Say Government Corruption Widespread",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49571537"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Why can\u0026#x27;t we get an agent scheduler that supports all of the following:\u003Cp\u003E- git compatible\u003Cp\u003E- agent agnostic\u003Cp\u003E- 1"
+      },
+      "Description": "Why can\u0026#x27;t we get an agent scheduler that supports all of the following:\u003Cp\u003E- git compatible\u003Cp\u003E- agent agnostic\u003Cp\u003E- 100% open source\u003Cp\u003E- os and sys",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49516370"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "When declaring an incident becomes everyone\u0027s favorite workaround"
+      },
+      "Description": "When declaring an incident becomes everyone\u0027s favorite workaround",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49567873"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Rust React Compiler is now native in Vite"
+      },
+      "Description": "The Rust React Compiler is now native in Vite",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49563851"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "IBM Bob"
+      },
+      "Description": "IBM Bob",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49521631"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "ExactTex. A gradually-typed superset of LaTeX"
+      },
+      "Description": "ExactTex. A gradually-typed superset of LaTeX",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49570597"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Icons as a Service"
+      },
+      "Description": "Icons as a Service",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49529161"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Decompiler Explorer"
+      },
+      "Description": "Decompiler Explorer",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49570328"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Updates on HEIR, the Homomorphic Encryption Compiler Project"
+      },
+      "Description": "Updates on HEIR, the Homomorphic Encryption Compiler Project",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49571263"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Connecting every app to every other app"
+      },
+      "Description": "Connecting every app to every other app",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49566193"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "deSEC \u2013 Free Secure DNS"
+      },
+      "Description": "deSEC \u2013 Free Secure DNS",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49569702"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How to Create a Tor Exit Node (2015)"
+      },
+      "Description": "How to Create a Tor Exit Node (2015)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49567053"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Adult Film Producer Unmasks Prolific \u0027John DOE\u0027 Torrent Pirate as Meta Executive"
+      },
+      "Description": "Adult Film Producer Unmasks Prolific \u0027John DOE\u0027 Torrent Pirate as Meta Executive",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49567310"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u201CNext-token predictor\u201D is the wrong mental model for LLMs"
+      },
+      "Description": "\u201CNext-token predictor\u201D is the wrong mental model for LLMs",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 42 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
