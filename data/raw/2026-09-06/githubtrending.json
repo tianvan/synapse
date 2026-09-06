@@ -1,23 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:NousResearch/hermes-agent"
-    },
-    "Type": 0,
-    "Title": "NousResearch/hermes-agent",
-    "Url": "https://github.com/NousResearch/hermes-agent",
-    "Description": "The agent that grows with you",
-    "Metadata": {
-      "owner": "NousResearch",
-      "repo": "hermes-agent",
-      "language": "Python",
-      "stars": "575",
-      "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex, hermes, hermes-agent, llm, nous-research, openai"
-    },
-    "FetchedAt": "2026-09-06T10:00:15.7000235+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:fmtlib/fmt"
     },
     "Type": 0,
@@ -52,89 +35,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:cathrynlavery/diagram-design"
-    },
-    "Type": 0,
-    "Title": "cathrynlavery/diagram-design",
-    "Url": "https://github.com/cathrynlavery/diagram-design",
-    "Description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML \u002B SVG. No shadows. No Mermaid slop.",
-    "Metadata": {
-      "owner": "cathrynlavery",
-      "repo": "diagram-design",
-      "language": "HTML",
-      "stars": "855",
-      "topics": "agent-skills, claude-code, codex, data-visualization, diagrams, drawio, mermaid, svg"
-    },
-    "FetchedAt": "2026-09-06T10:00:16.356174+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:ruvnet/ruflo"
-    },
-    "Type": 0,
-    "Title": "ruvnet/ruflo",
-    "Url": "https://github.com/ruvnet/ruflo",
-    "Description": "\uD83C\uDF0A The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-    "Metadata": {
-      "owner": "ruvnet",
-      "repo": "ruflo",
-      "language": "TypeScript",
-      "stars": "136",
-      "topics": "agentic-ai, agentic-framework, agentic-workflow, agents, ai-agents, ai-assistant, ai-skills, autonomous-agents, claude-code, codex, dsh-plugin, harness, mcp-server, multi-agent, multi-agent-systems, npm, skills, swarm, swarm-intelligence, typescript"
-    },
-    "FetchedAt": "2026-09-06T10:00:16.5033495+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:humanlayer/skills"
-    },
-    "Type": 0,
-    "Title": "humanlayer/skills",
-    "Url": "https://github.com/humanlayer/skills",
-    "Description": "",
-    "Metadata": {
-      "owner": "humanlayer",
-      "repo": "skills",
-      "language": "TypeScript",
-      "stars": "442"
-    },
-    "FetchedAt": "2026-09-06T10:00:16.6709025+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:blader/humanizer"
-    },
-    "Type": 0,
-    "Title": "blader/humanizer",
-    "Url": "https://github.com/blader/humanizer",
-    "Description": "Agent skill that removes signs of AI-generated writing from text",
-    "Metadata": {
-      "owner": "blader",
-      "repo": "humanizer",
-      "language": "Python",
-      "stars": "990",
-      "topics": "agent-skills, ai-writing, claude-code, codex, cursor, prompt-engineering, writing-tools"
-    },
-    "FetchedAt": "2026-09-06T10:00:16.8403183+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:BraveOPotato/FckSignups"
-    },
-    "Type": 0,
-    "Title": "BraveOPotato/FckSignups",
-    "Url": "https://github.com/BraveOPotato/FckSignups",
-    "Description": "A list of tools that are open-source, in-browser, and require no-signups!",
-    "Metadata": {
-      "owner": "BraveOPotato",
-      "repo": "FckSignups",
-      "language": "TypeScript",
-      "stars": "68"
-    },
-    "FetchedAt": "2026-09-06T10:00:17.0050488+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:WorldFlowAI/everything-claude-code"
     },
     "Type": 0,
@@ -148,22 +48,6 @@
       "stars": "95"
     },
     "FetchedAt": "2026-09-06T10:00:17.1654447+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:magnitudedev/magnitude"
-    },
-    "Type": 0,
-    "Title": "magnitudedev/magnitude",
-    "Url": "https://github.com/magnitudedev/magnitude",
-    "Description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-    "Metadata": {
-      "owner": "magnitudedev",
-      "repo": "magnitude",
-      "language": "TypeScript",
-      "stars": "674"
-    },
-    "FetchedAt": "2026-09-06T10:00:17.3243351+00:00"
   },
   {
     "ExternalId": {
@@ -197,5 +81,205 @@
       "topics": "bash, install, lts, node, node-js, nodejs, nvm, nvmrc, posix, posix-compliant, shell, version-manager, zsh"
     },
     "FetchedAt": "2026-09-06T10:00:17.6274746+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cathrynlavery/diagram-design"
+    },
+    "Type": 0,
+    "Title": "cathrynlavery/diagram-design",
+    "Url": "https://github.com/cathrynlavery/diagram-design",
+    "Description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML \u002B SVG. No shadows. No Mermaid slop.",
+    "Metadata": {
+      "owner": "cathrynlavery",
+      "repo": "diagram-design",
+      "language": "HTML",
+      "stars": "621",
+      "topics": "agent-skills, claude-code, codex, data-visualization, diagrams, drawio, mermaid, svg"
+    },
+    "FetchedAt": "2026-09-06T14:42:35.3645189+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NousResearch/hermes-agent"
+    },
+    "Type": 0,
+    "Title": "NousResearch/hermes-agent",
+    "Url": "https://github.com/NousResearch/hermes-agent",
+    "Description": "The agent that grows with you",
+    "Metadata": {
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "language": "Python",
+      "stars": "520",
+      "topics": "ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex, hermes, hermes-agent, llm, nous-research, openai"
+    },
+    "FetchedAt": "2026-09-06T14:42:35.6517515+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:openai/skills"
+    },
+    "Type": 0,
+    "Title": "openai/skills",
+    "Url": "https://github.com/openai/skills",
+    "Description": "Skills Catalog for Codex",
+    "Metadata": {
+      "owner": "openai",
+      "repo": "skills",
+      "language": "Python",
+      "stars": "44"
+    },
+    "FetchedAt": "2026-09-06T14:42:36.0009712+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:blader/humanizer"
+    },
+    "Type": 0,
+    "Title": "blader/humanizer",
+    "Url": "https://github.com/blader/humanizer",
+    "Description": "Agent skill that removes signs of AI-generated writing from text",
+    "Metadata": {
+      "owner": "blader",
+      "repo": "humanizer",
+      "language": "Python",
+      "stars": "748",
+      "topics": "agent-skills, ai-writing, claude-code, codex, cursor, prompt-engineering, writing-tools"
+    },
+    "FetchedAt": "2026-09-06T14:42:36.1930707+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ruvnet/ruflo"
+    },
+    "Type": 0,
+    "Title": "ruvnet/ruflo",
+    "Url": "https://github.com/ruvnet/ruflo",
+    "Description": "\uD83C\uDF0A The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "Metadata": {
+      "owner": "ruvnet",
+      "repo": "ruflo",
+      "language": "TypeScript",
+      "stars": "276",
+      "topics": "agentic-ai, agentic-framework, agentic-workflow, agents, ai-agents, ai-assistant, ai-skills, autonomous-agents, claude-code, codex, dsh-plugin, harness, mcp-server, multi-agent, multi-agent-systems, npm, skills, swarm, swarm-intelligence, typescript"
+    },
+    "FetchedAt": "2026-09-06T14:42:36.3667253+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:magnitudedev/magnitude"
+    },
+    "Type": 0,
+    "Title": "magnitudedev/magnitude",
+    "Url": "https://github.com/magnitudedev/magnitude",
+    "Description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+    "Metadata": {
+      "owner": "magnitudedev",
+      "repo": "magnitude",
+      "language": "TypeScript",
+      "stars": "604"
+    },
+    "FetchedAt": "2026-09-06T14:42:36.5314102+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:BraveOPotato/FckSignups"
+    },
+    "Type": 0,
+    "Title": "BraveOPotato/FckSignups",
+    "Url": "https://github.com/BraveOPotato/FckSignups",
+    "Description": "A list of tools that are open-source, in-browser, and require no-signups!",
+    "Metadata": {
+      "owner": "BraveOPotato",
+      "repo": "FckSignups",
+      "language": "TypeScript",
+      "stars": "436"
+    },
+    "FetchedAt": "2026-09-06T14:42:36.7014488+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:aipoch/open-science"
+    },
+    "Type": 0,
+    "Title": "aipoch/open-science",
+    "Url": "https://github.com/aipoch/open-science",
+    "Description": "Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance.",
+    "Metadata": {
+      "owner": "aipoch",
+      "repo": "open-science",
+      "language": "TypeScript",
+      "stars": "145",
+      "topics": "ai-for-science, ai-research, ai-workbench, bioinformatics, claude-science-alternative, desktop-app, electron, linux, local-first, macos, mcp, model-agnostic, open-science, python, r, reproducible-research, research-software, research-workbench, scientific-ai, windows"
+    },
+    "FetchedAt": "2026-09-06T14:42:36.8504116+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:OpenWhispr/openwhispr"
+    },
+    "Type": 0,
+    "Title": "OpenWhispr/openwhispr",
+    "Url": "https://github.com/OpenWhispr/openwhispr",
+    "Description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+    "Metadata": {
+      "owner": "OpenWhispr",
+      "repo": "openwhispr",
+      "language": "JavaScript",
+      "stars": "274",
+      "topics": "ai, anthropic, cross-platform, gemini, groq, linux, macos, nvidia, open-source, openai, parakeet, speech-to-text, transcribe, whisper, windows"
+    },
+    "FetchedAt": "2026-09-06T14:42:37.0179011+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:humanlayer/skills"
+    },
+    "Type": 0,
+    "Title": "humanlayer/skills",
+    "Url": "https://github.com/humanlayer/skills",
+    "Description": "",
+    "Metadata": {
+      "owner": "humanlayer",
+      "repo": "skills",
+      "language": "TypeScript",
+      "stars": "451"
+    },
+    "FetchedAt": "2026-09-06T14:42:37.1665767+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:The-Swarm-Corporation/AutoHedge"
+    },
+    "Type": 0,
+    "Title": "The-Swarm-Corporation/AutoHedge",
+    "Url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+    "Description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+    "Metadata": {
+      "owner": "The-Swarm-Corporation",
+      "repo": "AutoHedge",
+      "language": "Python",
+      "stars": "137",
+      "topics": "ai, blackrock, finance, goldmansachs, hedgefund, jpmorgan, ml, quant, quantitative-finance, quantitative-trading, trading"
+    },
+    "FetchedAt": "2026-09-06T14:42:37.36126+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Stremio/stremio-web"
+    },
+    "Type": 0,
+    "Title": "Stremio/stremio-web",
+    "Url": "https://github.com/Stremio/stremio-web",
+    "Description": "Stremio - Freedom to Stream",
+    "Metadata": {
+      "owner": "Stremio",
+      "repo": "stremio-web",
+      "language": "JavaScript",
+      "stars": "121",
+      "topics": "hacktoberfest, stremio"
+    },
+    "FetchedAt": "2026-09-06T14:42:37.5879829+00:00"
   }
 ]
