@@ -1,21 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:49591876"
-    },
-    "Type": 1,
-    "Title": "Making a Python interpreter in 1024 bytes",
-    "Url": "https://austinhenley.com/blog/python1024.html",
-    "Description": "Making a Python interpreter in 1024 bytes",
-    "Metadata": {
-      "score": "94",
-      "author": "azhenley",
-      "commentCount": "34"
-    },
-    "FetchedAt": "2026-09-07T02:09:21.4918986+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49592706"
     },
     "Type": 1,
@@ -31,21 +16,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49590611"
-    },
-    "Type": 1,
-    "Title": "It took a year to ship WebAssembly in Anubis",
-    "Url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-    "Description": "It took a year to ship WebAssembly in Anubis",
-    "Metadata": {
-      "score": "146",
-      "author": "xena",
-      "commentCount": "89"
-    },
-    "FetchedAt": "2026-09-07T02:09:21.5664775+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49585644"
     },
     "Type": 1,
@@ -58,111 +28,6 @@
       "commentCount": "343"
     },
     "FetchedAt": "2026-09-07T02:09:21.6038902+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49590512"
-    },
-    "Type": 1,
-    "Title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-    "Url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
-    "Description": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-    "Metadata": {
-      "score": "201",
-      "author": "Cider9986",
-      "commentCount": "130"
-    },
-    "FetchedAt": "2026-09-07T02:09:21.6434281+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49590738"
-    },
-    "Type": 1,
-    "Title": "Show HN: Mador \u2013 Make any DOM reactive with a tiny 80-line Proxy state tuple",
-    "Url": "https://github.com/marsbos/mador",
-    "Description": "Show HN: Mador \u2013 Make any DOM reactive with a tiny 80-line Proxy state tuple",
-    "Metadata": {
-      "score": "68",
-      "author": "bosmarcel",
-      "commentCount": "22"
-    },
-    "FetchedAt": "2026-09-07T02:09:21.6819308+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49588988"
-    },
-    "Type": 1,
-    "Title": "Nitter and XCancel resume service after legal advice",
-    "Url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;zedeus\u0026#x2F;nitter\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;zedeus\u0026#x2F;nitter\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;cdclegal\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;cdclegal\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;nitter.net\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;nitter.net\u0026#x2F;\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;\u003C/a\u003E",
-    "Metadata": {
-      "score": "479",
-      "author": "zImPatrick",
-      "commentCount": "250"
-    },
-    "FetchedAt": "2026-09-07T02:09:21.7206109+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49591793"
-    },
-    "Type": 1,
-    "Title": "Is mathematics about to enter the conservatory?",
-    "Url": "https://mbmccoy.dev/posts/mathematical-conservatory/",
-    "Description": "Is mathematics about to enter the conservatory?",
-    "Metadata": {
-      "score": "22",
-      "author": "_alternator_",
-      "commentCount": "32"
-    },
-    "FetchedAt": "2026-09-07T02:09:21.7589501+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49554622"
-    },
-    "Type": 1,
-    "Title": "Babylonian Lamb Stew with Beets (1750\u20131730 BCE)",
-    "Url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
-    "Description": "Babylonian Lamb Stew with Beets (1750\u20131730 BCE)",
-    "Metadata": {
-      "score": "105",
-      "author": "yubblegum",
-      "commentCount": "54"
-    },
-    "FetchedAt": "2026-09-07T02:09:21.7972942+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49590595"
-    },
-    "Type": 1,
-    "Title": "Harnessing the Universal Geometry of Embeddings",
-    "Url": "https://arxiv.org/abs/2505.12540",
-    "Description": "Harnessing the Universal Geometry of Embeddings",
-    "Metadata": {
-      "score": "45",
-      "author": "ur-whale",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-09-07T02:09:21.8337455+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49587636"
-    },
-    "Type": 1,
-    "Title": "NetBSD 9.5 released and EOL for NetBSD-9",
-    "Url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-    "Description": "NetBSD 9.5 released and EOL for NetBSD-9",
-    "Metadata": {
-      "score": "108",
-      "author": "jaypatelani",
-      "commentCount": "8"
-    },
-    "FetchedAt": "2026-09-07T02:09:21.8713065+00:00"
   },
   {
     "ExternalId": {
@@ -196,21 +61,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49588080"
-    },
-    "Type": 1,
-    "Title": "An Alien Mind",
-    "Url": "https://openai.com/index/an-alien-mind/",
-    "Description": "An Alien Mind",
-    "Metadata": {
-      "score": "332",
-      "author": "tosh",
-      "commentCount": "287"
-    },
-    "FetchedAt": "2026-09-07T02:09:21.9894685+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49564609"
     },
     "Type": 1,
@@ -226,21 +76,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49586698"
-    },
-    "Type": 1,
-    "Title": "Asahi Linux on M3",
-    "Url": "https://asahilinux.org/2026/09/m2-episode-1/",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.phoronix.com\u0026#x2F;news\u0026#x2F;Asahi-Linux-Official-M3\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.phoronix.com\u0026#x2F;news\u0026#x2F;Asahi-Linux-Official-M3\u003C/a\u003E",
-    "Metadata": {
-      "score": "359",
-      "author": "mdp2021",
-      "commentCount": "201"
-    },
-    "FetchedAt": "2026-09-07T02:09:22.0691761+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49561514"
     },
     "Type": 1,
@@ -253,21 +88,6 @@
       "commentCount": "2"
     },
     "FetchedAt": "2026-09-07T02:09:22.1069566+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49587217"
-    },
-    "Type": 1,
-    "Title": "Research acceleration: The view inside OpenAI",
-    "Url": "https://openai.com/index/research-acceleration-view-inside-openai",
-    "Description": "Research acceleration: The view inside OpenAI",
-    "Metadata": {
-      "score": "118",
-      "author": "iamsyr",
-      "commentCount": "76"
-    },
-    "FetchedAt": "2026-09-07T02:09:22.1447+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +268,455 @@
       "commentCount": "269"
     },
     "FetchedAt": "2026-09-07T02:09:22.6048575+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49593563"
+    },
+    "Type": 1,
+    "Title": "Keep Our Servers Running",
+    "Url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+    "Description": "Keep Our Servers Running",
+    "Metadata": {
+      "score": "532",
+      "author": "sonicrocketman",
+      "commentCount": "113"
+    },
+    "FetchedAt": "2026-09-07T11:11:34.4918376+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49596055"
+    },
+    "Type": 1,
+    "Title": "Caltech Mathathon \u2013 first hackathon ever devoted to research level mathematics",
+    "Url": "https://mathathonchallenge.com/index.html",
+    "Description": "Caltech Mathathon \u2013 first hackathon ever devoted to research level mathematics",
+    "Metadata": {
+      "score": "26",
+      "author": "astroanax",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-07T11:11:34.521238+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49595865"
+    },
+    "Type": 1,
+    "Title": "Live map of public transport in Belgium",
+    "Url": "https://openbaarvervoerbelgie.be/",
+    "Description": "Live map of public transport in Belgium",
+    "Metadata": {
+      "score": "44",
+      "author": "coinfused",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-09-07T11:11:34.5514778+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49596054"
+    },
+    "Type": 1,
+    "Title": "Speculative Decoding in vLLM on AMD GPUs",
+    "Url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+    "Description": "Speculative Decoding in vLLM on AMD GPUs",
+    "Metadata": {
+      "score": "22",
+      "author": "ankitg12",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-09-07T11:11:34.5805876+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49594878"
+    },
+    "Type": 1,
+    "Title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+    "Url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+    "Description": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+    "Metadata": {
+      "score": "216",
+      "author": "chris_overseas",
+      "commentCount": "113"
+    },
+    "FetchedAt": "2026-09-07T11:11:34.6109401+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49596274"
+    },
+    "Type": 1,
+    "Title": "Impedance Matching",
+    "Url": "https://www.edge.org/response-detail/27238",
+    "Description": "Impedance Matching",
+    "Metadata": {
+      "score": "12",
+      "author": "muti",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-09-07T11:11:34.6413115+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49596119"
+    },
+    "Type": 1,
+    "Title": "\u0027You Can See Everything\u0027 Review: Nathan Fielder\u0027s Doc About Elizabeth Holmes",
+    "Url": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
+    "Description": "\u0027You Can See Everything\u0027 Review: Nathan Fielder\u0027s Doc About Elizabeth Holmes",
+    "Metadata": {
+      "score": "54",
+      "author": "cianmm",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-09-07T11:11:34.6711858+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49591876"
+    },
+    "Type": 1,
+    "Title": "Making a Python interpreter in 1024 bytes",
+    "Url": "https://austinhenley.com/blog/python1024.html",
+    "Description": "Making a Python interpreter in 1024 bytes",
+    "Metadata": {
+      "score": "243",
+      "author": "azhenley",
+      "commentCount": "86"
+    },
+    "FetchedAt": "2026-09-07T11:11:34.7004705+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49589914"
+    },
+    "Type": 1,
+    "Title": "Ask HN: How do you manage skills files?",
+    "Url": "https://news.ycombinator.com/item?id=49589914",
+    "Description": "How do you find skills, keep them organized, and make sure they actually work? Do you keep improving them over time?\u003Cp\u003EI believe skills will eventually be eating by model capabilities, but until then I\u0026#x27;m just looking for a better way to manage things.",
+    "Metadata": {
+      "score": "154",
+      "author": "imadtaieber",
+      "commentCount": "131"
+    },
+    "FetchedAt": "2026-09-07T11:11:34.7299662+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49595360"
+    },
+    "Type": 1,
+    "Title": "Programming is Art",
+    "Url": "https://orchidfiles.com/programming-is-art/",
+    "Description": "Programming is Art",
+    "Metadata": {
+      "score": "76",
+      "author": "theorchid",
+      "commentCount": "78"
+    },
+    "FetchedAt": "2026-09-07T11:11:34.7591959+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49590611"
+    },
+    "Type": 1,
+    "Title": "It took a year to ship WebAssembly in Anubis",
+    "Url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+    "Description": "It took a year to ship WebAssembly in Anubis",
+    "Metadata": {
+      "score": "282",
+      "author": "xena",
+      "commentCount": "136"
+    },
+    "FetchedAt": "2026-09-07T11:11:34.7900998+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49592840"
+    },
+    "Type": 1,
+    "Title": "Show HN: GET Together \u2013 A social network where you don\u0027t need POST to Post",
+    "Url": "https://gettogether.dev",
+    "Description": "Show HN: GET Together \u2013 A social network where you don\u0027t need POST to Post",
+    "Metadata": {
+      "score": "68",
+      "author": "nchudleigh",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-09-07T11:11:34.8193599+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49577129"
+    },
+    "Type": 1,
+    "Title": "Ask HN: Fable hacked my piano, can I release the results?",
+    "Url": "https://news.ycombinator.com/item?id=49577129",
+    "Description": "I have a self playing piano, using a system called PianoDisc Protigy. They have an online store which sells music for their system, from various modern artists along with classics such as Bach and Beethoven. Last night I saw they had released some music from Eric Satre, a 19th century French composer, which I bought. Curious if I could have just used AI to create these files, I began experimenting with Astra and Fable. Feeding the output of one into the other to critique. After an hour of LLM di",
+    "Metadata": {
+      "score": "168",
+      "author": "jmpman",
+      "commentCount": "106"
+    },
+    "FetchedAt": "2026-09-07T11:11:34.8507474+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49594008"
+    },
+    "Type": 1,
+    "Title": "Show HN: Engrim \u2013 A universal, local-first SQLite memory engine for AI CLIs",
+    "Url": "https://github.com/timgordontg/engrim",
+    "Description": "Show HN: Engrim \u2013 A universal, local-first SQLite memory engine for AI CLIs",
+    "Metadata": {
+      "score": "42",
+      "author": "timgordontg",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-09-07T11:11:34.8810042+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49590512"
+    },
+    "Type": 1,
+    "Title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+    "Url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+    "Description": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+    "Metadata": {
+      "score": "305",
+      "author": "Cider9986",
+      "commentCount": "214"
+    },
+    "FetchedAt": "2026-09-07T11:11:34.9114563+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49588988"
+    },
+    "Type": 1,
+    "Title": "Nitter and XCancel resume service after legal advice",
+    "Url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;zedeus\u0026#x2F;nitter\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;zedeus\u0026#x2F;nitter\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;cdclegal\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;cdclegal\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;nitter.net\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;nitter.net\u0026#x2F;\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;\u003C/a\u003E",
+    "Metadata": {
+      "score": "763",
+      "author": "zImPatrick",
+      "commentCount": "335"
+    },
+    "FetchedAt": "2026-09-07T11:11:34.9467553+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49550436"
+    },
+    "Type": 1,
+    "Title": "I Connected My Withings Body\u002B to Home Assistant with an ESP32",
+    "Url": "https://didac.dev/blog/i-made-my-withings-scale-sync-to-home-assistant-without-the-cloud",
+    "Description": "I Connected My Withings Body\u002B to Home Assistant with an ESP32",
+    "Metadata": {
+      "score": "3",
+      "author": "sabatesduran",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-07T11:11:34.9763319+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49594251"
+    },
+    "Type": 1,
+    "Title": "Switzerland\u0027s Federal Government Is Replacing Microsoft on 3k Computers",
+    "Url": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
+    "Description": "Switzerland\u0027s Federal Government Is Replacing Microsoft on 3k Computers",
+    "Metadata": {
+      "score": "180",
+      "author": "ivell",
+      "commentCount": "132"
+    },
+    "FetchedAt": "2026-09-07T11:11:35.0061072+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49591793"
+    },
+    "Type": 1,
+    "Title": "Is mathematics about to enter the conservatory?",
+    "Url": "https://mbmccoy.dev/posts/mathematical-conservatory/",
+    "Description": "Is mathematics about to enter the conservatory?",
+    "Metadata": {
+      "score": "57",
+      "author": "_alternator_",
+      "commentCount": "76"
+    },
+    "FetchedAt": "2026-09-07T11:11:35.0367667+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49537143"
+    },
+    "Type": 1,
+    "Title": "Show HN: Think Turing Complete, but you write the circuits in TypeScript (WIP)",
+    "Url": "https://play.simten.dev",
+    "Description": "Show HN: Think Turing Complete, but you write the circuits in TypeScript (WIP)",
+    "Metadata": {
+      "score": "6",
+      "author": "charlesfrisbee",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-07T11:11:35.0665743+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49593066"
+    },
+    "Type": 1,
+    "Title": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
+    "Url": "https://rfd.shared.oxide.computer/rfd/0301",
+    "Description": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
+    "Metadata": {
+      "score": "37",
+      "author": "cyb0rg0",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-09-07T11:11:35.0964704+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49590595"
+    },
+    "Type": 1,
+    "Title": "Harnessing the Universal Geometry of Embeddings",
+    "Url": "https://arxiv.org/abs/2505.12540",
+    "Description": "Harnessing the Universal Geometry of Embeddings",
+    "Metadata": {
+      "score": "81",
+      "author": "ur-whale",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-09-07T11:11:35.1259903+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49593971"
+    },
+    "Type": 1,
+    "Title": "TiVo to charge money for skipping commercials in your own recordings",
+    "Url": "https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/",
+    "Description": "TiVo to charge money for skipping commercials in your own recordings",
+    "Metadata": {
+      "score": "89",
+      "author": "dmitrygr",
+      "commentCount": "46"
+    },
+    "FetchedAt": "2026-09-07T11:11:35.1566866+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49586698"
+    },
+    "Type": 1,
+    "Title": "Asahi Linux on M3",
+    "Url": "https://asahilinux.org/2026/09/m2-episode-1/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.phoronix.com\u0026#x2F;news\u0026#x2F;Asahi-Linux-Official-M3\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.phoronix.com\u0026#x2F;news\u0026#x2F;Asahi-Linux-Official-M3\u003C/a\u003E",
+    "Metadata": {
+      "score": "493",
+      "author": "mdp2021",
+      "commentCount": "302"
+    },
+    "FetchedAt": "2026-09-07T11:11:35.1855772+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49587217"
+    },
+    "Type": 1,
+    "Title": "Research acceleration: The view inside OpenAI",
+    "Url": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "Description": "Research acceleration: The view inside OpenAI",
+    "Metadata": {
+      "score": "184",
+      "author": "iamsyr",
+      "commentCount": "131"
+    },
+    "FetchedAt": "2026-09-07T11:11:35.2152777+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49550276"
+    },
+    "Type": 1,
+    "Title": "I\u0027m a seeing-eye dog for a computer",
+    "Url": "https://claytonwramsey.com/blog/seeing-eye/",
+    "Description": "I\u0027m a seeing-eye dog for a computer",
+    "Metadata": {
+      "score": "74",
+      "author": "claytonwramsey",
+      "commentCount": "74"
+    },
+    "FetchedAt": "2026-09-07T11:11:35.246673+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49554622"
+    },
+    "Type": 1,
+    "Title": "Babylonian Lamb Stew with Beets (1750\u20131730 BCE)",
+    "Url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
+    "Description": "Babylonian Lamb Stew with Beets (1750\u20131730 BCE)",
+    "Metadata": {
+      "score": "150",
+      "author": "yubblegum",
+      "commentCount": "118"
+    },
+    "FetchedAt": "2026-09-07T11:11:35.2765257+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49588080"
+    },
+    "Type": 1,
+    "Title": "An Alien Mind",
+    "Url": "https://openai.com/index/an-alien-mind/",
+    "Description": "An Alien Mind",
+    "Metadata": {
+      "score": "419",
+      "author": "tosh",
+      "commentCount": "371"
+    },
+    "FetchedAt": "2026-09-07T11:11:35.3067782+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49587636"
+    },
+    "Type": 1,
+    "Title": "NetBSD 9.5 released and EOL for NetBSD-9",
+    "Url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+    "Description": "NetBSD 9.5 released and EOL for NetBSD-9",
+    "Metadata": {
+      "score": "136",
+      "author": "jaypatelani",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-09-07T11:11:35.3366743+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49590738"
+    },
+    "Type": 1,
+    "Title": "Show HN: Mador \u2013 Make any DOM reactive with a tiny 80-line Proxy state tuple",
+    "Url": "https://github.com/marsbos/mador",
+    "Description": "Show HN: Mador \u2013 Make any DOM reactive with a tiny 80-line Proxy state tuple",
+    "Metadata": {
+      "score": "92",
+      "author": "bosmarcel",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-09-07T11:11:35.3655938+00:00"
   }
 ]
