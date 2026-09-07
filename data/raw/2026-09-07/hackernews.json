@@ -271,141 +271,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49593563"
-    },
-    "Type": 1,
-    "Title": "Keep Our Servers Running",
-    "Url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-    "Description": "Keep Our Servers Running",
-    "Metadata": {
-      "score": "532",
-      "author": "sonicrocketman",
-      "commentCount": "113"
-    },
-    "FetchedAt": "2026-09-07T11:11:34.4918376+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49596055"
-    },
-    "Type": 1,
-    "Title": "Caltech Mathathon \u2013 first hackathon ever devoted to research level mathematics",
-    "Url": "https://mathathonchallenge.com/index.html",
-    "Description": "Caltech Mathathon \u2013 first hackathon ever devoted to research level mathematics",
-    "Metadata": {
-      "score": "26",
-      "author": "astroanax",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-09-07T11:11:34.521238+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49595865"
-    },
-    "Type": 1,
-    "Title": "Live map of public transport in Belgium",
-    "Url": "https://openbaarvervoerbelgie.be/",
-    "Description": "Live map of public transport in Belgium",
-    "Metadata": {
-      "score": "44",
-      "author": "coinfused",
-      "commentCount": "18"
-    },
-    "FetchedAt": "2026-09-07T11:11:34.5514778+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49596054"
-    },
-    "Type": 1,
-    "Title": "Speculative Decoding in vLLM on AMD GPUs",
-    "Url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-    "Description": "Speculative Decoding in vLLM on AMD GPUs",
-    "Metadata": {
-      "score": "22",
-      "author": "ankitg12",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-09-07T11:11:34.5805876+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49594878"
-    },
-    "Type": 1,
-    "Title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
-    "Url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
-    "Description": "LG smart TVs caught logging audio with screen off and snooping on local devices",
-    "Metadata": {
-      "score": "216",
-      "author": "chris_overseas",
-      "commentCount": "113"
-    },
-    "FetchedAt": "2026-09-07T11:11:34.6109401+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49596274"
-    },
-    "Type": 1,
-    "Title": "Impedance Matching",
-    "Url": "https://www.edge.org/response-detail/27238",
-    "Description": "Impedance Matching",
-    "Metadata": {
-      "score": "12",
-      "author": "muti",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-09-07T11:11:34.6413115+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49596119"
-    },
-    "Type": 1,
-    "Title": "\u0027You Can See Everything\u0027 Review: Nathan Fielder\u0027s Doc About Elizabeth Holmes",
-    "Url": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
-    "Description": "\u0027You Can See Everything\u0027 Review: Nathan Fielder\u0027s Doc About Elizabeth Holmes",
-    "Metadata": {
-      "score": "54",
-      "author": "cianmm",
-      "commentCount": "18"
-    },
-    "FetchedAt": "2026-09-07T11:11:34.6711858+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49591876"
-    },
-    "Type": 1,
-    "Title": "Making a Python interpreter in 1024 bytes",
-    "Url": "https://austinhenley.com/blog/python1024.html",
-    "Description": "Making a Python interpreter in 1024 bytes",
-    "Metadata": {
-      "score": "243",
-      "author": "azhenley",
-      "commentCount": "86"
-    },
-    "FetchedAt": "2026-09-07T11:11:34.7004705+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49589914"
-    },
-    "Type": 1,
-    "Title": "Ask HN: How do you manage skills files?",
-    "Url": "https://news.ycombinator.com/item?id=49589914",
-    "Description": "How do you find skills, keep them organized, and make sure they actually work? Do you keep improving them over time?\u003Cp\u003EI believe skills will eventually be eating by model capabilities, but until then I\u0026#x27;m just looking for a better way to manage things.",
-    "Metadata": {
-      "score": "154",
-      "author": "imadtaieber",
-      "commentCount": "131"
-    },
-    "FetchedAt": "2026-09-07T11:11:34.7299662+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49595360"
     },
     "Type": 1,
@@ -418,21 +283,6 @@
       "commentCount": "78"
     },
     "FetchedAt": "2026-09-07T11:11:34.7591959+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49590611"
-    },
-    "Type": 1,
-    "Title": "It took a year to ship WebAssembly in Anubis",
-    "Url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-    "Description": "It took a year to ship WebAssembly in Anubis",
-    "Metadata": {
-      "score": "282",
-      "author": "xena",
-      "commentCount": "136"
-    },
-    "FetchedAt": "2026-09-07T11:11:34.7900998+00:00"
   },
   {
     "ExternalId": {
@@ -451,21 +301,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49577129"
-    },
-    "Type": 1,
-    "Title": "Ask HN: Fable hacked my piano, can I release the results?",
-    "Url": "https://news.ycombinator.com/item?id=49577129",
-    "Description": "I have a self playing piano, using a system called PianoDisc Protigy. They have an online store which sells music for their system, from various modern artists along with classics such as Bach and Beethoven. Last night I saw they had released some music from Eric Satre, a 19th century French composer, which I bought. Curious if I could have just used AI to create these files, I began experimenting with Astra and Fable. Feeding the output of one into the other to critique. After an hour of LLM di",
-    "Metadata": {
-      "score": "168",
-      "author": "jmpman",
-      "commentCount": "106"
-    },
-    "FetchedAt": "2026-09-07T11:11:34.8507474+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49594008"
     },
     "Type": 1,
@@ -478,21 +313,6 @@
       "commentCount": "10"
     },
     "FetchedAt": "2026-09-07T11:11:34.8810042+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49590512"
-    },
-    "Type": 1,
-    "Title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-    "Url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
-    "Description": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-    "Metadata": {
-      "score": "305",
-      "author": "Cider9986",
-      "commentCount": "214"
-    },
-    "FetchedAt": "2026-09-07T11:11:34.9114563+00:00"
   },
   {
     "ExternalId": {
@@ -511,21 +331,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49550436"
-    },
-    "Type": 1,
-    "Title": "I Connected My Withings Body\u002B to Home Assistant with an ESP32",
-    "Url": "https://didac.dev/blog/i-made-my-withings-scale-sync-to-home-assistant-without-the-cloud",
-    "Description": "I Connected My Withings Body\u002B to Home Assistant with an ESP32",
-    "Metadata": {
-      "score": "3",
-      "author": "sabatesduran",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-09-07T11:11:34.9763319+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49594251"
     },
     "Type": 1,
@@ -538,21 +343,6 @@
       "commentCount": "132"
     },
     "FetchedAt": "2026-09-07T11:11:35.0061072+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49591793"
-    },
-    "Type": 1,
-    "Title": "Is mathematics about to enter the conservatory?",
-    "Url": "https://mbmccoy.dev/posts/mathematical-conservatory/",
-    "Description": "Is mathematics about to enter the conservatory?",
-    "Metadata": {
-      "score": "57",
-      "author": "_alternator_",
-      "commentCount": "76"
-    },
-    "FetchedAt": "2026-09-07T11:11:35.0367667+00:00"
   },
   {
     "ExternalId": {
@@ -718,5 +508,455 @@
       "commentCount": "31"
     },
     "FetchedAt": "2026-09-07T11:11:35.3655938+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49597907"
+    },
+    "Type": 1,
+    "Title": "De-Brainrot Vacations",
+    "Url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+    "Description": "De-Brainrot Vacations",
+    "Metadata": {
+      "score": "349",
+      "author": "DanielVZ",
+      "commentCount": "140"
+    },
+    "FetchedAt": "2026-09-07T16:57:35.4502915+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49598291"
+    },
+    "Type": 1,
+    "Title": "bzip3",
+    "Url": "https://github.com/iczelia/bzip3",
+    "Description": "bzip3",
+    "Metadata": {
+      "score": "167",
+      "author": "tosh",
+      "commentCount": "53"
+    },
+    "FetchedAt": "2026-09-07T16:57:35.4958233+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49593563"
+    },
+    "Type": 1,
+    "Title": "Keep Our Servers Running",
+    "Url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+    "Description": "Keep Our Servers Running",
+    "Metadata": {
+      "score": "780",
+      "author": "sonicrocketman",
+      "commentCount": "197"
+    },
+    "FetchedAt": "2026-09-07T16:57:35.540871+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49596055"
+    },
+    "Type": 1,
+    "Title": "Caltech Mathathon \u2013 first hackathon ever devoted to research level mathematics",
+    "Url": "https://mathathonchallenge.com/index.html",
+    "Description": "Caltech Mathathon \u2013 first hackathon ever devoted to research level mathematics",
+    "Metadata": {
+      "score": "140",
+      "author": "astroanax",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-09-07T16:57:35.585786+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49558685"
+    },
+    "Type": 1,
+    "Title": "Simple Is Not Small",
+    "Url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+    "Description": "Simple Is Not Small",
+    "Metadata": {
+      "score": "65",
+      "author": "zdw",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-09-07T16:57:35.6313235+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49595865"
+    },
+    "Type": 1,
+    "Title": "Live map of public transport in Belgium",
+    "Url": "https://openbaarvervoerbelgie.be/",
+    "Description": "Live map of public transport in Belgium",
+    "Metadata": {
+      "score": "137",
+      "author": "coinfused",
+      "commentCount": "62"
+    },
+    "FetchedAt": "2026-09-07T16:57:35.6774007+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49589190"
+    },
+    "Type": 1,
+    "Title": "The Dataflow Model Revisited",
+    "Url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+    "Description": "The Dataflow Model Revisited",
+    "Metadata": {
+      "score": "8",
+      "author": "scott_s",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-09-07T16:57:35.7229588+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49594878"
+    },
+    "Type": 1,
+    "Title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+    "Url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=6IFVTcM28KA\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=6IFVTcM28KA\u003C/a\u003E",
+    "Metadata": {
+      "score": "860",
+      "author": "chris_overseas",
+      "commentCount": "425"
+    },
+    "FetchedAt": "2026-09-07T16:57:35.7678025+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49597895"
+    },
+    "Type": 1,
+    "Title": "Splash-free urinals (2025)",
+    "Url": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
+    "Description": "Splash-free urinals (2025)",
+    "Metadata": {
+      "score": "163",
+      "author": "u1hcw9nx",
+      "commentCount": "89"
+    },
+    "FetchedAt": "2026-09-07T16:57:35.8125782+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49596054"
+    },
+    "Type": 1,
+    "Title": "Speculative Decoding in vLLM on AMD GPUs",
+    "Url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+    "Description": "Speculative Decoding in vLLM on AMD GPUs",
+    "Metadata": {
+      "score": "93",
+      "author": "ankitg12",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-09-07T16:57:35.8585061+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49597189"
+    },
+    "Type": 1,
+    "Title": "Smartphone makers don\u0027t bother to comply with EU repairability requirements",
+    "Url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+    "Description": "Smartphone makers don\u0027t bother to comply with EU repairability requirements",
+    "Metadata": {
+      "score": "194",
+      "author": "mdp2021",
+      "commentCount": "112"
+    },
+    "FetchedAt": "2026-09-07T16:57:35.9046781+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49599719"
+    },
+    "Type": 1,
+    "Title": "Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set",
+    "Url": "https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set",
+    "Description": "Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set",
+    "Metadata": {
+      "score": "32",
+      "author": "neogodless",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-09-07T16:57:35.9521948+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49596274"
+    },
+    "Type": 1,
+    "Title": "Impedance Matching (2017)",
+    "Url": "https://www.edge.org/response-detail/27238",
+    "Description": "Impedance Matching (2017)",
+    "Metadata": {
+      "score": "58",
+      "author": "muti",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-09-07T16:57:35.9980608+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49600233"
+    },
+    "Type": 1,
+    "Title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+    "Url": "https://news.ycombinator.com/item?id=49600233",
+    "Description": "In case you\u0026#x27;re wondering why the limits behave so very different from last week. Also: this makes limit resets kind woth significantly less.",
+    "Metadata": {
+      "score": "5",
+      "author": "spwa4",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-09-07T16:57:36.0481866+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49562440"
+    },
+    "Type": 1,
+    "Title": "Whistle Synth",
+    "Url": "https://www.jefftk.com/p/whistle-synth-mac-app",
+    "Description": "Whistle Synth",
+    "Metadata": {
+      "score": "15",
+      "author": "luu",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-09-07T16:57:36.0942624+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49599481"
+    },
+    "Type": 1,
+    "Title": "Bill Gates tries to install MovieMaker",
+    "Url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+    "Description": "Bill Gates tries to install MovieMaker",
+    "Metadata": {
+      "score": "43",
+      "author": "highfrequency",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-09-07T16:57:36.1420605+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49599058"
+    },
+    "Type": 1,
+    "Title": "If a Tesla Cybercab fleet were profitable, Tesla wouldn\u0027t sell you one",
+    "Url": "https://electrek.co/2026/09/07/tesla-cybercab-fleet-profitable-wouldnt-sell/",
+    "Description": "If a Tesla Cybercab fleet were profitable, Tesla wouldn\u0027t sell you one",
+    "Metadata": {
+      "score": "31",
+      "author": "jijojv",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-09-07T16:57:36.187475+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49591876"
+    },
+    "Type": 1,
+    "Title": "Making a Python interpreter in 1024 bytes",
+    "Url": "https://austinhenley.com/blog/python1024.html",
+    "Description": "Making a Python interpreter in 1024 bytes",
+    "Metadata": {
+      "score": "289",
+      "author": "azhenley",
+      "commentCount": "101"
+    },
+    "FetchedAt": "2026-09-07T16:57:36.2326003+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49577129"
+    },
+    "Type": 1,
+    "Title": "Ask HN: Fable hacked my piano, can I release the results?",
+    "Url": "https://news.ycombinator.com/item?id=49577129",
+    "Description": "I have a self playing piano, using a system called PianoDisc Protigy. They have an online store which sells music for their system, from various modern artists along with classics such as Bach and Beethoven. Last night I saw they had released some music from Eric Satre, a 19th century French composer, which I bought. Curious if I could have just used AI to create these files, I began experimenting with Astra and Fable. Feeding the output of one into the other to critique. After an hour of LLM di",
+    "Metadata": {
+      "score": "235",
+      "author": "jmpman",
+      "commentCount": "137"
+    },
+    "FetchedAt": "2026-09-07T16:57:36.2787652+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49540827"
+    },
+    "Type": 1,
+    "Title": "Unified Arabic",
+    "Url": "https://worksthatwork.com/6/unified-arabic",
+    "Description": "Unified Arabic",
+    "Metadata": {
+      "score": "92",
+      "author": "spacebuffer",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-09-07T16:57:36.3237074+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49596629"
+    },
+    "Type": 1,
+    "Title": "Tiny $70 Xteink X3 e-reader",
+    "Url": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
+    "Description": "Tiny $70 Xteink X3 e-reader",
+    "Metadata": {
+      "score": "148",
+      "author": "samizdis",
+      "commentCount": "149"
+    },
+    "FetchedAt": "2026-09-07T16:57:36.3692695+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49590611"
+    },
+    "Type": 1,
+    "Title": "It took a year to ship WebAssembly in Anubis",
+    "Url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+    "Description": "It took a year to ship WebAssembly in Anubis",
+    "Metadata": {
+      "score": "333",
+      "author": "xena",
+      "commentCount": "168"
+    },
+    "FetchedAt": "2026-09-07T16:57:36.414315+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49589914"
+    },
+    "Type": 1,
+    "Title": "Ask HN: How do you manage skills files?",
+    "Url": "https://news.ycombinator.com/item?id=49589914",
+    "Description": "How do you find skills, keep them organized, and make sure they actually work? Do you keep improving them over time?\u003Cp\u003EI believe skills will eventually be eating by model capabilities, but until then I\u0026#x27;m just looking for a better way to manage things.",
+    "Metadata": {
+      "score": "246",
+      "author": "imadtaieber",
+      "commentCount": "231"
+    },
+    "FetchedAt": "2026-09-07T16:57:36.4598698+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49590512"
+    },
+    "Type": 1,
+    "Title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+    "Url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+    "Description": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+    "Metadata": {
+      "score": "367",
+      "author": "Cider9986",
+      "commentCount": "232"
+    },
+    "FetchedAt": "2026-09-07T16:57:36.5062675+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49550436"
+    },
+    "Type": 1,
+    "Title": "I Connected My Withings Body\u002B to Home Assistant with an ESP32",
+    "Url": "https://didac.dev/blog/i-made-my-withings-scale-sync-to-home-assistant-without-the-cloud",
+    "Description": "I Connected My Withings Body\u002B to Home Assistant with an ESP32",
+    "Metadata": {
+      "score": "59",
+      "author": "sabatesduran",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-09-07T16:57:36.5507921+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49596797"
+    },
+    "Type": 1,
+    "Title": "VMware migration reduces Tottenham Hotspur\u0027s licensing fees by 85 percent",
+    "Url": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
+    "Description": "VMware migration reduces Tottenham Hotspur\u0027s licensing fees by 85 percent",
+    "Metadata": {
+      "score": "74",
+      "author": "joozio",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-09-07T16:57:36.5957919+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49596976"
+    },
+    "Type": 1,
+    "Title": "Apparently CodePen 2.0 sends data to their servers as you type",
+    "Url": "https://news.ycombinator.com/item?id=49596976",
+    "Description": "They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in respective Network\u0026#x2F;Response tab) even before one saved it. I tested this with a unique marker: after typing it into index.html, CodePen ran a build with \u0026quot;save:false\u0026quot;, and the marker then appeared verbatim in the HTML served from the generated \u0026quot;*.codepen.dev preview\u0026quot;. Thus, if you ever entered some secrets in there by mistake con",
+    "Metadata": {
+      "score": "84",
+      "author": "maxim-fin",
+      "commentCount": "39"
+    },
+    "FetchedAt": "2026-09-07T16:57:36.640837+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49591793"
+    },
+    "Type": 1,
+    "Title": "Is mathematics about to enter the conservatory?",
+    "Url": "https://mbmccoy.dev/posts/mathematical-conservatory/",
+    "Description": "Is mathematics about to enter the conservatory?",
+    "Metadata": {
+      "score": "102",
+      "author": "_alternator_",
+      "commentCount": "120"
+    },
+    "FetchedAt": "2026-09-07T16:57:36.6883833+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49534396"
+    },
+    "Type": 1,
+    "Title": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?",
+    "Url": "https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/",
+    "Description": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?",
+    "Metadata": {
+      "score": "46",
+      "author": "DamonHD",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-09-07T16:57:36.7332475+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49596119"
+    },
+    "Type": 1,
+    "Title": "\u0027You Can See Everything\u0027 Review: Nathan Fielder\u0027s Doc About Elizabeth Holmes",
+    "Url": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
+    "Description": "\u0027You Can See Everything\u0027 Review: Nathan Fielder\u0027s Doc About Elizabeth Holmes",
+    "Metadata": {
+      "score": "260",
+      "author": "cianmm",
+      "commentCount": "181"
+    },
+    "FetchedAt": "2026-09-07T16:57:36.8152643+00:00"
   }
 ]
