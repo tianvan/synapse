@@ -1,0 +1,638 @@
+{
+  "Id": "2026-09-07",
+  "GeneratedAt": "2026-09-07T03:16:57.6945227+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:cathrynlavery/diagram-design"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML \u002B SVG. No shadows. No Mermaid slop."
+      },
+      "Description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML \u002B SVG. No shadows. No Mermaid slop.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:NousResearch/hermes-agent"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The agent that grows with you"
+      },
+      "Description": "The agent that grows with you",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:openai/skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Skills Catalog for Codex"
+      },
+      "Description": "Skills Catalog for Codex",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:blader/humanizer"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Agent skill that removes signs of AI-generated writing from text"
+      },
+      "Description": "Agent skill that removes signs of AI-generated writing from text",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:ruvnet/ruflo"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\uD83C\uDF0A The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build c"
+      },
+      "Description": "\uD83C\uDF0A The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Feat",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:magnitudedev/magnitude"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. "
+      },
+      "Description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Herme",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:BraveOPotato/FckSignups"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A list of tools that are open-source, in-browser, and require no-signups!"
+      },
+      "Description": "A list of tools that are open-source, in-browser, and require no-signups!",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:aipoch/open-science"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linu"
+      },
+      "Description": "Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Pyt",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:OpenWhispr/openwhispr"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cr"
+      },
+      "Description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:humanlayer/skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": ""
+      },
+      "Description": "",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:The-Swarm-Corporation/AutoHedge"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automa"
+      },
+      "Description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk manag",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Stremio/stremio-web"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Stremio - Freedom to Stream"
+      },
+      "Description": "Stremio - Freedom to Stream",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49591876"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Making a Python interpreter in 1024 bytes"
+      },
+      "Description": "Making a Python interpreter in 1024 bytes",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49592706"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Ponytail: Lazy Senior Engineer Skill"
+      },
+      "Description": "Ponytail: Lazy Senior Engineer Skill",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49590611"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "It took a year to ship WebAssembly in Anubis"
+      },
+      "Description": "It took a year to ship WebAssembly in Anubis",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49585644"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Your intellectual fly is open when you use an LLM to author a post (2025)"
+      },
+      "Description": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49590512"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "GrapheneOS Overhauled Default Apps and Secure Clipboard"
+      },
+      "Description": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49590738"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Show HN: Mador \u2013 Make any DOM reactive with a tiny 80-line Proxy state tuple"
+      },
+      "Description": "Show HN: Mador \u2013 Make any DOM reactive with a tiny 80-line Proxy state tuple",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49588988"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;zedeus\u0026#x2F;nitter\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;zedeus\u0026#"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;zedeus\u0026#x2F;nitter\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;zedeus\u0026#x2F;nitter\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022http",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49591793"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Is mathematics about to enter the conservatory?"
+      },
+      "Description": "Is mathematics about to enter the conservatory?",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49554622"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Babylonian Lamb Stew with Beets (1750\u20131730 BCE)"
+      },
+      "Description": "Babylonian Lamb Stew with Beets (1750\u20131730 BCE)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49590595"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Harnessing the Universal Geometry of Embeddings"
+      },
+      "Description": "Harnessing the Universal Geometry of Embeddings",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49587636"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "NetBSD 9.5 released and EOL for NetBSD-9"
+      },
+      "Description": "NetBSD 9.5 released and EOL for NetBSD-9",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49540637"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Black Hole of Los Alamos: Seller of surplus nuclear research materials (2011)"
+      },
+      "Description": "Black Hole of Los Alamos: Seller of surplus nuclear research materials (2011)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49592210"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hard-Chat \u2013 A serverless, RAM-only P2P terminal chat"
+      },
+      "Description": "Hard-Chat \u2013 A serverless, RAM-only P2P terminal chat",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49588080"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "An Alien Mind"
+      },
+      "Description": "An Alien Mind",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49564609"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The NX bit is not just about security"
+      },
+      "Description": "The NX bit is not just about security",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49586698"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.phoronix.com\u0026#x2F;news\u0026#x2F;Asahi-Linux-Official-M3\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.phoronix.com\u0026#x2F;news\u0026#x2F;Asahi-Linux-Official-M3\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.phoronix.com\u0026#x2F;news\u0026#x2F;A",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49561514"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Reverse engineering the storage format for an undocumented database"
+      },
+      "Description": "Reverse engineering the storage format for an undocumented database",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49587217"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Research acceleration: The view inside OpenAI"
+      },
+      "Description": "Research acceleration: The view inside OpenAI",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49548196"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Please don\u0027t rearrange our shoes when we turn up, paramedics in Japan urge"
+      },
+      "Description": "Please don\u0027t rearrange our shoes when we turn up, paramedics in Japan urge",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49591672"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;Liquid_BTC\u0026#x2F;status\u0026#x2F;2096696272447218108\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;Liquid_BTC\u0026#x2F;status\u0026#x2F;2096696272447218108\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;xcancel.com\u0026#x2F;Liquid_",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49588466"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Opalite Health (YC W26) Is Hiring \u2013 Founding GTM"
+      },
+      "Description": "Opalite Health (YC W26) Is Hiring \u2013 Founding GTM",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49586898"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A/I shuts down"
+      },
+      "Description": "A/I shuts down",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49587903"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Research carried out using NetBSD"
+      },
+      "Description": "Research carried out using NetBSD",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49589768"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "D2 Is Non-Profit"
+      },
+      "Description": "D2 Is Non-Profit",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49542123"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Vidact \u2013 a compiler that turns React into direct DOM operations"
+      },
+      "Description": "Vidact \u2013 a compiler that turns React into direct DOM operations",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49592366"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server"
+      },
+      "Description": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49540090"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Electronic skin for prosthetics to sense temperature and pressure"
+      },
+      "Description": "Electronic skin for prosthetics to sense temperature and pressure",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49531619"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "M-DISC \u2013 DVD/Blu-ray compatible discs that may last up to 1000 years"
+      },
+      "Description": "M-DISC \u2013 DVD/Blu-ray compatible discs that may last up to 1000 years",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49584083"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Isar Aerospace reaches orbit and deploys payloads on second flight"
+      },
+      "Description": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49585627"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Doomscrolling ourselves to death"
+      },
+      "Description": "Doomscrolling ourselves to death",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 42 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
