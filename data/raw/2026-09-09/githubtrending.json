@@ -14,7 +14,7 @@
       "stars": "656",
       "topics": "adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity"
     },
-    "FetchedAt": "2026-09-09T02:24:14.3022547+00:00"
+    "FetchedAt": "2026-09-09T10:30:37.6725774+00:00"
   },
   {
     "ExternalId": {
@@ -31,7 +31,7 @@
       "stars": "710",
       "topics": "agent-skills, claude-code, codex, data-visualization, diagrams, drawio, mermaid, svg"
     },
-    "FetchedAt": "2026-09-09T02:24:14.5002712+00:00"
+    "FetchedAt": "2026-09-09T10:30:37.9114433+00:00"
   },
   {
     "ExternalId": {
@@ -47,7 +47,7 @@
       "language": "Python",
       "stars": "490"
     },
-    "FetchedAt": "2026-09-09T02:24:14.628559+00:00"
+    "FetchedAt": "2026-09-09T10:30:38.0393456+00:00"
   },
   {
     "ExternalId": {
@@ -64,7 +64,7 @@
       "stars": "2,627",
       "topics": "ai, animation, ffmpeg, framework, gsap, html, mcp, puppeteer, rendering, typescript, video"
     },
-    "FetchedAt": "2026-09-09T02:24:14.7831601+00:00"
+    "FetchedAt": "2026-09-09T10:30:38.1707618+00:00"
   },
   {
     "ExternalId": {
@@ -79,7 +79,7 @@
       "repo": "andrej-karpathy-skills",
       "stars": "333"
     },
-    "FetchedAt": "2026-09-09T02:24:14.9194673+00:00"
+    "FetchedAt": "2026-09-09T10:30:38.3364555+00:00"
   },
   {
     "ExternalId": {
@@ -96,7 +96,7 @@
       "stars": "2,047",
       "topics": "autogen, autogen-extension, langchain, markdown, microsoft-office, openai, pdf"
     },
-    "FetchedAt": "2026-09-09T02:24:15.0556741+00:00"
+    "FetchedAt": "2026-09-09T10:30:38.4684262+00:00"
   },
   {
     "ExternalId": {
@@ -113,7 +113,7 @@
       "stars": "871",
       "topics": "ai-agent, anti-bot, antidetect-browser, automation, bot-detection, browser-automation, cloudflare-bypass, headless-browser, javascript, nodejs, playwright, puppeteer, scraping, stealth-browser, web-scraping"
     },
-    "FetchedAt": "2026-09-09T02:24:15.1989039+00:00"
+    "FetchedAt": "2026-09-09T10:30:38.6012265+00:00"
   },
   {
     "ExternalId": {
@@ -129,7 +129,7 @@
       "language": "TypeScript",
       "stars": "505"
     },
-    "FetchedAt": "2026-09-09T02:24:15.3334485+00:00"
+    "FetchedAt": "2026-09-09T10:30:38.7418298+00:00"
   },
   {
     "ExternalId": {
@@ -146,7 +146,7 @@
       "stars": "228",
       "topics": "ai-agents, ai-tools, browser-automation, browser-use, llm, playwright, python"
     },
-    "FetchedAt": "2026-09-09T02:24:15.4575395+00:00"
+    "FetchedAt": "2026-09-09T10:30:38.9052442+00:00"
   },
   {
     "ExternalId": {
@@ -163,7 +163,22 @@
       "stars": "494",
       "topics": "ai, blackrock, finance, goldmansachs, hedgefund, jpmorgan, ml, quant, quantitative-finance, quantitative-trading, trading"
     },
-    "FetchedAt": "2026-09-09T02:24:15.5947261+00:00"
+    "FetchedAt": "2026-09-09T10:30:39.0737899+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:liquidslr/system-design-notes"
+    },
+    "Type": 0,
+    "Title": "liquidslr/system-design-notes",
+    "Url": "https://github.com/liquidslr/system-design-notes",
+    "Description": "Notes of the book System Desgin Interview - An Insider\u0027s Guide",
+    "Metadata": {
+      "owner": "liquidslr",
+      "repo": "system-design-notes",
+      "stars": "910"
+    },
+    "FetchedAt": "2026-09-09T10:30:39.2547637+00:00"
   },
   {
     "ExternalId": {
@@ -180,7 +195,7 @@
       "stars": "178",
       "topics": "android, genymobile, gnirehtet, gui, hacktoberfest, hacktoberfest2026, hacktoberfest2027, linux, macos, mapping, mirroring, recording, scrcpy, scrcpy-engine, scrcpy-gui, screensharing, screenshots, windows"
     },
-    "FetchedAt": "2026-09-09T02:24:15.7623362+00:00"
+    "FetchedAt": "2026-09-09T10:30:39.3827186+00:00"
   },
   {
     "ExternalId": {
@@ -196,6 +211,6 @@
       "language": "JavaScript",
       "stars": "105"
     },
-    "FetchedAt": "2026-09-09T02:24:15.896718+00:00"
+    "FetchedAt": "2026-09-09T10:30:39.5018125+00:00"
   }
 ]
