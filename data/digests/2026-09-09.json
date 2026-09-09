@@ -1,0 +1,638 @@
+{
+  "Id": "2026-09-09",
+  "GeneratedAt": "2026-09-09T03:28:28.762606+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:ayghri/i-have-adhd"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
+      },
+      "Description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:cathrynlavery/diagram-design"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML \u002B SVG. No shadows. No Mermaid slop."
+      },
+      "Description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML \u002B SVG. No shadows. No Mermaid slop.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:openai/skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Skills Catalog for Codex"
+      },
+      "Description": "Skills Catalog for Codex",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:heygen-com/hyperframes"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Write HTML. Render video. Built for agents."
+      },
+      "Description": "Write HTML. Render video. Built for agents.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:multica-ai/andrej-karpathy-skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy\u0027s observations on LLM coding pitfa"
+      },
+      "Description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy\u0027s observations on LLM coding pitfalls.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:microsoft/markitdown"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Python tool for converting files and office documents to Markdown."
+      },
+      "Description": "Python tool for converting files and office documents to Markdown.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:jo-inc/camofox-browser"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Stealth headless browser for AI agents \u2014 bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwrig"
+      },
+      "Description": "Stealth headless browser for AI agents \u2014 bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:MoonTechLab/LunaTV"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u672C\u9879\u76EE\u91C7\u7528 CC BY-NC-SA \u534F\u8BAE\uFF0C\u7981\u6B62\u4EFB\u4F55\u5546\u4E1A\u5316\u884C\u4E3A\uFF0C\u4EFB\u4F55\u884D\u751F\u9879\u76EE\u5FC5\u987B\u4FDD\u7559\u672C\u9879\u76EE\u5730\u5740\u5E76\u4EE5\u76F8\u540C\u534F\u8BAE\u5F00\u6E90"
+      },
+      "Description": "\u672C\u9879\u76EE\u91C7\u7528 CC BY-NC-SA \u534F\u8BAE\uFF0C\u7981\u6B62\u4EFB\u4F55\u5546\u4E1A\u5316\u884C\u4E3A\uFF0C\u4EFB\u4F55\u884D\u751F\u9879\u76EE\u5FC5\u987B\u4FDD\u7559\u672C\u9879\u76EE\u5730\u5740\u5E76\u4EE5\u76F8\u540C\u534F\u8BAE\u5F00\u6E90",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:browser-use/browser-use"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Agents that use the browser."
+      },
+      "Description": "Agents that use the browser.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:The-Swarm-Corporation/AutoHedge"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automa"
+      },
+      "Description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk manag",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:viarotel-org/escrcpy"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\uD83D\uDCF1 Display and control your Android device graphically with scrcpy."
+      },
+      "Description": "\uD83D\uDCF1 Display and control your Android device graphically with scrcpy.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:openai/plugins"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "OpenAI Plugins"
+      },
+      "Description": "OpenAI Plugins",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49619906"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Harvard study predicts most suicide attempts a week in advance"
+      },
+      "Description": "Harvard study predicts most suicide attempts a week in advance",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49615537"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Muse \u2013 Meta\u2019s personal AI agent"
+      },
+      "Description": "Muse \u2013 Meta\u2019s personal AI agent",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49617581"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Large language models develop novel social biases through adaptive exploration"
+      },
+      "Description": "Large language models develop novel social biases through adaptive exploration",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49617255"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How to build a printer"
+      },
+      "Description": "How to build a printer",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49605915"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Navier-Stokes \u2013 Tristan Buckmaster [pdf]"
+      },
+      "Description": "Navier-Stokes \u2013 Tristan Buckmaster [pdf]",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49611251"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;deepmind.google\u0026#x2F;blog\u0026#x2F;alphagenome-atlas-a-predictive-map-of-every-possible-dna-lette"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;deepmind.google\u0026#x2F;blog\u0026#x2F;alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome\u0026#",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49610181"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "DaVinci Resolve 21.1"
+      },
+      "Description": "DaVinci Resolve 21.1",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49613262"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "On the Navier\u2013Stokes Millennium Prize Problem"
+      },
+      "Description": "On the Navier\u2013Stokes Millennium Prize Problem",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49616968"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Tao: Open math problems being non-renewably mined by AI"
+      },
+      "Description": "Tao: Open math problems being non-renewably mined by AI",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49611128"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses"
+      },
+      "Description": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49591112"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Microeconomics of Artificial Intelligence (2025)"
+      },
+      "Description": "The Microeconomics of Artificial Intelligence (2025)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49610631"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I-have-ADHD: A skill to stop coding agents from burying the answer"
+      },
+      "Description": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49619464"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "27.5KB language-agnostic WebGPU syntax highlighter"
+      },
+      "Description": "27.5KB language-agnostic WebGPU syntax highlighter",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49616257"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs"
+      },
+      "Description": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49618050"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A Topological Picture Book, Rendered"
+      },
+      "Description": "A Topological Picture Book, Rendered",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49598921"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Getting phpBB 1.4.4 working in Docker"
+      },
+      "Description": "Getting phpBB 1.4.4 working in Docker",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49579482"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "An Accidental Blackboard"
+      },
+      "Description": "An Accidental Blackboard",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49616272"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Animation in Bevy: The Big Picture"
+      },
+      "Description": "Animation in Bevy: The Big Picture",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49598009"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "My first attempt at restoring 1991 Learning Company Spellbound for DOS for my children is dubious. Despite being stored "
+      },
+      "Description": "My first attempt at restoring 1991 Learning Company Spellbound for DOS for my children is dubious. Despite being stored nowhere near magnetic sources,",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49613068"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Show HN: LLM Attention Visualization"
+      },
+      "Description": "Show HN: LLM Attention Visualization",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49616354"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Mercury 2.5"
+      },
+      "Description": "Mercury 2.5",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49575766"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Implementation of GCC\u0027s Nested Functions (vs. C\u002B\u002B Lambdas)"
+      },
+      "Description": "Implementation of GCC\u0027s Nested Functions (vs. C\u002B\u002B Lambdas)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49575914"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster"
+      },
+      "Description": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49600901"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Helicopter with Radioactive Blades"
+      },
+      "Description": "The Helicopter with Radioactive Blades",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49562430"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Tracing np.add, all the way down"
+      },
+      "Description": "Tracing np.add, all the way down",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49579443"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "We built our house for LAN parties (2024)"
+      },
+      "Description": "We built our house for LAN parties (2024)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49610059"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Show HN: Copperhead \u2013 Cursor for circuit boards"
+      },
+      "Description": "Show HN: Copperhead \u2013 Cursor for circuit boards",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49599825"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Reverse Engineering an ASIC"
+      },
+      "Description": "Reverse Engineering an ASIC",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49591563"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The 92-Year-Old Mathematician and the Teenage Apprentice"
+      },
+      "Description": "The 92-Year-Old Mathematician and the Teenage Apprentice",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49612191"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "C*: Unifying Programming and Verification in C (2025)"
+      },
+      "Description": "C*: Unifying Programming and Verification in C (2025)",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 42 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
