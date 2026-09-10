@@ -1,0 +1,608 @@
+{
+  "Id": "2026-09-10",
+  "GeneratedAt": "2026-09-10T03:26:18.2749927+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:ayghri/i-have-adhd"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
+      },
+      "Description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Tencent/teamai-cli"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Make Every Team AI Native"
+      },
+      "Description": "Make Every Team AI Native",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:pascalorg/editor"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents."
+      },
+      "Description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:earthtojake/text-to-cad"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A library of agent skills for CAD, CAE and CAM"
+      },
+      "Description": "A library of agent skills for CAD, CAE and CAM",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:cathrynlavery/diagram-design"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML \u002B SVG. No shadows. No Mermaid slop."
+      },
+      "Description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML \u002B SVG. No shadows. No Mermaid slop.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:TauricResearch/TradingAgents"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+      },
+      "Description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:liquidslr/system-design-notes"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Notes of the book System Desgin Interview - An Insider\u0027s Guide"
+      },
+      "Description": "Notes of the book System Desgin Interview - An Insider\u0027s Guide",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:openai/plugins"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "OpenAI Plugins"
+      },
+      "Description": "OpenAI Plugins",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:freestylefly/awesome-gpt-image-2"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Prompt as Code | GPT-Image2 \u5DE5\u4E1A\u7EA7\u63D0\u793A\u8BCD\u5F15\u64CE\u4E0E\u6A21\u677F\u5E93\uFF0C530\u002B \u4E2A\u6848\u4F8B\u9006\u5411\u5DE5\u7A0B\uFF0C20\u002B \u5957\u5DE5\u4E1A\u7EA7\u6A21\u677F\uFF0C\u5E76\u63D0\u70BC\u51FASkills\uFF0C\u6301\u7EED\u66F4\u65B0\u4E2D"
+      },
+      "Description": "Prompt as Code | GPT-Image2 \u5DE5\u4E1A\u7EA7\u63D0\u793A\u8BCD\u5F15\u64CE\u4E0E\u6A21\u677F\u5E93\uFF0C530\u002B \u4E2A\u6848\u4F8B\u9006\u5411\u5DE5\u7A0B\uFF0C20\u002B \u5957\u5DE5\u4E1A\u7EA7\u6A21\u677F\uFF0C\u5E76\u63D0\u70BC\u51FASkills\uFF0C\u6301\u7EED\u66F4\u65B0\u4E2D",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:vastsa/PI-Desktop"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Local-first AI coding agent desktop: Electron \u002B Rust host core \u002B pi Agent Harness \u002B user-installable plugins"
+      },
+      "Description": "Local-first AI coding agent desktop: Electron \u002B Rust host core \u002B pi Agent Harness \u002B user-installable plugins",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49630931"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "iPhone Duo"
+      },
+      "Description": "iPhone Duo",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49626190"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Shopify acquires Tailwind"
+      },
+      "Description": "Shopify acquires Tailwind",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49614280"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "What do Visa and Mastercard do? An intro to card networks"
+      },
+      "Description": "What do Visa and Mastercard do? An intro to card networks",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49630253"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AirPods 5"
+      },
+      "Description": "AirPods 5",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49629886"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Growing proof that autonomous cars save lives"
+      },
+      "Description": "Growing proof that autonomous cars save lives",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49623398"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A few years ago my coauthor and I was wondering if we could reduce the number of multiplications used for hashing algori"
+      },
+      "Description": "A few years ago my coauthor and I was wondering if we could reduce the number of multiplications used for hashing algorithms. We had a construction an",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49628493"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "No Man\u0027s Sky Cosmos"
+      },
+      "Description": "No Man\u0027s Sky Cosmos",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49630151"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "iPhone 18 Pro and iPhone 18 Pro Max"
+      },
+      "Description": "iPhone 18 Pro and iPhone 18 Pro Max",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49627370"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "GPT-6 Astra, looped transformers, and hidden reasoning"
+      },
+      "Description": "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49633534"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Factoring RSA 260"
+      },
+      "Description": "Factoring RSA 260",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49630566"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Apple Watch Series 12"
+      },
+      "Description": "Apple Watch Series 12",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49624823"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Desert Ant Labs: local, fast models that run on device"
+      },
+      "Description": "Desert Ant Labs: local, fast models that run on device",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49630026"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills"
+      },
+      "Description": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49636283"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Automattic\u0027s board forces CEO Matt Mullenweg into leave of absence"
+      },
+      "Description": "Automattic\u0027s board forces CEO Matt Mullenweg into leave of absence",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49628576"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "GNU Radio in the browser"
+      },
+      "Description": "GNU Radio in the browser",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49583251"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Seismic Isolation"
+      },
+      "Description": "Seismic Isolation",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49624856"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How I advertise malicious software on Google Ads"
+      },
+      "Description": "How I advertise malicious software on Google Ads",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49591536"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Kuycon P20 \u2013 28\u0022 4500x3000px 3:2 monitor"
+      },
+      "Description": "The Kuycon P20 \u2013 28\u0022 4500x3000px 3:2 monitor",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49635384"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Blizzard Workers Win Historic Union Contract"
+      },
+      "Description": "Blizzard Workers Win Historic Union Contract",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49629209"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The UN challenges five centuries of cartography"
+      },
+      "Description": "The UN challenges five centuries of cartography",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49628614"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Understanding the recent DDoS attack against Read the Docs"
+      },
+      "Description": "Understanding the recent DDoS attack against Read the Docs",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49628429"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Planet Labs\u0027 open satellite feed"
+      },
+      "Description": "Planet Labs\u0027 open satellite feed",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49636906"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I\u0027m sorry, you\u0027re not going to die from an AI-engineered supervirus"
+      },
+      "Description": "I\u0027m sorry, you\u0027re not going to die from an AI-engineered supervirus",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49605836"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Electrostatic Cathode Ray Tube Project 1 (2014)"
+      },
+      "Description": "Electrostatic Cathode Ray Tube Project 1 (2014)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49584361"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Bespoke: A programming language for people who say please"
+      },
+      "Description": "Bespoke: A programming language for people who say please",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49625110"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Roame (YC S23) Is Hiring Viral Content Editor"
+      },
+      "Description": "Roame (YC S23) Is Hiring Viral Content Editor",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49573629"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Microsoft says email spammers are adopting ASCII smuggling"
+      },
+      "Description": "Microsoft says email spammers are adopting ASCII smuggling",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49623754"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Claude, change the \u201CAdd to Cart\u201D button to blue"
+      },
+      "Description": "Claude, change the \u201CAdd to Cart\u201D button to blue",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49602615"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Use Vsock with Libzmq"
+      },
+      "Description": "Use Vsock with Libzmq",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49600569"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Ancient cave art suggests first known humans in Ireland walked over from Wales"
+      },
+      "Description": "Ancient cave art suggests first known humans in Ireland walked over from Wales",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 40 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
