@@ -1,57 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:ayghri/i-have-adhd"
-    },
-    "Type": 0,
-    "Title": "ayghri/i-have-adhd",
-    "Url": "https://github.com/ayghri/i-have-adhd",
-    "Description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-    "Metadata": {
-      "owner": "ayghri",
-      "repo": "i-have-adhd",
-      "language": "Python",
-      "stars": "3,882",
-      "topics": "adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity"
-    },
-    "FetchedAt": "2026-09-11T10:20:21.3823664+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:bilawalsidhu/gods-eye-view"
-    },
-    "Type": 0,
-    "Title": "bilawalsidhu/gods-eye-view",
-    "Url": "https://github.com/bilawalsidhu/gods-eye-view",
-    "Description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-    "Metadata": {
-      "owner": "bilawalsidhu",
-      "repo": "gods-eye-view",
-      "language": "JavaScript",
-      "stars": "1,762",
-      "topics": "3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis, osint, photogrammetry, satellite-tracking, spatial-intelligence, webgl, worldview"
-    },
-    "FetchedAt": "2026-09-11T10:20:21.6952948+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:alsk1992/CloddsBot"
-    },
-    "Type": 0,
-    "Title": "alsk1992/CloddsBot",
-    "Url": "https://github.com/alsk1992/CloddsBot",
-    "Description": "Open Source AI trading agent that operates autonomously across 1000\u002B markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-    "Metadata": {
-      "owner": "alsk1992",
-      "repo": "CloddsBot",
-      "language": "TypeScript",
-      "stars": "277",
-      "topics": "agi, ai, arbitrage, claude, crypto, defi, ethereum, futures, hft, hyperliquid, kalshi, polymarket, prediction-markets, pumpswap, solana, telegram-bot, trading, trading-bot, typescript, x402"
-    },
-    "FetchedAt": "2026-09-11T10:20:21.8567188+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:Tencent/teamai-cli"
     },
     "Type": 0,
@@ -117,23 +66,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:armory3d/armorpaint"
-    },
-    "Type": 0,
-    "Title": "armory3d/armorpaint",
-    "Url": "https://github.com/armory3d/armorpaint",
-    "Description": "Graphics Creation Tools",
-    "Metadata": {
-      "owner": "armory3d",
-      "repo": "armorpaint",
-      "language": "C",
-      "stars": "72",
-      "topics": "3d, armorpaint, painting, texturing, tool"
-    },
-    "FetchedAt": "2026-09-11T10:20:23.0681453+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:JustVugg/colibri"
     },
     "Type": 0,
@@ -166,22 +98,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:nashsu/llm_wiki"
-    },
-    "Type": 0,
-    "Title": "nashsu/llm_wiki",
-    "Url": "https://github.com/nashsu/llm_wiki",
-    "Description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base \u2014 automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources\u3002",
-    "Metadata": {
-      "owner": "nashsu",
-      "repo": "llm_wiki",
-      "language": "TypeScript",
-      "stars": "142"
-    },
-    "FetchedAt": "2026-09-11T10:20:23.5908393+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:vercel-labs/skills"
     },
     "Type": 0,
@@ -198,6 +114,74 @@
   },
   {
     "ExternalId": {
+      "Value": "github:ayghri/i-have-adhd"
+    },
+    "Type": 0,
+    "Title": "ayghri/i-have-adhd",
+    "Url": "https://github.com/ayghri/i-have-adhd",
+    "Description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "Metadata": {
+      "owner": "ayghri",
+      "repo": "i-have-adhd",
+      "language": "Python",
+      "stars": "3,440",
+      "topics": "adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity"
+    },
+    "FetchedAt": "2026-09-11T15:37:45.3822395+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:bilawalsidhu/gods-eye-view"
+    },
+    "Type": 0,
+    "Title": "bilawalsidhu/gods-eye-view",
+    "Url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "Description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "Metadata": {
+      "owner": "bilawalsidhu",
+      "repo": "gods-eye-view",
+      "language": "JavaScript",
+      "stars": "3,642",
+      "topics": "3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis, osint, photogrammetry, satellite-tracking, spatial-intelligence, webgl, worldview"
+    },
+    "FetchedAt": "2026-09-11T15:37:45.614541+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:nab138/iloader"
+    },
+    "Type": 0,
+    "Title": "nab138/iloader",
+    "Url": "https://github.com/nab138/iloader",
+    "Description": "User friendly sideloader",
+    "Metadata": {
+      "owner": "nab138",
+      "repo": "iloader",
+      "language": "TypeScript",
+      "stars": "36",
+      "topics": "idevice, ios, sideloading, sidestore"
+    },
+    "FetchedAt": "2026-09-11T15:37:45.8041798+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:melgarafael/DeskcommCRM"
+    },
+    "Type": 0,
+    "Title": "melgarafael/DeskcommCRM",
+    "Url": "https://github.com/melgarafael/DeskcommCRM",
+    "Description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents \u002B WhatsApp (WAHA). Open alternative to Kommo, Octadesk \u0026 Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+    "Metadata": {
+      "owner": "melgarafael",
+      "repo": "DeskcommCRM",
+      "language": "TypeScript",
+      "stars": "126",
+      "topics": "ai, ai-agents, chatbot, crm, customer-support, ecommerce, lgpd, mcp, multi-tenant, nextjs, nuvemshop, open-source, rag, sales-automation, self-hosted, supabase, typescript, waha, whatsapp, whatsapp-api"
+    },
+    "FetchedAt": "2026-09-11T15:37:45.9903491+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:vastsa/PI-Desktop"
     },
     "Type": 0,
@@ -208,9 +192,175 @@
       "owner": "vastsa",
       "repo": "PI-Desktop",
       "language": "TypeScript",
-      "stars": "624",
+      "stars": "545",
       "topics": "ai-agent, coding-agent, desktop-app, electron, global, i18n, local-first, mcp, pi, pi-agent, pi-desktop, plugins, react, rust, typescript"
     },
-    "FetchedAt": "2026-09-11T10:20:23.9178739+00:00"
+    "FetchedAt": "2026-09-11T15:37:46.1778813+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:armory3d/armorpaint"
+    },
+    "Type": 0,
+    "Title": "armory3d/armorpaint",
+    "Url": "https://github.com/armory3d/armorpaint",
+    "Description": "Graphics Creation Tools",
+    "Metadata": {
+      "owner": "armory3d",
+      "repo": "armorpaint",
+      "language": "C",
+      "stars": "354",
+      "topics": "3d, armorpaint, painting, texturing, tool"
+    },
+    "FetchedAt": "2026-09-11T15:37:46.3623678+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alsk1992/CloddsBot"
+    },
+    "Type": 0,
+    "Title": "alsk1992/CloddsBot",
+    "Url": "https://github.com/alsk1992/CloddsBot",
+    "Description": "Open Source AI trading agent that operates autonomously across 1000\u002B markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+    "Metadata": {
+      "owner": "alsk1992",
+      "repo": "CloddsBot",
+      "language": "TypeScript",
+      "stars": "627",
+      "topics": "agi, ai, arbitrage, claude, crypto, defi, ethereum, futures, hft, hyperliquid, kalshi, polymarket, prediction-markets, pumpswap, solana, telegram-bot, trading, trading-bot, typescript, x402"
+    },
+    "FetchedAt": "2026-09-11T15:37:46.54961+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:nashsu/llm_wiki"
+    },
+    "Type": 0,
+    "Title": "nashsu/llm_wiki",
+    "Url": "https://github.com/nashsu/llm_wiki",
+    "Description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base \u2014 automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources\u3002",
+    "Metadata": {
+      "owner": "nashsu",
+      "repo": "llm_wiki",
+      "language": "TypeScript",
+      "stars": "640"
+    },
+    "FetchedAt": "2026-09-11T15:37:46.779989+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Sonarr/Sonarr"
+    },
+    "Type": 0,
+    "Title": "Sonarr/Sonarr",
+    "Url": "https://github.com/Sonarr/Sonarr",
+    "Description": "Smart PVR for newsgroup and bittorrent users.",
+    "Metadata": {
+      "owner": "Sonarr",
+      "repo": "Sonarr",
+      "language": "C#",
+      "stars": "174"
+    },
+    "FetchedAt": "2026-09-11T15:37:46.9597991+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jihe520/MathModelAgent"
+    },
+    "Type": 0,
+    "Title": "jihe520/MathModelAgent",
+    "Url": "https://github.com/jihe520/MathModelAgent",
+    "Description": "\uD83E\uDD16\uD83D\uDCD0\u4E13\u4E3A\u6570\u5B66\u5EFA\u6A21\u8BBE\u8BA1\u7684 Agent \u0026 skills ,\u81EA\u52A8\u5B8C\u6210\u6570\u5B66\u5EFA\u6A21\uFF0C\u751F\u6210\u4E00\u4EFD\u5B8C\u6574\u7684\u53EF\u4EE5\u76F4\u63A5\u63D0\u4EA4\u7684\u8BBA\u6587\u3002 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+    "Metadata": {
+      "owner": "jihe520",
+      "repo": "MathModelAgent",
+      "language": "Python",
+      "stars": "132",
+      "topics": "agent, llm, mathmodel, skills"
+    },
+    "FetchedAt": "2026-09-11T15:37:47.1574175+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:p1neappleXpress/OpenFlux"
+    },
+    "Type": 0,
+    "Title": "p1neappleXpress/OpenFlux",
+    "Url": "https://github.com/p1neappleXpress/OpenFlux",
+    "Description": "Network stack research tool. TCP tunnel with pluggable transports.",
+    "Metadata": {
+      "owner": "p1neappleXpress",
+      "repo": "OpenFlux",
+      "language": "Go",
+      "stars": "201"
+    },
+    "FetchedAt": "2026-09-11T15:37:47.369936+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jordan-gibbs/hyperresearch"
+    },
+    "Type": 0,
+    "Title": "jordan-gibbs/hyperresearch",
+    "Url": "https://github.com/jordan-gibbs/hyperresearch",
+    "Description": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
+    "Metadata": {
+      "owner": "jordan-gibbs",
+      "repo": "hyperresearch",
+      "language": "Python",
+      "stars": "118",
+      "topics": "agents, agentskills, claude-code, deep-research, deep-research-agent"
+    },
+    "FetchedAt": "2026-09-11T15:37:47.5763588+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alphaXiv/OpenResearch"
+    },
+    "Type": 0,
+    "Title": "alphaXiv/OpenResearch",
+    "Url": "https://github.com/alphaXiv/OpenResearch",
+    "Description": "Run parallel research agents with any model",
+    "Metadata": {
+      "owner": "alphaXiv",
+      "repo": "OpenResearch",
+      "language": "Rust",
+      "stars": "156"
+    },
+    "FetchedAt": "2026-09-11T15:37:47.7816627+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:github/spec-kit"
+    },
+    "Type": 0,
+    "Title": "github/spec-kit",
+    "Url": "https://github.com/github/spec-kit",
+    "Description": "\uD83D\uDCAB Toolkit to help you get started with Spec-Driven Development",
+    "Metadata": {
+      "owner": "github",
+      "repo": "spec-kit",
+      "language": "Python",
+      "stars": "985",
+      "topics": "ai, copilot, development, engineering, prd, spec, spec-driven"
+    },
+    "FetchedAt": "2026-09-11T15:37:47.9668043+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pascalorg/editor"
+    },
+    "Type": 0,
+    "Title": "pascalorg/editor",
+    "Url": "https://github.com/pascalorg/editor",
+    "Description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+    "Metadata": {
+      "owner": "pascalorg",
+      "repo": "editor",
+      "language": "TypeScript",
+      "stars": "83",
+      "topics": "3d, agent-skills, ai-agents, architecture, bim, cad, editor, floorplan, gemini-cli-extension, local-first, mcp, mcp-server, model-context-protocol, nextjs, parametric-design, react-three-fiber, threejs, typescript"
+    },
+    "FetchedAt": "2026-09-11T15:37:48.1759182+00:00"
   }
 ]
