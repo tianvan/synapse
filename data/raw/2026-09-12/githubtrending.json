@@ -18,57 +18,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:bilawalsidhu/gods-eye-view"
-    },
-    "Type": 0,
-    "Title": "bilawalsidhu/gods-eye-view",
-    "Url": "https://github.com/bilawalsidhu/gods-eye-view",
-    "Description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-    "Metadata": {
-      "owner": "bilawalsidhu",
-      "repo": "gods-eye-view",
-      "language": "JavaScript",
-      "stars": "3,680",
-      "topics": "3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis, osint, photogrammetry, satellite-tracking, spatial-intelligence, webgl, worldview"
-    },
-    "FetchedAt": "2026-09-12T09:52:32.9058281+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:nab138/iloader"
-    },
-    "Type": 0,
-    "Title": "nab138/iloader",
-    "Url": "https://github.com/nab138/iloader",
-    "Description": "User friendly sideloader",
-    "Metadata": {
-      "owner": "nab138",
-      "repo": "iloader",
-      "language": "TypeScript",
-      "stars": "50",
-      "topics": "idevice, ios, sideloading, sidestore"
-    },
-    "FetchedAt": "2026-09-12T09:52:33.063631+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:melgarafael/DeskcommCRM"
-    },
-    "Type": 0,
-    "Title": "melgarafael/DeskcommCRM",
-    "Url": "https://github.com/melgarafael/DeskcommCRM",
-    "Description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents \u002B WhatsApp (WAHA). Open alternative to Kommo, Octadesk \u0026 Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-    "Metadata": {
-      "owner": "melgarafael",
-      "repo": "DeskcommCRM",
-      "language": "TypeScript",
-      "stars": "152",
-      "topics": "ai, ai-agents, chatbot, crm, customer-support, ecommerce, lgpd, mcp, multi-tenant, nextjs, nuvemshop, open-source, rag, sales-automation, self-hosted, supabase, typescript, waha, whatsapp, whatsapp-api"
-    },
-    "FetchedAt": "2026-09-12T09:52:33.2170332+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:vastsa/PI-Desktop"
     },
     "Type": 0,
@@ -86,40 +35,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:armory3d/armorpaint"
-    },
-    "Type": 0,
-    "Title": "armory3d/armorpaint",
-    "Url": "https://github.com/armory3d/armorpaint",
-    "Description": "Graphics Creation Tools",
-    "Metadata": {
-      "owner": "armory3d",
-      "repo": "armorpaint",
-      "language": "C",
-      "stars": "350",
-      "topics": "3d, armorpaint, painting, texturing, tool"
-    },
-    "FetchedAt": "2026-09-12T09:52:33.5008491+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:alsk1992/CloddsBot"
-    },
-    "Type": 0,
-    "Title": "alsk1992/CloddsBot",
-    "Url": "https://github.com/alsk1992/CloddsBot",
-    "Description": "Open Source AI trading agent that operates autonomously across 1000\u002B markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-    "Metadata": {
-      "owner": "alsk1992",
-      "repo": "CloddsBot",
-      "language": "TypeScript",
-      "stars": "626",
-      "topics": "agi, ai, arbitrage, claude, crypto, defi, ethereum, futures, hft, hyperliquid, kalshi, polymarket, prediction-markets, pumpswap, solana, telegram-bot, trading, trading-bot, typescript, x402"
-    },
-    "FetchedAt": "2026-09-12T09:52:33.6753642+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:nashsu/llm_wiki"
     },
     "Type": 0,
@@ -133,55 +48,6 @@
       "stars": "647"
     },
     "FetchedAt": "2026-09-12T09:52:33.8241183+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:Sonarr/Sonarr"
-    },
-    "Type": 0,
-    "Title": "Sonarr/Sonarr",
-    "Url": "https://github.com/Sonarr/Sonarr",
-    "Description": "Smart PVR for newsgroup and bittorrent users.",
-    "Metadata": {
-      "owner": "Sonarr",
-      "repo": "Sonarr",
-      "language": "C#",
-      "stars": "191"
-    },
-    "FetchedAt": "2026-09-12T09:52:33.9703318+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:jihe520/MathModelAgent"
-    },
-    "Type": 0,
-    "Title": "jihe520/MathModelAgent",
-    "Url": "https://github.com/jihe520/MathModelAgent",
-    "Description": "\uD83E\uDD16\uD83D\uDCD0\u4E13\u4E3A\u6570\u5B66\u5EFA\u6A21\u8BBE\u8BA1\u7684 Agent \u0026 skills ,\u81EA\u52A8\u5B8C\u6210\u6570\u5B66\u5EFA\u6A21\uFF0C\u751F\u6210\u4E00\u4EFD\u5B8C\u6574\u7684\u53EF\u4EE5\u76F4\u63A5\u63D0\u4EA4\u7684\u8BBA\u6587\u3002 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
-    "Metadata": {
-      "owner": "jihe520",
-      "repo": "MathModelAgent",
-      "language": "Python",
-      "stars": "129",
-      "topics": "agent, llm, mathmodel, skills"
-    },
-    "FetchedAt": "2026-09-12T09:52:34.1263675+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:p1neappleXpress/OpenFlux"
-    },
-    "Type": 0,
-    "Title": "p1neappleXpress/OpenFlux",
-    "Url": "https://github.com/p1neappleXpress/OpenFlux",
-    "Description": "Network stack research tool. TCP tunnel with pluggable transports.",
-    "Metadata": {
-      "owner": "p1neappleXpress",
-      "repo": "OpenFlux",
-      "language": "Go",
-      "stars": "198"
-    },
-    "FetchedAt": "2026-09-12T09:52:34.2749789+00:00"
   },
   {
     "ExternalId": {
@@ -249,5 +115,257 @@
       "topics": "3d, agent-skills, ai-agents, architecture, bim, cad, editor, floorplan, gemini-cli-extension, local-first, mcp, mcp-server, model-context-protocol, nextjs, parametric-design, react-three-fiber, threejs, typescript"
     },
     "FetchedAt": "2026-09-12T09:52:34.8969447+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:bilawalsidhu/gods-eye-view"
+    },
+    "Type": 0,
+    "Title": "bilawalsidhu/gods-eye-view",
+    "Url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "Description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "Metadata": {
+      "owner": "bilawalsidhu",
+      "repo": "gods-eye-view",
+      "language": "JavaScript",
+      "stars": "2,265",
+      "topics": "3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis, osint, photogrammetry, satellite-tracking, spatial-intelligence, webgl, worldview"
+    },
+    "FetchedAt": "2026-09-12T14:43:56.7157371+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:melgarafael/DeskcommCRM"
+    },
+    "Type": 0,
+    "Title": "melgarafael/DeskcommCRM",
+    "Url": "https://github.com/melgarafael/DeskcommCRM",
+    "Description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents \u002B WhatsApp (WAHA). Open alternative to Kommo, Octadesk \u0026 Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+    "Metadata": {
+      "owner": "melgarafael",
+      "repo": "DeskcommCRM",
+      "language": "TypeScript",
+      "stars": "505",
+      "topics": "ai, ai-agents, chatbot, crm, customer-support, ecommerce, lgpd, mcp, multi-tenant, nextjs, nuvemshop, open-source, rag, sales-automation, self-hosted, supabase, typescript, waha, whatsapp, whatsapp-api"
+    },
+    "FetchedAt": "2026-09-12T14:43:56.8551178+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:nab138/iloader"
+    },
+    "Type": 0,
+    "Title": "nab138/iloader",
+    "Url": "https://github.com/nab138/iloader",
+    "Description": "User friendly sideloader",
+    "Metadata": {
+      "owner": "nab138",
+      "repo": "iloader",
+      "language": "TypeScript",
+      "stars": "209",
+      "topics": "idevice, ios, sideloading, sidestore"
+    },
+    "FetchedAt": "2026-09-12T14:43:56.9592251+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Flowseal/zapret-discord-youtube"
+    },
+    "Type": 0,
+    "Title": "Flowseal/zapret-discord-youtube",
+    "Url": "https://github.com/Flowseal/zapret-discord-youtube",
+    "Description": "",
+    "Metadata": {
+      "owner": "Flowseal",
+      "repo": "zapret-discord-youtube",
+      "language": "Batchfile",
+      "stars": "52"
+    },
+    "FetchedAt": "2026-09-12T14:43:57.0576705+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jihe520/MathModelAgent"
+    },
+    "Type": 0,
+    "Title": "jihe520/MathModelAgent",
+    "Url": "https://github.com/jihe520/MathModelAgent",
+    "Description": "\uD83E\uDD16\uD83D\uDCD0\u4E13\u4E3A\u6570\u5B66\u5EFA\u6A21\u8BBE\u8BA1\u7684 Agent \u0026 skills ,\u81EA\u52A8\u5B8C\u6210\u6570\u5B66\u5EFA\u6A21\uFF0C\u751F\u6210\u4E00\u4EFD\u5B8C\u6574\u7684\u53EF\u4EE5\u76F4\u63A5\u63D0\u4EA4\u7684\u8BBA\u6587\u3002 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+    "Metadata": {
+      "owner": "jihe520",
+      "repo": "MathModelAgent",
+      "language": "Python",
+      "stars": "264",
+      "topics": "agent, llm, mathmodel, skills"
+    },
+    "FetchedAt": "2026-09-12T14:43:57.1585721+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Sonarr/Sonarr"
+    },
+    "Type": 0,
+    "Title": "Sonarr/Sonarr",
+    "Url": "https://github.com/Sonarr/Sonarr",
+    "Description": "Smart PVR for newsgroup and bittorrent users.",
+    "Metadata": {
+      "owner": "Sonarr",
+      "repo": "Sonarr",
+      "language": "C#",
+      "stars": "228"
+    },
+    "FetchedAt": "2026-09-12T14:43:57.263654+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alsk1992/CloddsBot"
+    },
+    "Type": 0,
+    "Title": "alsk1992/CloddsBot",
+    "Url": "https://github.com/alsk1992/CloddsBot",
+    "Description": "Open Source AI trading agent that operates autonomously across 1000\u002B markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+    "Metadata": {
+      "owner": "alsk1992",
+      "repo": "CloddsBot",
+      "language": "TypeScript",
+      "stars": "377",
+      "topics": "agi, ai, arbitrage, claude, crypto, defi, ethereum, futures, hft, hyperliquid, kalshi, polymarket, prediction-markets, pumpswap, solana, telegram-bot, trading, trading-bot, typescript, x402"
+    },
+    "FetchedAt": "2026-09-12T14:43:57.3671923+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:yuliskov/SmartTube"
+    },
+    "Type": 0,
+    "Title": "yuliskov/SmartTube",
+    "Url": "https://github.com/yuliskov/SmartTube",
+    "Description": "Browse media content with your own rules on Android TV",
+    "Metadata": {
+      "owner": "yuliskov",
+      "repo": "SmartTube",
+      "language": "Java",
+      "stars": "247",
+      "topics": "android, android-tv, android-tv-box, java, kotlin, retrofit2, rxjava-android"
+    },
+    "FetchedAt": "2026-09-12T14:43:57.4813124+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Shubhamsaboo/awesome-llm-apps"
+    },
+    "Type": 0,
+    "Title": "Shubhamsaboo/awesome-llm-apps",
+    "Url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "Description": "100\u002B AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+    "Metadata": {
+      "owner": "Shubhamsaboo",
+      "repo": "awesome-llm-apps",
+      "language": "Python",
+      "stars": "237",
+      "topics": "agents, llms, python, rag"
+    },
+    "FetchedAt": "2026-09-12T14:43:57.5861006+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:p1neappleXpress/OpenFlux"
+    },
+    "Type": 0,
+    "Title": "p1neappleXpress/OpenFlux",
+    "Url": "https://github.com/p1neappleXpress/OpenFlux",
+    "Description": "Network stack research tool. TCP tunnel with pluggable transports.",
+    "Metadata": {
+      "owner": "p1neappleXpress",
+      "repo": "OpenFlux",
+      "language": "Go",
+      "stars": "355"
+    },
+    "FetchedAt": "2026-09-12T14:43:57.6889485+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:armory3d/armorpaint"
+    },
+    "Type": 0,
+    "Title": "armory3d/armorpaint",
+    "Url": "https://github.com/armory3d/armorpaint",
+    "Description": "Graphics Creation Tools",
+    "Metadata": {
+      "owner": "armory3d",
+      "repo": "armorpaint",
+      "language": "C",
+      "stars": "237",
+      "topics": "3d, armorpaint, painting, texturing, tool"
+    },
+    "FetchedAt": "2026-09-12T14:43:57.7951741+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:SnailSploit/Claude-Red"
+    },
+    "Type": 0,
+    "Title": "SnailSploit/Claude-Red",
+    "Url": "https://github.com/SnailSploit/Claude-Red",
+    "Description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface \u2014 from SQLi to shellcode, EDR evasion to exploit development.",
+    "Metadata": {
+      "owner": "SnailSploit",
+      "repo": "Claude-Red",
+      "language": "Python",
+      "stars": "99",
+      "topics": "claude-ai, claude-pt, claude-skills, redteam, redteam-tools, skills"
+    },
+    "FetchedAt": "2026-09-12T14:43:57.928156+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:multimodal-art-projection/YuE"
+    },
+    "Type": 0,
+    "Title": "multimodal-art-projection/YuE",
+    "Url": "https://github.com/multimodal-art-projection/YuE",
+    "Description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+    "Metadata": {
+      "owner": "multimodal-art-projection",
+      "repo": "YuE",
+      "language": "Python",
+      "stars": "193",
+      "topics": "ai, audio-generation, deep-learning, foundation-models, gpt, huggingface, llama, llms, music-generation, style-transfers, voice-cloning"
+    },
+    "FetchedAt": "2026-09-12T14:43:58.0400352+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:max-sixty/worktrunk"
+    },
+    "Type": 0,
+    "Title": "max-sixty/worktrunk",
+    "Url": "https://github.com/max-sixty/worktrunk",
+    "Description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "Metadata": {
+      "owner": "max-sixty",
+      "repo": "worktrunk",
+      "language": "Rust",
+      "stars": "44",
+      "topics": "agents, claude-code, codex, developer-tools, git, worktrees"
+    },
+    "FetchedAt": "2026-09-12T14:43:58.1657952+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:vxcontrol/pentagi"
+    },
+    "Type": 0,
+    "Title": "vxcontrol/pentagi",
+    "Url": "https://github.com/vxcontrol/pentagi",
+    "Description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+    "Metadata": {
+      "owner": "vxcontrol",
+      "repo": "pentagi",
+      "language": "Go",
+      "stars": "193",
+      "topics": "ai-agents, ai-security-tool, anthropic, autonomous-agents, golang, gpt, graphql, multi-agent-system, offensive-security, open-source, openai, penetration-testing, penetration-testing-tools, react, security-automation, security-testing, security-tools, self-hosted"
+    },
+    "FetchedAt": "2026-09-12T14:43:58.2757621+00:00"
   }
 ]
