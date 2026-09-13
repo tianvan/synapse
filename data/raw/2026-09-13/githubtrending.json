@@ -1,40 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:bilawalsidhu/gods-eye-view"
-    },
-    "Type": 0,
-    "Title": "bilawalsidhu/gods-eye-view",
-    "Url": "https://github.com/bilawalsidhu/gods-eye-view",
-    "Description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-    "Metadata": {
-      "owner": "bilawalsidhu",
-      "repo": "gods-eye-view",
-      "language": "JavaScript",
-      "stars": "2,265",
-      "topics": "3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis, osint, photogrammetry, satellite-tracking, spatial-intelligence, webgl, worldview"
-    },
-    "FetchedAt": "2026-09-13T02:24:31.7048938+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:melgarafael/DeskcommCRM"
-    },
-    "Type": 0,
-    "Title": "melgarafael/DeskcommCRM",
-    "Url": "https://github.com/melgarafael/DeskcommCRM",
-    "Description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents \u002B WhatsApp (WAHA). Open alternative to Kommo, Octadesk \u0026 Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-    "Metadata": {
-      "owner": "melgarafael",
-      "repo": "DeskcommCRM",
-      "language": "TypeScript",
-      "stars": "504",
-      "topics": "ai, ai-agents, chatbot, crm, customer-support, ecommerce, lgpd, mcp, multi-tenant, nextjs, nuvemshop, open-source, rag, sales-automation, self-hosted, supabase, typescript, waha, whatsapp, whatsapp-api"
-    },
-    "FetchedAt": "2026-09-13T02:24:32.0237461+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:nab138/iloader"
     },
     "Type": 0,
@@ -68,23 +34,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:jihe520/MathModelAgent"
-    },
-    "Type": 0,
-    "Title": "jihe520/MathModelAgent",
-    "Url": "https://github.com/jihe520/MathModelAgent",
-    "Description": "\uD83E\uDD16\uD83D\uDCD0\u4E13\u4E3A\u6570\u5B66\u5EFA\u6A21\u8BBE\u8BA1\u7684 Agent \u0026 skills ,\u81EA\u52A8\u5B8C\u6210\u6570\u5B66\u5EFA\u6A21\uFF0C\u751F\u6210\u4E00\u4EFD\u5B8C\u6574\u7684\u53EF\u4EE5\u76F4\u63A5\u63D0\u4EA4\u7684\u8BBA\u6587\u3002 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
-    "Metadata": {
-      "owner": "jihe520",
-      "repo": "MathModelAgent",
-      "language": "Python",
-      "stars": "262",
-      "topics": "agent, llm, mathmodel, skills"
-    },
-    "FetchedAt": "2026-09-13T02:24:32.4702446+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:Sonarr/Sonarr"
     },
     "Type": 0,
@@ -115,23 +64,6 @@
       "topics": "agi, ai, arbitrage, claude, crypto, defi, ethereum, futures, hft, hyperliquid, kalshi, polymarket, prediction-markets, pumpswap, solana, telegram-bot, trading, trading-bot, typescript, x402"
     },
     "FetchedAt": "2026-09-13T02:24:32.7821127+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:yuliskov/SmartTube"
-    },
-    "Type": 0,
-    "Title": "yuliskov/SmartTube",
-    "Url": "https://github.com/yuliskov/SmartTube",
-    "Description": "Browse media content with your own rules on Android TV",
-    "Metadata": {
-      "owner": "yuliskov",
-      "repo": "SmartTube",
-      "language": "Java",
-      "stars": "136",
-      "topics": "android, android-tv, android-tv-box, java, kotlin, retrofit2, rxjava-android"
-    },
-    "FetchedAt": "2026-09-13T02:24:32.9309666+00:00"
   },
   {
     "ExternalId": {
@@ -185,40 +117,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:SnailSploit/Claude-Red"
-    },
-    "Type": 0,
-    "Title": "SnailSploit/Claude-Red",
-    "Url": "https://github.com/SnailSploit/Claude-Red",
-    "Description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface \u2014 from SQLi to shellcode, EDR evasion to exploit development.",
-    "Metadata": {
-      "owner": "SnailSploit",
-      "repo": "Claude-Red",
-      "language": "Python",
-      "stars": "113",
-      "topics": "claude-ai, claude-pt, claude-skills, redteam, redteam-tools, skills"
-    },
-    "FetchedAt": "2026-09-13T02:24:33.5779009+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:multimodal-art-projection/YuE"
-    },
-    "Type": 0,
-    "Title": "multimodal-art-projection/YuE",
-    "Url": "https://github.com/multimodal-art-projection/YuE",
-    "Description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-    "Metadata": {
-      "owner": "multimodal-art-projection",
-      "repo": "YuE",
-      "language": "Python",
-      "stars": "210",
-      "topics": "ai, audio-generation, deep-learning, foundation-models, gpt, huggingface, llama, llms, music-generation, style-transfers, voice-cloning"
-    },
-    "FetchedAt": "2026-09-13T02:24:33.7267612+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:max-sixty/worktrunk"
     },
     "Type": 0,
@@ -236,6 +134,72 @@
   },
   {
     "ExternalId": {
+      "Value": "github:JustVugg/colibri"
+    },
+    "Type": 0,
+    "Title": "JustVugg/colibri",
+    "Url": "https://github.com/JustVugg/colibri",
+    "Description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \uD83D\uDC26",
+    "Metadata": {
+      "owner": "JustVugg",
+      "repo": "colibri",
+      "language": "C",
+      "stars": "652"
+    },
+    "FetchedAt": "2026-09-13T10:52:03.2809111+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:bilawalsidhu/gods-eye-view"
+    },
+    "Type": 0,
+    "Title": "bilawalsidhu/gods-eye-view",
+    "Url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "Description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "Metadata": {
+      "owner": "bilawalsidhu",
+      "repo": "gods-eye-view",
+      "language": "JavaScript",
+      "stars": "2,265",
+      "topics": "3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis, osint, photogrammetry, satellite-tracking, spatial-intelligence, webgl, worldview"
+    },
+    "FetchedAt": "2026-09-13T10:52:03.4687629+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:tech-leads-club/agent-skills"
+    },
+    "Type": 0,
+    "Title": "tech-leads-club/agent-skills",
+    "Url": "https://github.com/tech-leads-club/agent-skills",
+    "Description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+    "Metadata": {
+      "owner": "tech-leads-club",
+      "repo": "agent-skills",
+      "language": "TypeScript",
+      "stars": "215",
+      "topics": "agent, ai, antigravity, claude-code, copilot, cursor, skills"
+    },
+    "FetchedAt": "2026-09-13T10:52:03.6384057+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:melgarafael/DeskcommCRM"
+    },
+    "Type": 0,
+    "Title": "melgarafael/DeskcommCRM",
+    "Url": "https://github.com/melgarafael/DeskcommCRM",
+    "Description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents \u002B WhatsApp (WAHA). Open alternative to Kommo, Octadesk \u0026amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+    "Metadata": {
+      "owner": "melgarafael",
+      "repo": "DeskcommCRM",
+      "language": "TypeScript",
+      "stars": "504"
+    },
+    "FetchedAt": "2026-09-13T10:52:03.795954+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:vxcontrol/pentagi"
     },
     "Type": 0,
@@ -246,9 +210,168 @@
       "owner": "vxcontrol",
       "repo": "pentagi",
       "language": "Go",
-      "stars": "189",
-      "topics": "ai-agents, ai-security-tool, anthropic, autonomous-agents, golang, gpt, graphql, multi-agent-system, offensive-security, open-source, openai, penetration-testing, penetration-testing-tools, react, security-automation, security-testing, security-tools, self-hosted"
+      "stars": "189"
     },
-    "FetchedAt": "2026-09-13T02:24:34.0706725+00:00"
+    "FetchedAt": "2026-09-13T10:52:03.8187691+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:multimodal-art-projection/YuE"
+    },
+    "Type": 0,
+    "Title": "multimodal-art-projection/YuE",
+    "Url": "https://github.com/multimodal-art-projection/YuE",
+    "Description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+    "Metadata": {
+      "owner": "multimodal-art-projection",
+      "repo": "YuE",
+      "language": "Python",
+      "stars": "210"
+    },
+    "FetchedAt": "2026-09-13T10:52:03.8400351+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:yuliskov/SmartTube"
+    },
+    "Type": 0,
+    "Title": "yuliskov/SmartTube",
+    "Url": "https://github.com/yuliskov/SmartTube",
+    "Description": "Browse media content with your own rules on Android TV",
+    "Metadata": {
+      "owner": "yuliskov",
+      "repo": "SmartTube",
+      "language": "Java",
+      "stars": "136"
+    },
+    "FetchedAt": "2026-09-13T10:52:03.8613782+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alphaXiv/OpenResearch"
+    },
+    "Type": 0,
+    "Title": "alphaXiv/OpenResearch",
+    "Url": "https://github.com/alphaXiv/OpenResearch",
+    "Description": "Run parallel research agents with any model",
+    "Metadata": {
+      "owner": "alphaXiv",
+      "repo": "OpenResearch",
+      "language": "Rust",
+      "stars": "452"
+    },
+    "FetchedAt": "2026-09-13T10:52:03.8826657+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:debpalash/VoiceStudio"
+    },
+    "Type": 0,
+    "Title": "debpalash/VoiceStudio",
+    "Url": "https://github.com/debpalash/VoiceStudio",
+    "Description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription \u0026amp; audiobook creation in 646 languages.",
+    "Metadata": {
+      "owner": "debpalash",
+      "repo": "VoiceStudio",
+      "language": "Python",
+      "stars": "2,546"
+    },
+    "FetchedAt": "2026-09-13T10:52:03.9079445+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:SnailSploit/Claude-Red"
+    },
+    "Type": 0,
+    "Title": "SnailSploit/Claude-Red",
+    "Url": "https://github.com/SnailSploit/Claude-Red",
+    "Description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface \u2014 from SQLi to shellcode, EDR evasion to exploit development.",
+    "Metadata": {
+      "owner": "SnailSploit",
+      "repo": "Claude-Red",
+      "language": "Python",
+      "stars": "113"
+    },
+    "FetchedAt": "2026-09-13T10:52:03.9292675+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alibaba/open-code-review"
+    },
+    "Type": 0,
+    "Title": "alibaba/open-code-review",
+    "Url": "https://github.com/alibaba/open-code-review",
+    "Description": "Fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026amp; Anthropic compatible.",
+    "Metadata": {
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "language": "Go",
+      "stars": "264"
+    },
+    "FetchedAt": "2026-09-13T10:52:03.9502347+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jihe520/MathModelAgent"
+    },
+    "Type": 0,
+    "Title": "jihe520/MathModelAgent",
+    "Url": "https://github.com/jihe520/MathModelAgent",
+    "Description": "\uD83E\uDD16\uD83D\uDCD0\u4E13\u4E3A\u6570\u5B66\u5EFA\u6A21\u8BBE\u8BA1\u7684 Agent \u0026amp; skills ,\u81EA\u52A8\u5B8C\u6210\u6570\u5B66\u5EFA\u6A21\uFF0C\u751F\u6210\u4E00\u4EFD\u5B8C\u6574\u7684\u53EF\u4EE5\u76F4\u63A5\u63D0\u4EA4\u7684\u8BBA\u6587\u3002 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+    "Metadata": {
+      "owner": "jihe520",
+      "repo": "MathModelAgent",
+      "language": "Python",
+      "stars": "262"
+    },
+    "FetchedAt": "2026-09-13T10:52:03.971794+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jiji262/douyin-downloader"
+    },
+    "Type": 0,
+    "Title": "jiji262/douyin-downloader",
+    "Url": "https://github.com/jiji262/douyin-downloader",
+    "Description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. \u6296\u97F3\u6279\u91CF\u4E0B\u8F7D\u5DE5\u5177\uFF0C\u53BB\u6C34\u5370\uFF0C\u652F\u6301\u89C6\u9891\u3001\u56FE\u96C6\u3001\u5408\u96C6\u3001\u97F3\u4E50(\u539F\u58F0)\u3002",
+    "Metadata": {
+      "owner": "jiji262",
+      "repo": "douyin-downloader",
+      "language": "Python",
+      "stars": "473"
+    },
+    "FetchedAt": "2026-09-13T10:52:04.0070765+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Swordfish90/cool-retro-term"
+    },
+    "Type": 0,
+    "Title": "Swordfish90/cool-retro-term",
+    "Url": "https://github.com/Swordfish90/cool-retro-term",
+    "Description": "A good looking terminal emulator which mimics the old cathode display...",
+    "Metadata": {
+      "owner": "Swordfish90",
+      "repo": "cool-retro-term",
+      "language": "QML",
+      "stars": "98"
+    },
+    "FetchedAt": "2026-09-13T10:52:04.0285882+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:huggingface/transformers"
+    },
+    "Type": 0,
+    "Title": "huggingface/transformers",
+    "Url": "https://github.com/huggingface/transformers",
+    "Description": "\uD83E\uDD17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+    "Metadata": {
+      "owner": "huggingface",
+      "repo": "transformers",
+      "language": "Python",
+      "stars": "102"
+    },
+    "FetchedAt": "2026-09-13T10:52:04.0492724+00:00"
   }
 ]
