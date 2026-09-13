@@ -436,111 +436,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49684393"
-    },
-    "Type": 1,
-    "Title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-    "Url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-    "Description": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-    "Metadata": {
-      "score": "35",
-      "author": "Levitating",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-09-13T15:23:42.7433077+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49681152"
-    },
-    "Type": 1,
-    "Title": "JetKVM Mini",
-    "Url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-    "Description": "JetKVM Mini",
-    "Metadata": {
-      "score": "324",
-      "author": "taubek",
-      "commentCount": "123"
-    },
-    "FetchedAt": "2026-09-13T15:23:42.7931731+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49683033"
-    },
-    "Type": 1,
-    "Title": "\u0027Fingerprints\u0027 inside the Sun could reveal if it once swallowed a planet",
-    "Url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
-    "Description": "\u0027Fingerprints\u0027 inside the Sun could reveal if it once swallowed a planet",
-    "Metadata": {
-      "score": "44",
-      "author": "blincoln",
-      "commentCount": "16"
-    },
-    "FetchedAt": "2026-09-13T15:23:42.8435159+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49678423"
-    },
-    "Type": 1,
-    "Title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-    "Url": "https://github.com/FeralFirmware/TailTalk/",
-    "Description": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-    "Metadata": {
-      "score": "32",
-      "author": "zdw",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-09-13T15:23:42.8969626+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49678969"
-    },
-    "Type": 1,
-    "Title": "Why are AI agents lying, cheating and coordinating?",
-    "Url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-    "Description": "Why are AI agents lying, cheating and coordinating?",
-    "Metadata": {
-      "score": "414",
-      "author": "jonifico",
-      "commentCount": "495"
-    },
-    "FetchedAt": "2026-09-13T15:23:42.9455091+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49655450"
-    },
-    "Type": 1,
-    "Title": "Base84 deserves a place in file names",
-    "Url": "https://00f.net/2026/09/09/base84/",
-    "Description": "Base84 deserves a place in file names",
-    "Metadata": {
-      "score": "22",
-      "author": "kevvok",
-      "commentCount": "8"
-    },
-    "FetchedAt": "2026-09-13T15:23:42.996075+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49638071"
-    },
-    "Type": 1,
-    "Title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
-    "Url": "https://bensimms.moe/reverse-engineering-scooter/",
-    "Description": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
-    "Metadata": {
-      "score": "84",
-      "author": "vinhnx",
-      "commentCount": "25"
-    },
-    "FetchedAt": "2026-09-13T15:23:43.0473608+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49683729"
     },
     "Type": 1,
@@ -553,81 +448,6 @@
       "commentCount": "38"
     },
     "FetchedAt": "2026-09-13T15:23:43.0972771+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49683953"
-    },
-    "Type": 1,
-    "Title": "Your car is selling your data",
-    "Url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-    "Description": "Your car is selling your data",
-    "Metadata": {
-      "score": "51",
-      "author": "bookofjoe",
-      "commentCount": "39"
-    },
-    "FetchedAt": "2026-09-13T15:23:43.1465162+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49683262"
-    },
-    "Type": 1,
-    "Title": "Why is the x86 undefined instruction called ud2? Why 2?",
-    "Url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-    "Description": "Why is the x86 undefined instruction called ud2? Why 2?",
-    "Metadata": {
-      "score": "10",
-      "author": "ibobev",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-09-13T15:23:43.1963287+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49681545"
-    },
-    "Type": 1,
-    "Title": "Homebrew 7.0.0",
-    "Url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
-    "Description": "Homebrew 7.0.0",
-    "Metadata": {
-      "score": "306",
-      "author": "mikemcquaid",
-      "commentCount": "126"
-    },
-    "FetchedAt": "2026-09-13T15:23:43.2466445+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49651107"
-    },
-    "Type": 1,
-    "Title": "On Binary Translation and Its Consequences",
-    "Url": "https://chipsandcheese.com/p/on-binary-translation-and-its-consequences",
-    "Description": "On Binary Translation and Its Consequences",
-    "Metadata": {
-      "score": "22",
-      "author": "matt_d",
-      "commentCount": "7"
-    },
-    "FetchedAt": "2026-09-13T15:23:43.2980563+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49674050"
-    },
-    "Type": 1,
-    "Title": "Make your first edit to OpenStreetMap",
-    "Url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-    "Description": "Make your first edit to OpenStreetMap",
-    "Metadata": {
-      "score": "530",
-      "author": "juliantigler",
-      "commentCount": "133"
-    },
-    "FetchedAt": "2026-09-13T15:23:43.3526881+00:00"
   },
   {
     "ExternalId": {
@@ -868,5 +688,455 @@
       "commentCount": "28"
     },
     "FetchedAt": "2026-09-13T15:23:44.1578367+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49686445"
+    },
+    "Type": 1,
+    "Title": "Why is Google still serving dodgy ads?",
+    "Url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+    "Description": "Why is Google still serving dodgy ads?",
+    "Metadata": {
+      "score": "244",
+      "author": "iamflimflam1",
+      "commentCount": "113"
+    },
+    "FetchedAt": "2026-09-13T20:03:27.2705283+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49684393"
+    },
+    "Type": 1,
+    "Title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+    "Url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+    "Description": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+    "Metadata": {
+      "score": "281",
+      "author": "Levitating",
+      "commentCount": "123"
+    },
+    "FetchedAt": "2026-09-13T20:03:27.3115749+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49686697"
+    },
+    "Type": 1,
+    "Title": "Global Shortage Has Led to Motor Oil Rationing at Costco",
+    "Url": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
+    "Description": "Global Shortage Has Led to Motor Oil Rationing at Costco",
+    "Metadata": {
+      "score": "51",
+      "author": "mikhael",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-09-13T20:03:27.3530044+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49683953"
+    },
+    "Type": 1,
+    "Title": "Data collected by cars and sold to third parties",
+    "Url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260913134705\u0026#x2F;https:\u0026#x2F;\u0026#x2F;www.theverge.com\u0026#x2F;column\u0026#x2F;994172\u0026#x2F;your-car-is-selling-your-data\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260913134705\u0026#x2F;https:\u0026#x2F;\u0026#x2F;www.theve...\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;TWEVZ\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;TWEVZ\u003C/a\u003E",
+    "Metadata": {
+      "score": "161",
+      "author": "bookofjoe",
+      "commentCount": "97"
+    },
+    "FetchedAt": "2026-09-13T20:03:27.394313+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49681152"
+    },
+    "Type": 1,
+    "Title": "JetKVM Mini",
+    "Url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+    "Description": "JetKVM Mini",
+    "Metadata": {
+      "score": "449",
+      "author": "taubek",
+      "commentCount": "175"
+    },
+    "FetchedAt": "2026-09-13T20:03:27.433674+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49686766"
+    },
+    "Type": 1,
+    "Title": "I\u0027m being cyberattacked by Tesla, Inc",
+    "Url": "https://dreamstation.systems/personal/tesla.html",
+    "Description": "I\u0027m being cyberattacked by Tesla, Inc",
+    "Metadata": {
+      "score": "293",
+      "author": "robinpie",
+      "commentCount": "85"
+    },
+    "FetchedAt": "2026-09-13T20:03:27.4732295+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49651567"
+    },
+    "Type": 1,
+    "Title": "Sean Carroll explains the biggest ideas in the universe \u2013 Full Interview [video]",
+    "Url": "https://www.youtube.com/watch?v=_TBNJyztai0",
+    "Description": "Sean Carroll explains the biggest ideas in the universe \u2013 Full Interview [video]",
+    "Metadata": {
+      "score": "38",
+      "author": "binyu",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-09-13T20:03:27.5137868+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49683262"
+    },
+    "Type": 1,
+    "Title": "Why is the x86 undefined instruction called ud2? Why 2?",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+    "Description": "Why is the x86 undefined instruction called ud2? Why 2?",
+    "Metadata": {
+      "score": "137",
+      "author": "ibobev",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-09-13T20:03:27.5544983+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49638071"
+    },
+    "Type": 1,
+    "Title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+    "Url": "https://bensimms.moe/reverse-engineering-scooter/",
+    "Description": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+    "Metadata": {
+      "score": "264",
+      "author": "vinhnx",
+      "commentCount": "67"
+    },
+    "FetchedAt": "2026-09-13T20:03:27.5998491+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49684356"
+    },
+    "Type": 1,
+    "Title": "CUDA for AMD on Windows",
+    "Url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+    "Description": "CUDA for AMD on Windows",
+    "Metadata": {
+      "score": "101",
+      "author": "chiassedu80",
+      "commentCount": "56"
+    },
+    "FetchedAt": "2026-09-13T20:03:27.6399684+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49684196"
+    },
+    "Type": 1,
+    "Title": "Making Startups Powerful",
+    "Url": "https://paulgraham.com/powerful.html",
+    "Description": "Making Startups Powerful",
+    "Metadata": {
+      "score": "85",
+      "author": "tosh",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-09-13T20:03:27.6807444+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49686503"
+    },
+    "Type": 1,
+    "Title": "Device Drivers lab exercise \u2013 COSC562",
+    "Url": "https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html",
+    "Description": "Device Drivers lab exercise \u2013 COSC562",
+    "Metadata": {
+      "score": "12",
+      "author": "azhenley",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-13T20:03:27.7204092+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49685253"
+    },
+    "Type": 1,
+    "Title": "Garry Tan wants US open-weight AI labs to \u0027distill\u0027 frontier models, too",
+    "Url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "Description": "Garry Tan wants US open-weight AI labs to \u0027distill\u0027 frontier models, too",
+    "Metadata": {
+      "score": "226",
+      "author": "TheJCDenton",
+      "commentCount": "111"
+    },
+    "FetchedAt": "2026-09-13T20:03:27.7596811+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49678969"
+    },
+    "Type": 1,
+    "Title": "Why are AI agents lying, cheating and coordinating?",
+    "Url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+    "Description": "Why are AI agents lying, cheating and coordinating?",
+    "Metadata": {
+      "score": "528",
+      "author": "jonifico",
+      "commentCount": "614"
+    },
+    "FetchedAt": "2026-09-13T20:03:27.7996868+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49684778"
+    },
+    "Type": 1,
+    "Title": "Cpak \u2013 OCI application package format for Linux desktops, servers and devices",
+    "Url": "https://cpak.it/",
+    "Description": "Cpak \u2013 OCI application package format for Linux desktops, servers and devices",
+    "Metadata": {
+      "score": "31",
+      "author": "xlmnxp",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-09-13T20:03:27.8394813+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49687312"
+    },
+    "Type": 1,
+    "Title": "Flock cameras used to arrest a child for playing on a swing",
+    "Url": "https://www.youtube.com/watch?v=koclOnlde0E",
+    "Description": "Flock cameras used to arrest a child for playing on a swing",
+    "Metadata": {
+      "score": "99",
+      "author": "chadgpt3",
+      "commentCount": "51"
+    },
+    "FetchedAt": "2026-09-13T20:03:27.8803744+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49642645"
+    },
+    "Type": 1,
+    "Title": "Julia 1.13 Highlights",
+    "Url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+    "Description": "Julia 1.13 Highlights",
+    "Metadata": {
+      "score": "10",
+      "author": "eigenspace",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-09-13T20:03:27.9222254+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49685991"
+    },
+    "Type": 1,
+    "Title": "David Sacks: OpenAI and Anthropic Don\u0027t Need Regulations to Pace Frontier Models",
+    "Url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+    "Description": "David Sacks: OpenAI and Anthropic Don\u0027t Need Regulations to Pace Frontier Models",
+    "Metadata": {
+      "score": "145",
+      "author": "kolanos",
+      "commentCount": "104"
+    },
+    "FetchedAt": "2026-09-13T20:03:27.9631516+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49683033"
+    },
+    "Type": 1,
+    "Title": "\u0027Fingerprints\u0027 inside the Sun could reveal if it once swallowed a planet",
+    "Url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+    "Description": "\u0027Fingerprints\u0027 inside the Sun could reveal if it once swallowed a planet",
+    "Metadata": {
+      "score": "93",
+      "author": "blincoln",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-09-13T20:03:28.0269747+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49678423"
+    },
+    "Type": 1,
+    "Title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+    "Url": "https://github.com/FeralFirmware/TailTalk/",
+    "Description": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+    "Metadata": {
+      "score": "57",
+      "author": "zdw",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-09-13T20:03:28.066637+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49685037"
+    },
+    "Type": 1,
+    "Title": "Libraries Run Rust Inside Python (With PyO3)",
+    "Url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
+    "Description": "Libraries Run Rust Inside Python (With PyO3)",
+    "Metadata": {
+      "score": "38",
+      "author": "lumpa",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-09-13T20:03:28.1086239+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49686134"
+    },
+    "Type": 1,
+    "Title": "Romania soccer introduces black card to \u0027combat abusive behaviour\u0027 from parents",
+    "Url": "https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/",
+    "Description": "Romania soccer introduces black card to \u0027combat abusive behaviour\u0027 from parents",
+    "Metadata": {
+      "score": "62",
+      "author": "thunderbong",
+      "commentCount": "43"
+    },
+    "FetchedAt": "2026-09-13T20:03:28.1521357+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49660196"
+    },
+    "Type": 1,
+    "Title": "Alan\u0027s Random Insult Generator (1999)",
+    "Url": "https://alanbellows.com/experiments/insult/index.html",
+    "Description": "Alan\u0027s Random Insult Generator (1999)",
+    "Metadata": {
+      "score": "53",
+      "author": "DamnInteresting",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-09-13T20:03:28.1921517+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49687334"
+    },
+    "Type": 1,
+    "Title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+    "Url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+    "Description": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+    "Metadata": {
+      "score": "15",
+      "author": "dgellow",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-09-13T20:03:28.2331234+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49674050"
+    },
+    "Type": 1,
+    "Title": "Make your first edit to OpenStreetMap",
+    "Url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+    "Description": "Make your first edit to OpenStreetMap",
+    "Metadata": {
+      "score": "573",
+      "author": "juliantigler",
+      "commentCount": "138"
+    },
+    "FetchedAt": "2026-09-13T20:03:28.2739919+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49655450"
+    },
+    "Type": 1,
+    "Title": "Base84 deserves a place in file names",
+    "Url": "https://00f.net/2026/09/09/base84/",
+    "Description": "Base84 deserves a place in file names",
+    "Metadata": {
+      "score": "48",
+      "author": "kevvok",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-09-13T20:03:28.3164484+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49681545"
+    },
+    "Type": 1,
+    "Title": "Homebrew 7.0.0",
+    "Url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+    "Description": "Homebrew 7.0.0",
+    "Metadata": {
+      "score": "489",
+      "author": "mikemcquaid",
+      "commentCount": "194"
+    },
+    "FetchedAt": "2026-09-13T20:03:28.3695974+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49653311"
+    },
+    "Type": 1,
+    "Title": "Reverse-Engineering Claude Web\u0027s MicroVM: Uncovering Anthropic\u0027s Hidden Antspace",
+    "Url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
+    "Description": "Reverse-Engineering Claude Web\u0027s MicroVM: Uncovering Anthropic\u0027s Hidden Antspace",
+    "Metadata": {
+      "score": "16",
+      "author": "rzk",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-09-13T20:03:28.4091114+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49651107"
+    },
+    "Type": 1,
+    "Title": "On Binary Translation and Its Consequences",
+    "Url": "https://chipsandcheese.com/p/on-binary-translation-and-its-consequences",
+    "Description": "On Binary Translation and Its Consequences",
+    "Metadata": {
+      "score": "39",
+      "author": "matt_d",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-09-13T20:03:28.4505865+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49664413"
+    },
+    "Type": 1,
+    "Title": "A Brief Retrospective on the Sprite Network Operating System",
+    "Url": "https://github.com/OSPreservProject/sprite/blob/master/sprite.txt",
+    "Description": "A Brief Retrospective on the Sprite Network Operating System",
+    "Metadata": {
+      "score": "15",
+      "author": "EvanAnderson",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-09-13T20:03:28.4901085+00:00"
   }
 ]
