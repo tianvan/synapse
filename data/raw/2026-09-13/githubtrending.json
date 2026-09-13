@@ -146,7 +146,7 @@
       "language": "C",
       "stars": "652"
     },
-    "FetchedAt": "2026-09-13T10:52:03.2809111+00:00"
+    "FetchedAt": "2026-09-13T15:23:40.3443298+00:00"
   },
   {
     "ExternalId": {
@@ -160,10 +160,10 @@
       "owner": "bilawalsidhu",
       "repo": "gods-eye-view",
       "language": "JavaScript",
-      "stars": "2,265",
+      "stars": "2,898",
       "topics": "3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis, osint, photogrammetry, satellite-tracking, spatial-intelligence, webgl, worldview"
     },
-    "FetchedAt": "2026-09-13T10:52:03.4687629+00:00"
+    "FetchedAt": "2026-09-13T15:23:40.5586322+00:00"
   },
   {
     "ExternalId": {
@@ -180,7 +180,7 @@
       "stars": "215",
       "topics": "agent, ai, antigravity, claude-code, copilot, cursor, skills"
     },
-    "FetchedAt": "2026-09-13T10:52:03.6384057+00:00"
+    "FetchedAt": "2026-09-13T15:23:40.6740317+00:00"
   },
   {
     "ExternalId": {
@@ -189,14 +189,15 @@
     "Type": 0,
     "Title": "melgarafael/DeskcommCRM",
     "Url": "https://github.com/melgarafael/DeskcommCRM",
-    "Description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents \u002B WhatsApp (WAHA). Open alternative to Kommo, Octadesk \u0026amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+    "Description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents \u002B WhatsApp (WAHA). Open alternative to Kommo, Octadesk \u0026 Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
     "Metadata": {
       "owner": "melgarafael",
       "repo": "DeskcommCRM",
       "language": "TypeScript",
-      "stars": "504"
+      "stars": "444",
+      "topics": "ai, ai-agents, chatbot, crm, customer-support, ecommerce, lgpd, mcp, multi-tenant, nextjs, nuvemshop, open-source, rag, sales-automation, self-hosted, supabase, typescript, waha, whatsapp, whatsapp-api"
     },
-    "FetchedAt": "2026-09-13T10:52:03.795954+00:00"
+    "FetchedAt": "2026-09-13T15:23:40.8135613+00:00"
   },
   {
     "ExternalId": {
@@ -210,9 +211,10 @@
       "owner": "vxcontrol",
       "repo": "pentagi",
       "language": "Go",
-      "stars": "189"
+      "stars": "613",
+      "topics": "ai-agents, ai-security-tool, anthropic, autonomous-agents, golang, gpt, graphql, multi-agent-system, offensive-security, open-source, openai, penetration-testing, penetration-testing-tools, react, security-automation, security-testing, security-tools, self-hosted"
     },
-    "FetchedAt": "2026-09-13T10:52:03.8187691+00:00"
+    "FetchedAt": "2026-09-13T15:23:40.9294048+00:00"
   },
   {
     "ExternalId": {
@@ -226,9 +228,10 @@
       "owner": "multimodal-art-projection",
       "repo": "YuE",
       "language": "Python",
-      "stars": "210"
+      "stars": "500",
+      "topics": "ai, audio-generation, deep-learning, foundation-models, gpt, huggingface, llama, llms, music-generation, style-transfers, voice-cloning"
     },
-    "FetchedAt": "2026-09-13T10:52:03.8400351+00:00"
+    "FetchedAt": "2026-09-13T15:23:41.0541214+00:00"
   },
   {
     "ExternalId": {
@@ -242,9 +245,10 @@
       "owner": "yuliskov",
       "repo": "SmartTube",
       "language": "Java",
-      "stars": "136"
+      "stars": "238",
+      "topics": "android, android-tv, android-tv-box, java, kotlin, retrofit2, rxjava-android"
     },
-    "FetchedAt": "2026-09-13T10:52:03.8613782+00:00"
+    "FetchedAt": "2026-09-13T15:23:41.1826239+00:00"
   },
   {
     "ExternalId": {
@@ -258,9 +262,9 @@
       "owner": "alphaXiv",
       "repo": "OpenResearch",
       "language": "Rust",
-      "stars": "452"
+      "stars": "304"
     },
-    "FetchedAt": "2026-09-13T10:52:03.8826657+00:00"
+    "FetchedAt": "2026-09-13T15:23:41.3610099+00:00"
   },
   {
     "ExternalId": {
@@ -269,14 +273,15 @@
     "Type": 0,
     "Title": "debpalash/VoiceStudio",
     "Url": "https://github.com/debpalash/VoiceStudio",
-    "Description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription \u0026amp; audiobook creation in 646 languages.",
+    "Description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription \u0026 audiobook creation in 646 languages.",
     "Metadata": {
       "owner": "debpalash",
       "repo": "VoiceStudio",
       "language": "Python",
-      "stars": "2,546"
+      "stars": "2,546",
+      "topics": "ai, audiobook, cuda, dubbing, elevenlabs-alternative, huggingface, local-first, mlx, omnivoice-studio, speech-to-text, tauri, text-to-speech, transcription, translate, tts, voice-ai, voice-cloning, voice-generation, voicestudio, workflow"
     },
-    "FetchedAt": "2026-09-13T10:52:03.9079445+00:00"
+    "FetchedAt": "2026-09-13T15:23:41.4847693+00:00"
   },
   {
     "ExternalId": {
@@ -290,9 +295,10 @@
       "owner": "SnailSploit",
       "repo": "Claude-Red",
       "language": "Python",
-      "stars": "113"
+      "stars": "507",
+      "topics": "claude-ai, claude-pt, claude-skills, redteam, redteam-tools, skills"
     },
-    "FetchedAt": "2026-09-13T10:52:03.9292675+00:00"
+    "FetchedAt": "2026-09-13T15:23:41.6158997+00:00"
   },
   {
     "ExternalId": {
@@ -301,14 +307,15 @@
     "Type": 0,
     "Title": "alibaba/open-code-review",
     "Url": "https://github.com/alibaba/open-code-review",
-    "Description": "Fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026amp; Anthropic compatible.",
+    "Description": "Fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
     "Metadata": {
       "owner": "alibaba",
       "repo": "open-code-review",
       "language": "Go",
-      "stars": "264"
+      "stars": "438",
+      "topics": "agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context"
     },
-    "FetchedAt": "2026-09-13T10:52:03.9502347+00:00"
+    "FetchedAt": "2026-09-13T15:23:41.767782+00:00"
   },
   {
     "ExternalId": {
@@ -317,14 +324,15 @@
     "Type": 0,
     "Title": "jihe520/MathModelAgent",
     "Url": "https://github.com/jihe520/MathModelAgent",
-    "Description": "\uD83E\uDD16\uD83D\uDCD0\u4E13\u4E3A\u6570\u5B66\u5EFA\u6A21\u8BBE\u8BA1\u7684 Agent \u0026amp; skills ,\u81EA\u52A8\u5B8C\u6210\u6570\u5B66\u5EFA\u6A21\uFF0C\u751F\u6210\u4E00\u4EFD\u5B8C\u6574\u7684\u53EF\u4EE5\u76F4\u63A5\u63D0\u4EA4\u7684\u8BBA\u6587\u3002 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+    "Description": "\uD83E\uDD16\uD83D\uDCD0\u4E13\u4E3A\u6570\u5B66\u5EFA\u6A21\u8BBE\u8BA1\u7684 Agent \u0026 skills ,\u81EA\u52A8\u5B8C\u6210\u6570\u5B66\u5EFA\u6A21\uFF0C\u751F\u6210\u4E00\u4EFD\u5B8C\u6574\u7684\u53EF\u4EE5\u76F4\u63A5\u63D0\u4EA4\u7684\u8BBA\u6587\u3002 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
     "Metadata": {
       "owner": "jihe520",
       "repo": "MathModelAgent",
       "language": "Python",
-      "stars": "262"
+      "stars": "268",
+      "topics": "agent, llm, mathmodel, skills"
     },
-    "FetchedAt": "2026-09-13T10:52:03.971794+00:00"
+    "FetchedAt": "2026-09-13T15:23:41.9410228+00:00"
   },
   {
     "ExternalId": {
@@ -340,7 +348,7 @@
       "language": "Python",
       "stars": "473"
     },
-    "FetchedAt": "2026-09-13T10:52:04.0070765+00:00"
+    "FetchedAt": "2026-09-13T15:23:42.0714456+00:00"
   },
   {
     "ExternalId": {
@@ -354,9 +362,10 @@
       "owner": "Swordfish90",
       "repo": "cool-retro-term",
       "language": "QML",
-      "stars": "98"
+      "stars": "98",
+      "topics": "linux, macos, qml, qt, retro, terminal"
     },
-    "FetchedAt": "2026-09-13T10:52:04.0285882+00:00"
+    "FetchedAt": "2026-09-13T15:23:42.1930252+00:00"
   },
   {
     "ExternalId": {
@@ -365,13 +374,14 @@
     "Type": 0,
     "Title": "huggingface/transformers",
     "Url": "https://github.com/huggingface/transformers",
-    "Description": "\uD83E\uDD17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+    "Description": "\uD83E\uDD17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
     "Metadata": {
       "owner": "huggingface",
       "repo": "transformers",
       "language": "Python",
-      "stars": "102"
+      "stars": "102",
+      "topics": "audio, deep-learning, deepseek, gemma, glm, hacktoberfest, llm, machine-learning, model-hub, natural-language-processing, nlp, pretrained-models, python, pytorch, pytorch-transformers, qwen, speech-recognition, transformer, vlm"
     },
-    "FetchedAt": "2026-09-13T10:52:04.0492724+00:00"
+    "FetchedAt": "2026-09-13T15:23:42.3076917+00:00"
   }
 ]
