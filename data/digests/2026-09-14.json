@@ -1,0 +1,683 @@
+{
+  "Id": "2026-09-14",
+  "GeneratedAt": "2026-09-14T03:44:28.279146+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:JustVugg/colibri"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immens"
+      },
+      "Description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \uD83D\uDC26",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:bilawalsidhu/gods-eye-view"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photoreal"
+      },
+      "Description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:tech-leads-club/agent-skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot"
+      },
+      "Description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confid",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:melgarafael/DeskcommCRM"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents \u002B WhatsApp (WAHA). Open alternative to Kommo, Octadesk \u0026"
+      },
+      "Description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents \u002B WhatsApp (WAHA). Open alternative to Kommo, Octadesk \u0026 Intercom for any business tha",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:vxcontrol/pentagi"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
+      },
+      "Description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:multimodal-art-projection/YuE"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing."
+      },
+      "Description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:yuliskov/SmartTube"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Browse media content with your own rules on Android TV"
+      },
+      "Description": "Browse media content with your own rules on Android TV",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:alphaXiv/OpenResearch"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Run parallel research agents with any model"
+      },
+      "Description": "Run parallel research agents with any model",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:debpalash/VoiceStudio"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictati"
+      },
+      "Description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription \u0026 audiobook ",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:SnailSploit/Claude-Red"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a stru"
+      },
+      "Description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that prim",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:alibaba/open-code-review"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM A"
+      },
+      "Description": "Fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comme",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:jihe520/MathModelAgent"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\uD83E\uDD16\uD83D\uDCD0\u4E13\u4E3A\u6570\u5B66\u5EFA\u6A21\u8BBE\u8BA1\u7684 Agent \u0026 skills ,\u81EA\u52A8\u5B8C\u6210\u6570\u5B66\u5EFA\u6A21\uFF0C\u751F\u6210\u4E00\u4EFD\u5B8C\u6574\u7684\u53EF\u4EE5\u76F4\u63A5\u63D0\u4EA4\u7684\u8BBA\u6587\u3002 An Agent Designed for Mathematical Modeling ,Automatically comp"
+      },
+      "Description": "\uD83E\uDD16\uD83D\uDCD0\u4E13\u4E3A\u6570\u5B66\u5EFA\u6A21\u8BBE\u8BA1\u7684 Agent \u0026 skills ,\u81EA\u52A8\u5B8C\u6210\u6570\u5B66\u5EFA\u6A21\uFF0C\u751F\u6210\u4E00\u4EFD\u5B8C\u6574\u7684\u53EF\u4EE5\u76F4\u63A5\u63D0\u4EA4\u7684\u8BBA\u6587\u3002 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a ",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:jiji262/douyin-downloader"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite d"
+      },
+      "Description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fall",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Swordfish90/cool-retro-term"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A good looking terminal emulator which mimics the old cathode display..."
+      },
+      "Description": "A good looking terminal emulator which mimics the old cathode display...",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:huggingface/transformers"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\uD83E\uDD17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and"
+      },
+      "Description": "\uD83E\uDD17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both i",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49688695"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher"
+      },
+      "Description": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49686445"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Why is Google still serving dodgy ads?"
+      },
+      "Description": "Why is Google still serving dodgy ads?",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49638510"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Spaceships (Reverse Asteroid)"
+      },
+      "Description": "Spaceships (Reverse Asteroid)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49689048"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Registration without a phone number on Signal will use zero-knowledge proofs"
+      },
+      "Description": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49690260"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Open-Source AI and Open Models Reading List"
+      },
+      "Description": "Open-Source AI and Open Models Reading List",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49642645"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Julia 1.13 highlights"
+      },
+      "Description": "Julia 1.13 highlights",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49684393"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Astra and Fable still hack on simple variants of alignment evals from 2025"
+      },
+      "Description": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49683953"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260913134705\u0026#x2F;https:\u0026#x2F;\u0026#x2F;www.theverge.com\u0026#x2F;col"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20260913134705\u0026#x2F;https:\u0026#x2F;\u0026#x2F;www.theverge.com\u0026#x2F;column\u0026#x2F;994172\u0026#x2F;your-car-",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49690174"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Apple\u0027s Dimensional Drawings"
+      },
+      "Description": "Apple\u0027s Dimensional Drawings",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49688391"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Flawed routers flood University of Wisconsin internet time server (2003)"
+      },
+      "Description": "Flawed routers flood University of Wisconsin internet time server (2003)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49686380"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "What are you working on? What have you been curious about lately?"
+      },
+      "Description": "What are you working on? What have you been curious about lately?",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49688259"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Mullenweg has returned as CEO after attempted board ouster"
+      },
+      "Description": "Mullenweg has returned as CEO after attempted board ouster",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49649164"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The GDR and Vietnam: From Fake Coffee to Coffee Empire"
+      },
+      "Description": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49690529"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AI is not a normal technology"
+      },
+      "Description": "AI is not a normal technology",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49690943"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "My friend Greg often posts incredible things he just made, just for fun.\u003Cp\u003EOften, I don\u0026#x27;t realize that it\u0026#x27;s so"
+      },
+      "Description": "My friend Greg often posts incredible things he just made, just for fun.\u003Cp\u003EOften, I don\u0026#x27;t realize that it\u0026#x27;s something HE made and then I see",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49690051"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Coming War on General Computation (2011)"
+      },
+      "Description": "The Coming War on General Computation (2011)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49638071"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Reverse engineering my e-scooter and rewriting the firmware in Rust"
+      },
+      "Description": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49690279"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Writing a better reality: The case for optimistic sci-fi"
+      },
+      "Description": "Writing a better reality: The case for optimistic sci-fi",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49684196"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Making Startups Powerful"
+      },
+      "Description": "Making Startups Powerful",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49683262"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Why is the x86 undefined instruction called ud2? Why 2?"
+      },
+      "Description": "Why is the x86 undefined instruction called ud2? Why 2?",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49645547"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I build a mechanical watch face: a real gear train for a watch with no gears"
+      },
+      "Description": "I build a mechanical watch face: a real gear train for a watch with no gears",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49690678"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Malicious Use of Artificial Intelligence"
+      },
+      "Description": "The Malicious Use of Artificial Intelligence",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49684356"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "CUDA for AMD on Windows"
+      },
+      "Description": "CUDA for AMD on Windows",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49690139"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u0022Chilling\u0022 warning or overreaction? AI bioweapons report divides experts"
+      },
+      "Description": "\u0022Chilling\u0022 warning or overreaction? AI bioweapons report divides experts",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49690614"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The idea is to explore whether an intersection of social media, popularity, and prediction markets can exist and what it"
+      },
+      "Description": "The idea is to explore whether an intersection of social media, popularity, and prediction markets can exist and what it can look like.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49688766"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Why is privacy so hard?"
+      },
+      "Description": "Why is privacy so hard?",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49653311"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Reverse-Engineering Claude Web\u0027s MicroVM: Uncovering Anthropic\u0027s Hidden Antspace"
+      },
+      "Description": "Reverse-Engineering Claude Web\u0027s MicroVM: Uncovering Anthropic\u0027s Hidden Antspace",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49689460"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The contagion of fear"
+      },
+      "Description": "The contagion of fear",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49667916"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Necker, 1832: \u0022An optical ph\u00E6nomenon on viewing a figure of a geometrical solid\u0022"
+      },
+      "Description": "Necker, 1832: \u0022An optical ph\u00E6nomenon on viewing a figure of a geometrical solid\u0022",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49643059"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Bad code is kudzu"
+      },
+      "Description": "Bad code is kudzu",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 45 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
