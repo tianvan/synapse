@@ -241,21 +241,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49710109"
-    },
-    "Type": 1,
-    "Title": "Let\u0027s make quality the norm again",
-    "Url": "https://www.forbrukerradet.no/short-life/",
-    "Description": "Let\u0027s make quality the norm again",
-    "Metadata": {
-      "score": "49",
-      "author": "ingve",
-      "commentCount": "34"
-    },
-    "FetchedAt": "2026-09-15T10:46:11.1093295+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49710015"
     },
     "Type": 1,
@@ -511,21 +496,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49711544"
-    },
-    "Type": 1,
-    "Title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-    "Url": "https://github.com/arnegiacomo/fugleramme",
-    "Description": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-    "Metadata": {
-      "score": "496",
-      "author": "arnemunthekaas",
-      "commentCount": "83"
-    },
-    "FetchedAt": "2026-09-15T15:59:13.6028317+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49714239"
     },
     "Type": 1,
@@ -538,51 +508,6 @@
       "commentCount": "3"
     },
     "FetchedAt": "2026-09-15T15:59:13.6356691+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49712102"
-    },
-    "Type": 1,
-    "Title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
-    "Url": "https://bkovac.github.io/modem-thing/",
-    "Description": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
-    "Metadata": {
-      "score": "86",
-      "author": "bobili1234",
-      "commentCount": "9"
-    },
-    "FetchedAt": "2026-09-15T15:59:13.6692106+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49713999"
-    },
-    "Type": 1,
-    "Title": "Cartesian \u2013 AI 3D Modeling for Design",
-    "Url": "https://www.formas.ai/cartesian",
-    "Description": "Cartesian \u2013 AI 3D Modeling for Design",
-    "Metadata": {
-      "score": "13",
-      "author": "eustoria",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-09-15T15:59:13.7016625+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49708431"
-    },
-    "Type": 1,
-    "Title": "I can\u0027t stop thinking about Papua New Guinea",
-    "Url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
-    "Description": "I can\u0027t stop thinking about Papua New Guinea",
-    "Metadata": {
-      "score": "666",
-      "author": "networked",
-      "commentCount": "290"
-    },
-    "FetchedAt": "2026-09-15T15:59:13.7334764+00:00"
   },
   {
     "ExternalId": {
@@ -601,51 +526,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49712278"
-    },
-    "Type": 1,
-    "Title": "Show HN: Capsule \u2013 Single-file web apps that save their data into SQLite",
-    "Url": "https://withcapsule.app/",
-    "Description": "Hey HN,\u003Cp\u003EI always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few months, I\u0026#x27;ve been building an app called Capsule (it\u2019s also the file extension name) written in Rust with Tauri 2.0 that allows packing an HTML app and its data into a single SQLite file.\u003Cp\u003EThe HTML file and any related assets are directly embedded in the database. User data can either be saved as a",
-    "Metadata": {
-      "score": "97",
-      "author": "bashtian",
-      "commentCount": "48"
-    },
-    "FetchedAt": "2026-09-15T15:59:13.7994552+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49694382"
-    },
-    "Type": 1,
-    "Title": "A Man Archiving Pirate Radio Station Kool FM",
-    "Url": "https://londonist.com/london/music/kool-fm-archives",
-    "Description": "A Man Archiving Pirate Radio Station Kool FM",
-    "Metadata": {
-      "score": "25",
-      "author": "rdmuser",
-      "commentCount": "8"
-    },
-    "FetchedAt": "2026-09-15T15:59:13.8334994+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49710883"
-    },
-    "Type": 1,
-    "Title": "25 Years of Mass Surveillance Is Enough",
-    "Url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-    "Description": "25 Years of Mass Surveillance Is Enough",
-    "Metadata": {
-      "score": "420",
-      "author": "iamnothere",
-      "commentCount": "125"
-    },
-    "FetchedAt": "2026-09-15T15:59:13.8664292+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49712621"
     },
     "Type": 1,
@@ -658,51 +538,6 @@
       "commentCount": "4"
     },
     "FetchedAt": "2026-09-15T15:59:13.906471+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49709381"
-    },
-    "Type": 1,
-    "Title": "Alternatives to MinIO for single-node local S3",
-    "Url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
-    "Description": "Alternatives to MinIO for single-node local S3",
-    "Metadata": {
-      "score": "159",
-      "author": "rmoff",
-      "commentCount": "71"
-    },
-    "FetchedAt": "2026-09-15T15:59:13.9431875+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49680428"
-    },
-    "Type": 1,
-    "Title": "Sony\u0027s First Computer \u2013 The SMC-70 from 1982 [video]",
-    "Url": "https://www.youtube.com/watch?v=cT2-7KkPkBc",
-    "Description": "Sony\u0027s First Computer \u2013 The SMC-70 from 1982 [video]",
-    "Metadata": {
-      "score": "31",
-      "author": "ksymph",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-09-15T15:59:13.9802587+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49708993"
-    },
-    "Type": 1,
-    "Title": "CSS-Tricks in Limbo",
-    "Url": "https://vale.rocks/micros/20260915-0135",
-    "Description": "CSS-Tricks in Limbo",
-    "Metadata": {
-      "score": "182",
-      "author": "edent",
-      "commentCount": "69"
-    },
-    "FetchedAt": "2026-09-15T15:59:14.0184572+00:00"
   },
   {
     "ExternalId": {
@@ -781,21 +616,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49677648"
-    },
-    "Type": 1,
-    "Title": "Giving up on smart rings",
-    "Url": "https://notesbylex.com/giving-up-on-smart-rings",
-    "Description": "Giving up on smart rings",
-    "Metadata": {
-      "score": "3",
-      "author": "lexandstuff",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-09-15T15:59:14.2231706+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49712416"
     },
     "Type": 1,
@@ -871,21 +691,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49707473"
-    },
-    "Type": 1,
-    "Title": "US confirms for first time it has deployed space weapons",
-    "Url": "https://www.bbc.com/news/articles/ck790xg41ygro",
-    "Description": "US confirms for first time it has deployed space weapons",
-    "Metadata": {
-      "score": "246",
-      "author": "harporoeder",
-      "commentCount": "157"
-    },
-    "FetchedAt": "2026-09-15T15:59:14.4257312+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49700477"
     },
     "Type": 1,
@@ -958,5 +763,455 @@
       "commentCount": "82"
     },
     "FetchedAt": "2026-09-15T15:59:14.5924263+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49717558"
+    },
+    "Type": 1,
+    "Title": "Introducing System One Models and Jev",
+    "Url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "Description": "Introducing System One Models and Jev",
+    "Metadata": {
+      "score": "257",
+      "author": "albelfio",
+      "commentCount": "89"
+    },
+    "FetchedAt": "2026-09-15T20:43:00.3177891+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49711544"
+    },
+    "Type": 1,
+    "Title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+    "Url": "https://github.com/arnegiacomo/fugleramme",
+    "Description": "See also: \u003Ci\u003EAvian Visitors\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48343424\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48343424\u003C/a\u003E - May 2026 (20 comments)",
+    "Metadata": {
+      "score": "1064",
+      "author": "arnemunthekaas",
+      "commentCount": "138"
+    },
+    "FetchedAt": "2026-09-15T20:43:00.3609109+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49716176"
+    },
+    "Type": 1,
+    "Title": "An Update on Wayback Machine Access",
+    "Url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+    "Description": "An Update on Wayback Machine Access",
+    "Metadata": {
+      "score": "208",
+      "author": "ChrisArchitect",
+      "commentCount": "108"
+    },
+    "FetchedAt": "2026-09-15T20:43:00.4034646+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49715947"
+    },
+    "Type": 1,
+    "Title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "Url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+    "Description": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "Metadata": {
+      "score": "155",
+      "author": "leumon",
+      "commentCount": "96"
+    },
+    "FetchedAt": "2026-09-15T20:43:00.471408+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49716476"
+    },
+    "Type": 1,
+    "Title": "We got admin access to Baseten\u0027s production GitHub in 25 minutes",
+    "Url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+    "Description": "We got admin access to Baseten\u0027s production GitHub in 25 minutes",
+    "Metadata": {
+      "score": "127",
+      "author": "bearsyankees",
+      "commentCount": "56"
+    },
+    "FetchedAt": "2026-09-15T20:43:00.5144117+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49717605"
+    },
+    "Type": 1,
+    "Title": "WangNet \u2013 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
+    "Url": "https://github.com/GraafHenk/numberwang",
+    "Description": "WangNet \u2013 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
+    "Metadata": {
+      "score": "32",
+      "author": "Liogra123",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-09-15T20:43:00.5567765+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49716953"
+    },
+    "Type": 1,
+    "Title": "Chop Up Your Books",
+    "Url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
+    "Description": "Chop Up Your Books",
+    "Metadata": {
+      "score": "37",
+      "author": "matt_kirkland",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-09-15T20:43:00.6012145+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49712278"
+    },
+    "Type": 1,
+    "Title": "Show HN: Capsule \u2013 Single-file web apps that save their data into SQLite",
+    "Url": "https://withcapsule.app/",
+    "Description": "Hey HN,\u003Cp\u003EI always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few months, I\u0026#x27;ve been building an app called Capsule (it\u2019s also the file extension name) written in Rust with Tauri 2.0 that allows packing an HTML app and its data into a single SQLite file.\u003Cp\u003EThe HTML file and any related assets are directly embedded in the database. User data can either be saved as a",
+    "Metadata": {
+      "score": "231",
+      "author": "bashtian",
+      "commentCount": "108"
+    },
+    "FetchedAt": "2026-09-15T20:43:00.6480188+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49708431"
+    },
+    "Type": 1,
+    "Title": "I can\u0027t stop thinking about Papua New Guinea",
+    "Url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+    "Description": "I can\u0027t stop thinking about Papua New Guinea",
+    "Metadata": {
+      "score": "920",
+      "author": "networked",
+      "commentCount": "377"
+    },
+    "FetchedAt": "2026-09-15T20:43:00.6918095+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49715590"
+    },
+    "Type": 1,
+    "Title": "GEFS on OpenBSD: A Early Preview",
+    "Url": "https://marc.info/?l=openbsd-tech\u0026m=178948744271633\u0026w=2",
+    "Description": "GEFS on OpenBSD: A Early Preview",
+    "Metadata": {
+      "score": "69",
+      "author": "sippingabonedry",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-09-15T20:43:00.7349589+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49713262"
+    },
+    "Type": 1,
+    "Title": "The CSS Zen Garden dream, finally shipped",
+    "Url": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
+    "Description": "The CSS Zen Garden dream, finally shipped",
+    "Metadata": {
+      "score": "94",
+      "author": "yosito",
+      "commentCount": "39"
+    },
+    "FetchedAt": "2026-09-15T20:43:00.7858258+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49712102"
+    },
+    "Type": 1,
+    "Title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+    "Url": "https://bkovac.github.io/modem-thing/",
+    "Description": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+    "Metadata": {
+      "score": "149",
+      "author": "bobili1234",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-09-15T20:43:00.8502783+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49715446"
+    },
+    "Type": 1,
+    "Title": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)",
+    "Url": "https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd",
+    "Description": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)",
+    "Metadata": {
+      "score": "1",
+      "author": "grmmph",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-15T20:43:00.8956046+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49710109"
+    },
+    "Type": 1,
+    "Title": "Let\u0027s make quality the norm again",
+    "Url": "https://www.forbrukerradet.no/short-life/",
+    "Description": "Let\u0027s make quality the norm again",
+    "Metadata": {
+      "score": "231",
+      "author": "ingve",
+      "commentCount": "238"
+    },
+    "FetchedAt": "2026-09-15T20:43:00.9526429+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49713024"
+    },
+    "Type": 1,
+    "Title": "The Inference Hardware Revolution of 2026",
+    "Url": "https://spectrum.ieee.org/inference-hardware-revolution",
+    "Description": "The Inference Hardware Revolution of 2026",
+    "Metadata": {
+      "score": "65",
+      "author": "vinhnx",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-09-15T20:43:00.9975689+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49677648"
+    },
+    "Type": 1,
+    "Title": "Giving up on smart rings",
+    "Url": "https://notesbylex.com/giving-up-on-smart-rings",
+    "Description": "Giving up on smart rings",
+    "Metadata": {
+      "score": "66",
+      "author": "lexandstuff",
+      "commentCount": "101"
+    },
+    "FetchedAt": "2026-09-15T20:43:01.0408236+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49704132"
+    },
+    "Type": 1,
+    "Title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+    "Url": "https://www.effort.news/irregular",
+    "Description": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+    "Metadata": {
+      "score": "317",
+      "author": "yusufozkan",
+      "commentCount": "111"
+    },
+    "FetchedAt": "2026-09-15T20:43:01.0885976+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49689685"
+    },
+    "Type": 1,
+    "Title": "Photographs of Atlantic City Sand Sculpture (ca. 1880\u20131920)",
+    "Url": "https://publicdomainreview.org/collection/atlantic-city-sand-sculpture/",
+    "Description": "Photographs of Atlantic City Sand Sculpture (ca. 1880\u20131920)",
+    "Metadata": {
+      "score": "14",
+      "author": "samclemens",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-15T20:43:01.132098+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49714547"
+    },
+    "Type": 1,
+    "Title": "America\u0027s Driver\u0027s License Breach Is a National Security Disaster",
+    "Url": "https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster",
+    "Description": "America\u0027s Driver\u0027s License Breach Is a National Security Disaster",
+    "Metadata": {
+      "score": "173",
+      "author": "hn_acker",
+      "commentCount": "114"
+    },
+    "FetchedAt": "2026-09-15T20:43:01.1777545+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49707473"
+    },
+    "Type": 1,
+    "Title": "US confirms for first time it has deployed space weapons",
+    "Url": "https://www.bbc.com/news/articles/ck790xg41ygro",
+    "Description": "US confirms for first time it has deployed space weapons",
+    "Metadata": {
+      "score": "373",
+      "author": "harporoeder",
+      "commentCount": "268"
+    },
+    "FetchedAt": "2026-09-15T20:43:01.2237466+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49697496"
+    },
+    "Type": 1,
+    "Title": "Most people prefer traditional architecture",
+    "Url": "https://www.worksinprogress.news/p/do-people-prefer-traditional-architecture",
+    "Description": "Most people prefer traditional architecture",
+    "Metadata": {
+      "score": "200",
+      "author": "alihm",
+      "commentCount": "156"
+    },
+    "FetchedAt": "2026-09-15T20:43:01.2686956+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49694382"
+    },
+    "Type": 1,
+    "Title": "Archiving pirate radio station Kool FM",
+    "Url": "https://londonist.com/london/music/kool-fm-archives",
+    "Description": "Archiving pirate radio station Kool FM",
+    "Metadata": {
+      "score": "80",
+      "author": "rdmuser",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-09-15T20:43:01.3121209+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49684042"
+    },
+    "Type": 1,
+    "Title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
+    "Url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
+    "Description": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
+    "Metadata": {
+      "score": "40",
+      "author": "emerongi",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-09-15T20:43:01.3566198+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49708993"
+    },
+    "Type": 1,
+    "Title": "CSS-Tricks in Limbo",
+    "Url": "https://vale.rocks/micros/20260915-0135",
+    "Description": "CSS-Tricks in Limbo",
+    "Metadata": {
+      "score": "236",
+      "author": "edent",
+      "commentCount": "104"
+    },
+    "FetchedAt": "2026-09-15T20:43:01.3989955+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49710883"
+    },
+    "Type": 1,
+    "Title": "25 years of mass surveillance is enough",
+    "Url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+    "Description": "25 years of mass surveillance is enough",
+    "Metadata": {
+      "score": "673",
+      "author": "iamnothere",
+      "commentCount": "239"
+    },
+    "FetchedAt": "2026-09-15T20:43:01.4426677+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49709381"
+    },
+    "Type": 1,
+    "Title": "Alternatives to MinIO for single-node local S3",
+    "Url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+    "Description": "Alternatives to MinIO for single-node local S3",
+    "Metadata": {
+      "score": "222",
+      "author": "rmoff",
+      "commentCount": "93"
+    },
+    "FetchedAt": "2026-09-15T20:43:01.4874156+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49713999"
+    },
+    "Type": 1,
+    "Title": "Cartesian \u2013 AI 3D Modeling for Design",
+    "Url": "https://www.formas.ai/cartesian",
+    "Description": "Cartesian \u2013 AI 3D Modeling for Design",
+    "Metadata": {
+      "score": "68",
+      "author": "eustoria",
+      "commentCount": "60"
+    },
+    "FetchedAt": "2026-09-15T20:43:01.5519278+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49689801"
+    },
+    "Type": 1,
+    "Title": "Rat and Mouse Gazette: Nursing Care (1996)",
+    "Url": "https://www.rmca.org/Articles/nurse.htm",
+    "Description": "Rat and Mouse Gazette: Nursing Care (1996)",
+    "Metadata": {
+      "score": "12",
+      "author": "joebig",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-15T20:43:01.6119408+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49680428"
+    },
+    "Type": 1,
+    "Title": "Sony\u0027s First Computer \u2013 The SMC-70 from 1982 [video]",
+    "Url": "https://www.youtube.com/watch?v=cT2-7KkPkBc",
+    "Description": "Sony\u0027s First Computer \u2013 The SMC-70 from 1982 [video]",
+    "Metadata": {
+      "score": "56",
+      "author": "ksymph",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-09-15T20:43:01.6734213+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49697549"
+    },
+    "Type": 1,
+    "Title": "A rough guide for going back to the Moon",
+    "Url": "https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model",
+    "Description": "A rough guide for going back to the Moon",
+    "Metadata": {
+      "score": "52",
+      "author": "gmays",
+      "commentCount": "91"
+    },
+    "FetchedAt": "2026-09-15T20:43:01.726253+00:00"
   }
 ]
