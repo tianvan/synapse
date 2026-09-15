@@ -1,0 +1,272 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:JustVugg/colibri"
+    },
+    "Type": 0,
+    "Title": "JustVugg/colibri",
+    "Url": "https://github.com/JustVugg/colibri",
+    "Description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \uD83D\uDC26",
+    "Metadata": {
+      "owner": "JustVugg",
+      "repo": "colibri",
+      "language": "C",
+      "stars": "2,173"
+    },
+    "FetchedAt": "2026-09-15T02:44:42.3120248+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alibaba/open-code-review"
+    },
+    "Type": 0,
+    "Title": "alibaba/open-code-review",
+    "Url": "https://github.com/alibaba/open-code-review",
+    "Description": "Fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
+    "Metadata": {
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "language": "Go",
+      "stars": "1,571",
+      "topics": "agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context"
+    },
+    "FetchedAt": "2026-09-15T02:44:42.484442+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:multimodal-art-projection/YuE"
+    },
+    "Type": 0,
+    "Title": "multimodal-art-projection/YuE",
+    "Url": "https://github.com/multimodal-art-projection/YuE",
+    "Description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+    "Metadata": {
+      "owner": "multimodal-art-projection",
+      "repo": "YuE",
+      "language": "Python",
+      "stars": "559",
+      "topics": "ai, audio-generation, deep-learning, foundation-models, gpt, huggingface, llama, llms, music-generation, style-transfers, voice-cloning"
+    },
+    "FetchedAt": "2026-09-15T02:44:42.6057033+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:debpalash/VoiceStudio"
+    },
+    "Type": 0,
+    "Title": "debpalash/VoiceStudio",
+    "Url": "https://github.com/debpalash/VoiceStudio",
+    "Description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription \u0026 audiobook creation in 646 languages.",
+    "Metadata": {
+      "owner": "debpalash",
+      "repo": "VoiceStudio",
+      "language": "Python",
+      "stars": "2,776",
+      "topics": "ai, audiobook, cuda, dubbing, elevenlabs-alternative, huggingface, local-first, mlx, omnivoice-studio, speech-to-text, tauri, text-to-speech, transcription, translate, tts, voice-ai, voice-cloning, voice-generation, voicestudio, workflow"
+    },
+    "FetchedAt": "2026-09-15T02:44:42.7300805+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:666ghj/MiroFish"
+    },
+    "Type": 0,
+    "Title": "666ghj/MiroFish",
+    "Url": "https://github.com/666ghj/MiroFish",
+    "Description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. \u7B80\u6D01\u901A\u7528\u7684\u7FA4\u4F53\u667A\u80FD\u5F15\u64CE\uFF0C\u9884\u6D4B\u4E07\u7269",
+    "Metadata": {
+      "owner": "666ghj",
+      "repo": "MiroFish",
+      "language": "Python",
+      "stars": "560",
+      "topics": "agent-memory, financial-forecasting, future-prediction, knowledge-graph, llms, multi-agent-simulation, public-opinion-analysis, python3, social-prediction, swarm-intelligence"
+    },
+    "FetchedAt": "2026-09-15T02:44:42.8779607+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Panniantong/Agent-Reach"
+    },
+    "Type": 0,
+    "Title": "Panniantong/Agent-Reach",
+    "Url": "https://github.com/Panniantong/Agent-Reach",
+    "Description": "Give your AI agent eyes to see the entire internet. Read \u0026 search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+    "Metadata": {
+      "owner": "Panniantong",
+      "repo": "Agent-Reach",
+      "language": "Python",
+      "stars": "651",
+      "topics": "agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript"
+    },
+    "FetchedAt": "2026-09-15T02:44:43.0241753+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:rlaope/oh-my-hermes"
+    },
+    "Type": 0,
+    "Title": "rlaope/oh-my-hermes",
+    "Url": "https://github.com/rlaope/oh-my-hermes",
+    "Description": "All in one plugin for Hermes Agent \u269A the coding intelligence, a long-term memory system and model optimized workflow packages",
+    "Metadata": {
+      "owner": "rlaope",
+      "repo": "oh-my-hermes",
+      "language": "Python",
+      "stars": "77",
+      "topics": "agent, ai, ai-agent, ai-tools, claude-code, codex, hermes-agent, hermes-skill, skills"
+    },
+    "FetchedAt": "2026-09-15T02:44:43.1492195+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:localsend/localsend"
+    },
+    "Type": 0,
+    "Title": "localsend/localsend",
+    "Url": "https://github.com/localsend/localsend",
+    "Description": "An open-source cross-platform alternative to AirDrop",
+    "Metadata": {
+      "owner": "localsend",
+      "repo": "localsend",
+      "language": "Dart",
+      "stars": "251",
+      "topics": "dart, file-sharing, flutter, flutter-apps"
+    },
+    "FetchedAt": "2026-09-15T02:44:43.2852913+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:TauricResearch/TradingAgents"
+    },
+    "Type": 0,
+    "Title": "TauricResearch/TradingAgents",
+    "Url": "https://github.com/TauricResearch/TradingAgents",
+    "Description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "Metadata": {
+      "owner": "TauricResearch",
+      "repo": "TradingAgents",
+      "language": "Python",
+      "stars": "745",
+      "topics": "agent, finance, llm, multiagent, trading"
+    },
+    "FetchedAt": "2026-09-15T02:44:43.40147+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ruvnet/RuView"
+    },
+    "Type": 0,
+    "Title": "ruvnet/RuView",
+    "Url": "https://github.com/ruvnet/RuView",
+    "Description": "\u03C0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+    "Metadata": {
+      "owner": "ruvnet",
+      "repo": "RuView",
+      "language": "Rust",
+      "stars": "383",
+      "topics": "awesome, claude, densepose, esp32, firmware, home-assistant, home-automation, iot, monitoring, networking, npm, pose-estimation, react, rf, self-learning, skills, spatial-intelligence, typescript, wifi, wifi-security"
+    },
+    "FetchedAt": "2026-09-15T02:44:43.5247492+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:tech-leads-club/agent-skills"
+    },
+    "Type": 0,
+    "Title": "tech-leads-club/agent-skills",
+    "Url": "https://github.com/tech-leads-club/agent-skills",
+    "Description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+    "Metadata": {
+      "owner": "tech-leads-club",
+      "repo": "agent-skills",
+      "language": "TypeScript",
+      "stars": "512",
+      "topics": "agent, ai, antigravity, claude-code, copilot, cursor, skills"
+    },
+    "FetchedAt": "2026-09-15T02:44:43.6481645+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:OpenBMB/VoxCPM"
+    },
+    "Type": 0,
+    "Title": "OpenBMB/VoxCPM",
+    "Url": "https://github.com/OpenBMB/VoxCPM",
+    "Description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "Metadata": {
+      "owner": "OpenBMB",
+      "repo": "VoxCPM",
+      "language": "Python",
+      "stars": "216",
+      "topics": "audio, deeplearning, minicpm, multilingual, python, pytorch, speech, speech-synthesis, text-to-speech, tts, tts-model, voice-cloning, voice-design, voxcpm"
+    },
+    "FetchedAt": "2026-09-15T02:44:43.7914809+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:huggingface/transformers"
+    },
+    "Type": 0,
+    "Title": "huggingface/transformers",
+    "Url": "https://github.com/huggingface/transformers",
+    "Description": "\uD83E\uDD17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "Metadata": {
+      "owner": "huggingface",
+      "repo": "transformers",
+      "language": "Python",
+      "stars": "536",
+      "topics": "audio, deep-learning, deepseek, gemma, glm, hacktoberfest, llm, machine-learning, model-hub, natural-language-processing, nlp, pretrained-models, python, pytorch, pytorch-transformers, qwen, speech-recognition, transformer, vlm"
+    },
+    "FetchedAt": "2026-09-15T02:44:43.8977797+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Crosstalk-Solutions/project-nomad"
+    },
+    "Type": 0,
+    "Title": "Crosstalk-Solutions/project-nomad",
+    "Url": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "Description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+    "Metadata": {
+      "owner": "Crosstalk-Solutions",
+      "repo": "project-nomad",
+      "language": "TypeScript",
+      "stars": "40"
+    },
+    "FetchedAt": "2026-09-15T02:44:44.0629105+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:reconurge/flowsint"
+    },
+    "Type": 0,
+    "Title": "reconurge/flowsint",
+    "Url": "https://github.com/reconurge/flowsint",
+    "Description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+    "Metadata": {
+      "owner": "reconurge",
+      "repo": "flowsint",
+      "language": "TypeScript",
+      "stars": "280",
+      "topics": "investigation, osint, python, recon"
+    },
+    "FetchedAt": "2026-09-15T02:44:44.1905526+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:SnailSploit/Claude-Red"
+    },
+    "Type": 0,
+    "Title": "SnailSploit/Claude-Red",
+    "Url": "https://github.com/SnailSploit/Claude-Red",
+    "Description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface \u2014 from SQLi to shellcode, EDR evasion to exploit development.",
+    "Metadata": {
+      "owner": "SnailSploit",
+      "repo": "Claude-Red",
+      "language": "Python",
+      "stars": "579",
+      "topics": "claude-ai, claude-pt, claude-skills, redteam, redteam-tools, skills"
+    },
+    "FetchedAt": "2026-09-15T02:44:44.3230141+00:00"
+  }
+]
