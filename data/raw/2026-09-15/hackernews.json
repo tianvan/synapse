@@ -16,171 +16,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49701004"
-    },
-    "Type": 1,
-    "Title": "iOS 27, iPadOS 27, and macOS 27",
-    "Url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-    "Description": "iOS 27, iPadOS 27, and macOS 27",
-    "Metadata": {
-      "score": "412",
-      "author": "throw0101d",
-      "commentCount": "470"
-    },
-    "FetchedAt": "2026-09-15T02:44:44.6820494+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49700477"
-    },
-    "Type": 1,
-    "Title": "Pion, an agent designed to run any company autonomously",
-    "Url": "https://andonlabs.com/blog/why-we-built-pion",
-    "Description": "Pion, an agent designed to run any company autonomously",
-    "Metadata": {
-      "score": "303",
-      "author": "lukaspetersson",
-      "commentCount": "332"
-    },
-    "FetchedAt": "2026-09-15T02:44:44.723493+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49704246"
-    },
-    "Type": 1,
-    "Title": "Charts built for Chat",
-    "Url": "https://dbtcharts.com/blog/charts-built-for-chat/",
-    "Description": "Charts built for Chat",
-    "Metadata": {
-      "score": "115",
-      "author": "thingsilearned",
-      "commentCount": "38"
-    },
-    "FetchedAt": "2026-09-15T02:44:44.7653637+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49705442"
-    },
-    "Type": 1,
-    "Title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-    "Url": "https://github.com/JamesRyanATX/fcbnerd",
-    "Description": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-    "Metadata": {
-      "score": "40",
-      "author": "fretlessjazz",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-09-15T02:44:44.8068208+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49675817"
-    },
-    "Type": 1,
-    "Title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
-    "Url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
-    "Description": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
-    "Metadata": {
-      "score": "28",
-      "author": "arunbahl",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-09-15T02:44:44.8447888+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49697477"
-    },
-    "Type": 1,
-    "Title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-    "Url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-    "Description": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-    "Metadata": {
-      "score": "41",
-      "author": "nathannaveen",
-      "commentCount": "12"
-    },
-    "FetchedAt": "2026-09-15T02:44:44.8833032+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49673689"
-    },
-    "Type": 1,
-    "Title": "Compressing a Flag to 11 Bits",
-    "Url": "https://read.vantezzen.io/miniflags",
-    "Description": "Compressing a Flag to 11 Bits",
-    "Metadata": {
-      "score": "77",
-      "author": "bennett_dev",
-      "commentCount": "37"
-    },
-    "FetchedAt": "2026-09-15T02:44:44.9218295+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49699158"
-    },
-    "Type": 1,
-    "Title": "Distributed Systems Classics (2017)",
-    "Url": "https://nvartolomei.com/dist-sys-classics/",
-    "Description": "Distributed Systems Classics (2017)",
-    "Metadata": {
-      "score": "243",
-      "author": "grep_it",
-      "commentCount": "56"
-    },
-    "FetchedAt": "2026-09-15T02:44:44.9595012+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49694296"
-    },
-    "Type": 1,
-    "Title": "XCancel service is suspended until further notice",
-    "Url": "https://xcancel.com/#",
-    "Description": "XCancel service is suspended until further notice",
-    "Metadata": {
-      "score": "477",
-      "author": "gaganyaan",
-      "commentCount": "783"
-    },
-    "FetchedAt": "2026-09-15T02:44:44.9973593+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49695876"
-    },
-    "Type": 1,
-    "Title": "OpenAI bots knew about the RubyGems caching vulnerability",
-    "Url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-    "Description": "OpenAI bots knew about the RubyGems caching vulnerability",
-    "Metadata": {
-      "score": "385",
-      "author": "gregnavis",
-      "commentCount": "328"
-    },
-    "FetchedAt": "2026-09-15T02:44:45.03546+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49698607"
-    },
-    "Type": 1,
-    "Title": "Principles for Fast Tokio Applications",
-    "Url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-    "Description": "Principles for Fast Tokio Applications",
-    "Metadata": {
-      "score": "169",
-      "author": "carllerche",
-      "commentCount": "44"
-    },
-    "FetchedAt": "2026-09-15T02:44:45.0729733+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49690084"
     },
     "Type": 1,
@@ -286,36 +121,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49698699"
-    },
-    "Type": 1,
-    "Title": "A Beginning for Mathematics",
-    "Url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-    "Description": "A Beginning for Mathematics",
-    "Metadata": {
-      "score": "175",
-      "author": "robinhouston",
-      "commentCount": "102"
-    },
-    "FetchedAt": "2026-09-15T02:44:45.3802344+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49686380"
-    },
-    "Type": 1,
-    "Title": "Ask HN: What are you working on? (September 2026)",
-    "Url": "https://news.ycombinator.com/item?id=49686380",
-    "Description": "What are you working on? What have you been curious about lately?",
-    "Metadata": {
-      "score": "302",
-      "author": "david927",
-      "commentCount": "949"
-    },
-    "FetchedAt": "2026-09-15T02:44:45.4213075+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49701182"
     },
     "Type": 1,
@@ -328,21 +133,6 @@
       "commentCount": "9"
     },
     "FetchedAt": "2026-09-15T02:44:45.4978376+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49696453"
-    },
-    "Type": 1,
-    "Title": "People who can\u0027t picture anything are rewriting the science of imagination",
-    "Url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
-    "Description": "People who can\u0027t picture anything are rewriting the science of imagination",
-    "Metadata": {
-      "score": "99",
-      "author": "giuliomagnifico",
-      "commentCount": "169"
-    },
-    "FetchedAt": "2026-09-15T02:44:45.5751115+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +238,455 @@
       "commentCount": "67"
     },
     "FetchedAt": "2026-09-15T02:44:45.868246+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49710109"
+    },
+    "Type": 1,
+    "Title": "Let\u0027s make quality the norm again",
+    "Url": "https://www.forbrukerradet.no/short-life/",
+    "Description": "Let\u0027s make quality the norm again",
+    "Metadata": {
+      "score": "49",
+      "author": "ingve",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-09-15T10:46:11.1093295+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49708431"
+    },
+    "Type": 1,
+    "Title": "I can\u0027t stop thinking about Papua New Guinea",
+    "Url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+    "Description": "I can\u0027t stop thinking about Papua New Guinea",
+    "Metadata": {
+      "score": "240",
+      "author": "networked",
+      "commentCount": "73"
+    },
+    "FetchedAt": "2026-09-15T10:46:11.1569258+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49710015"
+    },
+    "Type": 1,
+    "Title": "How much of F-Droid is LLM generated?",
+    "Url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+    "Description": "How much of F-Droid is LLM generated?",
+    "Metadata": {
+      "score": "32",
+      "author": "_ZeD_",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-09-15T10:46:11.2039532+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49710253"
+    },
+    "Type": 1,
+    "Title": "Suspected sabotage causes major Netherlands rail disruption",
+    "Url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+    "Description": "Suspected sabotage causes major Netherlands rail disruption",
+    "Metadata": {
+      "score": "7",
+      "author": "choult",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-15T10:46:11.2510778+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49709381"
+    },
+    "Type": 1,
+    "Title": "Alternatives to MinIO for single-node local S3",
+    "Url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+    "Description": "Alternatives to MinIO for single-node local S3",
+    "Metadata": {
+      "score": "21",
+      "author": "rmoff",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-09-15T10:46:11.297806+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49701004"
+    },
+    "Type": 1,
+    "Title": "iOS 27, iPadOS 27, and macOS 27",
+    "Url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+    "Description": "iOS 27, iPadOS 27, and macOS 27",
+    "Metadata": {
+      "score": "617",
+      "author": "throw0101d",
+      "commentCount": "701"
+    },
+    "FetchedAt": "2026-09-15T10:46:11.3438636+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49684289"
+    },
+    "Type": 1,
+    "Title": "OpenArm: An open-source 7DOF humanoid arm",
+    "Url": "https://github.com/enactic/OpenArm",
+    "Description": "OpenArm: An open-source 7DOF humanoid arm",
+    "Metadata": {
+      "score": "100",
+      "author": "Lwrless",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-09-15T10:46:11.3899621+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49707627"
+    },
+    "Type": 1,
+    "Title": "Linux from Scratch",
+    "Url": "https://www.linuxfromscratch.org/",
+    "Description": "Linux from Scratch",
+    "Metadata": {
+      "score": "198",
+      "author": "sippingabonedry",
+      "commentCount": "64"
+    },
+    "FetchedAt": "2026-09-15T10:46:11.4382835+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49700477"
+    },
+    "Type": 1,
+    "Title": "Pion, an agent designed to run any company autonomously",
+    "Url": "https://andonlabs.com/blog/why-we-built-pion",
+    "Description": "Pion, an agent designed to run any company autonomously",
+    "Metadata": {
+      "score": "415",
+      "author": "lukaspetersson",
+      "commentCount": "515"
+    },
+    "FetchedAt": "2026-09-15T10:46:11.4854117+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49675817"
+    },
+    "Type": 1,
+    "Title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+    "Url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+    "Description": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+    "Metadata": {
+      "score": "144",
+      "author": "arunbahl",
+      "commentCount": "42"
+    },
+    "FetchedAt": "2026-09-15T10:46:11.5319746+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49709129"
+    },
+    "Type": 1,
+    "Title": "The k-server conjecture is true",
+    "Url": "https://arxiv.org/abs/2609.15979",
+    "Description": "The k-server conjecture is true",
+    "Metadata": {
+      "score": "13",
+      "author": "iamsyr",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-09-15T10:46:11.6212067+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49704246"
+    },
+    "Type": 1,
+    "Title": "Charts built for Chat",
+    "Url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+    "Description": "Charts built for Chat",
+    "Metadata": {
+      "score": "235",
+      "author": "thingsilearned",
+      "commentCount": "74"
+    },
+    "FetchedAt": "2026-09-15T10:46:11.6673024+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49694296"
+    },
+    "Type": 1,
+    "Title": "XCancel service is suspended until further notice",
+    "Url": "https://xcancel.com/#",
+    "Description": "XCancel service is suspended until further notice",
+    "Metadata": {
+      "score": "649",
+      "author": "gaganyaan",
+      "commentCount": "945"
+    },
+    "FetchedAt": "2026-09-15T10:46:11.7135212+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49708774"
+    },
+    "Type": 1,
+    "Title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+    "Url": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+    "Description": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+    "Metadata": {
+      "score": "1",
+      "author": "maxpr",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-15T10:46:11.7703329+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49676425"
+    },
+    "Type": 1,
+    "Title": "Show HN: Redis City \u2013 Explore how Redis works in an interactive 3D model",
+    "Url": "https://poltora.dev/redis",
+    "Description": "Show HN: Redis City \u2013 Explore how Redis works in an interactive 3D model",
+    "Metadata": {
+      "score": "102",
+      "author": "poltora",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-09-15T10:46:11.8163588+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49707473"
+    },
+    "Type": 1,
+    "Title": "US confirms for first time it has deployed space weapons",
+    "Url": "https://www.bbc.com/news/articles/ck790xg41ygro",
+    "Description": "US confirms for first time it has deployed space weapons",
+    "Metadata": {
+      "score": "60",
+      "author": "harporoeder",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-09-15T10:46:11.8625183+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49697477"
+    },
+    "Type": 1,
+    "Title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+    "Url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+    "Description": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+    "Metadata": {
+      "score": "121",
+      "author": "nathannaveen",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-09-15T10:46:11.9083783+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49695876"
+    },
+    "Type": 1,
+    "Title": "OpenAI bots knew about the RubyGems caching vulnerability",
+    "Url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+    "Description": "OpenAI bots knew about the RubyGems caching vulnerability",
+    "Metadata": {
+      "score": "468",
+      "author": "gregnavis",
+      "commentCount": "376"
+    },
+    "FetchedAt": "2026-09-15T10:46:11.955285+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49698699"
+    },
+    "Type": 1,
+    "Title": "A beginning for mathematics",
+    "Url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+    "Description": "A beginning for mathematics",
+    "Metadata": {
+      "score": "228",
+      "author": "robinhouston",
+      "commentCount": "126"
+    },
+    "FetchedAt": "2026-09-15T10:46:12.001887+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49699158"
+    },
+    "Type": 1,
+    "Title": "Distributed Systems Classics (2017)",
+    "Url": "https://nvartolomei.com/dist-sys-classics/",
+    "Description": "Distributed Systems Classics (2017)",
+    "Metadata": {
+      "score": "308",
+      "author": "grep_it",
+      "commentCount": "68"
+    },
+    "FetchedAt": "2026-09-15T10:46:12.0487037+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49673689"
+    },
+    "Type": 1,
+    "Title": "Compressing a flag to 11 bits",
+    "Url": "https://read.vantezzen.io/miniflags",
+    "Description": "Compressing a flag to 11 bits",
+    "Metadata": {
+      "score": "155",
+      "author": "bennett_dev",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-09-15T10:46:12.1472309+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49695331"
+    },
+    "Type": 1,
+    "Title": "High-performance garbage collection for C\u002B\u002B",
+    "Url": "https://v8.dev/blog/high-performance-cpp-gc",
+    "Description": "High-performance garbage collection for C\u002B\u002B",
+    "Metadata": {
+      "score": "48",
+      "author": "motownphilly",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-09-15T10:46:12.1941484+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49661835"
+    },
+    "Type": 1,
+    "Title": "Glyph Immersive",
+    "Url": "https://glyph.kateander.com/",
+    "Description": "Glyph Immersive",
+    "Metadata": {
+      "score": "8",
+      "author": "ikers",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-15T10:46:12.2403257+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49665549"
+    },
+    "Type": 1,
+    "Title": "Forgotten Woodlands",
+    "Url": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
+    "Description": "Forgotten Woodlands",
+    "Metadata": {
+      "score": "67",
+      "author": "NaOH",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-09-15T10:46:12.2876916+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49696697"
+    },
+    "Type": 1,
+    "Title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+    "Url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+    "Description": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+    "Metadata": {
+      "score": "198",
+      "author": "theanonymousone",
+      "commentCount": "204"
+    },
+    "FetchedAt": "2026-09-15T10:46:12.3341846+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49686380"
+    },
+    "Type": 1,
+    "Title": "Ask HN: What are you working on? (September 2026)",
+    "Url": "https://news.ycombinator.com/item?id=49686380",
+    "Description": "What are you working on? What have you been curious about lately?",
+    "Metadata": {
+      "score": "338",
+      "author": "david927",
+      "commentCount": "1042"
+    },
+    "FetchedAt": "2026-09-15T10:46:12.3828246+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49705442"
+    },
+    "Type": 1,
+    "Title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+    "Url": "https://github.com/JamesRyanATX/fcbnerd",
+    "Description": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+    "Metadata": {
+      "score": "75",
+      "author": "fretlessjazz",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-09-15T10:46:12.4293416+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49698607"
+    },
+    "Type": 1,
+    "Title": "Principles for Fast Tokio Applications",
+    "Url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+    "Description": "Principles for Fast Tokio Applications",
+    "Metadata": {
+      "score": "218",
+      "author": "carllerche",
+      "commentCount": "52"
+    },
+    "FetchedAt": "2026-09-15T10:46:12.475631+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49696453"
+    },
+    "Type": 1,
+    "Title": "People who can\u0027t picture anything are rewriting the science of imagination",
+    "Url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
+    "Description": "People who can\u0027t picture anything are rewriting the science of imagination",
+    "Metadata": {
+      "score": "176",
+      "author": "giuliomagnifico",
+      "commentCount": "249"
+    },
+    "FetchedAt": "2026-09-15T10:46:12.5222686+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49708993"
+    },
+    "Type": 1,
+    "Title": "CSS-Tricks in Limbo",
+    "Url": "https://vale.rocks/micros/20260915-0135",
+    "Description": "CSS-Tricks in Limbo",
+    "Metadata": {
+      "score": "5",
+      "author": "edent",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-15T10:46:12.5680341+00:00"
   }
 ]
