@@ -1,0 +1,608 @@
+{
+  "Id": "2026-09-16",
+  "GeneratedAt": "2026-09-16T03:41:56.8312126+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:alibaba/open-code-review"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM A"
+      },
+      "Description": "Fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comme",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:JustVugg/colibri"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immens"
+      },
+      "Description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \uD83D\uDC26",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:debpalash/VoiceStudio"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictati"
+      },
+      "Description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription \u0026 audiobook ",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:melgarafael/DeskcommCRM"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents \u002B WhatsApp (WAHA). Open alternative to Kommo, Octadesk \u0026"
+      },
+      "Description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents \u002B WhatsApp (WAHA). Open alternative to Kommo, Octadesk \u0026 Intercom for any business tha",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:alphaXiv/OpenResearch"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Turn your coding agents into research agents"
+      },
+      "Description": "Turn your coding agents into research agents",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:NationalSecurityAgency/ghidra"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Ghidra is a software reverse engineering (SRE) framework"
+      },
+      "Description": "Ghidra is a software reverse engineering (SRE) framework",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:pacifio/atlas"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Source control for agents. Use multiple coding agents, track their changes and query them in one place"
+      },
+      "Description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:MG1937/ASC"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers."
+      },
+      "Description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:addyosmani/agent-skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Production-grade engineering skills for AI coding agents."
+      },
+      "Description": "Production-grade engineering skills for AI coding agents.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:earendil-works/pi"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI"
+      },
+      "Description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49717558"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Introducing System One Models and Jev"
+      },
+      "Description": "Introducing System One Models and Jev",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49711544"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "See also: \u003Ci\u003EAvian Visitors\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48343424\u0022\u003Ehttps:\u0026#x2F;\u0026#x"
+      },
+      "Description": "See also: \u003Ci\u003EAvian Visitors\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48343424\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;i",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49721435"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Cloudflare: Stay discoverable in search while disallowing AI training"
+      },
+      "Description": "Cloudflare: Stay discoverable in search while disallowing AI training",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49716176"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "An Update on Wayback Machine Access"
+      },
+      "Description": "An Update on Wayback Machine Access",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49715947"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Gemini 3.8 Live and 3.8 Live Extended Thinking"
+      },
+      "Description": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49718928"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol"
+      },
+      "Description": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49716476"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "We got admin access to Baseten\u0027s production GitHub in 25 minutes"
+      },
+      "Description": "We got admin access to Baseten\u0027s production GitHub in 25 minutes",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49719938"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA"
+      },
+      "Description": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49680916"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Sierra digital cameras on the Apple II"
+      },
+      "Description": "Sierra digital cameras on the Apple II",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49717638"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Building a Linux GPU Driver for the M4 Mac Mini in One Month"
+      },
+      "Description": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49720164"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Saving Jet Fuel"
+      },
+      "Description": "Saving Jet Fuel",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49718822"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Jean-Pierre Serre is 100 years old today"
+      },
+      "Description": "Jean-Pierre Serre is 100 years old today",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49716953"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Chopping up books when they\u0027re physically too big"
+      },
+      "Description": "Chopping up books when they\u0027re physically too big",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49717280"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;arxiv.org\u0026#x2F;abs\u0026#x2F;2609.13443\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;arxiv.org\u0026#x2F;abs\u0026#x2F;"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;arxiv.org\u0026#x2F;abs\u0026#x2F;2609.13443\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;arxiv.org\u0026#x2F;abs\u0026#x2F;2609.13443\u003C/a\u003E",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49692510"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Beauty of Roundabouts"
+      },
+      "Description": "The Beauty of Roundabouts",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49717605"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "WangNet \u2013 1.8 MB, zero-dependency Numberwang adjudication in 11 languages"
+      },
+      "Description": "WangNet \u2013 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49712278"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hey HN,\u003Cp\u003EI always had the problem that building HTML pages is really simple now, but trying to save data required hosti"
+      },
+      "Description": "Hey HN,\u003Cp\u003EI always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing i",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49710109"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Let\u0027s make quality the norm again"
+      },
+      "Description": "Let\u0027s make quality the norm again",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49704132"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals"
+      },
+      "Description": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49710253"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Suspected sabotage causes major Netherlands rail disruption"
+      },
+      "Description": "Suspected sabotage causes major Netherlands rail disruption",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49700928"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;0DxNV\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;0DxNV\u003C/a\u003E"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;0DxNV\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;0DxNV\u003C/a\u003E",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49713894"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hi HN - long-time lurker (since 2012!), first time poster.\u003Cp\u003EPizza Bot is a self-hosted desktop app for Mac, Windows, an"
+      },
+      "Description": "Hi HN - long-time lurker (since 2012!), first time poster.\u003Cp\u003EPizza Bot is a self-hosted desktop app for Mac, Windows, and Linux that runs AI agents in",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49712102"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Show HN: Hacking a $20 4G wireless hotspot into a texting device"
+      },
+      "Description": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49697496"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Most people prefer traditional architecture"
+      },
+      "Description": "Most people prefer traditional architecture",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49715446"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)"
+      },
+      "Description": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49679949"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Data races and the limits of ThreadSanitizer in C and Go"
+      },
+      "Description": "Data races and the limits of ThreadSanitizer in C and Go",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49713999"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Cartesian \u2013 AI 3D Modeling for Design"
+      },
+      "Description": "Cartesian \u2013 AI 3D Modeling for Design",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49713262"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The CSS Zen Garden dream, finally shipped"
+      },
+      "Description": "The CSS Zen Garden dream, finally shipped",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49713024"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Inference Hardware Revolution of 2026"
+      },
+      "Description": "The Inference Hardware Revolution of 2026",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49715590"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "GEFS on OpenBSD: A Early Preview"
+      },
+      "Description": "GEFS on OpenBSD: A Early Preview",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 40 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
