@@ -1,0 +1,283 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:alibaba/open-code-review"
+    },
+    "Type": 0,
+    "Title": "alibaba/open-code-review",
+    "Url": "https://github.com/alibaba/open-code-review",
+    "Description": "Fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
+    "Metadata": {
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "language": "Go",
+      "stars": "3,231",
+      "topics": "agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context"
+    },
+    "FetchedAt": "2026-09-17T02:43:47.8127413+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cloudflare/security-audit-skill"
+    },
+    "Type": 0,
+    "Title": "cloudflare/security-audit-skill",
+    "Url": "https://github.com/cloudflare/security-audit-skill",
+    "Description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "Metadata": {
+      "owner": "cloudflare",
+      "repo": "security-audit-skill",
+      "language": "JavaScript",
+      "stars": "927"
+    },
+    "FetchedAt": "2026-09-17T02:43:48.0055167+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:JustVugg/colibri"
+    },
+    "Type": 0,
+    "Title": "JustVugg/colibri",
+    "Url": "https://github.com/JustVugg/colibri",
+    "Description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \uD83D\uDC26",
+    "Metadata": {
+      "owner": "JustVugg",
+      "repo": "colibri",
+      "language": "C",
+      "stars": "1,546"
+    },
+    "FetchedAt": "2026-09-17T02:43:48.1413453+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:abue-ammar/tinycast"
+    },
+    "Type": 0,
+    "Title": "abue-ammar/tinycast",
+    "Url": "https://github.com/abue-ammar/tinycast",
+    "Description": "Tinycast \u2014 a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+    "Metadata": {
+      "owner": "abue-ammar",
+      "repo": "tinycast",
+      "language": "Swift",
+      "stars": "1,179"
+    },
+    "FetchedAt": "2026-09-17T02:43:48.2887285+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jamiepine/voicebox"
+    },
+    "Type": 0,
+    "Title": "jamiepine/voicebox",
+    "Url": "https://github.com/jamiepine/voicebox",
+    "Description": "The open-source AI voice studio. Clone, dictate, create.",
+    "Metadata": {
+      "owner": "jamiepine",
+      "repo": "voicebox",
+      "language": "TypeScript",
+      "stars": "417",
+      "topics": "ai, cuda, mlx, qwen3-tts, qwen3-tts-ui, voice-ai, voice-clone, whisper"
+    },
+    "FetchedAt": "2026-09-17T02:43:48.4040947+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/knowledge-work-plugins"
+    },
+    "Type": 0,
+    "Title": "anthropics/knowledge-work-plugins",
+    "Url": "https://github.com/anthropics/knowledge-work-plugins",
+    "Description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "knowledge-work-plugins",
+      "language": "Python",
+      "stars": "110"
+    },
+    "FetchedAt": "2026-09-17T02:43:48.5249053+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ankitects/anki"
+    },
+    "Type": 0,
+    "Title": "ankitects/anki",
+    "Url": "https://github.com/ankitects/anki",
+    "Description": "Anki is a smart spaced repetition flashcard program",
+    "Metadata": {
+      "owner": "ankitects",
+      "repo": "anki",
+      "language": "Rust",
+      "stars": "58"
+    },
+    "FetchedAt": "2026-09-17T02:43:48.6517107+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NationalSecurityAgency/ghidra"
+    },
+    "Type": 0,
+    "Title": "NationalSecurityAgency/ghidra",
+    "Url": "https://github.com/NationalSecurityAgency/ghidra",
+    "Description": "Ghidra is a software reverse engineering (SRE) framework",
+    "Metadata": {
+      "owner": "NationalSecurityAgency",
+      "repo": "ghidra",
+      "language": "Java",
+      "stars": "1,059",
+      "topics": "disassembler, reverse-engineering, software-analysis"
+    },
+    "FetchedAt": "2026-09-17T02:43:48.7910467+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-code"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-code",
+    "Url": "https://github.com/anthropics/claude-code",
+    "Description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-code",
+      "language": "TypeScript",
+      "stars": "165"
+    },
+    "FetchedAt": "2026-09-17T02:43:48.9290159+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:roboflow/supervision"
+    },
+    "Type": 0,
+    "Title": "roboflow/supervision",
+    "Url": "https://github.com/roboflow/supervision",
+    "Description": "We write your reusable computer vision tools. \uD83D\uDC9C",
+    "Metadata": {
+      "owner": "roboflow",
+      "repo": "supervision",
+      "language": "Python",
+      "stars": "260",
+      "topics": "classification, coco, computer-vision, deep-learning, hacktoberfest, image-processing, instance-segmentation, low-code, machine-learning, metrics, object-detection, oriented-bounding-box, pascal-voc, python, pytorch, tensorflow, tracking, video-processing, yolo"
+    },
+    "FetchedAt": "2026-09-17T02:43:49.0852668+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alphaXiv/OpenResearch"
+    },
+    "Type": 0,
+    "Title": "alphaXiv/OpenResearch",
+    "Url": "https://github.com/alphaXiv/OpenResearch",
+    "Description": "Turn your coding agents into research agents",
+    "Metadata": {
+      "owner": "alphaXiv",
+      "repo": "OpenResearch",
+      "language": "Rust",
+      "stars": "1,017"
+    },
+    "FetchedAt": "2026-09-17T02:43:49.3167496+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:rlaope/oh-my-hermes"
+    },
+    "Type": 0,
+    "Title": "rlaope/oh-my-hermes",
+    "Url": "https://github.com/rlaope/oh-my-hermes",
+    "Description": "All in one plugin for Hermes Agent \u269A the coding intelligence, a long-term memory system and model optimized workflow packages",
+    "Metadata": {
+      "owner": "rlaope",
+      "repo": "oh-my-hermes",
+      "language": "Python",
+      "stars": "80",
+      "topics": "agent, ai, ai-agent, ai-tools, claude-code, codex, hermes-agent, hermes-skill, skills"
+    },
+    "FetchedAt": "2026-09-17T02:43:49.4397092+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Tencent/WeKnora"
+    },
+    "Type": 0,
+    "Title": "Tencent/WeKnora",
+    "Url": "https://github.com/Tencent/WeKnora",
+    "Description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "Metadata": {
+      "owner": "Tencent",
+      "repo": "WeKnora",
+      "language": "Go",
+      "stars": "1,197",
+      "topics": "agent, agentic, ai, chatbot, dsh-plugin, embeddings, evaluation, generative-ai, golang, knowledge-base, llm, multi-tenant, ollama, openai, question-answering, rag, reranking, semantic-search, vector-search, wiki"
+    },
+    "FetchedAt": "2026-09-17T02:43:49.5991119+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:SnailSploit/Claude-Red"
+    },
+    "Type": 0,
+    "Title": "SnailSploit/Claude-Red",
+    "Url": "https://github.com/SnailSploit/Claude-Red",
+    "Description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface \u2014 from SQLi to shellcode, EDR evasion to exploit development.",
+    "Metadata": {
+      "owner": "SnailSploit",
+      "repo": "Claude-Red",
+      "language": "Python",
+      "stars": "367",
+      "topics": "claude-ai, claude-pt, claude-skills, redteam, redteam-tools, skills"
+    },
+    "FetchedAt": "2026-09-17T02:43:49.7234597+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:multimodal-art-projection/YuE"
+    },
+    "Type": 0,
+    "Title": "multimodal-art-projection/YuE",
+    "Url": "https://github.com/multimodal-art-projection/YuE",
+    "Description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+    "Metadata": {
+      "owner": "multimodal-art-projection",
+      "repo": "YuE",
+      "language": "Python",
+      "stars": "332",
+      "topics": "ai, audio-generation, deep-learning, foundation-models, gpt, huggingface, llama, llms, music-generation, style-transfers, voice-cloning"
+    },
+    "FetchedAt": "2026-09-17T02:43:49.8634096+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "JavaScript",
+      "stars": "658",
+      "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
+    },
+    "FetchedAt": "2026-09-17T02:43:49.9933713+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cline/cline"
+    },
+    "Type": 0,
+    "Title": "cline/cline",
+    "Url": "https://github.com/cline/cline",
+    "Description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+    "Metadata": {
+      "owner": "cline",
+      "repo": "cline",
+      "language": "TypeScript",
+      "stars": "112"
+    },
+    "FetchedAt": "2026-09-17T02:43:50.1286401+00:00"
+  }
+]

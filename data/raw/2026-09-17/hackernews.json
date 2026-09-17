@@ -1,0 +1,452 @@
+[
+  {
+    "ExternalId": {
+      "Value": "hn:49724881"
+    },
+    "Type": 1,
+    "Title": "Nvidia announces native GPU programming in Rust",
+    "Url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+    "Description": "Nvidia announces native GPU programming in Rust",
+    "Metadata": {
+      "score": "338",
+      "author": "nonmaskable",
+      "commentCount": "133"
+    },
+    "FetchedAt": "2026-09-17T02:43:50.5057908+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49731285"
+    },
+    "Type": 1,
+    "Title": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "Url": "https://rohanbansal.com/qorl",
+    "Description": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "Metadata": {
+      "score": "421",
+      "author": "polyphilz",
+      "commentCount": "85"
+    },
+    "FetchedAt": "2026-09-17T02:43:50.5435533+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49732270"
+    },
+    "Type": 1,
+    "Title": "Xiaomi Mimo 2.6 live post-training dashboard",
+    "Url": "https://mimo.xiaomi.com/rl/",
+    "Description": "Xiaomi Mimo 2.6 live post-training dashboard",
+    "Metadata": {
+      "score": "283",
+      "author": "krackers",
+      "commentCount": "72"
+    },
+    "FetchedAt": "2026-09-17T02:43:50.5804404+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49732931"
+    },
+    "Type": 1,
+    "Title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+    "Url": "https://arxiv.org/abs/2609.16338",
+    "Description": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+    "Metadata": {
+      "score": "148",
+      "author": "matt_d",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-09-17T02:43:50.6175304+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49732513"
+    },
+    "Type": 1,
+    "Title": "Backups Aren\u0027t Simple",
+    "Url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+    "Description": "Backups Aren\u0027t Simple",
+    "Metadata": {
+      "score": "102",
+      "author": "afilipovski",
+      "commentCount": "45"
+    },
+    "FetchedAt": "2026-09-17T02:43:50.6546452+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49729000"
+    },
+    "Type": 1,
+    "Title": "Small programming tricks",
+    "Url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+    "Description": "Small programming tricks",
+    "Metadata": {
+      "score": "413",
+      "author": "signa11",
+      "commentCount": "187"
+    },
+    "FetchedAt": "2026-09-17T02:43:50.6908567+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49719596"
+    },
+    "Type": 1,
+    "Title": "The engineering behind the US Strategic Petroleum Reserve",
+    "Url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+    "Description": "The engineering behind the US Strategic Petroleum Reserve",
+    "Metadata": {
+      "score": "120",
+      "author": "johnjwang",
+      "commentCount": "44"
+    },
+    "FetchedAt": "2026-09-17T02:43:50.7280587+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49700153"
+    },
+    "Type": 1,
+    "Title": "Developing provably correct Rust code with Verus",
+    "Url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+    "Description": "Developing provably correct Rust code with Verus",
+    "Metadata": {
+      "score": "29",
+      "author": "Betelbuddy",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-09-17T02:43:50.7656706+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49734264"
+    },
+    "Type": 1,
+    "Title": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
+    "Url": "https://openspec.dev/",
+    "Description": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
+    "Metadata": {
+      "score": "77",
+      "author": "etoxin",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-09-17T02:43:50.8025521+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49734929"
+    },
+    "Type": 1,
+    "Title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+    "Url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
+    "Description": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+    "Metadata": {
+      "score": "24",
+      "author": "gumby",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-09-17T02:43:50.8394511+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49711424"
+    },
+    "Type": 1,
+    "Title": "Performance Improvements in .NET 11",
+    "Url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
+    "Description": "Performance Improvements in .NET 11",
+    "Metadata": {
+      "score": "195",
+      "author": "soheilpro",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-09-17T02:43:50.8761542+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49674451"
+    },
+    "Type": 1,
+    "Title": "Reversing Factorio\u0027s RNG",
+    "Url": "https://gegell.github.io/posts/factorio-rng/",
+    "Description": "Reversing Factorio\u0027s RNG",
+    "Metadata": {
+      "score": "152",
+      "author": "jheitmann",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-09-17T02:43:50.9128804+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49733726"
+    },
+    "Type": 1,
+    "Title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+    "Url": "https://harnesstax.github.io/",
+    "Description": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+    "Metadata": {
+      "score": "46",
+      "author": "matt_d",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-09-17T02:43:50.9504388+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49735410"
+    },
+    "Type": 1,
+    "Title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+    "Url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+    "Description": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+    "Metadata": {
+      "score": "9",
+      "author": "mfiguiere",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-17T02:43:50.9885754+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49677916"
+    },
+    "Type": 1,
+    "Title": "Japan\u0027s book scene is moving from bookstores to libraries",
+    "Url": "https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving",
+    "Description": "Japan\u0027s book scene is moving from bookstores to libraries",
+    "Metadata": {
+      "score": "127",
+      "author": "herbertl",
+      "commentCount": "48"
+    },
+    "FetchedAt": "2026-09-17T02:43:51.0249705+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49711544"
+    },
+    "Type": 1,
+    "Title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+    "Url": "https://github.com/arnegiacomo/fugleramme",
+    "Description": "See also: \u003Ci\u003EAvian Visitors\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48343424\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48343424\u003C/a\u003E - May 2026 (20 comments)",
+    "Metadata": {
+      "score": "2097",
+      "author": "arnemunthekaas",
+      "commentCount": "240"
+    },
+    "FetchedAt": "2026-09-17T02:43:51.0618045+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49734171"
+    },
+    "Type": 1,
+    "Title": "Australia says it could follow Canada in forging deeper ties with EU",
+    "Url": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
+    "Description": "Australia says it could follow Canada in forging deeper ties with EU",
+    "Metadata": {
+      "score": "168",
+      "author": "doener",
+      "commentCount": "111"
+    },
+    "FetchedAt": "2026-09-17T02:43:51.099453+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49731282"
+    },
+    "Type": 1,
+    "Title": "Reverse-engineered Jev-like model",
+    "Url": "https://github.com/vinnylarouge/jevlike",
+    "Description": "Reverse-engineered Jev-like model",
+    "Metadata": {
+      "score": "85",
+      "author": "rochansinha",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-09-17T02:43:51.1365933+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49719249"
+    },
+    "Type": 1,
+    "Title": "AWS says it can\u0027t restore some data from mideast facilities struck by Iran",
+    "Url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;Ay7RJ\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;Ay7RJ\u003C/a\u003E",
+    "Metadata": {
+      "score": "254",
+      "author": "berkeleyjunk",
+      "commentCount": "225"
+    },
+    "FetchedAt": "2026-09-17T02:43:51.1751551+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49692844"
+    },
+    "Type": 1,
+    "Title": "Anecdotally, programmers dislike \u0022reduce\u0022",
+    "Url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+    "Description": "Anecdotally, programmers dislike \u0022reduce\u0022",
+    "Metadata": {
+      "score": "105",
+      "author": "vinhnx",
+      "commentCount": "168"
+    },
+    "FetchedAt": "2026-09-17T02:43:51.2125407+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49732087"
+    },
+    "Type": 1,
+    "Title": "Why Does the Universe Expand?",
+    "Url": "https://cosmicave.org/2026/09/15/why-does-the-universe-expand/",
+    "Description": "Why Does the Universe Expand?",
+    "Metadata": {
+      "score": "39",
+      "author": "the__alchemist",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-09-17T02:43:51.2494743+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49726955"
+    },
+    "Type": 1,
+    "Title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+    "Url": "https://arxiv.org/abs/2609.14858",
+    "Description": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+    "Metadata": {
+      "score": "182",
+      "author": "bananaflag",
+      "commentCount": "49"
+    },
+    "FetchedAt": "2026-09-17T02:43:51.2856786+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49727592"
+    },
+    "Type": 1,
+    "Title": "Anatomy of a Texture",
+    "Url": "https://agentlien.github.io/texture/",
+    "Description": "I just uploaded a new article describing how a modern video game texture is stored in graphics memory, why it\u0026#x27;s done this way, and how it may differ between platforms.\u003Cp\u003EIt is called Anatomy of a Texture.",
+    "Metadata": {
+      "score": "79",
+      "author": "Agentlien",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-09-17T02:43:51.324366+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49727659"
+    },
+    "Type": 1,
+    "Title": "The DeepMind Institute",
+    "Url": "https://institute.deepmind.com/",
+    "Description": "The DeepMind Institute",
+    "Metadata": {
+      "score": "153",
+      "author": "vertigoruntime",
+      "commentCount": "45"
+    },
+    "FetchedAt": "2026-09-17T02:43:51.3605872+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49731360"
+    },
+    "Type": 1,
+    "Title": "Accurate Models of AMD Matrix Cores",
+    "Url": "https://arxiv.org/abs/2609.14845",
+    "Description": "Accurate Models of AMD Matrix Cores",
+    "Metadata": {
+      "score": "64",
+      "author": "matt_d",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-09-17T02:43:51.3975705+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49717525"
+    },
+    "Type": 1,
+    "Title": "Mapsnap: Automated Georeferencing for Historic Sanborn Insurance Maps",
+    "Url": "https://www.danvk.org/2026/09/10/mapsnap.html",
+    "Description": "Mapsnap: Automated Georeferencing for Historic Sanborn Insurance Maps",
+    "Metadata": {
+      "score": "4",
+      "author": "evakhoury",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-17T02:43:51.434268+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49726586"
+    },
+    "Type": 1,
+    "Title": "Hackers Got Inside a Flock Camera",
+    "Url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;micahflee.com\u0026#x2F;flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;micahflee.com\u0026#x2F;flock-cameras-are-riddled-with-securit...\u003C/a\u003E",
+    "Metadata": {
+      "score": "482",
+      "author": "driverdan",
+      "commentCount": "219"
+    },
+    "FetchedAt": "2026-09-17T02:43:51.4709425+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49729816"
+    },
+    "Type": 1,
+    "Title": "Training Text-to-Image Models 3.6\u00D7 Faster",
+    "Url": "https://www.linum.ai/field-notes/jit-ddt",
+    "Description": "Training Text-to-Image Models 3.6\u00D7 Faster",
+    "Metadata": {
+      "score": "40",
+      "author": "schopra909",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-09-17T02:43:51.5082996+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49726501"
+    },
+    "Type": 1,
+    "Title": "I replaced my brown-noise browser tab with a menu bar app",
+    "Url": "https://oldmanrahul.com/2026/09/14/hush/",
+    "Description": "I replaced my brown-noise browser tab with a menu bar app",
+    "Metadata": {
+      "score": "25",
+      "author": "oldmanrahul",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-09-17T02:43:51.5464057+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49660791"
+    },
+    "Type": 1,
+    "Title": "WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL",
+    "Url": "https://clickhouse.com/blog/introducing-walshadow",
+    "Description": "WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL",
+    "Metadata": {
+      "score": "47",
+      "author": "spathak",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-09-17T02:43:51.583792+00:00"
+  }
+]
