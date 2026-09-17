@@ -1,201 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:49724881"
-    },
-    "Type": 1,
-    "Title": "Nvidia announces native GPU programming in Rust",
-    "Url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-    "Description": "Nvidia announces native GPU programming in Rust",
-    "Metadata": {
-      "score": "338",
-      "author": "nonmaskable",
-      "commentCount": "133"
-    },
-    "FetchedAt": "2026-09-17T02:43:50.5057908+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49731285"
-    },
-    "Type": 1,
-    "Title": "Training a 4B model to produce 81% faster query plans than Postgres",
-    "Url": "https://rohanbansal.com/qorl",
-    "Description": "Training a 4B model to produce 81% faster query plans than Postgres",
-    "Metadata": {
-      "score": "421",
-      "author": "polyphilz",
-      "commentCount": "85"
-    },
-    "FetchedAt": "2026-09-17T02:43:50.5435533+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49732270"
-    },
-    "Type": 1,
-    "Title": "Xiaomi Mimo 2.6 live post-training dashboard",
-    "Url": "https://mimo.xiaomi.com/rl/",
-    "Description": "Xiaomi Mimo 2.6 live post-training dashboard",
-    "Metadata": {
-      "score": "283",
-      "author": "krackers",
-      "commentCount": "72"
-    },
-    "FetchedAt": "2026-09-17T02:43:50.5804404+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49732931"
-    },
-    "Type": 1,
-    "Title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-    "Url": "https://arxiv.org/abs/2609.16338",
-    "Description": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-    "Metadata": {
-      "score": "148",
-      "author": "matt_d",
-      "commentCount": "20"
-    },
-    "FetchedAt": "2026-09-17T02:43:50.6175304+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49732513"
-    },
-    "Type": 1,
-    "Title": "Backups Aren\u0027t Simple",
-    "Url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
-    "Description": "Backups Aren\u0027t Simple",
-    "Metadata": {
-      "score": "102",
-      "author": "afilipovski",
-      "commentCount": "45"
-    },
-    "FetchedAt": "2026-09-17T02:43:50.6546452+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49729000"
-    },
-    "Type": 1,
-    "Title": "Small programming tricks",
-    "Url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-    "Description": "Small programming tricks",
-    "Metadata": {
-      "score": "413",
-      "author": "signa11",
-      "commentCount": "187"
-    },
-    "FetchedAt": "2026-09-17T02:43:50.6908567+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49719596"
-    },
-    "Type": 1,
-    "Title": "The engineering behind the US Strategic Petroleum Reserve",
-    "Url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
-    "Description": "The engineering behind the US Strategic Petroleum Reserve",
-    "Metadata": {
-      "score": "120",
-      "author": "johnjwang",
-      "commentCount": "44"
-    },
-    "FetchedAt": "2026-09-17T02:43:50.7280587+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49700153"
-    },
-    "Type": 1,
-    "Title": "Developing provably correct Rust code with Verus",
-    "Url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
-    "Description": "Developing provably correct Rust code with Verus",
-    "Metadata": {
-      "score": "29",
-      "author": "Betelbuddy",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-09-17T02:43:50.7656706+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49734264"
-    },
-    "Type": 1,
-    "Title": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
-    "Url": "https://openspec.dev/",
-    "Description": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
-    "Metadata": {
-      "score": "77",
-      "author": "etoxin",
-      "commentCount": "31"
-    },
-    "FetchedAt": "2026-09-17T02:43:50.8025521+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49734929"
-    },
-    "Type": 1,
-    "Title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-    "Url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
-    "Description": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-    "Metadata": {
-      "score": "24",
-      "author": "gumby",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-09-17T02:43:50.8394511+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49711424"
-    },
-    "Type": 1,
-    "Title": "Performance Improvements in .NET 11",
-    "Url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
-    "Description": "Performance Improvements in .NET 11",
-    "Metadata": {
-      "score": "195",
-      "author": "soheilpro",
-      "commentCount": "37"
-    },
-    "FetchedAt": "2026-09-17T02:43:50.8761542+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49674451"
-    },
-    "Type": 1,
-    "Title": "Reversing Factorio\u0027s RNG",
-    "Url": "https://gegell.github.io/posts/factorio-rng/",
-    "Description": "Reversing Factorio\u0027s RNG",
-    "Metadata": {
-      "score": "152",
-      "author": "jheitmann",
-      "commentCount": "20"
-    },
-    "FetchedAt": "2026-09-17T02:43:50.9128804+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49733726"
-    },
-    "Type": 1,
-    "Title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
-    "Url": "https://harnesstax.github.io/",
-    "Description": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
-    "Metadata": {
-      "score": "46",
-      "author": "matt_d",
-      "commentCount": "14"
-    },
-    "FetchedAt": "2026-09-17T02:43:50.9504388+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49735410"
     },
     "Type": 1,
@@ -208,36 +13,6 @@
       "commentCount": "0"
     },
     "FetchedAt": "2026-09-17T02:43:50.9885754+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49677916"
-    },
-    "Type": 1,
-    "Title": "Japan\u0027s book scene is moving from bookstores to libraries",
-    "Url": "https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving",
-    "Description": "Japan\u0027s book scene is moving from bookstores to libraries",
-    "Metadata": {
-      "score": "127",
-      "author": "herbertl",
-      "commentCount": "48"
-    },
-    "FetchedAt": "2026-09-17T02:43:51.0249705+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49711544"
-    },
-    "Type": 1,
-    "Title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-    "Url": "https://github.com/arnegiacomo/fugleramme",
-    "Description": "See also: \u003Ci\u003EAvian Visitors\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48343424\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48343424\u003C/a\u003E - May 2026 (20 comments)",
-    "Metadata": {
-      "score": "2097",
-      "author": "arnemunthekaas",
-      "commentCount": "240"
-    },
-    "FetchedAt": "2026-09-17T02:43:51.0618045+00:00"
   },
   {
     "ExternalId": {
@@ -268,21 +43,6 @@
       "commentCount": "13"
     },
     "FetchedAt": "2026-09-17T02:43:51.1365933+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49719249"
-    },
-    "Type": 1,
-    "Title": "AWS says it can\u0027t restore some data from mideast facilities struck by Iran",
-    "Url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;Ay7RJ\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;Ay7RJ\u003C/a\u003E",
-    "Metadata": {
-      "score": "254",
-      "author": "berkeleyjunk",
-      "commentCount": "225"
-    },
-    "FetchedAt": "2026-09-17T02:43:51.1751551+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +208,455 @@
       "commentCount": "6"
     },
     "FetchedAt": "2026-09-17T02:43:51.583792+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49737849"
+    },
+    "Type": 1,
+    "Title": "One Year of Sponsored Servo Development",
+    "Url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+    "Description": "One Year of Sponsored Servo Development",
+    "Metadata": {
+      "score": "88",
+      "author": "AshleysBrain",
+      "commentCount": "40"
+    },
+    "FetchedAt": "2026-09-17T10:44:03.8216664+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49737922"
+    },
+    "Type": 1,
+    "Title": "GLM Built Its Own Inference Infrastructure",
+    "Url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+    "Description": "GLM Built Its Own Inference Infrastructure",
+    "Metadata": {
+      "score": "50",
+      "author": "whiteros_e",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-09-17T10:44:03.8666936+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49724881"
+    },
+    "Type": 1,
+    "Title": "Nvidia announces native GPU programming in Rust",
+    "Url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+    "Description": "Nvidia announces native GPU programming in Rust",
+    "Metadata": {
+      "score": "706",
+      "author": "nonmaskable",
+      "commentCount": "288"
+    },
+    "FetchedAt": "2026-09-17T10:44:03.9114752+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49735930"
+    },
+    "Type": 1,
+    "Title": "Keys Not Included: recovering the signing keys for US driver\u0027s license barcodes",
+    "Url": "https://ryan.science/blog/keys-not-included",
+    "Description": "Keys Not Included: recovering the signing keys for US driver\u0027s license barcodes",
+    "Metadata": {
+      "score": "179",
+      "author": "Ryan5453",
+      "commentCount": "65"
+    },
+    "FetchedAt": "2026-09-17T10:44:03.9559337+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49718773"
+    },
+    "Type": 1,
+    "Title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I\u0027m deprecating it",
+    "Url": "https://jakeasmith.com/blog/http-build-url/",
+    "Description": "My temporary PHP fix from 2014 has nearly 20M installs. Today I\u0027m deprecating it",
+    "Metadata": {
+      "score": "122",
+      "author": "jakeasmith",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-09-17T10:44:04.0010526+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49685835"
+    },
+    "Type": 1,
+    "Title": "The Relation Between Mathematics and Physics by Paul Dirac",
+    "Url": "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html",
+    "Description": "The Relation Between Mathematics and Physics by Paul Dirac",
+    "Metadata": {
+      "score": "54",
+      "author": "rramadass",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-09-17T10:44:04.0455532+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49731285"
+    },
+    "Type": 1,
+    "Title": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "Url": "https://rohanbansal.com/qorl",
+    "Description": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "Metadata": {
+      "score": "560",
+      "author": "polyphilz",
+      "commentCount": "118"
+    },
+    "FetchedAt": "2026-09-17T10:44:04.0901753+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49738766"
+    },
+    "Type": 1,
+    "Title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+    "Url": "https://manticoresearch.com/blog/auto-chunking/",
+    "Description": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+    "Metadata": {
+      "score": "3",
+      "author": "GloriaVinogrado",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-17T10:44:04.1345223+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49737503"
+    },
+    "Type": 1,
+    "Title": "OpenAI Model Misalignment Report",
+    "Url": "https://openai.com/index/model-misalignment-reporting-framework/",
+    "Description": "OpenAI Model Misalignment Report",
+    "Metadata": {
+      "score": "31",
+      "author": "qprofyeh",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-09-17T10:44:04.1788187+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49732270"
+    },
+    "Type": 1,
+    "Title": "Xiaomi Mimo 2.6 live post-training dashboard",
+    "Url": "https://mimo.xiaomi.com/rl/",
+    "Description": "Xiaomi Mimo 2.6 live post-training dashboard",
+    "Metadata": {
+      "score": "440",
+      "author": "krackers",
+      "commentCount": "116"
+    },
+    "FetchedAt": "2026-09-17T10:44:04.2232736+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49719751"
+    },
+    "Type": 1,
+    "Title": "Lucasart\u0027s Afterlife",
+    "Url": "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/",
+    "Description": "Lucasart\u0027s Afterlife",
+    "Metadata": {
+      "score": "26",
+      "author": "Bondi_Blue",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-09-17T10:44:04.26837+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49715318"
+    },
+    "Type": 1,
+    "Title": "Comparison of Malloc() Algorithms",
+    "Url": "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html",
+    "Description": "Comparison of Malloc() Algorithms",
+    "Metadata": {
+      "score": "77",
+      "author": "egberts1",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-09-17T10:44:04.3130198+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49736466"
+    },
+    "Type": 1,
+    "Title": "Cloudflare/Security-Audit-Skill",
+    "Url": "https://github.com/cloudflare/security-audit-skill",
+    "Description": "Cloudflare/Security-Audit-Skill",
+    "Metadata": {
+      "score": "69",
+      "author": "donk8r",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-09-17T10:44:04.3574108+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49732513"
+    },
+    "Type": 1,
+    "Title": "Backups Aren\u0027t Simple",
+    "Url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+    "Description": "Backups Aren\u0027t Simple",
+    "Metadata": {
+      "score": "245",
+      "author": "afilipovski",
+      "commentCount": "147"
+    },
+    "FetchedAt": "2026-09-17T10:44:04.4016734+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49729000"
+    },
+    "Type": 1,
+    "Title": "Small programming tricks",
+    "Url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+    "Description": "Small programming tricks",
+    "Metadata": {
+      "score": "528",
+      "author": "signa11",
+      "commentCount": "239"
+    },
+    "FetchedAt": "2026-09-17T10:44:04.4461812+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49713347"
+    },
+    "Type": 1,
+    "Title": "Online Z3 Guide",
+    "Url": "https://microsoft.github.io/z3guide/",
+    "Description": "Online Z3 Guide",
+    "Metadata": {
+      "score": "5",
+      "author": "Bluestein",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-17T10:44:04.4909174+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49700153"
+    },
+    "Type": 1,
+    "Title": "Developing provably correct Rust code with Verus",
+    "Url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+    "Description": "Developing provably correct Rust code with Verus",
+    "Metadata": {
+      "score": "116",
+      "author": "Betelbuddy",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-09-17T10:44:04.5359594+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49732931"
+    },
+    "Type": 1,
+    "Title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+    "Url": "https://arxiv.org/abs/2609.16338",
+    "Description": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+    "Metadata": {
+      "score": "209",
+      "author": "matt_d",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-09-17T10:44:04.5804196+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49721291"
+    },
+    "Type": 1,
+    "Title": "A 32-year-old bug walks into a Telnet server",
+    "Url": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/",
+    "Description": "A 32-year-old bug walks into a Telnet server",
+    "Metadata": {
+      "score": "62",
+      "author": "paimapi",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-09-17T10:44:04.625064+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49719596"
+    },
+    "Type": 1,
+    "Title": "The engineering behind the US Strategic Petroleum Reserve",
+    "Url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+    "Description": "The engineering behind the US Strategic Petroleum Reserve",
+    "Metadata": {
+      "score": "210",
+      "author": "johnjwang",
+      "commentCount": "80"
+    },
+    "FetchedAt": "2026-09-17T10:44:04.6697674+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49711544"
+    },
+    "Type": 1,
+    "Title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+    "Url": "https://github.com/arnegiacomo/fugleramme",
+    "Description": "See also: \u003Ci\u003EAvian Visitors\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48343424\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48343424\u003C/a\u003E - May 2026 (20 comments)",
+    "Metadata": {
+      "score": "2171",
+      "author": "arnemunthekaas",
+      "commentCount": "243"
+    },
+    "FetchedAt": "2026-09-17T10:44:04.714899+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49719249"
+    },
+    "Type": 1,
+    "Title": "AWS says it can\u0027t restore some data from mideast facilities struck by Iran",
+    "Url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;Ay7RJ\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;Ay7RJ\u003C/a\u003E",
+    "Metadata": {
+      "score": "411",
+      "author": "berkeleyjunk",
+      "commentCount": "342"
+    },
+    "FetchedAt": "2026-09-17T10:44:04.7592966+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49734929"
+    },
+    "Type": 1,
+    "Title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+    "Url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
+    "Description": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+    "Metadata": {
+      "score": "96",
+      "author": "gumby",
+      "commentCount": "64"
+    },
+    "FetchedAt": "2026-09-17T10:44:04.8044085+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49733726"
+    },
+    "Type": 1,
+    "Title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+    "Url": "https://harnesstax.github.io/",
+    "Description": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+    "Metadata": {
+      "score": "132",
+      "author": "matt_d",
+      "commentCount": "54"
+    },
+    "FetchedAt": "2026-09-17T10:44:04.8494179+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49695689"
+    },
+    "Type": 1,
+    "Title": "PCB is brought to you by Fable 5",
+    "Url": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
+    "Description": "PCB is brought to you by Fable 5",
+    "Metadata": {
+      "score": "110",
+      "author": "jasonpeacock",
+      "commentCount": "53"
+    },
+    "FetchedAt": "2026-09-17T10:44:04.8938894+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49711424"
+    },
+    "Type": 1,
+    "Title": "Performance Improvements in .NET 11",
+    "Url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
+    "Description": "Performance Improvements in .NET 11",
+    "Metadata": {
+      "score": "295",
+      "author": "soheilpro",
+      "commentCount": "64"
+    },
+    "FetchedAt": "2026-09-17T10:44:04.9382047+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49677916"
+    },
+    "Type": 1,
+    "Title": "Japan\u0027s book scene is moving from bookstores to libraries",
+    "Url": "https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving",
+    "Description": "Japan\u0027s book scene is moving from bookstores to libraries",
+    "Metadata": {
+      "score": "195",
+      "author": "herbertl",
+      "commentCount": "79"
+    },
+    "FetchedAt": "2026-09-17T10:44:04.9837267+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49713868"
+    },
+    "Type": 1,
+    "Title": "Back to the future: modules for Guix packages (2022)",
+    "Url": "https://hpc.guix.info/blog/2022/05/back-to-the-future-modules-for-guix-packages/",
+    "Description": "Back to the future: modules for Guix packages (2022)",
+    "Metadata": {
+      "score": "37",
+      "author": "bmacho",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-17T10:44:05.0285304+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49734264"
+    },
+    "Type": 1,
+    "Title": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
+    "Url": "https://openspec.dev/",
+    "Description": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
+    "Metadata": {
+      "score": "139",
+      "author": "etoxin",
+      "commentCount": "63"
+    },
+    "FetchedAt": "2026-09-17T10:44:05.0734081+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49674451"
+    },
+    "Type": 1,
+    "Title": "Reversing Factorio\u0027s RNG",
+    "Url": "https://gegell.github.io/posts/factorio-rng/",
+    "Description": "Reversing Factorio\u0027s RNG",
+    "Metadata": {
+      "score": "212",
+      "author": "jheitmann",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-09-17T10:44:05.1178877+00:00"
   }
 ]
