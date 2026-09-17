@@ -78,10 +78,10 @@
       "owner": "alibaba",
       "repo": "open-code-review",
       "language": "Go",
-      "stars": "3,231",
+      "stars": "3,290",
       "topics": "agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context"
     },
-    "FetchedAt": "2026-09-17T10:44:00.7375046+00:00"
+    "FetchedAt": "2026-09-17T15:57:56.4648555+00:00"
   },
   {
     "ExternalId": {
@@ -95,9 +95,9 @@
       "owner": "cloudflare",
       "repo": "security-audit-skill",
       "language": "JavaScript",
-      "stars": "927"
+      "stars": "3,606"
     },
-    "FetchedAt": "2026-09-17T10:44:01.0104496+00:00"
+    "FetchedAt": "2026-09-17T15:57:56.7617586+00:00"
   },
   {
     "ExternalId": {
@@ -111,10 +111,10 @@
       "owner": "addyosmani",
       "repo": "agent-skills",
       "language": "JavaScript",
-      "stars": "658",
+      "stars": "680",
       "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
     },
-    "FetchedAt": "2026-09-17T10:44:01.1616395+00:00"
+    "FetchedAt": "2026-09-17T15:57:56.9544715+00:00"
   },
   {
     "ExternalId": {
@@ -131,7 +131,7 @@
       "stars": "1,350",
       "topics": "agent, browser-use, dsh-plugin"
     },
-    "FetchedAt": "2026-09-17T10:44:01.3264524+00:00"
+    "FetchedAt": "2026-09-17T15:57:57.0983892+00:00"
   },
   {
     "ExternalId": {
@@ -145,9 +145,9 @@
       "owner": "alphaXiv",
       "repo": "OpenResearch",
       "language": "Rust",
-      "stars": "1,017"
+      "stars": "940"
     },
-    "FetchedAt": "2026-09-17T10:44:01.4797817+00:00"
+    "FetchedAt": "2026-09-17T15:57:57.2774049+00:00"
   },
   {
     "ExternalId": {
@@ -161,9 +161,9 @@
       "owner": "anthropics",
       "repo": "claude-code",
       "language": "TypeScript",
-      "stars": "165"
+      "stars": "538"
     },
-    "FetchedAt": "2026-09-17T10:44:01.6250422+00:00"
+    "FetchedAt": "2026-09-17T15:57:57.4472374+00:00"
   },
   {
     "ExternalId": {
@@ -177,10 +177,10 @@
       "owner": "NationalSecurityAgency",
       "repo": "ghidra",
       "language": "Java",
-      "stars": "1,059",
+      "stars": "912",
       "topics": "disassembler, reverse-engineering, software-analysis"
     },
-    "FetchedAt": "2026-09-17T10:44:01.7774323+00:00"
+    "FetchedAt": "2026-09-17T15:57:57.6327013+00:00"
   },
   {
     "ExternalId": {
@@ -194,9 +194,9 @@
       "owner": "anthropics",
       "repo": "knowledge-work-plugins",
       "language": "Python",
-      "stars": "110"
+      "stars": "287"
     },
-    "FetchedAt": "2026-09-17T10:44:01.9474966+00:00"
+    "FetchedAt": "2026-09-17T15:57:57.8275364+00:00"
   },
   {
     "ExternalId": {
@@ -210,10 +210,10 @@
       "owner": "Tencent",
       "repo": "WeKnora",
       "language": "Go",
-      "stars": "1,197",
+      "stars": "1,123",
       "topics": "agent, agentic, ai, chatbot, dsh-plugin, embeddings, evaluation, generative-ai, golang, knowledge-base, llm, multi-tenant, ollama, openai, question-answering, rag, reranking, semantic-search, vector-search, wiki"
     },
-    "FetchedAt": "2026-09-17T10:44:02.0934154+00:00"
+    "FetchedAt": "2026-09-17T15:57:58.0041132+00:00"
   },
   {
     "ExternalId": {
@@ -227,9 +227,9 @@
       "owner": "abue-ammar",
       "repo": "tinycast",
       "language": "Swift",
-      "stars": "1,179"
+      "stars": "738"
     },
-    "FetchedAt": "2026-09-17T10:44:02.24386+00:00"
+    "FetchedAt": "2026-09-17T15:57:58.2003714+00:00"
   },
   {
     "ExternalId": {
@@ -246,7 +246,7 @@
       "stars": "20",
       "topics": "bpf, cncf, cni, containers, ebpf, k8s, kernel, kubernetes, kubernetes-networking, loadbalancing, monitoring, networking, observability, security, troubleshooting, xdp"
     },
-    "FetchedAt": "2026-09-17T10:44:02.3715476+00:00"
+    "FetchedAt": "2026-09-17T15:57:58.3619685+00:00"
   },
   {
     "ExternalId": {
@@ -260,10 +260,10 @@
       "owner": "jamiepine",
       "repo": "voicebox",
       "language": "TypeScript",
-      "stars": "417",
+      "stars": "665",
       "topics": "ai, cuda, mlx, qwen3-tts, qwen3-tts-ui, voice-ai, voice-clone, whisper"
     },
-    "FetchedAt": "2026-09-17T10:44:02.538643+00:00"
+    "FetchedAt": "2026-09-17T15:57:58.532638+00:00"
   },
   {
     "ExternalId": {
@@ -277,10 +277,10 @@
       "owner": "roboflow",
       "repo": "supervision",
       "language": "Python",
-      "stars": "260",
+      "stars": "327",
       "topics": "classification, coco, computer-vision, deep-learning, hacktoberfest, image-processing, instance-segmentation, low-code, machine-learning, metrics, object-detection, oriented-bounding-box, pascal-voc, python, pytorch, tensorflow, tracking, video-processing, yolo"
     },
-    "FetchedAt": "2026-09-17T10:44:02.6746755+00:00"
+    "FetchedAt": "2026-09-17T15:57:58.6798912+00:00"
   },
   {
     "ExternalId": {
@@ -294,9 +294,9 @@
       "owner": "JustVugg",
       "repo": "colibri",
       "language": "C",
-      "stars": "1,546"
+      "stars": "872"
     },
-    "FetchedAt": "2026-09-17T10:44:02.8492856+00:00"
+    "FetchedAt": "2026-09-17T15:57:58.8919848+00:00"
   },
   {
     "ExternalId": {
@@ -310,10 +310,10 @@
       "owner": "TencentCloud",
       "repo": "Octop",
       "language": "Python",
-      "stars": "396",
+      "stars": "386",
       "topics": "agent, agentic-ai, ai, ai-agent, ai-agents, local-first, long-term-memory"
     },
-    "FetchedAt": "2026-09-17T10:44:02.9974219+00:00"
+    "FetchedAt": "2026-09-17T15:57:59.0609432+00:00"
   },
   {
     "ExternalId": {
@@ -327,9 +327,9 @@
       "owner": "cline",
       "repo": "cline",
       "language": "TypeScript",
-      "stars": "112"
+      "stars": "381"
     },
-    "FetchedAt": "2026-09-17T10:44:03.1330705+00:00"
+    "FetchedAt": "2026-09-17T15:57:59.2271438+00:00"
   },
   {
     "ExternalId": {
@@ -343,10 +343,10 @@
       "owner": "coder",
       "repo": "coder",
       "language": "Go",
-      "stars": "83",
+      "stars": "204",
       "topics": "agents, dev-tools, development-environment, go, golang, ide, jetbrains, remote-development, terraform, vscode"
     },
-    "FetchedAt": "2026-09-17T10:44:03.2965122+00:00"
+    "FetchedAt": "2026-09-17T15:57:59.4080963+00:00"
   },
   {
     "ExternalId": {
@@ -360,9 +360,9 @@
       "owner": "n8n-io",
       "repo": "n8n",
       "language": "TypeScript",
-      "stars": "225",
+      "stars": "319",
       "topics": "ai, apis, automation, cli, data-flow, development, integration-framework, integrations, ipaas, low-code, low-code-platform, mcp, mcp-client, mcp-server, n8n, no-code, self-hosted, typescript, workflow, workflow-automation"
     },
-    "FetchedAt": "2026-09-17T10:44:03.4376577+00:00"
+    "FetchedAt": "2026-09-17T15:57:59.5623353+00:00"
   }
 ]

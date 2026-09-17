@@ -211,126 +211,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49737849"
-    },
-    "Type": 1,
-    "Title": "One Year of Sponsored Servo Development",
-    "Url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-    "Description": "One Year of Sponsored Servo Development",
-    "Metadata": {
-      "score": "88",
-      "author": "AshleysBrain",
-      "commentCount": "40"
-    },
-    "FetchedAt": "2026-09-17T10:44:03.8216664+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49737922"
-    },
-    "Type": 1,
-    "Title": "GLM Built Its Own Inference Infrastructure",
-    "Url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-    "Description": "GLM Built Its Own Inference Infrastructure",
-    "Metadata": {
-      "score": "50",
-      "author": "whiteros_e",
-      "commentCount": "23"
-    },
-    "FetchedAt": "2026-09-17T10:44:03.8666936+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49724881"
-    },
-    "Type": 1,
-    "Title": "Nvidia announces native GPU programming in Rust",
-    "Url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-    "Description": "Nvidia announces native GPU programming in Rust",
-    "Metadata": {
-      "score": "706",
-      "author": "nonmaskable",
-      "commentCount": "288"
-    },
-    "FetchedAt": "2026-09-17T10:44:03.9114752+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49735930"
-    },
-    "Type": 1,
-    "Title": "Keys Not Included: recovering the signing keys for US driver\u0027s license barcodes",
-    "Url": "https://ryan.science/blog/keys-not-included",
-    "Description": "Keys Not Included: recovering the signing keys for US driver\u0027s license barcodes",
-    "Metadata": {
-      "score": "179",
-      "author": "Ryan5453",
-      "commentCount": "65"
-    },
-    "FetchedAt": "2026-09-17T10:44:03.9559337+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49718773"
-    },
-    "Type": 1,
-    "Title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I\u0027m deprecating it",
-    "Url": "https://jakeasmith.com/blog/http-build-url/",
-    "Description": "My temporary PHP fix from 2014 has nearly 20M installs. Today I\u0027m deprecating it",
-    "Metadata": {
-      "score": "122",
-      "author": "jakeasmith",
-      "commentCount": "24"
-    },
-    "FetchedAt": "2026-09-17T10:44:04.0010526+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49685835"
-    },
-    "Type": 1,
-    "Title": "The Relation Between Mathematics and Physics by Paul Dirac",
-    "Url": "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html",
-    "Description": "The Relation Between Mathematics and Physics by Paul Dirac",
-    "Metadata": {
-      "score": "54",
-      "author": "rramadass",
-      "commentCount": "20"
-    },
-    "FetchedAt": "2026-09-17T10:44:04.0455532+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49731285"
-    },
-    "Type": 1,
-    "Title": "Training a 4B model to produce 81% faster query plans than Postgres",
-    "Url": "https://rohanbansal.com/qorl",
-    "Description": "Training a 4B model to produce 81% faster query plans than Postgres",
-    "Metadata": {
-      "score": "560",
-      "author": "polyphilz",
-      "commentCount": "118"
-    },
-    "FetchedAt": "2026-09-17T10:44:04.0901753+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49738766"
-    },
-    "Type": 1,
-    "Title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
-    "Url": "https://manticoresearch.com/blog/auto-chunking/",
-    "Description": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
-    "Metadata": {
-      "score": "3",
-      "author": "GloriaVinogrado",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-09-17T10:44:04.1345223+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49737503"
     },
     "Type": 1,
@@ -343,81 +223,6 @@
       "commentCount": "9"
     },
     "FetchedAt": "2026-09-17T10:44:04.1788187+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49732270"
-    },
-    "Type": 1,
-    "Title": "Xiaomi Mimo 2.6 live post-training dashboard",
-    "Url": "https://mimo.xiaomi.com/rl/",
-    "Description": "Xiaomi Mimo 2.6 live post-training dashboard",
-    "Metadata": {
-      "score": "440",
-      "author": "krackers",
-      "commentCount": "116"
-    },
-    "FetchedAt": "2026-09-17T10:44:04.2232736+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49719751"
-    },
-    "Type": 1,
-    "Title": "Lucasart\u0027s Afterlife",
-    "Url": "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/",
-    "Description": "Lucasart\u0027s Afterlife",
-    "Metadata": {
-      "score": "26",
-      "author": "Bondi_Blue",
-      "commentCount": "17"
-    },
-    "FetchedAt": "2026-09-17T10:44:04.26837+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49715318"
-    },
-    "Type": 1,
-    "Title": "Comparison of Malloc() Algorithms",
-    "Url": "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html",
-    "Description": "Comparison of Malloc() Algorithms",
-    "Metadata": {
-      "score": "77",
-      "author": "egberts1",
-      "commentCount": "12"
-    },
-    "FetchedAt": "2026-09-17T10:44:04.3130198+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49736466"
-    },
-    "Type": 1,
-    "Title": "Cloudflare/Security-Audit-Skill",
-    "Url": "https://github.com/cloudflare/security-audit-skill",
-    "Description": "Cloudflare/Security-Audit-Skill",
-    "Metadata": {
-      "score": "69",
-      "author": "donk8r",
-      "commentCount": "14"
-    },
-    "FetchedAt": "2026-09-17T10:44:04.3574108+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49732513"
-    },
-    "Type": 1,
-    "Title": "Backups Aren\u0027t Simple",
-    "Url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
-    "Description": "Backups Aren\u0027t Simple",
-    "Metadata": {
-      "score": "245",
-      "author": "afilipovski",
-      "commentCount": "147"
-    },
-    "FetchedAt": "2026-09-17T10:44:04.4016734+00:00"
   },
   {
     "ExternalId": {
@@ -436,51 +241,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49713347"
-    },
-    "Type": 1,
-    "Title": "Online Z3 Guide",
-    "Url": "https://microsoft.github.io/z3guide/",
-    "Description": "Online Z3 Guide",
-    "Metadata": {
-      "score": "5",
-      "author": "Bluestein",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-09-17T10:44:04.4909174+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49700153"
-    },
-    "Type": 1,
-    "Title": "Developing provably correct Rust code with Verus",
-    "Url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
-    "Description": "Developing provably correct Rust code with Verus",
-    "Metadata": {
-      "score": "116",
-      "author": "Betelbuddy",
-      "commentCount": "19"
-    },
-    "FetchedAt": "2026-09-17T10:44:04.5359594+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49732931"
-    },
-    "Type": 1,
-    "Title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-    "Url": "https://arxiv.org/abs/2609.16338",
-    "Description": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-    "Metadata": {
-      "score": "209",
-      "author": "matt_d",
-      "commentCount": "33"
-    },
-    "FetchedAt": "2026-09-17T10:44:04.5804196+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49721291"
     },
     "Type": 1,
@@ -493,36 +253,6 @@
       "commentCount": "27"
     },
     "FetchedAt": "2026-09-17T10:44:04.625064+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49719596"
-    },
-    "Type": 1,
-    "Title": "The engineering behind the US Strategic Petroleum Reserve",
-    "Url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
-    "Description": "The engineering behind the US Strategic Petroleum Reserve",
-    "Metadata": {
-      "score": "210",
-      "author": "johnjwang",
-      "commentCount": "80"
-    },
-    "FetchedAt": "2026-09-17T10:44:04.6697674+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49711544"
-    },
-    "Type": 1,
-    "Title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-    "Url": "https://github.com/arnegiacomo/fugleramme",
-    "Description": "See also: \u003Ci\u003EAvian Visitors\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48343424\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48343424\u003C/a\u003E - May 2026 (20 comments)",
-    "Metadata": {
-      "score": "2171",
-      "author": "arnemunthekaas",
-      "commentCount": "243"
-    },
-    "FetchedAt": "2026-09-17T10:44:04.714899+00:00"
   },
   {
     "ExternalId": {
@@ -556,21 +286,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49733726"
-    },
-    "Type": 1,
-    "Title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
-    "Url": "https://harnesstax.github.io/",
-    "Description": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
-    "Metadata": {
-      "score": "132",
-      "author": "matt_d",
-      "commentCount": "54"
-    },
-    "FetchedAt": "2026-09-17T10:44:04.8494179+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49695689"
     },
     "Type": 1,
@@ -583,21 +298,6 @@
       "commentCount": "53"
     },
     "FetchedAt": "2026-09-17T10:44:04.8938894+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49711424"
-    },
-    "Type": 1,
-    "Title": "Performance Improvements in .NET 11",
-    "Url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
-    "Description": "Performance Improvements in .NET 11",
-    "Metadata": {
-      "score": "295",
-      "author": "soheilpro",
-      "commentCount": "64"
-    },
-    "FetchedAt": "2026-09-17T10:44:04.9382047+00:00"
   },
   {
     "ExternalId": {
@@ -631,21 +331,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49734264"
-    },
-    "Type": 1,
-    "Title": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
-    "Url": "https://openspec.dev/",
-    "Description": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
-    "Metadata": {
-      "score": "139",
-      "author": "etoxin",
-      "commentCount": "63"
-    },
-    "FetchedAt": "2026-09-17T10:44:05.0734081+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49674451"
     },
     "Type": 1,
@@ -658,5 +343,455 @@
       "commentCount": "34"
     },
     "FetchedAt": "2026-09-17T10:44:05.1178877+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49715813"
+    },
+    "Type": 1,
+    "Title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+    "Url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+    "Description": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+    "Metadata": {
+      "score": "224",
+      "author": "my123",
+      "commentCount": "81"
+    },
+    "FetchedAt": "2026-09-17T15:57:59.9569473+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49742353"
+    },
+    "Type": 1,
+    "Title": "Rate limits on GitLab.com are changing",
+    "Url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
+    "Description": "Rate limits on GitLab.com are changing",
+    "Metadata": {
+      "score": "12",
+      "author": "darkwater",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-17T15:57:59.9891767+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49737849"
+    },
+    "Type": 1,
+    "Title": "One Year of Sponsored Servo Development",
+    "Url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+    "Description": "One Year of Sponsored Servo Development",
+    "Metadata": {
+      "score": "265",
+      "author": "AshleysBrain",
+      "commentCount": "113"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.0214133+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49742437"
+    },
+    "Type": 1,
+    "Title": "LLM Classification Is Feature Engineering",
+    "Url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+    "Description": "LLM Classification Is Feature Engineering",
+    "Metadata": {
+      "score": "7",
+      "author": "minsufficient",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.0542116+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49724881"
+    },
+    "Type": 1,
+    "Title": "Nvidia announces native GPU programming in Rust",
+    "Url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+    "Description": "Nvidia announces native GPU programming in Rust",
+    "Metadata": {
+      "score": "868",
+      "author": "nonmaskable",
+      "commentCount": "344"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.0867115+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49737787"
+    },
+    "Type": 1,
+    "Title": "CCC invites all model citizens to 40C3",
+    "Url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+    "Description": "CCC invites all model citizens to 40C3",
+    "Metadata": {
+      "score": "184",
+      "author": "antonly",
+      "commentCount": "50"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.1190117+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49742233"
+    },
+    "Type": 1,
+    "Title": "OpenAI\u0027s Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
+    "Url": "https://asiaai.fyi/openai-misalignment-framework-global-governance/",
+    "Description": "OpenAI\u0027s Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
+    "Metadata": {
+      "score": "8",
+      "author": "ghernando",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.1516832+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49718773"
+    },
+    "Type": 1,
+    "Title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I\u0027m deprecating it",
+    "Url": "https://jakeasmith.com/blog/http-build-url/",
+    "Description": "My temporary PHP fix from 2014 has nearly 20M installs. Today I\u0027m deprecating it",
+    "Metadata": {
+      "score": "252",
+      "author": "jakeasmith",
+      "commentCount": "64"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.1838316+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49742021"
+    },
+    "Type": 1,
+    "Title": "Artificial intelligence now beats some of the best human forecasters",
+    "Url": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters",
+    "Description": "Artificial intelligence now beats some of the best human forecasters",
+    "Metadata": {
+      "score": "5",
+      "author": "ddp26",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.2161428+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49740105"
+    },
+    "Type": 1,
+    "Title": "Show HN: Share your AI Setup, Learn from others",
+    "Url": "https://mysetup.ai/",
+    "Description": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown out the window? How did they manage longer-running tasks?   So I built this with the hope we could have a dedicated space to share and be open about our setups.",
+    "Metadata": {
+      "score": "36",
+      "author": "steveybrown",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.2483637+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49735930"
+    },
+    "Type": 1,
+    "Title": "Keys Not Included: recovering the signing keys for US driver\u0027s license barcodes",
+    "Url": "https://ryan.science/blog/keys-not-included",
+    "Description": "Keys Not Included: recovering the signing keys for US driver\u0027s license barcodes",
+    "Metadata": {
+      "score": "243",
+      "author": "Ryan5453",
+      "commentCount": "107"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.2804793+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49685835"
+    },
+    "Type": 1,
+    "Title": "The Relation Between Mathematics and Physics by Paul Dirac (1939)",
+    "Url": "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html",
+    "Description": "The Relation Between Mathematics and Physics by Paul Dirac (1939)",
+    "Metadata": {
+      "score": "124",
+      "author": "rramadass",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.3129531+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49737922"
+    },
+    "Type": 1,
+    "Title": "GLM Built Its Own Inference Infrastructure",
+    "Url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+    "Description": "GLM Built Its Own Inference Infrastructure",
+    "Metadata": {
+      "score": "224",
+      "author": "whiteros_e",
+      "commentCount": "176"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.3450687+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49738766"
+    },
+    "Type": 1,
+    "Title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+    "Url": "https://manticoresearch.com/blog/auto-chunking/",
+    "Description": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+    "Metadata": {
+      "score": "60",
+      "author": "GloriaVinogrado",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.3770748+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49719751"
+    },
+    "Type": 1,
+    "Title": "Lucasart\u0027s Afterlife",
+    "Url": "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/",
+    "Description": "Lucasart\u0027s Afterlife",
+    "Metadata": {
+      "score": "79",
+      "author": "Bondi_Blue",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.4094824+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49740047"
+    },
+    "Type": 1,
+    "Title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
+    "Url": "https://flat.social",
+    "Description": "Hi HN!\u003Cp\u003Eflat.social is a fun spatial online meeting app for remote teams and communities. It\u0026#x27;s largely built like a web multiplayer game, and the 3D virtual spaces are highly customisable with elements and activities (I recently added surfing!).\u003Cp\u003ELive demo to try it out: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;app.flat.social\u0026#x2F;f\u0026#x2F;demo-flat\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;app.flat.social\u0026#x2F;f\u0026#x2F;demo-flat\u003C/a\u003E\u003Cp\u003EHere\u0026#x27;s a quick demo video: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2",
+    "Metadata": {
+      "score": "71",
+      "author": "pawelwentpawel",
+      "commentCount": "42"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.4420052+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49732270"
+    },
+    "Type": 1,
+    "Title": "Xiaomi Mimo 2.6 live post-training dashboard",
+    "Url": "https://mimo.xiaomi.com/rl/",
+    "Description": "Xiaomi Mimo 2.6 live post-training dashboard",
+    "Metadata": {
+      "score": "511",
+      "author": "krackers",
+      "commentCount": "146"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.4743272+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49713347"
+    },
+    "Type": 1,
+    "Title": "Online Z3 Guide",
+    "Url": "https://microsoft.github.io/z3guide/",
+    "Description": "Online Z3 Guide",
+    "Metadata": {
+      "score": "49",
+      "author": "Bluestein",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.5074867+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49736466"
+    },
+    "Type": 1,
+    "Title": "Cloudflare/Security-Audit-Skill",
+    "Url": "https://github.com/cloudflare/security-audit-skill",
+    "Description": "Cloudflare/Security-Audit-Skill",
+    "Metadata": {
+      "score": "154",
+      "author": "donk8r",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.5399393+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49711544"
+    },
+    "Type": 1,
+    "Title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+    "Url": "https://github.com/arnegiacomo/fugleramme",
+    "Description": "See also: \u003Ci\u003EAvian Visitors\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48343424\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=48343424\u003C/a\u003E - May 2026 (20 comments)",
+    "Metadata": {
+      "score": "2240",
+      "author": "arnemunthekaas",
+      "commentCount": "247"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.5726769+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49715318"
+    },
+    "Type": 1,
+    "Title": "Comparison of Malloc() Algorithms",
+    "Url": "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html",
+    "Description": "Comparison of Malloc() Algorithms",
+    "Metadata": {
+      "score": "115",
+      "author": "egberts1",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.6052758+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49732513"
+    },
+    "Type": 1,
+    "Title": "Backups Aren\u0027t Simple",
+    "Url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+    "Description": "Backups Aren\u0027t Simple",
+    "Metadata": {
+      "score": "311",
+      "author": "afilipovski",
+      "commentCount": "187"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.6422465+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49732931"
+    },
+    "Type": 1,
+    "Title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+    "Url": "https://arxiv.org/abs/2609.16338",
+    "Description": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+    "Metadata": {
+      "score": "229",
+      "author": "matt_d",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.6759836+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49733726"
+    },
+    "Type": 1,
+    "Title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+    "Url": "https://harnesstax.github.io/",
+    "Description": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+    "Metadata": {
+      "score": "197",
+      "author": "matt_d",
+      "commentCount": "74"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.7121704+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49700153"
+    },
+    "Type": 1,
+    "Title": "Developing provably correct Rust code with Verus",
+    "Url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+    "Description": "Developing provably correct Rust code with Verus",
+    "Metadata": {
+      "score": "142",
+      "author": "Betelbuddy",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.7443472+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49707643"
+    },
+    "Type": 1,
+    "Title": "Mastering Layout Engines in Graphviz: Dot vs. Neato vs. Twopi vs. Circo",
+    "Url": "https://guides.visual-paradigm.com/mastering-graphviz-layout-engines-dot-neato-twopi-circo/",
+    "Description": "Mastering Layout Engines in Graphviz: Dot vs. Neato vs. Twopi vs. Circo",
+    "Metadata": {
+      "score": "4",
+      "author": "vismit2000",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.7790875+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49719596"
+    },
+    "Type": 1,
+    "Title": "The engineering behind the US Strategic Petroleum Reserve",
+    "Url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+    "Description": "The engineering behind the US Strategic Petroleum Reserve",
+    "Metadata": {
+      "score": "253",
+      "author": "johnjwang",
+      "commentCount": "100"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.8224484+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49731285"
+    },
+    "Type": 1,
+    "Title": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "Url": "https://rohanbansal.com/qorl",
+    "Description": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "Metadata": {
+      "score": "647",
+      "author": "polyphilz",
+      "commentCount": "130"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.8615439+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49711424"
+    },
+    "Type": 1,
+    "Title": "Performance Improvements in .NET 11",
+    "Url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
+    "Description": "Performance Improvements in .NET 11",
+    "Metadata": {
+      "score": "330",
+      "author": "soheilpro",
+      "commentCount": "100"
+    },
+    "FetchedAt": "2026-09-17T15:58:00.9433381+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49734264"
+    },
+    "Type": 1,
+    "Title": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
+    "Url": "https://openspec.dev/",
+    "Description": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
+    "Metadata": {
+      "score": "175",
+      "author": "etoxin",
+      "commentCount": "87"
+    },
+    "FetchedAt": "2026-09-17T15:58:01.0305259+00:00"
   }
 ]
