@@ -1,0 +1,728 @@
+{
+  "Id": "2026-09-18",
+  "GeneratedAt": "2026-09-18T03:33:37.8424464+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:alibaba/open-code-review"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM A"
+      },
+      "Description": "Fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comme",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:cloudflare/security-audit-skill"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+      },
+      "Description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:addyosmani/agent-skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Production-grade engineering skills for AI coding agents."
+      },
+      "Description": "Production-grade engineering skills for AI coding agents.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Tencent/BrowserSkill"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Let AI agents use your real, logged-in browser without interrupting your work. CLI \u002B extension for browser automation ac"
+      },
+      "Description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI \u002B extension for browser automation across any shell-capable AI agen",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:alphaXiv/OpenResearch"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Turn your coding agents into research agents"
+      },
+      "Description": "Turn your coding agents into research agents",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:anthropics/claude-code"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster "
+      },
+      "Description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, ex",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:NationalSecurityAgency/ghidra"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Ghidra is a software reverse engineering (SRE) framework"
+      },
+      "Description": "Ghidra is a software reverse engineering (SRE) framework",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:anthropics/knowledge-work-plugins"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+      },
+      "Description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Tencent/WeKnora"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-m"
+      },
+      "Description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:abue-ammar/tinycast"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Tinycast \u2014 a tiny, fully native macOS launcher, hotkeys, and clipboard history."
+      },
+      "Description": "Tinycast \u2014 a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:cilium/cilium"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "eBPF-based Networking, Security, and Observability"
+      },
+      "Description": "eBPF-based Networking, Security, and Observability",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:jamiepine/voicebox"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The open-source AI voice studio. Clone, dictate, create."
+      },
+      "Description": "The open-source AI voice studio. Clone, dictate, create.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:roboflow/supervision"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "We write your reusable computer vision tools. \uD83D\uDC9C"
+      },
+      "Description": "We write your reusable computer vision tools. \uD83D\uDC9C",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:JustVugg/colibri"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immens"
+      },
+      "Description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \uD83D\uDC26",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:TencentCloud/Octop"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent."
+      },
+      "Description": "A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:cline/cline"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
+      },
+      "Description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:coder/coder"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Secure environments for developers and their agents"
+      },
+      "Description": "Secure environments for developers and their agents",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:n8n-io/n8n"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host "
+      },
+      "Description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400\u002B integrations.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49745940"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Astra for Law"
+      },
+      "Description": "Astra for Law",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49746618"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint"
+      },
+      "Description": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49748954"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Goose: 1.16x faster than C\u002B\u002B and 1.12x than safe Rust, while memory safe"
+      },
+      "Description": "Goose: 1.16x faster than C\u002B\u002B and 1.12x than safe Rust, while memory safe",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49746163"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU"
+      },
+      "Description": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49743097"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hister: A private search engine for the pages you visit and the files you keep"
+      },
+      "Description": "Hister: A private search engine for the pages you visit and the files you keep",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49726007"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Wax motor"
+      },
+      "Description": "Wax motor",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49747925"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Alibaba releases Qwen 3.8 Omni Flash"
+      },
+      "Description": "Alibaba releases Qwen 3.8 Omni Flash",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49715813"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA"
+      },
+      "Description": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49748957"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Telstra outage: The night a network decided the year was 2006"
+      },
+      "Description": "Telstra outage: The night a network decided the year was 2006",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49746290"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Flet 1.0 \u2013 Build cross-platform apps in Python"
+      },
+      "Description": "Flet 1.0 \u2013 Build cross-platform apps in Python",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49710447"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain"
+      },
+      "Description": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49746117"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "More than 100k people in Japan are now aged 100 or older"
+      },
+      "Description": "More than 100k people in Japan are now aged 100 or older",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49742355"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "CrowdSec Source Code Leak"
+      },
+      "Description": "CrowdSec Source Code Leak",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49723544"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I Put Nam A2-Lite Inside an iRig HD X"
+      },
+      "Description": "I Put Nam A2-Lite Inside an iRig HD X",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49743483"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data"
+      },
+      "Description": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49746407"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The most important product decision is what you don\u0027t build"
+      },
+      "Description": "The most important product decision is what you don\u0027t build",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49746628"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How Uber Protects Against Retry Storms"
+      },
+      "Description": "How Uber Protects Against Retry Storms",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49738091"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Why I didn\u2019t sign the Fields medallists\u2019 letter"
+      },
+      "Description": "Why I didn\u2019t sign the Fields medallists\u2019 letter",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49742353"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Rate limits on GitLab.com are changing"
+      },
+      "Description": "Rate limits on GitLab.com are changing",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49715936"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How do we prevent mathemathics from devolving into the Medieval Era of secrecy?"
+      },
+      "Description": "How do we prevent mathemathics from devolving into the Medieval Era of secrecy?",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49737787"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "CCC invites all model citizens to 40C3"
+      },
+      "Description": "CCC invites all model citizens to 40C3",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49740260"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;F77tj\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;F77tj\u003C/a\u003E"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;F77tj\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;F77tj\u003C/a\u003E",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49714096"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Abstract at IEDM website below\u003Cp\u003EABSTRACT\u003Cp\u003EA14 NanoFlexTM Pro platform technology features the world\u2019s smallest SRAM wi"
+      },
+      "Description": "Abstract at IEDM website below\u003Cp\u003EABSTRACT\u003Cp\u003EA14 NanoFlexTM Pro platform technology features the world\u2019s smallest SRAM with a cell size \u0026lt;0.017\u03BCm2 an",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49720854"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Landing the Space Shuttle \u2013 A Flying Machine and the Thrill of a Lifetime"
+      },
+      "Description": "Landing the Space Shuttle \u2013 A Flying Machine and the Thrill of a Lifetime",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49743567"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI"
+      },
+      "Description": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49746346"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup"
+      },
+      "Description": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49704503"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Running Ubuntu on the Lenovo IdeaPad Duet"
+      },
+      "Description": "Running Ubuntu on the Lenovo IdeaPad Duet",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49743049"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hey HN, we\u0026#x27;re Nars \u0026amp; Nishant, founders of Skillsync (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;skillsync.com\u0022\u003Ehttps:\u0026#x2F;\u0026#x2"
+      },
+      "Description": "Hey HN, we\u0026#x27;re Nars \u0026amp; Nishant, founders of Skillsync (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;skillsync.com\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;skillsync.com\u003C/a\u003E)\u003Cp\u003ESkillsy",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49746371"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Computer Reset, Dallas"
+      },
+      "Description": "Computer Reset, Dallas",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49740105"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked."
+      },
+      "Description": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? Wh",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 48 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
