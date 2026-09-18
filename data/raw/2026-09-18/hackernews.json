@@ -226,111 +226,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49752041"
-    },
-    "Type": 1,
-    "Title": "OpenJev",
-    "Url": "https://openjev.com/",
-    "Description": "OpenJev",
-    "Metadata": {
-      "score": "34",
-      "author": "ilreb",
-      "commentCount": "7"
-    },
-    "FetchedAt": "2026-09-18T10:19:41.6736563+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49750152"
-    },
-    "Type": 1,
-    "Title": "Jemalloc 5.4.0",
-    "Url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
-    "Description": "Jemalloc 5.4.0",
-    "Metadata": {
-      "score": "149",
-      "author": "gkfasdfasdf",
-      "commentCount": "40"
-    },
-    "FetchedAt": "2026-09-18T10:19:41.7097979+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49750094"
-    },
-    "Type": 1,
-    "Title": "The scourge of x86 emulation",
-    "Url": "https://fex-emu.com/Scourge-of-emulation/",
-    "Description": "The scourge of x86 emulation",
-    "Metadata": {
-      "score": "149",
-      "author": "dagmx",
-      "commentCount": "26"
-    },
-    "FetchedAt": "2026-09-18T10:19:41.7448687+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49745940"
-    },
-    "Type": 1,
-    "Title": "Astra for Law",
-    "Url": "https://openai.com/index/astra-for-law/",
-    "Description": "Astra for Law",
-    "Metadata": {
-      "score": "495",
-      "author": "vertigoruntime",
-      "commentCount": "558"
-    },
-    "FetchedAt": "2026-09-18T10:19:41.7808148+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49746618"
-    },
-    "Type": 1,
-    "Title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-    "Url": "https://prismml.com/news/bonsai-2-27b",
-    "Description": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-    "Metadata": {
-      "score": "458",
-      "author": "JonSchneider",
-      "commentCount": "133"
-    },
-    "FetchedAt": "2026-09-18T10:19:41.8157856+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49746163"
-    },
-    "Type": 1,
-    "Title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
-    "Url": "https://bend-lang.com/",
-    "Description": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
-    "Metadata": {
-      "score": "472",
-      "author": "nicolas-siplis",
-      "commentCount": "221"
-    },
-    "FetchedAt": "2026-09-18T10:19:41.8502504+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49747925"
-    },
-    "Type": 1,
-    "Title": "Qwen 3.8 Omni Flash",
-    "Url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-    "Description": "Qwen 3.8 Omni Flash",
-    "Metadata": {
-      "score": "223",
-      "author": "jjcm",
-      "commentCount": "81"
-    },
-    "FetchedAt": "2026-09-18T10:19:41.8840437+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49743097"
     },
     "Type": 1,
@@ -361,36 +256,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49749771"
-    },
-    "Type": 1,
-    "Title": "Pre-Greek: The lost language hidden within Ancient Greek",
-    "Url": "https://linguisticdiscovery.com/posts/pre-greek/",
-    "Description": "Pre-Greek: The lost language hidden within Ancient Greek",
-    "Metadata": {
-      "score": "83",
-      "author": "axiologist",
-      "commentCount": "34"
-    },
-    "FetchedAt": "2026-09-18T10:19:41.9870643+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49726614"
-    },
-    "Type": 1,
-    "Title": "When the fractional part of a float fixes your shader",
-    "Url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
-    "Description": "When the fractional part of a float fixes your shader",
-    "Metadata": {
-      "score": "33",
-      "author": "vinhnx",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-09-18T10:19:42.0212806+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49715813"
     },
     "Type": 1,
@@ -403,21 +268,6 @@
       "commentCount": "232"
     },
     "FetchedAt": "2026-09-18T10:19:42.0585162+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49752056"
-    },
-    "Type": 1,
-    "Title": "Microsoft exec called AI scraping \u0027the largest theft of labor in human history\u0027",
-    "Url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-    "Description": "Microsoft exec called AI scraping \u0027the largest theft of labor in human history\u0027",
-    "Metadata": {
-      "score": "28",
-      "author": "pluc",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-09-18T10:19:42.0928634+00:00"
   },
   {
     "ExternalId": {
@@ -448,36 +298,6 @@
       "commentCount": "11"
     },
     "FetchedAt": "2026-09-18T10:19:42.1630227+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49727245"
-    },
-    "Type": 1,
-    "Title": "Replacing Pull Requests with Delta",
-    "Url": "https://zed.dev/blog/delta-public-beta",
-    "Description": "Replacing Pull Requests with Delta",
-    "Metadata": {
-      "score": "22",
-      "author": "vquemener",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-09-18T10:19:42.1978637+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49747070"
-    },
-    "Type": 1,
-    "Title": "How to Write with an LLM",
-    "Url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-    "Description": "How to Write with an LLM",
-    "Metadata": {
-      "score": "173",
-      "author": "joeriddles",
-      "commentCount": "99"
-    },
-    "FetchedAt": "2026-09-18T10:19:42.2320295+00:00"
   },
   {
     "ExternalId": {
@@ -673,5 +493,455 @@
       "commentCount": "42"
     },
     "FetchedAt": "2026-09-18T10:19:42.7015631+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49753878"
+    },
+    "Type": 1,
+    "Title": "An Empirical Study of Harness Design for Coding Agents",
+    "Url": "https://arxiv.org/abs/2609.20804",
+    "Description": "An Empirical Study of Harness Design for Coding Agents",
+    "Metadata": {
+      "score": "115",
+      "author": "wek",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-09-18T15:33:01.3604879+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49755024"
+    },
+    "Type": 1,
+    "Title": "I Vibed a Proof of Conway\u0027s Conjecture",
+    "Url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+    "Description": "I Vibed a Proof of Conway\u0027s Conjecture",
+    "Metadata": {
+      "score": "52",
+      "author": "m-hodges",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-09-18T15:33:01.4197083+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49754785"
+    },
+    "Type": 1,
+    "Title": "Cloudflare Quick Tunnels",
+    "Url": "https://try.cloudflare.com/",
+    "Description": "Cloudflare Quick Tunnels",
+    "Metadata": {
+      "score": "23",
+      "author": "jcbhmr",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-09-18T15:33:01.4813244+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49755160"
+    },
+    "Type": 1,
+    "Title": "North Korean nuclear test sets off years of earthquakes",
+    "Url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;xjmvA\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;xjmvA\u003C/a\u003E",
+    "Metadata": {
+      "score": "19",
+      "author": "rbanffy",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-09-18T15:33:01.5394493+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49746406"
+    },
+    "Type": 1,
+    "Title": "C\u002B\u002B26: Trivial infinite loops are no longer undefined behaviour",
+    "Url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+    "Description": "C\u002B\u002B26: Trivial infinite loops are no longer undefined behaviour",
+    "Metadata": {
+      "score": "27",
+      "author": "ibobev",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-09-18T15:33:01.5984942+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49753179"
+    },
+    "Type": 1,
+    "Title": "Bend 2 and the Vibe-Coding Trap",
+    "Url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+    "Description": "Bend 2 and the Vibe-Coding Trap",
+    "Metadata": {
+      "score": "263",
+      "author": "LiamPowell",
+      "commentCount": "180"
+    },
+    "FetchedAt": "2026-09-18T15:33:01.6590279+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49754823"
+    },
+    "Type": 1,
+    "Title": "BeanShell3 in Development",
+    "Url": "https://beanshell.github.io/home.html",
+    "Description": "BeanShell3 in Development",
+    "Metadata": {
+      "score": "8",
+      "author": "jimjag",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-09-18T15:33:01.7169411+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49752041"
+    },
+    "Type": 1,
+    "Title": "OpenJev",
+    "Url": "https://openjev.com/",
+    "Description": "OpenJev",
+    "Metadata": {
+      "score": "324",
+      "author": "ilreb",
+      "commentCount": "186"
+    },
+    "FetchedAt": "2026-09-18T15:33:01.7758065+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49721507"
+    },
+    "Type": 1,
+    "Title": "The Shadows Lurking in the Equations \u2013 Underwater Islands",
+    "Url": "https://gods.art/articles/equation_shadows",
+    "Description": "The Shadows Lurking in the Equations \u2013 Underwater Islands",
+    "Metadata": {
+      "score": "37",
+      "author": "vismit2000",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-09-18T15:33:01.8339112+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49753211"
+    },
+    "Type": 1,
+    "Title": "I don\u0027t like passkeys",
+    "Url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+    "Description": "I don\u0027t like passkeys",
+    "Metadata": {
+      "score": "372",
+      "author": "ethanhawksley",
+      "commentCount": "350"
+    },
+    "FetchedAt": "2026-09-18T15:33:01.8945521+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49750152"
+    },
+    "Type": 1,
+    "Title": "Jemalloc 5.4.0",
+    "Url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+    "Description": "Jemalloc 5.4.0",
+    "Metadata": {
+      "score": "261",
+      "author": "gkfasdfasdf",
+      "commentCount": "63"
+    },
+    "FetchedAt": "2026-09-18T15:33:01.9536314+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49752614"
+    },
+    "Type": 1,
+    "Title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+    "Url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
+    "Description": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+    "Metadata": {
+      "score": "178",
+      "author": "saimiam",
+      "commentCount": "118"
+    },
+    "FetchedAt": "2026-09-18T15:33:02.0105921+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49753131"
+    },
+    "Type": 1,
+    "Title": "Cekura (YC F24) Is Hiring",
+    "Url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
+    "Description": "Cekura (YC F24) Is Hiring",
+    "Metadata": {
+      "score": "1",
+      "author": "atarus",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-18T15:33:02.0689988+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49754064"
+    },
+    "Type": 1,
+    "Title": "NATS publishes preliminary report on technical incident of 8 September",
+    "Url": "https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/",
+    "Description": "NATS publishes preliminary report on technical incident of 8 September",
+    "Metadata": {
+      "score": "14",
+      "author": "asplake",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-09-18T15:33:02.1406604+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49755337"
+    },
+    "Type": 1,
+    "Title": "Build Faster Feedback Loops Using Qualitative User Research",
+    "Url": "https://blog.nseldeib.com/p/build-faster-feedback-loops-using",
+    "Description": "Build Faster Feedback Loops Using Qualitative User Research",
+    "Metadata": {
+      "score": "4",
+      "author": "nadis",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-18T15:33:02.1978932+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49755312"
+    },
+    "Type": 1,
+    "Title": "Show HN: Rickub \u2013 The Smartest Git in the Universe",
+    "Url": "https://rickub.com/",
+    "Description": "Show HN: Rickub \u2013 The Smartest Git in the Universe",
+    "Metadata": {
+      "score": "3",
+      "author": "ssaboum",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-18T15:33:02.2551392+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49752422"
+    },
+    "Type": 1,
+    "Title": "ZCode, the GLM coding agent, silently uploads your Git history",
+    "Url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+    "Description": "ZCode, the GLM coding agent, silently uploads your Git history",
+    "Metadata": {
+      "score": "227",
+      "author": "cdnsteve",
+      "commentCount": "51"
+    },
+    "FetchedAt": "2026-09-18T15:33:02.3122538+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49750094"
+    },
+    "Type": 1,
+    "Title": "The scourge of x86 emulation",
+    "Url": "https://fex-emu.com/Scourge-of-emulation/",
+    "Description": "The scourge of x86 emulation",
+    "Metadata": {
+      "score": "223",
+      "author": "dagmx",
+      "commentCount": "57"
+    },
+    "FetchedAt": "2026-09-18T15:33:02.3942791+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49746618"
+    },
+    "Type": 1,
+    "Title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+    "Url": "https://prismml.com/news/bonsai-2-27b",
+    "Description": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+    "Metadata": {
+      "score": "523",
+      "author": "JonSchneider",
+      "commentCount": "170"
+    },
+    "FetchedAt": "2026-09-18T15:33:02.5194569+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49745940"
+    },
+    "Type": 1,
+    "Title": "Astra for Law",
+    "Url": "https://openai.com/index/astra-for-law/",
+    "Description": "Astra for Law",
+    "Metadata": {
+      "score": "550",
+      "author": "vertigoruntime",
+      "commentCount": "647"
+    },
+    "FetchedAt": "2026-09-18T15:33:02.5974627+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49752056"
+    },
+    "Type": 1,
+    "Title": "Microsoft exec called AI scraping \u0027the largest theft of labor in human history\u0027",
+    "Url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+    "Description": "Microsoft exec called AI scraping \u0027the largest theft of labor in human history\u0027",
+    "Metadata": {
+      "score": "613",
+      "author": "pluc",
+      "commentCount": "507"
+    },
+    "FetchedAt": "2026-09-18T15:33:02.6751195+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49755095"
+    },
+    "Type": 1,
+    "Title": "Mathematicians Build Long-Awaited Graph Sandwich",
+    "Url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
+    "Description": "Mathematicians Build Long-Awaited Graph Sandwich",
+    "Metadata": {
+      "score": "8",
+      "author": "ibobev",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-18T15:33:02.7540093+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49727245"
+    },
+    "Type": 1,
+    "Title": "Replacing Pull Requests with Delta",
+    "Url": "https://zed.dev/blog/delta-public-beta",
+    "Description": "Replacing Pull Requests with Delta",
+    "Metadata": {
+      "score": "101",
+      "author": "vquemener",
+      "commentCount": "52"
+    },
+    "FetchedAt": "2026-09-18T15:33:02.811126+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49746163"
+    },
+    "Type": 1,
+    "Title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
+    "Url": "https://bend-lang.com/",
+    "Description": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
+    "Metadata": {
+      "score": "556",
+      "author": "nicolas-siplis",
+      "commentCount": "278"
+    },
+    "FetchedAt": "2026-09-18T15:33:02.8992844+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49754687"
+    },
+    "Type": 1,
+    "Title": "Second Circuit Allows Government to Search Electronic Devices at the Border",
+    "Url": "https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion",
+    "Description": "Second Circuit Allows Government to Search Electronic Devices at the Border",
+    "Metadata": {
+      "score": "29",
+      "author": "HotGarbage",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-09-18T15:33:03.0436207+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49715408"
+    },
+    "Type": 1,
+    "Title": "Subnormal floating-point numbers are expensive on Intel processors",
+    "Url": "https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/",
+    "Description": "Subnormal floating-point numbers are expensive on Intel processors",
+    "Metadata": {
+      "score": "53",
+      "author": "zdw",
+      "commentCount": "40"
+    },
+    "FetchedAt": "2026-09-18T15:33:03.1044397+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49747925"
+    },
+    "Type": 1,
+    "Title": "Qwen 3.8 Omni Flash",
+    "Url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+    "Description": "Qwen 3.8 Omni Flash",
+    "Metadata": {
+      "score": "292",
+      "author": "jjcm",
+      "commentCount": "102"
+    },
+    "FetchedAt": "2026-09-18T15:33:03.1609311+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49726614"
+    },
+    "Type": 1,
+    "Title": "When the fractional part of a float fixes your shader",
+    "Url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
+    "Description": "When the fractional part of a float fixes your shader",
+    "Metadata": {
+      "score": "80",
+      "author": "vinhnx",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-09-18T15:33:03.2192101+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49747070"
+    },
+    "Type": 1,
+    "Title": "How to Write with an LLM",
+    "Url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "Description": "How to Write with an LLM",
+    "Metadata": {
+      "score": "255",
+      "author": "joeriddles",
+      "commentCount": "171"
+    },
+    "FetchedAt": "2026-09-18T15:33:03.2771589+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49749771"
+    },
+    "Type": 1,
+    "Title": "Pre-Greek: The lost language hidden within Ancient Greek",
+    "Url": "https://linguisticdiscovery.com/posts/pre-greek/",
+    "Description": "Pre-Greek: The lost language hidden within Ancient Greek",
+    "Metadata": {
+      "score": "123",
+      "author": "axiologist",
+      "commentCount": "57"
+    },
+    "FetchedAt": "2026-09-18T15:33:03.3465551+00:00"
   }
 ]
