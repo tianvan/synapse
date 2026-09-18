@@ -6,7 +6,7 @@
     "Type": 0,
     "Title": "alibaba/open-code-review",
     "Url": "https://github.com/alibaba/open-code-review",
-    "Description": "Fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
+    "Description": "Secure, fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
     "Metadata": {
       "owner": "alibaba",
       "repo": "open-code-review",
@@ -14,7 +14,7 @@
       "stars": "3,286",
       "topics": "agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context"
     },
-    "FetchedAt": "2026-09-18T02:30:48.0227428+00:00"
+    "FetchedAt": "2026-09-18T10:19:38.596817+00:00"
   },
   {
     "ExternalId": {
@@ -30,7 +30,7 @@
       "language": "JavaScript",
       "stars": "3,607"
     },
-    "FetchedAt": "2026-09-18T02:30:48.2408637+00:00"
+    "FetchedAt": "2026-09-18T10:19:38.8509593+00:00"
   },
   {
     "ExternalId": {
@@ -47,7 +47,7 @@
       "stars": "680",
       "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
     },
-    "FetchedAt": "2026-09-18T02:30:48.3746737+00:00"
+    "FetchedAt": "2026-09-18T10:19:38.9878367+00:00"
   },
   {
     "ExternalId": {
@@ -64,7 +64,7 @@
       "stars": "1,302",
       "topics": "agent, browser-use, dsh-plugin"
     },
-    "FetchedAt": "2026-09-18T02:30:48.5138167+00:00"
+    "FetchedAt": "2026-09-18T10:19:39.1171622+00:00"
   },
   {
     "ExternalId": {
@@ -80,7 +80,7 @@
       "language": "Rust",
       "stars": "939"
     },
-    "FetchedAt": "2026-09-18T02:30:48.6514924+00:00"
+    "FetchedAt": "2026-09-18T10:19:39.2805375+00:00"
   },
   {
     "ExternalId": {
@@ -96,7 +96,7 @@
       "language": "TypeScript",
       "stars": "538"
     },
-    "FetchedAt": "2026-09-18T02:30:48.7865141+00:00"
+    "FetchedAt": "2026-09-18T10:19:39.4369917+00:00"
   },
   {
     "ExternalId": {
@@ -113,7 +113,7 @@
       "stars": "912",
       "topics": "disassembler, reverse-engineering, software-analysis"
     },
-    "FetchedAt": "2026-09-18T02:30:48.9576126+00:00"
+    "FetchedAt": "2026-09-18T10:19:39.5709598+00:00"
   },
   {
     "ExternalId": {
@@ -129,7 +129,7 @@
       "language": "Python",
       "stars": "287"
     },
-    "FetchedAt": "2026-09-18T02:30:49.1082046+00:00"
+    "FetchedAt": "2026-09-18T10:19:39.7207155+00:00"
   },
   {
     "ExternalId": {
@@ -146,7 +146,7 @@
       "stars": "1,125",
       "topics": "agent, agentic, ai, chatbot, dsh-plugin, embeddings, evaluation, generative-ai, golang, knowledge-base, llm, multi-tenant, ollama, openai, question-answering, rag, reranking, semantic-search, vector-search, wiki"
     },
-    "FetchedAt": "2026-09-18T02:30:49.2718342+00:00"
+    "FetchedAt": "2026-09-18T10:19:39.8575394+00:00"
   },
   {
     "ExternalId": {
@@ -162,7 +162,7 @@
       "language": "Swift",
       "stars": "739"
     },
-    "FetchedAt": "2026-09-18T02:30:49.4125605+00:00"
+    "FetchedAt": "2026-09-18T10:19:40.0296644+00:00"
   },
   {
     "ExternalId": {
@@ -179,7 +179,7 @@
       "stars": "111",
       "topics": "bpf, cncf, cni, containers, ebpf, k8s, kernel, kubernetes, kubernetes-networking, loadbalancing, monitoring, networking, observability, security, troubleshooting, xdp"
     },
-    "FetchedAt": "2026-09-18T02:30:49.5345488+00:00"
+    "FetchedAt": "2026-09-18T10:19:40.1490393+00:00"
   },
   {
     "ExternalId": {
@@ -196,7 +196,7 @@
       "stars": "667",
       "topics": "ai, cuda, mlx, qwen3-tts, qwen3-tts-ui, voice-ai, voice-clone, whisper"
     },
-    "FetchedAt": "2026-09-18T02:30:49.6901297+00:00"
+    "FetchedAt": "2026-09-18T10:19:40.2882605+00:00"
   },
   {
     "ExternalId": {
@@ -213,7 +213,7 @@
       "stars": "329",
       "topics": "classification, coco, computer-vision, deep-learning, hacktoberfest, image-processing, instance-segmentation, low-code, machine-learning, metrics, object-detection, oriented-bounding-box, pascal-voc, python, pytorch, tensorflow, tracking, video-processing, yolo"
     },
-    "FetchedAt": "2026-09-18T02:30:49.8157219+00:00"
+    "FetchedAt": "2026-09-18T10:19:40.4395276+00:00"
   },
   {
     "ExternalId": {
@@ -229,7 +229,7 @@
       "language": "C",
       "stars": "873"
     },
-    "FetchedAt": "2026-09-18T02:30:50.0094151+00:00"
+    "FetchedAt": "2026-09-18T10:19:40.6119812+00:00"
   },
   {
     "ExternalId": {
@@ -246,7 +246,7 @@
       "stars": "367",
       "topics": "agent, agentic-ai, ai, ai-agent, ai-agents, local-first, long-term-memory"
     },
-    "FetchedAt": "2026-09-18T02:30:50.1399614+00:00"
+    "FetchedAt": "2026-09-18T10:19:40.7617002+00:00"
   },
   {
     "ExternalId": {
@@ -262,7 +262,7 @@
       "language": "TypeScript",
       "stars": "380"
     },
-    "FetchedAt": "2026-09-18T02:30:50.2743682+00:00"
+    "FetchedAt": "2026-09-18T10:19:40.9770864+00:00"
   },
   {
     "ExternalId": {
@@ -279,7 +279,7 @@
       "stars": "145",
       "topics": "agents, dev-tools, development-environment, go, golang, ide, jetbrains, remote-development, terraform, vscode"
     },
-    "FetchedAt": "2026-09-18T02:30:50.4210172+00:00"
+    "FetchedAt": "2026-09-18T10:19:41.1258332+00:00"
   },
   {
     "ExternalId": {
@@ -296,6 +296,6 @@
       "stars": "281",
       "topics": "ai, apis, automation, cli, data-flow, development, integration-framework, integrations, ipaas, low-code, low-code-platform, mcp, mcp-client, mcp-server, n8n, no-code, self-hosted, typescript, workflow, workflow-automation"
     },
-    "FetchedAt": "2026-09-18T02:30:50.5705976+00:00"
+    "FetchedAt": "2026-09-18T10:19:41.3018164+00:00"
   }
 ]
