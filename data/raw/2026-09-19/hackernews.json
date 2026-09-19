@@ -1,51 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:49758736"
-    },
-    "Type": 1,
-    "Title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-    "Url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-    "Description": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-    "Metadata": {
-      "score": "568",
-      "author": "theanonymousone",
-      "commentCount": "269"
-    },
-    "FetchedAt": "2026-09-19T02:30:01.8316034+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49754785"
-    },
-    "Type": 1,
-    "Title": "Cloudflare Quick Tunnels",
-    "Url": "https://try.cloudflare.com/",
-    "Description": "Cloudflare Quick Tunnels",
-    "Metadata": {
-      "score": "594",
-      "author": "jcbhmr",
-      "commentCount": "253"
-    },
-    "FetchedAt": "2026-09-19T02:30:01.8828231+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49758580"
-    },
-    "Type": 1,
-    "Title": "Saving another 100TB of RAM",
-    "Url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-    "Description": "Saving another 100TB of RAM",
-    "Metadata": {
-      "score": "241",
-      "author": "f311a",
-      "commentCount": "45"
-    },
-    "FetchedAt": "2026-09-19T02:30:01.9342194+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49744036"
     },
     "Type": 1,
@@ -58,21 +13,6 @@
       "commentCount": "5"
     },
     "FetchedAt": "2026-09-19T02:30:01.9875541+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49747070"
-    },
-    "Type": 1,
-    "Title": "How to Write with an LLM",
-    "Url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-    "Description": "How to Write with an LLM",
-    "Metadata": {
-      "score": "401",
-      "author": "joeriddles",
-      "commentCount": "274"
-    },
-    "FetchedAt": "2026-09-19T02:30:02.0620241+00:00"
   },
   {
     "ExternalId": {
@@ -103,96 +43,6 @@
       "commentCount": "10"
     },
     "FetchedAt": "2026-09-19T02:30:02.1650327+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49757050"
-    },
-    "Type": 1,
-    "Title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-    "Url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-    "Description": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-    "Metadata": {
-      "score": "160",
-      "author": "synack",
-      "commentCount": "54"
-    },
-    "FetchedAt": "2026-09-19T02:30:02.2187849+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49748553"
-    },
-    "Type": 1,
-    "Title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-    "Url": "https://cactuscompute.com/needle",
-    "Description": "Hey HN, Henry from Cactus here.\u003Cp\u003EWe submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we\u2019ve been able to move quickly to release Needle 3 and I\u0026#x27;d love to hear what you think again.\u003Cp\u003EThe key features:\u003Cp\u003E1) Automation (tool calls \u0026amp; structured JSON output): Needle still doesn\u0026#x27;t chat by design, its quite challenging to pack general capacity into such small models, so we focus on tool calls ",
-    "Metadata": {
-      "score": "168",
-      "author": "HenryNdubuaku",
-      "commentCount": "78"
-    },
-    "FetchedAt": "2026-09-19T02:30:02.2699455+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49744704"
-    },
-    "Type": 1,
-    "Title": "The first new cat species discovered in 100 years",
-    "Url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;cgMTM\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;cgMTM\u003C/a\u003E",
-    "Metadata": {
-      "score": "180",
-      "author": "ohjeez",
-      "commentCount": "62"
-    },
-    "FetchedAt": "2026-09-19T02:30:02.3246853+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49758615"
-    },
-    "Type": 1,
-    "Title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-    "Url": "https://arxiv.org/abs/2510.03215",
-    "Description": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-    "Metadata": {
-      "score": "69",
-      "author": "rochansinha",
-      "commentCount": "12"
-    },
-    "FetchedAt": "2026-09-19T02:30:02.4636472+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49752041"
-    },
-    "Type": 1,
-    "Title": "OpenJev",
-    "Url": "https://openjev.com/",
-    "Description": "OpenJev",
-    "Metadata": {
-      "score": "561",
-      "author": "ilreb",
-      "commentCount": "247"
-    },
-    "FetchedAt": "2026-09-19T02:30:02.5316482+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49761432"
-    },
-    "Type": 1,
-    "Title": "How OpenAI Used Its Own LLMs to Design Its Jalape\u00F1o Chip",
-    "Url": "https://spectrum.ieee.org/llms-for-chip-design",
-    "Description": "How OpenAI Used Its Own LLMs to Design Its Jalape\u00F1o Chip",
-    "Metadata": {
-      "score": "61",
-      "author": "maxall4",
-      "commentCount": "60"
-    },
-    "FetchedAt": "2026-09-19T02:30:02.5839402+00:00"
   },
   {
     "ExternalId": {
@@ -241,51 +91,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49734131"
-    },
-    "Type": 1,
-    "Title": "Why building a Rust LSP is hard",
-    "Url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-    "Description": "Why building a Rust LSP is hard",
-    "Metadata": {
-      "score": "3",
-      "author": "agluszak",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-09-19T02:30:02.8102776+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49749369"
-    },
-    "Type": 1,
-    "Title": "Minimal Phone 2",
-    "Url": "https://minimalcompany.com/",
-    "Description": "Minimal Phone 2",
-    "Metadata": {
-      "score": "195",
-      "author": "nashashmi",
-      "commentCount": "187"
-    },
-    "FetchedAt": "2026-09-19T02:30:02.8783884+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49749724"
-    },
-    "Type": 1,
-    "Title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
-    "Url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
-    "Description": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
-    "Metadata": {
-      "score": "113",
-      "author": "succinct_ideas",
-      "commentCount": "30"
-    },
-    "FetchedAt": "2026-09-19T02:30:02.9288006+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49755533"
     },
     "Type": 1,
@@ -313,21 +118,6 @@
       "commentCount": "20"
     },
     "FetchedAt": "2026-09-19T02:30:03.0334286+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49750694"
-    },
-    "Type": 1,
-    "Title": "Inside ZCode: Silently uploading your Git history to the cloud",
-    "Url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
-    "Description": "Inside ZCode: Silently uploading your Git history to the cloud",
-    "Metadata": {
-      "score": "259",
-      "author": "csmantle",
-      "commentCount": "93"
-    },
-    "FetchedAt": "2026-09-19T02:30:03.084315+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +238,455 @@
       "commentCount": "152"
     },
     "FetchedAt": "2026-09-19T02:30:03.5044017+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49763697"
+    },
+    "Type": 1,
+    "Title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+    "Url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+    "Description": "Human brain is two separate organs, Stanford Medicine-led research finds",
+    "Metadata": {
+      "score": "221",
+      "author": "emigre",
+      "commentCount": "94"
+    },
+    "FetchedAt": "2026-09-19T10:02:50.5837415+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49763928"
+    },
+    "Type": 1,
+    "Title": "If math is more than proof, we need to better celebrate the rest of it",
+    "Url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+    "Description": "If math is more than proof, we need to better celebrate the rest of it",
+    "Metadata": {
+      "score": "91",
+      "author": "num42",
+      "commentCount": "58"
+    },
+    "FetchedAt": "2026-09-19T10:02:50.6255011+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49763987"
+    },
+    "Type": 1,
+    "Title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+    "Url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+    "Description": "GPT-6 Astra Solves a WWI German Radio Cipher",
+    "Metadata": {
+      "score": "109",
+      "author": "nsoonhui",
+      "commentCount": "47"
+    },
+    "FetchedAt": "2026-09-19T10:02:50.694381+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49763296"
+    },
+    "Type": 1,
+    "Title": "San Francisco Onion Futures Company",
+    "Url": "https://onionfutures.com/",
+    "Description": "San Francisco Onion Futures Company",
+    "Metadata": {
+      "score": "193",
+      "author": "z-mach9",
+      "commentCount": "66"
+    },
+    "FetchedAt": "2026-09-19T10:02:50.7318061+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49758736"
+    },
+    "Type": 1,
+    "Title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+    "Url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+    "Description": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+    "Metadata": {
+      "score": "841",
+      "author": "theanonymousone",
+      "commentCount": "412"
+    },
+    "FetchedAt": "2026-09-19T10:02:50.7887628+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49763883"
+    },
+    "Type": 1,
+    "Title": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
+    "Url": "https://browser.geekbench.com/v7/cpu/389219",
+    "Description": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
+    "Metadata": {
+      "score": "45",
+      "author": "gainsurier",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-09-19T10:02:50.8351824+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49754785"
+    },
+    "Type": 1,
+    "Title": "Cloudflare Quick Tunnels",
+    "Url": "https://try.cloudflare.com/",
+    "Description": "Cloudflare Quick Tunnels",
+    "Metadata": {
+      "score": "706",
+      "author": "jcbhmr",
+      "commentCount": "282"
+    },
+    "FetchedAt": "2026-09-19T10:02:50.8730042+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49720143"
+    },
+    "Type": 1,
+    "Title": "\u0022The Secret Life of Circuits\u0022 is here",
+    "Url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+    "Description": "\u0022The Secret Life of Circuits\u0022 is here",
+    "Metadata": {
+      "score": "17",
+      "author": "surprisetalk",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-09-19T10:02:50.9104277+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49764791"
+    },
+    "Type": 1,
+    "Title": "AI posters don\u0027t have to be horrible",
+    "Url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+    "Description": "AI posters don\u0027t have to be horrible",
+    "Metadata": {
+      "score": "3",
+      "author": "ereiamjh",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-19T10:02:50.9492824+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49762744"
+    },
+    "Type": 1,
+    "Title": "SDCC \u2013 Small Device C Compiler",
+    "Url": "https://sdcc.sourceforge.net/",
+    "Description": "SDCC \u2013 Small Device C Compiler",
+    "Metadata": {
+      "score": "78",
+      "author": "lioeters",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-09-19T10:02:50.9893539+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49762687"
+    },
+    "Type": 1,
+    "Title": "Science Is Open Software",
+    "Url": "https://jepedersen.dk/blog/202505_research/",
+    "Description": "Science Is Open Software",
+    "Metadata": {
+      "score": "94",
+      "author": "jegp",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-09-19T10:02:51.0271735+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49733647"
+    },
+    "Type": 1,
+    "Title": "Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step",
+    "Url": "https://github.com/awlevin/typesafe-computer-use",
+    "Description": "Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step",
+    "Metadata": {
+      "score": "78",
+      "author": "rahimnathwani",
+      "commentCount": "48"
+    },
+    "FetchedAt": "2026-09-19T10:02:51.0646324+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49730069"
+    },
+    "Type": 1,
+    "Title": "You can run Git on object storage if you re-make packfiles",
+    "Url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
+    "Description": "You can run Git on object storage if you re-make packfiles",
+    "Metadata": {
+      "score": "46",
+      "author": "evacchi",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-09-19T10:02:51.1044048+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49747070"
+    },
+    "Type": 1,
+    "Title": "How to Write with an LLM",
+    "Url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "Description": "How to Write with an LLM",
+    "Metadata": {
+      "score": "491",
+      "author": "joeriddles",
+      "commentCount": "329"
+    },
+    "FetchedAt": "2026-09-19T10:02:51.1456094+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49758580"
+    },
+    "Type": 1,
+    "Title": "Saving another 100TB of RAM",
+    "Url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+    "Description": "Saving another 100TB of RAM",
+    "Metadata": {
+      "score": "360",
+      "author": "f311a",
+      "commentCount": "78"
+    },
+    "FetchedAt": "2026-09-19T10:02:51.1832621+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49734131"
+    },
+    "Type": 1,
+    "Title": "Why building a Rust LSP is hard",
+    "Url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+    "Description": "Why building a Rust LSP is hard",
+    "Metadata": {
+      "score": "75",
+      "author": "agluszak",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-09-19T10:02:51.2223007+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49761432"
+    },
+    "Type": 1,
+    "Title": "How OpenAI Used Its Own LLMs to Design Its Jalape\u00F1o Chip",
+    "Url": "https://spectrum.ieee.org/llms-for-chip-design",
+    "Description": "How OpenAI Used Its Own LLMs to Design Its Jalape\u00F1o Chip",
+    "Metadata": {
+      "score": "123",
+      "author": "maxall4",
+      "commentCount": "87"
+    },
+    "FetchedAt": "2026-09-19T10:02:51.2613557+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49735541"
+    },
+    "Type": 1,
+    "Title": "Ctenophores: Wonders of Biology",
+    "Url": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
+    "Description": "Ctenophores: Wonders of Biology",
+    "Metadata": {
+      "score": "24",
+      "author": "randomImmigrant",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-09-19T10:02:51.299684+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49763379"
+    },
+    "Type": 1,
+    "Title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+    "Url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+    "Description": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+    "Metadata": {
+      "score": "24",
+      "author": "noobplus",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-09-19T10:02:51.3371762+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49744704"
+    },
+    "Type": 1,
+    "Title": "The first new cat species discovered in 100 years",
+    "Url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;cgMTM\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;cgMTM\u003C/a\u003E",
+    "Metadata": {
+      "score": "272",
+      "author": "ohjeez",
+      "commentCount": "104"
+    },
+    "FetchedAt": "2026-09-19T10:02:51.3836478+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49752041"
+    },
+    "Type": 1,
+    "Title": "OpenJev",
+    "Url": "https://openjev.com/",
+    "Description": "OpenJev",
+    "Metadata": {
+      "score": "628",
+      "author": "ilreb",
+      "commentCount": "265"
+    },
+    "FetchedAt": "2026-09-19T10:02:51.4205651+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49726773"
+    },
+    "Type": 1,
+    "Title": "Goroutine Leak Profiles",
+    "Url": "https://go.dev/blog/goroutine-leak-profiles",
+    "Description": "Goroutine Leak Profiles",
+    "Metadata": {
+      "score": "32",
+      "author": "torutofu",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-09-19T10:02:51.4572995+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49748553"
+    },
+    "Type": 1,
+    "Title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+    "Url": "https://cactuscompute.com/needle",
+    "Description": "Hey HN, Henry from Cactus here.\u003Cp\u003EWe submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we\u2019ve been able to move quickly to release Needle 3 and I\u0026#x27;d love to hear what you think again.\u003Cp\u003EThe key features:\u003Cp\u003E1) Automation (tool calls \u0026amp; structured JSON output): Needle still doesn\u0026#x27;t chat by design, its quite challenging to pack general capacity into such small models, so we focus on tool calls ",
+    "Metadata": {
+      "score": "198",
+      "author": "HenryNdubuaku",
+      "commentCount": "88"
+    },
+    "FetchedAt": "2026-09-19T10:02:51.5183612+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49757050"
+    },
+    "Type": 1,
+    "Title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+    "Url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+    "Description": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+    "Metadata": {
+      "score": "193",
+      "author": "synack",
+      "commentCount": "70"
+    },
+    "FetchedAt": "2026-09-19T10:02:51.5551112+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49749369"
+    },
+    "Type": 1,
+    "Title": "Minimal Phone 2",
+    "Url": "https://minimalcompany.com/",
+    "Description": "Minimal Phone 2",
+    "Metadata": {
+      "score": "280",
+      "author": "nashashmi",
+      "commentCount": "225"
+    },
+    "FetchedAt": "2026-09-19T10:02:51.5918539+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49740606"
+    },
+    "Type": 1,
+    "Title": "Suppress vulnerabilities applying Kubernetes context to scans",
+    "Url": "https://github.com/alegrey91/vex8s",
+    "Description": "Suppress vulnerabilities applying Kubernetes context to scans",
+    "Metadata": {
+      "score": "5",
+      "author": "alegrey91",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-09-19T10:02:51.6284154+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49728602"
+    },
+    "Type": 1,
+    "Title": "Veronese\u0027s Dogs",
+    "Url": "https://publicdomainreview.org/essay/veroneses-dogs",
+    "Description": "Veronese\u0027s Dogs",
+    "Metadata": {
+      "score": "6",
+      "author": "prismatic",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-19T10:02:51.6650047+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49758615"
+    },
+    "Type": 1,
+    "Title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+    "Url": "https://arxiv.org/abs/2510.03215",
+    "Description": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+    "Metadata": {
+      "score": "86",
+      "author": "rochansinha",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-09-19T10:02:51.7009557+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49749724"
+    },
+    "Type": 1,
+    "Title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+    "Url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+    "Description": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+    "Metadata": {
+      "score": "167",
+      "author": "succinct_ideas",
+      "commentCount": "66"
+    },
+    "FetchedAt": "2026-09-19T10:02:51.737549+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49750694"
+    },
+    "Type": 1,
+    "Title": "Inside ZCode: Silently uploading your Git history to the cloud",
+    "Url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+    "Description": "Inside ZCode: Silently uploading your Git history to the cloud",
+    "Metadata": {
+      "score": "298",
+      "author": "csmantle",
+      "commentCount": "100"
+    },
+    "FetchedAt": "2026-09-19T10:02:51.773751+00:00"
   }
 ]
