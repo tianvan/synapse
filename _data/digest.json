@@ -1,0 +1,668 @@
+{
+  "Id": "2026-09-19",
+  "GeneratedAt": "2026-09-19T03:30:40.5542693+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:cloudflare/security-audit-skill"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+      },
+      "Description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:anthropics/claude-code"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster "
+      },
+      "Description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, ex",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:alibaba/open-code-review"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Secure, fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines"
+      },
+      "Description": "Secure, fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-lev",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Tencent/BrowserSkill"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Let AI agents use your real, logged-in browser without interrupting your work. CLI \u002B extension for browser automation ac"
+      },
+      "Description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI \u002B extension for browser automation across any shell-capable AI agen",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:addyosmani/agent-skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Production-grade engineering skills for AI coding agents."
+      },
+      "Description": "Production-grade engineering skills for AI coding agents.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:TencentCloud/Octop"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent."
+      },
+      "Description": "A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Fission-AI/OpenSpec"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Spec-driven development (SDD) for AI coding assistants."
+      },
+      "Description": "Spec-driven development (SDD) for AI coding assistants.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:ankitects/anki"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Anki is a smart spaced repetition flashcard program"
+      },
+      "Description": "Anki is a smart spaced repetition flashcard program",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:anthropics/knowledge-work-plugins"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+      },
+      "Description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:supermemoryai/supermemory"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Memory and context engine \u002B app that is extremely fast, scalable, and can be run fully locally. The Memory API for the A"
+      },
+      "Description": "Memory and context engine \u002B app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:tradesdontlie/tradingview-mcp"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automatio"
+      },
+      "Description": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:rustfs/rustfs"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with"
+      },
+      "Description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:coder/coder"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Secure environments for developers and their agents"
+      },
+      "Description": "Secure environments for developers and their agents",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:ahmedkhaleel2004/gitdiagram"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Free, simple, fast interactive diagrams for any GitHub repository"
+      },
+      "Description": "Free, simple, fast interactive diagrams for any GitHub repository",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49758736"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP"
+      },
+      "Description": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49754785"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Cloudflare Quick Tunnels"
+      },
+      "Description": "Cloudflare Quick Tunnels",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49758580"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Saving another 100TB of RAM"
+      },
+      "Description": "Saving another 100TB of RAM",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49744036"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Farnese letter"
+      },
+      "Description": "The Farnese letter",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49747070"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How to Write with an LLM"
+      },
+      "Description": "How to Write with an LLM",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49758419"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Xcode 27.1 Beta Release Notes"
+      },
+      "Description": "Xcode 27.1 Beta Release Notes",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49762099"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Show HN: LiveWorld \u2013 Every 24/7 YouTube live camera on one globe"
+      },
+      "Description": "Show HN: LiveWorld \u2013 Every 24/7 YouTube live camera on one globe",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49757050"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug"
+      },
+      "Description": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49748553"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hey HN, Henry from Cactus here.\u003Cp\u003EWe submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread "
+      },
+      "Description": "Hey HN, Henry from Cactus here.\u003Cp\u003EWe submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thank",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49744704"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;cgMTM\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;cgMTM\u003C/a\u003E"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;cgMTM\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;cgMTM\u003C/a\u003E",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49758615"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)"
+      },
+      "Description": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49752041"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "OpenJev"
+      },
+      "Description": "OpenJev",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49761432"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How OpenAI Used Its Own LLMs to Design Its Jalape\u00F1o Chip"
+      },
+      "Description": "How OpenAI Used Its Own LLMs to Design Its Jalape\u00F1o Chip",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49760187"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Claude Code now reads AGENTS.md if there is no Claude.md"
+      },
+      "Description": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49731413"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Cyclomatic Complexity in C#"
+      },
+      "Description": "Cyclomatic Complexity in C#",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49733523"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "LispBM is a concurrent Lisp for microcontrollers with message passing"
+      },
+      "Description": "LispBM is a concurrent Lisp for microcontrollers with message passing",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49734131"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Why building a Rust LSP is hard"
+      },
+      "Description": "Why building a Rust LSP is hard",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49749369"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Minimal Phone 2"
+      },
+      "Description": "Minimal Phone 2",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49749724"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Warez: The Infrastructure and Aesthetics of Piracy (2021)"
+      },
+      "Description": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49755533"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;1CFX9\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;1CFX9\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;1CFX9\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;1CFX9\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;med.stanford",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49758689"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Implications of Linguistic Illegibility for LLM Security"
+      },
+      "Description": "The Implications of Linguistic Illegibility for LLM Security",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49750694"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Inside ZCode: Silently uploading your Git history to the cloud"
+      },
+      "Description": "Inside ZCode: Silently uploading your Git history to the cloud",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49746406"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "C\u002B\u002B26: Trivial infinite loops are no longer undefined behaviour"
+      },
+      "Description": "C\u002B\u002B26: Trivial infinite loops are no longer undefined behaviour",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49761840"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions"
+      },
+      "Description": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49746626"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How SpaceX streamlined the Raptor engine"
+      },
+      "Description": "How SpaceX streamlined the Raptor engine",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49729631"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Column built an issuer processor from scratch"
+      },
+      "Description": "Column built an issuer processor from scratch",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49714157"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A search-and-inference database from scratch in pure Zig"
+      },
+      "Description": "A search-and-inference database from scratch in pure Zig",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49755024"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;gaearon\u0026#x2F;conway-refinement#why-i-think-its-correct\u0022 rel=\u0022nofollow\u0022\u003Ehttps:"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;gaearon\u0026#x2F;conway-refinement#why-i-think-its-correct\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;ga",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49735057"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Size-Specialized Memory Allocation"
+      },
+      "Description": "Size-Specialized Memory Allocation",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49755160"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;xjmvA\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;xjmvA\u003C/a\u003E"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;xjmvA\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;xjmvA\u003C/a\u003E",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 44 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
