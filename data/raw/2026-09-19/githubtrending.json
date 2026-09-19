@@ -1,0 +1,235 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:cloudflare/security-audit-skill"
+    },
+    "Type": 0,
+    "Title": "cloudflare/security-audit-skill",
+    "Url": "https://github.com/cloudflare/security-audit-skill",
+    "Description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "Metadata": {
+      "owner": "cloudflare",
+      "repo": "security-audit-skill",
+      "language": "JavaScript",
+      "stars": "3,006"
+    },
+    "FetchedAt": "2026-09-19T02:29:58.9070577+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-code"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-code",
+    "Url": "https://github.com/anthropics/claude-code",
+    "Description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-code",
+      "language": "TypeScript",
+      "stars": "444"
+    },
+    "FetchedAt": "2026-09-19T02:29:59.1373457+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alibaba/open-code-review"
+    },
+    "Type": 0,
+    "Title": "alibaba/open-code-review",
+    "Url": "https://github.com/alibaba/open-code-review",
+    "Description": "Secure, fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
+    "Metadata": {
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "language": "Go",
+      "stars": "2,704",
+      "topics": "agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context"
+    },
+    "FetchedAt": "2026-09-19T02:29:59.3522962+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Tencent/BrowserSkill"
+    },
+    "Type": 0,
+    "Title": "Tencent/BrowserSkill",
+    "Url": "https://github.com/Tencent/BrowserSkill",
+    "Description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI \u002B extension for browser automation across any shell-capable AI agent.",
+    "Metadata": {
+      "owner": "Tencent",
+      "repo": "BrowserSkill",
+      "language": "TypeScript",
+      "stars": "1,306",
+      "topics": "agent, browser-use, dsh-plugin"
+    },
+    "FetchedAt": "2026-09-19T02:29:59.5401098+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "JavaScript",
+      "stars": "675",
+      "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
+    },
+    "FetchedAt": "2026-09-19T02:29:59.7301117+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:TencentCloud/Octop"
+    },
+    "Type": 0,
+    "Title": "TencentCloud/Octop",
+    "Url": "https://github.com/TencentCloud/Octop",
+    "Description": "A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent.",
+    "Metadata": {
+      "owner": "TencentCloud",
+      "repo": "Octop",
+      "language": "Python",
+      "stars": "569",
+      "topics": "agent, agentic-ai, ai, ai-agent, ai-agents, local-first, long-term-memory"
+    },
+    "FetchedAt": "2026-09-19T02:29:59.9114746+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Fission-AI/OpenSpec"
+    },
+    "Type": 0,
+    "Title": "Fission-AI/OpenSpec",
+    "Url": "https://github.com/Fission-AI/OpenSpec",
+    "Description": "Spec-driven development (SDD) for AI coding assistants.",
+    "Metadata": {
+      "owner": "Fission-AI",
+      "repo": "OpenSpec",
+      "language": "TypeScript",
+      "stars": "296",
+      "topics": "ai, context-engineering, engineering, planning, prd, sdd, sdlc, spec, spec-driven-development, specification"
+    },
+    "FetchedAt": "2026-09-19T02:30:00.0877866+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ankitects/anki"
+    },
+    "Type": 0,
+    "Title": "ankitects/anki",
+    "Url": "https://github.com/ankitects/anki",
+    "Description": "Anki is a smart spaced repetition flashcard program",
+    "Metadata": {
+      "owner": "ankitects",
+      "repo": "anki",
+      "language": "Rust",
+      "stars": "174"
+    },
+    "FetchedAt": "2026-09-19T02:30:00.2615675+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/knowledge-work-plugins"
+    },
+    "Type": 0,
+    "Title": "anthropics/knowledge-work-plugins",
+    "Url": "https://github.com/anthropics/knowledge-work-plugins",
+    "Description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "knowledge-work-plugins",
+      "language": "Python",
+      "stars": "299"
+    },
+    "FetchedAt": "2026-09-19T02:30:00.4442874+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:supermemoryai/supermemory"
+    },
+    "Type": 0,
+    "Title": "supermemoryai/supermemory",
+    "Url": "https://github.com/supermemoryai/supermemory",
+    "Description": "Memory and context engine \u002B app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+    "Metadata": {
+      "owner": "supermemoryai",
+      "repo": "supermemory",
+      "language": "TypeScript",
+      "stars": "140",
+      "topics": "agent-memory, ai-memory, cloudflare-kv, cloudflare-pages, cloudflare-workers, drizzle-orm, memory, postgres, remix, tailwindcss, typescript, vite"
+    },
+    "FetchedAt": "2026-09-19T02:30:00.6103004+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:tradesdontlie/tradingview-mcp"
+    },
+    "Type": 0,
+    "Title": "tradesdontlie/tradingview-mcp",
+    "Url": "https://github.com/tradesdontlie/tradingview-mcp",
+    "Description": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
+    "Metadata": {
+      "owner": "tradesdontlie",
+      "repo": "tradingview-mcp",
+      "language": "JavaScript",
+      "stars": "79"
+    },
+    "FetchedAt": "2026-09-19T02:30:00.7930674+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:rustfs/rustfs"
+    },
+    "Type": 0,
+    "Title": "rustfs/rustfs",
+    "Url": "https://github.com/rustfs/rustfs",
+    "Description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+    "Metadata": {
+      "owner": "rustfs",
+      "repo": "rustfs",
+      "language": "Rust",
+      "stars": "267",
+      "topics": "ai-native, ai-storage, amazon-s3, bigdata, cloud-native, filesystem, minio, multi-cloud, object-storage, objectstorage, rust, s3"
+    },
+    "FetchedAt": "2026-09-19T02:30:01.010237+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:coder/coder"
+    },
+    "Type": 0,
+    "Title": "coder/coder",
+    "Url": "https://github.com/coder/coder",
+    "Description": "Secure environments for developers and their agents",
+    "Metadata": {
+      "owner": "coder",
+      "repo": "coder",
+      "language": "Go",
+      "stars": "478",
+      "topics": "agents, dev-tools, development-environment, go, golang, ide, jetbrains, remote-development, terraform, vscode"
+    },
+    "FetchedAt": "2026-09-19T02:30:01.2106304+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ahmedkhaleel2004/gitdiagram"
+    },
+    "Type": 0,
+    "Title": "ahmedkhaleel2004/gitdiagram",
+    "Url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+    "Description": "Free, simple, fast interactive diagrams for any GitHub repository",
+    "Metadata": {
+      "owner": "ahmedkhaleel2004",
+      "repo": "gitdiagram",
+      "language": "TypeScript",
+      "stars": "152",
+      "topics": "ai, code, github, system-design"
+    },
+    "FetchedAt": "2026-09-19T02:30:01.3844984+00:00"
+  }
+]
