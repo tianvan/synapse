@@ -1,0 +1,653 @@
+{
+  "Id": "2026-09-20",
+  "GeneratedAt": "2026-09-20T03:47:22.826098+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:cloudflare/security-audit-skill"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+      },
+      "Description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:addyosmani/agent-skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Production-grade engineering skills for AI coding agents."
+      },
+      "Description": "Production-grade engineering skills for AI coding agents.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:coder/coder"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Secure environments for developers and their agents"
+      },
+      "Description": "Secure environments for developers and their agents",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:anthropics/claude-code"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster "
+      },
+      "Description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, ex",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Open-Dev-Society/OpenStock"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, "
+      },
+      "Description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company i",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:higgsfield-ai/higgsfield"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with bi"
+      },
+      "Description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of paramet",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:docling-project/docling"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Get your documents ready for gen AI"
+      },
+      "Description": "Get your documents ready for gen AI",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:cloudflare/quiche"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\uD83E\uDD67 Savoury implementation of the QUIC transport protocol and HTTP/3"
+      },
+      "Description": "\uD83E\uDD67 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:ruanyf/weekly"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u79D1\u6280\u7231\u597D\u8005\u5468\u520A\uFF0C\u6BCF\u5468\u4E94\u53D1\u5E03"
+      },
+      "Description": "\u79D1\u6280\u7231\u597D\u8005\u5468\u520A\uFF0C\u6BCF\u5468\u4E94\u53D1\u5E03",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:ZuodaoTech/everyone-can-use-english"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u4EBA\u4EBA\u90FD\u80FD\u7528\u82F1\u8BED"
+      },
+      "Description": "\u4EBA\u4EBA\u90FD\u80FD\u7528\u82F1\u8BED",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:anthropics/knowledge-work-plugins"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork"
+      },
+      "Description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:cactus-compute/needle"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones"
+      },
+      "Description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robo",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:yynxxxxx/Codex-X"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "OpenAI Codex \u684C\u9762\u7AEF/CLI \u7684\u53EF\u89C6\u5316\u7BA1\u7406\u5DE5\u5177\uFF0C\u5177\u6709Provider/API \u5207\u6362\u3001\u4F1A\u8BDD\u540C\u6B65\u3001\u63D0\u793A\u8BCD\u6CE8\u5165\u3001Skills/MCP \u7BA1\u7406\u3001TOML \u914D\u7F6E\u53EF\u89C6\u5316\u7684\u8DE8\u5E73\u53F0\u5DE5\u5177\u3002"
+      },
+      "Description": "OpenAI Codex \u684C\u9762\u7AEF/CLI \u7684\u53EF\u89C6\u5316\u7BA1\u7406\u5DE5\u5177\uFF0C\u5177\u6709Provider/API \u5207\u6362\u3001\u4F1A\u8BDD\u540C\u6B65\u3001\u63D0\u793A\u8BCD\u6CE8\u5165\u3001Skills/MCP \u7BA1\u7406\u3001TOML \u914D\u7F6E\u53EF\u89C6\u5316\u7684\u8DE8\u5E73\u53F0\u5DE5\u5177\u3002",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49771110"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Exfiltrate Your Weights"
+      },
+      "Description": "Exfiltrate Your Weights",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49765348"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I built non-autoregressive decision models with RL a year ago"
+      },
+      "Description": "I built non-autoregressive decision models with RL a year ago",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49770293"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How Hacker News ranking works: scoring, controversy, and penalties (2013)"
+      },
+      "Description": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49769676"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Measure internet censorship. Contribute to the largest open dataset"
+      },
+      "Description": "Measure internet censorship. Contribute to the largest open dataset",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49766966"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Brood War Bench"
+      },
+      "Description": "Brood War Bench",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49770256"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow"
+      },
+      "Description": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49764791"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AI-generated posters don\u2019t have to be horrible"
+      },
+      "Description": "AI-generated posters don\u2019t have to be horrible",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49769405"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "ZK-JPEG: Zero-Knowledge Image Editing and Compression"
+      },
+      "Description": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49731996"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Deodands put a price on objects that caused death"
+      },
+      "Description": "Deodands put a price on objects that caused death",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49743934"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Compiler-style optimization for drawing via Skia"
+      },
+      "Description": "Compiler-style optimization for drawing via Skia",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49770362"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Mayday Mysteries"
+      },
+      "Description": "Mayday Mysteries",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49754194"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "UFO Series Home Page: \u0022UFO\u0022 TV Series from 1970"
+      },
+      "Description": "UFO Series Home Page: \u0022UFO\u0022 TV Series from 1970",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49767242"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Lamentable Later Life of Lemmings"
+      },
+      "Description": "The Lamentable Later Life of Lemmings",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49766611"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Tin: full-text search for Postgres"
+      },
+      "Description": "Tin: full-text search for Postgres",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49767564"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hello HN! We\u0026#x27;re Dillon and Francesco from Cua.\u003Cp\u003EWe were wondering how many computer use tasks actually need a full"
+      },
+      "Description": "Hello HN! We\u0026#x27;re Dillon and Francesco from Cua.\u003Cp\u003EWe were wondering how many computer use tasks actually need a full general purpose LLM (e.g. gpt",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49735010"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Suzanne Ciani\u0027s Buchla Cookbook"
+      },
+      "Description": "Suzanne Ciani\u0027s Buchla Cookbook",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49742697"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "New evidence for hidden chambers beyond Tutankhamun\u0027s tomb"
+      },
+      "Description": "New evidence for hidden chambers beyond Tutankhamun\u0027s tomb",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49742438"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Rabbit Hole: Minimum L-seams"
+      },
+      "Description": "Rabbit Hole: Minimum L-seams",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49737326"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Faster NumPy in the Browser"
+      },
+      "Description": "Faster NumPy in the Browser",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49747070"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How to Write with an LLM"
+      },
+      "Description": "How to Write with an LLM",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49756121"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Black Holes or Black Hole Stars? Astronomers Spar over \u0027Little Red Dots\u0027"
+      },
+      "Description": "Black Holes or Black Hole Stars? Astronomers Spar over \u0027Little Red Dots\u0027",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49768220"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Supabase (YC S20) Is Hiring for OrioleDB"
+      },
+      "Description": "Supabase (YC S20) Is Hiring for OrioleDB",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49770369"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "HellGates, custom CPU gate-level challenge"
+      },
+      "Description": "HellGates, custom CPU gate-level challenge",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49771112"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Largest wildlife overpass in North America reduced wildlife collision by 91%"
+      },
+      "Description": "Largest wildlife overpass in North America reduced wildlife collision by 91%",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49767937"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I think you should almost never use AI to write"
+      },
+      "Description": "I think you should almost never use AI to write",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49763697"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.nature.com\u0026#x2F;articles\u0026#x2F;s41593-026-02433-7\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.na"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.nature.com\u0026#x2F;articles\u0026#x2F;s41593-026-02433-7\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.nature.com\u0026#x2F;articles\u0026#x2F;s4",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49770851"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Authenticity\u0027s Triumph"
+      },
+      "Description": "Authenticity\u0027s Triumph",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49770809"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "An open source roguelike adventure through dungeons"
+      },
+      "Description": "An open source roguelike adventure through dungeons",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49770807"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AI in schools \u2013 The choice we keep making"
+      },
+      "Description": "AI in schools \u2013 The choice we keep making",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49770847"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Can you tell which images are AI-generated?"
+      },
+      "Description": "Can you tell which images are AI-generated?",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 43 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
