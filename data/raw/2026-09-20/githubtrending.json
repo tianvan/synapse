@@ -1,0 +1,216 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:cloudflare/security-audit-skill"
+    },
+    "Type": 0,
+    "Title": "cloudflare/security-audit-skill",
+    "Url": "https://github.com/cloudflare/security-audit-skill",
+    "Description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "Metadata": {
+      "owner": "cloudflare",
+      "repo": "security-audit-skill",
+      "language": "JavaScript",
+      "stars": "3,155"
+    },
+    "FetchedAt": "2026-09-20T02:40:45.6647919+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "JavaScript",
+      "stars": "556",
+      "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
+    },
+    "FetchedAt": "2026-09-20T02:40:45.9662255+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:coder/coder"
+    },
+    "Type": 0,
+    "Title": "coder/coder",
+    "Url": "https://github.com/coder/coder",
+    "Description": "Secure environments for developers and their agents",
+    "Metadata": {
+      "owner": "coder",
+      "repo": "coder",
+      "language": "Go",
+      "stars": "402",
+      "topics": "agents, dev-tools, development-environment, go, golang, ide, jetbrains, remote-development, terraform, vscode"
+    },
+    "FetchedAt": "2026-09-20T02:40:46.1547119+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-code"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-code",
+    "Url": "https://github.com/anthropics/claude-code",
+    "Description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-code",
+      "language": "TypeScript",
+      "stars": "483"
+    },
+    "FetchedAt": "2026-09-20T02:40:46.3248113+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Open-Dev-Society/OpenStock"
+    },
+    "Type": 0,
+    "Title": "Open-Dev-Society/OpenStock",
+    "Url": "https://github.com/Open-Dev-Society/OpenStock",
+    "Description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights \u2014 built openly, for everyone, forever free.",
+    "Metadata": {
+      "owner": "Open-Dev-Society",
+      "repo": "OpenStock",
+      "language": "TypeScript",
+      "stars": "472",
+      "topics": "coderabbit, inngest, nextjs, shadcn-ui, stock-market, tailwindcss"
+    },
+    "FetchedAt": "2026-09-20T02:40:46.4875346+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:higgsfield-ai/higgsfield"
+    },
+    "Type": 0,
+    "Title": "higgsfield-ai/higgsfield",
+    "Url": "https://github.com/higgsfield-ai/higgsfield",
+    "Description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+    "Metadata": {
+      "owner": "higgsfield-ai",
+      "repo": "higgsfield",
+      "language": "Jupyter Notebook",
+      "stars": "196",
+      "topics": "cluster-management, deep-learning, distributed, llama, llama2, llm, machine-learning, mlops, pytorch"
+    },
+    "FetchedAt": "2026-09-20T02:40:46.6376379+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:docling-project/docling"
+    },
+    "Type": 0,
+    "Title": "docling-project/docling",
+    "Url": "https://github.com/docling-project/docling",
+    "Description": "Get your documents ready for gen AI",
+    "Metadata": {
+      "owner": "docling-project",
+      "repo": "docling",
+      "language": "Python",
+      "stars": "129",
+      "topics": "ai, convert, document-parser, document-parsing, documents, docx, html, markdown, pdf, pdf-converter, pdf-to-json, pdf-to-text, pptx, tables, xlsx"
+    },
+    "FetchedAt": "2026-09-20T02:40:46.8094806+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cloudflare/quiche"
+    },
+    "Type": 0,
+    "Title": "cloudflare/quiche",
+    "Url": "https://github.com/cloudflare/quiche",
+    "Description": "\uD83E\uDD67 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "Metadata": {
+      "owner": "cloudflare",
+      "repo": "quiche",
+      "language": "Rust",
+      "stars": "31",
+      "topics": "http3, network-programming, protocol, quic, rust"
+    },
+    "FetchedAt": "2026-09-20T02:40:46.9758173+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ruanyf/weekly"
+    },
+    "Type": 0,
+    "Title": "ruanyf/weekly",
+    "Url": "https://github.com/ruanyf/weekly",
+    "Description": "\u79D1\u6280\u7231\u597D\u8005\u5468\u520A\uFF0C\u6BCF\u5468\u4E94\u53D1\u5E03",
+    "Metadata": {
+      "owner": "ruanyf",
+      "repo": "weekly",
+      "stars": "98"
+    },
+    "FetchedAt": "2026-09-20T02:40:47.1359936+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ZuodaoTech/everyone-can-use-english"
+    },
+    "Type": 0,
+    "Title": "ZuodaoTech/everyone-can-use-english",
+    "Url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+    "Description": "\u4EBA\u4EBA\u90FD\u80FD\u7528\u82F1\u8BED",
+    "Metadata": {
+      "owner": "ZuodaoTech",
+      "repo": "everyone-can-use-english",
+      "language": "TypeScript",
+      "stars": "48"
+    },
+    "FetchedAt": "2026-09-20T02:40:47.2805319+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/knowledge-work-plugins"
+    },
+    "Type": 0,
+    "Title": "anthropics/knowledge-work-plugins",
+    "Url": "https://github.com/anthropics/knowledge-work-plugins",
+    "Description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "knowledge-work-plugins",
+      "language": "Python",
+      "stars": "281"
+    },
+    "FetchedAt": "2026-09-20T02:40:47.4436231+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cactus-compute/needle"
+    },
+    "Type": 0,
+    "Title": "cactus-compute/needle",
+    "Url": "https://github.com/cactus-compute/needle",
+    "Description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+    "Metadata": {
+      "owner": "cactus-compute",
+      "repo": "needle",
+      "language": "Python",
+      "stars": "234",
+      "topics": "cactus, edge-ai, foundation-model, function-calling, llm, on-device-ai, tinyml, tool-calling"
+    },
+    "FetchedAt": "2026-09-20T02:40:47.6237128+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:yynxxxxx/Codex-X"
+    },
+    "Type": 0,
+    "Title": "yynxxxxx/Codex-X",
+    "Url": "https://github.com/yynxxxxx/Codex-X",
+    "Description": "OpenAI Codex \u684C\u9762\u7AEF/CLI \u7684\u53EF\u89C6\u5316\u7BA1\u7406\u5DE5\u5177\uFF0C\u5177\u6709Provider/API \u5207\u6362\u3001\u4F1A\u8BDD\u540C\u6B65\u3001\u63D0\u793A\u8BCD\u6CE8\u5165\u3001Skills/MCP \u7BA1\u7406\u3001TOML \u914D\u7F6E\u53EF\u89C6\u5316\u7684\u8DE8\u5E73\u53F0\u5DE5\u5177\u3002",
+    "Metadata": {
+      "owner": "yynxxxxx",
+      "repo": "Codex-X",
+      "language": "Rust",
+      "stars": "32"
+    },
+    "FetchedAt": "2026-09-20T02:40:47.7862617+00:00"
+  }
+]
