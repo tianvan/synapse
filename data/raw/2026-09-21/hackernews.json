@@ -421,171 +421,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49787436"
-    },
-    "Type": 1,
-    "Title": "What Sun got wrong",
-    "Url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-    "Description": "What Sun got wrong",
-    "Metadata": {
-      "score": "284",
-      "author": "chmaynard",
-      "commentCount": "152"
-    },
-    "FetchedAt": "2026-09-21T17:33:29.7123846+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49787726"
-    },
-    "Type": 1,
-    "Title": "Attention is all you have",
-    "Url": "https://alicegg.tech/2026/09/21/attention",
-    "Description": "Attention is all you have",
-    "Metadata": {
-      "score": "198",
-      "author": "zer0tonin",
-      "commentCount": "50"
-    },
-    "FetchedAt": "2026-09-21T17:33:29.7563884+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49788838"
-    },
-    "Type": 1,
-    "Title": "Grok 4.7",
-    "Url": "https://x.ai/news/grok-4-7",
-    "Description": "Grok 4.7",
-    "Metadata": {
-      "score": "192",
-      "author": "meetpateltech",
-      "commentCount": "130"
-    },
-    "FetchedAt": "2026-09-21T17:33:29.8124833+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49789224"
-    },
-    "Type": 1,
-    "Title": "Fable 5 \u2013 Median thinking declined in August",
-    "Url": "https://twitter.com/Lon/status/2101793422487204027",
-    "Description": "Fable 5 \u2013 Median thinking declined in August",
-    "Metadata": {
-      "score": "91",
-      "author": "espeed",
-      "commentCount": "41"
-    },
-    "FetchedAt": "2026-09-21T17:33:29.8588153+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49788773"
-    },
-    "Type": 1,
-    "Title": "A restored PDP-11/83 serving this page on 211BSD Unix",
-    "Url": "http://pdp1173.com/",
-    "Description": "The box is a restored Q-bus PDP-11\u0026#x2F;83 named minerva: Mentec M11 CPU, two chassis tied with M9404\u0026#x2F;M9405, RQDX3, 2xEmulex UC07, KDA50, RLV12, DEQNA, M3104. Storage is RA82 \u002B dual RA92, MFM boot\u0026#x2F;swap, dual RL02, RX50s, and a TKZ50. OS is 2.11BSD.\u003Cp\u003EThe live panel is top. \u0026#x2F;cgi-bin\u0026#x2F;webtop is the raw snapshot.\u003Cp\u003EA 16-bit httpd will not survive the front page, so Varnish\u0026#x2F;Caddy\u0026#x2F;Cloudflare cache the HTML and a 5-second webtop sample. Origin is still the 11 itself, and i",
-    "Metadata": {
-      "score": "33",
-      "author": "davepl",
-      "commentCount": "8"
-    },
-    "FetchedAt": "2026-09-21T17:33:29.9049747+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49789228"
-    },
-    "Type": 1,
-    "Title": "This Digital Radio Gets Messages to the World\u2019s Remotest Locations",
-    "Url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
-    "Description": "This Digital Radio Gets Messages to the World\u2019s Remotest Locations",
-    "Metadata": {
-      "score": "16",
-      "author": "SamuraiLion",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-09-21T17:33:30.0801156+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49783999"
-    },
-    "Type": 1,
-    "Title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-    "Url": "https://github.com/jaredpalmer/kev/tree/main",
-    "Description": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-    "Metadata": {
-      "score": "304",
-      "author": "tosh",
-      "commentCount": "146"
-    },
-    "FetchedAt": "2026-09-21T17:33:30.1636052+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49787142"
-    },
-    "Type": 1,
-    "Title": "Python Workers are now generally available",
-    "Url": "https://blog.cloudflare.com/python-workers-ga/",
-    "Description": "Python Workers are now generally available",
-    "Metadata": {
-      "score": "65",
-      "author": "torutofu",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-09-21T17:33:30.2270777+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49789356"
-    },
-    "Type": 1,
-    "Title": "Show HN: Foremerge \u2013 Catch intent conflicts between parallel coding agents",
-    "Url": "https://github.com/naw103/foremerge",
-    "Description": "At, GPTree, we run several coding agents across our team on one repo using parallel worktrees. Apart from wasted time reviewing and fixing conflicts at PR time, the failures that hurt the most are when multiple plans or tickets cause architecture changes that cannot both be true. Ex. one agent replaces a class while another one is in the process of extending it. Git only notices if the resulting patches happen to touch the same lines and the review only catches it if they are familiar with both ",
-    "Metadata": {
-      "score": "15",
-      "author": "foremerge",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-09-21T17:33:30.2721464+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49783495"
-    },
-    "Type": 1,
-    "Title": "Grim Fandango Puzzle Document (1996) [pdf]",
-    "Url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
-    "Description": "Grim Fandango Puzzle Document (1996) [pdf]",
-    "Metadata": {
-      "score": "322",
-      "author": "kelseyfrog",
-      "commentCount": "70"
-    },
-    "FetchedAt": "2026-09-21T17:33:30.3168339+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49787313"
-    },
-    "Type": 1,
-    "Title": "M5 Ultra Mac Studio Review",
-    "Url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
-    "Description": "M5 Ultra Mac Studio Review",
-    "Metadata": {
-      "score": "144",
-      "author": "piotrgrabowski",
-      "commentCount": "106"
-    },
-    "FetchedAt": "2026-09-21T17:33:30.3715552+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49780820"
     },
     "Type": 1,
@@ -646,36 +481,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49789081"
-    },
-    "Type": 1,
-    "Title": "How do Traffic Signals Work (2019)",
-    "Url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
-    "Description": "How do Traffic Signals Work (2019)",
-    "Metadata": {
-      "score": "9",
-      "author": "at1as",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-09-21T17:33:30.6037987+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49787535"
-    },
-    "Type": 1,
-    "Title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-    "Url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
-    "Description": "macOS 27: Workaround to avoid downloading AI models and save storage",
-    "Metadata": {
-      "score": "118",
-      "author": "ano-ther",
-      "commentCount": "44"
-    },
-    "FetchedAt": "2026-09-21T17:33:30.6483293+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49786689"
     },
     "Type": 1,
@@ -721,21 +526,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49783101"
-    },
-    "Type": 1,
-    "Title": "Heretic removes restrictions from language models",
-    "Url": "https://heretic-project.org/",
-    "Description": "Heretic removes restrictions from language models",
-    "Metadata": {
-      "score": "174",
-      "author": "Bluestein",
-      "commentCount": "68"
-    },
-    "FetchedAt": "2026-09-21T17:33:30.8531796+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49783133"
     },
     "Type": 1,
@@ -763,21 +553,6 @@
       "commentCount": "301"
     },
     "FetchedAt": "2026-09-21T17:33:30.9517002+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49787684"
-    },
-    "Type": 1,
-    "Title": "Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich",
-    "Url": "https://digitalescapetools.com/tools/noodlegallery.html",
-    "Description": "Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich",
-    "Metadata": {
-      "score": "16",
-      "author": "xabd",
-      "commentCount": "9"
-    },
-    "FetchedAt": "2026-09-21T17:33:31.0180835+00:00"
   },
   {
     "ExternalId": {
@@ -868,5 +643,455 @@
       "commentCount": "212"
     },
     "FetchedAt": "2026-09-21T17:33:31.4124515+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49792730"
+    },
+    "Type": 1,
+    "Title": "Xiaomi MiMo v2.6",
+    "Url": "https://mimo.xiaomi.com/mimo-v2-6",
+    "Description": "Xiaomi MiMo v2.6",
+    "Metadata": {
+      "score": "199",
+      "author": "volf_",
+      "commentCount": "88"
+    },
+    "FetchedAt": "2026-09-21T21:29:51.6743224+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49791939"
+    },
+    "Type": 1,
+    "Title": "The NASA/ESA Mars Sample Return mission has been canceled",
+    "Url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+    "Description": "The NASA/ESA Mars Sample Return mission has been canceled",
+    "Metadata": {
+      "score": "175",
+      "author": "Muhammad523",
+      "commentCount": "130"
+    },
+    "FetchedAt": "2026-09-21T21:29:51.7195292+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49792342"
+    },
+    "Type": 1,
+    "Title": "Transformers Explained Visually",
+    "Url": "https://poloclub.github.io/transformer-explainer/",
+    "Description": "Transformers Explained Visually",
+    "Metadata": {
+      "score": "51",
+      "author": "aray07",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-09-21T21:29:51.7762362+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49787436"
+    },
+    "Type": 1,
+    "Title": "What Sun got wrong",
+    "Url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+    "Description": "What Sun got wrong",
+    "Metadata": {
+      "score": "428",
+      "author": "chmaynard",
+      "commentCount": "241"
+    },
+    "FetchedAt": "2026-09-21T21:29:51.821613+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49787726"
+    },
+    "Type": 1,
+    "Title": "Attention is all you have",
+    "Url": "https://alicegg.tech/2026/09/21/attention",
+    "Description": "Attention is all you have",
+    "Metadata": {
+      "score": "465",
+      "author": "zer0tonin",
+      "commentCount": "136"
+    },
+    "FetchedAt": "2026-09-21T21:29:51.8674863+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49791378"
+    },
+    "Type": 1,
+    "Title": "Why does mathmain need an encrypted loader?",
+    "Url": "https://safedep.io/mathmain-encrypted-loader/",
+    "Description": "Why does mathmain need an encrypted loader?",
+    "Metadata": {
+      "score": "80",
+      "author": "abhisek",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-09-21T21:29:51.9134004+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49791997"
+    },
+    "Type": 1,
+    "Title": "The Advisory Group on Mathematics and Artificial Intelligence",
+    "Url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+    "Description": "The Advisory Group on Mathematics and Artificial Intelligence",
+    "Metadata": {
+      "score": "43",
+      "author": "digital55",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-09-21T21:29:51.9586164+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49769561"
+    },
+    "Type": 1,
+    "Title": "Divide by Depth for Instant 3D",
+    "Url": "https://gabrieloc.com/2026/09/15/perspective.html",
+    "Description": "Divide by Depth for Instant 3D",
+    "Metadata": {
+      "score": "23",
+      "author": "gabrieloc",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-09-21T21:29:52.0037996+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49791797"
+    },
+    "Type": 1,
+    "Title": "In Search of a Compositional Theory of Self-Stabilization",
+    "Url": "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html",
+    "Description": "In Search of a Compositional Theory of Self-Stabilization",
+    "Metadata": {
+      "score": "29",
+      "author": "matt_d",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-09-21T21:29:52.0492609+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49791125"
+    },
+    "Type": 1,
+    "Title": "Apple Copland D11E4 Booting in the Browser",
+    "Url": "https://www.pagetable.com/300",
+    "Description": "Apple Copland D11E4 Booting in the Browser",
+    "Metadata": {
+      "score": "39",
+      "author": "luu",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-09-21T21:29:52.0947506+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49791647"
+    },
+    "Type": 1,
+    "Title": "Frontier AI on Your Own Hardware",
+    "Url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+    "Description": "Frontier AI on Your Own Hardware",
+    "Metadata": {
+      "score": "36",
+      "author": "pretext",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-09-21T21:29:52.1397838+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49788838"
+    },
+    "Type": 1,
+    "Title": "Grok 4.7",
+    "Url": "https://x.ai/news/grok-4-7",
+    "Description": "Grok 4.7",
+    "Metadata": {
+      "score": "423",
+      "author": "meetpateltech",
+      "commentCount": "343"
+    },
+    "FetchedAt": "2026-09-21T21:29:52.1851904+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49790409"
+    },
+    "Type": 1,
+    "Title": "Turn off and restrict access to Apple Intelligence features on Mac",
+    "Url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+    "Description": "Turn off and restrict access to Apple Intelligence features on Mac",
+    "Metadata": {
+      "score": "177",
+      "author": "alwillis",
+      "commentCount": "114"
+    },
+    "FetchedAt": "2026-09-21T21:29:52.2309823+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49792067"
+    },
+    "Type": 1,
+    "Title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+    "Url": "https://linear.app/now/ci-bottleneck-reworked",
+    "Description": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+    "Metadata": {
+      "score": "61",
+      "author": "julian_digital",
+      "commentCount": "50"
+    },
+    "FetchedAt": "2026-09-21T21:29:52.2775321+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49791509"
+    },
+    "Type": 1,
+    "Title": "US halts flights at busy East Coast airports, says fiber line cut",
+    "Url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+    "Description": "US halts flights at busy East Coast airports, says fiber line cut",
+    "Metadata": {
+      "score": "131",
+      "author": "allanbreyes",
+      "commentCount": "84"
+    },
+    "FetchedAt": "2026-09-21T21:29:52.3242738+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49791720"
+    },
+    "Type": 1,
+    "Title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
+    "Url": "https://robocurve.org/roboharm/",
+    "Description": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
+    "Metadata": {
+      "score": "14",
+      "author": "msadowski",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-09-21T21:29:52.3699985+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49783999"
+    },
+    "Type": 1,
+    "Title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+    "Url": "https://github.com/jaredpalmer/kev/tree/main",
+    "Description": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+    "Metadata": {
+      "score": "367",
+      "author": "tosh",
+      "commentCount": "164"
+    },
+    "FetchedAt": "2026-09-21T21:29:52.4152553+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49787142"
+    },
+    "Type": 1,
+    "Title": "Python Workers are now generally available",
+    "Url": "https://blog.cloudflare.com/python-workers-ga/",
+    "Description": "Python Workers are now generally available",
+    "Metadata": {
+      "score": "151",
+      "author": "torutofu",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-09-21T21:29:52.4626487+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49789228"
+    },
+    "Type": 1,
+    "Title": "This Digital Radio Gets Messages to the World\u2019s Remotest Locations",
+    "Url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+    "Description": "This Digital Radio Gets Messages to the World\u2019s Remotest Locations",
+    "Metadata": {
+      "score": "63",
+      "author": "SamuraiLion",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-09-21T21:29:52.510026+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49789081"
+    },
+    "Type": 1,
+    "Title": "How do Traffic Signals Work (2019)",
+    "Url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
+    "Description": "How do Traffic Signals Work (2019)",
+    "Metadata": {
+      "score": "47",
+      "author": "at1as",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-09-21T21:29:52.556858+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49788773"
+    },
+    "Type": 1,
+    "Title": "A restored PDP-11/83 serving this page on 211BSD Unix",
+    "Url": "http://pdp1173.com/",
+    "Description": "The box is a restored Q-bus PDP-11\u0026#x2F;83 named minerva: Mentec M11 CPU, two chassis tied with M9404\u0026#x2F;M9405, RQDX3, 2xEmulex UC07, KDA50, RLV12, DEQNA, M3104. Storage is RA82 \u002B dual RA92, MFM boot\u0026#x2F;swap, dual RL02, RX50s, and a TKZ50. OS is 2.11BSD.\u003Cp\u003EThe live panel is top. \u0026#x2F;cgi-bin\u0026#x2F;webtop is the raw snapshot.\u003Cp\u003EA 16-bit httpd will not survive the front page, so Varnish\u0026#x2F;Caddy\u0026#x2F;Cloudflare cache the HTML and a 5-second webtop sample. Origin is still the 11 itself, and i",
+    "Metadata": {
+      "score": "78",
+      "author": "davepl",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-09-21T21:29:52.6051502+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49791117"
+    },
+    "Type": 1,
+    "Title": "Avoiding the babbling-idiot failure in a time-triggered communication system",
+    "Url": "https://ieeexplore.ieee.org/document/689473",
+    "Description": "Avoiding the babbling-idiot failure in a time-triggered communication system",
+    "Metadata": {
+      "score": "20",
+      "author": "ronfriedhaber",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-09-21T21:29:52.6518265+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49783495"
+    },
+    "Type": 1,
+    "Title": "Grim Fandango Puzzle Document (1996) [pdf]",
+    "Url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+    "Description": "Grim Fandango Puzzle Document (1996) [pdf]",
+    "Metadata": {
+      "score": "345",
+      "author": "kelseyfrog",
+      "commentCount": "88"
+    },
+    "FetchedAt": "2026-09-21T21:29:52.6975537+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49789224"
+    },
+    "Type": 1,
+    "Title": "Fable 5 \u2013 Median thinking declined in August",
+    "Url": "https://twitter.com/Lon/status/2101793422487204027",
+    "Description": "Fable 5 \u2013 Median thinking declined in August",
+    "Metadata": {
+      "score": "296",
+      "author": "espeed",
+      "commentCount": "196"
+    },
+    "FetchedAt": "2026-09-21T21:29:52.744423+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49789356"
+    },
+    "Type": 1,
+    "Title": "Show HN: Foremerge \u2013 Catch intent conflicts between parallel coding agents",
+    "Url": "https://github.com/naw103/foremerge",
+    "Description": "At, GPTree, we run several coding agents across our team on one repo using parallel worktrees. Apart from wasted time reviewing and fixing conflicts at PR time, the failures that hurt the most are when multiple plans or tickets cause architecture changes that cannot both be true. Ex. one agent replaces a class while another one is in the process of extending it. Git only notices if the resulting patches happen to touch the same lines and the review only catches it if they are familiar with both ",
+    "Metadata": {
+      "score": "27",
+      "author": "naw103",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-21T21:29:52.7912177+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49787684"
+    },
+    "Type": 1,
+    "Title": "Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich",
+    "Url": "https://digitalescapetools.com/tools/noodlegallery.html",
+    "Description": "Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich",
+    "Metadata": {
+      "score": "47",
+      "author": "xabd",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-09-21T21:29:52.8370523+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49787313"
+    },
+    "Type": 1,
+    "Title": "M5 Ultra Mac Studio Review",
+    "Url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+    "Description": "M5 Ultra Mac Studio Review",
+    "Metadata": {
+      "score": "210",
+      "author": "piotrgrabowski",
+      "commentCount": "198"
+    },
+    "FetchedAt": "2026-09-21T21:29:52.8826291+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49787535"
+    },
+    "Type": 1,
+    "Title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+    "Url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+    "Description": "macOS 27: Workaround to avoid downloading AI models and save storage",
+    "Metadata": {
+      "score": "190",
+      "author": "ano-ther",
+      "commentCount": "83"
+    },
+    "FetchedAt": "2026-09-21T21:29:52.9278914+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49783101"
+    },
+    "Type": 1,
+    "Title": "Heretic removes restrictions from language models",
+    "Url": "https://heretic-project.org/",
+    "Description": "Heretic removes restrictions from language models",
+    "Metadata": {
+      "score": "215",
+      "author": "Bluestein",
+      "commentCount": "88"
+    },
+    "FetchedAt": "2026-09-21T21:29:52.9743634+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49792076"
+    },
+    "Type": 1,
+    "Title": "Show HN: A website that tracks US food prices every day",
+    "Url": "https://www.kadoa.com/food-prices",
+    "Description": "The US Department of Agriculture (USDA) publishes daily food price data for about 290 commodities on:\u003Cp\u003E- what growers were paid at shipping point\u003Cp\u003E- what buyers paid at the big city wholesale markets\u003Cp\u003E- what prices supermarkets advertised in their weekly ads\u003Cp\u003EThis data comes out as dozens of separate text reports and PDFs, one per market, with no history and no way to see how prices change over time.\u003Cp\u003EI think this should be public data that is easy to access and understand, so I built an op",
+    "Metadata": {
+      "score": "17",
+      "author": "hubraumhugo",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-09-21T21:29:53.0196618+00:00"
   }
 ]
