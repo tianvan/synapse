@@ -1,0 +1,184 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:BuilderIO/agent-native"
+    },
+    "Type": 0,
+    "Title": "BuilderIO/agent-native",
+    "Url": "https://github.com/BuilderIO/agent-native",
+    "Description": "A framework for building agentic apps",
+    "Metadata": {
+      "owner": "BuilderIO",
+      "repo": "agent-native",
+      "language": "TypeScript",
+      "stars": "98",
+      "topics": "agent-native, agents, ai, react, typescript"
+    },
+    "FetchedAt": "2026-09-21T02:38:03.676232+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cloudflare/security-audit-skill"
+    },
+    "Type": 0,
+    "Title": "cloudflare/security-audit-skill",
+    "Url": "https://github.com/cloudflare/security-audit-skill",
+    "Description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "Metadata": {
+      "owner": "cloudflare",
+      "repo": "security-audit-skill",
+      "language": "JavaScript",
+      "stars": "2,428"
+    },
+    "FetchedAt": "2026-09-21T02:38:03.8538712+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/financial-services"
+    },
+    "Type": 0,
+    "Title": "anthropics/financial-services",
+    "Url": "https://github.com/anthropics/financial-services",
+    "Description": "",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "financial-services",
+      "language": "Python",
+      "stars": "260"
+    },
+    "FetchedAt": "2026-09-21T02:38:04.0216468+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:paperless-ngx/paperless-ngx"
+    },
+    "Type": 0,
+    "Title": "paperless-ngx/paperless-ngx",
+    "Url": "https://github.com/paperless-ngx/paperless-ngx",
+    "Description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+    "Metadata": {
+      "owner": "paperless-ngx",
+      "repo": "paperless-ngx",
+      "language": "Python",
+      "stars": "57",
+      "topics": "ai, angular, archiving, django, dms, document-management, document-management-system, llm, machine-learning, ocr, optical-character-recognition, pdf"
+    },
+    "FetchedAt": "2026-09-21T02:38:04.1544745+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-code"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-code",
+    "Url": "https://github.com/anthropics/claude-code",
+    "Description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-code",
+      "language": "TypeScript",
+      "stars": "419"
+    },
+    "FetchedAt": "2026-09-21T02:38:04.2841073+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mihail911/modern-software-dev-assignments"
+    },
+    "Type": 0,
+    "Title": "mihail911/modern-software-dev-assignments",
+    "Url": "https://github.com/mihail911/modern-software-dev-assignments",
+    "Description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+    "Metadata": {
+      "owner": "mihail911",
+      "repo": "modern-software-dev-assignments",
+      "language": "Python",
+      "stars": "172"
+    },
+    "FetchedAt": "2026-09-21T02:38:04.4165534+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:higgsfield-ai/higgsfield"
+    },
+    "Type": 0,
+    "Title": "higgsfield-ai/higgsfield",
+    "Url": "https://github.com/higgsfield-ai/higgsfield",
+    "Description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+    "Metadata": {
+      "owner": "higgsfield-ai",
+      "repo": "higgsfield",
+      "language": "Jupyter Notebook",
+      "stars": "465",
+      "topics": "cluster-management, deep-learning, distributed, llama, llama2, llm, machine-learning, mlops, pytorch"
+    },
+    "FetchedAt": "2026-09-21T02:38:04.548835+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Open-Dev-Society/OpenStock"
+    },
+    "Type": 0,
+    "Title": "Open-Dev-Society/OpenStock",
+    "Url": "https://github.com/Open-Dev-Society/OpenStock",
+    "Description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights \u2014 built openly, for everyone, forever free.",
+    "Metadata": {
+      "owner": "Open-Dev-Society",
+      "repo": "OpenStock",
+      "language": "TypeScript",
+      "stars": "755",
+      "topics": "coderabbit, inngest, nextjs, shadcn-ui, stock-market, tailwindcss"
+    },
+    "FetchedAt": "2026-09-21T02:38:04.6852374+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:coder/coder"
+    },
+    "Type": 0,
+    "Title": "coder/coder",
+    "Url": "https://github.com/coder/coder",
+    "Description": "Secure environments for developers and their agents",
+    "Metadata": {
+      "owner": "coder",
+      "repo": "coder",
+      "language": "Go",
+      "stars": "379",
+      "topics": "agents, dev-tools, development-environment, go, golang, ide, jetbrains, remote-development, terraform, vscode"
+    },
+    "FetchedAt": "2026-09-21T02:38:04.8121912+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:vercel-labs/json-render"
+    },
+    "Type": 0,
+    "Title": "vercel-labs/json-render",
+    "Url": "https://github.com/vercel-labs/json-render",
+    "Description": "The Generative UI framework",
+    "Metadata": {
+      "owner": "vercel-labs",
+      "repo": "json-render",
+      "language": "TypeScript",
+      "stars": "291"
+    },
+    "FetchedAt": "2026-09-21T02:38:06.258983+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "JavaScript",
+      "stars": "736",
+      "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
+    },
+    "FetchedAt": "2026-09-21T02:38:06.4001619+00:00"
+  }
+]
