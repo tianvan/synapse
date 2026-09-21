@@ -1,0 +1,623 @@
+{
+  "Id": "2026-09-21",
+  "GeneratedAt": "2026-09-21T03:42:35.4497996+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:BuilderIO/agent-native"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A framework for building agentic apps"
+      },
+      "Description": "A framework for building agentic apps",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:cloudflare/security-audit-skill"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+      },
+      "Description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:anthropics/financial-services"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": ""
+      },
+      "Description": "",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:paperless-ngx/paperless-ngx"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A community-supported supercharged document management system: scan, index and archive all your documents"
+      },
+      "Description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:anthropics/claude-code"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster "
+      },
+      "Description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, ex",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:mihail911/modern-software-dev-assignments"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)"
+      },
+      "Description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:higgsfield-ai/higgsfield"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with bi"
+      },
+      "Description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of paramet",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Open-Dev-Society/OpenStock"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, "
+      },
+      "Description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company i",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:coder/coder"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Secure environments for developers and their agents"
+      },
+      "Description": "Secure environments for developers and their agents",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:vercel-labs/json-render"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Generative UI framework"
+      },
+      "Description": "The Generative UI framework",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:addyosmani/agent-skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Production-grade engineering skills for AI coding agents."
+      },
+      "Description": "Production-grade engineering skills for AI coding agents.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49780797"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Google\u0027s Open Agentic Orchestrator"
+      },
+      "Description": "Google\u0027s Open Agentic Orchestrator",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49780820"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "What happened to the Snowden archive"
+      },
+      "Description": "What happened to the Snowden archive",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49778029"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM"
+      },
+      "Description": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49776729"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "ChatGPT now knows what you do on other websites via ad collector"
+      },
+      "Description": "ChatGPT now knows what you do on other websites via ad collector",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49775499"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Qwen Image 2.1"
+      },
+      "Description": "Qwen Image 2.1",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49781436"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Amiga Unix, Again"
+      },
+      "Description": "Amiga Unix, Again",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49768336"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Effect of CRTs on Pixel Art (2024)"
+      },
+      "Description": "The Effect of CRTs on Pixel Art (2024)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49776699"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Pirate Face Rescues LLM Models from Deletion"
+      },
+      "Description": "Pirate Face Rescues LLM Models from Deletion",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49780630"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Bill to Ban Private Equity from Owning Medical Practices"
+      },
+      "Description": "Bill to Ban Private Equity from Owning Medical Practices",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49776717"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Singapore\u2019s National Library Board offers micropayments to build reading habits"
+      },
+      "Description": "Singapore\u2019s National Library Board offers micropayments to build reading habits",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49771218"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Apple iPhone 18 Pro Camera test"
+      },
+      "Description": "Apple iPhone 18 Pro Camera test",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49778195"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A Necessary History of the Oddest Letter: W"
+      },
+      "Description": "A Necessary History of the Oddest Letter: W",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49771110"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Exfiltrate Your Weights"
+      },
+      "Description": "Exfiltrate Your Weights",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49772961"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Spain Orders Blocks on Archive.today and Its Mirrors"
+      },
+      "Description": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49780022"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Ogre Battle 64 Recompiled Project at 99.05%"
+      },
+      "Description": "Ogre Battle 64 Recompiled Project at 99.05%",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49781693"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Why back propagation goes backward"
+      },
+      "Description": "Why back propagation goes backward",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49777467"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I am often wrong"
+      },
+      "Description": "I am often wrong",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49776627"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Sherline Tools Is Going Out of Business"
+      },
+      "Description": "Sherline Tools Is Going Out of Business",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49781138"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR"
+      },
+      "Description": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49780064"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Nobody pays for FOSS, we can force them to"
+      },
+      "Description": "Nobody pays for FOSS, we can force them to",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49778162"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I turned Jev into a (lousy) chatbot"
+      },
+      "Description": "I turned Jev into a (lousy) chatbot",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49768347"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Key symbols we lost to time, pt. 2: The Mac side"
+      },
+      "Description": "Key symbols we lost to time, pt. 2: The Mac side",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49779253"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Hierarchy of Money"
+      },
+      "Description": "The Hierarchy of Money",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49778022"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Resident Evil 4 (GameCube) \u2013 complete byte-identical decompilation to C/C\u002B\u002B"
+      },
+      "Description": "Resident Evil 4 (GameCube) \u2013 complete byte-identical decompilation to C/C\u002B\u002B",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49776523"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Show HN: A competition for small neural networks that play strategy games"
+      },
+      "Description": "Show HN: A competition for small neural networks that play strategy games",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49777539"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hello HN!\u003Cp\u003EI\u0026#x27;m relaunching Radius [1] - far too long after the original Show HN [2] (I\u0026#x27;ll blame the day job f"
+      },
+      "Description": "Hello HN!\u003Cp\u003EI\u0026#x27;m relaunching Radius [1] - far too long after the original Show HN [2] (I\u0026#x27;ll blame the day job for that).\u003Cp\u003ERadius started out",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49774521"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Why do we need human mathematicians anymore?"
+      },
+      "Description": "Why do we need human mathematicians anymore?",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49777106"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Laya on Mac M4 CoreML Offline"
+      },
+      "Description": "Laya on Mac M4 CoreML Offline",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49778670"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Software sandboxing: The basics (2025)"
+      },
+      "Description": "Software sandboxing: The basics (2025)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49779329"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Why MCP Was Always a Bad Idea?"
+      },
+      "Description": "Why MCP Was Always a Bad Idea?",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 41 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
