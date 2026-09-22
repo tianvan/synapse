@@ -181,126 +181,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49798204"
-    },
-    "Type": 1,
-    "Title": "AMD\u0027s random number generator can\u0027t generate a 0?",
-    "Url": "https://board.flatassembler.net/topic.php?t=24261",
-    "Description": "AMD\u0027s random number generator can\u0027t generate a 0?",
-    "Metadata": {
-      "score": "49",
-      "author": "BruceEel",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-09-22T10:41:24.5612113+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49797323"
-    },
-    "Type": 1,
-    "Title": "Can gzip be a language model?",
-    "Url": "https://nathan.rs/posts/gzip-lm/",
-    "Description": "Can gzip be a language model?",
-    "Metadata": {
-      "score": "159",
-      "author": "networked",
-      "commentCount": "65"
-    },
-    "FetchedAt": "2026-09-22T10:41:24.6035865+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49792730"
-    },
-    "Type": 1,
-    "Title": "MiMo v2.6",
-    "Url": "https://mimo.xiaomi.com/mimo-v2-6",
-    "Description": "MiMo v2.6",
-    "Metadata": {
-      "score": "916",
-      "author": "volf_",
-      "commentCount": "411"
-    },
-    "FetchedAt": "2026-09-22T10:41:24.6456898+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49794615"
-    },
-    "Type": 1,
-    "Title": "Spymarks, Not Watermarks",
-    "Url": "https://brand.io/article/spymarks/",
-    "Description": "Spymarks, Not Watermarks",
-    "Metadata": {
-      "score": "457",
-      "author": "possibilistic",
-      "commentCount": "117"
-    },
-    "FetchedAt": "2026-09-22T10:41:24.6878511+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49797982"
-    },
-    "Type": 1,
-    "Title": "I said no and Apple said yes",
-    "Url": "https://dbushell.com/2026/09/22/apple-intelligence/",
-    "Description": "I said no and Apple said yes",
-    "Metadata": {
-      "score": "185",
-      "author": "thatslast",
-      "commentCount": "112"
-    },
-    "FetchedAt": "2026-09-22T10:41:24.7301568+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49792342"
-    },
-    "Type": 1,
-    "Title": "Transformers Explained Visually",
-    "Url": "https://poloclub.github.io/transformer-explainer/",
-    "Description": "Transformers Explained Visually",
-    "Metadata": {
-      "score": "425",
-      "author": "aray07",
-      "commentCount": "66"
-    },
-    "FetchedAt": "2026-09-22T10:41:24.7723389+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49787726"
-    },
-    "Type": 1,
-    "Title": "Attention is all you have",
-    "Url": "https://alicegg.tech/2026/09/21/attention",
-    "Description": "Attention is all you have",
-    "Metadata": {
-      "score": "826",
-      "author": "zer0tonin",
-      "commentCount": "245"
-    },
-    "FetchedAt": "2026-09-22T10:41:24.8158838+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49787436"
-    },
-    "Type": 1,
-    "Title": "What Sun got wrong",
-    "Url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-    "Description": "What Sun got wrong",
-    "Metadata": {
-      "score": "596",
-      "author": "chmaynard",
-      "commentCount": "345"
-    },
-    "FetchedAt": "2026-09-22T10:41:24.8579219+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49798451"
     },
     "Type": 1,
@@ -313,81 +193,6 @@
       "commentCount": "56"
     },
     "FetchedAt": "2026-09-22T10:41:24.9004604+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49796660"
-    },
-    "Type": 1,
-    "Title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
-    "Url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
-    "Description": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
-    "Metadata": {
-      "score": "75",
-      "author": "theanonymousone",
-      "commentCount": "20"
-    },
-    "FetchedAt": "2026-09-22T10:41:24.944017+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49794330"
-    },
-    "Type": 1,
-    "Title": "I don\u0027t want to read what you didn\u0027t write",
-    "Url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-    "Description": "I don\u0027t want to read what you didn\u0027t write",
-    "Metadata": {
-      "score": "706",
-      "author": "mooreds",
-      "commentCount": "287"
-    },
-    "FetchedAt": "2026-09-22T10:41:24.9871786+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49792067"
-    },
-    "Type": 1,
-    "Title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-    "Url": "https://linear.app/now/ci-bottleneck-reworked",
-    "Description": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-    "Metadata": {
-      "score": "247",
-      "author": "julian_digital",
-      "commentCount": "275"
-    },
-    "FetchedAt": "2026-09-22T10:41:25.0293853+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49769561"
-    },
-    "Type": 1,
-    "Title": "Divide by depth for instant 3D",
-    "Url": "https://gabrieloc.com/2026/09/15/perspective.html",
-    "Description": "Divide by depth for instant 3D",
-    "Metadata": {
-      "score": "159",
-      "author": "gabrieloc",
-      "commentCount": "30"
-    },
-    "FetchedAt": "2026-09-22T10:41:25.0713711+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49774161"
-    },
-    "Type": 1,
-    "Title": "A font that reads what you wrote",
-    "Url": "https://rohanadwankar.github.io/posts/semfont.html",
-    "Description": "A font that reads what you wrote",
-    "Metadata": {
-      "score": "9",
-      "author": "RohanAdwankar",
-      "commentCount": "9"
-    },
-    "FetchedAt": "2026-09-22T10:41:25.1141986+00:00"
   },
   {
     "ExternalId": {
@@ -448,36 +253,6 @@
       "commentCount": "85"
     },
     "FetchedAt": "2026-09-22T10:41:25.2944455+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49785202"
-    },
-    "Type": 1,
-    "Title": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
-    "Url": "https://gregorygundersen.com/blog/2024/12/21/engineering-memory/",
-    "Description": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
-    "Metadata": {
-      "score": "17",
-      "author": "fuzzythinker",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-09-22T10:41:25.3391597+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49780175"
-    },
-    "Type": 1,
-    "Title": "What It\u0027s Like to Work in One of America\u0027s Data Centers",
-    "Url": "https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003",
-    "Description": "What It\u0027s Like to Work in One of America\u0027s Data Centers",
-    "Metadata": {
-      "score": "12",
-      "author": "JumpCrisscross",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-09-22T10:41:25.382334+00:00"
   },
   {
     "ExternalId": {
@@ -628,5 +403,455 @@
       "commentCount": "489"
     },
     "FetchedAt": "2026-09-22T10:41:25.8102289+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49802871"
+    },
+    "Type": 1,
+    "Title": "How Meta\u0027s Muse works, revealed by the 6.8 GB filesystem it sent me",
+    "Url": "https://mouse.dev/blog/muse-runtime-export/",
+    "Description": "How Meta\u0027s Muse works, revealed by the 6.8 GB filesystem it sent me",
+    "Metadata": {
+      "score": "56",
+      "author": "Aeroi",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-09-22T16:01:46.8285359+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49801324"
+    },
+    "Type": 1,
+    "Title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
+    "Url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+    "Description": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
+    "Metadata": {
+      "score": "219",
+      "author": "sohkamyung",
+      "commentCount": "221"
+    },
+    "FetchedAt": "2026-09-22T16:01:46.8638438+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49801939"
+    },
+    "Type": 1,
+    "Title": "Apple has added persistent \u0027ads\u0027 to iOS, and it\u0027s driving users crazy",
+    "Url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+    "Description": "Apple has added persistent \u0027ads\u0027 to iOS, and it\u0027s driving users crazy",
+    "Metadata": {
+      "score": "212",
+      "author": "MC995",
+      "commentCount": "129"
+    },
+    "FetchedAt": "2026-09-22T16:01:46.8976043+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49801329"
+    },
+    "Type": 1,
+    "Title": "Show HN: Drop \u2013 a rootless Linux sandbox with gVisor support",
+    "Url": "https://droprun.sh/",
+    "Description": "I created Drop because I always felt uneasy installing and running third-party programs using my main user account. A single compromised dependency means a full compromise of the system. What is even worse, because I ship software from my computer, a single compromised dependency can lead to compromise of all the users of my software.\u003Cp\u003EContainers and VMs are one solution, but for local work, they are often detrimental to productivity. It takes effort to configure a machine with all the tools an",
+    "Metadata": {
+      "score": "72",
+      "author": "mixedbit",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-09-22T16:01:46.9327692+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49802160"
+    },
+    "Type": 1,
+    "Title": "Jev \u2013 a curation of Jev demos on X, tools, skills, and integrations",
+    "Url": "https://github.com/Amal-David/awesome-jev",
+    "Description": "Jev \u2013 a curation of Jev demos on X, tools, skills, and integrations",
+    "Metadata": {
+      "score": "51",
+      "author": "frostbyte7",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-09-22T16:01:46.9681418+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49797323"
+    },
+    "Type": 1,
+    "Title": "Can gzip be a language model?",
+    "Url": "https://nathan.rs/posts/gzip-lm/",
+    "Description": "Can gzip be a language model?",
+    "Metadata": {
+      "score": "307",
+      "author": "networked",
+      "commentCount": "119"
+    },
+    "FetchedAt": "2026-09-22T16:01:47.0028127+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49802161"
+    },
+    "Type": 1,
+    "Title": "OpenAI is about to eat Jev\u0027s lunch \u2013 Arcturus Labs",
+    "Url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+    "Description": "OpenAI is about to eat Jev\u0027s lunch \u2013 Arcturus Labs",
+    "Metadata": {
+      "score": "82",
+      "author": "JohnBerryman",
+      "commentCount": "64"
+    },
+    "FetchedAt": "2026-09-22T16:01:47.0383719+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49792730"
+    },
+    "Type": 1,
+    "Title": "MiMo v2.6",
+    "Url": "https://mimo.xiaomi.com/mimo-v2-6",
+    "Description": "MiMo v2.6",
+    "Metadata": {
+      "score": "1022",
+      "author": "volf_",
+      "commentCount": "455"
+    },
+    "FetchedAt": "2026-09-22T16:01:47.0730855+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49794615"
+    },
+    "Type": 1,
+    "Title": "Spymarks, Not Watermarks",
+    "Url": "https://brand.io/article/spymarks/",
+    "Description": "Spymarks, Not Watermarks",
+    "Metadata": {
+      "score": "601",
+      "author": "possibilistic",
+      "commentCount": "145"
+    },
+    "FetchedAt": "2026-09-22T16:01:47.1066641+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49802030"
+    },
+    "Type": 1,
+    "Title": "Muse, Meta\u0027s extraordinarily privileged AI assistant, has a serious 0-day",
+    "Url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+    "Description": "Muse, Meta\u0027s extraordinarily privileged AI assistant, has a serious 0-day",
+    "Metadata": {
+      "score": "38",
+      "author": "pavel_lishin",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-09-22T16:01:47.1408108+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49780622"
+    },
+    "Type": 1,
+    "Title": "Line Scan Photos from MUNI Heritage Weekend in San Francisco",
+    "Url": "https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/",
+    "Description": "Line Scan Photos from MUNI Heritage Weekend in San Francisco",
+    "Metadata": {
+      "score": "89",
+      "author": "plun9",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-09-22T16:01:47.1755898+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49773597"
+    },
+    "Type": 1,
+    "Title": "Teleoperated Humans",
+    "Url": "https://www.jefftk.com/p/teleoperated-humans",
+    "Description": "Teleoperated Humans",
+    "Metadata": {
+      "score": "13",
+      "author": "luu",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-09-22T16:01:47.2115968+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49787726"
+    },
+    "Type": 1,
+    "Title": "Attention is all you have",
+    "Url": "https://alicegg.tech/2026/09/21/attention",
+    "Description": "Attention is all you have",
+    "Metadata": {
+      "score": "980",
+      "author": "zer0tonin",
+      "commentCount": "296"
+    },
+    "FetchedAt": "2026-09-22T16:01:47.2459791+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49792342"
+    },
+    "Type": 1,
+    "Title": "Transformers Explained Visually",
+    "Url": "https://poloclub.github.io/transformer-explainer/",
+    "Description": "Transformers Explained Visually",
+    "Metadata": {
+      "score": "551",
+      "author": "aray07",
+      "commentCount": "81"
+    },
+    "FetchedAt": "2026-09-22T16:01:47.2792963+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49801218"
+    },
+    "Type": 1,
+    "Title": "The Economics of Open-Weight Inference",
+    "Url": "https://data.ornn.com/publications/the-economics-of-open-weight-inference",
+    "Description": "The Economics of Open-Weight Inference",
+    "Metadata": {
+      "score": "8",
+      "author": "marinesebastian",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-22T16:01:47.3146744+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49794193"
+    },
+    "Type": 1,
+    "Title": "Solitaire Alone Together",
+    "Url": "https://solitairealonetogether.com/",
+    "Description": "Solitaire Alone Together",
+    "Metadata": {
+      "score": "19",
+      "author": "eieio",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-09-22T16:01:47.3481119+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49787436"
+    },
+    "Type": 1,
+    "Title": "What Sun got wrong",
+    "Url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+    "Description": "What Sun got wrong",
+    "Metadata": {
+      "score": "653",
+      "author": "chmaynard",
+      "commentCount": "375"
+    },
+    "FetchedAt": "2026-09-22T16:01:47.3830485+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49797982"
+    },
+    "Type": 1,
+    "Title": "I said no and Apple said yes",
+    "Url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+    "Description": "I said no and Apple said yes",
+    "Metadata": {
+      "score": "594",
+      "author": "thatslast",
+      "commentCount": "476"
+    },
+    "FetchedAt": "2026-09-22T16:01:47.4171556+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49774161"
+    },
+    "Type": 1,
+    "Title": "A font that reads what you wrote",
+    "Url": "https://rohanadwankar.github.io/posts/semfont.html",
+    "Description": "A font that reads what you wrote",
+    "Metadata": {
+      "score": "63",
+      "author": "RohanAdwankar",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-09-22T16:01:47.4542415+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49802581"
+    },
+    "Type": 1,
+    "Title": "Vacate a Drone Restriction That Criminalized Recording Immigration Agents",
+    "Url": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration",
+    "Description": "Vacate a Drone Restriction That Criminalized Recording Immigration Agents",
+    "Metadata": {
+      "score": "13",
+      "author": "hn_acker",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-09-22T16:01:47.488239+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49794330"
+    },
+    "Type": 1,
+    "Title": "I don\u0027t want to read what you didn\u0027t write",
+    "Url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+    "Description": "I don\u0027t want to read what you didn\u0027t write",
+    "Metadata": {
+      "score": "906",
+      "author": "mooreds",
+      "commentCount": "382"
+    },
+    "FetchedAt": "2026-09-22T16:01:47.5230571+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49796660"
+    },
+    "Type": 1,
+    "Title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+    "Url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+    "Description": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+    "Metadata": {
+      "score": "130",
+      "author": "theanonymousone",
+      "commentCount": "51"
+    },
+    "FetchedAt": "2026-09-22T16:01:47.5654037+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49798204"
+    },
+    "Type": 1,
+    "Title": "AMD\u0027s random number generator can\u0027t generate a 0?",
+    "Url": "https://board.flatassembler.net/topic.php?t=24261",
+    "Description": "AMD\u0027s random number generator can\u0027t generate a 0?",
+    "Metadata": {
+      "score": "181",
+      "author": "BruceEel",
+      "commentCount": "141"
+    },
+    "FetchedAt": "2026-09-22T16:01:47.5999306+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49792067"
+    },
+    "Type": 1,
+    "Title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+    "Url": "https://linear.app/now/ci-bottleneck-reworked",
+    "Description": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+    "Metadata": {
+      "score": "293",
+      "author": "julian_digital",
+      "commentCount": "357"
+    },
+    "FetchedAt": "2026-09-22T16:01:47.6337026+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49785202"
+    },
+    "Type": 1,
+    "Title": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
+    "Url": "https://gregorygundersen.com/blog/2024/12/21/engineering-memory/",
+    "Description": "Engineering Memory: On learning to memorize first 100 digits of pi (2024)",
+    "Metadata": {
+      "score": "49",
+      "author": "fuzzythinker",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-09-22T16:01:47.6679175+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49780175"
+    },
+    "Type": 1,
+    "Title": "What It\u0027s Like to Work in One of America\u0027s Data Centers",
+    "Url": "https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003",
+    "Description": "What It\u0027s Like to Work in One of America\u0027s Data Centers",
+    "Metadata": {
+      "score": "55",
+      "author": "JumpCrisscross",
+      "commentCount": "41"
+    },
+    "FetchedAt": "2026-09-22T16:01:47.7021518+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49799965"
+    },
+    "Type": 1,
+    "Title": "AI Has No Wisdom and Neither Will You",
+    "Url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+    "Description": "AI Has No Wisdom and Neither Will You",
+    "Metadata": {
+      "score": "308",
+      "author": "dimonomid",
+      "commentCount": "433"
+    },
+    "FetchedAt": "2026-09-22T16:01:47.7361188+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49799083"
+    },
+    "Type": 1,
+    "Title": "9 Ads per Minute: FIFA Cup 26 \u2013 \u0022the price of the beautiful game\u0022",
+    "Url": "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html",
+    "Description": "9 Ads per Minute: FIFA Cup 26 \u2013 \u0022the price of the beautiful game\u0022",
+    "Metadata": {
+      "score": "148",
+      "author": "KellyCriterion",
+      "commentCount": "194"
+    },
+    "FetchedAt": "2026-09-22T16:01:47.770641+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49769561"
+    },
+    "Type": 1,
+    "Title": "Divide by depth for instant 3D",
+    "Url": "https://gabrieloc.com/2026/09/15/perspective.html",
+    "Description": "Divide by depth for instant 3D",
+    "Metadata": {
+      "score": "195",
+      "author": "gabrieloc",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-09-22T16:01:47.8044151+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49798597"
+    },
+    "Type": 1,
+    "Title": "Verda (Finland) raises $189M in Series B",
+    "Url": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
+    "Description": "Verda (Finland) raises $189M in Series B",
+    "Metadata": {
+      "score": "79",
+      "author": "cmrdporcupine",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-09-22T16:01:47.8393718+00:00"
   }
 ]
