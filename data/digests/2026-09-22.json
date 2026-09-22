@@ -1,0 +1,623 @@
+{
+  "Id": "2026-09-22",
+  "GeneratedAt": "2026-09-22T03:40:47.216555+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:BuilderIO/agent-native"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A framework for building agentic apps"
+      },
+      "Description": "A framework for building agentic apps",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Open-Dev-Society/OpenStock"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, "
+      },
+      "Description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company i",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:akitaonrails/ai-memory"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+      },
+      "Description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:coder/coder"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Secure environments for developers and their agents"
+      },
+      "Description": "Secure environments for developers and their agents",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:anthropics/financial-services"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": ""
+      },
+      "Description": "",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:cloudflare/quiche"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\uD83E\uDD67 Savoury implementation of the QUIC transport protocol and HTTP/3"
+      },
+      "Description": "\uD83E\uDD67 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:mvt-project/mvt"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potentia"
+      },
+      "Description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:zhouxiaoka/autoclip"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AutoClip : AI-powered video clipping and highlight generation \u00B7 \u4E00\u6B3E\u667A\u80FD\u9AD8\u5149\u63D0\u53D6\u4E0E\u526A\u8F91\u7684\u4E8C\u521B\u5DE5\u5177"
+      },
+      "Description": "AutoClip : AI-powered video clipping and highlight generation \u00B7 \u4E00\u6B3E\u667A\u80FD\u9AD8\u5149\u63D0\u53D6\u4E0E\u526A\u8F91\u7684\u4E8C\u521B\u5DE5\u5177",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:ruanyf/weekly"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u79D1\u6280\u7231\u597D\u8005\u5468\u520A\uFF0C\u6BCF\u5468\u4E94\u53D1\u5E03"
+      },
+      "Description": "\u79D1\u6280\u7231\u597D\u8005\u5468\u520A\uFF0C\u6BCF\u5468\u4E94\u53D1\u5E03",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Crosstalk-Solutions/project-nomad"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and opti"
+      },
+      "Description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on ",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:yynxxxxx/Codex-X"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "OpenAI Codex \u684C\u9762\u7AEF/CLI \u7684\u53EF\u89C6\u5316\u7BA1\u7406\u5DE5\u5177\uFF0C\u5177\u6709Provider/API \u5207\u6362\u3001\u4F1A\u8BDD\u540C\u6B65\u3001\u63D0\u793A\u8BCD\u6CE8\u5165\u3001Skills/MCP \u7BA1\u7406\u3001TOML \u914D\u7F6E\u53EF\u89C6\u5316\u7684\u8DE8\u5E73\u53F0\u5DE5\u5177\u3002"
+      },
+      "Description": "OpenAI Codex \u684C\u9762\u7AEF/CLI \u7684\u53EF\u89C6\u5316\u7BA1\u7406\u5DE5\u5177\uFF0C\u5177\u6709Provider/API \u5207\u6362\u3001\u4F1A\u8BDD\u540C\u6B65\u3001\u63D0\u793A\u8BCD\u6CE8\u5165\u3001Skills/MCP \u7BA1\u7406\u3001TOML \u914D\u7F6E\u53EF\u89C6\u5316\u7684\u8DE8\u5E73\u53F0\u5DE5\u5177\u3002",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49792730"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Xiaomi MiMo v2.6"
+      },
+      "Description": "Xiaomi MiMo v2.6",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49794615"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Spymarks, Not Watermarks"
+      },
+      "Description": "Spymarks, Not Watermarks",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49794330"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I don\u0027t want to read what you didn\u0027t write"
+      },
+      "Description": "I don\u0027t want to read what you didn\u0027t write",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49792342"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Transformers Explained Visually"
+      },
+      "Description": "Transformers Explained Visually",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49787436"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "What Sun got wrong"
+      },
+      "Description": "What Sun got wrong",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49795579"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Claude Status \u2013 Elevated errors for multiple models"
+      },
+      "Description": "Claude Status \u2013 Elevated errors for multiple models",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49787726"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Attention is all you have"
+      },
+      "Description": "Attention is all you have",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49791939"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "NASA\u2019s Mars Sample Return mission is dead"
+      },
+      "Description": "NASA\u2019s Mars Sample Return mission is dead",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49792067"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AI coding has made CI a bottleneck, so we reworked ours to keep up"
+      },
+      "Description": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49794736"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Looking forward to Git 2.56 \u2013 and 3.0"
+      },
+      "Description": "Looking forward to Git 2.56 \u2013 and 3.0",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49769561"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Divide by depth for instant 3D"
+      },
+      "Description": "Divide by depth for instant 3D",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49795718"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Robin Williams\u0027 Daughter to Fans Creating AI Videos: \u0027Have Some Shame\u0027"
+      },
+      "Description": "Robin Williams\u0027 Daughter to Fans Creating AI Videos: \u0027Have Some Shame\u0027",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49771389"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Paper Models of Polyhedra"
+      },
+      "Description": "Paper Models of Polyhedra",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49791997"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Advisory Group on Mathematics and Artificial Intelligence"
+      },
+      "Description": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49795122"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Socrates vs. the Written Word (2011)"
+      },
+      "Description": "Socrates vs. the Written Word (2011)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49771543"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "More Floating Point Alternatives"
+      },
+      "Description": "More Floating Point Alternatives",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49789081"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How do traffic signals work? (2019)"
+      },
+      "Description": "How do traffic signals work? (2019)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49791378"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Why does mathmain need an encrypted loader?"
+      },
+      "Description": "Why does mathmain need an encrypted loader?",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49791647"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Frontier AI on Your Own Hardware"
+      },
+      "Description": "Frontier AI on Your Own Hardware",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49788838"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Grok 4.7"
+      },
+      "Description": "Grok 4.7",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49790409"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Turn off and restrict access to Apple Intelligence features on Mac"
+      },
+      "Description": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49785609"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "First Shader from Zero in Godot 4"
+      },
+      "Description": "First Shader from Zero in Godot 4",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49783999"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5"
+      },
+      "Description": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49791125"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Apple Copland D11E4 Booting in the Browser"
+      },
+      "Description": "Apple Copland D11E4 Booting in the Browser",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49787142"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Python Workers are now generally available"
+      },
+      "Description": "Python Workers are now generally available",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49789228"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;hermes.radio\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;hermes.radio\u0026#x2F;\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;hermes.radio\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;hermes.radio\u0026#x2F;\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.rhizomatica.or",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49783274"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "TXR: An Original, New Programming Language for Convenient Data Munging"
+      },
+      "Description": "TXR: An Original, New Programming Language for Convenient Data Munging",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49791720"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Roboharm: Do frontier robot policies refuse unsafe instructions?"
+      },
+      "Description": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49791509"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "US halts flights at busy East Coast airports, says fiber line cut"
+      },
+      "Description": "US halts flights at busy East Coast airports, says fiber line cut",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:49789224"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Fable 5 \u2013 Median thinking declined in August"
+      },
+      "Description": "Fable 5 \u2013 Median thinking declined in August",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 41 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
