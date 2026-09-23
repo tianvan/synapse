@@ -11,42 +11,9 @@
       "owner": "anthropics",
       "repo": "financial-services",
       "language": "Python",
-      "stars": "438"
+      "stars": "665"
     },
-    "FetchedAt": "2026-09-23T10:32:50.302694+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:agent-substrate/substrate"
-    },
-    "Type": 0,
-    "Title": "agent-substrate/substrate",
-    "Url": "https://github.com/agent-substrate/substrate",
-    "Description": "Agent Substrate: the core system",
-    "Metadata": {
-      "owner": "agent-substrate",
-      "repo": "substrate",
-      "language": "Go",
-      "stars": "245"
-    },
-    "FetchedAt": "2026-09-23T10:32:50.4513916+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:dream-num/univer"
-    },
-    "Type": 0,
-    "Title": "dream-num/univer",
-    "Url": "https://github.com/dream-num/univer",
-    "Description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-    "Metadata": {
-      "owner": "dream-num",
-      "repo": "univer",
-      "language": "TypeScript",
-      "stars": "255",
-      "topics": "board, collaboration, data-table, doc, docx, excel, grid, pdf, ppt, pptx, presentation, sdk, sheet, slides, spreadsheet, table, word, wordprocessor, xlsx"
-    },
-    "FetchedAt": "2026-09-23T10:32:50.5893805+00:00"
+    "FetchedAt": "2026-09-23T15:52:14.8996788+00:00"
   },
   {
     "ExternalId": {
@@ -60,26 +27,109 @@
       "owner": "google",
       "repo": "ax",
       "language": "Go",
-      "stars": "2,305"
+      "stars": "1,542"
     },
-    "FetchedAt": "2026-09-23T10:32:50.7275916+00:00"
+    "FetchedAt": "2026-09-23T15:52:15.0657801+00:00"
   },
   {
     "ExternalId": {
-      "Value": "github:mvt-project/mvt"
+      "Value": "github:BuilderIO/agent-native"
     },
     "Type": 0,
-    "Title": "mvt-project/mvt",
-    "Url": "https://github.com/mvt-project/mvt",
-    "Description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "Title": "BuilderIO/agent-native",
+    "Url": "https://github.com/BuilderIO/agent-native",
+    "Description": "A framework for building agentic apps",
     "Metadata": {
-      "owner": "mvt-project",
-      "repo": "mvt",
-      "language": "Python",
-      "stars": "441",
-      "topics": "android, forensics, forensics-tools, ios, mobile, security"
+      "owner": "BuilderIO",
+      "repo": "agent-native",
+      "language": "TypeScript",
+      "stars": "609",
+      "topics": "agent-native, agents, ai, react, typescript"
     },
-    "FetchedAt": "2026-09-23T10:32:50.8621864+00:00"
+    "FetchedAt": "2026-09-23T15:52:15.2001643+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:dream-num/univer"
+    },
+    "Type": 0,
+    "Title": "dream-num/univer",
+    "Url": "https://github.com/dream-num/univer",
+    "Description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "Metadata": {
+      "owner": "dream-num",
+      "repo": "univer",
+      "language": "TypeScript",
+      "stars": "1,140",
+      "topics": "board, collaboration, data-table, doc, docx, excel, grid, pdf, ppt, pptx, presentation, sdk, sheet, slides, spreadsheet, table, word, wordprocessor, xlsx"
+    },
+    "FetchedAt": "2026-09-23T15:52:15.3479916+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Open-Dev-Society/OpenStock"
+    },
+    "Type": 0,
+    "Title": "Open-Dev-Society/OpenStock",
+    "Url": "https://github.com/Open-Dev-Society/OpenStock",
+    "Description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights \u2014 built openly, for everyone, forever free.",
+    "Metadata": {
+      "owner": "Open-Dev-Society",
+      "repo": "OpenStock",
+      "language": "TypeScript",
+      "stars": "832",
+      "topics": "coderabbit, inngest, nextjs, shadcn-ui, stock-market, tailwindcss"
+    },
+    "FetchedAt": "2026-09-23T15:52:15.5017202+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:agent-substrate/substrate"
+    },
+    "Type": 0,
+    "Title": "agent-substrate/substrate",
+    "Url": "https://github.com/agent-substrate/substrate",
+    "Description": "Agent Substrate: the core system",
+    "Metadata": {
+      "owner": "agent-substrate",
+      "repo": "substrate",
+      "language": "Go",
+      "stars": "560"
+    },
+    "FetchedAt": "2026-09-23T15:52:15.6189039+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:strands-agents/harness-sdk"
+    },
+    "Type": 0,
+    "Title": "strands-agents/harness-sdk",
+    "Url": "https://github.com/strands-agents/harness-sdk",
+    "Description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python \u0026 TypeScript - any model, any cloud.",
+    "Metadata": {
+      "owner": "strands-agents",
+      "repo": "harness-sdk",
+      "language": "Python",
+      "stars": "96",
+      "topics": "agent-framework, agentic, agentic-ai, agents, ai, ai-agents, anthropic, autonomous-agents, bedrock, generative-ai, harness, llm, llm-agent, mcp, multi-agent-systems, openai, python, sdk, strands-agents, typescript"
+    },
+    "FetchedAt": "2026-09-23T15:52:15.7691646+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/CLI-Anything"
+    },
+    "Type": 0,
+    "Title": "HKUDS/CLI-Anything",
+    "Url": "https://github.com/HKUDS/CLI-Anything",
+    "Description": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "CLI-Anything",
+      "language": "Python",
+      "stars": "41"
+    },
+    "FetchedAt": "2026-09-23T15:52:15.9289998+00:00"
   },
   {
     "ExternalId": {
@@ -93,10 +143,77 @@
       "owner": "superdesigndev",
       "repo": "treg",
       "language": "Python",
-      "stars": "230",
+      "stars": "502",
       "topics": "agents, api-keys, cli, credentials, developer-tools, dsh-plugin, mcp, proxy, python, registry, secrets"
     },
-    "FetchedAt": "2026-09-23T10:32:50.9920514+00:00"
+    "FetchedAt": "2026-09-23T15:52:16.0647529+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pbakaus/impeccable"
+    },
+    "Type": 0,
+    "Title": "pbakaus/impeccable",
+    "Url": "https://github.com/pbakaus/impeccable",
+    "Description": "The design language that makes your AI harness better at design.",
+    "Metadata": {
+      "owner": "pbakaus",
+      "repo": "impeccable",
+      "language": "JavaScript",
+      "stars": "287"
+    },
+    "FetchedAt": "2026-09-23T15:52:16.1987049+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mvt-project/mvt"
+    },
+    "Type": 0,
+    "Title": "mvt-project/mvt",
+    "Url": "https://github.com/mvt-project/mvt",
+    "Description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "Metadata": {
+      "owner": "mvt-project",
+      "repo": "mvt",
+      "language": "Python",
+      "stars": "546",
+      "topics": "android, forensics, forensics-tools, ios, mobile, security"
+    },
+    "FetchedAt": "2026-09-23T15:52:16.3196997+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:DeusData/codebase-memory-mcp"
+    },
+    "Type": 0,
+    "Title": "DeusData/codebase-memory-mcp",
+    "Url": "https://github.com/DeusData/codebase-memory-mcp",
+    "Description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "Metadata": {
+      "owner": "DeusData",
+      "repo": "codebase-memory-mcp",
+      "language": "C",
+      "stars": "201",
+      "topics": "aider, ast, claude-code, code-analysis, code-intelligence, codex, cursor, cypher, developer-tools, gemini-cli, graph-visualization, kilocode, knowledge-graph, mcp, mcp-server, model-context-protocol, opencode, sqlite, tree-sitter, windsurf"
+    },
+    "FetchedAt": "2026-09-23T15:52:16.4530681+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:harry7557558/spirula-studio"
+    },
+    "Type": 0,
+    "Title": "harry7557558/spirula-studio",
+    "Url": "https://github.com/harry7557558/spirula-studio",
+    "Description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+    "Metadata": {
+      "owner": "harry7557558",
+      "repo": "spirula-studio",
+      "language": "C\u002B\u002B",
+      "stars": "99",
+      "topics": "360-camera, 3d-gaussian-splatting, 3d-reconstruction, 3dgs, 3dgs-acceleration, computer-vision, cross-vendor, cuda, gaussian-splatting, mesh-generation, quantized-training, structure-from-motion, vram-optimization, vulkan"
+    },
+    "FetchedAt": "2026-09-23T15:52:16.5747734+00:00"
   },
   {
     "ExternalId": {
@@ -110,8 +227,25 @@
       "owner": "browser-use",
       "repo": "video-use",
       "language": "Python",
-      "stars": "191"
+      "stars": "745"
     },
-    "FetchedAt": "2026-09-23T10:32:51.1640372+00:00"
+    "FetchedAt": "2026-09-23T15:52:16.7018383+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:TNT-Likely/PanWatch"
+    },
+    "Type": 0,
+    "Title": "TNT-Likely/PanWatch",
+    "Url": "https://github.com/TNT-Likely/PanWatch",
+    "Description": "\u76EF\u76D8\u4FA0 PanWatch \u00B7 \u81EA\u6258\u7BA1 AI \u76EF\u76D8\u52A9\u624B\uFF0C\u96C6\u6210 TradingAgents \u591A Agent \u6295\u8D44\u51B3\u7B56 | A\u80A1/\u6E2F\u80A1/\u7F8E\u80A1\u5B9E\u65F6\u76D1\u63A7\u3001\u6301\u4ED3\u7BA1\u7406\u3001\u667A\u80FD\u5206\u6790\u3001\u5168\u6E20\u9053\u63A8\u9001",
+    "Metadata": {
+      "owner": "TNT-Likely",
+      "repo": "PanWatch",
+      "language": "Python",
+      "stars": "142",
+      "topics": "a-share, agent, ai, ai-agent, akshare, deepseek, fastapi, fintech, langgraph, llm, mcp, openai, pwa, quant, self-hosted, stock, stock-analysis, stock-market, trading-agents, trading-bot"
+    },
+    "FetchedAt": "2026-09-23T15:52:16.8150004+00:00"
   }
 ]
