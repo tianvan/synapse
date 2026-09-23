@@ -1,0 +1,117 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/financial-services"
+    },
+    "Type": 0,
+    "Title": "anthropics/financial-services",
+    "Url": "https://github.com/anthropics/financial-services",
+    "Description": "",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "financial-services",
+      "language": "Python",
+      "stars": "438"
+    },
+    "FetchedAt": "2026-09-23T02:40:07.2199638+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:agent-substrate/substrate"
+    },
+    "Type": 0,
+    "Title": "agent-substrate/substrate",
+    "Url": "https://github.com/agent-substrate/substrate",
+    "Description": "Agent Substrate: the core system",
+    "Metadata": {
+      "owner": "agent-substrate",
+      "repo": "substrate",
+      "language": "Go",
+      "stars": "245"
+    },
+    "FetchedAt": "2026-09-23T02:40:07.4970545+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:dream-num/univer"
+    },
+    "Type": 0,
+    "Title": "dream-num/univer",
+    "Url": "https://github.com/dream-num/univer",
+    "Description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "Metadata": {
+      "owner": "dream-num",
+      "repo": "univer",
+      "language": "TypeScript",
+      "stars": "255",
+      "topics": "board, collaboration, data-table, doc, docx, excel, grid, pdf, ppt, pptx, presentation, sdk, sheet, slides, spreadsheet, table, word, wordprocessor, xlsx"
+    },
+    "FetchedAt": "2026-09-23T02:40:07.6586618+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google/ax"
+    },
+    "Type": 0,
+    "Title": "google/ax",
+    "Url": "https://github.com/google/ax",
+    "Description": "Google\u0027s open agentic orchestration runtime",
+    "Metadata": {
+      "owner": "google",
+      "repo": "ax",
+      "language": "Go",
+      "stars": "2,305"
+    },
+    "FetchedAt": "2026-09-23T02:40:07.8120967+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mvt-project/mvt"
+    },
+    "Type": 0,
+    "Title": "mvt-project/mvt",
+    "Url": "https://github.com/mvt-project/mvt",
+    "Description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "Metadata": {
+      "owner": "mvt-project",
+      "repo": "mvt",
+      "language": "Python",
+      "stars": "441",
+      "topics": "android, forensics, forensics-tools, ios, mobile, security"
+    },
+    "FetchedAt": "2026-09-23T02:40:07.9740753+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:superdesigndev/treg"
+    },
+    "Type": 0,
+    "Title": "superdesigndev/treg",
+    "Url": "https://github.com/superdesigndev/treg",
+    "Description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+    "Metadata": {
+      "owner": "superdesigndev",
+      "repo": "treg",
+      "language": "Python",
+      "stars": "230",
+      "topics": "agents, api-keys, cli, credentials, developer-tools, dsh-plugin, mcp, proxy, python, registry, secrets"
+    },
+    "FetchedAt": "2026-09-23T02:40:08.1502223+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:browser-use/video-use"
+    },
+    "Type": 0,
+    "Title": "browser-use/video-use",
+    "Url": "https://github.com/browser-use/video-use",
+    "Description": "Edit videos with coding agents",
+    "Metadata": {
+      "owner": "browser-use",
+      "repo": "video-use",
+      "language": "Python",
+      "stars": "191"
+    },
+    "FetchedAt": "2026-09-23T02:40:08.3110652+00:00"
+  }
+]
