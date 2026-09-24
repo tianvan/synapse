@@ -226,21 +226,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49826565"
-    },
-    "Type": 1,
-    "Title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-    "Url": "https://transluce.org/agent-activity",
-    "Description": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-    "Metadata": {
-      "score": "142",
-      "author": "snikolaev",
-      "commentCount": "113"
-    },
-    "FetchedAt": "2026-09-24T10:51:24.0431841+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49828409"
     },
     "Type": 1,
@@ -466,21 +451,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49831968"
-    },
-    "Type": 1,
-    "Title": "F-Droid 2.0: A New Chapter for Android Freedom",
-    "Url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-    "Description": "F-Droid 2.0: A New Chapter for Android Freedom",
-    "Metadata": {
-      "score": "164",
-      "author": "daveoc64",
-      "commentCount": "46"
-    },
-    "FetchedAt": "2026-09-24T16:14:06.0994962+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49831201"
     },
     "Type": 1,
@@ -538,21 +508,6 @@
       "commentCount": "48"
     },
     "FetchedAt": "2026-09-24T16:14:06.2788461+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49828385"
-    },
-    "Type": 1,
-    "Title": "Nokia Design Archive (2025)",
-    "Url": "https://nokiadesignarchive.aalto.fi/index.html",
-    "Description": "Nokia Design Archive (2025)",
-    "Metadata": {
-      "score": "163",
-      "author": "pillars",
-      "commentCount": "85"
-    },
-    "FetchedAt": "2026-09-24T16:14:06.323004+00:00"
   },
   {
     "ExternalId": {
@@ -796,21 +751,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49828731"
-    },
-    "Type": 1,
-    "Title": "Two-Tier Encryption in the UK \u2013 Identical Apple Devices, Different Protection",
-    "Url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
-    "Description": "Two-Tier Encryption in the UK \u2013 Identical Apple Devices, Different Protection",
-    "Metadata": {
-      "score": "219",
-      "author": "ReturnoftheHack",
-      "commentCount": "204"
-    },
-    "FetchedAt": "2026-09-24T16:14:07.1761744+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49829960"
     },
     "Type": 1,
@@ -823,21 +763,6 @@
       "commentCount": "184"
     },
     "FetchedAt": "2026-09-24T16:14:07.2206081+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49815370"
-    },
-    "Type": 1,
-    "Title": "WaveDigger: Dig into wireless signals to discover their physical locations",
-    "Url": "https://github.com/christianrowlands/wavedigger",
-    "Description": "WaveDigger: Dig into wireless signals to discover their physical locations",
-    "Metadata": {
-      "score": "3",
-      "author": "882542F3884314B",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-09-24T16:14:07.2819776+00:00"
   },
   {
     "ExternalId": {
@@ -913,5 +838,455 @@
       "commentCount": "56"
     },
     "FetchedAt": "2026-09-24T16:14:07.5015772+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49831968"
+    },
+    "Type": 1,
+    "Title": "F-Droid 2.0",
+    "Url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+    "Description": "F-Droid 2.0",
+    "Metadata": {
+      "score": "696",
+      "author": "daveoc64",
+      "commentCount": "200"
+    },
+    "FetchedAt": "2026-09-24T20:59:14.0330881+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49823738"
+    },
+    "Type": 1,
+    "Title": "Show HN: Make cursed fonts like Times New Bastard",
+    "Url": "https://bastardica.mitpit.com",
+    "Description": "A joke tool that abuses OpenType\u0026#x27;s ligature feature to mix fonts. It works pretty fast on client-side by loading Python in WASM.",
+    "Metadata": {
+      "score": "249",
+      "author": "MitPitt",
+      "commentCount": "41"
+    },
+    "FetchedAt": "2026-09-24T20:59:14.286945+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49833867"
+    },
+    "Type": 1,
+    "Title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
+    "Url": "https://github.com/devdotfast/whiteboard",
+    "Description": "Hello! We\u2019re Sid, Alex, Ketan, and Milan. We\u2019re building Whiteboard, an open-source desktop app where humans and agents can architect software together in a common workspace. Here\u2019s our repo: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;devdotfast\u0026#x2F;whiteboard\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;devdotfast\u0026#x2F;whiteboard\u003C/a\u003E and our homepage: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;whiteboard.dev.fast\u0026#x2F;\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;whiteboard.dev.fast\u0026#x2F;\u003C/a\u003E\u003Cp\u003EWe were missing the feeling of a \u201Cw",
+    "Metadata": {
+      "score": "129",
+      "author": "sidharthkmenon",
+      "commentCount": "49"
+    },
+    "FetchedAt": "2026-09-24T20:59:14.3257313+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49800085"
+    },
+    "Type": 1,
+    "Title": "Fearless SIMD v1.0",
+    "Url": "https://linebender.org/blog/fearless-simd-1-0/",
+    "Description": "Fearless SIMD v1.0",
+    "Metadata": {
+      "score": "110",
+      "author": "verdagon",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-09-24T20:59:14.3591194+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49817680"
+    },
+    "Type": 1,
+    "Title": "Rails World 2026 Opening Keynote [video]",
+    "Url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+    "Description": "Rails World 2026 Opening Keynote [video]",
+    "Metadata": {
+      "score": "148",
+      "author": "an0malous",
+      "commentCount": "134"
+    },
+    "FetchedAt": "2026-09-24T20:59:14.3900839+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49835531"
+    },
+    "Type": 1,
+    "Title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+    "Url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+    "Description": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+    "Metadata": {
+      "score": "23",
+      "author": "benbreen",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-09-24T20:59:14.4228326+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49805344"
+    },
+    "Type": 1,
+    "Title": "My weird new hobby: Wandering around Tokyo on Google Maps",
+    "Url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
+    "Description": "My weird new hobby: Wandering around Tokyo on Google Maps",
+    "Metadata": {
+      "score": "128",
+      "author": "ahmedhossamdev",
+      "commentCount": "46"
+    },
+    "FetchedAt": "2026-09-24T20:59:14.4555062+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49792652"
+    },
+    "Type": 1,
+    "Title": "The forgotten battle of East Lansing",
+    "Url": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/",
+    "Description": "The forgotten battle of East Lansing",
+    "Metadata": {
+      "score": "63",
+      "author": "rmason",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-09-24T20:59:14.4922353+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49787759"
+    },
+    "Type": 1,
+    "Title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
+    "Url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
+    "Description": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
+    "Metadata": {
+      "score": "57",
+      "author": "ahelwer",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-09-24T20:59:14.5243321+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49832938"
+    },
+    "Type": 1,
+    "Title": "Why is the liver so weirdly regenerative?",
+    "Url": "https://dynomight.substack.com/p/liver",
+    "Description": "Why is the liver so weirdly regenerative?",
+    "Metadata": {
+      "score": "117",
+      "author": "jbotz",
+      "commentCount": "91"
+    },
+    "FetchedAt": "2026-09-24T20:59:14.5593173+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49834893"
+    },
+    "Type": 1,
+    "Title": "Stable (YC W20) Is Hiring Product Engineers",
+    "Url": "https://www.usestable.com/careers/product-engineer",
+    "Description": "Stable (YC W20) Is Hiring Product Engineers",
+    "Metadata": {
+      "score": "1",
+      "author": "collinpham",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-24T20:59:14.5940633+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49835996"
+    },
+    "Type": 1,
+    "Title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+    "Url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+    "Description": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+    "Metadata": {
+      "score": "16",
+      "author": "arusekk",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-24T20:59:14.6429939+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49830606"
+    },
+    "Type": 1,
+    "Title": "Google\u2019s Project Suncatcher to put ML infrastructure in space",
+    "Url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.nytimes.com\u0026#x2F;2026\u0026#x2F;09\u0026#x2F;24\u0026#x2F;technology\u0026#x2F;google-suncatcher-ai-data-center-space.html\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.nytimes.com\u0026#x2F;2026\u0026#x2F;09\u0026#x2F;24\u0026#x2F;technology\u0026#x2F;google-suncatc...\u003C/a\u003E (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;BGFnP\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;BGFnP\u003C/a\u003E)",
+    "Metadata": {
+      "score": "54",
+      "author": "xnx",
+      "commentCount": "92"
+    },
+    "FetchedAt": "2026-09-24T20:59:14.6780501+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49831098"
+    },
+    "Type": 1,
+    "Title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
+    "Url": "https://eprint.iacr.org/2026/2131.pdf",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;arstechnica.com\u0026#x2F;security\u0026#x2F;2026\u0026#x2F;09\u0026#x2F;theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;arstechnica.com\u0026#x2F;security\u0026#x2F;2026\u0026#x2F;09\u0026#x2F;theres-a-new-way-to...\u003C/a\u003E",
+    "Metadata": {
+      "score": "35",
+      "author": "int0x29",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-09-24T20:59:14.7297465+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49828731"
+    },
+    "Type": 1,
+    "Title": "Two-tier encryption in the UK",
+    "Url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+    "Description": "Two-tier encryption in the UK",
+    "Metadata": {
+      "score": "332",
+      "author": "ReturnoftheHack",
+      "commentCount": "343"
+    },
+    "FetchedAt": "2026-09-24T20:59:14.7926525+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49821835"
+    },
+    "Type": 1,
+    "Title": "Geothermal heat map of US hot springs",
+    "Url": "https://www.soakingsprings.com/hot-springs/geothermal-map",
+    "Description": "Geothermal heat map of US hot springs",
+    "Metadata": {
+      "score": "51",
+      "author": "armenarmen",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-09-24T20:59:14.8246471+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49815370"
+    },
+    "Type": 1,
+    "Title": "WaveDigger: Dig into wireless signals to discover their physical locations",
+    "Url": "https://github.com/christianrowlands/wavedigger",
+    "Description": "WaveDigger: Dig into wireless signals to discover their physical locations",
+    "Metadata": {
+      "score": "72",
+      "author": "882542F3884314B",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-09-24T20:59:14.8564132+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49834825"
+    },
+    "Type": 1,
+    "Title": "Creatine uptake enhances antitumor immunity",
+    "Url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4",
+    "Description": "Creatine uptake enhances antitumor immunity",
+    "Metadata": {
+      "score": "118",
+      "author": "lormayna",
+      "commentCount": "141"
+    },
+    "FetchedAt": "2026-09-24T20:59:14.8879024+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49793957"
+    },
+    "Type": 1,
+    "Title": "Security auditing in the age of (good enough) AI",
+    "Url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+    "Description": "Security auditing in the age of (good enough) AI",
+    "Metadata": {
+      "score": "40",
+      "author": "aray07",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-24T20:59:14.9205335+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49809935"
+    },
+    "Type": 1,
+    "Title": "Web-based IBM 1620 emulator and IPL-V from 1963",
+    "Url": "https://github.com/pkimpel/retro-1620",
+    "Description": "Web-based IBM 1620 emulator and IPL-V from 1963",
+    "Metadata": {
+      "score": "44",
+      "author": "abrax3141",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-09-24T20:59:14.9528142+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49833958"
+    },
+    "Type": 1,
+    "Title": "A Million Agents Is a Distributed System Problem",
+    "Url": "https://www.instacloud.com/blogs/a-million-agents-is-a-distributed-systems-problem",
+    "Description": "A Million Agents Is a Distributed System Problem",
+    "Metadata": {
+      "score": "22",
+      "author": "tonychang430",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-09-24T20:59:14.9844308+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49826565"
+    },
+    "Type": 1,
+    "Title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+    "Url": "https://transluce.org/agent-activity",
+    "Description": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+    "Metadata": {
+      "score": "216",
+      "author": "snikolaev",
+      "commentCount": "196"
+    },
+    "FetchedAt": "2026-09-24T20:59:15.0167468+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49804359"
+    },
+    "Type": 1,
+    "Title": "Show HN: Treepeat \u2013\u00A0Code similarity detection using Tree-sitter",
+    "Url": "https://github.com/dsummersl/treepeat",
+    "Description": "treepeat is a tool that finds similarities in your codebase.\u003Cp\u003EFind duplicate code blocks meaningful to the language (classes\u0026#x2F;functions), not just lines.\u003Cp\u003EFind near-duplicates: ignore whitespace, strings, high level AST nodes such as function and names.\u003Cp\u003EFind structurally similar code: anonymize identifiers, constants, etc.\u003Cp\u003EPull requests welcome: This is very much an proof of concept - I\u0026#x27;m happy with it, but I haven\u0026#x27;t supported very many languages at present.\u003Cp\u003ELanguages suppo",
+    "Metadata": {
+      "score": "35",
+      "author": "91awebsi",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-24T20:59:15.0480449+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49836374"
+    },
+    "Type": 1,
+    "Title": "Opus 5.5 is good at explainer videos",
+    "Url": "https://launchvideo.io",
+    "Description": "Opus 5.5 is good at explainer videos",
+    "Metadata": {
+      "score": "3",
+      "author": "iacguy",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-24T20:59:15.0795036+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49828385"
+    },
+    "Type": 1,
+    "Title": "Nokia Design Archive (2025)",
+    "Url": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
+    "Description": "Nokia Design Archive (2025)",
+    "Metadata": {
+      "score": "199",
+      "author": "pillars",
+      "commentCount": "107"
+    },
+    "FetchedAt": "2026-09-24T20:59:15.1121201+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49835913"
+    },
+    "Type": 1,
+    "Title": "August 27 TCRF DDoS Attack Postmortem",
+    "Url": "https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/",
+    "Description": "August 27 TCRF DDoS Attack Postmortem",
+    "Metadata": {
+      "score": "7",
+      "author": "panic",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-24T20:59:15.1449605+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49821438"
+    },
+    "Type": 1,
+    "Title": "Show HN: AgentRun: DSL to turn agents into workflows",
+    "Url": "https://github.com/Parcha-ai/agentrun",
+    "Description": "Hi HN,\u003Cp\u003EI just open sourced the DSL that our harness in grep.ai uses to turn repeatable parts of agent work into workflows. You can combine tool calls, code, Jev-powered system one decisions for things like routing and screening evidence, and agents when a step needs more investigation.\u003Cp\u003EOur harness uses the traces and retro notes agents leave behind when doing a job to figure out which parts can become a workflow. The idea is to make the work easier to understand and avoid paying for a full a",
+    "Metadata": {
+      "score": "31",
+      "author": "miguelrios",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-09-24T20:59:15.1775557+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49836342"
+    },
+    "Type": 1,
+    "Title": "Mamdani is the most popular elected official in NYC: poll",
+    "Url": "https://www.nydailynews.com/2026/09/23/mamdani-is-the-most-popular-elected-official-in-nyc-poll/",
+    "Description": "Mamdani is the most popular elected official in NYC: poll",
+    "Metadata": {
+      "score": "11",
+      "author": "downbad_",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-24T20:59:15.2130176+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49794824"
+    },
+    "Type": 1,
+    "Title": "Motor Characterization for Small Running Robots (2016)",
+    "Url": "https://robot-daycare.com/posts/2016-01-06-motor-characterization-for-small-running-robots/",
+    "Description": "Motor Characterization for Small Running Robots (2016)",
+    "Metadata": {
+      "score": "19",
+      "author": "loughnane",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-24T20:59:15.2454115+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49777158"
+    },
+    "Type": 1,
+    "Title": "Lambda MicroEgg",
+    "Url": "https://www.philipzucker.com/lambda_miller_egg/",
+    "Description": "Lambda MicroEgg",
+    "Metadata": {
+      "score": "53",
+      "author": "philzook",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-09-24T20:59:15.2765576+00:00"
   }
 ]
