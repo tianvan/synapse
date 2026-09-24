@@ -1,38 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:anthropics/financial-services"
-    },
-    "Type": 0,
-    "Title": "anthropics/financial-services",
-    "Url": "https://github.com/anthropics/financial-services",
-    "Description": "",
-    "Metadata": {
-      "owner": "anthropics",
-      "repo": "financial-services",
-      "language": "Python",
-      "stars": "664"
-    },
-    "FetchedAt": "2026-09-24T10:51:21.1328315+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:google/ax"
-    },
-    "Type": 0,
-    "Title": "google/ax",
-    "Url": "https://github.com/google/ax",
-    "Description": "Google\u0027s open agentic orchestration runtime",
-    "Metadata": {
-      "owner": "google",
-      "repo": "ax",
-      "language": "Go",
-      "stars": "1,543"
-    },
-    "FetchedAt": "2026-09-24T10:51:21.3536738+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:BuilderIO/agent-native"
     },
     "Type": 0,
@@ -47,23 +15,6 @@
       "topics": "agent-native, agents, ai, react, typescript"
     },
     "FetchedAt": "2026-09-24T10:51:21.4829799+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:dream-num/univer"
-    },
-    "Type": 0,
-    "Title": "dream-num/univer",
-    "Url": "https://github.com/dream-num/univer",
-    "Description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-    "Metadata": {
-      "owner": "dream-num",
-      "repo": "univer",
-      "language": "TypeScript",
-      "stars": "1,142",
-      "topics": "board, collaboration, data-table, doc, docx, excel, grid, pdf, ppt, pptx, presentation, sdk, sheet, slides, spreadsheet, table, word, wordprocessor, xlsx"
-    },
-    "FetchedAt": "2026-09-24T10:51:21.6491542+00:00"
   },
   {
     "ExternalId": {
@@ -100,56 +51,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:strands-agents/harness-sdk"
-    },
-    "Type": 0,
-    "Title": "strands-agents/harness-sdk",
-    "Url": "https://github.com/strands-agents/harness-sdk",
-    "Description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python \u0026 TypeScript - any model, any cloud.",
-    "Metadata": {
-      "owner": "strands-agents",
-      "repo": "harness-sdk",
-      "language": "Python",
-      "stars": "115",
-      "topics": "agent-framework, agentic, agentic-ai, agents, ai, ai-agents, anthropic, autonomous-agents, bedrock, generative-ai, harness, llm, llm-agent, mcp, multi-agent-systems, openai, python, sdk, strands-agents, typescript"
-    },
-    "FetchedAt": "2026-09-24T10:51:22.1103055+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:HKUDS/CLI-Anything"
-    },
-    "Type": 0,
-    "Title": "HKUDS/CLI-Anything",
-    "Url": "https://github.com/HKUDS/CLI-Anything",
-    "Description": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/",
-    "Metadata": {
-      "owner": "HKUDS",
-      "repo": "CLI-Anything",
-      "language": "Python",
-      "stars": "57"
-    },
-    "FetchedAt": "2026-09-24T10:51:22.3022245+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:superdesigndev/treg"
-    },
-    "Type": 0,
-    "Title": "superdesigndev/treg",
-    "Url": "https://github.com/superdesigndev/treg",
-    "Description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-    "Metadata": {
-      "owner": "superdesigndev",
-      "repo": "treg",
-      "language": "Python",
-      "stars": "506",
-      "topics": "agents, api-keys, cli, credentials, developer-tools, dsh-plugin, mcp, proxy, python, registry, secrets"
-    },
-    "FetchedAt": "2026-09-24T10:51:22.4400218+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:pbakaus/impeccable"
     },
     "Type": 0,
@@ -163,23 +64,6 @@
       "stars": "304"
     },
     "FetchedAt": "2026-09-24T10:51:22.5684118+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:mvt-project/mvt"
-    },
-    "Type": 0,
-    "Title": "mvt-project/mvt",
-    "Url": "https://github.com/mvt-project/mvt",
-    "Description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-    "Metadata": {
-      "owner": "mvt-project",
-      "repo": "mvt",
-      "language": "Python",
-      "stars": "543",
-      "topics": "android, forensics, forensics-tools, ios, mobile, security"
-    },
-    "FetchedAt": "2026-09-24T10:51:22.6926795+00:00"
   },
   {
     "ExternalId": {
@@ -247,5 +131,204 @@
       "topics": "a-share, agent, ai, ai-agent, akshare, deepseek, fastapi, fintech, langgraph, llm, mcp, openai, pwa, quant, self-hosted, stock, stock-analysis, stock-market, trading-agents, trading-bot"
     },
     "FetchedAt": "2026-09-24T10:51:23.2804561+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:vectorize-io/hindsight"
+    },
+    "Type": 0,
+    "Title": "vectorize-io/hindsight",
+    "Url": "https://github.com/vectorize-io/hindsight",
+    "Description": "Hindsight: Agent Memory That Learns",
+    "Metadata": {
+      "owner": "vectorize-io",
+      "repo": "hindsight",
+      "language": "Python",
+      "stars": "1,607",
+      "topics": "agentic-ai, agents, ai-memory, memory"
+    },
+    "FetchedAt": "2026-09-24T16:14:03.6809212+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:dream-num/univer"
+    },
+    "Type": 0,
+    "Title": "dream-num/univer",
+    "Url": "https://github.com/dream-num/univer",
+    "Description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "Metadata": {
+      "owner": "dream-num",
+      "repo": "univer",
+      "language": "TypeScript",
+      "stars": "1,060",
+      "topics": "board, collaboration, data-table, doc, docx, excel, grid, pdf, ppt, pptx, presentation, sdk, sheet, slides, spreadsheet, table, word, wordprocessor, xlsx"
+    },
+    "FetchedAt": "2026-09-24T16:14:03.9799056+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google/ax"
+    },
+    "Type": 0,
+    "Title": "google/ax",
+    "Url": "https://github.com/google/ax",
+    "Description": "Google\u0027s open agentic orchestration runtime",
+    "Metadata": {
+      "owner": "google",
+      "repo": "ax",
+      "language": "Go",
+      "stars": "1,376"
+    },
+    "FetchedAt": "2026-09-24T16:14:04.149671+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NVIDIA/Model-Optimizer"
+    },
+    "Type": 0,
+    "Title": "NVIDIA/Model-Optimizer",
+    "Url": "https://github.com/NVIDIA/Model-Optimizer",
+    "Description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+    "Metadata": {
+      "owner": "NVIDIA",
+      "repo": "Model-Optimizer",
+      "language": "Python",
+      "stars": "22"
+    },
+    "FetchedAt": "2026-09-24T16:14:04.3174257+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:FxEmbed/FxEmbed"
+    },
+    "Type": 0,
+    "Title": "FxEmbed/FxEmbed",
+    "Url": "https://github.com/FxEmbed/FxEmbed",
+    "Description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+    "Metadata": {
+      "owner": "FxEmbed",
+      "repo": "FxEmbed",
+      "language": "TypeScript",
+      "stars": "165"
+    },
+    "FetchedAt": "2026-09-24T16:14:04.5002823+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/financial-services"
+    },
+    "Type": 0,
+    "Title": "anthropics/financial-services",
+    "Url": "https://github.com/anthropics/financial-services",
+    "Description": "",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "financial-services",
+      "language": "Python",
+      "stars": "510"
+    },
+    "FetchedAt": "2026-09-24T16:14:04.6762058+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/CLI-Anything"
+    },
+    "Type": 0,
+    "Title": "HKUDS/CLI-Anything",
+    "Url": "https://github.com/HKUDS/CLI-Anything",
+    "Description": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "CLI-Anything",
+      "language": "Python",
+      "stars": "415"
+    },
+    "FetchedAt": "2026-09-24T16:14:04.8553134+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mvt-project/mvt"
+    },
+    "Type": 0,
+    "Title": "mvt-project/mvt",
+    "Url": "https://github.com/mvt-project/mvt",
+    "Description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "Metadata": {
+      "owner": "mvt-project",
+      "repo": "mvt",
+      "language": "Python",
+      "stars": "275",
+      "topics": "android, forensics, forensics-tools, ios, mobile, security"
+    },
+    "FetchedAt": "2026-09-24T16:14:05.0145298+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:strands-agents/harness-sdk"
+    },
+    "Type": 0,
+    "Title": "strands-agents/harness-sdk",
+    "Url": "https://github.com/strands-agents/harness-sdk",
+    "Description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python \u0026 TypeScript - any model, any cloud.",
+    "Metadata": {
+      "owner": "strands-agents",
+      "repo": "harness-sdk",
+      "language": "Python",
+      "stars": "463",
+      "topics": "agent-framework, agentic, agentic-ai, agents, ai, ai-agents, anthropic, autonomous-agents, bedrock, generative-ai, harness, llm, llm-agent, mcp, multi-agent-systems, openai, python, sdk, strands-agents, typescript"
+    },
+    "FetchedAt": "2026-09-24T16:14:05.1917316+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:julyx10/lap"
+    },
+    "Type": 0,
+    "Title": "julyx10/lap",
+    "Url": "https://github.com/julyx10/lap",
+    "Description": "An offline-first photo manager for large local libraries",
+    "Metadata": {
+      "owner": "julyx10",
+      "repo": "lap",
+      "language": "Vue",
+      "stars": "151",
+      "topics": "desktop-app, digital-asset-manager, duplicate-detection, face-recognition, family-photos, image-search, large-photo-collections, linux-app, local-first, macos-app, offline, open-source, photo-library, photo-management, photo-organizer, privacy, windows-app"
+    },
+    "FetchedAt": "2026-09-24T16:14:05.3955289+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:superdesigndev/treg"
+    },
+    "Type": 0,
+    "Title": "superdesigndev/treg",
+    "Url": "https://github.com/superdesigndev/treg",
+    "Description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+    "Metadata": {
+      "owner": "superdesigndev",
+      "repo": "treg",
+      "language": "Python",
+      "stars": "470",
+      "topics": "agents, api-keys, cli, credentials, developer-tools, dsh-plugin, mcp, proxy, python, registry, secrets"
+    },
+    "FetchedAt": "2026-09-24T16:14:05.5421796+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:leejet/stable-diffusion.cpp"
+    },
+    "Type": 0,
+    "Title": "leejet/stable-diffusion.cpp",
+    "Url": "https://github.com/leejet/stable-diffusion.cpp",
+    "Description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C\u002B\u002B",
+    "Metadata": {
+      "owner": "leejet",
+      "repo": "stable-diffusion.cpp",
+      "language": "C\u002B\u002B",
+      "stars": "33",
+      "topics": "ai, cplusplus, diffusion, flux, flux-dev, ggml, image-generation, image2image, img2img, latent-diffusion, ltx-video, qwen-image, stable-diffusion, text2image, txt2img, videogeneration, wan, z-image, z-image-turbo"
+    },
+    "FetchedAt": "2026-09-24T16:14:05.7156146+00:00"
   }
 ]

@@ -211,36 +211,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49828385"
-    },
-    "Type": 1,
-    "Title": "Nokia Design Archive (2025)",
-    "Url": "https://nokiadesignarchive.aalto.fi/index.html",
-    "Description": "Nokia Design Archive (2025)",
-    "Metadata": {
-      "score": "43",
-      "author": "pillars",
-      "commentCount": "17"
-    },
-    "FetchedAt": "2026-09-24T10:51:23.7116257+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49823582"
-    },
-    "Type": 1,
-    "Title": "Linux support is coming to Snapdragon X2 Series",
-    "Url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-    "Description": "Linux support is coming to Snapdragon X2 Series",
-    "Metadata": {
-      "score": "432",
-      "author": "aaronday",
-      "commentCount": "180"
-    },
-    "FetchedAt": "2026-09-24T10:51:23.7648388+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49823108"
     },
     "Type": 1,
@@ -253,51 +223,6 @@
       "commentCount": "30"
     },
     "FetchedAt": "2026-09-24T10:51:23.8328223+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49820134"
-    },
-    "Type": 1,
-    "Title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-    "Url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-    "Description": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-    "Metadata": {
-      "score": "662",
-      "author": "raahelb",
-      "commentCount": "678"
-    },
-    "FetchedAt": "2026-09-24T10:51:23.8865096+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49825642"
-    },
-    "Type": 1,
-    "Title": "Ideas on modernizing the open-source desktop",
-    "Url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
-    "Description": "Ideas on modernizing the open-source desktop",
-    "Metadata": {
-      "score": "152",
-      "author": "signa11",
-      "commentCount": "136"
-    },
-    "FetchedAt": "2026-09-24T10:51:23.9394121+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49802661"
-    },
-    "Type": 1,
-    "Title": "RAM: the forgotten history (2024)",
-    "Url": "https://blog.coredump.cx/p/memory-the-forgotten-history",
-    "Description": "RAM: the forgotten history (2024)",
-    "Metadata": {
-      "score": "27",
-      "author": "Luc",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-09-24T10:51:23.9912699+00:00"
   },
   {
     "ExternalId": {
@@ -316,51 +241,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49827794"
-    },
-    "Type": 1,
-    "Title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-    "Url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-    "Description": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-    "Metadata": {
-      "score": "146",
-      "author": "pieterr",
-      "commentCount": "63"
-    },
-    "FetchedAt": "2026-09-24T10:51:24.0965226+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49823664"
-    },
-    "Type": 1,
-    "Title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-    "Url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-    "Description": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-    "Metadata": {
-      "score": "191",
-      "author": "JohnHammersley",
-      "commentCount": "22"
-    },
-    "FetchedAt": "2026-09-24T10:51:24.1490151+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49826221"
-    },
-    "Type": 1,
-    "Title": "Contrastive Language Models",
-    "Url": "https://contrastive-lm.notion.site/",
-    "Description": "Contrastive Language Models",
-    "Metadata": {
-      "score": "82",
-      "author": "erichocean",
-      "commentCount": "17"
-    },
-    "FetchedAt": "2026-09-24T10:51:24.2019818+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49828409"
     },
     "Type": 1,
@@ -373,66 +253,6 @@
       "commentCount": "0"
     },
     "FetchedAt": "2026-09-24T10:51:24.2535366+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49822555"
-    },
-    "Type": 1,
-    "Title": "VSCode\u0027s SSH Agent Is Bananas (2025)",
-    "Url": "https://fly.io/blog/vscode-ssh-wtf/",
-    "Description": "VSCode\u0027s SSH Agent Is Bananas (2025)",
-    "Metadata": {
-      "score": "237",
-      "author": "Rapzid",
-      "commentCount": "150"
-    },
-    "FetchedAt": "2026-09-24T10:51:24.3054692+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49824864"
-    },
-    "Type": 1,
-    "Title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
-    "Url": "https://github.com/nestrilabs/virtio-nvgpu",
-    "Description": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
-    "Metadata": {
-      "score": "105",
-      "author": "WanjohiRyan",
-      "commentCount": "46"
-    },
-    "FetchedAt": "2026-09-24T10:51:24.3587887+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49796372"
-    },
-    "Type": 1,
-    "Title": "The \u0022Windows XP Box\u0022 (2003)",
-    "Url": "https://www.mini-itx.com/projects/windowsxpbox/",
-    "Description": "The \u0022Windows XP Box\u0022 (2003)",
-    "Metadata": {
-      "score": "160",
-      "author": "doubletwoyou",
-      "commentCount": "28"
-    },
-    "FetchedAt": "2026-09-24T10:51:24.4112253+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49817469"
-    },
-    "Type": 1,
-    "Title": "Fixing the Portobello Police Station Clock",
-    "Url": "https://pointinthecloud.com/2026-04-11-211700.html",
-    "Description": "Fixing the Portobello Police Station Clock",
-    "Metadata": {
-      "score": "452",
-      "author": "avidly",
-      "commentCount": "102"
-    },
-    "FetchedAt": "2026-09-24T10:51:24.4630833+00:00"
   },
   {
     "ExternalId": {
@@ -478,21 +298,6 @@
       "commentCount": "15"
     },
     "FetchedAt": "2026-09-24T10:51:24.6182469+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49825580"
-    },
-    "Type": 1,
-    "Title": "OpenAI agent hacked Australian government website, PM says",
-    "Url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
-    "Description": "OpenAI agent hacked Australian government website, PM says",
-    "Metadata": {
-      "score": "72",
-      "author": "rudy6912",
-      "commentCount": "32"
-    },
-    "FetchedAt": "2026-09-24T10:51:24.6706834+00:00"
   },
   {
     "ExternalId": {
@@ -658,5 +463,455 @@
       "commentCount": "137"
     },
     "FetchedAt": "2026-09-24T10:51:25.2451086+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49831968"
+    },
+    "Type": 1,
+    "Title": "F-Droid 2.0: A New Chapter for Android Freedom",
+    "Url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+    "Description": "F-Droid 2.0: A New Chapter for Android Freedom",
+    "Metadata": {
+      "score": "164",
+      "author": "daveoc64",
+      "commentCount": "46"
+    },
+    "FetchedAt": "2026-09-24T16:14:06.0994962+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49831201"
+    },
+    "Type": 1,
+    "Title": "Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering",
+    "Url": "https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram",
+    "Description": "Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering",
+    "Metadata": {
+      "score": "72",
+      "author": "phatak-dev",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-09-24T16:14:06.1427406+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49818031"
+    },
+    "Type": 1,
+    "Title": "The science of Monkey Island: can grog dissolve a metal mug that fast?",
+    "Url": "https://jgeekstudies.org/2026/09/23/the-science-of-monkey-island-can-grog-actually-dissolve-a-metal-mug-that-fast/",
+    "Description": "The science of Monkey Island: can grog dissolve a metal mug that fast?",
+    "Metadata": {
+      "score": "53",
+      "author": "zdw",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-09-24T16:14:06.1896474+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49805806"
+    },
+    "Type": 1,
+    "Title": "Enjoy Every Sandwich",
+    "Url": "https://bradmontague.substack.com/p/enjoy-every-sandwich",
+    "Description": "Enjoy Every Sandwich",
+    "Metadata": {
+      "score": "107",
+      "author": "NaOH",
+      "commentCount": "46"
+    },
+    "FetchedAt": "2026-09-24T16:14:06.2346893+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49831774"
+    },
+    "Type": 1,
+    "Title": "Disney\u002B and Hulu raise prices by up to 13 percent after doubling profits",
+    "Url": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
+    "Description": "Disney\u002B and Hulu raise prices by up to 13 percent after doubling profits",
+    "Metadata": {
+      "score": "69",
+      "author": "Brajeshwar",
+      "commentCount": "48"
+    },
+    "FetchedAt": "2026-09-24T16:14:06.2788461+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49828385"
+    },
+    "Type": 1,
+    "Title": "Nokia Design Archive (2025)",
+    "Url": "https://nokiadesignarchive.aalto.fi/index.html",
+    "Description": "Nokia Design Archive (2025)",
+    "Metadata": {
+      "score": "163",
+      "author": "pillars",
+      "commentCount": "85"
+    },
+    "FetchedAt": "2026-09-24T16:14:06.323004+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49823582"
+    },
+    "Type": 1,
+    "Title": "Linux support is coming to Snapdragon X2 Series",
+    "Url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+    "Description": "Linux support is coming to Snapdragon X2 Series",
+    "Metadata": {
+      "score": "557",
+      "author": "aaronday",
+      "commentCount": "232"
+    },
+    "FetchedAt": "2026-09-24T16:14:06.3682874+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49825642"
+    },
+    "Type": 1,
+    "Title": "Ideas on modernizing the open-source desktop",
+    "Url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+    "Description": "Ideas on modernizing the open-source desktop",
+    "Metadata": {
+      "score": "306",
+      "author": "signa11",
+      "commentCount": "352"
+    },
+    "FetchedAt": "2026-09-24T16:14:06.4112669+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49831456"
+    },
+    "Type": 1,
+    "Title": "Japanese used bookstores see 5x sales surge as books are being bought by the ton",
+    "Url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities",
+    "Description": "Japanese used bookstores see 5x sales surge as books are being bought by the ton",
+    "Metadata": {
+      "score": "45",
+      "author": "speckx",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-09-24T16:14:06.4541928+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49820134"
+    },
+    "Type": 1,
+    "Title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "Url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "Description": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "Metadata": {
+      "score": "741",
+      "author": "raahelb",
+      "commentCount": "740"
+    },
+    "FetchedAt": "2026-09-24T16:14:06.4973599+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49831690"
+    },
+    "Type": 1,
+    "Title": "Tutoring company tells parents to save their money and \u0027use AI instead\u0027",
+    "Url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+    "Description": "Tutoring company tells parents to save their money and \u0027use AI instead\u0027",
+    "Metadata": {
+      "score": "32",
+      "author": "theanonymousone",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-09-24T16:14:06.5409473+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49802661"
+    },
+    "Type": 1,
+    "Title": "RAM: the forgotten history (2024)",
+    "Url": "https://blog.coredump.cx/p/memory-the-forgotten-history",
+    "Description": "RAM: the forgotten history (2024)",
+    "Metadata": {
+      "score": "85",
+      "author": "Luc",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-09-24T16:14:06.5833086+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49830866"
+    },
+    "Type": 1,
+    "Title": "Best LLM for every budget, updated daily",
+    "Url": "https://bestmodelforyourbudget.terrydjony.com/",
+    "Description": "Best LLM for every budget, updated daily",
+    "Metadata": {
+      "score": "114",
+      "author": "terryds",
+      "commentCount": "72"
+    },
+    "FetchedAt": "2026-09-24T16:14:06.6266004+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49823664"
+    },
+    "Type": 1,
+    "Title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+    "Url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+    "Description": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+    "Metadata": {
+      "score": "271",
+      "author": "JohnHammersley",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-09-24T16:14:06.670999+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49829625"
+    },
+    "Type": 1,
+    "Title": "What Is RLCD? The Secret Behind Jev",
+    "Url": "https://di-zhang-llm.github.io/blog/what-is-rlcd-the-secret-behind-jev/",
+    "Description": "What Is RLCD? The Secret Behind Jev",
+    "Metadata": {
+      "score": "20",
+      "author": "tnspacetime",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-24T16:14:06.7150816+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49799306"
+    },
+    "Type": 1,
+    "Title": "When the Debugger Lies",
+    "Url": "https://danielmangum.com/posts/when-the-debugger-lies/",
+    "Description": "When the Debugger Lies",
+    "Metadata": {
+      "score": "42",
+      "author": "hasheddan",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-09-24T16:14:06.7591551+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49825580"
+    },
+    "Type": 1,
+    "Title": "OpenAI agent hacked Australian government website, PM says",
+    "Url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
+    "Description": "OpenAI agent hacked Australian government website, PM says",
+    "Metadata": {
+      "score": "236",
+      "author": "rudy6912",
+      "commentCount": "166"
+    },
+    "FetchedAt": "2026-09-24T16:14:06.8168134+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49828969"
+    },
+    "Type": 1,
+    "Title": "The newest ESP32 can run Linux and it\u0027s getting close to a Raspberry Pi",
+    "Url": "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/",
+    "Description": "The newest ESP32 can run Linux and it\u0027s getting close to a Raspberry Pi",
+    "Metadata": {
+      "score": "142",
+      "author": "adunk",
+      "commentCount": "56"
+    },
+    "FetchedAt": "2026-09-24T16:14:06.9187508+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49800557"
+    },
+    "Type": 1,
+    "Title": "Coulomb\u0027s law remains tricky to test at home",
+    "Url": "https://chillphysicsenjoyer.substack.com/p/coulombs-law-remains-tricky-to-test",
+    "Description": "Coulomb\u0027s law remains tricky to test at home",
+    "Metadata": {
+      "score": "12",
+      "author": "surprisetalk",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-09-24T16:14:06.9691518+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49822555"
+    },
+    "Type": 1,
+    "Title": "VSCode\u0027s SSH Agent Is Bananas (2025)",
+    "Url": "https://fly.io/blog/vscode-ssh-wtf/",
+    "Description": "VSCode\u0027s SSH Agent Is Bananas (2025)",
+    "Metadata": {
+      "score": "288",
+      "author": "Rapzid",
+      "commentCount": "182"
+    },
+    "FetchedAt": "2026-09-24T16:14:07.0212006+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49827794"
+    },
+    "Type": 1,
+    "Title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+    "Url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+    "Description": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+    "Metadata": {
+      "score": "519",
+      "author": "pieterr",
+      "commentCount": "309"
+    },
+    "FetchedAt": "2026-09-24T16:14:07.0729731+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49826221"
+    },
+    "Type": 1,
+    "Title": "Contrastive Language Models",
+    "Url": "https://contrastive-lm.notion.site/",
+    "Description": "Contrastive Language Models",
+    "Metadata": {
+      "score": "132",
+      "author": "erichocean",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-09-24T16:14:07.1159499+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49828731"
+    },
+    "Type": 1,
+    "Title": "Two-Tier Encryption in the UK \u2013 Identical Apple Devices, Different Protection",
+    "Url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+    "Description": "Two-Tier Encryption in the UK \u2013 Identical Apple Devices, Different Protection",
+    "Metadata": {
+      "score": "219",
+      "author": "ReturnoftheHack",
+      "commentCount": "204"
+    },
+    "FetchedAt": "2026-09-24T16:14:07.1761744+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49829960"
+    },
+    "Type": 1,
+    "Title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+    "Url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
+    "Description": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+    "Metadata": {
+      "score": "182",
+      "author": "nonfamous",
+      "commentCount": "184"
+    },
+    "FetchedAt": "2026-09-24T16:14:07.2206081+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49815370"
+    },
+    "Type": 1,
+    "Title": "WaveDigger: Dig into wireless signals to discover their physical locations",
+    "Url": "https://github.com/christianrowlands/wavedigger",
+    "Description": "WaveDigger: Dig into wireless signals to discover their physical locations",
+    "Metadata": {
+      "score": "3",
+      "author": "882542F3884314B",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-24T16:14:07.2819776+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49796372"
+    },
+    "Type": 1,
+    "Title": "The \u0022Windows XP Box\u0022 (2003)",
+    "Url": "https://www.mini-itx.com/projects/windowsxpbox/",
+    "Description": "The \u0022Windows XP Box\u0022 (2003)",
+    "Metadata": {
+      "score": "205",
+      "author": "doubletwoyou",
+      "commentCount": "42"
+    },
+    "FetchedAt": "2026-09-24T16:14:07.3264022+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49827383"
+    },
+    "Type": 1,
+    "Title": "The Year of Internal Tools",
+    "Url": "https://www.geocod.io/code-and-coordinates/2026-09-23-the-year-of-internal-tools",
+    "Description": "The Year of Internal Tools",
+    "Metadata": {
+      "score": "46",
+      "author": "thecodemonkey",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-09-24T16:14:07.3690987+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49829387"
+    },
+    "Type": 1,
+    "Title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+    "Url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+    "Description": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+    "Metadata": {
+      "score": "86",
+      "author": "ArielSimon",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-09-24T16:14:07.4134686+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49817469"
+    },
+    "Type": 1,
+    "Title": "Fixing the Portobello Police Station Clock",
+    "Url": "https://pointinthecloud.com/2026-04-11-211700.html",
+    "Description": "Fixing the Portobello Police Station Clock",
+    "Metadata": {
+      "score": "502",
+      "author": "avidly",
+      "commentCount": "111"
+    },
+    "FetchedAt": "2026-09-24T16:14:07.4568798+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49824864"
+    },
+    "Type": 1,
+    "Title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
+    "Url": "https://github.com/nestrilabs/virtio-nvgpu",
+    "Description": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
+    "Metadata": {
+      "score": "140",
+      "author": "WanjohiRyan",
+      "commentCount": "56"
+    },
+    "FetchedAt": "2026-09-24T16:14:07.5015772+00:00"
   }
 ]
