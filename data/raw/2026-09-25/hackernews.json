@@ -211,21 +211,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49839664"
-    },
-    "Type": 1,
-    "Title": "What About Rails?",
-    "Url": "https://jardo.dev/what-about-rails",
-    "Description": "What About Rails?",
-    "Metadata": {
-      "score": "69",
-      "author": "jrochkind1",
-      "commentCount": "27"
-    },
-    "FetchedAt": "2026-09-25T10:54:25.1346117+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49842483"
     },
     "Type": 1,
@@ -391,51 +376,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49843269"
-    },
-    "Type": 1,
-    "Title": "Platform-Independent SIMD in Go",
-    "Url": "https://go.dev/blog/simd-experiment",
-    "Description": "Platform-Independent SIMD in Go",
-    "Metadata": {
-      "score": "174",
-      "author": "yurivish",
-      "commentCount": "52"
-    },
-    "FetchedAt": "2026-09-25T16:14:46.7686811+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49843174"
-    },
-    "Type": 1,
-    "Title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-    "Url": "https://github.com/git-bug/git-bug",
-    "Description": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-    "Metadata": {
-      "score": "156",
-      "author": "alentred",
-      "commentCount": "40"
-    },
-    "FetchedAt": "2026-09-25T16:14:46.8063337+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49844736"
-    },
-    "Type": 1,
-    "Title": "First Principles Thinking",
-    "Url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
-    "Description": "First Principles Thinking",
-    "Metadata": {
-      "score": "50",
-      "author": "sunils34",
-      "commentCount": "19"
-    },
-    "FetchedAt": "2026-09-25T16:14:46.8415583+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49845952"
     },
     "Type": 1,
@@ -451,21 +391,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49841285"
-    },
-    "Type": 1,
-    "Title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
-    "Url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
-    "Description": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
-    "Metadata": {
-      "score": "180",
-      "author": "hugh4life",
-      "commentCount": "80"
-    },
-    "FetchedAt": "2026-09-25T16:14:46.9107802+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49844786"
     },
     "Type": 1,
@@ -478,21 +403,6 @@
       "commentCount": "131"
     },
     "FetchedAt": "2026-09-25T16:14:46.9452005+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49842270"
-    },
-    "Type": 1,
-    "Title": "Ink and Switch Interactive Homepage",
-    "Url": "https://www.inkandswitch.com/",
-    "Description": "Ink and Switch Interactive Homepage",
-    "Metadata": {
-      "score": "128",
-      "author": "iFreilicht",
-      "commentCount": "19"
-    },
-    "FetchedAt": "2026-09-25T16:14:46.981842+00:00"
   },
   {
     "ExternalId": {
@@ -541,21 +451,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49845133"
-    },
-    "Type": 1,
-    "Title": "Factorio that you can touch",
-    "Url": "https://factorio.com/blog/post/fff-447",
-    "Description": "Factorio that you can touch",
-    "Metadata": {
-      "score": "75",
-      "author": "ibobev",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-09-25T16:14:47.1206569+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49845998"
     },
     "Type": 1,
@@ -568,21 +463,6 @@
       "commentCount": "3"
     },
     "FetchedAt": "2026-09-25T16:14:47.1561052+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49842084"
-    },
-    "Type": 1,
-    "Title": "Boards of Casio",
-    "Url": "https://www.ambionix.com/blog/boards-of-casio/",
-    "Description": "Boards of Casio",
-    "Metadata": {
-      "score": "60",
-      "author": "fidotron",
-      "commentCount": "18"
-    },
-    "FetchedAt": "2026-09-25T16:14:47.1949337+00:00"
   },
   {
     "ExternalId": {
@@ -601,36 +481,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49841309"
-    },
-    "Type": 1,
-    "Title": "Amiga Screens: A Primer",
-    "Url": "https://www.datagubbe.se/amscr/",
-    "Description": "Amiga Screens: A Primer",
-    "Metadata": {
-      "score": "76",
-      "author": "msephton",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-09-25T16:14:47.2667714+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49841115"
-    },
-    "Type": 1,
-    "Title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
-    "Url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
-    "Description": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
-    "Metadata": {
-      "score": "90",
-      "author": "safateam",
-      "commentCount": "23"
-    },
-    "FetchedAt": "2026-09-25T16:14:47.300237+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49841893"
     },
     "Type": 1,
@@ -646,21 +496,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49833867"
-    },
-    "Type": 1,
-    "Title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
-    "Url": "https://github.com/devdotfast/whiteboard",
-    "Description": "Hello! We\u2019re Sid, Alex, Ketan, and Milan. We\u2019re building Whiteboard (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;whiteboard.dev.fast\u0026#x2F;\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;whiteboard.dev.fast\u0026#x2F;\u003C/a\u003E), an open-source desktop app where humans and agents can architect software together in a common workspace. Here\u2019s our repo: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;devdotfast\u0026#x2F;whiteboard\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;devdotfast\u0026#x2F;whiteboard\u003C/a\u003E.\u003Cp\u003EWe were missing the feeling of a \u201Cwhiteboard sessi",
-    "Metadata": {
-      "score": "364",
-      "author": "sidharthkmenon",
-      "commentCount": "126"
-    },
-    "FetchedAt": "2026-09-25T16:14:47.3709988+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49843550"
     },
     "Type": 1,
@@ -673,21 +508,6 @@
       "commentCount": "24"
     },
     "FetchedAt": "2026-09-25T16:14:47.4055936+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49832938"
-    },
-    "Type": 1,
-    "Title": "Why is the liver so weirdly regenerative?",
-    "Url": "https://dynomight.substack.com/p/liver",
-    "Description": "Why is the liver so weirdly regenerative?",
-    "Metadata": {
-      "score": "499",
-      "author": "jbotz",
-      "commentCount": "255"
-    },
-    "FetchedAt": "2026-09-25T16:14:47.4415227+00:00"
   },
   {
     "ExternalId": {
@@ -718,21 +538,6 @@
       "commentCount": "72"
     },
     "FetchedAt": "2026-09-25T16:14:47.5145656+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49817680"
-    },
-    "Type": 1,
-    "Title": "Rails World 2026 Opening Keynote [video]",
-    "Url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-    "Description": "Rails World 2026 Opening Keynote [video]",
-    "Metadata": {
-      "score": "393",
-      "author": "an0malous",
-      "commentCount": "421"
-    },
-    "FetchedAt": "2026-09-25T16:14:47.5485639+00:00"
   },
   {
     "ExternalId": {
@@ -811,21 +616,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49845977"
-    },
-    "Type": 1,
-    "Title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-    "Url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-    "Description": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-    "Metadata": {
-      "score": "10",
-      "author": "cramer4next",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-09-25T16:14:47.7971248+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49828731"
     },
     "Type": 1,
@@ -838,5 +628,455 @@
       "commentCount": "440"
     },
     "FetchedAt": "2026-09-25T16:14:47.8327662+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49848269"
+    },
+    "Type": 1,
+    "Title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
+    "Url": "https://ollaya.dev/",
+    "Description": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
+    "Metadata": {
+      "score": "174",
+      "author": "Ardakilic",
+      "commentCount": "47"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.1079702+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49848295"
+    },
+    "Type": 1,
+    "Title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+    "Url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+    "Description": "The following explanation is taken from \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=49622607\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=49622607\u003C/a\u003E:\u003Cp\u003EAlan Kay performs an improvisational avant garde layered audio feedback loop about Claude Shannon, live online during Kristen Nygaard\u0026#x27;s 100-year birthday celebration.\u003Cp\u003EAlan was scheduled to talk about how encountering Simula sparked his early thoughts about objects. During setup, somebody had the live stream playi",
+    "Metadata": {
+      "score": "86",
+      "author": "behoove",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.1422094+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49845172"
+    },
+    "Type": 1,
+    "Title": "Show HN: Jev Plays Pok\u00E9mon Red",
+    "Url": "https://jev-pokemon.vercel.app/",
+    "Description": "Hey HN! Wanted to share a fun project I\u0026#x27;ve been hacking on. Given Jev can make decisions really fast (but not fast enough to play Doom yet sadly), I wanted to try and push it to play a more complex game than Tetris. So I went with Pok\u00E9mon.\u003Cp\u003EI\u0026#x27;ve spent endless hours playing this game as a child so building this was a ton of fun.\u003Cp\u003EI open sourced everything in case you want to hack on it yourself here: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;christianmat\u0026#x2F;jev-pokemon\u0022 rel=\u0022nofoll",
+    "Metadata": {
+      "score": "49",
+      "author": "pancomplex",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.1756889+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49843269"
+    },
+    "Type": 1,
+    "Title": "Platform-independent SIMD in Go",
+    "Url": "https://go.dev/blog/simd-experiment",
+    "Description": "Platform-independent SIMD in Go",
+    "Metadata": {
+      "score": "318",
+      "author": "yurivish",
+      "commentCount": "122"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.2101722+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49848680"
+    },
+    "Type": 1,
+    "Title": "Advice to a Beginning Graduate Student (2001)",
+    "Url": "https://www.cs.cmu.edu/~mblum/research/pdf/grad.html",
+    "Description": "Advice to a Beginning Graduate Student (2001)",
+    "Metadata": {
+      "score": "34",
+      "author": "nicoraga",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.245583+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49844736"
+    },
+    "Type": 1,
+    "Title": "First Principles Thinking",
+    "Url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+    "Description": "First Principles Thinking",
+    "Metadata": {
+      "score": "174",
+      "author": "sunils34",
+      "commentCount": "73"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.2791228+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49843174"
+    },
+    "Type": 1,
+    "Title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+    "Url": "https://github.com/git-bug/git-bug",
+    "Description": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+    "Metadata": {
+      "score": "259",
+      "author": "alentred",
+      "commentCount": "89"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.3125369+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49845977"
+    },
+    "Type": 1,
+    "Title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+    "Url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+    "Description": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+    "Metadata": {
+      "score": "296",
+      "author": "cramer4next",
+      "commentCount": "474"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.3465068+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49788014"
+    },
+    "Type": 1,
+    "Title": "Show HN: Make math automatic with Mathy",
+    "Url": "https://gmays.com/making-math-automatic-with-mathy/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;mathy.game\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;mathy.game\u0026#x2F;\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;mathy.game\u0026#x2F;app\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;mathy.game\u0026#x2F;app\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;apps.apple.com\u0026#x2F;us\u0026#x2F;app\u0026#x2F;mathy-build-math-automaticity\u0026#x2F;id6804888736\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;apps.apple.com\u0026#x2F;us\u0026#x2F;app\u0026#x2F;mathy-build-math-automaticity\u0026#x2F;...\u003C/a\u003E",
+    "Metadata": {
+      "score": "39",
+      "author": "gmays",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.3819066+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49841285"
+    },
+    "Type": 1,
+    "Title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+    "Url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+    "Description": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+    "Metadata": {
+      "score": "248",
+      "author": "hugh4life",
+      "commentCount": "107"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.4158079+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49777121"
+    },
+    "Type": 1,
+    "Title": "How video games inspire great UX (2019)",
+    "Url": "https://jenson.org/games/",
+    "Description": "How video games inspire great UX (2019)",
+    "Metadata": {
+      "score": "56",
+      "author": "andsoitis",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.4497299+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49848095"
+    },
+    "Type": 1,
+    "Title": "Meta\u0027s Muse appears to use an OpenAI model labeled muse-special",
+    "Url": "https://mouse.dev/blog/muse-special/",
+    "Description": "Meta\u0027s Muse appears to use an OpenAI model labeled muse-special",
+    "Metadata": {
+      "score": "62",
+      "author": "Aeroi",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.4838963+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49842270"
+    },
+    "Type": 1,
+    "Title": "Ink and Switch interactive homepage",
+    "Url": "https://www.inkandswitch.com/",
+    "Description": "Ink and Switch interactive homepage",
+    "Metadata": {
+      "score": "204",
+      "author": "iFreilicht",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.5184778+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49849312"
+    },
+    "Type": 1,
+    "Title": "Rising sea destroys homes, erases beaches in California",
+    "Url": "https://www.reuters.com/business/environment/rising-sea-destroys-homes-erases-beaches-california-is-worse-come-2026-09-25/",
+    "Description": "Rising sea destroys homes, erases beaches in California",
+    "Metadata": {
+      "score": "14",
+      "author": "geox",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.552332+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49800114"
+    },
+    "Type": 1,
+    "Title": "Bwbach, My Guardian Goblin",
+    "Url": "https://robertmay.photography/journal/bwbach-my-guardian-goblin",
+    "Description": "Bwbach, My Guardian Goblin",
+    "Metadata": {
+      "score": "12",
+      "author": "robotmay",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.5884584+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49845133"
+    },
+    "Type": 1,
+    "Title": "Factorio that you can touch",
+    "Url": "https://factorio.com/blog/post/fff-447",
+    "Description": "Factorio that you can touch",
+    "Metadata": {
+      "score": "259",
+      "author": "ibobev",
+      "commentCount": "77"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.6219185+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49848838"
+    },
+    "Type": 1,
+    "Title": "Bug: Border radius has infected VSCode editor",
+    "Url": "https://github.com/microsoft/vscode/issues/338035",
+    "Description": "Bug: Border radius has infected VSCode editor",
+    "Metadata": {
+      "score": "28",
+      "author": "2Ucoder",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.6557233+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49841309"
+    },
+    "Type": 1,
+    "Title": "Amiga Screens: A Primer",
+    "Url": "https://www.datagubbe.se/amscr/",
+    "Description": "Amiga Screens: A Primer",
+    "Metadata": {
+      "score": "110",
+      "author": "msephton",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.6900052+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49777515"
+    },
+    "Type": 1,
+    "Title": "A History of the Chiming Machines at Gloucester\u0027s Cathedral and Churches (2017) [pdf]",
+    "Url": "https://www.bgas.org.uk/tbgas_bg/v135/251-268-MacKechnie-Jarvis.pdf",
+    "Description": "A History of the Chiming Machines at Gloucester\u0027s Cathedral and Churches (2017) [pdf]",
+    "Metadata": {
+      "score": "8",
+      "author": "dvt",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.7244728+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49848819"
+    },
+    "Type": 1,
+    "Title": "Letterboxd Is Up for Sale, and A24, Sony and the New York Times Are Bidding",
+    "Url": "https://www.worldofreel.com/blog/2026/9/24/letterboxd-is-up-for-sale-and-a24-sony-and-the-new-york-times-bidding",
+    "Description": "Letterboxd Is Up for Sale, and A24, Sony and the New York Times Are Bidding",
+    "Metadata": {
+      "score": "32",
+      "author": "crossroadsguy",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.7597089+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49846953"
+    },
+    "Type": 1,
+    "Title": "Show HN: Doom or Bloom, map your AI worldview",
+    "Url": "https://www.doom-or-bloom.com",
+    "Description": "Map your AI worldview by answering a few questions, and see how you compare with others.\u003Cp\u003Eonly takes a few minutes \u0026amp;\u0026amp; free \u0026amp; open source \u0026amp;\u0026amp; private by default \u0026amp;\u0026amp; powered by Jev\u003Cp\u003EI think this is a really important question for everyone to be asking themselves, and my hope is that this lil project helps to move our conversations around AI futures in a more balanced, productive direction.",
+    "Metadata": {
+      "score": "37",
+      "author": "transitivebs",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.7961948+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49833867"
+    },
+    "Type": 1,
+    "Title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
+    "Url": "https://github.com/devdotfast/whiteboard",
+    "Description": "Hello! We\u2019re Sid, Alex, Ketan, and Milan. We\u2019re building Whiteboard (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;whiteboard.dev.fast\u0026#x2F;\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;whiteboard.dev.fast\u0026#x2F;\u003C/a\u003E), an open-source desktop app where humans and agents can architect software together in a common workspace. Here\u2019s our repo: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;devdotfast\u0026#x2F;whiteboard\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;devdotfast\u0026#x2F;whiteboard\u003C/a\u003E.\u003Cp\u003EWe were missing the feeling of a \u201Cwhiteboard sessi",
+    "Metadata": {
+      "score": "387",
+      "author": "sidharthkmenon",
+      "commentCount": "127"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.8325493+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49839664"
+    },
+    "Type": 1,
+    "Title": "What About Rails?",
+    "Url": "https://jardo.dev/what-about-rails",
+    "Description": "What About Rails?",
+    "Metadata": {
+      "score": "274",
+      "author": "jrochkind1",
+      "commentCount": "179"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.866431+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49846640"
+    },
+    "Type": 1,
+    "Title": "Typst makes big strides",
+    "Url": "https://lwn.net/Articles/1092993/",
+    "Description": "Typst makes big strides",
+    "Metadata": {
+      "score": "63",
+      "author": "leephillips",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.8999521+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49832938"
+    },
+    "Type": 1,
+    "Title": "Why is the liver so weirdly regenerative?",
+    "Url": "https://dynomight.substack.com/p/liver",
+    "Description": "Why is the liver so weirdly regenerative?",
+    "Metadata": {
+      "score": "540",
+      "author": "jbotz",
+      "commentCount": "272"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.9333387+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49841115"
+    },
+    "Type": 1,
+    "Title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+    "Url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+    "Description": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+    "Metadata": {
+      "score": "106",
+      "author": "safateam",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-09-25T20:56:25.9676238+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49842084"
+    },
+    "Type": 1,
+    "Title": "Boards of Casio",
+    "Url": "https://www.ambionix.com/blog/boards-of-casio/",
+    "Description": "Boards of Casio",
+    "Metadata": {
+      "score": "98",
+      "author": "fidotron",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-09-25T20:56:26.001233+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49848227"
+    },
+    "Type": 1,
+    "Title": "Astronomer watches Starlink satellites sinking to build a \u0027planetary barometer\u0027",
+    "Url": "https://www.theregister.com/science/2026/09/25/astronomer-watches-starlink-satellites-sinking-to-build-a-planetary-barometer/5299036",
+    "Description": "Astronomer watches Starlink satellites sinking to build a \u0027planetary barometer\u0027",
+    "Metadata": {
+      "score": "29",
+      "author": "whh",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-09-25T20:56:26.0346615+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49817680"
+    },
+    "Type": 1,
+    "Title": "Rails World 2026 Opening Keynote [video]",
+    "Url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+    "Description": "Rails World 2026 Opening Keynote [video]",
+    "Metadata": {
+      "score": "420",
+      "author": "an0malous",
+      "commentCount": "467"
+    },
+    "FetchedAt": "2026-09-25T20:56:26.0694421+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49844642"
+    },
+    "Type": 1,
+    "Title": "What happens when you analyze your favorite college football team like the CIA?",
+    "Url": "https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia",
+    "Description": "What happens when you analyze your favorite college football team like the CIA?",
+    "Metadata": {
+      "score": "12",
+      "author": "adam",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-09-25T20:56:26.1037538+00:00"
   }
 ]
