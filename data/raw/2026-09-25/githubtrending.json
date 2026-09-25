@@ -1,0 +1,201 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:vectorize-io/hindsight"
+    },
+    "Type": 0,
+    "Title": "vectorize-io/hindsight",
+    "Url": "https://github.com/vectorize-io/hindsight",
+    "Description": "Hindsight: Agent Memory That Learns",
+    "Metadata": {
+      "owner": "vectorize-io",
+      "repo": "hindsight",
+      "language": "Python",
+      "stars": "1,668",
+      "topics": "agentic-ai, agents, ai-memory, memory"
+    },
+    "FetchedAt": "2026-09-25T02:46:37.6801266+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:dream-num/univer"
+    },
+    "Type": 0,
+    "Title": "dream-num/univer",
+    "Url": "https://github.com/dream-num/univer",
+    "Description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "Metadata": {
+      "owner": "dream-num",
+      "repo": "univer",
+      "language": "TypeScript",
+      "stars": "1,082",
+      "topics": "board, collaboration, data-table, doc, docx, excel, grid, pdf, ppt, pptx, presentation, sdk, sheet, slides, spreadsheet, table, word, wordprocessor, xlsx"
+    },
+    "FetchedAt": "2026-09-25T02:46:37.8846271+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google/ax"
+    },
+    "Type": 0,
+    "Title": "google/ax",
+    "Url": "https://github.com/google/ax",
+    "Description": "Google\u0027s open agentic orchestration runtime",
+    "Metadata": {
+      "owner": "google",
+      "repo": "ax",
+      "language": "Go",
+      "stars": "1,373"
+    },
+    "FetchedAt": "2026-09-25T02:46:38.0243318+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NVIDIA/Model-Optimizer"
+    },
+    "Type": 0,
+    "Title": "NVIDIA/Model-Optimizer",
+    "Url": "https://github.com/NVIDIA/Model-Optimizer",
+    "Description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+    "Metadata": {
+      "owner": "NVIDIA",
+      "repo": "Model-Optimizer",
+      "language": "Python",
+      "stars": "44"
+    },
+    "FetchedAt": "2026-09-25T02:46:38.1642575+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:FxEmbed/FxEmbed"
+    },
+    "Type": 0,
+    "Title": "FxEmbed/FxEmbed",
+    "Url": "https://github.com/FxEmbed/FxEmbed",
+    "Description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+    "Metadata": {
+      "owner": "FxEmbed",
+      "repo": "FxEmbed",
+      "language": "TypeScript",
+      "stars": "182"
+    },
+    "FetchedAt": "2026-09-25T02:46:38.2913145+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/financial-services"
+    },
+    "Type": 0,
+    "Title": "anthropics/financial-services",
+    "Url": "https://github.com/anthropics/financial-services",
+    "Description": "",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "financial-services",
+      "language": "Python",
+      "stars": "509"
+    },
+    "FetchedAt": "2026-09-25T02:46:38.4157793+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/CLI-Anything"
+    },
+    "Type": 0,
+    "Title": "HKUDS/CLI-Anything",
+    "Url": "https://github.com/HKUDS/CLI-Anything",
+    "Description": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "CLI-Anything",
+      "language": "Python",
+      "stars": "413"
+    },
+    "FetchedAt": "2026-09-25T02:46:38.5525903+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mvt-project/mvt"
+    },
+    "Type": 0,
+    "Title": "mvt-project/mvt",
+    "Url": "https://github.com/mvt-project/mvt",
+    "Description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "Metadata": {
+      "owner": "mvt-project",
+      "repo": "mvt",
+      "language": "Python",
+      "stars": "272",
+      "topics": "android, forensics, forensics-tools, ios, mobile, security"
+    },
+    "FetchedAt": "2026-09-25T02:46:38.692324+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:strands-agents/harness-sdk"
+    },
+    "Type": 0,
+    "Title": "strands-agents/harness-sdk",
+    "Url": "https://github.com/strands-agents/harness-sdk",
+    "Description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python \u0026 TypeScript - any model, any cloud.",
+    "Metadata": {
+      "owner": "strands-agents",
+      "repo": "harness-sdk",
+      "language": "Python",
+      "stars": "455",
+      "topics": "agent-framework, agentic, agentic-ai, agents, ai, ai-agents, anthropic, autonomous-agents, bedrock, generative-ai, harness, llm, llm-agent, mcp, multi-agent-systems, openai, python, sdk, strands-agents, typescript"
+    },
+    "FetchedAt": "2026-09-25T02:46:38.8233358+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:julyx10/lap"
+    },
+    "Type": 0,
+    "Title": "julyx10/lap",
+    "Url": "https://github.com/julyx10/lap",
+    "Description": "An offline-first photo manager for large local libraries",
+    "Metadata": {
+      "owner": "julyx10",
+      "repo": "lap",
+      "language": "Vue",
+      "stars": "122",
+      "topics": "desktop-app, digital-asset-manager, duplicate-detection, face-recognition, family-photos, image-search, large-photo-collections, linux-app, local-first, macos-app, offline, open-source, photo-library, photo-management, photo-organizer, privacy, windows-app"
+    },
+    "FetchedAt": "2026-09-25T02:46:38.9983782+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:superdesigndev/treg"
+    },
+    "Type": 0,
+    "Title": "superdesigndev/treg",
+    "Url": "https://github.com/superdesigndev/treg",
+    "Description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+    "Metadata": {
+      "owner": "superdesigndev",
+      "repo": "treg",
+      "language": "Python",
+      "stars": "468",
+      "topics": "agents, api-keys, cli, credentials, developer-tools, dsh-plugin, mcp, proxy, python, registry, secrets"
+    },
+    "FetchedAt": "2026-09-25T02:46:39.1438363+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:leejet/stable-diffusion.cpp"
+    },
+    "Type": 0,
+    "Title": "leejet/stable-diffusion.cpp",
+    "Url": "https://github.com/leejet/stable-diffusion.cpp",
+    "Description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C\u002B\u002B",
+    "Metadata": {
+      "owner": "leejet",
+      "repo": "stable-diffusion.cpp",
+      "language": "C\u002B\u002B",
+      "stars": "36",
+      "topics": "ai, cplusplus, diffusion, flux, flux-dev, ggml, image-generation, image2image, img2img, latent-diffusion, ltx-video, qwen-image, stable-diffusion, text2image, txt2img, videogeneration, wan, z-image, z-image-turbo"
+    },
+    "FetchedAt": "2026-09-25T02:46:39.2684483+00:00"
+  }
+]
