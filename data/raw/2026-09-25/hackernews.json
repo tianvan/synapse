@@ -1,51 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:49831968"
-    },
-    "Type": 1,
-    "Title": "F-Droid 2.0",
-    "Url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-    "Description": "F-Droid 2.0",
-    "Metadata": {
-      "score": "975",
-      "author": "daveoc64",
-      "commentCount": "266"
-    },
-    "FetchedAt": "2026-09-25T02:46:39.7085414+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49823738"
-    },
-    "Type": 1,
-    "Title": "Show HN: Make cursed fonts like Times New Bastard",
-    "Url": "https://bastardica.mitpit.com",
-    "Description": "A joke tool that abuses OpenType\u0026#x27;s ligature feature to mix fonts. It works pretty fast on client-side by loading Python in WASM.",
-    "Metadata": {
-      "score": "507",
-      "author": "MitPitt",
-      "commentCount": "71"
-    },
-    "FetchedAt": "2026-09-25T02:46:39.7661144+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49833867"
-    },
-    "Type": 1,
-    "Title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
-    "Url": "https://github.com/devdotfast/whiteboard",
-    "Description": "Hello! We\u2019re Sid, Alex, Ketan, and Milan. We\u2019re building Whiteboard (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;whiteboard.dev.fast\u0026#x2F;\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;whiteboard.dev.fast\u0026#x2F;\u003C/a\u003E), an open-source desktop app where humans and agents can architect software together in a common workspace. Here\u2019s our repo: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;devdotfast\u0026#x2F;whiteboard\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;devdotfast\u0026#x2F;whiteboard\u003C/a\u003E.\u003Cp\u003EWe were missing the feeling of a \u201Cwhiteboard sessi",
-    "Metadata": {
-      "score": "213",
-      "author": "sidharthkmenon",
-      "commentCount": "85"
-    },
-    "FetchedAt": "2026-09-25T02:46:39.8243703+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49839510"
     },
     "Type": 1,
@@ -58,171 +13,6 @@
       "commentCount": "1"
     },
     "FetchedAt": "2026-09-25T02:46:39.8810877+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49832938"
-    },
-    "Type": 1,
-    "Title": "Why is the liver so weirdly regenerative?",
-    "Url": "https://dynomight.substack.com/p/liver",
-    "Description": "Why is the liver so weirdly regenerative?",
-    "Metadata": {
-      "score": "280",
-      "author": "jbotz",
-      "commentCount": "161"
-    },
-    "FetchedAt": "2026-09-25T02:46:39.9386165+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49800085"
-    },
-    "Type": 1,
-    "Title": "Fearless SIMD v1.0",
-    "Url": "https://linebender.org/blog/fearless-simd-1-0/",
-    "Description": "Fearless SIMD v1.0",
-    "Metadata": {
-      "score": "199",
-      "author": "verdagon",
-      "commentCount": "31"
-    },
-    "FetchedAt": "2026-09-25T02:46:39.995944+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49801436"
-    },
-    "Type": 1,
-    "Title": "2DWillNeverDie",
-    "Url": "https://2dwillneverdie.com/",
-    "Description": "2DWillNeverDie",
-    "Metadata": {
-      "score": "129",
-      "author": "surprisetalk",
-      "commentCount": "10"
-    },
-    "FetchedAt": "2026-09-25T02:46:40.055086+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49817680"
-    },
-    "Type": 1,
-    "Title": "Rails World 2026 Opening Keynote [video]",
-    "Url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-    "Description": "Rails World 2026 Opening Keynote [video]",
-    "Metadata": {
-      "score": "253",
-      "author": "an0malous",
-      "commentCount": "270"
-    },
-    "FetchedAt": "2026-09-25T02:46:40.1121474+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49823568"
-    },
-    "Type": 1,
-    "Title": "Toyota is taking the Corolla electric",
-    "Url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
-    "Description": "Toyota is taking the Corolla electric",
-    "Metadata": {
-      "score": "239",
-      "author": "cisc",
-      "commentCount": "395"
-    },
-    "FetchedAt": "2026-09-25T02:46:40.1690056+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49802510"
-    },
-    "Type": 1,
-    "Title": "Writing Parquet files using Haskell",
-    "Url": "https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html",
-    "Description": "Writing Parquet files using Haskell",
-    "Metadata": {
-      "score": "26",
-      "author": "cosmic_quanta",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-09-25T02:46:40.2250847+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49805344"
-    },
-    "Type": 1,
-    "Title": "My weird new hobby: Wandering around Tokyo on Google Maps",
-    "Url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
-    "Description": "My weird new hobby: Wandering around Tokyo on Google Maps",
-    "Metadata": {
-      "score": "239",
-      "author": "ahmedhossamdev",
-      "commentCount": "102"
-    },
-    "FetchedAt": "2026-09-25T02:46:40.2818282+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49835531"
-    },
-    "Type": 1,
-    "Title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-    "Url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-    "Description": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-    "Metadata": {
-      "score": "84",
-      "author": "benbreen",
-      "commentCount": "14"
-    },
-    "FetchedAt": "2026-09-25T02:46:40.3380429+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49830606"
-    },
-    "Type": 1,
-    "Title": "Google\u2019s Project Suncatcher to put ML infrastructure in space",
-    "Url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.nytimes.com\u0026#x2F;2026\u0026#x2F;09\u0026#x2F;24\u0026#x2F;technology\u0026#x2F;google-suncatcher-ai-data-center-space.html\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.nytimes.com\u0026#x2F;2026\u0026#x2F;09\u0026#x2F;24\u0026#x2F;technology\u0026#x2F;google-suncatc...\u003C/a\u003E (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;BGFnP\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;BGFnP\u003C/a\u003E)",
-    "Metadata": {
-      "score": "125",
-      "author": "xnx",
-      "commentCount": "226"
-    },
-    "FetchedAt": "2026-09-25T02:46:40.3946454+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49823113"
-    },
-    "Type": 1,
-    "Title": "The Bayeux Tapestry: Woven by the Victors",
-    "Url": "https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors",
-    "Description": "The Bayeux Tapestry: Woven by the Victors",
-    "Metadata": {
-      "score": "11",
-      "author": "prismatic",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-09-25T02:46:40.4520275+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49828731"
-    },
-    "Type": 1,
-    "Title": "Two-tier encryption in the UK",
-    "Url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
-    "Description": "Two-tier encryption in the UK",
-    "Metadata": {
-      "score": "392",
-      "author": "ReturnoftheHack",
-      "commentCount": "378"
-    },
-    "FetchedAt": "2026-09-25T02:46:40.5092362+00:00"
   },
   {
     "ExternalId": {
@@ -241,51 +31,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49836419"
-    },
-    "Type": 1,
-    "Title": "California is chasing wealth that has feet",
-    "Url": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
-    "Description": "California is chasing wealth that has feet",
-    "Metadata": {
-      "score": "153",
-      "author": "idbnstra",
-      "commentCount": "432"
-    },
-    "FetchedAt": "2026-09-25T02:46:40.6254439+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49835996"
-    },
-    "Type": 1,
-    "Title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
-    "Url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
-    "Description": "Sourcehut account takeover via build logs (XSS in ansi2html)",
-    "Metadata": {
-      "score": "80",
-      "author": "arusekk",
-      "commentCount": "12"
-    },
-    "FetchedAt": "2026-09-25T02:46:40.6854574+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49787759"
-    },
-    "Type": 1,
-    "Title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
-    "Url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
-    "Description": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
-    "Metadata": {
-      "score": "96",
-      "author": "ahelwer",
-      "commentCount": "26"
-    },
-    "FetchedAt": "2026-09-25T02:46:40.7421978+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49827375"
     },
     "Type": 1,
@@ -298,21 +43,6 @@
       "commentCount": "14"
     },
     "FetchedAt": "2026-09-25T02:46:40.7998092+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49836590"
-    },
-    "Type": 1,
-    "Title": "The Board Game of the Alpha Nerds (2014)",
-    "Url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
-    "Description": "The Board Game of the Alpha Nerds (2014)",
-    "Metadata": {
-      "score": "58",
-      "author": "neonate",
-      "commentCount": "24"
-    },
-    "FetchedAt": "2026-09-25T02:46:40.8568841+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +178,455 @@
       "commentCount": "1"
     },
     "FetchedAt": "2026-09-25T02:46:41.3657104+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49841563"
+    },
+    "Type": 1,
+    "Title": "Dutch governments builds alternative for Microsoft based on NixOS",
+    "Url": "https://www.dawo.community/en/",
+    "Description": "Dutch governments builds alternative for Microsoft based on NixOS",
+    "Metadata": {
+      "score": "237",
+      "author": "fjfaase",
+      "commentCount": "95"
+    },
+    "FetchedAt": "2026-09-25T10:54:24.533101+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49842270"
+    },
+    "Type": 1,
+    "Title": "Ink and Switch Interactive Homepage",
+    "Url": "https://www.inkandswitch.com/",
+    "Description": "Ink and Switch Interactive Homepage",
+    "Metadata": {
+      "score": "28",
+      "author": "iFreilicht",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-25T10:54:24.5824372+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49841285"
+    },
+    "Type": 1,
+    "Title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+    "Url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+    "Description": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+    "Metadata": {
+      "score": "73",
+      "author": "hugh4life",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-09-25T10:54:24.6313185+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49831968"
+    },
+    "Type": 1,
+    "Title": "F-Droid 2.0",
+    "Url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+    "Description": "F-Droid 2.0",
+    "Metadata": {
+      "score": "1262",
+      "author": "daveoc64",
+      "commentCount": "363"
+    },
+    "FetchedAt": "2026-09-25T10:54:24.6822833+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49841115"
+    },
+    "Type": 1,
+    "Title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+    "Url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+    "Description": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+    "Metadata": {
+      "score": "54",
+      "author": "safateam",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-09-25T10:54:24.7324753+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49841893"
+    },
+    "Type": 1,
+    "Title": "Special Projects (2016)",
+    "Url": "https://openai.com/index/special-projects/",
+    "Description": "Special Projects (2016)",
+    "Metadata": {
+      "score": "21",
+      "author": "vinhnx",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-09-25T10:54:24.7818569+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49823738"
+    },
+    "Type": 1,
+    "Title": "Show HN: Make cursed fonts like Times New Bastard",
+    "Url": "https://bastardica.mitpit.com",
+    "Description": "A joke tool that abuses OpenType\u0026#x27;s ligature feature to mix fonts. It works pretty fast on client-side by loading Python in WASM.",
+    "Metadata": {
+      "score": "716",
+      "author": "MitPitt",
+      "commentCount": "95"
+    },
+    "FetchedAt": "2026-09-25T10:54:24.8316256+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49842487"
+    },
+    "Type": 1,
+    "Title": "The Mafia may be keeping fentanyl out of Italy",
+    "Url": "https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy",
+    "Description": "The Mafia may be keeping fentanyl out of Italy",
+    "Metadata": {
+      "score": "7",
+      "author": "runeks",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-25T10:54:24.880639+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49833867"
+    },
+    "Type": 1,
+    "Title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
+    "Url": "https://github.com/devdotfast/whiteboard",
+    "Description": "Hello! We\u2019re Sid, Alex, Ketan, and Milan. We\u2019re building Whiteboard (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;whiteboard.dev.fast\u0026#x2F;\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;whiteboard.dev.fast\u0026#x2F;\u003C/a\u003E), an open-source desktop app where humans and agents can architect software together in a common workspace. Here\u2019s our repo: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;devdotfast\u0026#x2F;whiteboard\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;devdotfast\u0026#x2F;whiteboard\u003C/a\u003E.\u003Cp\u003EWe were missing the feeling of a \u201Cwhiteboard sessi",
+    "Metadata": {
+      "score": "320",
+      "author": "sidharthkmenon",
+      "commentCount": "118"
+    },
+    "FetchedAt": "2026-09-25T10:54:24.9331347+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49832938"
+    },
+    "Type": 1,
+    "Title": "Why is the liver so weirdly regenerative?",
+    "Url": "https://dynomight.substack.com/p/liver",
+    "Description": "Why is the liver so weirdly regenerative?",
+    "Metadata": {
+      "score": "422",
+      "author": "jbotz",
+      "commentCount": "215"
+    },
+    "FetchedAt": "2026-09-25T10:54:24.9839695+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49801436"
+    },
+    "Type": 1,
+    "Title": "2DWillNeverDie",
+    "Url": "https://2dwillneverdie.com/",
+    "Description": "2DWillNeverDie",
+    "Metadata": {
+      "score": "252",
+      "author": "surprisetalk",
+      "commentCount": "56"
+    },
+    "FetchedAt": "2026-09-25T10:54:25.0352668+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49842127"
+    },
+    "Type": 1,
+    "Title": "Tech Needs Humanists More",
+    "Url": "https://passo.uno/tech-needs-humanists-more-than-ever/",
+    "Description": "Tech Needs Humanists More",
+    "Metadata": {
+      "score": "62",
+      "author": "eigenBasis",
+      "commentCount": "64"
+    },
+    "FetchedAt": "2026-09-25T10:54:25.0850351+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49839664"
+    },
+    "Type": 1,
+    "Title": "What About Rails?",
+    "Url": "https://jardo.dev/what-about-rails",
+    "Description": "What About Rails?",
+    "Metadata": {
+      "score": "69",
+      "author": "jrochkind1",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-09-25T10:54:25.1346117+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49800085"
+    },
+    "Type": 1,
+    "Title": "Fearless SIMD v1.0",
+    "Url": "https://linebender.org/blog/fearless-simd-1-0/",
+    "Description": "Fearless SIMD v1.0",
+    "Metadata": {
+      "score": "264",
+      "author": "verdagon",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-09-25T10:54:25.1841059+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49817680"
+    },
+    "Type": 1,
+    "Title": "Rails World 2026 Opening Keynote [video]",
+    "Url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+    "Description": "Rails World 2026 Opening Keynote [video]",
+    "Metadata": {
+      "score": "341",
+      "author": "an0malous",
+      "commentCount": "374"
+    },
+    "FetchedAt": "2026-09-25T10:54:25.2343171+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49823568"
+    },
+    "Type": 1,
+    "Title": "Toyota is taking the Corolla electric",
+    "Url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+    "Description": "Toyota is taking the Corolla electric",
+    "Metadata": {
+      "score": "340",
+      "author": "cisc",
+      "commentCount": "609"
+    },
+    "FetchedAt": "2026-09-25T10:54:25.2839362+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49805344"
+    },
+    "Type": 1,
+    "Title": "My weird new hobby: Wandering around Tokyo on Google Maps",
+    "Url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
+    "Description": "My weird new hobby: Wandering around Tokyo on Google Maps",
+    "Metadata": {
+      "score": "342",
+      "author": "ahmedhossamdev",
+      "commentCount": "155"
+    },
+    "FetchedAt": "2026-09-25T10:54:25.3333291+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49842483"
+    },
+    "Type": 1,
+    "Title": "Oracle on the hook to pay data centre investors even if site has no electricity",
+    "Url": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016",
+    "Description": "Oracle on the hook to pay data centre investors even if site has no electricity",
+    "Metadata": {
+      "score": "11",
+      "author": "Betelbuddy",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-09-25T10:54:25.3826731+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49836374"
+    },
+    "Type": 1,
+    "Title": "Opus 5.5 is good at explainer videos",
+    "Url": "https://launchvideo.io",
+    "Description": "Opus 5.5 is good at explainer videos",
+    "Metadata": {
+      "score": "281",
+      "author": "iacguy",
+      "commentCount": "141"
+    },
+    "FetchedAt": "2026-09-25T10:54:25.4319551+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49835531"
+    },
+    "Type": 1,
+    "Title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+    "Url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+    "Description": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+    "Metadata": {
+      "score": "136",
+      "author": "benbreen",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-09-25T10:54:25.4819579+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49830606"
+    },
+    "Type": 1,
+    "Title": "Google\u2019s Project Suncatcher to put ML infrastructure in space",
+    "Url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.nytimes.com\u0026#x2F;2026\u0026#x2F;09\u0026#x2F;24\u0026#x2F;technology\u0026#x2F;google-suncatcher-ai-data-center-space.html\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.nytimes.com\u0026#x2F;2026\u0026#x2F;09\u0026#x2F;24\u0026#x2F;technology\u0026#x2F;google-suncatc...\u003C/a\u003E (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;BGFnP\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;BGFnP\u003C/a\u003E)",
+    "Metadata": {
+      "score": "190",
+      "author": "xnx",
+      "commentCount": "383"
+    },
+    "FetchedAt": "2026-09-25T10:54:25.5317953+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49828731"
+    },
+    "Type": 1,
+    "Title": "Two-tier encryption in the UK",
+    "Url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+    "Description": "Two-tier encryption in the UK",
+    "Metadata": {
+      "score": "464",
+      "author": "ReturnoftheHack",
+      "commentCount": "409"
+    },
+    "FetchedAt": "2026-09-25T10:54:25.5815789+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49842707"
+    },
+    "Type": 1,
+    "Title": "Uproar in France over award-winning author accused of using AI",
+    "Url": "https://www.bbc.com/news/articles/ck7v4y45893go",
+    "Description": "Uproar in France over award-winning author accused of using AI",
+    "Metadata": {
+      "score": "5",
+      "author": "harscoat",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-25T10:54:25.6309683+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49802510"
+    },
+    "Type": 1,
+    "Title": "Writing Parquet files using Haskell",
+    "Url": "https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html",
+    "Description": "Writing Parquet files using Haskell",
+    "Metadata": {
+      "score": "67",
+      "author": "cosmic_quanta",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-09-25T10:54:25.6804293+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49787759"
+    },
+    "Type": 1,
+    "Title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
+    "Url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
+    "Description": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
+    "Metadata": {
+      "score": "125",
+      "author": "ahelwer",
+      "commentCount": "56"
+    },
+    "FetchedAt": "2026-09-25T10:54:25.7320513+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49835996"
+    },
+    "Type": 1,
+    "Title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+    "Url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+    "Description": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+    "Metadata": {
+      "score": "121",
+      "author": "arusekk",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-09-25T10:54:25.7810984+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49836590"
+    },
+    "Type": 1,
+    "Title": "The Board Game of the Alpha Nerds (2014)",
+    "Url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
+    "Description": "The Board Game of the Alpha Nerds (2014)",
+    "Metadata": {
+      "score": "90",
+      "author": "neonate",
+      "commentCount": "48"
+    },
+    "FetchedAt": "2026-09-25T10:54:25.8309035+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49823113"
+    },
+    "Type": 1,
+    "Title": "The Bayeux Tapestry: Woven by the Victors",
+    "Url": "https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors",
+    "Description": "The Bayeux Tapestry: Woven by the Victors",
+    "Metadata": {
+      "score": "35",
+      "author": "prismatic",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-09-25T10:54:25.8805999+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49828385"
+    },
+    "Type": 1,
+    "Title": "Nokia Design Archive (2025)",
+    "Url": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
+    "Description": "Nokia Design Archive (2025)",
+    "Metadata": {
+      "score": "236",
+      "author": "pillars",
+      "commentCount": "128"
+    },
+    "FetchedAt": "2026-09-25T10:54:25.9299162+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49836419"
+    },
+    "Type": 1,
+    "Title": "California is chasing wealth that has feet",
+    "Url": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+    "Description": "California is chasing wealth that has feet",
+    "Metadata": {
+      "score": "249",
+      "author": "idbnstra",
+      "commentCount": "664"
+    },
+    "FetchedAt": "2026-09-25T10:54:25.9795508+00:00"
   }
 ]
