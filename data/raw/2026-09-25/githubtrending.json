@@ -146,7 +146,7 @@
       "language": "TypeScript",
       "stars": "1,853"
     },
-    "FetchedAt": "2026-09-25T10:54:21.9765559+00:00"
+    "FetchedAt": "2026-09-25T16:14:44.2337646+00:00"
   },
   {
     "ExternalId": {
@@ -163,7 +163,7 @@
       "stars": "62",
       "topics": "claude-code, mcp, skills"
     },
-    "FetchedAt": "2026-09-25T10:54:22.3888396+00:00"
+    "FetchedAt": "2026-09-25T16:14:44.4652001+00:00"
   },
   {
     "ExternalId": {
@@ -177,10 +177,10 @@
       "owner": "vectorize-io",
       "repo": "hindsight",
       "language": "Python",
-      "stars": "1,668",
+      "stars": "1,652",
       "topics": "agentic-ai, agents, ai-memory, memory"
     },
-    "FetchedAt": "2026-09-25T10:54:22.5536778+00:00"
+    "FetchedAt": "2026-09-25T16:14:44.6330083+00:00"
   },
   {
     "ExternalId": {
@@ -194,10 +194,10 @@
       "owner": "dream-num",
       "repo": "univer",
       "language": "TypeScript",
-      "stars": "1,082",
+      "stars": "1,048",
       "topics": "board, collaboration, data-table, doc, docx, excel, grid, pdf, ppt, pptx, presentation, sdk, sheet, slides, spreadsheet, table, word, wordprocessor, xlsx"
     },
-    "FetchedAt": "2026-09-25T10:54:22.7316882+00:00"
+    "FetchedAt": "2026-09-25T16:14:44.7864037+00:00"
   },
   {
     "ExternalId": {
@@ -211,10 +211,10 @@
       "owner": "anthropics",
       "repo": "skills",
       "language": "Python",
-      "stars": "155",
+      "stars": "231",
       "topics": "agent-skills"
     },
-    "FetchedAt": "2026-09-25T10:54:22.8938201+00:00"
+    "FetchedAt": "2026-09-25T16:14:44.945102+00:00"
   },
   {
     "ExternalId": {
@@ -228,10 +228,27 @@
       "owner": "androoAGI",
       "repo": "starnet",
       "language": "JavaScript",
-      "stars": "113",
+      "stars": "118",
       "topics": "agent-harness, ai, ai-agents, byok, desktop-app, game-ui, llm, local-first, multi-agent, openrouter, pixel-art, tauri"
     },
-    "FetchedAt": "2026-09-25T10:54:23.0526702+00:00"
+    "FetchedAt": "2026-09-25T16:14:45.1002074+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:derv82/wifit3"
+    },
+    "Type": 0,
+    "Title": "derv82/wifit3",
+    "Url": "https://github.com/derv82/wifit3",
+    "Description": "Wifite but USB-only \u0026 cross-platform.",
+    "Metadata": {
+      "owner": "derv82",
+      "repo": "wifit3",
+      "language": "Python",
+      "stars": "168",
+      "topics": "cross-platform, userland, wifi-scanner, wifi-security, wireless-security"
+    },
+    "FetchedAt": "2026-09-25T16:14:45.2361666+00:00"
   },
   {
     "ExternalId": {
@@ -246,7 +263,7 @@
       "repo": "kubernetes-the-hard-way",
       "stars": "105"
     },
-    "FetchedAt": "2026-09-25T10:54:23.211586+00:00"
+    "FetchedAt": "2026-09-25T16:14:45.4215611+00:00"
   },
   {
     "ExternalId": {
@@ -263,7 +280,7 @@
       "stars": "31",
       "topics": "a-stock, ai-agent, aigc, backtesting, daily, duckdb, fastapi, llm, polars, quant, quantitative-finance, quantitative-trading, react, screener, self-hosted, stock, stock-analysis, tdx, tickflow, tsp"
     },
-    "FetchedAt": "2026-09-25T10:54:23.3779727+00:00"
+    "FetchedAt": "2026-09-25T16:14:45.60126+00:00"
   },
   {
     "ExternalId": {
@@ -277,9 +294,9 @@
       "owner": "google",
       "repo": "ax",
       "language": "Go",
-      "stars": "1,373"
+      "stars": "1,386"
     },
-    "FetchedAt": "2026-09-25T10:54:23.5445755+00:00"
+    "FetchedAt": "2026-09-25T16:14:45.8006644+00:00"
   },
   {
     "ExternalId": {
@@ -293,9 +310,9 @@
       "owner": "NVIDIA",
       "repo": "Model-Optimizer",
       "language": "Python",
-      "stars": "44"
+      "stars": "360"
     },
-    "FetchedAt": "2026-09-25T10:54:23.7293616+00:00"
+    "FetchedAt": "2026-09-25T16:14:45.9536717+00:00"
   },
   {
     "ExternalId": {
@@ -309,9 +326,9 @@
       "owner": "pbakaus",
       "repo": "impeccable",
       "language": "JavaScript",
-      "stars": "527"
+      "stars": "326"
     },
-    "FetchedAt": "2026-09-25T10:54:23.8993239+00:00"
+    "FetchedAt": "2026-09-25T16:14:46.1268554+00:00"
   },
   {
     "ExternalId": {
@@ -328,6 +345,6 @@
       "stars": "16",
       "topics": "go, secret-management, security"
     },
-    "FetchedAt": "2026-09-25T10:54:24.0495743+00:00"
+    "FetchedAt": "2026-09-25T16:14:46.2862289+00:00"
   }
 ]
