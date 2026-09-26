@@ -1,0 +1,217 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:paperclipai/paperclip"
+    },
+    "Type": 0,
+    "Title": "paperclipai/paperclip",
+    "Url": "https://github.com/paperclipai/paperclip",
+    "Description": "The open-source app everyone uses to manage agents at work",
+    "Metadata": {
+      "owner": "paperclipai",
+      "repo": "paperclip",
+      "language": "TypeScript",
+      "stars": "2,109"
+    },
+    "FetchedAt": "2026-09-26T02:49:34.4640104+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-plugins-official"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-plugins-official",
+    "Url": "https://github.com/anthropics/claude-plugins-official",
+    "Description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-plugins-official",
+      "language": "Python",
+      "stars": "83",
+      "topics": "claude-code, mcp, skills"
+    },
+    "FetchedAt": "2026-09-26T02:49:34.6931106+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:vectorize-io/hindsight"
+    },
+    "Type": 0,
+    "Title": "vectorize-io/hindsight",
+    "Url": "https://github.com/vectorize-io/hindsight",
+    "Description": "Hindsight: Agent Memory That Learns",
+    "Metadata": {
+      "owner": "vectorize-io",
+      "repo": "hindsight",
+      "language": "Python",
+      "stars": "1,653",
+      "topics": "agentic-ai, agents, ai-memory, memory"
+    },
+    "FetchedAt": "2026-09-26T02:49:34.8710499+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:dream-num/univer"
+    },
+    "Type": 0,
+    "Title": "dream-num/univer",
+    "Url": "https://github.com/dream-num/univer",
+    "Description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "Metadata": {
+      "owner": "dream-num",
+      "repo": "univer",
+      "language": "TypeScript",
+      "stars": "1,050",
+      "topics": "board, collaboration, data-table, doc, docx, excel, grid, pdf, ppt, pptx, presentation, sdk, sheet, slides, spreadsheet, table, word, wordprocessor, xlsx"
+    },
+    "FetchedAt": "2026-09-26T02:49:35.0329109+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/skills"
+    },
+    "Type": 0,
+    "Title": "anthropics/skills",
+    "Url": "https://github.com/anthropics/skills",
+    "Description": "Public repository for Agent Skills",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "skills",
+      "language": "Python",
+      "stars": "189",
+      "topics": "agent-skills"
+    },
+    "FetchedAt": "2026-09-26T02:49:35.1698783+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:androoAGI/starnet"
+    },
+    "Type": 0,
+    "Title": "androoAGI/starnet",
+    "Url": "https://github.com/androoAGI/starnet",
+    "Description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+    "Metadata": {
+      "owner": "androoAGI",
+      "repo": "starnet",
+      "language": "JavaScript",
+      "stars": "93",
+      "topics": "agent-harness, ai, ai-agents, byok, desktop-app, game-ui, llm, local-first, multi-agent, openrouter, pixel-art, tauri"
+    },
+    "FetchedAt": "2026-09-26T02:49:35.3267715+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:derv82/wifit3"
+    },
+    "Type": 0,
+    "Title": "derv82/wifit3",
+    "Url": "https://github.com/derv82/wifit3",
+    "Description": "Wifite but USB-only \u0026 cross-platform.",
+    "Metadata": {
+      "owner": "derv82",
+      "repo": "wifit3",
+      "language": "Python",
+      "stars": "183",
+      "topics": "cross-platform, userland, wifi-scanner, wifi-security, wireless-security"
+    },
+    "FetchedAt": "2026-09-26T02:49:35.4760189+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:kelseyhightower/kubernetes-the-hard-way"
+    },
+    "Type": 0,
+    "Title": "kelseyhightower/kubernetes-the-hard-way",
+    "Url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+    "Description": "Bootstrap Kubernetes the hard way. No scripts.",
+    "Metadata": {
+      "owner": "kelseyhightower",
+      "repo": "kubernetes-the-hard-way",
+      "stars": "119"
+    },
+    "FetchedAt": "2026-09-26T02:49:35.6290262+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:shy3130/tick-stock-panel"
+    },
+    "Type": 0,
+    "Title": "shy3130/tick-stock-panel",
+    "Url": "https://github.com/shy3130/tick-stock-panel",
+    "Description": "TSP\u81EA\u6258\u7BA1\u3001\u96F6\u8FD0\u7EF4\u7684 A \u80A1\u300C\u9009\u80A1 \u002B \u76D1\u63A7 \u002B \u56DE\u6D4B\u300D\u91CF\u5316\u5DE5\u4F5C\u53F0  | LLM\u80FD\u529B\u9A71\u4F7F\u7B56\u7565\u5B9A\u5236\u002B\u4E2A\u80A1\u5206\u6790\u002B\u590D\u76D8 | \u81EA\u7531\u63A5\u5165\u7B2C\u4E09\u65B9\u6570\u636E\u6E90\u4E0E\u4E2A\u6027\u5316\u6269\u5C55\u6570\u636E | \u4E2A\u4EBA\u5F00\u6E90",
+    "Metadata": {
+      "owner": "shy3130",
+      "repo": "tick-stock-panel",
+      "language": "Python",
+      "stars": "44",
+      "topics": "a-stock, ai-agent, aigc, backtesting, daily, duckdb, fastapi, llm, polars, quant, quantitative-finance, quantitative-trading, react, screener, self-hosted, stock, stock-analysis, tdx, tickflow, tsp"
+    },
+    "FetchedAt": "2026-09-26T02:49:35.7725339+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google/ax"
+    },
+    "Type": 0,
+    "Title": "google/ax",
+    "Url": "https://github.com/google/ax",
+    "Description": "Google\u0027s open agentic orchestration runtime",
+    "Metadata": {
+      "owner": "google",
+      "repo": "ax",
+      "language": "Go",
+      "stars": "1,379"
+    },
+    "FetchedAt": "2026-09-26T02:49:35.9176939+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NVIDIA/Model-Optimizer"
+    },
+    "Type": 0,
+    "Title": "NVIDIA/Model-Optimizer",
+    "Url": "https://github.com/NVIDIA/Model-Optimizer",
+    "Description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+    "Metadata": {
+      "owner": "NVIDIA",
+      "repo": "Model-Optimizer",
+      "language": "Python",
+      "stars": "359"
+    },
+    "FetchedAt": "2026-09-26T02:49:36.1135991+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pbakaus/impeccable"
+    },
+    "Type": 0,
+    "Title": "pbakaus/impeccable",
+    "Url": "https://github.com/pbakaus/impeccable",
+    "Description": "The design language that makes your AI harness better at design.",
+    "Metadata": {
+      "owner": "pbakaus",
+      "repo": "impeccable",
+      "language": "JavaScript",
+      "stars": "306"
+    },
+    "FetchedAt": "2026-09-26T02:49:36.2950244+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:openbao/openbao"
+    },
+    "Type": 0,
+    "Title": "openbao/openbao",
+    "Url": "https://github.com/openbao/openbao",
+    "Description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+    "Metadata": {
+      "owner": "openbao",
+      "repo": "openbao",
+      "language": "Go",
+      "stars": "49",
+      "topics": "go, secret-management, security"
+    },
+    "FetchedAt": "2026-09-26T02:49:36.44334+00:00"
+  }
+]
