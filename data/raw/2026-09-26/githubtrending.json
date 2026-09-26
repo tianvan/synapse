@@ -1,22 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:paperclipai/paperclip"
-    },
-    "Type": 0,
-    "Title": "paperclipai/paperclip",
-    "Url": "https://github.com/paperclipai/paperclip",
-    "Description": "The open-source app everyone uses to manage agents at work",
-    "Metadata": {
-      "owner": "paperclipai",
-      "repo": "paperclip",
-      "language": "TypeScript",
-      "stars": "2,109"
-    },
-    "FetchedAt": "2026-09-26T10:34:38.36796+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:anthropics/claude-plugins-official"
     },
     "Type": 0,
@@ -31,40 +15,6 @@
       "topics": "claude-code, mcp, skills"
     },
     "FetchedAt": "2026-09-26T10:34:38.520005+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:vectorize-io/hindsight"
-    },
-    "Type": 0,
-    "Title": "vectorize-io/hindsight",
-    "Url": "https://github.com/vectorize-io/hindsight",
-    "Description": "Hindsight: Agent Memory That Learns",
-    "Metadata": {
-      "owner": "vectorize-io",
-      "repo": "hindsight",
-      "language": "Python",
-      "stars": "1,653",
-      "topics": "agentic-ai, agents, ai-memory, memory"
-    },
-    "FetchedAt": "2026-09-26T10:34:38.6786661+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:dream-num/univer"
-    },
-    "Type": 0,
-    "Title": "dream-num/univer",
-    "Url": "https://github.com/dream-num/univer",
-    "Description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-    "Metadata": {
-      "owner": "dream-num",
-      "repo": "univer",
-      "language": "TypeScript",
-      "stars": "1,050",
-      "topics": "board, collaboration, data-table, doc, docx, excel, grid, pdf, ppt, pptx, presentation, sdk, sheet, slides, spreadsheet, table, word, wordprocessor, xlsx"
-    },
-    "FetchedAt": "2026-09-26T10:34:38.7977984+00:00"
   },
   {
     "ExternalId": {
@@ -167,22 +117,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:NVIDIA/Model-Optimizer"
-    },
-    "Type": 0,
-    "Title": "NVIDIA/Model-Optimizer",
-    "Url": "https://github.com/NVIDIA/Model-Optimizer",
-    "Description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-    "Metadata": {
-      "owner": "NVIDIA",
-      "repo": "Model-Optimizer",
-      "language": "Python",
-      "stars": "359"
-    },
-    "FetchedAt": "2026-09-26T10:34:39.8374573+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:pbakaus/impeccable"
     },
     "Type": 0,
@@ -199,6 +133,89 @@
   },
   {
     "ExternalId": {
+      "Value": "github:paperclipai/paperclip"
+    },
+    "Type": 0,
+    "Title": "paperclipai/paperclip",
+    "Url": "https://github.com/paperclipai/paperclip",
+    "Description": "The open-source app everyone uses to manage agents at work",
+    "Metadata": {
+      "owner": "paperclipai",
+      "repo": "paperclip",
+      "language": "TypeScript",
+      "stars": "2,589"
+    },
+    "FetchedAt": "2026-09-26T15:27:56.2702488+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:vectorize-io/hindsight"
+    },
+    "Type": 0,
+    "Title": "vectorize-io/hindsight",
+    "Url": "https://github.com/vectorize-io/hindsight",
+    "Description": "Hindsight: Agent Memory That Learns",
+    "Metadata": {
+      "owner": "vectorize-io",
+      "repo": "hindsight",
+      "language": "Python",
+      "stars": "2,152",
+      "topics": "agentic-ai, agents, ai-memory, memory"
+    },
+    "FetchedAt": "2026-09-26T15:27:56.3073983+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NVIDIA/Model-Optimizer"
+    },
+    "Type": 0,
+    "Title": "NVIDIA/Model-Optimizer",
+    "Url": "https://github.com/NVIDIA/Model-Optimizer",
+    "Description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+    "Metadata": {
+      "owner": "NVIDIA",
+      "repo": "Model-Optimizer",
+      "language": "Python",
+      "stars": "354"
+    },
+    "FetchedAt": "2026-09-26T15:27:56.4209678+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:dream-num/univer"
+    },
+    "Type": 0,
+    "Title": "dream-num/univer",
+    "Url": "https://github.com/dream-num/univer",
+    "Description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "Metadata": {
+      "owner": "dream-num",
+      "repo": "univer",
+      "language": "TypeScript",
+      "stars": "845",
+      "topics": "board, collaboration, data-table, doc, docx, excel, grid, pdf, ppt, pptx, presentation, sdk, sheet, slides, spreadsheet, table, word, wordprocessor, xlsx"
+    },
+    "FetchedAt": "2026-09-26T15:27:56.5345297+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:tensorflow/tensorflow"
+    },
+    "Type": 0,
+    "Title": "tensorflow/tensorflow",
+    "Url": "https://github.com/tensorflow/tensorflow",
+    "Description": "An Open Source Machine Learning Framework for Everyone",
+    "Metadata": {
+      "owner": "tensorflow",
+      "repo": "tensorflow",
+      "language": "C\u002B\u002B",
+      "stars": "31",
+      "topics": "deep-learning, deep-neural-networks, distributed, machine-learning, ml, neural-network, python, tensorflow"
+    },
+    "FetchedAt": "2026-09-26T15:27:56.6525887+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:openbao/openbao"
     },
     "Type": 0,
@@ -209,9 +226,108 @@
       "owner": "openbao",
       "repo": "openbao",
       "language": "Go",
-      "stars": "49",
+      "stars": "360",
       "topics": "go, secret-management, security"
     },
-    "FetchedAt": "2026-09-26T10:34:40.0930548+00:00"
+    "FetchedAt": "2026-09-26T15:27:56.7806734+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:block/buzz"
+    },
+    "Type": 0,
+    "Title": "block/buzz",
+    "Url": "https://github.com/block/buzz",
+    "Description": "A hive mind communication platform",
+    "Metadata": {
+      "owner": "block",
+      "repo": "buzz",
+      "language": "Rust",
+      "stars": "175"
+    },
+    "FetchedAt": "2026-09-26T15:27:56.9031162+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:microsoft/vscode"
+    },
+    "Type": 0,
+    "Title": "microsoft/vscode",
+    "Url": "https://github.com/microsoft/vscode",
+    "Description": "Visual Studio Code",
+    "Metadata": {
+      "owner": "microsoft",
+      "repo": "vscode",
+      "language": "TypeScript",
+      "stars": "78",
+      "topics": "editor, electron, microsoft, typescript, visual-studio-code"
+    },
+    "FetchedAt": "2026-09-26T15:27:57.1081512+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-code-action"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-code-action",
+    "Url": "https://github.com/anthropics/claude-code-action",
+    "Description": "",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-code-action",
+      "language": "TypeScript",
+      "stars": "15"
+    },
+    "FetchedAt": "2026-09-26T15:27:57.2298344+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:actions/runner-images"
+    },
+    "Type": 0,
+    "Title": "actions/runner-images",
+    "Url": "https://github.com/actions/runner-images",
+    "Description": "GitHub Actions runner images",
+    "Metadata": {
+      "owner": "actions",
+      "repo": "runner-images",
+      "language": "PowerShell",
+      "stars": "13"
+    },
+    "FetchedAt": "2026-09-26T15:27:57.3423819+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mobile-next/mobile-mcp"
+    },
+    "Type": 0,
+    "Title": "mobile-next/mobile-mcp",
+    "Url": "https://github.com/mobile-next/mobile-mcp",
+    "Description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+    "Metadata": {
+      "owner": "mobile-next",
+      "repo": "mobile-mcp",
+      "language": "TypeScript",
+      "stars": "143",
+      "topics": "agent, android, emulator, ios, mcp, mobile, physical, real, simulator"
+    },
+    "FetchedAt": "2026-09-26T15:27:57.4703862+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:vercel/next.js"
+    },
+    "Type": 0,
+    "Title": "vercel/next.js",
+    "Url": "https://github.com/vercel/next.js",
+    "Description": "The React Framework",
+    "Metadata": {
+      "owner": "vercel",
+      "repo": "next.js",
+      "language": "JavaScript",
+      "stars": "31",
+      "topics": "blog, browser, compiler, components, hybrid, nextjs, node, react, server-rendering, ssg, static, static-site-generator, universal, vercel"
+    },
+    "FetchedAt": "2026-09-26T15:27:57.5962109+00:00"
   }
 ]
