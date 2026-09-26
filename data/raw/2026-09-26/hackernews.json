@@ -226,21 +226,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49854875"
-    },
-    "Type": 1,
-    "Title": "How to keep enjoying programming in a world of LLMs",
-    "Url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-    "Description": "How to keep enjoying programming in a world of LLMs",
-    "Metadata": {
-      "score": "44",
-      "author": "signa11",
-      "commentCount": "45"
-    },
-    "FetchedAt": "2026-09-26T10:34:40.5218206+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49830265"
     },
     "Type": 1,
@@ -376,96 +361,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49855315"
-    },
-    "Type": 1,
-    "Title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-    "Url": "https://gultsch.de/posts/breaking-up-with-google-play/",
-    "Description": "Breaking Up with Google Play: Why Conversations Is Now Free",
-    "Metadata": {
-      "score": "338",
-      "author": "ezst",
-      "commentCount": "129"
-    },
-    "FetchedAt": "2026-09-26T15:27:57.9245948+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49854693"
-    },
-    "Type": 1,
-    "Title": "Fifteen years later, the Apple Cards origin story",
-    "Url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-    "Description": "Fifteen years later, the Apple Cards origin story",
-    "Metadata": {
-      "score": "173",
-      "author": "ksec",
-      "commentCount": "25"
-    },
-    "FetchedAt": "2026-09-26T15:27:57.9606456+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49849985"
-    },
-    "Type": 1,
-    "Title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-    "Url": "https://swarmtraces.org/",
-    "Description": "Revealing the details of how OpenAI agents hacked Hugging Face",
-    "Metadata": {
-      "score": "589",
-      "author": "specked-citrus",
-      "commentCount": "377"
-    },
-    "FetchedAt": "2026-09-26T15:27:57.9903928+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49829202"
-    },
-    "Type": 1,
-    "Title": "Modern Object Pascal Introduction for Programmers \u2013 Castle Game Engine",
-    "Url": "https://castle-engine.io/modern_pascal",
-    "Description": "Modern Object Pascal Introduction for Programmers \u2013 Castle Game Engine",
-    "Metadata": {
-      "score": "39",
-      "author": "birdculture",
-      "commentCount": "19"
-    },
-    "FetchedAt": "2026-09-26T15:27:58.0219902+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49852717"
-    },
-    "Type": 1,
-    "Title": "We\u0027re gonna need a lot more mathematicians",
-    "Url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-    "Description": "We\u0027re gonna need a lot more mathematicians",
-    "Metadata": {
-      "score": "237",
-      "author": "srcreigh",
-      "commentCount": "331"
-    },
-    "FetchedAt": "2026-09-26T15:27:58.0505819+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49849820"
-    },
-    "Type": 1,
-    "Title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
-    "Url": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
-    "Description": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
-    "Metadata": {
-      "score": "10",
-      "author": "msephton",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-09-26T15:27:58.0808609+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49856971"
     },
     "Type": 1,
@@ -478,66 +373,6 @@
       "commentCount": "4"
     },
     "FetchedAt": "2026-09-26T15:27:58.1117513+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49816907"
-    },
-    "Type": 1,
-    "Title": "Reflections on 1,000 Days of Math",
-    "Url": "https://gmays.com/reflections-on-1000-days-of-math/",
-    "Description": "Reflections on 1,000 Days of Math",
-    "Metadata": {
-      "score": "13",
-      "author": "gmays",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-09-26T15:27:58.1418651+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49840054"
-    },
-    "Type": 1,
-    "Title": "Plan mode is dead",
-    "Url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-    "Description": "Plan mode is dead",
-    "Metadata": {
-      "score": "436",
-      "author": "jmvldz",
-      "commentCount": "396"
-    },
-    "FetchedAt": "2026-09-26T15:27:58.1714238+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49848269"
-    },
-    "Type": 1,
-    "Title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
-    "Url": "https://ollaya.dev/",
-    "Description": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
-    "Metadata": {
-      "score": "524",
-      "author": "Ardakilic",
-      "commentCount": "128"
-    },
-    "FetchedAt": "2026-09-26T15:27:58.201536+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49854416"
-    },
-    "Type": 1,
-    "Title": "Floci: Locally emulating any cloud service",
-    "Url": "https://floci.io",
-    "Description": "Floci: Locally emulating any cloud service",
-    "Metadata": {
-      "score": "90",
-      "author": "theanonymousone",
-      "commentCount": "15"
-    },
-    "FetchedAt": "2026-09-26T15:27:58.2328437+00:00"
   },
   {
     "ExternalId": {
@@ -571,51 +406,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49854161"
-    },
-    "Type": 1,
-    "Title": "Is your Postgres migration safe or not safe?",
-    "Url": "https://safenotsafe.dev/",
-    "Description": "Is your Postgres migration safe or not safe?",
-    "Metadata": {
-      "score": "84",
-      "author": "vira28",
-      "commentCount": "25"
-    },
-    "FetchedAt": "2026-09-26T15:27:58.3189826+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49826087"
-    },
-    "Type": 1,
-    "Title": "16GB iPod Nano 3G Upgrade",
-    "Url": "https://tuckerosman.com/projects/16gb-ipod-nano",
-    "Description": "16GB iPod Nano 3G Upgrade",
-    "Metadata": {
-      "score": "84",
-      "author": "Ivoah",
-      "commentCount": "9"
-    },
-    "FetchedAt": "2026-09-26T15:27:58.3480191+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49845172"
-    },
-    "Type": 1,
-    "Title": "Show HN: Jev Plays Pok\u00E9mon Red",
-    "Url": "https://jev-pokemon.vercel.app/",
-    "Description": "Hey HN! Wanted to share a fun project I\u0026#x27;ve been hacking on. Given Jev can make decisions really fast (but not fast enough to play Doom yet sadly), I wanted to try and push it to play a more complex game than Tetris. So I went with Pok\u00E9mon.\u003Cp\u003EI\u0026#x27;ve spent endless hours playing this game as a child so building this was a ton of fun.\u003Cp\u003EI open sourced everything in case you want to hack on it yourself here: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;christianmat\u0026#x2F;jev-pokemon\u0022 rel=\u0022nofoll",
-    "Metadata": {
-      "score": "229",
-      "author": "pancomplex",
-      "commentCount": "93"
-    },
-    "FetchedAt": "2026-09-26T15:27:58.3776286+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49829528"
     },
     "Type": 1,
@@ -646,21 +436,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49850305"
-    },
-    "Type": 1,
-    "Title": "What even is an OS now?",
-    "Url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-    "Description": "What even is an OS now?",
-    "Metadata": {
-      "score": "240",
-      "author": "fratellobigio",
-      "commentCount": "344"
-    },
-    "FetchedAt": "2026-09-26T15:27:58.4639443+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49848955"
     },
     "Type": 1,
@@ -688,21 +463,6 @@
       "commentCount": "192"
     },
     "FetchedAt": "2026-09-26T15:27:58.522921+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49838040"
-    },
-    "Type": 1,
-    "Title": "The Murky History of Soviet-Born Tetris",
-    "Url": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
-    "Description": "The Murky History of Soviet-Born Tetris",
-    "Metadata": {
-      "score": "72",
-      "author": "EA-3167",
-      "commentCount": "15"
-    },
-    "FetchedAt": "2026-09-26T15:27:58.5514006+00:00"
   },
   {
     "ExternalId": {
@@ -823,5 +583,455 @@
       "commentCount": "20"
     },
     "FetchedAt": "2026-09-26T15:27:58.785033+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49842764"
+    },
+    "Type": 1,
+    "Title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+    "Url": "https://github.com/InfinityLoop1308/PipePipe",
+    "Description": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+    "Metadata": {
+      "score": "217",
+      "author": "Qision",
+      "commentCount": "101"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.09453+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49857729"
+    },
+    "Type": 1,
+    "Title": "Drawgent: Coding agent on a live Excalidraw canvas",
+    "Url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+    "Description": "Drawgent: Coding agent on a live Excalidraw canvas",
+    "Metadata": {
+      "score": "68",
+      "author": "parasitid",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.1280505+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49858513"
+    },
+    "Type": 1,
+    "Title": "Show HN: Reladraw \u2013 A diagram language where you decide where to place things",
+    "Url": "https://github.com/reladraw/reladraw",
+    "Description": "I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don\u0026#x27;t let me decide how the diagram looks), or (B) software like Draw.io which are powerful but are very time consuming (and inefficient for agents to manipulate).\u003Cp\u003EI wanted to have the benefits of both, where you can define a diagram in a diagram language, but also retain a high degree of control over what the diagram looks like.\u003Cp\u003EI also wanted this ",
+    "Metadata": {
+      "score": "50",
+      "author": "jpwalsh234",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.1597968+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49832768"
+    },
+    "Type": 1,
+    "Title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+    "Url": "https://www.movingimagearchive.com/",
+    "Description": "A searchable library of forgotten public-domain film clips from 1915 onward",
+    "Metadata": {
+      "score": "44",
+      "author": "momentmaker",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.1894761+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49827900"
+    },
+    "Type": 1,
+    "Title": "The Lost Atomic Update on Loongson CPU",
+    "Url": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
+    "Description": "The Lost Atomic Update on Loongson CPU",
+    "Metadata": {
+      "score": "74",
+      "author": "jiegec",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.2202704+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49854693"
+    },
+    "Type": 1,
+    "Title": "Fifteen years later, the Apple Cards origin story",
+    "Url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+    "Description": "Fifteen years later, the Apple Cards origin story",
+    "Metadata": {
+      "score": "296",
+      "author": "ksec",
+      "commentCount": "63"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.2507269+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49829202"
+    },
+    "Type": 1,
+    "Title": "Modern Object Pascal Introduction for Programmers",
+    "Url": "https://castle-engine.io/modern_pascal",
+    "Description": "Modern Object Pascal Introduction for Programmers",
+    "Metadata": {
+      "score": "108",
+      "author": "birdculture",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.2814902+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49849985"
+    },
+    "Type": 1,
+    "Title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+    "Url": "https://swarmtraces.org/",
+    "Description": "Revealing the details of how OpenAI agents hacked Hugging Face",
+    "Metadata": {
+      "score": "669",
+      "author": "specked-citrus",
+      "commentCount": "425"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.3111358+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49852717"
+    },
+    "Type": 1,
+    "Title": "We\u0027re gonna need a lot more mathematicians",
+    "Url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+    "Description": "We\u0027re gonna need a lot more mathematicians",
+    "Metadata": {
+      "score": "322",
+      "author": "srcreigh",
+      "commentCount": "424"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.3425296+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49816907"
+    },
+    "Type": 1,
+    "Title": "Reflections on 1,000 Days of Math",
+    "Url": "https://gmays.com/reflections-on-1000-days-of-math/",
+    "Description": "Reflections on 1,000 Days of Math",
+    "Metadata": {
+      "score": "67",
+      "author": "gmays",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.3720379+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49855315"
+    },
+    "Type": 1,
+    "Title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+    "Url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+    "Description": "Breaking Up with Google Play: Why Conversations Is Now Free",
+    "Metadata": {
+      "score": "578",
+      "author": "ezst",
+      "commentCount": "225"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.4044099+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49859112"
+    },
+    "Type": 1,
+    "Title": "DeepSeek Elastic Compute (DSec)",
+    "Url": "https://arxiv.org/abs/2609.22978",
+    "Description": "DeepSeek Elastic Compute (DSec)",
+    "Metadata": {
+      "score": "9",
+      "author": "shenli3514",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.4338358+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49849820"
+    },
+    "Type": 1,
+    "Title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+    "Url": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
+    "Description": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+    "Metadata": {
+      "score": "40",
+      "author": "msephton",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.4633192+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49834040"
+    },
+    "Type": 1,
+    "Title": "The Rise of Audio AR",
+    "Url": "https://www.dbreunig.com/2024/04/10/the_rise_of_audio_ar.html",
+    "Description": "The Rise of Audio AR",
+    "Metadata": {
+      "score": "14",
+      "author": "dbreunig",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.4938304+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49840054"
+    },
+    "Type": 1,
+    "Title": "Plan mode is dead",
+    "Url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+    "Description": "Plan mode is dead",
+    "Metadata": {
+      "score": "518",
+      "author": "jmvldz",
+      "commentCount": "450"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.5253029+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49857442"
+    },
+    "Type": 1,
+    "Title": "Plunging test scores are a slow-moving catastrophe",
+    "Url": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;n8Akh\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;n8Akh\u003C/a\u003E",
+    "Metadata": {
+      "score": "124",
+      "author": "vinni2",
+      "commentCount": "237"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.5613003+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49854875"
+    },
+    "Type": 1,
+    "Title": "How to keep enjoying programming in a world of LLMs",
+    "Url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+    "Description": "How to keep enjoying programming in a world of LLMs",
+    "Metadata": {
+      "score": "101",
+      "author": "signa11",
+      "commentCount": "150"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.6465228+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49857651"
+    },
+    "Type": 1,
+    "Title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
+    "Url": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
+    "Description": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
+    "Metadata": {
+      "score": "87",
+      "author": "Brajeshwar",
+      "commentCount": "57"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.7237499+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49838040"
+    },
+    "Type": 1,
+    "Title": "The Murky History of Soviet-Born Tetris",
+    "Url": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
+    "Description": "The Murky History of Soviet-Born Tetris",
+    "Metadata": {
+      "score": "95",
+      "author": "EA-3167",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.7565752+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49848269"
+    },
+    "Type": 1,
+    "Title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
+    "Url": "https://ollaya.dev/",
+    "Description": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
+    "Metadata": {
+      "score": "576",
+      "author": "Ardakilic",
+      "commentCount": "138"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.7898564+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49832231"
+    },
+    "Type": 1,
+    "Title": "Experiencing writing at our recent Chinese calligraphy workshop",
+    "Url": "https://viewsproject.wordpress.com/2026/09/06/chinese-calligraphy-workshop/",
+    "Description": "Experiencing writing at our recent Chinese calligraphy workshop",
+    "Metadata": {
+      "score": "27",
+      "author": "surprisetalk",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.8213606+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49856665"
+    },
+    "Type": 1,
+    "Title": "OpenAI bots meddled with multiple US Government agency sites",
+    "Url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+    "Description": "OpenAI bots meddled with multiple US Government agency sites",
+    "Metadata": {
+      "score": "66",
+      "author": "Betelbuddy",
+      "commentCount": "94"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.866024+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49857572"
+    },
+    "Type": 1,
+    "Title": "Automattic has a new board after failed attempt to put CEO on leave",
+    "Url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+    "Description": "Automattic has a new board after failed attempt to put CEO on leave",
+    "Metadata": {
+      "score": "81",
+      "author": "ilamont",
+      "commentCount": "86"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.8957691+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49854416"
+    },
+    "Type": 1,
+    "Title": "Floci: Locally emulating any cloud service",
+    "Url": "https://floci.io",
+    "Description": "Floci: Locally emulating any cloud service",
+    "Metadata": {
+      "score": "136",
+      "author": "theanonymousone",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.9283967+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49845172"
+    },
+    "Type": 1,
+    "Title": "Show HN: Jev Plays Pok\u00E9mon Red",
+    "Url": "https://jev-pokemon.vercel.app/",
+    "Description": "Hey HN! Wanted to share a fun project I\u0026#x27;ve been hacking on. Given Jev can make decisions really fast (but not fast enough to play Doom yet sadly), I wanted to try and push it to play a more complex game than Tetris. So I went with Pok\u00E9mon.\u003Cp\u003EI\u0026#x27;ve spent endless hours playing this game as a child so building this was a ton of fun.\u003Cp\u003EI open sourced everything in case you want to hack on it yourself here: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;christianmat\u0026#x2F;jev-pokemon\u0022 rel=\u0022nofoll",
+    "Metadata": {
+      "score": "249",
+      "author": "pancomplex",
+      "commentCount": "105"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.9592206+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49854161"
+    },
+    "Type": 1,
+    "Title": "Is your Postgres migration safe or not safe?",
+    "Url": "https://safenotsafe.dev/",
+    "Description": "Is your Postgres migration safe or not safe?",
+    "Metadata": {
+      "score": "111",
+      "author": "vira28",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-09-26T20:27:18.9887896+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49826087"
+    },
+    "Type": 1,
+    "Title": "16GB iPod Nano 3G Upgrade",
+    "Url": "https://tuckerosman.com/projects/16gb-ipod-nano",
+    "Description": "16GB iPod Nano 3G Upgrade",
+    "Metadata": {
+      "score": "128",
+      "author": "Ivoah",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-09-26T20:27:19.0185817+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49857528"
+    },
+    "Type": 1,
+    "Title": "Show HN: A Claude Code skill to analyze your chess games",
+    "Url": "https://github.com/brumar/chess-postmortem-skills",
+    "Description": "Hello HN,\u003Cp\u003EIt started as an experiment: can Claude play chess properly if it uses vision instead of PGN notation? Somehow it can.\u003Cp\u003EThe next experiment was to see whether Claude \u002B Stockfish could explain a game. Somehow it can too.\u003Cp\u003EA few sessions later, I had a system that takes my live audio notes (or text, for that matter) and a vague instruction like \u0026quot;analyze my last lichess game\u0026quot;, and gives me a commented video of the game. The result is not perfect and it takes time to deliver ",
+    "Metadata": {
+      "score": "67",
+      "author": "brumar",
+      "commentCount": "46"
+    },
+    "FetchedAt": "2026-09-26T20:27:19.0497742+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49850305"
+    },
+    "Type": 1,
+    "Title": "What even is an OS now?",
+    "Url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+    "Description": "What even is an OS now?",
+    "Metadata": {
+      "score": "280",
+      "author": "fratellobigio",
+      "commentCount": "425"
+    },
+    "FetchedAt": "2026-09-26T20:27:19.0799666+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49857899"
+    },
+    "Type": 1,
+    "Title": "I\u0027m the mom in that viral Giants clip. Let me tell you about my husband",
+    "Url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
+    "Description": "I\u0027m the mom in that viral Giants clip. Let me tell you about my husband",
+    "Metadata": {
+      "score": "334",
+      "author": "minimaxir",
+      "commentCount": "138"
+    },
+    "FetchedAt": "2026-09-26T20:27:19.111601+00:00"
   }
 ]
