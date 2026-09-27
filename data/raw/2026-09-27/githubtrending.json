@@ -1,0 +1,201 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:paperclipai/paperclip"
+    },
+    "Type": 0,
+    "Title": "paperclipai/paperclip",
+    "Url": "https://github.com/paperclipai/paperclip",
+    "Description": "The open-source app everyone uses to manage agents at work",
+    "Metadata": {
+      "owner": "paperclipai",
+      "repo": "paperclip",
+      "language": "TypeScript",
+      "stars": "2,608"
+    },
+    "FetchedAt": "2026-09-27T02:51:00.8742655+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:vectorize-io/hindsight"
+    },
+    "Type": 0,
+    "Title": "vectorize-io/hindsight",
+    "Url": "https://github.com/vectorize-io/hindsight",
+    "Description": "Hindsight: Agent Memory That Learns",
+    "Metadata": {
+      "owner": "vectorize-io",
+      "repo": "hindsight",
+      "language": "Python",
+      "stars": "2,147",
+      "topics": "agentic-ai, agents, ai-memory, memory"
+    },
+    "FetchedAt": "2026-09-27T02:51:00.984459+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NVIDIA/Model-Optimizer"
+    },
+    "Type": 0,
+    "Title": "NVIDIA/Model-Optimizer",
+    "Url": "https://github.com/NVIDIA/Model-Optimizer",
+    "Description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+    "Metadata": {
+      "owner": "NVIDIA",
+      "repo": "Model-Optimizer",
+      "language": "Python",
+      "stars": "357"
+    },
+    "FetchedAt": "2026-09-27T02:51:01.1168317+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:dream-num/univer"
+    },
+    "Type": 0,
+    "Title": "dream-num/univer",
+    "Url": "https://github.com/dream-num/univer",
+    "Description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "Metadata": {
+      "owner": "dream-num",
+      "repo": "univer",
+      "language": "TypeScript",
+      "stars": "849",
+      "topics": "board, collaboration, data-table, doc, docx, excel, grid, pdf, ppt, pptx, presentation, sdk, sheet, slides, spreadsheet, table, word, wordprocessor, xlsx"
+    },
+    "FetchedAt": "2026-09-27T02:51:01.2685141+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:tensorflow/tensorflow"
+    },
+    "Type": 0,
+    "Title": "tensorflow/tensorflow",
+    "Url": "https://github.com/tensorflow/tensorflow",
+    "Description": "An Open Source Machine Learning Framework for Everyone",
+    "Metadata": {
+      "owner": "tensorflow",
+      "repo": "tensorflow",
+      "language": "C\u002B\u002B",
+      "stars": "46",
+      "topics": "deep-learning, deep-neural-networks, distributed, machine-learning, ml, neural-network, python, tensorflow"
+    },
+    "FetchedAt": "2026-09-27T02:51:01.4003565+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:openbao/openbao"
+    },
+    "Type": 0,
+    "Title": "openbao/openbao",
+    "Url": "https://github.com/openbao/openbao",
+    "Description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+    "Metadata": {
+      "owner": "openbao",
+      "repo": "openbao",
+      "language": "Go",
+      "stars": "364",
+      "topics": "go, secret-management, security"
+    },
+    "FetchedAt": "2026-09-27T02:51:01.5412991+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:block/buzz"
+    },
+    "Type": 0,
+    "Title": "block/buzz",
+    "Url": "https://github.com/block/buzz",
+    "Description": "A hive mind communication platform",
+    "Metadata": {
+      "owner": "block",
+      "repo": "buzz",
+      "language": "Rust",
+      "stars": "339"
+    },
+    "FetchedAt": "2026-09-27T02:51:01.6951122+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:microsoft/vscode"
+    },
+    "Type": 0,
+    "Title": "microsoft/vscode",
+    "Url": "https://github.com/microsoft/vscode",
+    "Description": "Visual Studio Code",
+    "Metadata": {
+      "owner": "microsoft",
+      "repo": "vscode",
+      "language": "TypeScript",
+      "stars": "95",
+      "topics": "editor, electron, microsoft, typescript, visual-studio-code"
+    },
+    "FetchedAt": "2026-09-27T02:51:01.8904115+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-code-action"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-code-action",
+    "Url": "https://github.com/anthropics/claude-code-action",
+    "Description": "",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-code-action",
+      "language": "TypeScript",
+      "stars": "31"
+    },
+    "FetchedAt": "2026-09-27T02:51:02.0404135+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:actions/runner-images"
+    },
+    "Type": 0,
+    "Title": "actions/runner-images",
+    "Url": "https://github.com/actions/runner-images",
+    "Description": "GitHub Actions runner images",
+    "Metadata": {
+      "owner": "actions",
+      "repo": "runner-images",
+      "language": "PowerShell",
+      "stars": "19"
+    },
+    "FetchedAt": "2026-09-27T02:51:02.2054321+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mobile-next/mobile-mcp"
+    },
+    "Type": 0,
+    "Title": "mobile-next/mobile-mcp",
+    "Url": "https://github.com/mobile-next/mobile-mcp",
+    "Description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+    "Metadata": {
+      "owner": "mobile-next",
+      "repo": "mobile-mcp",
+      "language": "TypeScript",
+      "stars": "168",
+      "topics": "agent, android, emulator, ios, mcp, mobile, physical, real, simulator"
+    },
+    "FetchedAt": "2026-09-27T02:51:02.3746977+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:vercel/next.js"
+    },
+    "Type": 0,
+    "Title": "vercel/next.js",
+    "Url": "https://github.com/vercel/next.js",
+    "Description": "The React Framework",
+    "Metadata": {
+      "owner": "vercel",
+      "repo": "next.js",
+      "language": "JavaScript",
+      "stars": "54",
+      "topics": "blog, browser, compiler, components, hybrid, nextjs, node, react, server-rendering, ssg, static, static-site-generator, universal, vercel"
+    },
+    "FetchedAt": "2026-09-27T02:51:02.5159921+00:00"
+  }
+]

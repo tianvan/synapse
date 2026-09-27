@@ -1,0 +1,452 @@
+[
+  {
+    "ExternalId": {
+      "Value": "hn:49844657"
+    },
+    "Type": 1,
+    "Title": "Does Georgism work? Five years later",
+    "Url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+    "Description": "Does Georgism work? Five years later",
+    "Metadata": {
+      "score": "163",
+      "author": "silveraxe93",
+      "commentCount": "92"
+    },
+    "FetchedAt": "2026-09-27T02:51:02.9090281+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49842764"
+    },
+    "Type": 1,
+    "Title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+    "Url": "https://github.com/InfinityLoop1308/PipePipe",
+    "Description": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+    "Metadata": {
+      "score": "328",
+      "author": "Qision",
+      "commentCount": "188"
+    },
+    "FetchedAt": "2026-09-27T02:51:02.9563747+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49859112"
+    },
+    "Type": 1,
+    "Title": "DeepSeek Elastic Compute (DSec)",
+    "Url": "https://arxiv.org/abs/2609.22978",
+    "Description": "DeepSeek Elastic Compute (DSec)",
+    "Metadata": {
+      "score": "168",
+      "author": "shenli3514",
+      "commentCount": "53"
+    },
+    "FetchedAt": "2026-09-27T02:51:03.0043752+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49856988"
+    },
+    "Type": 1,
+    "Title": "Go Concurrency Distilled",
+    "Url": "https://antonz.org/go-concurrency-distilled/",
+    "Description": "Go Concurrency Distilled",
+    "Metadata": {
+      "score": "49",
+      "author": "chmaynard",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-09-27T02:51:03.0472243+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49858513"
+    },
+    "Type": 1,
+    "Title": "Show HN: Reladraw \u2013 A diagram language where you decide where to place things",
+    "Url": "https://github.com/reladraw/reladraw",
+    "Description": "I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don\u0026#x27;t let me decide how the diagram looks), or (B) software like Draw.io which are powerful but are very time consuming (and inefficient for agents to manipulate).\u003Cp\u003EI wanted to have the benefits of both, where you can define a diagram in a diagram language, but also retain a high degree of control over what the diagram looks like.\u003Cp\u003EI also wanted this ",
+    "Metadata": {
+      "score": "201",
+      "author": "jpwalsh234",
+      "commentCount": "57"
+    },
+    "FetchedAt": "2026-09-27T02:51:03.0954866+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49839567"
+    },
+    "Type": 1,
+    "Title": "Evolving programming languages in the AI era",
+    "Url": "https://dashbit.co/blog/evolving-ai-era",
+    "Description": "Evolving programming languages in the AI era",
+    "Metadata": {
+      "score": "41",
+      "author": "pjm331",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-09-27T02:51:03.1386871+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49857656"
+    },
+    "Type": 1,
+    "Title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+    "Url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+    "Description": "We found an approach to get Jev-like properties from standard LLMs like GLM-5.3-Flash.\u003Cp\u003EThe core idea is to craft the input prompt so that the first output token answers the question. This makes it possible to get a decision with a single forward pass.\u003Cp\u003EIn the blog post, we describe the approach in detail for GLM-5.3-Flash and vLLM. We benchmark this setup against Jev and Laya. We find that our setup is on-par with Jev in terms of accuracy and speed and that it substantially outperforms Laya.\u003C",
+    "Metadata": {
+      "score": "35",
+      "author": "flxflx",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-09-27T02:51:03.1811153+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49832768"
+    },
+    "Type": 1,
+    "Title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+    "Url": "https://www.movingimagearchive.com/",
+    "Description": "A searchable library of forgotten public-domain film clips from 1915 onward",
+    "Metadata": {
+      "score": "119",
+      "author": "momentmaker",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-09-27T02:51:03.225095+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49857729"
+    },
+    "Type": 1,
+    "Title": "Drawgent: Coding agent on a live Excalidraw canvas",
+    "Url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+    "Description": "Drawgent: Coding agent on a live Excalidraw canvas",
+    "Metadata": {
+      "score": "113",
+      "author": "parasitid",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-09-27T02:51:03.2717425+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49839438"
+    },
+    "Type": 1,
+    "Title": "Biology might not be quantum, but its math is quantumlike",
+    "Url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
+    "Description": "Biology might not be quantum, but its math is quantumlike",
+    "Metadata": {
+      "score": "22",
+      "author": "pseudolus",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-09-27T02:51:03.3194388+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49858676"
+    },
+    "Type": 1,
+    "Title": "Reverse-engineering the Intel 8087\u0027s tangent algorithm: more than CORDIC",
+    "Url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+    "Description": "Reverse-engineering the Intel 8087\u0027s tangent algorithm: more than CORDIC",
+    "Metadata": {
+      "score": "32",
+      "author": "pwg",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-09-27T02:51:03.3650227+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49854693"
+    },
+    "Type": 1,
+    "Title": "Fifteen years later, the Apple Cards origin story",
+    "Url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+    "Description": "Fifteen years later, the Apple Cards origin story",
+    "Metadata": {
+      "score": "349",
+      "author": "ksec",
+      "commentCount": "90"
+    },
+    "FetchedAt": "2026-09-27T02:51:03.4126549+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49852905"
+    },
+    "Type": 1,
+    "Title": "Promising discoveries about the potential for life on one of Saturn\u2019s icy moons",
+    "Url": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
+    "Description": "Promising discoveries about the potential for life on one of Saturn\u2019s icy moons",
+    "Metadata": {
+      "score": "24",
+      "author": "geox",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-09-27T02:51:03.4573861+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49860074"
+    },
+    "Type": 1,
+    "Title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+    "Url": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
+    "Description": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+    "Metadata": {
+      "score": "49",
+      "author": "bucket2015",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-09-27T02:51:03.5020083+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49858424"
+    },
+    "Type": 1,
+    "Title": "The Evolution of Vending Machines",
+    "Url": "https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/",
+    "Description": "The Evolution of Vending Machines",
+    "Metadata": {
+      "score": "18",
+      "author": "ohjeez",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-09-27T02:51:03.5456958+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49844663"
+    },
+    "Type": 1,
+    "Title": "ASML says it sold \u0027absolutely nothing\u0027 in Europe in 2026",
+    "Url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+    "Description": "ASML says it sold \u0027absolutely nothing\u0027 in Europe in 2026",
+    "Metadata": {
+      "score": "164",
+      "author": "MC995",
+      "commentCount": "457"
+    },
+    "FetchedAt": "2026-09-27T02:51:03.590588+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49847247"
+    },
+    "Type": 1,
+    "Title": "Snap Wants to be a State Actor??\u2013Kansas v. Snap",
+    "Url": "https://blog.ericgoldman.org/archives/2026/09/snap-wants-to-be-a-state-actor-kansas-v-snap.htm",
+    "Description": "Snap Wants to be a State Actor??\u2013Kansas v. Snap",
+    "Metadata": {
+      "score": "6",
+      "author": "hn_acker",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-27T02:51:03.634577+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49851883"
+    },
+    "Type": 1,
+    "Title": "Generate fonts where every LLM token is the same width",
+    "Url": "https://ampdot.mesh.host/token-space-fonts.html",
+    "Description": "Generate fonts where every LLM token is the same width",
+    "Metadata": {
+      "score": "31",
+      "author": "z-mach9",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-09-27T02:51:03.6790799+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49829202"
+    },
+    "Type": 1,
+    "Title": "Modern Object Pascal Introduction for Programmers",
+    "Url": "https://castle-engine.io/modern_pascal",
+    "Description": "Modern Object Pascal Introduction for Programmers",
+    "Metadata": {
+      "score": "149",
+      "author": "birdculture",
+      "commentCount": "60"
+    },
+    "FetchedAt": "2026-09-27T02:51:03.7242153+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49836579"
+    },
+    "Type": 1,
+    "Title": "How I changed teaching after AI managed to do all my homework assignments",
+    "Url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+    "Description": "How I changed teaching after AI managed to do all my homework assignments",
+    "Metadata": {
+      "score": "147",
+      "author": "azhenley",
+      "commentCount": "143"
+    },
+    "FetchedAt": "2026-09-27T02:51:03.7687116+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49852143"
+    },
+    "Type": 1,
+    "Title": "How one Twitch chat message became code execution on a streamer\u2019s PC",
+    "Url": "https://blog.scrt.ch/2026/09/22/how-one-twitch-chat-message-became-code-execution-on-a-streamers-pc/",
+    "Description": "How one Twitch chat message became code execution on a streamer\u2019s PC",
+    "Metadata": {
+      "score": "32",
+      "author": "tau255",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-09-27T02:51:03.810859+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49827900"
+    },
+    "Type": 1,
+    "Title": "The Lost Atomic Update on Loongson CPU",
+    "Url": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
+    "Description": "The Lost Atomic Update on Loongson CPU",
+    "Metadata": {
+      "score": "113",
+      "author": "jiegec",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-09-27T02:51:03.854884+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49833444"
+    },
+    "Type": 1,
+    "Title": "LA Metro has some of the slowest escalators on Earth",
+    "Url": "https://basin.la/articles/ninety-feet-a-minute.html",
+    "Description": "LA Metro has some of the slowest escalators on Earth",
+    "Metadata": {
+      "score": "83",
+      "author": "big_toast",
+      "commentCount": "66"
+    },
+    "FetchedAt": "2026-09-27T02:51:03.8971681+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49854875"
+    },
+    "Type": 1,
+    "Title": "How to keep enjoying programming in a world of LLMs",
+    "Url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+    "Description": "How to keep enjoying programming in a world of LLMs",
+    "Metadata": {
+      "score": "165",
+      "author": "signa11",
+      "commentCount": "217"
+    },
+    "FetchedAt": "2026-09-27T02:51:03.9399839+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49861992"
+    },
+    "Type": 1,
+    "Title": "Sousveillance",
+    "Url": "https://en.wikipedia.org/wiki/Sousveillance",
+    "Description": "Sousveillance",
+    "Metadata": {
+      "score": "17",
+      "author": "xeonmc",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-09-27T02:51:03.9835492+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49859299"
+    },
+    "Type": 1,
+    "Title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
+    "Url": "https://tml.stanford.edu/homebody/",
+    "Description": "HomeBody: A humanoid that explores, remembers, and acts on its own",
+    "Metadata": {
+      "score": "17",
+      "author": "famouswaffles",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-09-27T02:51:04.0279168+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49836979"
+    },
+    "Type": 1,
+    "Title": "Dutch designer made DE9: Closer to the Edit into a playable web-based instrument",
+    "Url": "https://www.creativeboom.com/work/why-merijn-straathof-turned-a-landmark-techno-album-into-a-playable-web-based-instrument/",
+    "Description": "Dutch designer made DE9: Closer to the Edit into a playable web-based instrument",
+    "Metadata": {
+      "score": "10",
+      "author": "ChrisArchitect",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-09-27T02:51:04.0729154+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49855276"
+    },
+    "Type": 1,
+    "Title": "Reading\u2019s Bayeux Tapestry",
+    "Url": "https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html",
+    "Description": "Reading\u2019s Bayeux Tapestry",
+    "Metadata": {
+      "score": "15",
+      "author": "zeristor",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-09-27T02:51:04.117165+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49855315"
+    },
+    "Type": 1,
+    "Title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+    "Url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+    "Description": "Breaking Up with Google Play: Why Conversations Is Now Free",
+    "Metadata": {
+      "score": "646",
+      "author": "ezst",
+      "commentCount": "256"
+    },
+    "FetchedAt": "2026-09-27T02:51:04.1612069+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49834040"
+    },
+    "Type": 1,
+    "Title": "The Rise of Audio AR",
+    "Url": "https://www.dbreunig.com/2024/04/10/the_rise_of_audio_ar.html",
+    "Description": "The Rise of Audio AR",
+    "Metadata": {
+      "score": "31",
+      "author": "dbreunig",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-09-27T02:51:04.2051781+00:00"
+  }
+]
