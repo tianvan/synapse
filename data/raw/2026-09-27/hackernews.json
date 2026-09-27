@@ -1,201 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:49844657"
-    },
-    "Type": 1,
-    "Title": "Does Georgism work? Five years later",
-    "Url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
-    "Description": "Does Georgism work? Five years later",
-    "Metadata": {
-      "score": "163",
-      "author": "silveraxe93",
-      "commentCount": "92"
-    },
-    "FetchedAt": "2026-09-27T02:51:02.9090281+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49842764"
-    },
-    "Type": 1,
-    "Title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-    "Url": "https://github.com/InfinityLoop1308/PipePipe",
-    "Description": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-    "Metadata": {
-      "score": "328",
-      "author": "Qision",
-      "commentCount": "188"
-    },
-    "FetchedAt": "2026-09-27T02:51:02.9563747+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49859112"
-    },
-    "Type": 1,
-    "Title": "DeepSeek Elastic Compute (DSec)",
-    "Url": "https://arxiv.org/abs/2609.22978",
-    "Description": "DeepSeek Elastic Compute (DSec)",
-    "Metadata": {
-      "score": "168",
-      "author": "shenli3514",
-      "commentCount": "53"
-    },
-    "FetchedAt": "2026-09-27T02:51:03.0043752+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49856988"
-    },
-    "Type": 1,
-    "Title": "Go Concurrency Distilled",
-    "Url": "https://antonz.org/go-concurrency-distilled/",
-    "Description": "Go Concurrency Distilled",
-    "Metadata": {
-      "score": "49",
-      "author": "chmaynard",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-09-27T02:51:03.0472243+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49858513"
-    },
-    "Type": 1,
-    "Title": "Show HN: Reladraw \u2013 A diagram language where you decide where to place things",
-    "Url": "https://github.com/reladraw/reladraw",
-    "Description": "I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don\u0026#x27;t let me decide how the diagram looks), or (B) software like Draw.io which are powerful but are very time consuming (and inefficient for agents to manipulate).\u003Cp\u003EI wanted to have the benefits of both, where you can define a diagram in a diagram language, but also retain a high degree of control over what the diagram looks like.\u003Cp\u003EI also wanted this ",
-    "Metadata": {
-      "score": "201",
-      "author": "jpwalsh234",
-      "commentCount": "57"
-    },
-    "FetchedAt": "2026-09-27T02:51:03.0954866+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49839567"
-    },
-    "Type": 1,
-    "Title": "Evolving programming languages in the AI era",
-    "Url": "https://dashbit.co/blog/evolving-ai-era",
-    "Description": "Evolving programming languages in the AI era",
-    "Metadata": {
-      "score": "41",
-      "author": "pjm331",
-      "commentCount": "27"
-    },
-    "FetchedAt": "2026-09-27T02:51:03.1386871+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49857656"
-    },
-    "Type": 1,
-    "Title": "Turning GLM-5.3-Flash into a Jev-like decision model",
-    "Url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-    "Description": "We found an approach to get Jev-like properties from standard LLMs like GLM-5.3-Flash.\u003Cp\u003EThe core idea is to craft the input prompt so that the first output token answers the question. This makes it possible to get a decision with a single forward pass.\u003Cp\u003EIn the blog post, we describe the approach in detail for GLM-5.3-Flash and vLLM. We benchmark this setup against Jev and Laya. We find that our setup is on-par with Jev in terms of accuracy and speed and that it substantially outperforms Laya.\u003C",
-    "Metadata": {
-      "score": "35",
-      "author": "flxflx",
-      "commentCount": "20"
-    },
-    "FetchedAt": "2026-09-27T02:51:03.1811153+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49832768"
-    },
-    "Type": 1,
-    "Title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-    "Url": "https://www.movingimagearchive.com/",
-    "Description": "A searchable library of forgotten public-domain film clips from 1915 onward",
-    "Metadata": {
-      "score": "119",
-      "author": "momentmaker",
-      "commentCount": "25"
-    },
-    "FetchedAt": "2026-09-27T02:51:03.225095+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49857729"
-    },
-    "Type": 1,
-    "Title": "Drawgent: Coding agent on a live Excalidraw canvas",
-    "Url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-    "Description": "Drawgent: Coding agent on a live Excalidraw canvas",
-    "Metadata": {
-      "score": "113",
-      "author": "parasitid",
-      "commentCount": "32"
-    },
-    "FetchedAt": "2026-09-27T02:51:03.2717425+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49839438"
-    },
-    "Type": 1,
-    "Title": "Biology might not be quantum, but its math is quantumlike",
-    "Url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
-    "Description": "Biology might not be quantum, but its math is quantumlike",
-    "Metadata": {
-      "score": "22",
-      "author": "pseudolus",
-      "commentCount": "8"
-    },
-    "FetchedAt": "2026-09-27T02:51:03.3194388+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49858676"
-    },
-    "Type": 1,
-    "Title": "Reverse-engineering the Intel 8087\u0027s tangent algorithm: more than CORDIC",
-    "Url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
-    "Description": "Reverse-engineering the Intel 8087\u0027s tangent algorithm: more than CORDIC",
-    "Metadata": {
-      "score": "32",
-      "author": "pwg",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-09-27T02:51:03.3650227+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49854693"
-    },
-    "Type": 1,
-    "Title": "Fifteen years later, the Apple Cards origin story",
-    "Url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-    "Description": "Fifteen years later, the Apple Cards origin story",
-    "Metadata": {
-      "score": "349",
-      "author": "ksec",
-      "commentCount": "90"
-    },
-    "FetchedAt": "2026-09-27T02:51:03.4126549+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49852905"
-    },
-    "Type": 1,
-    "Title": "Promising discoveries about the potential for life on one of Saturn\u2019s icy moons",
-    "Url": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
-    "Description": "Promising discoveries about the potential for life on one of Saturn\u2019s icy moons",
-    "Metadata": {
-      "score": "24",
-      "author": "geox",
-      "commentCount": "17"
-    },
-    "FetchedAt": "2026-09-27T02:51:03.4573861+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49860074"
     },
     "Type": 1,
@@ -226,21 +31,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49844663"
-    },
-    "Type": 1,
-    "Title": "ASML says it sold \u0027absolutely nothing\u0027 in Europe in 2026",
-    "Url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
-    "Description": "ASML says it sold \u0027absolutely nothing\u0027 in Europe in 2026",
-    "Metadata": {
-      "score": "164",
-      "author": "MC995",
-      "commentCount": "457"
-    },
-    "FetchedAt": "2026-09-27T02:51:03.590588+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49847247"
     },
     "Type": 1,
@@ -253,51 +43,6 @@
       "commentCount": "1"
     },
     "FetchedAt": "2026-09-27T02:51:03.634577+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49851883"
-    },
-    "Type": 1,
-    "Title": "Generate fonts where every LLM token is the same width",
-    "Url": "https://ampdot.mesh.host/token-space-fonts.html",
-    "Description": "Generate fonts where every LLM token is the same width",
-    "Metadata": {
-      "score": "31",
-      "author": "z-mach9",
-      "commentCount": "7"
-    },
-    "FetchedAt": "2026-09-27T02:51:03.6790799+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49829202"
-    },
-    "Type": 1,
-    "Title": "Modern Object Pascal Introduction for Programmers",
-    "Url": "https://castle-engine.io/modern_pascal",
-    "Description": "Modern Object Pascal Introduction for Programmers",
-    "Metadata": {
-      "score": "149",
-      "author": "birdculture",
-      "commentCount": "60"
-    },
-    "FetchedAt": "2026-09-27T02:51:03.7242153+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49836579"
-    },
-    "Type": 1,
-    "Title": "How I changed teaching after AI managed to do all my homework assignments",
-    "Url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-    "Description": "How I changed teaching after AI managed to do all my homework assignments",
-    "Metadata": {
-      "score": "147",
-      "author": "azhenley",
-      "commentCount": "143"
-    },
-    "FetchedAt": "2026-09-27T02:51:03.7687116+00:00"
   },
   {
     "ExternalId": {
@@ -343,21 +88,6 @@
       "commentCount": "66"
     },
     "FetchedAt": "2026-09-27T02:51:03.8971681+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49854875"
-    },
-    "Type": 1,
-    "Title": "How to keep enjoying programming in a world of LLMs",
-    "Url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-    "Description": "How to keep enjoying programming in a world of LLMs",
-    "Metadata": {
-      "score": "165",
-      "author": "signa11",
-      "commentCount": "217"
-    },
-    "FetchedAt": "2026-09-27T02:51:03.9399839+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +178,455 @@
       "commentCount": "13"
     },
     "FetchedAt": "2026-09-27T02:51:04.2051781+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49865343"
+    },
+    "Type": 1,
+    "Title": "\u0022As a Language Model\u0022: Chat Template Switches LLM Self-Referential Voice",
+    "Url": "https://arxiv.org/abs/2609.25021",
+    "Description": "\u0022As a Language Model\u0022: Chat Template Switches LLM Self-Referential Voice",
+    "Metadata": {
+      "score": "21",
+      "author": "yu3zhou4",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-09-27T11:07:14.32392+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49854219"
+    },
+    "Type": 1,
+    "Title": "Flip Fluid on Flip Dots",
+    "Url": "https://mitxela.com/projects/flipflip",
+    "Description": "Flip Fluid on Flip Dots",
+    "Metadata": {
+      "score": "107",
+      "author": "blutack",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-09-27T11:07:14.3531354+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49844657"
+    },
+    "Type": 1,
+    "Title": "Does Georgism work? Five years later",
+    "Url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+    "Description": "Does Georgism work? Five years later",
+    "Metadata": {
+      "score": "353",
+      "author": "silveraxe93",
+      "commentCount": "257"
+    },
+    "FetchedAt": "2026-09-27T11:07:14.3823405+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49864642"
+    },
+    "Type": 1,
+    "Title": "Meta Blocks President Lula\u0027s Facebook Page, Campaign Ads 2 Weeks from Election",
+    "Url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+    "Description": "Meta Blocks President Lula\u0027s Facebook Page, Campaign Ads 2 Weeks from Election",
+    "Metadata": {
+      "score": "184",
+      "author": "rbanffy",
+      "commentCount": "99"
+    },
+    "FetchedAt": "2026-09-27T11:07:14.4128776+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49863864"
+    },
+    "Type": 1,
+    "Title": "OpenAI Feared \u0022Optics\u0022 of what might appear on Hacker News",
+    "Url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+    "Description": "OpenAI Feared \u0022Optics\u0022 of what might appear on Hacker News",
+    "Metadata": {
+      "score": "239",
+      "author": "papergirl",
+      "commentCount": "203"
+    },
+    "FetchedAt": "2026-09-27T11:07:14.441934+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49856988"
+    },
+    "Type": 1,
+    "Title": "Go Concurrency Distilled",
+    "Url": "https://antonz.org/go-concurrency-distilled/",
+    "Description": "Go Concurrency Distilled",
+    "Metadata": {
+      "score": "232",
+      "author": "chmaynard",
+      "commentCount": "91"
+    },
+    "FetchedAt": "2026-09-27T11:07:14.4713871+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49842764"
+    },
+    "Type": 1,
+    "Title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+    "Url": "https://github.com/InfinityLoop1308/PipePipe",
+    "Description": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+    "Metadata": {
+      "score": "427",
+      "author": "Qision",
+      "commentCount": "228"
+    },
+    "FetchedAt": "2026-09-27T11:07:14.5026294+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49865067"
+    },
+    "Type": 1,
+    "Title": "Show HN: LightCloud \u2013 A cloud console organised like file system",
+    "Url": "https://www.light-cloud.com/",
+    "Description": "Hi HN, Light Cloud is a hosting platform where the unit of organisation is a folder. A folder holds everything project needs: frontend, API, database, env variables, preview per branch.",
+    "Metadata": {
+      "score": "4",
+      "author": "yullius",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-27T11:07:14.5343527+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49859112"
+    },
+    "Type": 1,
+    "Title": "DeepSeek Elastic Compute (DSec)",
+    "Url": "https://arxiv.org/abs/2609.22978",
+    "Description": "DeepSeek Elastic Compute (DSec)",
+    "Metadata": {
+      "score": "255",
+      "author": "shenli3514",
+      "commentCount": "85"
+    },
+    "FetchedAt": "2026-09-27T11:07:14.5652834+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49856193"
+    },
+    "Type": 1,
+    "Title": "Improving site performance by shipping more CSS",
+    "Url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+    "Description": "Improving site performance by shipping more CSS",
+    "Metadata": {
+      "score": "52",
+      "author": "torutofu",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-09-27T11:07:14.5960967+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49849723"
+    },
+    "Type": 1,
+    "Title": "Finally, A True Blue Rose Exists",
+    "Url": "https://www.sciencenews.org/article/true-blue-rose-pigment-copigment",
+    "Description": "Finally, A True Blue Rose Exists",
+    "Metadata": {
+      "score": "12",
+      "author": "bookofjoe",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-09-27T11:07:14.626333+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49858513"
+    },
+    "Type": 1,
+    "Title": "Show HN: Reladraw \u2013 A diagram language where you decide where to place things",
+    "Url": "https://github.com/reladraw/reladraw",
+    "Description": "I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don\u0026#x27;t let me decide how the diagram looks), or (B) software like Draw.io which are powerful but are very time consuming (and inefficient for agents to manipulate).\u003Cp\u003EI wanted to have the benefits of both, where you can define a diagram in a diagram language, but also retain a high degree of control over what the diagram looks like.\u003Cp\u003EI also wanted this ",
+    "Metadata": {
+      "score": "318",
+      "author": "jpwalsh234",
+      "commentCount": "85"
+    },
+    "FetchedAt": "2026-09-27T11:07:14.6560477+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49832768"
+    },
+    "Type": 1,
+    "Title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+    "Url": "https://www.movingimagearchive.com/",
+    "Description": "A searchable library of forgotten public-domain film clips from 1915 onward",
+    "Metadata": {
+      "score": "176",
+      "author": "momentmaker",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-09-27T11:07:14.6855263+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49839438"
+    },
+    "Type": 1,
+    "Title": "Biology might not be quantum, but its math is quantumlike",
+    "Url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
+    "Description": "Biology might not be quantum, but its math is quantumlike",
+    "Metadata": {
+      "score": "74",
+      "author": "pseudolus",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-09-27T11:07:14.7145544+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49863600"
+    },
+    "Type": 1,
+    "Title": "The internet discovers TLA\u002B. Now what?",
+    "Url": "https://reasonable.io/blog/tla-tutorial/",
+    "Description": "The internet discovers TLA\u002B. Now what?",
+    "Metadata": {
+      "score": "19",
+      "author": "matt_d",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-09-27T11:07:14.7447364+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49844663"
+    },
+    "Type": 1,
+    "Title": "ASML says it sold \u0027absolutely nothing\u0027 in Europe in 2026",
+    "Url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+    "Description": "ASML says it sold \u0027absolutely nothing\u0027 in Europe in 2026",
+    "Metadata": {
+      "score": "294",
+      "author": "MC995",
+      "commentCount": "656"
+    },
+    "FetchedAt": "2026-09-27T11:07:14.7731+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49839567"
+    },
+    "Type": 1,
+    "Title": "Evolving programming languages in the AI era",
+    "Url": "https://dashbit.co/blog/evolving-ai-era",
+    "Description": "Evolving programming languages in the AI era",
+    "Metadata": {
+      "score": "103",
+      "author": "pjm331",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-09-27T11:07:14.8036583+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49854693"
+    },
+    "Type": 1,
+    "Title": "Fifteen years later, the Apple Cards origin story",
+    "Url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+    "Description": "Fifteen years later, the Apple Cards origin story",
+    "Metadata": {
+      "score": "400",
+      "author": "ksec",
+      "commentCount": "103"
+    },
+    "FetchedAt": "2026-09-27T11:07:14.8332657+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49853137"
+    },
+    "Type": 1,
+    "Title": "An agent used DNS to reach an external chatbot",
+    "Url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+    "Description": "An agent used DNS to reach an external chatbot",
+    "Metadata": {
+      "score": "106",
+      "author": "apsec112",
+      "commentCount": "107"
+    },
+    "FetchedAt": "2026-09-27T11:07:14.8628389+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49862809"
+    },
+    "Type": 1,
+    "Title": "What is the size of Yemen? (2024)",
+    "Url": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
+    "Description": "What is the size of Yemen? (2024)",
+    "Metadata": {
+      "score": "178",
+      "author": "kspacewalk2",
+      "commentCount": "60"
+    },
+    "FetchedAt": "2026-09-27T11:07:14.8915863+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49857729"
+    },
+    "Type": 1,
+    "Title": "Drawgent: Coding agent on a live Excalidraw canvas",
+    "Url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+    "Description": "Drawgent: Coding agent on a live Excalidraw canvas",
+    "Metadata": {
+      "score": "156",
+      "author": "parasitid",
+      "commentCount": "42"
+    },
+    "FetchedAt": "2026-09-27T11:07:14.920437+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49836579"
+    },
+    "Type": 1,
+    "Title": "How I changed teaching after AI managed to do all my homework assignments",
+    "Url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+    "Description": "How I changed teaching after AI managed to do all my homework assignments",
+    "Metadata": {
+      "score": "217",
+      "author": "azhenley",
+      "commentCount": "193"
+    },
+    "FetchedAt": "2026-09-27T11:07:14.9494042+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49852905"
+    },
+    "Type": 1,
+    "Title": "Promising discoveries about the potential for life on one of Saturn\u2019s icy moons",
+    "Url": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
+    "Description": "Promising discoveries about the potential for life on one of Saturn\u2019s icy moons",
+    "Metadata": {
+      "score": "62",
+      "author": "geox",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-09-27T11:07:14.9782513+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49850991"
+    },
+    "Type": 1,
+    "Title": "Exploding variance of means of exponentials: least-squares to the rescue",
+    "Url": "https://francisbach.com/spectral_log_density_estimation/",
+    "Description": "Exploding variance of means of exponentials: least-squares to the rescue",
+    "Metadata": {
+      "score": "33",
+      "author": "matt_d",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-27T11:07:15.0068415+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49858676"
+    },
+    "Type": 1,
+    "Title": "Reverse-engineering the Intel 8087\u0027s tangent algorithm: more than CORDIC",
+    "Url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+    "Description": "Reverse-engineering the Intel 8087\u0027s tangent algorithm: more than CORDIC",
+    "Metadata": {
+      "score": "79",
+      "author": "pwg",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-09-27T11:07:15.0353124+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49857656"
+    },
+    "Type": 1,
+    "Title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+    "Url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+    "Description": "We found an approach to get Jev-like properties from standard LLMs like GLM-5.3-Flash.\u003Cp\u003EThe core idea is to craft the input prompt so that the first output token answers the question. This makes it possible to get a decision with a single forward pass.\u003Cp\u003EIn the blog post, we describe the approach in detail for GLM-5.3-Flash and vLLM. We benchmark this setup against Jev and Laya. We find that our setup is on-par with Jev in terms of accuracy and speed and that it substantially outperforms Laya.\u003C",
+    "Metadata": {
+      "score": "97",
+      "author": "flxflx",
+      "commentCount": "39"
+    },
+    "FetchedAt": "2026-09-27T11:07:15.0635323+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49854875"
+    },
+    "Type": 1,
+    "Title": "How to keep enjoying programming in a world of LLMs",
+    "Url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+    "Description": "How to keep enjoying programming in a world of LLMs",
+    "Metadata": {
+      "score": "234",
+      "author": "signa11",
+      "commentCount": "276"
+    },
+    "FetchedAt": "2026-09-27T11:07:15.0929902+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49851883"
+    },
+    "Type": 1,
+    "Title": "Generate fonts where every LLM token is the same width",
+    "Url": "https://ampdot.mesh.host/token-space-fonts.html",
+    "Description": "Generate fonts where every LLM token is the same width",
+    "Metadata": {
+      "score": "67",
+      "author": "z-mach9",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-09-27T11:07:15.1228614+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49829202"
+    },
+    "Type": 1,
+    "Title": "Modern Object Pascal Introduction for Programmers",
+    "Url": "https://castle-engine.io/modern_pascal",
+    "Description": "Modern Object Pascal Introduction for Programmers",
+    "Metadata": {
+      "score": "176",
+      "author": "birdculture",
+      "commentCount": "77"
+    },
+    "FetchedAt": "2026-09-27T11:07:15.1525113+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49844037"
+    },
+    "Type": 1,
+    "Title": "We Should Be Able to Change Our Languages",
+    "Url": "http://jimmyhmiller.com/change-our-languages",
+    "Description": "We Should Be Able to Change Our Languages",
+    "Metadata": {
+      "score": "45",
+      "author": "surprisetalk",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-09-27T11:07:15.1812994+00:00"
   }
 ]
