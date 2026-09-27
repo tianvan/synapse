@@ -211,21 +211,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49856193"
-    },
-    "Type": 1,
-    "Title": "Improving site performance by shipping more CSS",
-    "Url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
-    "Description": "Improving site performance by shipping more CSS",
-    "Metadata": {
-      "score": "52",
-      "author": "torutofu",
-      "commentCount": "29"
-    },
-    "FetchedAt": "2026-09-27T11:07:14.5960967+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49839567"
     },
     "Type": 1,
@@ -361,81 +346,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49867067"
-    },
-    "Type": 1,
-    "Title": "\u0022They had no concept of a duty of care to their users.\u0022",
-    "Url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
-    "Description": "\u0022They had no concept of a duty of care to their users.\u0022",
-    "Metadata": {
-      "score": "152",
-      "author": "jandeboevrie",
-      "commentCount": "101"
-    },
-    "FetchedAt": "2026-09-27T16:07:22.9453826+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49866951"
-    },
-    "Type": 1,
-    "Title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
-    "Url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
-    "Description": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
-    "Metadata": {
-      "score": "51",
-      "author": "danso",
-      "commentCount": "19"
-    },
-    "FetchedAt": "2026-09-27T16:07:22.9777795+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49867486"
-    },
-    "Type": 1,
-    "Title": "The Normalization of Inexplicable Failures",
-    "Url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
-    "Description": "The Normalization of Inexplicable Failures",
-    "Metadata": {
-      "score": "18",
-      "author": "pxx",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-09-27T16:07:23.0081964+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49866515"
-    },
-    "Type": 1,
-    "Title": "Replacing the old battery on rechargeable bike lights",
-    "Url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-    "Description": "Replacing the old battery on rechargeable bike lights",
-    "Metadata": {
-      "score": "54",
-      "author": "surprisetalk",
-      "commentCount": "17"
-    },
-    "FetchedAt": "2026-09-27T16:07:23.0381739+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49849409"
-    },
-    "Type": 1,
-    "Title": "Writing Efficient C\u002B\u002B Code",
-    "Url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
-    "Description": "Writing Efficient C\u002B\u002B Code",
-    "Metadata": {
-      "score": "28",
-      "author": "ibobev",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-09-27T16:07:23.0707168+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49858285"
     },
     "Type": 1,
@@ -463,36 +373,6 @@
       "commentCount": "3"
     },
     "FetchedAt": "2026-09-27T16:07:23.1423529+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49854219"
-    },
-    "Type": 1,
-    "Title": "Flip Fluid on Flip Dots",
-    "Url": "https://mitxela.com/projects/flipflip",
-    "Description": "Flip Fluid on Flip Dots",
-    "Metadata": {
-      "score": "259",
-      "author": "blutack",
-      "commentCount": "17"
-    },
-    "FetchedAt": "2026-09-27T16:07:23.1725586+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49856885"
-    },
-    "Type": 1,
-    "Title": "Fakecloud: Local AWS cloud emulator for integration tests",
-    "Url": "https://fakecloud.dev/",
-    "Description": "Fakecloud: Local AWS cloud emulator for integration tests",
-    "Metadata": {
-      "score": "41",
-      "author": "theanonymousone",
-      "commentCount": "20"
-    },
-    "FetchedAt": "2026-09-27T16:07:23.203995+00:00"
   },
   {
     "ExternalId": {
@@ -538,21 +418,6 @@
       "commentCount": "477"
     },
     "FetchedAt": "2026-09-27T16:07:23.2984845+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49856988"
-    },
-    "Type": 1,
-    "Title": "Go Concurrency Distilled",
-    "Url": "https://antonz.org/go-concurrency-distilled/",
-    "Description": "Go Concurrency Distilled",
-    "Metadata": {
-      "score": "308",
-      "author": "chmaynard",
-      "commentCount": "134"
-    },
-    "FetchedAt": "2026-09-27T16:07:23.3283815+00:00"
   },
   {
     "ExternalId": {
@@ -808,5 +673,455 @@
       "commentCount": "51"
     },
     "FetchedAt": "2026-09-27T16:07:23.8528868+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49870367"
+    },
+    "Type": 1,
+    "Title": "When did Google get so f-ing weird?",
+    "Url": "https://sancho.bearblog.dev/google-weird/",
+    "Description": "When did Google get so f-ing weird?",
+    "Metadata": {
+      "score": "37",
+      "author": "sancho-panza",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-09-27T20:39:31.5406671+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49868830"
+    },
+    "Type": 1,
+    "Title": "Ember-1",
+    "Url": "https://fireworks.ai/blog/ember-1",
+    "Description": "Ember-1",
+    "Metadata": {
+      "score": "191",
+      "author": "gmays",
+      "commentCount": "112"
+    },
+    "FetchedAt": "2026-09-27T20:39:31.5874052+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49870070"
+    },
+    "Type": 1,
+    "Title": "Alan Kay\u0027s answer to \u0022Did the ENIAC have a BIOS\u0022?",
+    "Url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+    "Description": "Alan Kay\u0027s answer to \u0022Did the ENIAC have a BIOS\u0022?",
+    "Metadata": {
+      "score": "17",
+      "author": "midnightfish",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-09-27T20:39:31.6214495+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49844629"
+    },
+    "Type": 1,
+    "Title": "The state of SIMD in Rust in 2026",
+    "Url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+    "Description": "The state of SIMD in Rust in 2026",
+    "Metadata": {
+      "score": "34",
+      "author": "verdagon",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-09-27T20:39:31.6524093+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49869574"
+    },
+    "Type": 1,
+    "Title": "Show HN: Lofi Cities \u2013 Pixel-art city nights with browser-generated lofi",
+    "Url": "https://loficities.com/",
+    "Description": "Show HN: Lofi Cities \u2013 Pixel-art city nights with browser-generated lofi",
+    "Metadata": {
+      "score": "69",
+      "author": "safaelmali",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-09-27T20:39:31.69288+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49866951"
+    },
+    "Type": 1,
+    "Title": "In an $80 motel room, a discovery to shed light on the origins of life",
+    "Url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+    "Description": "In an $80 motel room, a discovery to shed light on the origins of life",
+    "Metadata": {
+      "score": "169",
+      "author": "danso",
+      "commentCount": "65"
+    },
+    "FetchedAt": "2026-09-27T20:39:31.7223545+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49869142"
+    },
+    "Type": 1,
+    "Title": "Oral history of John Chowning, inventor of FM synthesis [video]",
+    "Url": "https://www.youtube.com/watch?v=e1Xn3030IvM",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;en.wikipedia.org\u0026#x2F;wiki\u0026#x2F;John_Chowning\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;en.wikipedia.org\u0026#x2F;wiki\u0026#x2F;John_Chowning\u003C/a\u003E",
+    "Metadata": {
+      "score": "19",
+      "author": "Rochus",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-09-27T20:39:31.755655+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49869995"
+    },
+    "Type": 1,
+    "Title": "Imp is a full port of DSPy to the BEAM",
+    "Url": "https://github.com/deepfates/imp",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;hex.pm\u0026#x2F;packages\u0026#x2F;imp\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;hex.pm\u0026#x2F;packages\u0026#x2F;imp\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;dspy.ai\u0026#x2F;current\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;dspy.ai\u0026#x2F;current\u0026#x2F;\u003C/a\u003E",
+    "Metadata": {
+      "score": "13",
+      "author": "mpweiher",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-09-27T20:39:31.785058+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49868404"
+    },
+    "Type": 1,
+    "Title": "Don\u0027t couple your Go code to GitHub",
+    "Url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+    "Description": "Don\u0027t couple your Go code to GitHub",
+    "Metadata": {
+      "score": "43",
+      "author": "birdculture",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-09-27T20:39:31.8143338+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49849409"
+    },
+    "Type": 1,
+    "Title": "Writing Efficient C\u002B\u002B Code (2013)",
+    "Url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+    "Description": "Writing Efficient C\u002B\u002B Code (2013)",
+    "Metadata": {
+      "score": "117",
+      "author": "ibobev",
+      "commentCount": "62"
+    },
+    "FetchedAt": "2026-09-27T20:39:31.8442521+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49866515"
+    },
+    "Type": 1,
+    "Title": "Replacing the old battery on rechargeable bike lights",
+    "Url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+    "Description": "Replacing the old battery on rechargeable bike lights",
+    "Metadata": {
+      "score": "108",
+      "author": "surprisetalk",
+      "commentCount": "56"
+    },
+    "FetchedAt": "2026-09-27T20:39:31.8750778+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49867775"
+    },
+    "Type": 1,
+    "Title": "Show HN: TinyAIArena watch AI agents battle it out",
+    "Url": "https://tinyaiarena.com/",
+    "Description": "Did you ever click on an \u201CAI Arena\u201D expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8\u00D78 grid. May the most intelligent one win!\u003Cp\u003EClick on any of the matches to spectate them.\u003Cp\u003ECode: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;hp6\u0026#x2F;ai-arena\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;hp6\u0026#x2F;ai-arena\u003C/a\u003E",
+    "Metadata": {
+      "score": "78",
+      "author": "hp6",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-09-27T20:39:31.9057418+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49869773"
+    },
+    "Type": 1,
+    "Title": "What I did at Recurse Center",
+    "Url": "https://thill.me/2026/09/11/what-i-did-at-rc.html",
+    "Description": "What I did at Recurse Center",
+    "Metadata": {
+      "score": "7",
+      "author": "bingden",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-27T20:39:31.9352035+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49867486"
+    },
+    "Type": 1,
+    "Title": "The Normalization of Inexplicable Failures",
+    "Url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+    "Description": "The Normalization of Inexplicable Failures",
+    "Metadata": {
+      "score": "203",
+      "author": "pxx",
+      "commentCount": "77"
+    },
+    "FetchedAt": "2026-09-27T20:39:31.9667293+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49853476"
+    },
+    "Type": 1,
+    "Title": "The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers",
+    "Url": "https://generalroboticslab.com/cartesian_handv1",
+    "Description": "The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers",
+    "Metadata": {
+      "score": "27",
+      "author": "AareyBaba",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-09-27T20:39:31.9959385+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49866988"
+    },
+    "Type": 1,
+    "Title": "Fragment of oldest known peace treaty found in Turkey",
+    "Url": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
+    "Description": "Fragment of oldest known peace treaty found in Turkey",
+    "Metadata": {
+      "score": "31",
+      "author": "gmays",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-09-27T20:39:32.0251296+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49845284"
+    },
+    "Type": 1,
+    "Title": "John Coltrane Centenary\u0027s \u2013 Impulse Records Release the Legendary Tiberi Tapes",
+    "Url": "https://www.jazzwise.com/content/news/john-coltrane-centenary-celebrations-see-impulse-records-release-the-legendary-tiberi-tapes",
+    "Description": "John Coltrane Centenary\u0027s \u2013 Impulse Records Release the Legendary Tiberi Tapes",
+    "Metadata": {
+      "score": "29",
+      "author": "gregsadetsky",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-09-27T20:39:32.0543288+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49867067"
+    },
+    "Type": 1,
+    "Title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
+    "Url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+    "Description": "On caring for user data: NeoVim caused Vim undo files to be deleted",
+    "Metadata": {
+      "score": "314",
+      "author": "jandeboevrie",
+      "commentCount": "271"
+    },
+    "FetchedAt": "2026-09-27T20:39:32.0844047+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49850613"
+    },
+    "Type": 1,
+    "Title": "Kicki: A DECsystem1060 \u2013 Interim Computer Museum",
+    "Url": "https://icm.museum/blog/?p=207",
+    "Description": "Kicki: A DECsystem1060 \u2013 Interim Computer Museum",
+    "Metadata": {
+      "score": "11",
+      "author": "rbanffy",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-27T20:39:32.1160536+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49870417"
+    },
+    "Type": 1,
+    "Title": "Allegations of US interference in Quebec election",
+    "Url": "https://globalnews.ca/news/12073854/quebec-election-u-s-interference/",
+    "Description": "Allegations of US interference in Quebec election",
+    "Metadata": {
+      "score": "9",
+      "author": "Teever",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-27T20:39:32.1462891+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49854219"
+    },
+    "Type": 1,
+    "Title": "Flip Fluid on Flip Dots",
+    "Url": "https://mitxela.com/projects/flipflip",
+    "Description": "Flip Fluid on Flip Dots",
+    "Metadata": {
+      "score": "325",
+      "author": "blutack",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-09-27T20:39:32.1768401+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49856885"
+    },
+    "Type": 1,
+    "Title": "Fakecloud: Local AWS cloud emulator for integration tests",
+    "Url": "https://fakecloud.dev/",
+    "Description": "Fakecloud: Local AWS cloud emulator for integration tests",
+    "Metadata": {
+      "score": "86",
+      "author": "theanonymousone",
+      "commentCount": "43"
+    },
+    "FetchedAt": "2026-09-27T20:39:32.2091551+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49859759"
+    },
+    "Type": 1,
+    "Title": "Video CDs Break Windows Explorer",
+    "Url": "https://clydesnotes.blogspot.com/2026/08/video-cds-break-windows-explorer.html",
+    "Description": "Video CDs Break Windows Explorer",
+    "Metadata": {
+      "score": "62",
+      "author": "ClydeN",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-09-27T20:39:32.2383619+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49854128"
+    },
+    "Type": 1,
+    "Title": "Wiki Deep dive into Standard diving dress",
+    "Url": "https://en.wikipedia.org/wiki/Standard_diving_dress",
+    "Description": "Wiki Deep dive into Standard diving dress",
+    "Metadata": {
+      "score": "8",
+      "author": "sans_souse",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-27T20:39:32.2675787+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49859982"
+    },
+    "Type": 1,
+    "Title": "Faster prompt lookup drafting in llama.cpp",
+    "Url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
+    "Description": "Faster prompt lookup drafting in llama.cpp",
+    "Metadata": {
+      "score": "44",
+      "author": "pptadversary",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-09-27T20:39:32.2969598+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49866597"
+    },
+    "Type": 1,
+    "Title": "Show HN: Building a Markdown editor for Mac, iOS and web",
+    "Url": "https://www.markdown.beauty/",
+    "Description": "I\u0026#x27;ve spent the last 10 months building Beauty: a local, powerful greco-roman Markdown editor where the page looks finished while you type. It runs on the Mac, iPhone and in the browser, and the browser version opens without an account: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;app.markdown.beauty\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;app.markdown.beauty\u003C/a\u003E\u003Cp\u003EI was frustrated with writing apps, and like most I used Apple Notes. After 2\u002B years immersed in Cursor, Codex and CC, I wished some interactions existe",
+    "Metadata": {
+      "score": "52",
+      "author": "thiagoperes",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-09-27T20:39:32.3263734+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49856193"
+    },
+    "Type": 1,
+    "Title": "Improving site performance by shipping more CSS",
+    "Url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+    "Description": "Improving site performance by shipping more CSS",
+    "Metadata": {
+      "score": "71",
+      "author": "torutofu",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-09-27T20:39:32.3558312+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49852832"
+    },
+    "Type": 1,
+    "Title": "Walgit: A Git server that is one binary in front of an object store",
+    "Url": "https://github.com/rgodha24/walgithub",
+    "Description": "Walgit: A Git server that is one binary in front of an object store",
+    "Metadata": {
+      "score": "64",
+      "author": "handfuloflight",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-09-27T20:39:32.3850373+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49856988"
+    },
+    "Type": 1,
+    "Title": "Go Concurrency Distilled",
+    "Url": "https://antonz.org/go-concurrency-distilled/",
+    "Description": "Go Concurrency Distilled",
+    "Metadata": {
+      "score": "355",
+      "author": "chmaynard",
+      "commentCount": "159"
+    },
+    "FetchedAt": "2026-09-27T20:39:32.4158137+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49845114"
+    },
+    "Type": 1,
+    "Title": "C\u0027s Flexible Integer Sizes Were Not a Design Mistake",
+    "Url": "https://pikuma.com/blog/c-integer-sizes-not-a-mistake",
+    "Description": "C\u0027s Flexible Integer Sizes Were Not a Design Mistake",
+    "Metadata": {
+      "score": "57",
+      "author": "ibobev",
+      "commentCount": "94"
+    },
+    "FetchedAt": "2026-09-27T20:39:32.4449476+00:00"
   }
 ]
