@@ -1,0 +1,135 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:paperclipai/paperclip"
+    },
+    "Type": 0,
+    "Title": "paperclipai/paperclip",
+    "Url": "https://github.com/paperclipai/paperclip",
+    "Description": "The open-source app everyone uses to manage agents at work",
+    "Metadata": {
+      "owner": "paperclipai",
+      "repo": "paperclip",
+      "language": "TypeScript",
+      "stars": "2,401"
+    },
+    "FetchedAt": "2026-09-28T02:51:28.7769804+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:vectorize-io/hindsight"
+    },
+    "Type": 0,
+    "Title": "vectorize-io/hindsight",
+    "Url": "https://github.com/vectorize-io/hindsight",
+    "Description": "Hindsight: Agent Memory That Learns",
+    "Metadata": {
+      "owner": "vectorize-io",
+      "repo": "hindsight",
+      "language": "Python",
+      "stars": "4,520",
+      "topics": "agentic-ai, agents, ai-memory, memory"
+    },
+    "FetchedAt": "2026-09-28T02:51:28.9282078+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:debpalash/VoiceStudio"
+    },
+    "Type": 0,
+    "Title": "debpalash/VoiceStudio",
+    "Url": "https://github.com/debpalash/VoiceStudio",
+    "Description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription \u0026 audiobook creation in 646 languages.",
+    "Metadata": {
+      "owner": "debpalash",
+      "repo": "VoiceStudio",
+      "language": "Python",
+      "stars": "3,086",
+      "topics": "ai, audiobook, cuda, dubbing, elevenlabs-alternative, huggingface, local-first, mlx, omnivoice-studio, speech-to-text, tauri, text-to-speech, transcription, translate, tts, voice-ai, voice-cloning, voice-generation, voicestudio, workflow"
+    },
+    "FetchedAt": "2026-09-28T02:51:29.0649067+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:InfinityLoop1308/PipePipe"
+    },
+    "Type": 0,
+    "Title": "InfinityLoop1308/PipePipe",
+    "Url": "https://github.com/InfinityLoop1308/PipePipe",
+    "Description": "An open-source Android app to let you browse YouTube and other services freely. ",
+    "Metadata": {
+      "owner": "InfinityLoop1308",
+      "repo": "PipePipe",
+      "language": "Shell",
+      "stars": "242",
+      "topics": "android, mediaplayer, newpipe, sponsorblock, youtube"
+    },
+    "FetchedAt": "2026-09-28T02:51:29.1768506+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:vercel-labs/scriptc"
+    },
+    "Type": 0,
+    "Title": "vercel-labs/scriptc",
+    "Url": "https://github.com/vercel-labs/scriptc",
+    "Description": "TypeScript-to-Native Compiler",
+    "Metadata": {
+      "owner": "vercel-labs",
+      "repo": "scriptc",
+      "language": "TypeScript",
+      "stars": "102"
+    },
+    "FetchedAt": "2026-09-28T02:51:29.2863953+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mvschwarz/openrig"
+    },
+    "Type": 0,
+    "Title": "mvschwarz/openrig",
+    "Url": "https://github.com/mvschwarz/openrig",
+    "Description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+    "Metadata": {
+      "owner": "mvschwarz",
+      "repo": "openrig",
+      "language": "TypeScript",
+      "stars": "114",
+      "topics": "agent-harness, agent-orchestration, agent-skills, ai-coding, claude-code, cli, codex-cli, multi-agent, multi-agent-systems, tmux, typescript"
+    },
+    "FetchedAt": "2026-09-28T02:51:29.4008345+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:dream-num/univer"
+    },
+    "Type": 0,
+    "Title": "dream-num/univer",
+    "Url": "https://github.com/dream-num/univer",
+    "Description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "Metadata": {
+      "owner": "dream-num",
+      "repo": "univer",
+      "language": "TypeScript",
+      "stars": "895",
+      "topics": "board, collaboration, data-table, doc, docx, excel, grid, pdf, ppt, pptx, presentation, sdk, sheet, slides, spreadsheet, table, word, wordprocessor, xlsx"
+    },
+    "FetchedAt": "2026-09-28T02:51:29.5142611+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:willfaust/Madeira"
+    },
+    "Type": 0,
+    "Title": "willfaust/Madeira",
+    "Url": "https://github.com/willfaust/Madeira",
+    "Description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu \u002B Wine \u002B DXMT",
+    "Metadata": {
+      "owner": "willfaust",
+      "repo": "Madeira",
+      "language": "C",
+      "stars": "83"
+    },
+    "FetchedAt": "2026-09-28T02:51:29.6460848+00:00"
+  }
+]
