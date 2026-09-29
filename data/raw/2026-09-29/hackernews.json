@@ -1,21 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:49883844"
-    },
-    "Type": 1,
-    "Title": "Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-    "Url": "https://github.com/firelex/jeff",
-    "Description": "Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-    "Metadata": {
-      "score": "332",
-      "author": "firelex",
-      "commentCount": "134"
-    },
-    "FetchedAt": "2026-09-29T03:32:26.9425712+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49887337"
     },
     "Type": 1,
@@ -28,21 +13,6 @@
       "commentCount": "15"
     },
     "FetchedAt": "2026-09-29T03:32:27.0734687+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49880036"
-    },
-    "Type": 1,
-    "Title": "Pirating the Pirates",
-    "Url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
-    "Description": "Pirating the Pirates",
-    "Metadata": {
-      "score": "445",
-      "author": "piotrgrabowski",
-      "commentCount": "235"
-    },
-    "FetchedAt": "2026-09-29T03:32:27.1244615+00:00"
   },
   {
     "ExternalId": {
@@ -61,141 +31,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49855059"
-    },
-    "Type": 1,
-    "Title": "12,000-year-old G\u00F6beklitepe burials explain scattered bones",
-    "Url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
-    "Description": "12,000-year-old G\u00F6beklitepe burials explain scattered bones",
-    "Metadata": {
-      "score": "92",
-      "author": "yusufaytas",
-      "commentCount": "23"
-    },
-    "FetchedAt": "2026-09-29T03:32:27.2267636+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49882781"
-    },
-    "Type": 1,
-    "Title": "MicroLLM Lab \u2013 Try 7 tiny LLM\u0027s in the browser",
-    "Url": "https://stateofutopia.com/experiments/microllmlab/",
-    "Description": "MicroLLM Lab \u2013 Try 7 tiny LLM\u0027s in the browser",
-    "Metadata": {
-      "score": "155",
-      "author": "logicallee",
-      "commentCount": "66"
-    },
-    "FetchedAt": "2026-09-29T03:32:27.2721721+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49886482"
-    },
-    "Type": 1,
-    "Title": "Tank Body Problem",
-    "Url": "http://www.jimsitu.com",
-    "Description": "Tank Body Problem",
-    "Metadata": {
-      "score": "25",
-      "author": "jimbooonooo",
-      "commentCount": "7"
-    },
-    "FetchedAt": "2026-09-29T03:32:27.3181131+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49883539"
-    },
-    "Type": 1,
-    "Title": "California farmers are struggling to sell grapes as demand for wine drops",
-    "Url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
-    "Description": "California farmers are struggling to sell grapes as demand for wine drops",
-    "Metadata": {
-      "score": "88",
-      "author": "randycupertino",
-      "commentCount": "221"
-    },
-    "FetchedAt": "2026-09-29T03:32:27.3652205+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49883536"
-    },
-    "Type": 1,
-    "Title": "Scientists solve 1840s space weather mystery",
-    "Url": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
-    "Description": "Scientists solve 1840s space weather mystery",
-    "Metadata": {
-      "score": "73",
-      "author": "gumby",
-      "commentCount": "39"
-    },
-    "FetchedAt": "2026-09-29T03:32:27.4162322+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49881850"
-    },
-    "Type": 1,
-    "Title": "Sonnet 5.5",
-    "Url": "https://www.anthropic.com/claude-sonnet-5-5",
-    "Description": "Sonnet 5.5",
-    "Metadata": {
-      "score": "635",
-      "author": "D2OQZG8l5BI1S06",
-      "commentCount": "427"
-    },
-    "FetchedAt": "2026-09-29T03:32:27.460948+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49884625"
-    },
-    "Type": 1,
-    "Title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-    "Url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
-    "Description": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-    "Metadata": {
-      "score": "42",
-      "author": "nkko",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-09-29T03:32:27.512461+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49879702"
-    },
-    "Type": 1,
-    "Title": "Hijacking the PS5\u0027s RTMP stream",
-    "Url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
-    "Description": "Hijacking the PS5\u0027s RTMP stream",
-    "Metadata": {
-      "score": "211",
-      "author": "ibobev",
-      "commentCount": "67"
-    },
-    "FetchedAt": "2026-09-29T03:32:27.9120577+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49883760"
-    },
-    "Type": 1,
-    "Title": "World Labs Is Joining AMD",
-    "Url": "https://www.worldlabs.ai/blog/amd-announcement",
-    "Description": "World Labs Is Joining AMD",
-    "Metadata": {
-      "score": "209",
-      "author": "mfiguiere",
-      "commentCount": "81"
-    },
-    "FetchedAt": "2026-09-29T03:32:28.0013637+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49858193"
     },
     "Type": 1,
@@ -208,21 +43,6 @@
       "commentCount": "2"
     },
     "FetchedAt": "2026-09-29T03:32:28.0500765+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49879697"
-    },
-    "Type": 1,
-    "Title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
-    "Url": "https://www.thisamericanlife.org/897/transcript",
-    "Description": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
-    "Metadata": {
-      "score": "319",
-      "author": "simonpure",
-      "commentCount": "188"
-    },
-    "FetchedAt": "2026-09-29T03:32:28.2520375+00:00"
   },
   {
     "ExternalId": {
@@ -271,21 +91,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49877678"
-    },
-    "Type": 1,
-    "Title": "Does Reddit have an astroturfing problem? What the data suggests",
-    "Url": "https://www.petervijeh.com/projects/reddit-astroturf",
-    "Description": "Does Reddit have an astroturfing problem? What the data suggests",
-    "Metadata": {
-      "score": "140",
-      "author": "p-s-v",
-      "commentCount": "165"
-    },
-    "FetchedAt": "2026-09-29T03:32:28.5719771+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49883471"
     },
     "Type": 1,
@@ -298,36 +103,6 @@
       "commentCount": "131"
     },
     "FetchedAt": "2026-09-29T03:32:28.6216496+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49879645"
-    },
-    "Type": 1,
-    "Title": "Updated Google Maps shows destruction of the city of Rafah",
-    "Url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
-    "Description": "Updated Google Maps shows destruction of the city of Rafah",
-    "Metadata": {
-      "score": "278",
-      "author": "slowin",
-      "commentCount": "151"
-    },
-    "FetchedAt": "2026-09-29T03:32:28.6848025+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49879883"
-    },
-    "Type": 1,
-    "Title": "Nvidia wants to put a watchdog chip next to every AI agent",
-    "Url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-    "Description": "Nvidia wants to put a watchdog chip next to every AI agent",
-    "Metadata": {
-      "score": "117",
-      "author": "jonbaer",
-      "commentCount": "153"
-    },
-    "FetchedAt": "2026-09-29T03:32:28.7443506+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +223,455 @@
       "commentCount": "19"
     },
     "FetchedAt": "2026-09-29T03:32:29.5720519+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49891295"
+    },
+    "Type": 1,
+    "Title": "You Are No Longer Invited to Dinner",
+    "Url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+    "Description": "You Are No Longer Invited to Dinner",
+    "Metadata": {
+      "score": "31",
+      "author": "barry-cotter",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-09-29T11:53:29.1876416+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49890226"
+    },
+    "Type": 1,
+    "Title": "AI companies leak data to advertisers [pdf]",
+    "Url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+    "Description": "AI companies leak data to advertisers [pdf]",
+    "Metadata": {
+      "score": "146",
+      "author": "damaru2",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-09-29T11:53:29.2317973+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49891290"
+    },
+    "Type": 1,
+    "Title": "Jeeves. Reasoning improves Jev-like decision models",
+    "Url": "https://github.com/PostHog/jeeves",
+    "Description": "Jeeves. Reasoning improves Jev-like decision models",
+    "Metadata": {
+      "score": "29",
+      "author": "nicowaltz",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-09-29T11:53:29.2742198+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49890051"
+    },
+    "Type": 1,
+    "Title": "Using any C\u002B\u002B library in Godot",
+    "Url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
+    "Description": "Using any C\u002B\u002B library in Godot",
+    "Metadata": {
+      "score": "62",
+      "author": "czoido",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-09-29T11:53:29.3167996+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49880411"
+    },
+    "Type": 1,
+    "Title": "Phyllotaxis: An audio-reactive LED display",
+    "Url": "https://jagi.studio/posts/phyllotaxis/",
+    "Description": "Phyllotaxis: An audio-reactive LED display",
+    "Metadata": {
+      "score": "163",
+      "author": "evakhoury",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-09-29T11:53:29.3591569+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49870376"
+    },
+    "Type": 1,
+    "Title": "Booted up in 1993, this server still runs \u2013 but not for much longer (2017)",
+    "Url": "https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html",
+    "Description": "Booted up in 1993, this server still runs \u2013 but not for much longer (2017)",
+    "Metadata": {
+      "score": "84",
+      "author": "doener",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-09-29T11:53:29.403356+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49876052"
+    },
+    "Type": 1,
+    "Title": "The systems that no one will test",
+    "Url": "https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/",
+    "Description": "The systems that no one will test",
+    "Metadata": {
+      "score": "84",
+      "author": "perone",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-09-29T11:53:29.4477537+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49891480"
+    },
+    "Type": 1,
+    "Title": "500k facial scans at UK stations yield no arrests, 1 false positive",
+    "Url": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
+    "Description": "500k facial scans at UK stations yield no arrests, 1 false positive",
+    "Metadata": {
+      "score": "17",
+      "author": "ilamont",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-09-29T11:53:29.4901203+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49883539"
+    },
+    "Type": 1,
+    "Title": "California farmers are struggling to sell grapes as demand for wine drops",
+    "Url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
+    "Description": "California farmers are struggling to sell grapes as demand for wine drops",
+    "Metadata": {
+      "score": "252",
+      "author": "randycupertino",
+      "commentCount": "641"
+    },
+    "FetchedAt": "2026-09-29T11:53:29.5331395+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49866783"
+    },
+    "Type": 1,
+    "Title": "Software occlusion culling in Block Game",
+    "Url": "https://enikofox.com/posts/software-rendered-occlusion-culling-in-block-game/",
+    "Description": "Software occlusion culling in Block Game",
+    "Metadata": {
+      "score": "37",
+      "author": "airhangerf15",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-09-29T11:53:29.5755833+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49880036"
+    },
+    "Type": 1,
+    "Title": "Pirating the Pirates",
+    "Url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+    "Description": "Pirating the Pirates",
+    "Metadata": {
+      "score": "612",
+      "author": "piotrgrabowski",
+      "commentCount": "310"
+    },
+    "FetchedAt": "2026-09-29T11:53:29.6190165+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49886482"
+    },
+    "Type": 1,
+    "Title": "Tank Body Problem",
+    "Url": "http://www.jimsitu.com",
+    "Description": "Tank Body Problem",
+    "Metadata": {
+      "score": "128",
+      "author": "jimbooonooo",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-09-29T11:53:29.6616062+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49889633"
+    },
+    "Type": 1,
+    "Title": "Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland",
+    "Url": "https://www.startup-nights.ch/event/",
+    "Description": "Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland",
+    "Metadata": {
+      "score": "17",
+      "author": "sschueller",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-09-29T11:53:29.7039529+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49863594"
+    },
+    "Type": 1,
+    "Title": "Four CHI \u002726 papers I wish I wrote",
+    "Url": "https://countingfromzero.blog/2026/04/24/four-chi-26-papers-i-wish-i-wrote/",
+    "Description": "Four CHI \u002726 papers I wish I wrote",
+    "Metadata": {
+      "score": "14",
+      "author": "luu",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-09-29T11:53:29.7463288+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49882781"
+    },
+    "Type": 1,
+    "Title": "MicroLLM Lab \u2013 Try 7 tiny LLM\u0027s in the browser",
+    "Url": "https://stateofutopia.com/experiments/microllmlab/",
+    "Description": "MicroLLM Lab \u2013 Try 7 tiny LLM\u0027s in the browser",
+    "Metadata": {
+      "score": "254",
+      "author": "logicallee",
+      "commentCount": "88"
+    },
+    "FetchedAt": "2026-09-29T11:53:29.7886163+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49855059"
+    },
+    "Type": 1,
+    "Title": "12,000-year-old G\u00F6beklitepe burials explain scattered bones",
+    "Url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+    "Description": "12,000-year-old G\u00F6beklitepe burials explain scattered bones",
+    "Metadata": {
+      "score": "146",
+      "author": "yusufaytas",
+      "commentCount": "40"
+    },
+    "FetchedAt": "2026-09-29T11:53:29.8311459+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49884625"
+    },
+    "Type": 1,
+    "Title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+    "Url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+    "Description": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+    "Metadata": {
+      "score": "108",
+      "author": "nkko",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-09-29T11:53:29.8743886+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49883844"
+    },
+    "Type": 1,
+    "Title": "Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+    "Url": "https://github.com/firelex/jeff",
+    "Description": "Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+    "Metadata": {
+      "score": "516",
+      "author": "firelex",
+      "commentCount": "196"
+    },
+    "FetchedAt": "2026-09-29T11:53:29.9186854+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49858158"
+    },
+    "Type": 1,
+    "Title": "Optimizing x264 settings and per-title ladders",
+    "Url": "https://streaminglearningcenter.com/articles/optimizing-x264-settings-and-per-title-ladders.html",
+    "Description": "Optimizing x264 settings and per-title ladders",
+    "Metadata": {
+      "score": "3",
+      "author": "dabinat",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-29T11:53:29.9629509+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49879883"
+    },
+    "Type": 1,
+    "Title": "Nvidia wants to put a watchdog chip next to every AI agent",
+    "Url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+    "Description": "Nvidia wants to put a watchdog chip next to every AI agent",
+    "Metadata": {
+      "score": "189",
+      "author": "jonbaer",
+      "commentCount": "235"
+    },
+    "FetchedAt": "2026-09-29T11:53:30.0072155+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49890829"
+    },
+    "Type": 1,
+    "Title": "New Cyber-OSINT model released",
+    "Url": "https://twitter.com/0x0SojalSec/status/2104736980768866439",
+    "Description": "New Cyber-OSINT model released",
+    "Metadata": {
+      "score": "14",
+      "author": "soltanov",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-09-29T11:53:30.052503+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49879702"
+    },
+    "Type": 1,
+    "Title": "Hijacking the PS5\u0027s RTMP stream",
+    "Url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+    "Description": "Hijacking the PS5\u0027s RTMP stream",
+    "Metadata": {
+      "score": "264",
+      "author": "ibobev",
+      "commentCount": "87"
+    },
+    "FetchedAt": "2026-09-29T11:53:30.0973132+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49881850"
+    },
+    "Type": 1,
+    "Title": "Sonnet 5.5",
+    "Url": "https://www.anthropic.com/claude-sonnet-5-5",
+    "Description": "Sonnet 5.5",
+    "Metadata": {
+      "score": "824",
+      "author": "D2OQZG8l5BI1S06",
+      "commentCount": "552"
+    },
+    "FetchedAt": "2026-09-29T11:53:30.1403197+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49879645"
+    },
+    "Type": 1,
+    "Title": "Updated Google Maps shows destruction of the city of Rafah",
+    "Url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
+    "Description": "Updated Google Maps shows destruction of the city of Rafah",
+    "Metadata": {
+      "score": "642",
+      "author": "slowin",
+      "commentCount": "520"
+    },
+    "FetchedAt": "2026-09-29T11:53:30.1842187+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49863083"
+    },
+    "Type": 1,
+    "Title": "Hermann Weyl \u2013 Frank Aydelotte memorandum (1945)",
+    "Url": "https://albert.ias.edu/server/api/core/bitstreams/9feac6ca-38d1-4f5c-9876-75915f1a5762/content",
+    "Description": "Hermann Weyl \u2013 Frank Aydelotte memorandum (1945)",
+    "Metadata": {
+      "score": "4",
+      "author": "georgecmu",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-29T11:53:30.2277832+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49879697"
+    },
+    "Type": 1,
+    "Title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+    "Url": "https://www.thisamericanlife.org/897/transcript",
+    "Description": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+    "Metadata": {
+      "score": "428",
+      "author": "simonpure",
+      "commentCount": "226"
+    },
+    "FetchedAt": "2026-09-29T11:53:30.2712041+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49883536"
+    },
+    "Type": 1,
+    "Title": "Scientists solve 1840s space weather mystery",
+    "Url": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
+    "Description": "Scientists solve 1840s space weather mystery",
+    "Metadata": {
+      "score": "112",
+      "author": "gumby",
+      "commentCount": "48"
+    },
+    "FetchedAt": "2026-09-29T11:53:30.314059+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49877678"
+    },
+    "Type": 1,
+    "Title": "Does Reddit have an astroturfing problem? What the data suggests",
+    "Url": "https://www.petervijeh.com/projects/reddit-astroturf",
+    "Description": "Does Reddit have an astroturfing problem? What the data suggests",
+    "Metadata": {
+      "score": "244",
+      "author": "p-s-v",
+      "commentCount": "302"
+    },
+    "FetchedAt": "2026-09-29T11:53:30.3594074+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49862602"
+    },
+    "Type": 1,
+    "Title": "Simulating Airband AM Radios",
+    "Url": "https://bitbashing.io/am-radio.html",
+    "Description": "Simulating Airband AM Radios",
+    "Metadata": {
+      "score": "53",
+      "author": "shellpipe",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-09-29T11:53:30.4025574+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49883760"
+    },
+    "Type": 1,
+    "Title": "World Labs is Joining AMD",
+    "Url": "https://www.worldlabs.ai/blog/amd-announcement",
+    "Description": "World Labs is Joining AMD",
+    "Metadata": {
+      "score": "284",
+      "author": "mfiguiere",
+      "commentCount": "111"
+    },
+    "FetchedAt": "2026-09-29T11:53:30.4515528+00:00"
   }
 ]
