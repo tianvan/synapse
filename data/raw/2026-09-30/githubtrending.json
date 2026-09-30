@@ -1,0 +1,201 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:debpalash/VoiceStudio"
+    },
+    "Type": 0,
+    "Title": "debpalash/VoiceStudio",
+    "Url": "https://github.com/debpalash/VoiceStudio",
+    "Description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription \u0026 audiobook creation in 646 languages.",
+    "Metadata": {
+      "owner": "debpalash",
+      "repo": "VoiceStudio",
+      "language": "Python",
+      "stars": "4,758",
+      "topics": "ai, audiobook, cuda, dubbing, elevenlabs-alternative, huggingface, local-first, mlx, omnivoice-studio, speech-to-text, tauri, text-to-speech, transcription, translate, tts, voice-ai, voice-cloning, voice-generation, voicestudio, workflow"
+    },
+    "FetchedAt": "2026-09-30T03:17:29.0953011+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NVIDIA/OpenShell"
+    },
+    "Type": 0,
+    "Title": "NVIDIA/OpenShell",
+    "Url": "https://github.com/NVIDIA/OpenShell",
+    "Description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "Metadata": {
+      "owner": "NVIDIA",
+      "repo": "OpenShell",
+      "language": "Rust",
+      "stars": "990"
+    },
+    "FetchedAt": "2026-09-30T03:17:29.2977884+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:vectorize-io/hindsight"
+    },
+    "Type": 0,
+    "Title": "vectorize-io/hindsight",
+    "Url": "https://github.com/vectorize-io/hindsight",
+    "Description": "Hindsight: Agent Memory That Learns",
+    "Metadata": {
+      "owner": "vectorize-io",
+      "repo": "hindsight",
+      "language": "Python",
+      "stars": "2,575",
+      "topics": "agentic-ai, agents, ai-memory, memory"
+    },
+    "FetchedAt": "2026-09-30T03:17:29.4224454+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:paperclipai/paperclip"
+    },
+    "Type": 0,
+    "Title": "paperclipai/paperclip",
+    "Url": "https://github.com/paperclipai/paperclip",
+    "Description": "The open-source app everyone uses to manage agents at work",
+    "Metadata": {
+      "owner": "paperclipai",
+      "repo": "paperclip",
+      "language": "TypeScript",
+      "stars": "2,458"
+    },
+    "FetchedAt": "2026-09-30T03:17:29.5685991+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:t8y2/dbx"
+    },
+    "Type": 0,
+    "Title": "t8y2/dbx",
+    "Url": "https://github.com/t8y2/dbx",
+    "Description": "25 MB lightweight cross-platform database client for 100\u002B databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | \u8F7B\u91CF\u7EA7\u8DE8\u5E73\u53F0\u6570\u636E\u5E93\u7BA1\u7406\u5DE5\u5177\uFF0C\u652F\u6301 MySQL\u3001PostgreSQL\u3001SQLite\u3001Redis\u3001MongoDB\u3001\u8FBE\u68A6\u7B49 100\u002B \u6570\u636E\u5E93\uFF0C\u63D0\u4F9B\u684C\u9762\u7AEF\u3001Docker\u3001CLI\u3001\u5185\u7F6E AI \u52A9\u624B\u548C MCP\u3002",
+    "Metadata": {
+      "owner": "t8y2",
+      "repo": "dbx",
+      "language": "Rust",
+      "stars": "232",
+      "topics": "ai, cli, clickhouse, database, database-client, database-management, docker, gui, mcp, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue"
+    },
+    "FetchedAt": "2026-09-30T03:17:29.6949137+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mvschwarz/openrig"
+    },
+    "Type": 0,
+    "Title": "mvschwarz/openrig",
+    "Url": "https://github.com/mvschwarz/openrig",
+    "Description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+    "Metadata": {
+      "owner": "mvschwarz",
+      "repo": "openrig",
+      "language": "TypeScript",
+      "stars": "737",
+      "topics": "agent-harness, agent-orchestration, agent-skills, ai-coding, claude-code, cli, codex-cli, multi-agent, multi-agent-systems, tmux, typescript"
+    },
+    "FetchedAt": "2026-09-30T03:17:29.8314872+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:oblien/openship"
+    },
+    "Type": 0,
+    "Title": "oblien/openship",
+    "Url": "https://github.com/oblien/openship",
+    "Description": "Self-hosted deployment platform",
+    "Metadata": {
+      "owner": "oblien",
+      "repo": "openship",
+      "language": "TypeScript",
+      "stars": "437",
+      "topics": "agents, ai, deployments, self-hosted"
+    },
+    "FetchedAt": "2026-09-30T03:17:29.9704618+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:averygan/reclip"
+    },
+    "Type": 0,
+    "Title": "averygan/reclip",
+    "Url": "https://github.com/averygan/reclip",
+    "Description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+    "Metadata": {
+      "owner": "averygan",
+      "repo": "reclip",
+      "language": "HTML",
+      "stars": "113"
+    },
+    "FetchedAt": "2026-09-30T03:17:30.1048259+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cs341-illinois/coursebook"
+    },
+    "Type": 0,
+    "Title": "cs341-illinois/coursebook",
+    "Url": "https://github.com/cs341-illinois/coursebook",
+    "Description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+    "Metadata": {
+      "owner": "cs341-illinois",
+      "repo": "coursebook",
+      "language": "TeX",
+      "stars": "572",
+      "topics": "awesome, c, latex, linux, posix, system-programming, wikibook"
+    },
+    "FetchedAt": "2026-09-30T03:17:30.2233506+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:willfaust/Madeira"
+    },
+    "Type": 0,
+    "Title": "willfaust/Madeira",
+    "Url": "https://github.com/willfaust/Madeira",
+    "Description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu \u002B Wine \u002B DXMT",
+    "Metadata": {
+      "owner": "willfaust",
+      "repo": "Madeira",
+      "language": "C",
+      "stars": "81"
+    },
+    "FetchedAt": "2026-09-30T03:17:30.3556887+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:dream-num/univer"
+    },
+    "Type": 0,
+    "Title": "dream-num/univer",
+    "Url": "https://github.com/dream-num/univer",
+    "Description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "Metadata": {
+      "owner": "dream-num",
+      "repo": "univer",
+      "language": "TypeScript",
+      "stars": "696",
+      "topics": "board, collaboration, data-table, doc, docx, excel, grid, pdf, ppt, pptx, presentation, sdk, sheet, slides, spreadsheet, table, word, wordprocessor, xlsx"
+    },
+    "FetchedAt": "2026-09-30T03:17:30.480685+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:rakyll/hey"
+    },
+    "Type": 0,
+    "Title": "rakyll/hey",
+    "Url": "https://github.com/rakyll/hey",
+    "Description": "HTTP load generator, ApacheBench (ab) replacement",
+    "Metadata": {
+      "owner": "rakyll",
+      "repo": "hey",
+      "language": "Go",
+      "stars": "34"
+    },
+    "FetchedAt": "2026-09-30T03:17:30.6025627+00:00"
+  }
+]
