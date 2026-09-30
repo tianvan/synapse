@@ -406,66 +406,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49909583"
-    },
-    "Type": 1,
-    "Title": "A Brief History of the Bloomberg Terminal",
-    "Url": "https://spectrum.ieee.org/bloomberg-terminal",
-    "Description": "A Brief History of the Bloomberg Terminal",
-    "Metadata": {
-      "score": "65",
-      "author": "rbanffy",
-      "commentCount": "19"
-    },
-    "FetchedAt": "2026-09-30T17:20:51.2463402+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49906637"
-    },
-    "Type": 1,
-    "Title": "You Said No MCP",
-    "Url": "https://earendil.com/posts/you-said-no-mcp/",
-    "Description": "You Said No MCP",
-    "Metadata": {
-      "score": "457",
-      "author": "yarapavan",
-      "commentCount": "254"
-    },
-    "FetchedAt": "2026-09-30T17:20:51.2984333+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49908962"
-    },
-    "Type": 1,
-    "Title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-    "Url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
-    "Description": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-    "Metadata": {
-      "score": "71",
-      "author": "ibobev",
-      "commentCount": "35"
-    },
-    "FetchedAt": "2026-09-30T17:20:51.3303682+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49883970"
-    },
-    "Type": 1,
-    "Title": "I Could\u0027ve Accessed 17T Microsoft Records",
-    "Url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
-    "Description": "I Could\u0027ve Accessed 17T Microsoft Records",
-    "Metadata": {
-      "score": "107",
-      "author": "luispa",
-      "commentCount": "50"
-    },
-    "FetchedAt": "2026-09-30T17:20:51.3579297+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49884346"
     },
     "Type": 1,
@@ -496,21 +436,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49911531"
-    },
-    "Type": 1,
-    "Title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
-    "Url": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
-    "Description": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
-    "Metadata": {
-      "score": "1",
-      "author": "rooppal",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-09-30T17:20:51.4653539+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49911759"
     },
     "Type": 1,
@@ -523,21 +448,6 @@
       "commentCount": "0"
     },
     "FetchedAt": "2026-09-30T17:20:51.4964815+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49909610"
-    },
-    "Type": 1,
-    "Title": "SDF Public Access Unix System ... est. 1987",
-    "Url": "https://sdf.org/",
-    "Description": "SDF Public Access Unix System ... est. 1987",
-    "Metadata": {
-      "score": "21",
-      "author": "kmstout",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-09-30T17:20:51.5282528+00:00"
   },
   {
     "ExternalId": {
@@ -568,21 +478,6 @@
       "commentCount": "338"
     },
     "FetchedAt": "2026-09-30T17:20:51.5875428+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49909056"
-    },
-    "Type": 1,
-    "Title": "What TLA\u002B can and can\u0027t check",
-    "Url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
-    "Description": "What TLA\u002B can and can\u0027t check",
-    "Metadata": {
-      "score": "17",
-      "author": "b-man",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-09-30T17:20:51.6152883+00:00"
   },
   {
     "ExternalId": {
@@ -721,21 +616,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49882754"
-    },
-    "Type": 1,
-    "Title": "Burning Man Death Rates \u2013 A Short Lesson in Statistics",
-    "Url": "https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson",
-    "Description": "Burning Man Death Rates \u2013 A Short Lesson in Statistics",
-    "Metadata": {
-      "score": "12",
-      "author": "viraj_shah",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-09-30T17:20:51.9014608+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49899090"
     },
     "Type": 1,
@@ -853,5 +733,455 @@
       "commentCount": "38"
     },
     "FetchedAt": "2026-09-30T17:20:52.1295737+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49913571"
+    },
+    "Type": 1,
+    "Title": "Gemini 4 Argon",
+    "Url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+    "Description": "Gemini 4 Argon",
+    "Metadata": {
+      "score": "605",
+      "author": "bradleyg223",
+      "commentCount": "371"
+    },
+    "FetchedAt": "2026-09-30T21:43:13.4151959+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49912955"
+    },
+    "Type": 1,
+    "Title": "Surprisingly Complex Waves Reveal the Brain\u0027s Inner Workings",
+    "Url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+    "Description": "Surprisingly Complex Waves Reveal the Brain\u0027s Inner Workings",
+    "Metadata": {
+      "score": "68",
+      "author": "ibobev",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-09-30T21:43:13.4491118+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49913192"
+    },
+    "Type": 1,
+    "Title": "EDG C\u002B\u002B front-end goes public",
+    "Url": "https://edgcpp.org/#transition",
+    "Description": "EDG C\u002B\u002B front-end goes public",
+    "Metadata": {
+      "score": "81",
+      "author": "iandinwoodie",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-09-30T21:43:13.7577564+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49914236"
+    },
+    "Type": 1,
+    "Title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+    "Url": "https://artificialanalysis.ai/models/gemini-4-argon",
+    "Description": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+    "Metadata": {
+      "score": "20",
+      "author": "theanonymousone",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-09-30T21:43:13.8074006+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49911995"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Magnitude (YC S25) \u2013 Self-optimizing inference engine for agents",
+    "Url": "https://github.com/magnitudedev/magnitude",
+    "Description": "Hey HN, Anders and Tom here. We\u0026#x27;re building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp.\u003Cp\u003EWe\u0026#x27;re both software engineers and previously built an open source browser agent to 4k\u002B GH stars and 100k\u002B downloads. We increasingly wanted to run it on local models, but found that no inference engine worked for our use case.\u003Cp\u003EInference engin",
+    "Metadata": {
+      "score": "98",
+      "author": "anerli",
+      "commentCount": "43"
+    },
+    "FetchedAt": "2026-09-30T21:43:13.8419979+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49912444"
+    },
+    "Type": 1,
+    "Title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+    "Url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+    "Description": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+    "Metadata": {
+      "score": "68",
+      "author": "jbott",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-09-30T21:43:13.8745128+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49913350"
+    },
+    "Type": 1,
+    "Title": "Halfspace experimental IDE for solid modeling with distance fields",
+    "Url": "https://www.mattkeeter.com/projects/halfspace/",
+    "Description": "Halfspace experimental IDE for solid modeling with distance fields",
+    "Metadata": {
+      "score": "32",
+      "author": "luu",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-09-30T21:43:13.9113812+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49909583"
+    },
+    "Type": 1,
+    "Title": "A brief history of the Bloomberg terminal",
+    "Url": "https://spectrum.ieee.org/bloomberg-terminal",
+    "Description": "A brief history of the Bloomberg terminal",
+    "Metadata": {
+      "score": "188",
+      "author": "rbanffy",
+      "commentCount": "74"
+    },
+    "FetchedAt": "2026-09-30T21:43:13.9438676+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49906637"
+    },
+    "Type": 1,
+    "Title": "You said no MCP",
+    "Url": "https://earendil.com/posts/you-said-no-mcp/",
+    "Description": "You said no MCP",
+    "Metadata": {
+      "score": "561",
+      "author": "yarapavan",
+      "commentCount": "323"
+    },
+    "FetchedAt": "2026-09-30T21:43:13.9764615+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49883970"
+    },
+    "Type": 1,
+    "Title": "I could\u0027ve accessed 17T Microsoft records",
+    "Url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
+    "Description": "I could\u0027ve accessed 17T Microsoft records",
+    "Metadata": {
+      "score": "223",
+      "author": "luispa",
+      "commentCount": "96"
+    },
+    "FetchedAt": "2026-09-30T21:43:14.01061+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49913975"
+    },
+    "Type": 1,
+    "Title": "Gitea 28.0",
+    "Url": "https://blog.gitea.com/release-of-28.0.0/",
+    "Description": "Gitea 28.0",
+    "Metadata": {
+      "score": "37",
+      "author": "porridgeraisin",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-09-30T21:43:14.0428657+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49908394"
+    },
+    "Type": 1,
+    "Title": "The last time my family was replaced by technology",
+    "Url": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+    "Description": "The last time my family was replaced by technology",
+    "Metadata": {
+      "score": "146",
+      "author": "megalomanu",
+      "commentCount": "342"
+    },
+    "FetchedAt": "2026-09-30T21:43:14.0753251+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49913604"
+    },
+    "Type": 1,
+    "Title": "Functional Ultrasound Imaging (fUSI) from scratch",
+    "Url": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
+    "Description": "Functional Ultrasound Imaging (fUSI) from scratch",
+    "Metadata": {
+      "score": "7",
+      "author": "pminimax",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-30T21:43:14.1078363+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49911534"
+    },
+    "Type": 1,
+    "Title": "Great Dirhombicosidodecahedron (\u0022Miller\u0027s Monster\u0022)",
+    "Url": "https://www.software3d.com/MillersMonster.php",
+    "Description": "Great Dirhombicosidodecahedron (\u0022Miller\u0027s Monster\u0022)",
+    "Metadata": {
+      "score": "7",
+      "author": "cobbzilla",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-30T21:43:14.1404778+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49909056"
+    },
+    "Type": 1,
+    "Title": "What TLA\u002B can and can\u0027t check",
+    "Url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+    "Description": "What TLA\u002B can and can\u0027t check",
+    "Metadata": {
+      "score": "109",
+      "author": "b-man",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-09-30T21:43:14.1733514+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49911531"
+    },
+    "Type": 1,
+    "Title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+    "Url": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
+    "Description": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+    "Metadata": {
+      "score": "1",
+      "author": "rooppal",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-30T21:43:14.2258536+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49912048"
+    },
+    "Type": 1,
+    "Title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
+    "Url": "https://www.chompiclub.com/opensource",
+    "Description": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
+    "Metadata": {
+      "score": "8",
+      "author": "lashkari",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-09-30T21:43:14.3049138+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49912792"
+    },
+    "Type": 1,
+    "Title": "Before pixels: Modular industrial dashboards",
+    "Url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
+    "Description": "Before pixels: Modular industrial dashboards",
+    "Metadata": {
+      "score": "12",
+      "author": "leephillips",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-09-30T21:43:14.3561039+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49905644"
+    },
+    "Type": 1,
+    "Title": "Doing a Machine Learning PhD While Working in Japan",
+    "Url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
+    "Description": "Doing a Machine Learning PhD While Working in Japan",
+    "Metadata": {
+      "score": "7",
+      "author": "pwim",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-09-30T21:43:14.4057807+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49906432"
+    },
+    "Type": 1,
+    "Title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+    "Url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
+    "Description": "Related: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.bbc.com\u0026#x2F;news\u0026#x2F;articles\u0026#x2F;cqzjzr893yv4o\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.bbc.com\u0026#x2F;news\u0026#x2F;articles\u0026#x2F;cqzjzr893yv4o\u003C/a\u003E",
+    "Metadata": {
+      "score": "46",
+      "author": "rzk",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-09-30T21:43:14.444943+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49911757"
+    },
+    "Type": 1,
+    "Title": "Commit description as a thinking tool",
+    "Url": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
+    "Description": "Commit description as a thinking tool",
+    "Metadata": {
+      "score": "100",
+      "author": "yedhukrishnan",
+      "commentCount": "58"
+    },
+    "FetchedAt": "2026-09-30T21:43:14.4877792+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49882754"
+    },
+    "Type": 1,
+    "Title": "Burning Man death rates \u2013 A short lesson in statistics",
+    "Url": "https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson",
+    "Description": "Burning Man death rates \u2013 A short lesson in statistics",
+    "Metadata": {
+      "score": "81",
+      "author": "viraj_shah",
+      "commentCount": "100"
+    },
+    "FetchedAt": "2026-09-30T21:43:14.551149+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49908962"
+    },
+    "Type": 1,
+    "Title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+    "Url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+    "Description": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+    "Metadata": {
+      "score": "117",
+      "author": "ibobev",
+      "commentCount": "47"
+    },
+    "FetchedAt": "2026-09-30T21:43:14.6017101+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49913458"
+    },
+    "Type": 1,
+    "Title": "CS240 AI Cheating Retrospective",
+    "Url": "https://turkeyland.net/thoughts/ai.php",
+    "Description": "CS240 AI Cheating Retrospective",
+    "Metadata": {
+      "score": "18",
+      "author": "ArchAndStarch",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-09-30T21:43:14.6351587+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49907802"
+    },
+    "Type": 1,
+    "Title": "Dumb servers, smart clients: Distributing OS images with Quarry",
+    "Url": "https://amutable.com/blog/distributing-images-quarry",
+    "Description": "Dumb servers, smart clients: Distributing OS images with Quarry",
+    "Metadata": {
+      "score": "12",
+      "author": "Levitating",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-09-30T21:43:14.6722514+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49903713"
+    },
+    "Type": 1,
+    "Title": "Responsible Release of AI-Generated Mathematics",
+    "Url": "https://agmai.org/general-sep29/",
+    "Description": "Responsible Release of AI-Generated Mathematics",
+    "Metadata": {
+      "score": "56",
+      "author": "aureianimus",
+      "commentCount": "58"
+    },
+    "FetchedAt": "2026-09-30T21:43:14.7049953+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49912094"
+    },
+    "Type": 1,
+    "Title": "Recursive \u0060make\u0060 and \u0060-j\u0060",
+    "Url": "https://quuxplusone.github.io/blog/2026/09/30/recursive-make-j/",
+    "Description": "Recursive \u0060make\u0060 and \u0060-j\u0060",
+    "Metadata": {
+      "score": "11",
+      "author": "ibobev",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-09-30T21:43:14.7384497+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49893909"
+    },
+    "Type": 1,
+    "Title": "Understanding the Dual Polytope for Hull Simplification",
+    "Url": "https://cairnc.github.io/posts/understanding-the-dual-polytope/",
+    "Description": "Understanding the Dual Polytope for Hull Simplification",
+    "Metadata": {
+      "score": "12",
+      "author": "OlympicMarmoto",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-09-30T21:43:14.772764+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49909610"
+    },
+    "Type": 1,
+    "Title": "SDF Public Access Unix System ... est. 1987",
+    "Url": "https://sdf.org/",
+    "Description": "SDF Public Access Unix System ... est. 1987",
+    "Metadata": {
+      "score": "70",
+      "author": "kmstout",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-09-30T21:43:14.805915+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49913255"
+    },
+    "Type": 1,
+    "Title": "America.gov goes crazy on \u0022play Minecraft\u0022",
+    "Url": "https://america.gov/chat",
+    "Description": "America.gov goes crazy on \u0022play Minecraft\u0022",
+    "Metadata": {
+      "score": "91",
+      "author": "thoughtfullyso",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-09-30T21:43:14.8388447+00:00"
   }
 ]
