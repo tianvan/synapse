@@ -181,51 +181,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49920160"
-    },
-    "Type": 1,
-    "Title": "StreetComplete on iOS is now in public beta",
-    "Url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
-    "Description": "StreetComplete on iOS is now in public beta",
-    "Metadata": {
-      "score": "74",
-      "author": "Snowly",
-      "commentCount": "12"
-    },
-    "FetchedAt": "2026-10-01T12:09:42.4130023+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49906100"
-    },
-    "Type": 1,
-    "Title": "OpenDLSS: A Vulkan Reimplementation of Nvidia\u0027s DLSS 5 Neural Rendering Network",
-    "Url": "https://github.com/maanHimself/OpenDLSS-NR",
-    "Description": "OpenDLSS: A Vulkan Reimplementation of Nvidia\u0027s DLSS 5 Neural Rendering Network",
-    "Metadata": {
-      "score": "125",
-      "author": "sagacity",
-      "commentCount": "69"
-    },
-    "FetchedAt": "2026-10-01T12:09:42.445947+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49919910"
-    },
-    "Type": 1,
-    "Title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-    "Url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-    "Description": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-    "Metadata": {
-      "score": "43",
-      "author": "giuliomagnifico",
-      "commentCount": "12"
-    },
-    "FetchedAt": "2026-10-01T12:09:42.4802335+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49913571"
     },
     "Type": 1,
@@ -283,21 +238,6 @@
       "commentCount": "113"
     },
     "FetchedAt": "2026-10-01T12:09:42.6169+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49919680"
-    },
-    "Type": 1,
-    "Title": "Truemetrics (YC S23) Is Hiring a GTM Founder\u0027s Associate",
-    "Url": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
-    "Description": "Truemetrics (YC S23) Is Hiring a GTM Founder\u0027s Associate",
-    "Metadata": {
-      "score": "1",
-      "author": "truemetricsIngo",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-10-01T12:09:42.6504083+00:00"
   },
   {
     "ExternalId": {
@@ -628,5 +568,455 @@
       "commentCount": "19"
     },
     "FetchedAt": "2026-10-01T12:09:43.3965288+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49926069"
+    },
+    "Type": 1,
+    "Title": "Pi 1.0",
+    "Url": "https://earendil.com/posts/pi-1-0/",
+    "Description": "Pi 1.0",
+    "Metadata": {
+      "score": "472",
+      "author": "sergiotapia",
+      "commentCount": "162"
+    },
+    "FetchedAt": "2026-10-01T22:11:20.5017467+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49927100"
+    },
+    "Type": 1,
+    "Title": "The death of web development education",
+    "Url": "https://molily.de/web-dev-education/",
+    "Description": "The death of web development education",
+    "Metadata": {
+      "score": "53",
+      "author": "ibobev",
+      "commentCount": "40"
+    },
+    "FetchedAt": "2026-10-01T22:11:20.5323058+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49923692"
+    },
+    "Type": 1,
+    "Title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+    "Url": "https://blog.cloudflare.com/clef-decision-models/",
+    "Description": "Clef: Open-source decision models, and new RL fine-tuning platform",
+    "Metadata": {
+      "score": "362",
+      "author": "jasondavies",
+      "commentCount": "143"
+    },
+    "FetchedAt": "2026-10-01T22:11:20.5627984+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49926628"
+    },
+    "Type": 1,
+    "Title": "Car Is a Smartphone on Wheels. Here\u0027s Who\u0027s Listening",
+    "Url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+    "Description": "Car Is a Smartphone on Wheels. Here\u0027s Who\u0027s Listening",
+    "Metadata": {
+      "score": "96",
+      "author": "rafaelc",
+      "commentCount": "80"
+    },
+    "FetchedAt": "2026-10-01T22:11:20.5932553+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49926773"
+    },
+    "Type": 1,
+    "Title": "Show HN: Janus \u2013 Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+    "Url": "https://github.com/Vibra-Ingenn/Janus",
+    "Description": "Show HN: Janus \u2013 Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+    "Metadata": {
+      "score": "25",
+      "author": "Maverick617",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-10-01T22:11:20.6246657+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49925969"
+    },
+    "Type": 1,
+    "Title": "Pi Durable",
+    "Url": "https://earendil.com/posts/pi-durable/",
+    "Description": "Pi Durable",
+    "Metadata": {
+      "score": "129",
+      "author": "paulsmith",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-10-01T22:11:20.6563727+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49922569"
+    },
+    "Type": 1,
+    "Title": "Ask HN: Who is hiring? (October 2026)",
+    "Url": "https://news.ycombinator.com/item?id=49922569",
+    "Description": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is \u003Ci\u003Enot\u003C/i\u003E an option.\u003Cp\u003EPlease only post if you personally are part of the hiring company\u2014no\nrecruiting firms or job boards. One post per company. If it isn\u0026#x27;t a household name,\nexplain what your company does.\u003Cp\u003EPlease only post if you are actively filling a position and are committed\nto replying to applicants.\u003Cp\u003ECommenters: please don\u0026#x27;t reply",
+    "Metadata": {
+      "score": "126",
+      "author": "whoishiring",
+      "commentCount": "129"
+    },
+    "FetchedAt": "2026-10-01T22:11:20.6874232+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49925742"
+    },
+    "Type": 1,
+    "Title": "Oxygen-deprived underwater zones may not be \u0022dead zones\u0022 but clue to early life",
+    "Url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
+    "Description": "Oxygen-deprived underwater zones may not be \u0022dead zones\u0022 but clue to early life",
+    "Metadata": {
+      "score": "53",
+      "author": "gumby",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-10-01T22:11:20.7195135+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49923466"
+    },
+    "Type": 1,
+    "Title": "RIP, vector database",
+    "Url": "https://turbopuffer.com/blog/rip-vector-database",
+    "Description": "RIP, vector database",
+    "Metadata": {
+      "score": "243",
+      "author": "razin",
+      "commentCount": "63"
+    },
+    "FetchedAt": "2026-10-01T22:11:20.7509246+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49920160"
+    },
+    "Type": 1,
+    "Title": "StreetComplete on iOS is now in public beta",
+    "Url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+    "Description": "StreetComplete on iOS is now in public beta",
+    "Metadata": {
+      "score": "490",
+      "author": "Snowly",
+      "commentCount": "109"
+    },
+    "FetchedAt": "2026-10-01T22:11:20.7816027+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49926512"
+    },
+    "Type": 1,
+    "Title": "ArXiv\u0027s Updated Rate Limit Policy",
+    "Url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
+    "Description": "ArXiv\u0027s Updated Rate Limit Policy",
+    "Metadata": {
+      "score": "32",
+      "author": "50kIters",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-10-01T22:11:20.8140304+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49927212"
+    },
+    "Type": 1,
+    "Title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+    "Url": "https://www.cssbed.com",
+    "Description": "CSS Bed: Classless CSS themes to use as starting points in web development",
+    "Metadata": {
+      "score": "13",
+      "author": "sea-gold",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-10-01T22:11:20.8457244+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49925036"
+    },
+    "Type": 1,
+    "Title": "Bez: Generating a browser engine from specs and tests",
+    "Url": "https://tangled.org/burrito.space/bez",
+    "Description": "Bez: Generating a browser engine from specs and tests",
+    "Metadata": {
+      "score": "74",
+      "author": "nerdypepper",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-10-01T22:11:20.8771209+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49922674"
+    },
+    "Type": 1,
+    "Title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+    "Url": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
+    "Description": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+    "Metadata": {
+      "score": "136",
+      "author": "nkw",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-10-01T22:11:20.9077219+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49922515"
+    },
+    "Type": 1,
+    "Title": "RacketCon Is Saturday",
+    "Url": "https://con.racket-lang.org/",
+    "Description": "RacketCon Is Saturday",
+    "Metadata": {
+      "score": "117",
+      "author": "spdegabrielle",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-10-01T22:11:20.938641+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49911500"
+    },
+    "Type": 1,
+    "Title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
+    "Url": "https://news.ycombinator.com/item?id=49911500",
+    "Description": "A few months ago we started building a model router for coding agents because we thought we could outperform any single model with an ensemble approach. Recently we\u2019ve achieved that milestone and I want to talk about how we did it.\u003Cp\u003EFirst of all, a quick explanation: the Weave Router (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;weave-os\u0026#x2F;router\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;weave-os\u0026#x2F;router\u003C/a\u003E) plugs into any coding agent (e.g. Claude Code or Codex) and intelligently",
+    "Metadata": {
+      "score": "66",
+      "author": "adchurch",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-10-01T22:11:20.9696935+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49926726"
+    },
+    "Type": 1,
+    "Title": "Show HN: Rhun, an open-source code editor written in assembly",
+    "Url": "https://rhun.app/",
+    "Description": "I found that I\u0026#x27;m not using even 1\u0026#x2F;3 of vim\u0026#x2F;vscode features anymore.\u003Cp\u003EThat\u0026#x27;s wht I\u0026#x27;m building rhun - a small code editor for Linux, Windows and Apple silicon Macs. It obviously has Vim mode, a terminal, Git diffs and a panel for Claude Code or Codex sessions.\u003Cp\u003EThe editor and pixel renderer share an x86-64 assembly core. For Apple silicon, a build-time translator converts that core to AArch64, with separate platform adapters around it.\nThe latest release can draft commit",
+    "Metadata": {
+      "score": "11",
+      "author": "vladcodes",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-10-01T22:11:21.0013473+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49921923"
+    },
+    "Type": 1,
+    "Title": "Cloudflare K2: serverless event streams",
+    "Url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+    "Description": "Cloudflare K2: serverless event streams",
+    "Metadata": {
+      "score": "168",
+      "author": "elffjs",
+      "commentCount": "72"
+    },
+    "FetchedAt": "2026-10-01T22:11:21.033657+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49920896"
+    },
+    "Type": 1,
+    "Title": "How to speed up the Rust compiler in September 2026",
+    "Url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+    "Description": "How to speed up the Rust compiler in September 2026",
+    "Metadata": {
+      "score": "218",
+      "author": "trickypr",
+      "commentCount": "107"
+    },
+    "FetchedAt": "2026-10-01T22:11:21.0646021+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49922568"
+    },
+    "Type": 1,
+    "Title": "Ask HN: Who wants to be hired? (October 2026)",
+    "Url": "https://news.ycombinator.com/item?id=49922568",
+    "Description": "Share your information if you are looking for work. Please use this format:\u003Cp\u003E\u003Cpre\u003E\u003Ccode\u003E  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  R\u00E9sum\u00E9\u0026#x2F;CV:\n  Email:\n\u003C/code\u003E\u003C/pre\u003E\nPlease only post if you are personally looking for work. Agencies, recruiters, job boards,\nand so on, are off topic here.\u003Cp\u003EReaders: please only email these addresses to discuss work opportunities.\u003Cp\u003ESearchers: try \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;nthesis.ai\u0026#x2F;public\u0026#x2F;hn-wants-to-be-hired\u0022 rel=\u0022nofollow\u0022\u003Eht",
+    "Metadata": {
+      "score": "75",
+      "author": "whoishiring",
+      "commentCount": "251"
+    },
+    "FetchedAt": "2026-10-01T22:11:21.0985418+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49926536"
+    },
+    "Type": 1,
+    "Title": "SvelteKit 3 Is Here",
+    "Url": "https://svelte.dev/blog/sveltekit-3-is-here",
+    "Description": "SvelteKit 3 Is Here",
+    "Metadata": {
+      "score": "15",
+      "author": "sampsn",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-10-01T22:11:21.1300468+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49922437"
+    },
+    "Type": 1,
+    "Title": "Context Language Models",
+    "Url": "https://arxiv.org/abs/2609.37725",
+    "Description": "Context Language Models",
+    "Metadata": {
+      "score": "88",
+      "author": "emersonmacro",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-10-01T22:11:21.1609075+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49927392"
+    },
+    "Type": 1,
+    "Title": "OpenRadioss is not open anymore",
+    "Url": "https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radioss/rd/",
+    "Description": "OpenRadioss is not open anymore",
+    "Metadata": {
+      "score": "7",
+      "author": "hdrz",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-10-01T22:11:21.1930346+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49923638"
+    },
+    "Type": 1,
+    "Title": "Lightweight PDF parser with layout, tables, formulas and bounding boxes",
+    "Url": "https://github.com/beatrizalmeidaf/papero-pdf-text-extractor",
+    "Description": "Lightweight PDF parser with layout, tables, formulas and bounding boxes",
+    "Metadata": {
+      "score": "61",
+      "author": "beatrizalmeidaf",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-10-01T22:11:21.2247632+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49919910"
+    },
+    "Type": 1,
+    "Title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+    "Url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+    "Description": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+    "Metadata": {
+      "score": "156",
+      "author": "giuliomagnifico",
+      "commentCount": "91"
+    },
+    "FetchedAt": "2026-10-01T22:11:21.2552563+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49922594"
+    },
+    "Type": 1,
+    "Title": "Polyedergarten: Garden of Paper Polyhedron Models",
+    "Url": "https://www.polyedergarten.de/e_index.htm",
+    "Description": "Polyedergarten: Garden of Paper Polyhedron Models",
+    "Metadata": {
+      "score": "45",
+      "author": "isaacimagine",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-10-01T22:11:21.2867526+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49925812"
+    },
+    "Type": 1,
+    "Title": "Effect 4.0",
+    "Url": "https://effect.website/blog/releases/effect/40",
+    "Description": "Effect 4.0",
+    "Metadata": {
+      "score": "20",
+      "author": "stevefan1999",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-10-01T22:11:21.318019+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49922736"
+    },
+    "Type": 1,
+    "Title": "Identity Management for Agentic AI [pdf] (2025)",
+    "Url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+    "Description": "Identity Management for Agentic AI [pdf] (2025)",
+    "Metadata": {
+      "score": "64",
+      "author": "cgeier",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-10-01T22:11:21.3483205+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49906100"
+    },
+    "Type": 1,
+    "Title": "OpenDLSS: A Vulkan Reimplementation of Nvidia\u0027s DLSS 5 Neural Rendering Network",
+    "Url": "https://github.com/maanHimself/OpenDLSS-NR",
+    "Description": "OpenDLSS: A Vulkan Reimplementation of Nvidia\u0027s DLSS 5 Neural Rendering Network",
+    "Metadata": {
+      "score": "241",
+      "author": "sagacity",
+      "commentCount": "111"
+    },
+    "FetchedAt": "2026-10-01T22:11:21.3812584+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49919680"
+    },
+    "Type": 1,
+    "Title": "Truemetrics (YC S23) Is Hiring a GTM Founder\u0027s Associate",
+    "Url": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
+    "Description": "Truemetrics (YC S23) Is Hiring a GTM Founder\u0027s Associate",
+    "Metadata": {
+      "score": "1",
+      "author": "truemetricsIngo",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-01T22:11:21.4118603+00:00"
   }
 ]
