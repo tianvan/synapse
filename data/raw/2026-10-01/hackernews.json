@@ -1,21 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:49913571"
-    },
-    "Type": 1,
-    "Title": "Gemini 4 Argon",
-    "Url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-    "Description": "See also: \u003Ci\u003EGemini 4 Argon (High): Intelligence, Performance and Price Analysis\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=49914236\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=49914236\u003C/a\u003E",
-    "Metadata": {
-      "score": "1069",
-      "author": "bradleyg223",
-      "commentCount": "718"
-    },
-    "FetchedAt": "2026-10-01T03:24:05.2380262+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49917089"
     },
     "Type": 1,
@@ -28,66 +13,6 @@
       "commentCount": "22"
     },
     "FetchedAt": "2026-10-01T03:24:05.2884064+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49915082"
-    },
-    "Type": 1,
-    "Title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-    "Url": "https://www.thespacereview.com/article/4951/1",
-    "Description": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-    "Metadata": {
-      "score": "147",
-      "author": "Bluestein",
-      "commentCount": "61"
-    },
-    "FetchedAt": "2026-10-01T03:24:05.3383757+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49915126"
-    },
-    "Type": 1,
-    "Title": "56k.rip \u2013 the 1996 dial-up internet experience",
-    "Url": "https://56k.rip/",
-    "Description": "56k.rip \u2013 the 1996 dial-up internet experience",
-    "Metadata": {
-      "score": "88",
-      "author": "adunk",
-      "commentCount": "52"
-    },
-    "FetchedAt": "2026-10-01T03:24:05.3887158+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49890732"
-    },
-    "Type": 1,
-    "Title": "Why the Bronze Age Collapsed",
-    "Url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
-    "Description": "Why the Bronze Age Collapsed",
-    "Metadata": {
-      "score": "109",
-      "author": "AnodicElegy",
-      "commentCount": "63"
-    },
-    "FetchedAt": "2026-10-01T03:24:05.4385941+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49912955"
-    },
-    "Type": 1,
-    "Title": "Surprisingly complex waves reveal the brain\u0027s inner workings",
-    "Url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-    "Description": "Surprisingly complex waves reveal the brain\u0027s inner workings",
-    "Metadata": {
-      "score": "135",
-      "author": "ibobev",
-      "commentCount": "42"
-    },
-    "FetchedAt": "2026-10-01T03:24:05.4877157+00:00"
   },
   {
     "ExternalId": {
@@ -106,36 +31,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49913192"
-    },
-    "Type": 1,
-    "Title": "EDG C\u002B\u002B front-end goes public",
-    "Url": "https://edgcpp.org/#transition",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;edgcpp\u0026#x2F;compiler\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;edgcpp\u0026#x2F;compiler\u003C/a\u003E",
-    "Metadata": {
-      "score": "165",
-      "author": "iandinwoodie",
-      "commentCount": "78"
-    },
-    "FetchedAt": "2026-10-01T03:24:05.5860838+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49911995"
-    },
-    "Type": 1,
-    "Title": "Launch HN: Magnitude (YC S25) \u2013 Self-optimizing inference engine for agents",
-    "Url": "https://github.com/magnitudedev/magnitude",
-    "Description": "Hey HN, Anders and Tom here. We\u0026#x27;re building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp.\u003Cp\u003EWe\u0026#x27;re both software engineers and previously built an open source browser agent to 4k\u002B GH stars and 100k\u002B downloads. We increasingly wanted to run it on local models, but found that no inference engine worked for our use case.\u003Cp\u003EInference engin",
-    "Metadata": {
-      "score": "131",
-      "author": "anerli",
-      "commentCount": "60"
-    },
-    "FetchedAt": "2026-10-01T03:24:05.6374416+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49906432"
     },
     "Type": 1,
@@ -148,51 +43,6 @@
       "commentCount": "187"
     },
     "FetchedAt": "2026-10-01T03:24:05.6875132+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49913350"
-    },
-    "Type": 1,
-    "Title": "Halfspace experimental IDE for solid modeling with distance fields",
-    "Url": "https://www.mattkeeter.com/projects/halfspace/",
-    "Description": "Halfspace experimental IDE for solid modeling with distance fields",
-    "Metadata": {
-      "score": "87",
-      "author": "luu",
-      "commentCount": "7"
-    },
-    "FetchedAt": "2026-10-01T03:24:05.7372177+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49912444"
-    },
-    "Type": 1,
-    "Title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-    "Url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
-    "Description": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-    "Metadata": {
-      "score": "128",
-      "author": "jbott",
-      "commentCount": "50"
-    },
-    "FetchedAt": "2026-10-01T03:24:05.7860978+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49909583"
-    },
-    "Type": 1,
-    "Title": "A brief history of the Bloomberg terminal",
-    "Url": "https://spectrum.ieee.org/bloomberg-terminal",
-    "Description": "A brief history of the Bloomberg terminal",
-    "Metadata": {
-      "score": "234",
-      "author": "rbanffy",
-      "commentCount": "96"
-    },
-    "FetchedAt": "2026-10-01T03:24:05.8355169+00:00"
   },
   {
     "ExternalId": {
@@ -211,21 +61,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49912792"
-    },
-    "Type": 1,
-    "Title": "Before pixels: Modular industrial dashboards",
-    "Url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
-    "Description": "Before pixels: Modular industrial dashboards",
-    "Metadata": {
-      "score": "60",
-      "author": "leephillips",
-      "commentCount": "13"
-    },
-    "FetchedAt": "2026-10-01T03:24:05.9332391+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49916955"
     },
     "Type": 1,
@@ -238,21 +73,6 @@
       "commentCount": "1"
     },
     "FetchedAt": "2026-10-01T03:24:05.9839083+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49912048"
-    },
-    "Type": 1,
-    "Title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
-    "Url": "https://www.chompiclub.com/opensource",
-    "Description": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
-    "Metadata": {
-      "score": "50",
-      "author": "lashkari",
-      "commentCount": "10"
-    },
-    "FetchedAt": "2026-10-01T03:24:06.0331927+00:00"
   },
   {
     "ExternalId": {
@@ -301,36 +121,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49909056"
-    },
-    "Type": 1,
-    "Title": "What TLA\u002B can and can\u0027t check",
-    "Url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
-    "Description": "What TLA\u002B can and can\u0027t check",
-    "Metadata": {
-      "score": "150",
-      "author": "b-man",
-      "commentCount": "33"
-    },
-    "FetchedAt": "2026-10-01T03:24:06.2521394+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49905644"
-    },
-    "Type": 1,
-    "Title": "Doing a Machine Learning PhD While Working in Japan",
-    "Url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
-    "Description": "Doing a Machine Learning PhD While Working in Japan",
-    "Metadata": {
-      "score": "52",
-      "author": "pwim",
-      "commentCount": "20"
-    },
-    "FetchedAt": "2026-10-01T03:24:06.3013739+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49911534"
     },
     "Type": 1,
@@ -343,36 +133,6 @@
       "commentCount": "3"
     },
     "FetchedAt": "2026-10-01T03:24:06.3503285+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49908394"
-    },
-    "Type": 1,
-    "Title": "The last time my family was replaced by technology",
-    "Url": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
-    "Description": "The last time my family was replaced by technology",
-    "Metadata": {
-      "score": "191",
-      "author": "megalomanu",
-      "commentCount": "440"
-    },
-    "FetchedAt": "2026-10-01T03:24:06.398974+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49909908"
-    },
-    "Type": 1,
-    "Title": "Coltrane\u0027s Tone Circle",
-    "Url": "https://jtomschroeder.com/blog/tone-circle/",
-    "Description": "Coltrane\u0027s Tone Circle",
-    "Metadata": {
-      "score": "37",
-      "author": "jtomschroeder",
-      "commentCount": "15"
-    },
-    "FetchedAt": "2026-10-01T03:24:06.44712+00:00"
   },
   {
     "ExternalId": {
@@ -406,21 +166,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49882754"
-    },
-    "Type": 1,
-    "Title": "Burning Man death rates \u2013 A short lesson in statistics",
-    "Url": "https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson",
-    "Description": "Burning Man death rates \u2013 A short lesson in statistics",
-    "Metadata": {
-      "score": "109",
-      "author": "viraj_shah",
-      "commentCount": "136"
-    },
-    "FetchedAt": "2026-10-01T03:24:06.5954194+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49913604"
     },
     "Type": 1,
@@ -436,6 +181,381 @@
   },
   {
     "ExternalId": {
+      "Value": "hn:49920160"
+    },
+    "Type": 1,
+    "Title": "StreetComplete on iOS is now in public beta",
+    "Url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+    "Description": "StreetComplete on iOS is now in public beta",
+    "Metadata": {
+      "score": "74",
+      "author": "Snowly",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-10-01T12:09:42.4130023+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49906100"
+    },
+    "Type": 1,
+    "Title": "OpenDLSS: A Vulkan Reimplementation of Nvidia\u0027s DLSS 5 Neural Rendering Network",
+    "Url": "https://github.com/maanHimself/OpenDLSS-NR",
+    "Description": "OpenDLSS: A Vulkan Reimplementation of Nvidia\u0027s DLSS 5 Neural Rendering Network",
+    "Metadata": {
+      "score": "125",
+      "author": "sagacity",
+      "commentCount": "69"
+    },
+    "FetchedAt": "2026-10-01T12:09:42.445947+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49919910"
+    },
+    "Type": 1,
+    "Title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+    "Url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+    "Description": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+    "Metadata": {
+      "score": "43",
+      "author": "giuliomagnifico",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-10-01T12:09:42.4802335+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49913571"
+    },
+    "Type": 1,
+    "Title": "Gemini 4 Argon",
+    "Url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+    "Description": "See also: \u003Ci\u003EGemini 4 Argon (High): Intelligence, Performance and Price Analysis\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=49914236\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=49914236\u003C/a\u003E",
+    "Metadata": {
+      "score": "1449",
+      "author": "bradleyg223",
+      "commentCount": "953"
+    },
+    "FetchedAt": "2026-10-01T12:09:42.5139424+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49920234"
+    },
+    "Type": 1,
+    "Title": "Returning from vacation? The government can search your phone without a warrant",
+    "Url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+    "Description": "Returning from vacation? The government can search your phone without a warrant",
+    "Metadata": {
+      "score": "31",
+      "author": "rbanffy",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-10-01T12:09:42.5470736+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49894430"
+    },
+    "Type": 1,
+    "Title": "Book of Shapes \u2013 Collection of minimal, generative and customizable SVG-patterns",
+    "Url": "https://bookofshapes.com/",
+    "Description": "Book of Shapes \u2013 Collection of minimal, generative and customizable SVG-patterns",
+    "Metadata": {
+      "score": "103",
+      "author": "eustoria",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-10-01T12:09:42.5823055+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49915082"
+    },
+    "Type": 1,
+    "Title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+    "Url": "https://www.thespacereview.com/article/4951/1",
+    "Description": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+    "Metadata": {
+      "score": "243",
+      "author": "Bluestein",
+      "commentCount": "113"
+    },
+    "FetchedAt": "2026-10-01T12:09:42.6169+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49919680"
+    },
+    "Type": 1,
+    "Title": "Truemetrics (YC S23) Is Hiring a GTM Founder\u0027s Associate",
+    "Url": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
+    "Description": "Truemetrics (YC S23) Is Hiring a GTM Founder\u0027s Associate",
+    "Metadata": {
+      "score": "1",
+      "author": "truemetricsIngo",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-01T12:09:42.6504083+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49893519"
+    },
+    "Type": 1,
+    "Title": "Adding Floating-Point Decimals for Fun and Profit",
+    "Url": "https://blog.vero.site/post/float",
+    "Description": "Adding Floating-Point Decimals for Fun and Profit",
+    "Metadata": {
+      "score": "14",
+      "author": "ibobev",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-10-01T12:09:42.6850978+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49890732"
+    },
+    "Type": 1,
+    "Title": "Why the Bronze Age Collapsed",
+    "Url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+    "Description": "Why the Bronze Age Collapsed",
+    "Metadata": {
+      "score": "281",
+      "author": "AnodicElegy",
+      "commentCount": "183"
+    },
+    "FetchedAt": "2026-10-01T12:09:42.7197853+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49912792"
+    },
+    "Type": 1,
+    "Title": "Before pixels: Modular industrial dashboards",
+    "Url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
+    "Description": "Before pixels: Modular industrial dashboards",
+    "Metadata": {
+      "score": "188",
+      "author": "leephillips",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-10-01T12:09:42.7532543+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49912955"
+    },
+    "Type": 1,
+    "Title": "Surprisingly complex waves reveal the brain\u0027s inner workings",
+    "Url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+    "Description": "Surprisingly complex waves reveal the brain\u0027s inner workings",
+    "Metadata": {
+      "score": "201",
+      "author": "ibobev",
+      "commentCount": "78"
+    },
+    "FetchedAt": "2026-10-01T12:09:42.7878432+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49909583"
+    },
+    "Type": 1,
+    "Title": "A brief history of the Bloomberg terminal",
+    "Url": "https://spectrum.ieee.org/bloomberg-terminal",
+    "Description": "A brief history of the Bloomberg terminal",
+    "Metadata": {
+      "score": "311",
+      "author": "rbanffy",
+      "commentCount": "132"
+    },
+    "FetchedAt": "2026-10-01T12:09:42.8212244+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49911995"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Magnitude (YC S25) \u2013 Self-optimizing inference engine for agents",
+    "Url": "https://github.com/magnitudedev/magnitude",
+    "Description": "Hey HN, Anders and Tom here. We\u0026#x27;re building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp.\u003Cp\u003EWe\u0026#x27;re both software engineers and previously built an open source browser agent to 4k\u002B GH stars and 100k\u002B downloads. We increasingly wanted to run it on local models, but found that no inference engine worked for our use case.\u003Cp\u003EInference engin",
+    "Metadata": {
+      "score": "170",
+      "author": "anerli",
+      "commentCount": "85"
+    },
+    "FetchedAt": "2026-10-01T12:09:42.8547639+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49913350"
+    },
+    "Type": 1,
+    "Title": "Halfspace experimental IDE for solid modeling with distance fields",
+    "Url": "https://www.mattkeeter.com/projects/halfspace/",
+    "Description": "Halfspace experimental IDE for solid modeling with distance fields",
+    "Metadata": {
+      "score": "146",
+      "author": "luu",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-10-01T12:09:42.8913499+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49912444"
+    },
+    "Type": 1,
+    "Title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+    "Url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+    "Description": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+    "Metadata": {
+      "score": "186",
+      "author": "jbott",
+      "commentCount": "84"
+    },
+    "FetchedAt": "2026-10-01T12:09:42.9242443+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49902382"
+    },
+    "Type": 1,
+    "Title": "Show HN: Ledge.sh \u2013 Runnable Markdown Notes",
+    "Url": "https://ledge.sh",
+    "Description": "Hi HN,\u003Cp\u003ELedge is a Markdown notebook that runs shell commands, code, SQL, etc from inside your own notes.\u003Cp\u003EI built Ledge because I spend much of my day copy\u0026#x2F;pasting commands from my notes into the terminal. I was inspired by how much cmux helped me organize my terminals - but there was still a split brain between my notes and frequently run commands. I\u0026#x27;ve been daily-driving it for the past few weeks and use it for deploys, API calls, smoke tests, etc.\u003Cp\u003ELedge runs your real shell jus",
+    "Metadata": {
+      "score": "155",
+      "author": "dancablam",
+      "commentCount": "69"
+    },
+    "FetchedAt": "2026-10-01T12:09:42.9582108+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49908394"
+    },
+    "Type": 1,
+    "Title": "The last time my family was replaced by technology",
+    "Url": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+    "Description": "The last time my family was replaced by technology",
+    "Metadata": {
+      "score": "262",
+      "author": "megalomanu",
+      "commentCount": "541"
+    },
+    "FetchedAt": "2026-10-01T12:09:42.9913586+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49909056"
+    },
+    "Type": 1,
+    "Title": "What TLA\u002B can and can\u0027t check",
+    "Url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+    "Description": "What TLA\u002B can and can\u0027t check",
+    "Metadata": {
+      "score": "197",
+      "author": "b-man",
+      "commentCount": "43"
+    },
+    "FetchedAt": "2026-10-01T12:09:43.024571+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49912048"
+    },
+    "Type": 1,
+    "Title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
+    "Url": "https://www.chompiclub.com/opensource",
+    "Description": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
+    "Metadata": {
+      "score": "88",
+      "author": "lashkari",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-10-01T12:09:43.0575788+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49913192"
+    },
+    "Type": 1,
+    "Title": "EDG C\u002B\u002B front-end goes public",
+    "Url": "https://edgcpp.org/#transition",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;edgcpp\u0026#x2F;compiler\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;edgcpp\u0026#x2F;compiler\u003C/a\u003E",
+    "Metadata": {
+      "score": "227",
+      "author": "iandinwoodie",
+      "commentCount": "108"
+    },
+    "FetchedAt": "2026-10-01T12:09:43.0908725+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49906295"
+    },
+    "Type": 1,
+    "Title": "Jacques Barzun, Cultural historian and critic (1980)",
+    "Url": "https://www.csmonitor.com/1980/0717/071710.html",
+    "Description": "Jacques Barzun, Cultural historian and critic (1980)",
+    "Metadata": {
+      "score": "8",
+      "author": "Michelangelo11",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-10-01T12:09:43.1241171+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49915126"
+    },
+    "Type": 1,
+    "Title": "56k.rip \u2013 the 1996 dial-up internet experience",
+    "Url": "https://56k.rip/",
+    "Description": "56k.rip \u2013 the 1996 dial-up internet experience",
+    "Metadata": {
+      "score": "197",
+      "author": "adunk",
+      "commentCount": "84"
+    },
+    "FetchedAt": "2026-10-01T12:09:43.1597533+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49904314"
+    },
+    "Type": 1,
+    "Title": "LinkedIn Larpmaxxing",
+    "Url": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
+    "Description": "LinkedIn Larpmaxxing",
+    "Metadata": {
+      "score": "226",
+      "author": "BurnerBurner",
+      "commentCount": "186"
+    },
+    "FetchedAt": "2026-10-01T12:09:43.1935477+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49905644"
+    },
+    "Type": 1,
+    "Title": "Doing a Machine Learning PhD While Working in Japan",
+    "Url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
+    "Description": "Doing a Machine Learning PhD While Working in Japan",
+    "Metadata": {
+      "score": "107",
+      "author": "pwim",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-10-01T12:09:43.2271564+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "hn:49903713"
     },
     "Type": 1,
@@ -443,10 +563,70 @@
     "Url": "https://agmai.org/general-sep29/",
     "Description": "Responsible Release of AI-Generated Mathematics",
     "Metadata": {
-      "score": "81",
+      "score": "95",
       "author": "aureianimus",
-      "commentCount": "102"
+      "commentCount": "129"
     },
-    "FetchedAt": "2026-10-01T03:24:06.6936715+00:00"
+    "FetchedAt": "2026-10-01T12:09:43.2608229+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49895221"
+    },
+    "Type": 1,
+    "Title": "PlayBook: A Programmable Paper Notebook [video]",
+    "Url": "https://www.youtube.com/watch?v=GurWDZ8ENpA",
+    "Description": "PlayBook: A Programmable Paper Notebook [video]",
+    "Metadata": {
+      "score": "25",
+      "author": "surprisetalk",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-10-01T12:09:43.2943514+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49908449"
+    },
+    "Type": 1,
+    "Title": "Multi-connectivity for real-time streaming over Wi-Fi",
+    "Url": "https://nanoping.com/benchmarks/wifi-roaming",
+    "Description": "Multi-connectivity for real-time streaming over Wi-Fi",
+    "Metadata": {
+      "score": "8",
+      "author": "mortenvp",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-10-01T12:09:43.3280121+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49882754"
+    },
+    "Type": 1,
+    "Title": "Burning Man death rates \u2013 A short lesson in statistics",
+    "Url": "https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson",
+    "Description": "Burning Man death rates \u2013 A short lesson in statistics",
+    "Metadata": {
+      "score": "151",
+      "author": "viraj_shah",
+      "commentCount": "198"
+    },
+    "FetchedAt": "2026-10-01T12:09:43.3614651+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49909908"
+    },
+    "Type": 1,
+    "Title": "Coltrane\u0027s Tone Circle",
+    "Url": "https://jtomschroeder.com/blog/tone-circle/",
+    "Description": "Coltrane\u0027s Tone Circle",
+    "Metadata": {
+      "score": "70",
+      "author": "jtomschroeder",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-10-01T12:09:43.3965288+00:00"
   }
 ]
