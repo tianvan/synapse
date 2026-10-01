@@ -1,0 +1,452 @@
+[
+  {
+    "ExternalId": {
+      "Value": "hn:49913571"
+    },
+    "Type": 1,
+    "Title": "Gemini 4 Argon",
+    "Url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+    "Description": "See also: \u003Ci\u003EGemini 4 Argon (High): Intelligence, Performance and Price Analysis\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=49914236\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=49914236\u003C/a\u003E",
+    "Metadata": {
+      "score": "1069",
+      "author": "bradleyg223",
+      "commentCount": "718"
+    },
+    "FetchedAt": "2026-10-01T03:24:05.2380262+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49917089"
+    },
+    "Type": 1,
+    "Title": "California bans child marriage, a practice still legal in 32 US states",
+    "Url": "https://www.bbc.com/news/articles/c6rm9mnn0w3eo",
+    "Description": "California bans child marriage, a practice still legal in 32 US states",
+    "Metadata": {
+      "score": "40",
+      "author": "dabinat",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-10-01T03:24:05.2884064+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49915082"
+    },
+    "Type": 1,
+    "Title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+    "Url": "https://www.thespacereview.com/article/4951/1",
+    "Description": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+    "Metadata": {
+      "score": "147",
+      "author": "Bluestein",
+      "commentCount": "61"
+    },
+    "FetchedAt": "2026-10-01T03:24:05.3383757+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49915126"
+    },
+    "Type": 1,
+    "Title": "56k.rip \u2013 the 1996 dial-up internet experience",
+    "Url": "https://56k.rip/",
+    "Description": "56k.rip \u2013 the 1996 dial-up internet experience",
+    "Metadata": {
+      "score": "88",
+      "author": "adunk",
+      "commentCount": "52"
+    },
+    "FetchedAt": "2026-10-01T03:24:05.3887158+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49890732"
+    },
+    "Type": 1,
+    "Title": "Why the Bronze Age Collapsed",
+    "Url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+    "Description": "Why the Bronze Age Collapsed",
+    "Metadata": {
+      "score": "109",
+      "author": "AnodicElegy",
+      "commentCount": "63"
+    },
+    "FetchedAt": "2026-10-01T03:24:05.4385941+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49912955"
+    },
+    "Type": 1,
+    "Title": "Surprisingly complex waves reveal the brain\u0027s inner workings",
+    "Url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+    "Description": "Surprisingly complex waves reveal the brain\u0027s inner workings",
+    "Metadata": {
+      "score": "135",
+      "author": "ibobev",
+      "commentCount": "42"
+    },
+    "FetchedAt": "2026-10-01T03:24:05.4877157+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49916997"
+    },
+    "Type": 1,
+    "Title": "Show HN: Yantra \u2013 an LALR(1) parser generator for C\u002B\u002B",
+    "Url": "https://github.com/TantrixAuto/yantra",
+    "Description": "Yantra is a C\u002B\u002B parser generator: lexer, parser, and AST walker all generated from one tool.\nIt builds the whole AST first, then walks it.\u003Cp\u003EMost LALR parser generators (Yacc, Bison, Lemon) run your semantic actions during parsing, as each rule reduces, bottom-up.\u003Cp\u003EThat means at the time a rule\u0026#x27;s action runs, you don\u0026#x27;t yet know what its parent looks like. This pushes a lot of grammars toward hand-built AST classes and a separate walking pass whenever you need to look ahead into siblin",
+    "Metadata": {
+      "score": "4",
+      "author": "renjipanicker",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-01T03:24:05.5370275+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49913192"
+    },
+    "Type": 1,
+    "Title": "EDG C\u002B\u002B front-end goes public",
+    "Url": "https://edgcpp.org/#transition",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;edgcpp\u0026#x2F;compiler\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;edgcpp\u0026#x2F;compiler\u003C/a\u003E",
+    "Metadata": {
+      "score": "165",
+      "author": "iandinwoodie",
+      "commentCount": "78"
+    },
+    "FetchedAt": "2026-10-01T03:24:05.5860838+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49911995"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Magnitude (YC S25) \u2013 Self-optimizing inference engine for agents",
+    "Url": "https://github.com/magnitudedev/magnitude",
+    "Description": "Hey HN, Anders and Tom here. We\u0026#x27;re building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp.\u003Cp\u003EWe\u0026#x27;re both software engineers and previously built an open source browser agent to 4k\u002B GH stars and 100k\u002B downloads. We increasingly wanted to run it on local models, but found that no inference engine worked for our use case.\u003Cp\u003EInference engin",
+    "Metadata": {
+      "score": "131",
+      "author": "anerli",
+      "commentCount": "60"
+    },
+    "FetchedAt": "2026-10-01T03:24:05.6374416+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49906432"
+    },
+    "Type": 1,
+    "Title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+    "Url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
+    "Description": "Related: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.bbc.com\u0026#x2F;news\u0026#x2F;articles\u0026#x2F;cqzjzr893yv4o\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.bbc.com\u0026#x2F;news\u0026#x2F;articles\u0026#x2F;cqzjzr893yv4o\u003C/a\u003E",
+    "Metadata": {
+      "score": "251",
+      "author": "rzk",
+      "commentCount": "187"
+    },
+    "FetchedAt": "2026-10-01T03:24:05.6875132+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49913350"
+    },
+    "Type": 1,
+    "Title": "Halfspace experimental IDE for solid modeling with distance fields",
+    "Url": "https://www.mattkeeter.com/projects/halfspace/",
+    "Description": "Halfspace experimental IDE for solid modeling with distance fields",
+    "Metadata": {
+      "score": "87",
+      "author": "luu",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-10-01T03:24:05.7372177+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49912444"
+    },
+    "Type": 1,
+    "Title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+    "Url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+    "Description": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+    "Metadata": {
+      "score": "128",
+      "author": "jbott",
+      "commentCount": "50"
+    },
+    "FetchedAt": "2026-10-01T03:24:05.7860978+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49909583"
+    },
+    "Type": 1,
+    "Title": "A brief history of the Bloomberg terminal",
+    "Url": "https://spectrum.ieee.org/bloomberg-terminal",
+    "Description": "A brief history of the Bloomberg terminal",
+    "Metadata": {
+      "score": "234",
+      "author": "rbanffy",
+      "commentCount": "96"
+    },
+    "FetchedAt": "2026-10-01T03:24:05.8355169+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49897600"
+    },
+    "Type": 1,
+    "Title": "What a Massive New 728-Foot-Wide Crater Means for Future Moon Bases",
+    "Url": "https://www.nytimes.com/2026/09/21/science/space/what-a-massive-new-crater-means-for-future-moon-bases.html",
+    "Description": "What a Massive New 728-Foot-Wide Crater Means for Future Moon Bases",
+    "Metadata": {
+      "score": "21",
+      "author": "bookofjoe",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-10-01T03:24:05.8837173+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49912792"
+    },
+    "Type": 1,
+    "Title": "Before pixels: Modular industrial dashboards",
+    "Url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
+    "Description": "Before pixels: Modular industrial dashboards",
+    "Metadata": {
+      "score": "60",
+      "author": "leephillips",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-10-01T03:24:05.9332391+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49916955"
+    },
+    "Type": 1,
+    "Title": "Cities Are Forced to Funnel License Plate Data to a Federal Surveillance Program",
+    "Url": "https://www.404media.co/how-cities-are-forced-to-funnel-license-plate-data-to-a-massive-federal-surveillance-program-hidta/",
+    "Description": "Cities Are Forced to Funnel License Plate Data to a Federal Surveillance Program",
+    "Metadata": {
+      "score": "18",
+      "author": "ripe",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-10-01T03:24:05.9839083+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49912048"
+    },
+    "Type": 1,
+    "Title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
+    "Url": "https://www.chompiclub.com/opensource",
+    "Description": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
+    "Metadata": {
+      "score": "50",
+      "author": "lashkari",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-10-01T03:24:06.0331927+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49909648"
+    },
+    "Type": 1,
+    "Title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
+    "Url": "https://lathoa.ai/en",
+    "Description": "I made this for kids around 10 to 14. A robot called Errol solves a math problem step by step and one of the steps is wrong. The kid has to find it and say what\u0026#x27;s wrong with it. Sometimes nothing is wrong, so just saying \u0026quot;there\u0026#x27;s a mistake\u0026quot; every time doesn\u0026#x27;t work. The user needs to enter an explanation if she finds an error to gain more XP; speed matters also for more points. There is no direct interaction or chatting with an LLM. Lathoa\u0026#x27;s harness is stable and has",
+    "Metadata": {
+      "score": "37",
+      "author": "thanouil1411",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-10-01T03:24:06.1036137+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49883970"
+    },
+    "Type": 1,
+    "Title": "I could\u0027ve accessed 17T Microsoft records",
+    "Url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
+    "Description": "I could\u0027ve accessed 17T Microsoft records",
+    "Metadata": {
+      "score": "261",
+      "author": "luispa",
+      "commentCount": "112"
+    },
+    "FetchedAt": "2026-10-01T03:24:06.1531374+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49916865"
+    },
+    "Type": 1,
+    "Title": "Jevotron: Multiple Jev integrations from the command line",
+    "Url": "https://cmungall.github.io/jevotron/",
+    "Description": "Jevotron: Multiple Jev integrations from the command line",
+    "Metadata": {
+      "score": "3",
+      "author": "chrismungall",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-01T03:24:06.2027123+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49909056"
+    },
+    "Type": 1,
+    "Title": "What TLA\u002B can and can\u0027t check",
+    "Url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+    "Description": "What TLA\u002B can and can\u0027t check",
+    "Metadata": {
+      "score": "150",
+      "author": "b-man",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-10-01T03:24:06.2521394+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49905644"
+    },
+    "Type": 1,
+    "Title": "Doing a Machine Learning PhD While Working in Japan",
+    "Url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
+    "Description": "Doing a Machine Learning PhD While Working in Japan",
+    "Metadata": {
+      "score": "52",
+      "author": "pwim",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-10-01T03:24:06.3013739+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49911534"
+    },
+    "Type": 1,
+    "Title": "Great Dirhombicosidodecahedron (\u0022Miller\u0027s Monster\u0022)",
+    "Url": "https://www.software3d.com/MillersMonster.php",
+    "Description": "Great Dirhombicosidodecahedron (\u0022Miller\u0027s Monster\u0022)",
+    "Metadata": {
+      "score": "44",
+      "author": "cobbzilla",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-10-01T03:24:06.3503285+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49908394"
+    },
+    "Type": 1,
+    "Title": "The last time my family was replaced by technology",
+    "Url": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+    "Description": "The last time my family was replaced by technology",
+    "Metadata": {
+      "score": "191",
+      "author": "megalomanu",
+      "commentCount": "440"
+    },
+    "FetchedAt": "2026-10-01T03:24:06.398974+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49909908"
+    },
+    "Type": 1,
+    "Title": "Coltrane\u0027s Tone Circle",
+    "Url": "https://jtomschroeder.com/blog/tone-circle/",
+    "Description": "Coltrane\u0027s Tone Circle",
+    "Metadata": {
+      "score": "37",
+      "author": "jtomschroeder",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-10-01T03:24:06.44712+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49902248"
+    },
+    "Type": 1,
+    "Title": "cmart\u0027s Hardcore Coworking",
+    "Url": "https://cmart.blog/hardcore-coworking/",
+    "Description": "cmart\u0027s Hardcore Coworking",
+    "Metadata": {
+      "score": "3",
+      "author": "zdw",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-01T03:24:06.4967269+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49911531"
+    },
+    "Type": 1,
+    "Title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+    "Url": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
+    "Description": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+    "Metadata": {
+      "score": "1",
+      "author": "rooppal",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-01T03:24:06.5459579+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49882754"
+    },
+    "Type": 1,
+    "Title": "Burning Man death rates \u2013 A short lesson in statistics",
+    "Url": "https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson",
+    "Description": "Burning Man death rates \u2013 A short lesson in statistics",
+    "Metadata": {
+      "score": "109",
+      "author": "viraj_shah",
+      "commentCount": "136"
+    },
+    "FetchedAt": "2026-10-01T03:24:06.5954194+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49913604"
+    },
+    "Type": 1,
+    "Title": "Functional Ultrasound Imaging (fUSI) from scratch",
+    "Url": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
+    "Description": "Functional Ultrasound Imaging (fUSI) from scratch",
+    "Metadata": {
+      "score": "29",
+      "author": "pminimax",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-10-01T03:24:06.6453503+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49903713"
+    },
+    "Type": 1,
+    "Title": "Responsible Release of AI-Generated Mathematics",
+    "Url": "https://agmai.org/general-sep29/",
+    "Description": "Responsible Release of AI-Generated Mathematics",
+    "Metadata": {
+      "score": "81",
+      "author": "aureianimus",
+      "commentCount": "102"
+    },
+    "FetchedAt": "2026-10-01T03:24:06.6936715+00:00"
+  }
+]
