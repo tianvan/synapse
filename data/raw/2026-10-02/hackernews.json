@@ -361,21 +361,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49933235"
-    },
-    "Type": 1,
-    "Title": "The Legend of von Neumann (1973) [pdf]",
-    "Url": "https://gwern.net/doc/math/1973-halmos.pdf",
-    "Description": "The Legend of von Neumann (1973) [pdf]",
-    "Metadata": {
-      "score": "151",
-      "author": "suopspaces",
-      "commentCount": "82"
-    },
-    "FetchedAt": "2026-10-02T17:09:24.5679629+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49934784"
     },
     "Type": 1,
@@ -388,21 +373,6 @@
       "commentCount": "41"
     },
     "FetchedAt": "2026-10-02T17:09:24.6186111+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49927754"
-    },
-    "Type": 1,
-    "Title": "Court agrees with EFF: Utah\u0027s VPN law demands a technical impossibility",
-    "Url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-    "Description": "Court agrees with EFF: Utah\u0027s VPN law demands a technical impossibility",
-    "Metadata": {
-      "score": "40",
-      "author": "hn_acker",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-10-02T17:09:24.6495237+00:00"
   },
   {
     "ExternalId": {
@@ -466,36 +436,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49928566"
-    },
-    "Type": 1,
-    "Title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-    "Url": "https://stillwet.art/",
-    "Description": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-    "Metadata": {
-      "score": "51",
-      "author": "alstonite",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-10-02T17:09:24.8072461+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49925974"
-    },
-    "Type": 1,
-    "Title": "FLUX 3 Image",
-    "Url": "https://bfl.ai/models/flux-3-image",
-    "Description": "FLUX 3 Image",
-    "Metadata": {
-      "score": "55",
-      "author": "minimaxir",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-10-02T17:09:24.8401756+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49928121"
     },
     "Type": 1,
@@ -508,21 +448,6 @@
       "commentCount": "358"
     },
     "FetchedAt": "2026-10-02T17:09:24.8705112+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49927747"
-    },
-    "Type": 1,
-    "Title": "Sites in ChatGPT",
-    "Url": "https://chatgpt.com/features/sites/",
-    "Description": "Sites in ChatGPT",
-    "Metadata": {
-      "score": "10",
-      "author": "polvi",
-      "commentCount": "14"
-    },
-    "FetchedAt": "2026-10-02T17:09:24.9025391+00:00"
   },
   {
     "ExternalId": {
@@ -808,5 +733,455 @@
       "commentCount": "45"
     },
     "FetchedAt": "2026-10-02T17:09:25.4798605+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49937276"
+    },
+    "Type": 1,
+    "Title": "Apple Pass Designer",
+    "Url": "https://developer.apple.com/pass-designer/",
+    "Description": "Apple Pass Designer",
+    "Metadata": {
+      "score": "212",
+      "author": "soheilpro",
+      "commentCount": "135"
+    },
+    "FetchedAt": "2026-10-02T21:39:12.6329455+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49938521"
+    },
+    "Type": 1,
+    "Title": "Zig v0.17.0",
+    "Url": "https://ziglang.org/download/0.17.0/release-notes.html",
+    "Description": "Zig v0.17.0",
+    "Metadata": {
+      "score": "60",
+      "author": "ErenayDev",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-10-02T21:39:12.6672605+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49938047"
+    },
+    "Type": 1,
+    "Title": "Everyone\u0027s Packing Up",
+    "Url": "https://widdershins.verja.net/everyones-packing-up/",
+    "Description": "Everyone\u0027s Packing Up",
+    "Metadata": {
+      "score": "44",
+      "author": "speckx",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-10-02T21:39:12.7015789+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49927754"
+    },
+    "Type": 1,
+    "Title": "Court agrees with EFF: Utah\u0027s VPN law demands a technical impossibility",
+    "Url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+    "Description": "Court agrees with EFF: Utah\u0027s VPN law demands a technical impossibility",
+    "Metadata": {
+      "score": "392",
+      "author": "hn_acker",
+      "commentCount": "168"
+    },
+    "FetchedAt": "2026-10-02T21:39:12.736924+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49932147"
+    },
+    "Type": 1,
+    "Title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+    "Url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+    "Description": "A 12-year sequence of telescope images of a star and four planets orbiting",
+    "Metadata": {
+      "score": "110",
+      "author": "mariuz",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-10-02T21:39:12.771351+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49929391"
+    },
+    "Type": 1,
+    "Title": "Greg Kroah-Hartman \u2013 Security in the LLM Age [video]",
+    "Url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+    "Description": "Greg Kroah-Hartman \u2013 Security in the LLM Age [video]",
+    "Metadata": {
+      "score": "130",
+      "author": "usernomdeguerre",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-10-02T21:39:12.8061753+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49933740"
+    },
+    "Type": 1,
+    "Title": "With most information hidden, the game Stratego had stumped AI until now",
+    "Url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.nature.com\u0026#x2F;articles\u0026#x2F;s41586-026-11036-y\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.nature.com\u0026#x2F;articles\u0026#x2F;s41586-026-11036-y\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;arxiv.org\u0026#x2F;abs\u0026#x2F;2511.07312\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;arxiv.org\u0026#x2F;abs\u0026#x2F;2511.07312\u003C/a\u003E",
+    "Metadata": {
+      "score": "109",
+      "author": "PaulHoule",
+      "commentCount": "39"
+    },
+    "FetchedAt": "2026-10-02T21:39:12.8426717+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49937504"
+    },
+    "Type": 1,
+    "Title": "Muse Gadgets",
+    "Url": "https://gadgets.muse.ai",
+    "Description": "Muse Gadgets",
+    "Metadata": {
+      "score": "43",
+      "author": "anant",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-10-02T21:39:12.8772573+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49926411"
+    },
+    "Type": 1,
+    "Title": "Loss of cell identity drives human aging: Two new papers",
+    "Url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
+    "Description": "Loss of cell identity drives human aging: Two new papers",
+    "Metadata": {
+      "score": "120",
+      "author": "bookofjoe",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-10-02T21:39:12.9127243+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49936575"
+    },
+    "Type": 1,
+    "Title": "From the creator of Redis; run LLM locally with ds4",
+    "Url": "https://dwarfstar.sh/",
+    "Description": "From the creator of Redis; run LLM locally with ds4",
+    "Metadata": {
+      "score": "77",
+      "author": "fibo",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-10-02T21:39:12.9471089+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49937916"
+    },
+    "Type": 1,
+    "Title": "Show HN: Made an open-source Lego AI generator",
+    "Url": "https://github.com/anteloc/ldraw-nova",
+    "Description": "Hi there :-) New on HN, first time posting.\u003Cp\u003EPast year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language.\u003Cp\u003EThis LDraw is literally an \u0026quot;assembly\u0026quot; language, a low-level programming language that describes how to assemble LEGO pieces together into models, one placement instruction at a time.\u003Cp\u003EWhen executed by specific tools, like e.g. LDView, LeoCAD, Studio... these instructions become LEGO CAD models, that can be interacted",
+    "Metadata": {
+      "score": "37",
+      "author": "antelocnova",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-10-02T21:39:12.9820104+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49925184"
+    },
+    "Type": 1,
+    "Title": "Mike Tomlin spent 12 years building a Minecraft city",
+    "Url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;Kv6yS\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;Kv6yS\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=_h_pQ1-5iQg\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=_h_pQ1-5iQg\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.theguardian.com\u0026#x2F;sport\u0026#x2F;2026\u0026#x2F;oct\u0026#x2F;01\u0026#x2F;mike-tomlin-minecraft-city\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.theguardian.com\u0026#x2F;sport\u0026#x2F;2026\u0026#x2F;oct\u0026#x2F;01\u0026#x2F;mike-tomlin-mi...\u003C/a\u003E",
+    "Metadata": {
+      "score": "127",
+      "author": "CoryOndrejka",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-10-02T21:39:13.0169709+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49933230"
+    },
+    "Type": 1,
+    "Title": "Venice\u2019s failed war against Constantinople led to the first bond market",
+    "Url": "https://bigthink.com/books/a-fabulous-debt/",
+    "Description": "Venice\u2019s failed war against Constantinople led to the first bond market",
+    "Metadata": {
+      "score": "46",
+      "author": "RickJWagner",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-10-02T21:39:13.0522698+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49927747"
+    },
+    "Type": 1,
+    "Title": "Sites in ChatGPT",
+    "Url": "https://chatgpt.com/features/sites/",
+    "Description": "Sites in ChatGPT",
+    "Metadata": {
+      "score": "158",
+      "author": "polvi",
+      "commentCount": "186"
+    },
+    "FetchedAt": "2026-10-02T21:39:13.0880145+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49925974"
+    },
+    "Type": 1,
+    "Title": "FLUX 3 Image",
+    "Url": "https://bfl.ai/models/flux-3-image",
+    "Description": "FLUX 3 Image",
+    "Metadata": {
+      "score": "231",
+      "author": "minimaxir",
+      "commentCount": "53"
+    },
+    "FetchedAt": "2026-10-02T21:39:13.1238895+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49933235"
+    },
+    "Type": 1,
+    "Title": "The Legend of von Neumann (1973) [pdf]",
+    "Url": "https://gwern.net/doc/math/1973-halmos.pdf",
+    "Description": "The Legend of von Neumann (1973) [pdf]",
+    "Metadata": {
+      "score": "221",
+      "author": "suopspaces",
+      "commentCount": "126"
+    },
+    "FetchedAt": "2026-10-02T21:39:13.1606511+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49934620"
+    },
+    "Type": 1,
+    "Title": "One month coding with GLM 5.3 Flash",
+    "Url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+    "Description": "One month coding with GLM 5.3 Flash",
+    "Metadata": {
+      "score": "67",
+      "author": "ThibWeb",
+      "commentCount": "49"
+    },
+    "FetchedAt": "2026-10-02T21:39:13.1949283+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49932340"
+    },
+    "Type": 1,
+    "Title": "Blogging with Gleam, Org-Mode and Pandoc",
+    "Url": "https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/",
+    "Description": "Blogging with Gleam, Org-Mode and Pandoc",
+    "Metadata": {
+      "score": "31",
+      "author": "schonfinkel",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-10-02T21:39:13.2305998+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49925602"
+    },
+    "Type": 1,
+    "Title": "Anatomy of a Lean proof for software engineers",
+    "Url": "https://agostbiro.net/posts/2026-10-anatomy-of-a-lean-proof/",
+    "Description": "Anatomy of a Lean proof for software engineers",
+    "Metadata": {
+      "score": "48",
+      "author": "abiro",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-10-02T21:39:13.2655465+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49935797"
+    },
+    "Type": 1,
+    "Title": "STS-51-F Abort-to-Orbit (1985)",
+    "Url": "https://en.wikipedia.org/wiki/STS-51-F",
+    "Description": "Today I learned that one Space Shuttle flight (in 1985) successfully used the Abort-to-Orbit recovery plan (changing its flight path in real time in response to an engine failure during ascent). The overall mission continued, accomplished its other objectives, and was considered a success despite the engine failure.\u003Cp\u003ESome 2015 coverage of this mission:\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.americaspace.com\u0026#x2F;2015\u0026#x2F;07\u0026#x2F;25\u0026#x2F;going-to-spain-30-years-since-the-unlucky-success-of-mission-51",
+    "Metadata": {
+      "score": "23",
+      "author": "schoen",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-10-02T21:39:13.3004616+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49937718"
+    },
+    "Type": 1,
+    "Title": "GrapheneOS has fixed the Android 17 QPR1 kernel performance regression",
+    "Url": "https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression",
+    "Description": "GrapheneOS has fixed the Android 17 QPR1 kernel performance regression",
+    "Metadata": {
+      "score": "69",
+      "author": "Cider9986",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-10-02T21:39:13.3364365+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49932079"
+    },
+    "Type": 1,
+    "Title": "F.02 Decommission",
+    "Url": "https://www.figure.ai/news/f-02-decommission",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=pfAh5oQDPDM\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=pfAh5oQDPDM\u003C/a\u003E",
+    "Metadata": {
+      "score": "42",
+      "author": "ad_hockey",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-10-02T21:39:13.3713523+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49932191"
+    },
+    "Type": 1,
+    "Title": "Our Project Suncatcher prototype satellite is in orbit",
+    "Url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
+    "Description": "Our Project Suncatcher prototype satellite is in orbit",
+    "Metadata": {
+      "score": "34",
+      "author": "pantalaimon",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-10-02T21:39:13.4082752+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49928566"
+    },
+    "Type": 1,
+    "Title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+    "Url": "https://stillwet.art/",
+    "Description": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+    "Metadata": {
+      "score": "163",
+      "author": "alstonite",
+      "commentCount": "54"
+    },
+    "FetchedAt": "2026-10-02T21:39:13.4425091+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49932402"
+    },
+    "Type": 1,
+    "Title": "On social reality in China",
+    "Url": "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china",
+    "Description": "On social reality in China",
+    "Metadata": {
+      "score": "94",
+      "author": "thicTurtlLverXX",
+      "commentCount": "91"
+    },
+    "FetchedAt": "2026-10-02T21:39:13.477782+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49932911"
+    },
+    "Type": 1,
+    "Title": "The first packet sent via RFC1149 avian carrier is up for auction at Christie\u0027s",
+    "Url": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
+    "Description": "The first packet sent via RFC1149 avian carrier is up for auction at Christie\u0027s",
+    "Metadata": {
+      "score": "23",
+      "author": "peter_hansteen",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-10-02T21:39:13.5125533+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49928215"
+    },
+    "Type": 1,
+    "Title": "Show HN: Pyxel \u2013 A Python retro game engine with built-in art and sound editors",
+    "Url": "https://github.com/kitao/pyxel",
+    "Description": "Hi HN, I\u0026#x27;m the creator of Pyxel, a free, MIT-licensed retro game engine for Python. I\u0026#x27;ve been developing it since 2018, and it recently passed 18,000 stars on GitHub.\u003Cp\u003EPyxel includes pixel art, tilemap, sound, and music editors, so you can create a game\u0026#x27;s visuals and audio as well as write its code in Python. The engine itself is implemented in Rust.\u003Cp\u003EGames run on Windows, macOS, Linux, and the web, as well as supported Linux-based retro handhelds.\u003Cp\u003EYou can share a URL to launc",
+    "Metadata": {
+      "score": "42",
+      "author": "kitao",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-10-02T21:39:13.5501315+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49936671"
+    },
+    "Type": 1,
+    "Title": "What if we stopped using GPUs? [video]",
+    "Url": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
+    "Description": "What if we stopped using GPUs? [video]",
+    "Metadata": {
+      "score": "26",
+      "author": "sandslash",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-10-02T21:39:13.5845514+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49937387"
+    },
+    "Type": 1,
+    "Title": "\u0022The only intuitive interface is the nipple\u0022 (2012)",
+    "Url": "https://www.greenend.org.uk/rjk/misc/nipple.html",
+    "Description": "\u0022The only intuitive interface is the nipple\u0022 (2012)",
+    "Metadata": {
+      "score": "21",
+      "author": "ibobev",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-10-02T21:39:13.6194406+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49934399"
+    },
+    "Type": 1,
+    "Title": "How accurately calibrated is Jev?",
+    "Url": "https://maximumeffort.substack.com/p/jev-is-poorly-calibrated",
+    "Description": "How accurately calibrated is Jev?",
+    "Metadata": {
+      "score": "40",
+      "author": "dblack12705",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-10-02T21:39:13.6583674+00:00"
   }
 ]
