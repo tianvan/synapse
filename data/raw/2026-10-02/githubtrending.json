@@ -1,0 +1,182 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:NVIDIA/OpenShell"
+    },
+    "Type": 0,
+    "Title": "NVIDIA/OpenShell",
+    "Url": "https://github.com/NVIDIA/OpenShell",
+    "Description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "Metadata": {
+      "owner": "NVIDIA",
+      "repo": "OpenShell",
+      "language": "Rust",
+      "stars": "2,456"
+    },
+    "FetchedAt": "2026-10-02T03:24:43.1028455+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:firebase/firebase-ios-sdk"
+    },
+    "Type": 0,
+    "Title": "firebase/firebase-ios-sdk",
+    "Url": "https://github.com/firebase/firebase-ios-sdk",
+    "Description": "Firebase SDK for Apple App Development",
+    "Metadata": {
+      "owner": "firebase",
+      "repo": "firebase-ios-sdk",
+      "language": "C\u002B\u002B",
+      "stars": "112",
+      "topics": "ai, analytics, authentication, crash-reporting, database, database-as-a-service, firebase, firebase-auth, firebase-authentication, firebase-database, firebase-messaging, firebase-storage, gemini, ios-sdk, objective-c, push-notifications, storage-service"
+    },
+    "FetchedAt": "2026-10-02T03:24:43.3957461+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mvschwarz/openrig"
+    },
+    "Type": 0,
+    "Title": "mvschwarz/openrig",
+    "Url": "https://github.com/mvschwarz/openrig",
+    "Description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+    "Metadata": {
+      "owner": "mvschwarz",
+      "repo": "openrig",
+      "language": "TypeScript",
+      "stars": "642",
+      "topics": "agent-harness, agent-orchestration, agent-skills, ai-coding, claude-code, cli, codex-cli, multi-agent, multi-agent-systems, tmux, typescript"
+    },
+    "FetchedAt": "2026-10-02T03:24:43.5514008+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cursor/plugins"
+    },
+    "Type": 0,
+    "Title": "cursor/plugins",
+    "Url": "https://github.com/cursor/plugins",
+    "Description": "Cursor plugin specification and official plugins",
+    "Metadata": {
+      "owner": "cursor",
+      "repo": "plugins",
+      "language": "TypeScript",
+      "stars": "150"
+    },
+    "FetchedAt": "2026-10-02T03:24:43.7348058+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:heygen-com/hyperframes"
+    },
+    "Type": 0,
+    "Title": "heygen-com/hyperframes",
+    "Url": "https://github.com/heygen-com/hyperframes",
+    "Description": "Write HTML. Render video. Built for agents.",
+    "Metadata": {
+      "owner": "heygen-com",
+      "repo": "hyperframes",
+      "language": "TypeScript",
+      "stars": "627",
+      "topics": "ai, animation, ffmpeg, framework, gsap, html, mcp, puppeteer, rendering, typescript, video"
+    },
+    "FetchedAt": "2026-10-02T03:24:43.93139+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:earendil-works/pi"
+    },
+    "Type": 0,
+    "Title": "earendil-works/pi",
+    "Url": "https://github.com/earendil-works/pi",
+    "Description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+    "Metadata": {
+      "owner": "earendil-works",
+      "repo": "pi",
+      "language": "TypeScript",
+      "stars": "298"
+    },
+    "FetchedAt": "2026-10-02T03:24:44.1090754+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:tile-ai/tilelang"
+    },
+    "Type": 0,
+    "Title": "tile-ai/tilelang",
+    "Url": "https://github.com/tile-ai/tilelang",
+    "Description": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+    "Metadata": {
+      "owner": "tile-ai",
+      "repo": "tilelang",
+      "language": "Python",
+      "stars": "163"
+    },
+    "FetchedAt": "2026-10-02T03:24:44.2751597+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pablostanley/yoinks"
+    },
+    "Type": 0,
+    "Title": "pablostanley/yoinks",
+    "Url": "https://github.com/pablostanley/yoinks",
+    "Description": "yoink any video from your terminal. no shady ads.",
+    "Metadata": {
+      "owner": "pablostanley",
+      "repo": "yoinks",
+      "language": "TypeScript",
+      "stars": "361"
+    },
+    "FetchedAt": "2026-10-02T03:24:44.4245639+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HunxByts/GhostTrack"
+    },
+    "Type": 0,
+    "Title": "HunxByts/GhostTrack",
+    "Url": "https://github.com/HunxByts/GhostTrack",
+    "Description": "Useful tool to track location or mobile number",
+    "Metadata": {
+      "owner": "HunxByts",
+      "repo": "GhostTrack",
+      "language": "Python",
+      "stars": "368",
+      "topics": "cybersecurity, fyp, hacking, hacking-tool, indonesia, information, information-gathering, ip-geolocation, linux, osint, osint-python, osint-tool, pentesting, phone-number, python, python-hacking, termux, termux-hacks, termux-tool"
+    },
+    "FetchedAt": "2026-10-02T03:24:44.5766152+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pbakaus/impeccable"
+    },
+    "Type": 0,
+    "Title": "pbakaus/impeccable",
+    "Url": "https://github.com/pbakaus/impeccable",
+    "Description": "The design language that makes your AI harness better at design.",
+    "Metadata": {
+      "owner": "pbakaus",
+      "repo": "impeccable",
+      "language": "JavaScript",
+      "stars": "495"
+    },
+    "FetchedAt": "2026-10-02T03:24:44.7340034+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Friedrich-M/UniMate"
+    },
+    "Type": 0,
+    "Title": "Friedrich-M/UniMate",
+    "Url": "https://github.com/Friedrich-M/UniMate",
+    "Description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+    "Metadata": {
+      "owner": "Friedrich-M",
+      "repo": "UniMate",
+      "language": "Python",
+      "stars": "217"
+    },
+    "FetchedAt": "2026-10-02T03:24:44.9058064+00:00"
+  }
+]
