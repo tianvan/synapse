@@ -1,0 +1,184 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:Panniantong/Agent-Reach"
+    },
+    "Type": 0,
+    "Title": "Panniantong/Agent-Reach",
+    "Url": "https://github.com/Panniantong/Agent-Reach",
+    "Description": "Give your AI agent eyes to see the entire internet. Read \u0026 search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+    "Metadata": {
+      "owner": "Panniantong",
+      "repo": "Agent-Reach",
+      "language": "Python",
+      "stars": "696",
+      "topics": "agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript"
+    },
+    "FetchedAt": "2026-10-03T03:09:00.9003911+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pbakaus/impeccable"
+    },
+    "Type": 0,
+    "Title": "pbakaus/impeccable",
+    "Url": "https://github.com/pbakaus/impeccable",
+    "Description": "The design language that makes your AI harness better at design.",
+    "Metadata": {
+      "owner": "pbakaus",
+      "repo": "impeccable",
+      "language": "JavaScript",
+      "stars": "722"
+    },
+    "FetchedAt": "2026-10-03T03:09:01.1843094+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NVIDIA/OpenShell"
+    },
+    "Type": 0,
+    "Title": "NVIDIA/OpenShell",
+    "Url": "https://github.com/NVIDIA/OpenShell",
+    "Description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "Metadata": {
+      "owner": "NVIDIA",
+      "repo": "OpenShell",
+      "language": "Rust",
+      "stars": "594"
+    },
+    "FetchedAt": "2026-10-03T03:09:01.3356805+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:heygen-com/hyperframes"
+    },
+    "Type": 0,
+    "Title": "heygen-com/hyperframes",
+    "Url": "https://github.com/heygen-com/hyperframes",
+    "Description": "Write HTML. Render video. Built for agents.",
+    "Metadata": {
+      "owner": "heygen-com",
+      "repo": "hyperframes",
+      "language": "TypeScript",
+      "stars": "580",
+      "topics": "ai, animation, ffmpeg, framework, gsap, html, mcp, puppeteer, rendering, typescript, video"
+    },
+    "FetchedAt": "2026-10-03T03:09:01.5089486+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google/skills"
+    },
+    "Type": 0,
+    "Title": "google/skills",
+    "Url": "https://github.com/google/skills",
+    "Description": "Agent Skills for Google products and technologies",
+    "Metadata": {
+      "owner": "google",
+      "repo": "skills",
+      "language": "Python",
+      "stars": "39",
+      "topics": "google, googlecloud, skills"
+    },
+    "FetchedAt": "2026-10-03T03:09:01.7166466+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:getsentry/sentry"
+    },
+    "Type": 0,
+    "Title": "getsentry/sentry",
+    "Url": "https://github.com/getsentry/sentry",
+    "Description": "Developer-first error tracking and performance monitoring",
+    "Metadata": {
+      "owner": "getsentry",
+      "repo": "sentry",
+      "language": "Python",
+      "stars": "16",
+      "topics": "apm, crash-reporting, crash-reports, csp-report, devops, django, error-logging, error-monitoring, fair-source, hacktoberfest, monitor, monitoring, python, sentry, tag-production"
+    },
+    "FetchedAt": "2026-10-03T03:09:01.887097+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:colbymchenry/codegraph"
+    },
+    "Type": 0,
+    "Title": "colbymchenry/codegraph",
+    "Url": "https://github.com/colbymchenry/codegraph",
+    "Description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent \u2014 fewer tokens, fewer tool calls, 100% local",
+    "Metadata": {
+      "owner": "colbymchenry",
+      "repo": "codegraph",
+      "language": "C",
+      "stars": "98"
+    },
+    "FetchedAt": "2026-10-03T03:09:02.0697087+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cursor/plugins"
+    },
+    "Type": 0,
+    "Title": "cursor/plugins",
+    "Url": "https://github.com/cursor/plugins",
+    "Description": "Cursor plugin specification and official plugins",
+    "Metadata": {
+      "owner": "cursor",
+      "repo": "plugins",
+      "language": "TypeScript",
+      "stars": "163"
+    },
+    "FetchedAt": "2026-10-03T03:09:02.2646204+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mvschwarz/openrig"
+    },
+    "Type": 0,
+    "Title": "mvschwarz/openrig",
+    "Url": "https://github.com/mvschwarz/openrig",
+    "Description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+    "Metadata": {
+      "owner": "mvschwarz",
+      "repo": "openrig",
+      "language": "TypeScript",
+      "stars": "683",
+      "topics": "agent-harness, agent-orchestration, agent-skills, ai-coding, claude-code, cli, codex-cli, multi-agent, multi-agent-systems, tmux, typescript"
+    },
+    "FetchedAt": "2026-10-03T03:09:02.4373773+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Effect-TS/effect"
+    },
+    "Type": 0,
+    "Title": "Effect-TS/effect",
+    "Url": "https://github.com/Effect-TS/effect",
+    "Description": "Build production-ready applications in TypeScript",
+    "Metadata": {
+      "owner": "Effect-TS",
+      "repo": "effect",
+      "language": "TypeScript",
+      "stars": "80",
+      "topics": "cli, clustering, concurrency, dependency-injection, effect, error-handling, javascript, observability, opentelemetry, platform, schema, typescript, workflows"
+    },
+    "FetchedAt": "2026-10-03T03:09:02.5876395+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pablostanley/yoinks"
+    },
+    "Type": 0,
+    "Title": "pablostanley/yoinks",
+    "Url": "https://github.com/pablostanley/yoinks",
+    "Description": "yoink any video from your terminal. no shady ads.",
+    "Metadata": {
+      "owner": "pablostanley",
+      "repo": "yoinks",
+      "language": "TypeScript",
+      "stars": "623"
+    },
+    "FetchedAt": "2026-10-03T03:09:02.7506519+00:00"
+  }
+]
