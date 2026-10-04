@@ -1,0 +1,182 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:pbakaus/impeccable"
+    },
+    "Type": 0,
+    "Title": "pbakaus/impeccable",
+    "Url": "https://github.com/pbakaus/impeccable",
+    "Description": "The design language that makes your AI harness better at design.",
+    "Metadata": {
+      "owner": "pbakaus",
+      "repo": "impeccable",
+      "language": "JavaScript",
+      "stars": "699"
+    },
+    "FetchedAt": "2026-10-04T03:37:30.8671309+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Effect-TS/effect"
+    },
+    "Type": 0,
+    "Title": "Effect-TS/effect",
+    "Url": "https://github.com/Effect-TS/effect",
+    "Description": "Build production-ready applications in TypeScript",
+    "Metadata": {
+      "owner": "Effect-TS",
+      "repo": "effect",
+      "language": "TypeScript",
+      "stars": "302",
+      "topics": "cli, clustering, concurrency, dependency-injection, effect, error-handling, javascript, observability, opentelemetry, platform, schema, typescript, workflows"
+    },
+    "FetchedAt": "2026-10-04T03:37:31.0994527+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Panniantong/Agent-Reach"
+    },
+    "Type": 0,
+    "Title": "Panniantong/Agent-Reach",
+    "Url": "https://github.com/Panniantong/Agent-Reach",
+    "Description": "Give your AI agent eyes to see the entire internet. Read \u0026 search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+    "Metadata": {
+      "owner": "Panniantong",
+      "repo": "Agent-Reach",
+      "language": "Python",
+      "stars": "1,696",
+      "topics": "agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript"
+    },
+    "FetchedAt": "2026-10-04T03:37:31.2661491+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pingdotgg/t3code"
+    },
+    "Type": 0,
+    "Title": "pingdotgg/t3code",
+    "Url": "https://github.com/pingdotgg/t3code",
+    "Description": "",
+    "Metadata": {
+      "owner": "pingdotgg",
+      "repo": "t3code",
+      "language": "TypeScript",
+      "stars": "252"
+    },
+    "FetchedAt": "2026-10-04T03:37:31.4011548+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cloudflare/cloudflare-os"
+    },
+    "Type": 0,
+    "Title": "cloudflare/cloudflare-os",
+    "Url": "https://github.com/cloudflare/cloudflare-os",
+    "Description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company\u2019s context and systems.",
+    "Metadata": {
+      "owner": "cloudflare",
+      "repo": "cloudflare-os",
+      "language": "TypeScript",
+      "stars": "85"
+    },
+    "FetchedAt": "2026-10-04T03:37:31.5702526+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "JavaScript",
+      "stars": "252",
+      "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
+    },
+    "FetchedAt": "2026-10-04T03:37:31.7343634+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:earendil-works/pi"
+    },
+    "Type": 0,
+    "Title": "earendil-works/pi",
+    "Url": "https://github.com/earendil-works/pi",
+    "Description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+    "Metadata": {
+      "owner": "earendil-works",
+      "repo": "pi",
+      "language": "TypeScript",
+      "stars": "408"
+    },
+    "FetchedAt": "2026-10-04T03:37:31.8887326+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:getsentry/sentry"
+    },
+    "Type": 0,
+    "Title": "getsentry/sentry",
+    "Url": "https://github.com/getsentry/sentry",
+    "Description": "Developer-first error tracking and performance monitoring",
+    "Metadata": {
+      "owner": "getsentry",
+      "repo": "sentry",
+      "language": "Python",
+      "stars": "214",
+      "topics": "apm, crash-reporting, crash-reports, csp-report, devops, django, error-logging, error-monitoring, fair-source, hacktoberfest, monitor, monitoring, python, sentry, tag-production"
+    },
+    "FetchedAt": "2026-10-04T03:37:32.0374599+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-code"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-code",
+    "Url": "https://github.com/anthropics/claude-code",
+    "Description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-code",
+      "language": "TypeScript",
+      "stars": "128"
+    },
+    "FetchedAt": "2026-10-04T03:37:32.194601+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jamwithai/production-agentic-rag-course"
+    },
+    "Type": 0,
+    "Title": "jamwithai/production-agentic-rag-course",
+    "Url": "https://github.com/jamwithai/production-agentic-rag-course",
+    "Description": "",
+    "Metadata": {
+      "owner": "jamwithai",
+      "repo": "production-agentic-rag-course",
+      "language": "Python",
+      "stars": "193"
+    },
+    "FetchedAt": "2026-10-04T03:37:32.346027+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:meituan-longcat/LongCat-Video"
+    },
+    "Type": 0,
+    "Title": "meituan-longcat/LongCat-Video",
+    "Url": "https://github.com/meituan-longcat/LongCat-Video",
+    "Description": "",
+    "Metadata": {
+      "owner": "meituan-longcat",
+      "repo": "LongCat-Video",
+      "language": "Python",
+      "stars": "44"
+    },
+    "FetchedAt": "2026-10-04T03:37:32.4871142+00:00"
+  }
+]
