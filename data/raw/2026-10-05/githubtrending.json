@@ -1,23 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:tester-army/e2e"
-    },
-    "Type": 0,
-    "Title": "tester-army/e2e",
-    "Url": "https://github.com/tester-army/e2e",
-    "Description": "Next generation e2e testing framework for web and mobile apps.",
-    "Metadata": {
-      "owner": "tester-army",
-      "repo": "e2e",
-      "language": "TypeScript",
-      "stars": "345",
-      "topics": "e2e, e2e-testing, end-to-end-testing, mobile, mobile-testing, playwright, web"
-    },
-    "FetchedAt": "2026-10-05T03:20:31.6588682+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:pbakaus/impeccable"
     },
     "Type": 0,
@@ -31,40 +14,6 @@
       "stars": "1,171"
     },
     "FetchedAt": "2026-10-05T03:20:31.8085697+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:earthtojake/text-to-cad"
-    },
-    "Type": 0,
-    "Title": "earthtojake/text-to-cad",
-    "Url": "https://github.com/earthtojake/text-to-cad",
-    "Description": "Give your agent CAD superpowers.",
-    "Metadata": {
-      "owner": "earthtojake",
-      "repo": "text-to-cad",
-      "language": "Python",
-      "stars": "83",
-      "topics": "agents, ai-agents, cad, mechanical-engineering, robotics, step, stl, stp, text-to-cad"
-    },
-    "FetchedAt": "2026-10-05T03:20:31.9289863+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:Panniantong/Agent-Reach"
-    },
-    "Type": 0,
-    "Title": "Panniantong/Agent-Reach",
-    "Url": "https://github.com/Panniantong/Agent-Reach",
-    "Description": "Give your AI agent eyes to see the entire internet. Read \u0026 search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
-    "Metadata": {
-      "owner": "Panniantong",
-      "repo": "Agent-Reach",
-      "language": "Python",
-      "stars": "980",
-      "topics": "agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript"
-    },
-    "FetchedAt": "2026-10-05T03:20:32.0425222+00:00"
   },
   {
     "ExternalId": {
@@ -82,39 +31,6 @@
       "topics": "apm, crash-reporting, crash-reports, csp-report, devops, django, error-logging, error-monitoring, fair-source, hacktoberfest, monitor, monitoring, python, sentry, tag-production"
     },
     "FetchedAt": "2026-10-05T03:20:32.1476415+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:pingdotgg/t3code"
-    },
-    "Type": 0,
-    "Title": "pingdotgg/t3code",
-    "Url": "https://github.com/pingdotgg/t3code",
-    "Description": "",
-    "Metadata": {
-      "owner": "pingdotgg",
-      "repo": "t3code",
-      "language": "TypeScript",
-      "stars": "490"
-    },
-    "FetchedAt": "2026-10-05T03:20:32.2728283+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:caddyserver/caddy"
-    },
-    "Type": 0,
-    "Title": "caddyserver/caddy",
-    "Url": "https://github.com/caddyserver/caddy",
-    "Description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
-    "Metadata": {
-      "owner": "caddyserver",
-      "repo": "caddy",
-      "language": "Go",
-      "stars": "24",
-      "topics": "acme, automatic-https, caddy, caddyfile, go, golang, http, http-server, http3, https, privacy, reverse-proxy, security, tls, web-server"
-    },
-    "FetchedAt": "2026-10-05T03:20:32.3910269+00:00"
   },
   {
     "ExternalId": {
@@ -165,5 +81,133 @@
       "stars": "125"
     },
     "FetchedAt": "2026-10-05T03:20:32.7435929+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:tester-army/e2e"
+    },
+    "Type": 0,
+    "Title": "tester-army/e2e",
+    "Url": "https://github.com/tester-army/e2e",
+    "Description": "Next generation e2e testing framework for web and mobile apps.",
+    "Metadata": {
+      "owner": "tester-army",
+      "repo": "e2e",
+      "language": "TypeScript",
+      "stars": "1,430"
+    },
+    "FetchedAt": "2026-10-05T13:10:58.4888135+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:earthtojake/text-to-cad"
+    },
+    "Type": 0,
+    "Title": "earthtojake/text-to-cad",
+    "Url": "https://github.com/earthtojake/text-to-cad",
+    "Description": "Give your agent CAD superpowers.",
+    "Metadata": {
+      "owner": "earthtojake",
+      "repo": "text-to-cad",
+      "language": "Python",
+      "stars": "456"
+    },
+    "FetchedAt": "2026-10-05T13:10:58.6070124+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pingdotgg/t3code"
+    },
+    "Type": 0,
+    "Title": "pingdotgg/t3code",
+    "Url": "https://github.com/pingdotgg/t3code",
+    "Description": "",
+    "Metadata": {
+      "owner": "pingdotgg",
+      "repo": "t3code",
+      "language": "TypeScript",
+      "stars": "487"
+    },
+    "FetchedAt": "2026-10-05T13:10:58.6474001+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:boykopovar/AnyPS5"
+    },
+    "Type": 0,
+    "Title": "boykopovar/AnyPS5",
+    "Url": "https://github.com/boykopovar/AnyPS5",
+    "Description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "Metadata": {
+      "owner": "boykopovar",
+      "repo": "AnyPS5",
+      "language": "C\u002B\u002B",
+      "stars": "994"
+    },
+    "FetchedAt": "2026-10-05T13:10:58.6809653+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Panniantong/Agent-Reach"
+    },
+    "Type": 0,
+    "Title": "Panniantong/Agent-Reach",
+    "Url": "https://github.com/Panniantong/Agent-Reach",
+    "Description": "Give your AI agent eyes to see the entire internet. Read \u0026amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+    "Metadata": {
+      "owner": "Panniantong",
+      "repo": "Agent-Reach",
+      "language": "Python",
+      "stars": "1,156"
+    },
+    "FetchedAt": "2026-10-05T13:10:58.7173001+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:caddyserver/caddy"
+    },
+    "Type": 0,
+    "Title": "caddyserver/caddy",
+    "Url": "https://github.com/caddyserver/caddy",
+    "Description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+    "Metadata": {
+      "owner": "caddyserver",
+      "repo": "caddy",
+      "language": "Go",
+      "stars": "526"
+    },
+    "FetchedAt": "2026-10-05T13:10:58.7541348+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cloudflare/cloudflare-os"
+    },
+    "Type": 0,
+    "Title": "cloudflare/cloudflare-os",
+    "Url": "https://github.com/cloudflare/cloudflare-os",
+    "Description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company\u2019s context and systems.",
+    "Metadata": {
+      "owner": "cloudflare",
+      "repo": "cloudflare-os",
+      "language": "TypeScript",
+      "stars": "102"
+    },
+    "FetchedAt": "2026-10-05T13:10:58.7907936+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Stremio/stremio-web"
+    },
+    "Type": 0,
+    "Title": "Stremio/stremio-web",
+    "Url": "https://github.com/Stremio/stremio-web",
+    "Description": "Stremio - Freedom to Stream",
+    "Metadata": {
+      "owner": "Stremio",
+      "repo": "stremio-web",
+      "language": "JavaScript",
+      "stars": "111"
+    },
+    "FetchedAt": "2026-10-05T13:10:58.8243316+00:00"
   }
 ]
