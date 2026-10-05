@@ -331,66 +331,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49963171"
-    },
-    "Type": 1,
-    "Title": "Web Search API",
-    "Url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-    "Description": "Web Search API",
-    "Metadata": {
-      "score": "98",
-      "author": "tosh",
-      "commentCount": "54"
-    },
-    "FetchedAt": "2026-10-05T13:10:59.3083177+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49961861"
-    },
-    "Type": 1,
-    "Title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-    "Url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
-    "Description": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-    "Metadata": {
-      "score": "92",
-      "author": "0xedb",
-      "commentCount": "57"
-    },
-    "FetchedAt": "2026-10-05T13:10:59.3561693+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49962857"
-    },
-    "Type": 1,
-    "Title": "Apple and a Hacker\u0027s Future",
-    "Url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-    "Description": "Apple and a Hacker\u0027s Future",
-    "Metadata": {
-      "score": "86",
-      "author": "maguay",
-      "commentCount": "57"
-    },
-    "FetchedAt": "2026-10-05T13:10:59.4047121+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49943479"
-    },
-    "Type": 1,
-    "Title": "Type Safe Generic Data Structures in C",
-    "Url": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
-    "Description": "Type Safe Generic Data Structures in C",
-    "Metadata": {
-      "score": "32",
-      "author": "AlexeyBrin",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-10-05T13:10:59.4532013+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49953495"
     },
     "Type": 1,
@@ -493,21 +433,6 @@
       "commentCount": "67"
     },
     "FetchedAt": "2026-10-05T13:10:59.7953499+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49920785"
-    },
-    "Type": 1,
-    "Title": "First Implantable Cochlear Implant Launches",
-    "Url": "https://spectrum.ieee.org/fully-implantable-cochlear-implant",
-    "Description": "First Implantable Cochlear Implant Launches",
-    "Metadata": {
-      "score": "31",
-      "author": "rbanffy",
-      "commentCount": "21"
-    },
-    "FetchedAt": "2026-10-05T13:10:59.8439801+00:00"
   },
   {
     "ExternalId": {
@@ -733,5 +658,455 @@
       "commentCount": "36"
     },
     "FetchedAt": "2026-10-05T13:11:01.4163714+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49969183"
+    },
+    "Type": 1,
+    "Title": "Beam: Reflection\u0027s 501B open-weight model",
+    "Url": "https://reflection.ai/blog/introducing-beam",
+    "Description": "Beam: Reflection\u0027s 501B open-weight model",
+    "Metadata": {
+      "score": "257",
+      "author": "Philpax",
+      "commentCount": "66"
+    },
+    "FetchedAt": "2026-10-05T23:31:46.2123777+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49971230"
+    },
+    "Type": 1,
+    "Title": "Find the flattest route between any two points in SF",
+    "Url": "https://flattensf.com/",
+    "Description": "Find the flattest route between any two points in SF",
+    "Metadata": {
+      "score": "64",
+      "author": "ishan0102",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-10-05T23:31:46.2660344+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49970871"
+    },
+    "Type": 1,
+    "Title": "Dust: Pretraining Transformers Without Backpropagation",
+    "Url": "https://qlabs.sh/research/dust",
+    "Description": "Dust: Pretraining Transformers Without Backpropagation",
+    "Metadata": {
+      "score": "66",
+      "author": "E-Reverance",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-10-05T23:31:46.3234988+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49970667"
+    },
+    "Type": 1,
+    "Title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+    "Url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+    "Description": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+    "Metadata": {
+      "score": "165",
+      "author": "outlier99",
+      "commentCount": "124"
+    },
+    "FetchedAt": "2026-10-05T23:31:46.3752432+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49971921"
+    },
+    "Type": 1,
+    "Title": "Example.com Just Launched the Biggest Redesign in Decades",
+    "Url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+    "Description": "Example.com Just Launched the Biggest Redesign in Decades",
+    "Metadata": {
+      "score": "20",
+      "author": "jgx0",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-10-05T23:31:46.4269226+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49951693"
+    },
+    "Type": 1,
+    "Title": "Using Blu-ray M-Disk as Backup of Last Resort",
+    "Url": "https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/",
+    "Description": "Using Blu-ray M-Disk as Backup of Last Resort",
+    "Metadata": {
+      "score": "37",
+      "author": "hukl",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-10-05T23:31:46.4792863+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49963171"
+    },
+    "Type": 1,
+    "Title": "Web Search API",
+    "Url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+    "Description": "Web Search API",
+    "Metadata": {
+      "score": "468",
+      "author": "tosh",
+      "commentCount": "212"
+    },
+    "FetchedAt": "2026-10-05T23:31:46.5307643+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49971356"
+    },
+    "Type": 1,
+    "Title": "Graphical UI",
+    "Url": "https://www.graphicalui.com/",
+    "Description": "Graphical UI",
+    "Metadata": {
+      "score": "10",
+      "author": "handfuloflight",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-05T23:31:46.5859684+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49971952"
+    },
+    "Type": 1,
+    "Title": "Worth Building",
+    "Url": "https://armstr.ng/writing/worth-building",
+    "Description": "Worth Building",
+    "Metadata": {
+      "score": "12",
+      "author": "colinarms",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-05T23:31:46.6382094+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49944049"
+    },
+    "Type": 1,
+    "Title": "Competitive Programmer\u0027s Handbook (2018) [pdf]",
+    "Url": "https://cses.fi/book/book.pdf",
+    "Description": "Competitive Programmer\u0027s Handbook (2018) [pdf]",
+    "Metadata": {
+      "score": "92",
+      "author": "vinhnx",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-10-05T23:31:46.6916809+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49953195"
+    },
+    "Type": 1,
+    "Title": "DEDA \u2013 Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
+    "Url": "https://github.com/dfd-tud/deda",
+    "Description": "DEDA \u2013 Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
+    "Metadata": {
+      "score": "17",
+      "author": "greyface-",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-10-05T23:31:46.7445408+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49970073"
+    },
+    "Type": 1,
+    "Title": "A third way of using Linux",
+    "Url": "https://hisvirusness.com/third-is-the-way",
+    "Description": "A third way of using Linux",
+    "Metadata": {
+      "score": "24",
+      "author": "speckx",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-10-05T23:31:46.7961671+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49961057"
+    },
+    "Type": 1,
+    "Title": "Anthropic reported diary entry to police, woman faces felony charge",
+    "Url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+    "Description": "Anthropic reported diary entry to police, woman faces felony charge",
+    "Metadata": {
+      "score": "476",
+      "author": "emptybits",
+      "commentCount": "400"
+    },
+    "FetchedAt": "2026-10-05T23:31:46.8515161+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49965308"
+    },
+    "Type": 1,
+    "Title": "Making a GTK application in Haskell, part 1",
+    "Url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+    "Description": "Making a GTK application in Haskell, part 1",
+    "Metadata": {
+      "score": "124",
+      "author": "Vosporos",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-10-05T23:31:46.9039226+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49971846"
+    },
+    "Type": 1,
+    "Title": "ChatGPT is adding real cartoonists\u0027 signatures to fake New Yorker cartoons",
+    "Url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+    "Description": "ChatGPT is adding real cartoonists\u0027 signatures to fake New Yorker cartoons",
+    "Metadata": {
+      "score": "5",
+      "author": "rdmuser",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-05T23:31:46.9554832+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49971523"
+    },
+    "Type": 1,
+    "Title": "Texas city demands $2M for public records on Flock usage",
+    "Url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+    "Description": "Texas city demands $2M for public records on Flock usage",
+    "Metadata": {
+      "score": "32",
+      "author": "01-_-",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-10-05T23:31:47.007879+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49971782"
+    },
+    "Type": 1,
+    "Title": "Global Solar Atlas: summary of solar power potential globally",
+    "Url": "https://globalsolaratlas.info/",
+    "Description": "Global Solar Atlas: summary of solar power potential globally",
+    "Metadata": {
+      "score": "4",
+      "author": "stratts",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-10-05T23:31:47.0599339+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49965118"
+    },
+    "Type": 1,
+    "Title": "Linux containers in 500 lines of code (2016)",
+    "Url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+    "Description": "Linux containers in 500 lines of code (2016)",
+    "Metadata": {
+      "score": "89",
+      "author": "mkornaukhov",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-10-05T23:31:47.1113103+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49971678"
+    },
+    "Type": 1,
+    "Title": "Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]",
+    "Url": "https://nivdayan.github.io/dostoevsky.pdf",
+    "Description": "Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]",
+    "Metadata": {
+      "score": "4",
+      "author": "ibobev",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-05T23:31:47.162425+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49969256"
+    },
+    "Type": 1,
+    "Title": "The Future of Mathematics",
+    "Url": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/",
+    "Description": "The Future of Mathematics",
+    "Metadata": {
+      "score": "72",
+      "author": "smilelamp",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-10-05T23:31:47.2136875+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49969961"
+    },
+    "Type": 1,
+    "Title": "Incident with Actions",
+    "Url": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
+    "Description": "Incident with Actions",
+    "Metadata": {
+      "score": "92",
+      "author": "hising",
+      "commentCount": "62"
+    },
+    "FetchedAt": "2026-10-05T23:31:47.2670663+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49965152"
+    },
+    "Type": 1,
+    "Title": "The lamps in my house",
+    "Url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
+    "Description": "The lamps in my house",
+    "Metadata": {
+      "score": "109",
+      "author": "farslan",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-10-05T23:31:47.3188824+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49952148"
+    },
+    "Type": 1,
+    "Title": "Show HN: Nightwatch \u2013 a Mac menu-bar app that tells you when tonight is clear",
+    "Url": "https://github.com/rsutcliffe/nightwatch",
+    "Description": "Here in the north of England clear nights are at a premium, and it\u0026#x27;s never guaranteed that you\u0026#x27;ll be able to see anything but cloud. That\u0026#x27;s why I developed Nightwatch, so that I could be notified when one of those precious few nights where I could see into the heavens was available. Finding out whether tonight was worth setting up meant reading forecast charts every evening, usually to learn that it was not. Nightwatch does that reading for me.\u003Cp\u003EIt sits in the Mac\u0026#x27;s menu bar",
+    "Metadata": {
+      "score": "68",
+      "author": "delphidolphin",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-10-05T23:31:47.3718513+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49962857"
+    },
+    "Type": 1,
+    "Title": "Apple and a hacker\u0027s future",
+    "Url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+    "Description": "Apple and a hacker\u0027s future",
+    "Metadata": {
+      "score": "189",
+      "author": "maguay",
+      "commentCount": "176"
+    },
+    "FetchedAt": "2026-10-05T23:31:47.4235292+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49961861"
+    },
+    "Type": 1,
+    "Title": "Qualcomm licenses patents on Huawei\u2019s LogicFolding chip tech",
+    "Url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;Axpbl\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;Axpbl\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.huawei.com\u0026#x2F;en\u0026#x2F;news\u0026#x2F;2026\u0026#x2F;10\u0026#x2F;qualcomm-broad-patent-agreement\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.huawei.com\u0026#x2F;en\u0026#x2F;news\u0026#x2F;2026\u0026#x2F;10\u0026#x2F;qualcomm-broad-patent...\u003C/a\u003E",
+    "Metadata": {
+      "score": "172",
+      "author": "0xedb",
+      "commentCount": "110"
+    },
+    "FetchedAt": "2026-10-05T23:31:47.4760656+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49920785"
+    },
+    "Type": 1,
+    "Title": "The first fully implanted cochlear implant reaches patients",
+    "Url": "https://spectrum.ieee.org/fully-implantable-cochlear-implant",
+    "Description": "The first fully implanted cochlear implant reaches patients",
+    "Metadata": {
+      "score": "56",
+      "author": "rbanffy",
+      "commentCount": "54"
+    },
+    "FetchedAt": "2026-10-05T23:31:47.5280655+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49968402"
+    },
+    "Type": 1,
+    "Title": "Norway Eyes Partial Ban of Smart Glasses",
+    "Url": "https://www.barrons.com/news/norway-eyes-partial-ban-of-smart-glasses-e65dc239",
+    "Description": "Norway Eyes Partial Ban of Smart Glasses",
+    "Metadata": {
+      "score": "122",
+      "author": "pseudolus",
+      "commentCount": "72"
+    },
+    "FetchedAt": "2026-10-05T23:31:47.5812041+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49962572"
+    },
+    "Type": 1,
+    "Title": "2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel",
+    "Url": "https://www.nobelprize.org/prizes/medicine/2026/summary/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.nobelprize.org\u0026#x2F;prizes\u0026#x2F;medicine\u0026#x2F;2026\u0026#x2F;press-release\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.nobelprize.org\u0026#x2F;prizes\u0026#x2F;medicine\u0026#x2F;2026\u0026#x2F;press-releas...\u003C/a\u003E",
+    "Metadata": {
+      "score": "118",
+      "author": "lode",
+      "commentCount": "45"
+    },
+    "FetchedAt": "2026-10-05T23:31:47.6327274+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49943479"
+    },
+    "Type": 1,
+    "Title": "Type Safe Generic Data Structures in C (2025)",
+    "Url": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
+    "Description": "Type Safe Generic Data Structures in C (2025)",
+    "Metadata": {
+      "score": "130",
+      "author": "AlexeyBrin",
+      "commentCount": "100"
+    },
+    "FetchedAt": "2026-10-05T23:31:47.6841896+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49944392"
+    },
+    "Type": 1,
+    "Title": "The era of software quality, or the era of ostriches?",
+    "Url": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
+    "Description": "The era of software quality, or the era of ostriches?",
+    "Metadata": {
+      "score": "21",
+      "author": "vinhnx",
+      "commentCount": "60"
+    },
+    "FetchedAt": "2026-10-05T23:31:47.7359356+00:00"
   }
 ]

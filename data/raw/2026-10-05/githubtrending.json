@@ -94,9 +94,10 @@
       "owner": "tester-army",
       "repo": "e2e",
       "language": "TypeScript",
-      "stars": "1,430"
+      "stars": "1,430",
+      "topics": "e2e, e2e-testing, end-to-end-testing, mobile, mobile-testing, playwright, web"
     },
-    "FetchedAt": "2026-10-05T13:10:58.4888135+00:00"
+    "FetchedAt": "2026-10-05T23:31:44.4849923+00:00"
   },
   {
     "ExternalId": {
@@ -110,9 +111,10 @@
       "owner": "earthtojake",
       "repo": "text-to-cad",
       "language": "Python",
-      "stars": "456"
+      "stars": "456",
+      "topics": "agents, ai-agents, cad, mechanical-engineering, robotics, step, stl, stp, text-to-cad"
     },
-    "FetchedAt": "2026-10-05T13:10:58.6070124+00:00"
+    "FetchedAt": "2026-10-05T23:31:44.7120502+00:00"
   },
   {
     "ExternalId": {
@@ -128,7 +130,7 @@
       "language": "TypeScript",
       "stars": "487"
     },
-    "FetchedAt": "2026-10-05T13:10:58.6474001+00:00"
+    "FetchedAt": "2026-10-05T23:31:44.8483179+00:00"
   },
   {
     "ExternalId": {
@@ -142,9 +144,10 @@
       "owner": "boykopovar",
       "repo": "AnyPS5",
       "language": "C\u002B\u002B",
-      "stars": "994"
+      "stars": "994",
+      "topics": "anyps5, dynamic-library, game-porting, ps5, ps5-tools, spir-v, vulkan"
     },
-    "FetchedAt": "2026-10-05T13:10:58.6809653+00:00"
+    "FetchedAt": "2026-10-05T23:31:45.0098747+00:00"
   },
   {
     "ExternalId": {
@@ -153,14 +156,15 @@
     "Type": 0,
     "Title": "Panniantong/Agent-Reach",
     "Url": "https://github.com/Panniantong/Agent-Reach",
-    "Description": "Give your AI agent eyes to see the entire internet. Read \u0026amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+    "Description": "Give your AI agent eyes to see the entire internet. Read \u0026 search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
     "Metadata": {
       "owner": "Panniantong",
       "repo": "Agent-Reach",
       "language": "Python",
-      "stars": "1,156"
+      "stars": "1,156",
+      "topics": "agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript"
     },
-    "FetchedAt": "2026-10-05T13:10:58.7173001+00:00"
+    "FetchedAt": "2026-10-05T23:31:45.1586105+00:00"
   },
   {
     "ExternalId": {
@@ -174,9 +178,10 @@
       "owner": "caddyserver",
       "repo": "caddy",
       "language": "Go",
-      "stars": "526"
+      "stars": "526",
+      "topics": "acme, automatic-https, caddy, caddyfile, go, golang, http, http-server, http3, https, privacy, reverse-proxy, security, tls, web-server"
     },
-    "FetchedAt": "2026-10-05T13:10:58.7541348+00:00"
+    "FetchedAt": "2026-10-05T23:31:45.3138485+00:00"
   },
   {
     "ExternalId": {
@@ -192,7 +197,7 @@
       "language": "TypeScript",
       "stars": "102"
     },
-    "FetchedAt": "2026-10-05T13:10:58.7907936+00:00"
+    "FetchedAt": "2026-10-05T23:31:45.4534067+00:00"
   },
   {
     "ExternalId": {
@@ -206,8 +211,26 @@
       "owner": "Stremio",
       "repo": "stremio-web",
       "language": "JavaScript",
-      "stars": "111"
+      "stars": "111",
+      "topics": "hacktoberfest, stremio"
     },
-    "FetchedAt": "2026-10-05T13:10:58.8243316+00:00"
+    "FetchedAt": "2026-10-05T23:31:45.5904717+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:M-Abozaid/esp32-c3-adblock"
+    },
+    "Type": 0,
+    "Title": "M-Abozaid/esp32-c3-adblock",
+    "Url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+    "Description": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole \u002B web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share",
+    "Metadata": {
+      "owner": "M-Abozaid",
+      "repo": "esp32-c3-adblock",
+      "language": "C\u002B\u002B",
+      "stars": "196",
+      "topics": "adblocker, arduino, dns, dns-sinkhole, esp32, esp32-c3, iot, pi-hole, platformio"
+    },
+    "FetchedAt": "2026-10-05T23:31:45.7555092+00:00"
   }
 ]
