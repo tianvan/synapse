@@ -1,141 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:49984923"
-    },
-    "Type": 1,
-    "Title": "Sharing AI progress in mathematics",
-    "Url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;openai\u0026#x2F;math\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;openai\u0026#x2F;math\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;openai\u0026#x2F;math\u0026#x2F;tree\u0026#x2F;main\u0026#x2F;preprints\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;openai\u0026#x2F;math\u0026#x2F;tree\u0026#x2F;main\u0026#x2F;preprints\u003C/a\u003E",
-    "Metadata": {
-      "score": "534",
-      "author": "OfficialTurkey",
-      "commentCount": "457"
-    },
-    "FetchedAt": "2026-10-07T03:34:58.565891+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49987076"
-    },
-    "Type": 1,
-    "Title": "Strands Decider 2B: a small, open-source, decision model",
-    "Url": "https://strandsagents.com/blog/introducing-strands-decider/",
-    "Description": "Strands Decider 2B: a small, open-source, decision model",
-    "Metadata": {
-      "score": "50",
-      "author": "gmays",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-10-07T03:34:58.6414057+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49977979"
-    },
-    "Type": 1,
-    "Title": "Mistral Large 4",
-    "Url": "https://mistral.ai/news/mistral-large-4/\\",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;docs.mistral.ai\u0026#x2F;models\u0026#x2F;mistral-large-4-0\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;docs.mistral.ai\u0026#x2F;models\u0026#x2F;mistral-large-4-0\u003C/a\u003E",
-    "Metadata": {
-      "score": "1625",
-      "author": "Philpax",
-      "commentCount": "974"
-    },
-    "FetchedAt": "2026-10-07T03:34:58.6960127+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49984025"
-    },
-    "Type": 1,
-    "Title": "Decisions API is in public beta",
-    "Url": "https://developers.openai.com/api/docs/guides/decisions",
-    "Description": "Decisions API is in public beta",
-    "Metadata": {
-      "score": "181",
-      "author": "chiefstorm",
-      "commentCount": "75"
-    },
-    "FetchedAt": "2026-10-07T03:34:58.8019964+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49950865"
-    },
-    "Type": 1,
-    "Title": "The cost of lies: A Mineserver story",
-    "Url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true\u0026p=272",
-    "Description": "The cost of lies: A Mineserver story",
-    "Metadata": {
-      "score": "27",
-      "author": "luu",
-      "commentCount": "8"
-    },
-    "FetchedAt": "2026-10-07T03:34:58.9043573+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49987675"
-    },
-    "Type": 1,
-    "Title": "La Cueva BBS in Mexico in 1993 (session replay)",
-    "Url": "https://nanochess.org/la_cueva_bbs.html",
-    "Description": "La Cueva BBS in Mexico in 1993 (session replay)",
-    "Metadata": {
-      "score": "6",
-      "author": "nanochess",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-10-07T03:34:58.9713835+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49984716"
-    },
-    "Type": 1,
-    "Title": "Penguin Mail \u2013 open-source Rust email client for Linux with AI",
-    "Url": "https://penguin-mail.com/",
-    "Description": "Penguin Mail \u2013 open-source Rust email client for Linux with AI",
-    "Metadata": {
-      "score": "94",
-      "author": "kavourias",
-      "commentCount": "41"
-    },
-    "FetchedAt": "2026-10-07T03:34:59.010842+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49980487"
-    },
-    "Type": 1,
-    "Title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-    "Url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-    "Description": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-    "Metadata": {
-      "score": "247",
-      "author": "ilreb",
-      "commentCount": "31"
-    },
-    "FetchedAt": "2026-10-07T03:34:59.0897735+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49981905"
-    },
-    "Type": 1,
-    "Title": "Claude Code\u2019s suggested message feature: I think the real customer is the model",
-    "Url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-    "Description": "Claude Code\u2019s suggested message feature: I think the real customer is the model",
-    "Metadata": {
-      "score": "127",
-      "author": "zed_labs_dev",
-      "commentCount": "63"
-    },
-    "FetchedAt": "2026-10-07T03:34:59.1299482+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49985664"
     },
     "Type": 1,
@@ -148,36 +13,6 @@
       "commentCount": "103"
     },
     "FetchedAt": "2026-10-07T03:34:59.1630812+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49986862"
-    },
-    "Type": 1,
-    "Title": "ESP32-C3 Adblock",
-    "Url": "https://github.com/M-Abozaid/esp32-c3-adblock",
-    "Description": "ESP32-C3 Adblock",
-    "Metadata": {
-      "score": "15",
-      "author": "jayhoon",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-10-07T03:34:59.1970923+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49980715"
-    },
-    "Type": 1,
-    "Title": "OpenTPU \u2013 An open-source AI accelerator, developed by AI",
-    "Url": "https://github.com/FeSens/openTPU",
-    "Description": "OpenTPU \u2013 An open-source AI accelerator, developed by AI",
-    "Metadata": {
-      "score": "251",
-      "author": "fsbonetto",
-      "commentCount": "308"
-    },
-    "FetchedAt": "2026-10-07T03:34:59.2306571+00:00"
   },
   {
     "ExternalId": {
@@ -211,21 +46,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49985643"
-    },
-    "Type": 1,
-    "Title": "State of Devs 2026",
-    "Url": "https://2026.stateofdevs.com/en-US/",
-    "Description": "State of Devs 2026",
-    "Metadata": {
-      "score": "91",
-      "author": "sgdesign",
-      "commentCount": "26"
-    },
-    "FetchedAt": "2026-10-07T03:34:59.3879898+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49981197"
     },
     "Type": 1,
@@ -238,21 +58,6 @@
       "commentCount": "105"
     },
     "FetchedAt": "2026-10-07T03:34:59.4506139+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:49983404"
-    },
-    "Type": 1,
-    "Title": "When random is not actually random enough",
-    "Url": "https://ersc.io/blog/when-random-isnt-random-enough",
-    "Description": "When random is not actually random enough",
-    "Metadata": {
-      "score": "35",
-      "author": "steveklabnik",
-      "commentCount": "8"
-    },
-    "FetchedAt": "2026-10-07T03:34:59.504061+00:00"
   },
   {
     "ExternalId": {
@@ -361,21 +166,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:49980790"
-    },
-    "Type": 1,
-    "Title": "Treg (OpenRouter for Tools)",
-    "Url": "https://github.com/superdesigndev/treg",
-    "Description": "Treg (OpenRouter for Tools)",
-    "Metadata": {
-      "score": "4",
-      "author": "trollied",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-10-07T03:34:59.7773959+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:49987245"
     },
     "Type": 1,
@@ -448,5 +238,455 @@
       "commentCount": "23"
     },
     "FetchedAt": "2026-10-07T03:34:59.9466889+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49991227"
+    },
+    "Type": 1,
+    "Title": "Shipping JPEG XL in Chrome",
+    "Url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+    "Description": "Shipping JPEG XL in Chrome",
+    "Metadata": {
+      "score": "71",
+      "author": "AshleysBrain",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-10-07T12:24:38.924632+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49990224"
+    },
+    "Type": 1,
+    "Title": "A font recreated from photographs of classic Commodore 64 keycaps",
+    "Url": "https://github.com/szabadkai/c64-keyboard-font/",
+    "Description": "A font recreated from photographs of classic Commodore 64 keycaps",
+    "Metadata": {
+      "score": "139",
+      "author": "sohkamyung",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-10-07T12:24:38.9571056+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49990470"
+    },
+    "Type": 1,
+    "Title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+    "Url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+    "Description": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+    "Metadata": {
+      "score": "76",
+      "author": "sasvari",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-10-07T12:24:38.9908093+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49984923"
+    },
+    "Type": 1,
+    "Title": "Sharing AI progress in mathematics",
+    "Url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;openai\u0026#x2F;math\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;openai\u0026#x2F;math\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;openai\u0026#x2F;math\u0026#x2F;tree\u0026#x2F;main\u0026#x2F;preprints\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;openai\u0026#x2F;math\u0026#x2F;tree\u0026#x2F;main\u0026#x2F;preprints\u003C/a\u003E",
+    "Metadata": {
+      "score": "998",
+      "author": "OfficialTurkey",
+      "commentCount": "971"
+    },
+    "FetchedAt": "2026-10-07T12:24:39.0231955+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49987076"
+    },
+    "Type": 1,
+    "Title": "Strands Decider 2B: a small, open-source, decision model",
+    "Url": "https://strandsagents.com/blog/introducing-strands-decider/",
+    "Description": "Strands Decider 2B: a small, open-source, decision model",
+    "Metadata": {
+      "score": "213",
+      "author": "gmays",
+      "commentCount": "57"
+    },
+    "FetchedAt": "2026-10-07T12:24:39.0562432+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49954015"
+    },
+    "Type": 1,
+    "Title": "Show HN: AstroHelm \u2013 Use your phone camera to aim a telescope or telephoto lens",
+    "Url": "https://astrohelm.app/",
+    "Description": "Hello HN!\u003Cp\u003EAs an amateur astronomer living in New York City, finding objects in the night sky has always been a huge challenge. I thought about using the smartphone\u0026#x27;s gyroscope and magnetometer, but the accuracy left a lot to be desired.\u003Cp\u003EThen I learned about plate solving: given a picture of the sky, we can determine exactly where in the sky the camera was pointing by identifying the star pattern. This was a much better fit - as long as the phone and the optics are rigidly connected, we ",
+    "Metadata": {
+      "score": "17",
+      "author": "HeavenFox",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-10-07T12:24:39.0890875+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49984025"
+    },
+    "Type": 1,
+    "Title": "Decisions API is in public beta",
+    "Url": "https://developers.openai.com/api/docs/guides/decisions",
+    "Description": "Decisions API is in public beta",
+    "Metadata": {
+      "score": "334",
+      "author": "chiefstorm",
+      "commentCount": "177"
+    },
+    "FetchedAt": "2026-10-07T12:24:39.1220794+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49986862"
+    },
+    "Type": 1,
+    "Title": "ESP32-C3 Adblock",
+    "Url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+    "Description": "ESP32-C3 Adblock",
+    "Metadata": {
+      "score": "130",
+      "author": "jayhoon",
+      "commentCount": "51"
+    },
+    "FetchedAt": "2026-10-07T12:24:39.154802+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49977979"
+    },
+    "Type": 1,
+    "Title": "Mistral Large 4",
+    "Url": "https://mistral.ai/news/mistral-large-4/\\",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;docs.mistral.ai\u0026#x2F;models\u0026#x2F;mistral-large-4-0\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;docs.mistral.ai\u0026#x2F;models\u0026#x2F;mistral-large-4-0\u003C/a\u003E",
+    "Metadata": {
+      "score": "1878",
+      "author": "Philpax",
+      "commentCount": "1128"
+    },
+    "FetchedAt": "2026-10-07T12:24:39.191908+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49980487"
+    },
+    "Type": 1,
+    "Title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+    "Url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+    "Description": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+    "Metadata": {
+      "score": "356",
+      "author": "ilreb",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-10-07T12:24:39.2282244+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49978333"
+    },
+    "Type": 1,
+    "Title": "What is Codemode",
+    "Url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
+    "Description": "What is Codemode",
+    "Metadata": {
+      "score": "106",
+      "author": "Tomte",
+      "commentCount": "48"
+    },
+    "FetchedAt": "2026-10-07T12:24:39.2719453+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49988709"
+    },
+    "Type": 1,
+    "Title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
+    "Url": "https://github.com/shader-effects-inc/shaders",
+    "Description": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
+    "Metadata": {
+      "score": "39",
+      "author": "jinqueeny",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-10-07T12:24:39.3062974+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49982498"
+    },
+    "Type": 1,
+    "Title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+    "Url": "https://news.ycombinator.com/item?id=49982498",
+    "Description": "I am a developer of https:\u0026#x2F;\u0026#x2F;www.photopea.com, a popular photo editor that runs in a web browser.\u003Cp\u003EMany people are asking AI models to take the Javascript code from my website, remove all ads from it, and they publish such a \u0026quot;new product\u0026quot; on Github for everyone to download.\u003Cp\u003EThere exist tens of such repositories on Github. I want my website to be the only source of a stable version of my program Photopea. I even received emails from people complaining about something in Phot",
+    "Metadata": {
+      "score": "327",
+      "author": "IvanK_net",
+      "commentCount": "178"
+    },
+    "FetchedAt": "2026-10-07T12:24:39.4480796+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49956219"
+    },
+    "Type": 1,
+    "Title": "Gallery of Processor Cache Effects (2010)",
+    "Url": "https://igoro.com/archive/gallery-of-processor-cache-effects/",
+    "Description": "Gallery of Processor Cache Effects (2010)",
+    "Metadata": {
+      "score": "23",
+      "author": "porridgeraisin",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-10-07T12:24:39.5275112+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49950865"
+    },
+    "Type": 1,
+    "Title": "The cost of lies: A Mineserver story",
+    "Url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true\u0026p=272",
+    "Description": "The cost of lies: A Mineserver story",
+    "Metadata": {
+      "score": "133",
+      "author": "luu",
+      "commentCount": "57"
+    },
+    "FetchedAt": "2026-10-07T12:24:39.5769784+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49984716"
+    },
+    "Type": 1,
+    "Title": "Penguin Mail \u2013 open-source Rust email client for Linux with AI",
+    "Url": "https://penguin-mail.com/",
+    "Description": "Penguin Mail \u2013 open-source Rust email client for Linux with AI",
+    "Metadata": {
+      "score": "209",
+      "author": "kavourias",
+      "commentCount": "135"
+    },
+    "FetchedAt": "2026-10-07T12:24:39.6159065+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49981905"
+    },
+    "Type": 1,
+    "Title": "Claude Code\u2019s suggested message feature: I think the real customer is the model",
+    "Url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+    "Description": "Claude Code\u2019s suggested message feature: I think the real customer is the model",
+    "Metadata": {
+      "score": "224",
+      "author": "zed_labs_dev",
+      "commentCount": "130"
+    },
+    "FetchedAt": "2026-10-07T12:24:39.6490262+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49957044"
+    },
+    "Type": 1,
+    "Title": "Show HN: Arcadeia \u2013 A self-hosted media library with animated video previews",
+    "Url": "https://github.com/travelonium/arcadeia",
+    "Description": "Show HN: Arcadeia \u2013 A self-hosted media library with animated video previews",
+    "Metadata": {
+      "score": "9",
+      "author": "omidontop",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-10-07T12:24:39.6823716+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49949680"
+    },
+    "Type": 1,
+    "Title": "Rust\u0027s derive often implies inline",
+    "Url": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
+    "Description": "Rust\u0027s derive often implies inline",
+    "Metadata": {
+      "score": "4",
+      "author": "woodruffw",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-07T12:24:39.7200368+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49953939"
+    },
+    "Type": 1,
+    "Title": "The Legend of the Paper Crane",
+    "Url": "https://mazdastories.com/en_us/inspire/paper-cranes-into-the-fold/",
+    "Description": "The Legend of the Paper Crane",
+    "Metadata": {
+      "score": "22",
+      "author": "vismit2000",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-10-07T12:24:39.784557+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49980715"
+    },
+    "Type": 1,
+    "Title": "OpenTPU \u2013 An open-source AI accelerator, developed by AI",
+    "Url": "https://github.com/FeSens/openTPU",
+    "Description": "OpenTPU \u2013 An open-source AI accelerator, developed by AI",
+    "Metadata": {
+      "score": "304",
+      "author": "fsbonetto",
+      "commentCount": "353"
+    },
+    "FetchedAt": "2026-10-07T12:24:39.831231+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49990763"
+    },
+    "Type": 1,
+    "Title": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
+    "Url": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating",
+    "Description": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
+    "Metadata": {
+      "score": "21",
+      "author": "password54321",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-10-07T12:24:39.8758069+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49989684"
+    },
+    "Type": 1,
+    "Title": "Forever Junior: The Skills AI Can\u0027t Develop for You",
+    "Url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/",
+    "Description": "Forever Junior: The Skills AI Can\u0027t Develop for You",
+    "Metadata": {
+      "score": "11",
+      "author": "brugidou",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-10-07T12:24:39.9214086+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49987765"
+    },
+    "Type": 1,
+    "Title": "Show HN: NanoMuse \u2013 An open-source AI agent for your phone and computer",
+    "Url": "https://github.com/nano-muse/nanoMuse",
+    "Description": "Show HN: NanoMuse \u2013 An open-source AI agent for your phone and computer",
+    "Metadata": {
+      "score": "29",
+      "author": "ilreb",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-10-07T12:24:39.9543617+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49987675"
+    },
+    "Type": 1,
+    "Title": "La Cueva BBS in Mexico in 1993 (session replay)",
+    "Url": "https://nanochess.org/la_cueva_bbs.html",
+    "Description": "La Cueva BBS in Mexico in 1993 (session replay)",
+    "Metadata": {
+      "score": "57",
+      "author": "nanochess",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-10-07T12:24:39.9922195+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49987858"
+    },
+    "Type": 1,
+    "Title": "The art of defusing a second world war bomb",
+    "Url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
+    "Description": "The art of defusing a second world war bomb",
+    "Metadata": {
+      "score": "83",
+      "author": "sandebert",
+      "commentCount": "57"
+    },
+    "FetchedAt": "2026-10-07T12:24:40.0276252+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49980790"
+    },
+    "Type": 1,
+    "Title": "Treg (OpenRouter for Tools)",
+    "Url": "https://github.com/superdesigndev/treg",
+    "Description": "Treg (OpenRouter for Tools)",
+    "Metadata": {
+      "score": "36",
+      "author": "trollied",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-10-07T12:24:40.142171+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49985643"
+    },
+    "Type": 1,
+    "Title": "State of Devs 2026",
+    "Url": "https://2026.stateofdevs.com/en-US/",
+    "Description": "State of Devs 2026",
+    "Metadata": {
+      "score": "201",
+      "author": "sgdesign",
+      "commentCount": "104"
+    },
+    "FetchedAt": "2026-10-07T12:24:40.2195693+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49988230"
+    },
+    "Type": 1,
+    "Title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+    "Url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+    "Description": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+    "Metadata": {
+      "score": "103",
+      "author": "colinprince",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-10-07T12:24:40.5027268+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:49983404"
+    },
+    "Type": 1,
+    "Title": "When random is not actually random enough",
+    "Url": "https://ersc.io/blog/when-random-isnt-random-enough",
+    "Description": "When random is not actually random enough",
+    "Metadata": {
+      "score": "68",
+      "author": "steveklabnik",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-10-07T12:24:40.6192226+00:00"
   }
 ]
