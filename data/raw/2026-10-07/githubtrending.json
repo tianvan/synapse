@@ -1,0 +1,119 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:tester-army/e2e"
+    },
+    "Type": 0,
+    "Title": "tester-army/e2e",
+    "Url": "https://github.com/tester-army/e2e",
+    "Description": "Next generation e2e testing framework for web and mobile apps.",
+    "Metadata": {
+      "owner": "tester-army",
+      "repo": "e2e",
+      "language": "TypeScript",
+      "stars": "1,725",
+      "topics": "e2e, e2e-testing, end-to-end-testing, mobile, mobile-testing, playwright, web"
+    },
+    "FetchedAt": "2026-10-07T03:34:57.1552215+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:earthtojake/text-to-cad"
+    },
+    "Type": 0,
+    "Title": "earthtojake/text-to-cad",
+    "Url": "https://github.com/earthtojake/text-to-cad",
+    "Description": "Give your agent CAD superpowers.",
+    "Metadata": {
+      "owner": "earthtojake",
+      "repo": "text-to-cad",
+      "language": "Python",
+      "stars": "619",
+      "topics": "agents, ai-agents, cad, mechanical-engineering, robotics, step, stl, stp, text-to-cad"
+    },
+    "FetchedAt": "2026-10-07T03:34:57.4217559+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:boykopovar/AnyPS5"
+    },
+    "Type": 0,
+    "Title": "boykopovar/AnyPS5",
+    "Url": "https://github.com/boykopovar/AnyPS5",
+    "Description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "Metadata": {
+      "owner": "boykopovar",
+      "repo": "AnyPS5",
+      "language": "C\u002B\u002B",
+      "stars": "949",
+      "topics": "anyps5, dynamic-library, game-porting, ps5, ps5-tools, spir-v, vulkan"
+    },
+    "FetchedAt": "2026-10-07T03:34:57.5592333+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pbakaus/impeccable"
+    },
+    "Type": 0,
+    "Title": "pbakaus/impeccable",
+    "Url": "https://github.com/pbakaus/impeccable",
+    "Description": "The design language that makes your AI harness better at design.",
+    "Metadata": {
+      "owner": "pbakaus",
+      "repo": "impeccable",
+      "language": "JavaScript",
+      "stars": "616"
+    },
+    "FetchedAt": "2026-10-07T03:34:57.7087385+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ayghri/i-have-adhd"
+    },
+    "Type": 0,
+    "Title": "ayghri/i-have-adhd",
+    "Url": "https://github.com/ayghri/i-have-adhd",
+    "Description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "Metadata": {
+      "owner": "ayghri",
+      "repo": "i-have-adhd",
+      "language": "Python",
+      "stars": "326",
+      "topics": "adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity"
+    },
+    "FetchedAt": "2026-10-07T03:34:57.8566895+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:morluto/rea"
+    },
+    "Type": 0,
+    "Title": "morluto/rea",
+    "Url": "https://github.com/morluto/rea",
+    "Description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "Metadata": {
+      "owner": "morluto",
+      "repo": "rea",
+      "language": "TypeScript",
+      "stars": "2,956",
+      "topics": "agent-skills, ai-agent-tools, ai-agents, binary-analysis, cli, coding-agents, cordis, ctf, decompiler, disassembler, dsh, dsh-plugin, ghidra, hopper, mcp, mcp-server, model-context-protocol, reverse-engineering, reverse-engineering-tools, static-analysis"
+    },
+    "FetchedAt": "2026-10-07T03:34:57.9992258+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:deepseek-ai/DeepGEMM"
+    },
+    "Type": 0,
+    "Title": "deepseek-ai/DeepGEMM",
+    "Url": "https://github.com/deepseek-ai/DeepGEMM",
+    "Description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
+    "Metadata": {
+      "owner": "deepseek-ai",
+      "repo": "DeepGEMM",
+      "language": "Cuda",
+      "stars": "199"
+    },
+    "FetchedAt": "2026-10-07T03:34:58.1491055+00:00"
+  }
+]
