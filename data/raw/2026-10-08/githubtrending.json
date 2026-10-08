@@ -1,0 +1,135 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:morluto/rea"
+    },
+    "Type": 0,
+    "Title": "morluto/rea",
+    "Url": "https://github.com/morluto/rea",
+    "Description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "Metadata": {
+      "owner": "morluto",
+      "repo": "rea",
+      "language": "TypeScript",
+      "stars": "4,655",
+      "topics": "agent-skills, ai-agent-tools, ai-agents, binary-analysis, cli, coding-agents, cordis, ctf, decompiler, disassembler, dsh, dsh-plugin, ghidra, hopper, mcp, mcp-server, model-context-protocol, reverse-engineering, reverse-engineering-tools, static-analysis"
+    },
+    "FetchedAt": "2026-10-08T03:49:26.3157371+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:boykopovar/AnyPS5"
+    },
+    "Type": 0,
+    "Title": "boykopovar/AnyPS5",
+    "Url": "https://github.com/boykopovar/AnyPS5",
+    "Description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "Metadata": {
+      "owner": "boykopovar",
+      "repo": "AnyPS5",
+      "language": "C\u002B\u002B",
+      "stars": "2,716",
+      "topics": "anyps5, dynamic-library, game-porting, ps5, ps5-tools, spir-v, vulkan"
+    },
+    "FetchedAt": "2026-10-08T03:49:26.5434268+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ayghri/i-have-adhd"
+    },
+    "Type": 0,
+    "Title": "ayghri/i-have-adhd",
+    "Url": "https://github.com/ayghri/i-have-adhd",
+    "Description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "Metadata": {
+      "owner": "ayghri",
+      "repo": "i-have-adhd",
+      "language": "Python",
+      "stars": "619",
+      "topics": "adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity"
+    },
+    "FetchedAt": "2026-10-08T03:49:26.6725353+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "JavaScript",
+      "stars": "677",
+      "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
+    },
+    "FetchedAt": "2026-10-08T03:49:26.8177302+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:EpicGames/raddebugger"
+    },
+    "Type": 0,
+    "Title": "EpicGames/raddebugger",
+    "Url": "https://github.com/EpicGames/raddebugger",
+    "Description": "A native, user-mode, multi-process, graphical debugger.",
+    "Metadata": {
+      "owner": "EpicGames",
+      "repo": "raddebugger",
+      "language": "C",
+      "stars": "90"
+    },
+    "FetchedAt": "2026-10-08T03:49:26.9749997+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:manaflow-ai/cmux"
+    },
+    "Type": 0,
+    "Title": "manaflow-ai/cmux",
+    "Url": "https://github.com/manaflow-ai/cmux",
+    "Description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+    "Metadata": {
+      "owner": "manaflow-ai",
+      "repo": "cmux",
+      "language": "Swift",
+      "stars": "44",
+      "topics": "amp, claude-code, cli, codex, coding-agents, gemini, ghostty, macos, multiplexer, multitasking, opencode, organization, parallel-agents, programmability, terminal, terminal-multiplexer, tmux, workspace-manager"
+    },
+    "FetchedAt": "2026-10-08T03:49:27.1379418+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cloudflare/security-audit-skill"
+    },
+    "Type": 0,
+    "Title": "cloudflare/security-audit-skill",
+    "Url": "https://github.com/cloudflare/security-audit-skill",
+    "Description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "Metadata": {
+      "owner": "cloudflare",
+      "repo": "security-audit-skill",
+      "language": "JavaScript",
+      "stars": "576"
+    },
+    "FetchedAt": "2026-10-08T03:49:27.2975253+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:tester-army/e2e"
+    },
+    "Type": 0,
+    "Title": "tester-army/e2e",
+    "Url": "https://github.com/tester-army/e2e",
+    "Description": "Next generation e2e testing framework for web and mobile apps.",
+    "Metadata": {
+      "owner": "tester-army",
+      "repo": "e2e",
+      "language": "TypeScript",
+      "stars": "1,390"
+    },
+    "FetchedAt": "2026-10-08T03:49:27.4340479+00:00"
+  }
+]
