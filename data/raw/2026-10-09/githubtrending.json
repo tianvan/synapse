@@ -1,0 +1,100 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:boykopovar/AnyPS5"
+    },
+    "Type": 0,
+    "Title": "boykopovar/AnyPS5",
+    "Url": "https://github.com/boykopovar/AnyPS5",
+    "Description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "Metadata": {
+      "owner": "boykopovar",
+      "repo": "AnyPS5",
+      "language": "C\u002B\u002B",
+      "stars": "4,669",
+      "topics": "anyps5, dynamic-library, game-porting, ps5, ps5-tools, spir-v, vulkan"
+    },
+    "FetchedAt": "2026-10-09T03:54:25.4496613+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:morluto/rea"
+    },
+    "Type": 0,
+    "Title": "morluto/rea",
+    "Url": "https://github.com/morluto/rea",
+    "Description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "Metadata": {
+      "owner": "morluto",
+      "repo": "rea",
+      "language": "TypeScript",
+      "stars": "7,738",
+      "topics": "agent-skills, ai-agents, binary-analysis, claude-code, cli, codex, cordis, ctf, decompiler, developer-tools, disassembler, dsh, dsh-plugin, ghidra, hopper, llm, mcp, model-context-protocol, reverse-engineering, static-analysis"
+    },
+    "FetchedAt": "2026-10-09T03:54:25.668937+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:EpicGames/raddebugger"
+    },
+    "Type": 0,
+    "Title": "EpicGames/raddebugger",
+    "Url": "https://github.com/EpicGames/raddebugger",
+    "Description": "A native, user-mode, multi-process, graphical debugger.",
+    "Metadata": {
+      "owner": "EpicGames",
+      "repo": "raddebugger",
+      "language": "C",
+      "stars": "279"
+    },
+    "FetchedAt": "2026-10-09T03:54:25.8044165+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/knowledge-work-plugins"
+    },
+    "Type": 0,
+    "Title": "anthropics/knowledge-work-plugins",
+    "Url": "https://github.com/anthropics/knowledge-work-plugins",
+    "Description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "knowledge-work-plugins",
+      "language": "Python",
+      "stars": "392"
+    },
+    "FetchedAt": "2026-10-09T03:54:25.9460237+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:storytold/artcraft"
+    },
+    "Type": 0,
+    "Title": "storytold/artcraft",
+    "Url": "https://github.com/storytold/artcraft",
+    "Description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "Metadata": {
+      "owner": "storytold",
+      "repo": "artcraft",
+      "language": "Rust",
+      "stars": "2,103",
+      "topics": "3d-graphics, ai, aivideo, filmmaking, imagegeneration"
+    },
+    "FetchedAt": "2026-10-09T03:54:26.0922418+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:liquidslr/system-design-notes"
+    },
+    "Type": 0,
+    "Title": "liquidslr/system-design-notes",
+    "Url": "https://github.com/liquidslr/system-design-notes",
+    "Description": "Notes of the book System Desgin Interview - An Insider\u0027s Guide",
+    "Metadata": {
+      "owner": "liquidslr",
+      "repo": "system-design-notes",
+      "stars": "393"
+    },
+    "FetchedAt": "2026-10-09T03:54:26.2565526+00:00"
+  }
+]
