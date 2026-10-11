@@ -1,0 +1,169 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:morluto/rea"
+    },
+    "Type": 0,
+    "Title": "morluto/rea",
+    "Url": "https://github.com/morluto/rea",
+    "Description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "Metadata": {
+      "owner": "morluto",
+      "repo": "rea",
+      "language": "TypeScript",
+      "stars": "25,793",
+      "topics": "agent-skills, ai-agents, binary-analysis, claude-code, cli, codex, cordis, ctf, decompiler, developer-tools, disassembler, dsh, dsh-plugin, ghidra, hopper, llm, mcp, model-context-protocol, reverse-engineering, static-analysis"
+    },
+    "FetchedAt": "2026-10-11T03:11:53.0915211+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:boykopovar/AnyPS5"
+    },
+    "Type": 0,
+    "Title": "boykopovar/AnyPS5",
+    "Url": "https://github.com/boykopovar/AnyPS5",
+    "Description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "Metadata": {
+      "owner": "boykopovar",
+      "repo": "AnyPS5",
+      "language": "C\u002B\u002B",
+      "stars": "5,805",
+      "topics": "anyps5, dynamic-library, game-porting, ps5, ps5-tools, spir-v, vulkan"
+    },
+    "FetchedAt": "2026-10-11T03:11:53.2160767+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:storytold/artcraft"
+    },
+    "Type": 0,
+    "Title": "storytold/artcraft",
+    "Url": "https://github.com/storytold/artcraft",
+    "Description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "Metadata": {
+      "owner": "storytold",
+      "repo": "artcraft",
+      "language": "Rust",
+      "stars": "3,222",
+      "topics": "3d-graphics, ai, aivideo, filmmaking, imagegeneration"
+    },
+    "FetchedAt": "2026-10-11T03:11:53.3131576+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:flutter/flutter"
+    },
+    "Type": 0,
+    "Title": "flutter/flutter",
+    "Url": "https://github.com/flutter/flutter",
+    "Description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "Metadata": {
+      "owner": "flutter",
+      "repo": "flutter",
+      "language": "Dart",
+      "stars": "88",
+      "topics": "android, app-framework, cross-platform, dart, dart-platform, desktop, flutter, flutter-package, fuchsia, ios, linux-desktop, macos, material-design, mobile, mobile-development, skia, web, web-framework, windows"
+    },
+    "FetchedAt": "2026-10-11T03:11:53.433923+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:tensorflow/tensorflow"
+    },
+    "Type": 0,
+    "Title": "tensorflow/tensorflow",
+    "Url": "https://github.com/tensorflow/tensorflow",
+    "Description": "An Open Source Machine Learning Framework for Everyone",
+    "Metadata": {
+      "owner": "tensorflow",
+      "repo": "tensorflow",
+      "language": "C\u002B\u002B",
+      "stars": "26",
+      "topics": "deep-learning, deep-neural-networks, distributed, machine-learning, ml, neural-network, python, tensorflow"
+    },
+    "FetchedAt": "2026-10-11T03:11:53.5756069+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:hugohe3/ppt-master"
+    },
+    "Type": 0,
+    "Title": "hugohe3/ppt-master",
+    "Url": "https://github.com/hugohe3/ppt-master",
+    "Description": "AI turns documents or topics into real, native PowerPoint decks\u2014with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. \u00B7 by Hugo He",
+    "Metadata": {
+      "owner": "hugohe3",
+      "repo": "ppt-master",
+      "language": "Python",
+      "stars": "461",
+      "topics": "ai-agent, aippt, office, powerpoint, powerpoint-generation, ppt, pptx, presentation, slide, slides"
+    },
+    "FetchedAt": "2026-10-11T03:11:53.7366813+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pytorch/pytorch"
+    },
+    "Type": 0,
+    "Title": "pytorch/pytorch",
+    "Url": "https://github.com/pytorch/pytorch",
+    "Description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "Metadata": {
+      "owner": "pytorch",
+      "repo": "pytorch",
+      "language": "Python",
+      "stars": "84",
+      "topics": "autograd, deep-learning, gpu, machine-learning, neural-network, numpy, python, tensor"
+    },
+    "FetchedAt": "2026-10-11T03:11:53.8356542+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:huggingface/transformers"
+    },
+    "Type": 0,
+    "Title": "huggingface/transformers",
+    "Url": "https://github.com/huggingface/transformers",
+    "Description": "\uD83E\uDD17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "Metadata": {
+      "owner": "huggingface",
+      "repo": "transformers",
+      "language": "Python",
+      "stars": "96",
+      "topics": "audio, deep-learning, deepseek, gemma, glm, hacktoberfest, llm, machine-learning, model-hub, natural-language-processing, nlp, pretrained-models, python, pytorch, pytorch-transformers, qwen, speech-recognition, transformer, vlm"
+    },
+    "FetchedAt": "2026-10-11T03:11:53.9652833+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/knowledge-work-plugins"
+    },
+    "Type": 0,
+    "Title": "anthropics/knowledge-work-plugins",
+    "Url": "https://github.com/anthropics/knowledge-work-plugins",
+    "Description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "knowledge-work-plugins",
+      "language": "Python",
+      "stars": "625"
+    },
+    "FetchedAt": "2026-10-11T03:11:54.1152937+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:multica-ai/andrej-karpathy-skills"
+    },
+    "Type": 0,
+    "Title": "multica-ai/andrej-karpathy-skills",
+    "Url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "Description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy\u0027s observations on LLM coding pitfalls.",
+    "Metadata": {
+      "owner": "multica-ai",
+      "repo": "andrej-karpathy-skills",
+      "stars": "278"
+    },
+    "FetchedAt": "2026-10-11T03:11:54.2393164+00:00"
+  }
+]
