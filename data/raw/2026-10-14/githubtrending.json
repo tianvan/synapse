@@ -1,0 +1,103 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:morluto/rea"
+    },
+    "Type": 0,
+    "Title": "morluto/rea",
+    "Url": "https://github.com/morluto/rea",
+    "Description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "Metadata": {
+      "owner": "morluto",
+      "repo": "rea",
+      "language": "TypeScript",
+      "stars": "54,679",
+      "topics": "agent-skills, ai-agents, binary-analysis, claude-code, cli, codex, cordis, ctf, decompiler, developer-tools, dsh, dsh-plugin, ghidra, hopper, llm, mcp, model-context-protocol, rea, reverse-engineering, static-analysis"
+    },
+    "FetchedAt": "2026-10-14T02:56:33.9295271+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:bilawalsidhu/gods-eye-view"
+    },
+    "Type": 0,
+    "Title": "bilawalsidhu/gods-eye-view",
+    "Url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "Description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "Metadata": {
+      "owner": "bilawalsidhu",
+      "repo": "gods-eye-view",
+      "language": "JavaScript",
+      "stars": "1,961",
+      "topics": "3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis, osint, photogrammetry, satellite-tracking, spatial-intelligence, webgl, worldview"
+    },
+    "FetchedAt": "2026-10-14T02:56:34.1762488+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:debpalash/VoiceStudio"
+    },
+    "Type": 0,
+    "Title": "debpalash/VoiceStudio",
+    "Url": "https://github.com/debpalash/VoiceStudio",
+    "Description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription \u0026 audiobook creation in 646 languages.",
+    "Metadata": {
+      "owner": "debpalash",
+      "repo": "VoiceStudio",
+      "language": "Python",
+      "stars": "1,748",
+      "topics": "ai, audiobook, cuda, dubbing, elevenlabs-alternative, huggingface, local-first, mlx, omnivoice-studio, speech-to-text, text-to-speech, transcription, translate, tts, voice-ai, voice-cloning, voice-generation, voicestudio, workflow"
+    },
+    "FetchedAt": "2026-10-14T02:56:34.299997+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:vercel-labs/skills"
+    },
+    "Type": 0,
+    "Title": "vercel-labs/skills",
+    "Url": "https://github.com/vercel-labs/skills",
+    "Description": "The open agent skills tool - npx skills",
+    "Metadata": {
+      "owner": "vercel-labs",
+      "repo": "skills",
+      "language": "TypeScript",
+      "stars": "190"
+    },
+    "FetchedAt": "2026-10-14T02:56:34.4249902+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:storytold/artcraft"
+    },
+    "Type": 0,
+    "Title": "storytold/artcraft",
+    "Url": "https://github.com/storytold/artcraft",
+    "Description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "Metadata": {
+      "owner": "storytold",
+      "repo": "artcraft",
+      "language": "Rust",
+      "stars": "4,081",
+      "topics": "3d-graphics, ai, aivideo, filmmaking, imagegeneration"
+    },
+    "FetchedAt": "2026-10-14T02:56:34.5637527+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:xtool-org/xtool"
+    },
+    "Type": 0,
+    "Title": "xtool-org/xtool",
+    "Url": "https://github.com/xtool-org/xtool",
+    "Description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+    "Metadata": {
+      "owner": "xtool-org",
+      "repo": "xtool",
+      "language": "Swift",
+      "stars": "1,198",
+      "topics": "ios, linux, swift, swift-package-manager, windows, xcode"
+    },
+    "FetchedAt": "2026-10-14T02:56:34.7082116+00:00"
+  }
+]
