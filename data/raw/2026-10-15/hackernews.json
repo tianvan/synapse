@@ -196,36 +196,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50093568"
-    },
-    "Type": 1,
-    "Title": "Things to know when you get cancer",
-    "Url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-    "Description": "Things to know when you get cancer",
-    "Metadata": {
-      "score": "1403",
-      "author": "jjmaxwell4",
-      "commentCount": "350"
-    },
-    "FetchedAt": "2026-10-15T10:38:02.8621688+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50070625"
-    },
-    "Type": 1,
-    "Title": "Wanted to download an ISO, ended up writing a kernel exploit",
-    "Url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
-    "Description": "Author here. Does anyone know what to do with the rest of the drivers? I found at least 13 in-tree drivers with the same bug class. The nasty part is they work fine on x86 and silently corrupt data on arm and other non-coherent archs, and I don\u0026#x27;t have the hardware to test them.\u003Cp\u003EI\u0026#x27;d guess that\u0026#x27;s what the DMA API is for and drivers shouldn\u0026#x27;t be doing cache maintenance by hand, but I\u0026#x27;m not a kernel dev, so maybe I\u0026#x27;m missing something.",
-    "Metadata": {
-      "score": "103",
-      "author": "0xdeafbeef",
-      "commentCount": "56"
-    },
-    "FetchedAt": "2026-10-15T10:38:02.8952691+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50101149"
     },
     "Type": 1,
@@ -238,171 +208,6 @@
       "commentCount": "33"
     },
     "FetchedAt": "2026-10-15T10:38:02.9287011+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50094994"
-    },
-    "Type": 1,
-    "Title": "OpenCode 2.0",
-    "Url": "https://anoma.ly/notes/opencode-2-0/",
-    "Description": "OpenCode 2.0",
-    "Metadata": {
-      "score": "627",
-      "author": "gmays",
-      "commentCount": "248"
-    },
-    "FetchedAt": "2026-10-15T10:38:02.961376+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50096142"
-    },
-    "Type": 1,
-    "Title": "Tiny Little Office",
-    "Url": "https://tinylittleoffice.com/",
-    "Description": "Tiny Little Office",
-    "Metadata": {
-      "score": "455",
-      "author": "donohoe",
-      "commentCount": "74"
-    },
-    "FetchedAt": "2026-10-15T10:38:03.003515+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50050553"
-    },
-    "Type": 1,
-    "Title": "Do dentists know what they\u0027re doing?",
-    "Url": "https://mapwriting.substack.com/p/dentists",
-    "Description": "Do dentists know what they\u0027re doing?",
-    "Metadata": {
-      "score": "718",
-      "author": "doitLP",
-      "commentCount": "521"
-    },
-    "FetchedAt": "2026-10-15T10:38:03.037476+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50064470"
-    },
-    "Type": 1,
-    "Title": "Show HN: Indigene \u2013 Native plants for where you stand",
-    "Url": "https://indigene.app/",
-    "Description": "Back when I lived in Central Florida, it took me years to learn what native plants could benefit wildlife and the local ecosystem as I slowly replaced parts of my yard to make it more resilient to drought. After moving to Seattle a few years ago, I had to start all of that from scratch. LLMs made the process a bit easier but I still had to routinely ask the same kinds of questions over and over, despite being far more familiar with native plants these days and leaning more on native plant societ",
-    "Metadata": {
-      "score": "28",
-      "author": "olivierlacan",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-10-15T10:38:03.0708559+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50097369"
-    },
-    "Type": 1,
-    "Title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-    "Url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-    "Description": "LFM2.5-24B-A2B: Built for fast on-device agents",
-    "Metadata": {
-      "score": "214",
-      "author": "gmays",
-      "commentCount": "47"
-    },
-    "FetchedAt": "2026-10-15T10:38:03.1040308+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50079701"
-    },
-    "Type": 1,
-    "Title": "The First Social Network: In rural Argentina residents send messages w AM radio",
-    "Url": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
-    "Description": "The First Social Network: In rural Argentina residents send messages w AM radio",
-    "Metadata": {
-      "score": "23",
-      "author": "bookofjoe",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-10-15T10:38:03.1381561+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50053384"
-    },
-    "Type": 1,
-    "Title": "Catch a Bird \u2013 I made it for my own sanity",
-    "Url": "https://catchabird.com",
-    "Description": "Catch a Bird \u2013 I made it for my own sanity",
-    "Metadata": {
-      "score": "189",
-      "author": "eduardsik",
-      "commentCount": "50"
-    },
-    "FetchedAt": "2026-10-15T10:38:03.1710192+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50089921"
-    },
-    "Type": 1,
-    "Title": "Americans\u0027 social activity has steeply declined in the past 30 years",
-    "Url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-    "Description": "Americans\u0027 social activity has steeply declined in the past 30 years",
-    "Metadata": {
-      "score": "412",
-      "author": "hubraumhugo",
-      "commentCount": "384"
-    },
-    "FetchedAt": "2026-10-15T10:38:03.2052635+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50060547"
-    },
-    "Type": 1,
-    "Title": "Sticky alpine flower confirms Darwin\u0027s 150-year-old carnivorous plant prediction",
-    "Url": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
-    "Description": "Sticky alpine flower confirms Darwin\u0027s 150-year-old carnivorous plant prediction",
-    "Metadata": {
-      "score": "32",
-      "author": "maxall4",
-      "commentCount": "13"
-    },
-    "FetchedAt": "2026-10-15T10:38:03.2384039+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50070661"
-    },
-    "Type": 1,
-    "Title": "It took me nine years to hack my Xbox 360",
-    "Url": "https://kennedn.com/blog/posts/glitching/",
-    "Description": "It took me nine years to hack my Xbox 360",
-    "Metadata": {
-      "score": "85",
-      "author": "kennedn",
-      "commentCount": "25"
-    },
-    "FetchedAt": "2026-10-15T10:38:03.2720608+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50077709"
-    },
-    "Type": 1,
-    "Title": "Donaldson Futuro House in Idyllwild, California, USA",
-    "Url": "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/",
-    "Description": "Donaldson Futuro House in Idyllwild, California, USA",
-    "Metadata": {
-      "score": "48",
-      "author": "rmason",
-      "commentCount": "16"
-    },
-    "FetchedAt": "2026-10-15T10:38:03.3070093+00:00"
   },
   {
     "ExternalId": {
@@ -643,5 +448,455 @@
       "commentCount": "61"
     },
     "FetchedAt": "2026-10-15T10:38:03.8479178+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50104654"
+    },
+    "Type": 1,
+    "Title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+    "Url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+    "Description": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+    "Metadata": {
+      "score": "67",
+      "author": "aaraujo002",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-10-15T16:02:57.6042177+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50103338"
+    },
+    "Type": 1,
+    "Title": "Wayland desktop for Linux with skeuomorphic design",
+    "Url": "https://github.com/fyzugx/DEsk",
+    "Description": "Wayland desktop for Linux with skeuomorphic design",
+    "Metadata": {
+      "score": "176",
+      "author": "FinalDestiny",
+      "commentCount": "61"
+    },
+    "FetchedAt": "2026-10-15T16:02:57.6470508+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50103630"
+    },
+    "Type": 1,
+    "Title": "I know why Mathematicians weep",
+    "Url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+    "Description": "I know why Mathematicians weep",
+    "Metadata": {
+      "score": "122",
+      "author": "RickJWagner",
+      "commentCount": "178"
+    },
+    "FetchedAt": "2026-10-15T16:02:57.6901463+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50102923"
+    },
+    "Type": 1,
+    "Title": "Libreboot 26.10 \u0022Ominous Olive\u0022 released with UEFI, Chromebook support",
+    "Url": "https://libreboot.org/news/libreboot2610.html",
+    "Description": "Libreboot 26.10 \u0022Ominous Olive\u0022 released with UEFI, Chromebook support",
+    "Metadata": {
+      "score": "143",
+      "author": "iamnothere",
+      "commentCount": "68"
+    },
+    "FetchedAt": "2026-10-15T16:02:57.7329281+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50104726"
+    },
+    "Type": 1,
+    "Title": "Celebrating 70 Years of Fortran",
+    "Url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+    "Description": "Celebrating 70 Years of Fortran",
+    "Metadata": {
+      "score": "45",
+      "author": "rbanffy",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-10-15T16:02:57.7763823+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50105344"
+    },
+    "Type": 1,
+    "Title": "I designed a nose guard for my dog and gave it away. Now 500 dogs wear one",
+    "Url": "https://snoutcover.com/one-year",
+    "Description": "I designed a nose guard for my dog and gave it away. Now 500 dogs wear one",
+    "Metadata": {
+      "score": "20",
+      "author": "ragswag",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-10-15T16:02:57.8201887+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50102247"
+    },
+    "Type": 1,
+    "Title": "Show HN: Unfenced \u2013 Land for sale that borders public land",
+    "Url": "https://unfenced.land/",
+    "Description": "Show HN: Unfenced \u2013 Land for sale that borders public land",
+    "Metadata": {
+      "score": "139",
+      "author": "otherwatersflow",
+      "commentCount": "99"
+    },
+    "FetchedAt": "2026-10-15T16:02:57.8631357+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50101813"
+    },
+    "Type": 1,
+    "Title": "Zero-Click Spyware Delivered via Targeted Ads: AdFection",
+    "Url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+    "Description": "Zero-Click Spyware Delivered via Targeted Ads: AdFection",
+    "Metadata": {
+      "score": "112",
+      "author": "jcomp",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-10-15T16:02:57.9064268+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50093568"
+    },
+    "Type": 1,
+    "Title": "Things to know when you get cancer",
+    "Url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+    "Description": "Things to know when you get cancer",
+    "Metadata": {
+      "score": "1755",
+      "author": "jjmaxwell4",
+      "commentCount": "416"
+    },
+    "FetchedAt": "2026-10-15T16:02:57.9499041+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50104310"
+    },
+    "Type": 1,
+    "Title": "Prompt injection in HTTP headers: what 217M web responses show",
+    "Url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
+    "Description": "Prompt injection in HTTP headers: what 217M web responses show",
+    "Metadata": {
+      "score": "30",
+      "author": "panoramas4good",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-10-15T16:02:57.9932229+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50103164"
+    },
+    "Type": 1,
+    "Title": "C\u002B\u002B26 Contracts: Introduction to Preconditions and Postconditions",
+    "Url": "https://www.cppstories.com/2026/cpp26_contracts/",
+    "Description": "C\u002B\u002B26 Contracts: Introduction to Preconditions and Postconditions",
+    "Metadata": {
+      "score": "57",
+      "author": "ibobev",
+      "commentCount": "52"
+    },
+    "FetchedAt": "2026-10-15T16:02:58.036238+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50070625"
+    },
+    "Type": 1,
+    "Title": "Wanted to download an ISO, ended up writing a kernel exploit",
+    "Url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+    "Description": "Author here. Does anyone know what to do with the rest of the drivers? I found at least 13 in-tree drivers with the same bug class. The nasty part is they work fine on x86 and silently corrupt data on arm and other non-coherent archs, and I don\u0026#x27;t have the hardware to test them.\u003Cp\u003EI\u0026#x27;d guess that\u0026#x27;s what the DMA API is for and drivers shouldn\u0026#x27;t be doing cache maintenance by hand, but I\u0026#x27;m not a kernel dev, so maybe I\u0026#x27;m missing something.",
+    "Metadata": {
+      "score": "254",
+      "author": "0xdeafbeef",
+      "commentCount": "133"
+    },
+    "FetchedAt": "2026-10-15T16:02:58.079002+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50094994"
+    },
+    "Type": 1,
+    "Title": "OpenCode 2.0",
+    "Url": "https://anoma.ly/notes/opencode-2-0/",
+    "Description": "OpenCode 2.0",
+    "Metadata": {
+      "score": "780",
+      "author": "gmays",
+      "commentCount": "332"
+    },
+    "FetchedAt": "2026-10-15T16:02:58.1232721+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50103263"
+    },
+    "Type": 1,
+    "Title": "GridSnap \u2013 an open-source Divvy-style window snapper for macOS",
+    "Url": "https://github.com/konieczkow/gridsnap",
+    "Description": "GridSnap \u2013 an open-source Divvy-style window snapper for macOS",
+    "Metadata": {
+      "score": "21",
+      "author": "zderror",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-10-15T16:02:58.1660981+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50058531"
+    },
+    "Type": 1,
+    "Title": "The Haunted Toys R Us",
+    "Url": "https://www.retroist.com/p/the-haunted-toys-r-us",
+    "Description": "The Haunted Toys R Us",
+    "Metadata": {
+      "score": "37",
+      "author": "speckx",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-10-15T16:02:58.2089112+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50096142"
+    },
+    "Type": 1,
+    "Title": "Tiny Little Office",
+    "Url": "https://tinylittleoffice.com/",
+    "Description": "Tiny Little Office",
+    "Metadata": {
+      "score": "586",
+      "author": "donohoe",
+      "commentCount": "149"
+    },
+    "FetchedAt": "2026-10-15T16:02:58.2661487+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50079701"
+    },
+    "Type": 1,
+    "Title": "The First Social Network: In rural Argentina residents send messages w AM radio",
+    "Url": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
+    "Description": "The First Social Network: In rural Argentina residents send messages w AM radio",
+    "Metadata": {
+      "score": "102",
+      "author": "bookofjoe",
+      "commentCount": "40"
+    },
+    "FetchedAt": "2026-10-15T16:02:58.3089917+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50075392"
+    },
+    "Type": 1,
+    "Title": "The largest eagle hunted unlike any other bird of prey (2021)",
+    "Url": "https://www.nhm.ac.uk/discover/news/2021/december/worlds-largest-eagle-hunted-unlike-any-other-bird-of-prey.html",
+    "Description": "The largest eagle hunted unlike any other bird of prey (2021)",
+    "Metadata": {
+      "score": "11",
+      "author": "EndXA",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-15T16:02:58.3521935+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50050553"
+    },
+    "Type": 1,
+    "Title": "Do dentists know what they\u0027re doing?",
+    "Url": "https://mapwriting.substack.com/p/dentists",
+    "Description": "Do dentists know what they\u0027re doing?",
+    "Metadata": {
+      "score": "892",
+      "author": "doitLP",
+      "commentCount": "636"
+    },
+    "FetchedAt": "2026-10-15T16:02:58.3953731+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50064470"
+    },
+    "Type": 1,
+    "Title": "Show HN: Indigene \u2013 Native plants for where you stand",
+    "Url": "https://indigene.app/",
+    "Description": "Back when I lived in Central Florida, it took me years to learn what native plants could benefit wildlife and the local ecosystem as I slowly replaced parts of my yard to make it more resilient to drought. After moving to Seattle a few years ago, I had to start all of that from scratch. LLMs made the process a bit easier but I still had to routinely ask the same kinds of questions over and over, despite being far more familiar with native plants these days and leaning more on native plant societ",
+    "Metadata": {
+      "score": "90",
+      "author": "olivierlacan",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-10-15T16:02:58.4381212+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50104299"
+    },
+    "Type": 1,
+    "Title": "Using AI to reverse engineer hardware",
+    "Url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+    "Description": "Using AI to reverse engineer hardware",
+    "Metadata": {
+      "score": "37",
+      "author": "ErenayDev",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-10-15T16:02:58.4807507+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50089921"
+    },
+    "Type": 1,
+    "Title": "Americans\u0027 social activity has steeply declined in the past 30 years",
+    "Url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+    "Description": "Americans\u0027 social activity has steeply declined in the past 30 years",
+    "Metadata": {
+      "score": "521",
+      "author": "hubraumhugo",
+      "commentCount": "497"
+    },
+    "FetchedAt": "2026-10-15T16:02:58.5246279+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50053384"
+    },
+    "Type": 1,
+    "Title": "Catch a Bird \u2013 I made it for my own sanity",
+    "Url": "https://catchabird.com",
+    "Description": "Catch a Bird \u2013 I made it for my own sanity",
+    "Metadata": {
+      "score": "329",
+      "author": "eduardsik",
+      "commentCount": "98"
+    },
+    "FetchedAt": "2026-10-15T16:02:58.5679762+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50081045"
+    },
+    "Type": 1,
+    "Title": "Creating a Garmin \u0022MCP\u0022",
+    "Url": "https://jackantico.io/garmin-mcp",
+    "Description": "Creating a Garmin \u0022MCP\u0022",
+    "Metadata": {
+      "score": "48",
+      "author": "ricotico060",
+      "commentCount": "56"
+    },
+    "FetchedAt": "2026-10-15T16:02:58.6141582+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50097369"
+    },
+    "Type": 1,
+    "Title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+    "Url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+    "Description": "LFM2.5-24B-A2B: Built for fast on-device agents",
+    "Metadata": {
+      "score": "264",
+      "author": "gmays",
+      "commentCount": "70"
+    },
+    "FetchedAt": "2026-10-15T16:02:58.6621934+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50060547"
+    },
+    "Type": 1,
+    "Title": "Sticky alpine flower confirms Darwin\u0027s 150-year-old carnivorous plant prediction",
+    "Url": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
+    "Description": "Sticky alpine flower confirms Darwin\u0027s 150-year-old carnivorous plant prediction",
+    "Metadata": {
+      "score": "86",
+      "author": "maxall4",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-10-15T16:02:58.7061654+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50070661"
+    },
+    "Type": 1,
+    "Title": "It took me nine years to hack my Xbox 360",
+    "Url": "https://kennedn.com/blog/posts/glitching/",
+    "Description": "It took me nine years to hack my Xbox 360",
+    "Metadata": {
+      "score": "151",
+      "author": "kennedn",
+      "commentCount": "42"
+    },
+    "FetchedAt": "2026-10-15T16:02:58.7491757+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50071068"
+    },
+    "Type": 1,
+    "Title": "Tracing Mystery Network Traffic with eBPF Across HRT\u0027s Global Compute Cluster",
+    "Url": "https://www.hudsonrivertrading.com/hrtbeat/long-on-research-short-on-bandwidth/",
+    "Description": "Tracing Mystery Network Traffic with eBPF Across HRT\u0027s Global Compute Cluster",
+    "Metadata": {
+      "score": "36",
+      "author": "theHRTBeat",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-10-15T16:02:58.7940764+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50104465"
+    },
+    "Type": 1,
+    "Title": "Siri is so bad at everything",
+    "Url": "https://www.reddit.com/r/apple/comments/1x6gz83/siri_is_so_bad_at_everything/",
+    "Description": "Siri is so bad at everything",
+    "Metadata": {
+      "score": "77",
+      "author": "haunter",
+      "commentCount": "57"
+    },
+    "FetchedAt": "2026-10-15T16:02:58.8377562+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50077709"
+    },
+    "Type": 1,
+    "Title": "Donaldson Futuro House in Idyllwild, California, USA",
+    "Url": "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/",
+    "Description": "Donaldson Futuro House in Idyllwild, California, USA",
+    "Metadata": {
+      "score": "80",
+      "author": "rmason",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-10-15T16:02:58.8815879+00:00"
   }
 ]
