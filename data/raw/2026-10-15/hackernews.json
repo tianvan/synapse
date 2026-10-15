@@ -271,21 +271,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50099136"
-    },
-    "Type": 1,
-    "Title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
-    "Url": "https://github.com/andunieee/flipflop",
-    "Description": "This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most importantly, establishing a communication channel with trusted external people that can be left always on.",
-    "Metadata": {
-      "score": "43",
-      "author": "andunie",
-      "commentCount": "14"
-    },
-    "FetchedAt": "2026-10-15T10:38:03.4741373+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50071546"
     },
     "Type": 1,
@@ -451,81 +436,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50104654"
-    },
-    "Type": 1,
-    "Title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
-    "Url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-    "Description": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
-    "Metadata": {
-      "score": "67",
-      "author": "aaraujo002",
-      "commentCount": "34"
-    },
-    "FetchedAt": "2026-10-15T16:02:57.6042177+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50103338"
-    },
-    "Type": 1,
-    "Title": "Wayland desktop for Linux with skeuomorphic design",
-    "Url": "https://github.com/fyzugx/DEsk",
-    "Description": "Wayland desktop for Linux with skeuomorphic design",
-    "Metadata": {
-      "score": "176",
-      "author": "FinalDestiny",
-      "commentCount": "61"
-    },
-    "FetchedAt": "2026-10-15T16:02:57.6470508+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50103630"
-    },
-    "Type": 1,
-    "Title": "I know why Mathematicians weep",
-    "Url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
-    "Description": "I know why Mathematicians weep",
-    "Metadata": {
-      "score": "122",
-      "author": "RickJWagner",
-      "commentCount": "178"
-    },
-    "FetchedAt": "2026-10-15T16:02:57.6901463+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50102923"
-    },
-    "Type": 1,
-    "Title": "Libreboot 26.10 \u0022Ominous Olive\u0022 released with UEFI, Chromebook support",
-    "Url": "https://libreboot.org/news/libreboot2610.html",
-    "Description": "Libreboot 26.10 \u0022Ominous Olive\u0022 released with UEFI, Chromebook support",
-    "Metadata": {
-      "score": "143",
-      "author": "iamnothere",
-      "commentCount": "68"
-    },
-    "FetchedAt": "2026-10-15T16:02:57.7329281+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50104726"
-    },
-    "Type": 1,
-    "Title": "Celebrating 70 Years of Fortran",
-    "Url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
-    "Description": "Celebrating 70 Years of Fortran",
-    "Metadata": {
-      "score": "45",
-      "author": "rbanffy",
-      "commentCount": "15"
-    },
-    "FetchedAt": "2026-10-15T16:02:57.7763823+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50105344"
     },
     "Type": 1,
@@ -538,36 +448,6 @@
       "commentCount": "5"
     },
     "FetchedAt": "2026-10-15T16:02:57.8201887+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50102247"
-    },
-    "Type": 1,
-    "Title": "Show HN: Unfenced \u2013 Land for sale that borders public land",
-    "Url": "https://unfenced.land/",
-    "Description": "Show HN: Unfenced \u2013 Land for sale that borders public land",
-    "Metadata": {
-      "score": "139",
-      "author": "otherwatersflow",
-      "commentCount": "99"
-    },
-    "FetchedAt": "2026-10-15T16:02:57.8631357+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50101813"
-    },
-    "Type": 1,
-    "Title": "Zero-Click Spyware Delivered via Targeted Ads: AdFection",
-    "Url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
-    "Description": "Zero-Click Spyware Delivered via Targeted Ads: AdFection",
-    "Metadata": {
-      "score": "112",
-      "author": "jcomp",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-10-15T16:02:57.9064268+00:00"
   },
   {
     "ExternalId": {
@@ -598,36 +478,6 @@
       "commentCount": "8"
     },
     "FetchedAt": "2026-10-15T16:02:57.9932229+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50103164"
-    },
-    "Type": 1,
-    "Title": "C\u002B\u002B26 Contracts: Introduction to Preconditions and Postconditions",
-    "Url": "https://www.cppstories.com/2026/cpp26_contracts/",
-    "Description": "C\u002B\u002B26 Contracts: Introduction to Preconditions and Postconditions",
-    "Metadata": {
-      "score": "57",
-      "author": "ibobev",
-      "commentCount": "52"
-    },
-    "FetchedAt": "2026-10-15T16:02:58.036238+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50070625"
-    },
-    "Type": 1,
-    "Title": "Wanted to download an ISO, ended up writing a kernel exploit",
-    "Url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
-    "Description": "Author here. Does anyone know what to do with the rest of the drivers? I found at least 13 in-tree drivers with the same bug class. The nasty part is they work fine on x86 and silently corrupt data on arm and other non-coherent archs, and I don\u0026#x27;t have the hardware to test them.\u003Cp\u003EI\u0026#x27;d guess that\u0026#x27;s what the DMA API is for and drivers shouldn\u0026#x27;t be doing cache maintenance by hand, but I\u0026#x27;m not a kernel dev, so maybe I\u0026#x27;m missing something.",
-    "Metadata": {
-      "score": "254",
-      "author": "0xdeafbeef",
-      "commentCount": "133"
-    },
-    "FetchedAt": "2026-10-15T16:02:58.079002+00:00"
   },
   {
     "ExternalId": {
@@ -898,5 +748,455 @@
       "commentCount": "26"
     },
     "FetchedAt": "2026-10-15T16:02:58.8815879+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50107379"
+    },
+    "Type": 1,
+    "Title": "Muse Spark Open",
+    "Url": "https://research.meta.ai/blog/muse-spark-open",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;dev.meta.ai\u0026#x2F;resources\u0026#x2F;blog\u0026#x2F;build-with-muse-spark-open\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;dev.meta.ai\u0026#x2F;resources\u0026#x2F;blog\u0026#x2F;build-with-muse-spark-ope...\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;huggingface.co\u0026#x2F;meta-models\u0026#x2F;Muse-Spark-Open-816B-A42B\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;huggingface.co\u0026#x2F;meta-models\u0026#x2F;Muse-Spark-Open-816B-A42B\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;9to5mac.com\u0026#x2F;2026\u0026#x2F;10\u0026#x2F;15\u0026#x2F;meta-launches-new-muse-spark-o",
+    "Metadata": {
+      "score": "417",
+      "author": "bigwheels",
+      "commentCount": "262"
+    },
+    "FetchedAt": "2026-10-15T20:47:27.5179676+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50105647"
+    },
+    "Type": 1,
+    "Title": "Neural networks are clean",
+    "Url": "https://already-clean.goodfire.com/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;twitter.com\u0026#x2F;nickcammarata\u0026#x2F;status\u0026#x2F;2110757819427574056\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;twitter.com\u0026#x2F;nickcammarata\u0026#x2F;status\u0026#x2F;2110757819427574056\u003C/a\u003E",
+    "Metadata": {
+      "score": "343",
+      "author": "themgt",
+      "commentCount": "109"
+    },
+    "FetchedAt": "2026-10-15T20:47:27.5533018+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50108229"
+    },
+    "Type": 1,
+    "Title": "E Ink Kaleido 4",
+    "Url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20261015180401\u0026#x2F;https:\u0026#x2F;\u0026#x2F;www.eink.com\u0026#x2F;news\u0026#x2F;detail\u0026#x2F;EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;web.archive.org\u0026#x2F;web\u0026#x2F;20261015180401\u0026#x2F;https:\u0026#x2F;\u0026#x2F;www.eink....\u003C/a\u003E",
+    "Metadata": {
+      "score": "64",
+      "author": "Perroboc",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-10-15T20:47:27.5876526+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50103338"
+    },
+    "Type": 1,
+    "Title": "Wayland desktop for Linux with skeuomorphic design",
+    "Url": "https://github.com/fyzugx/DEsk",
+    "Description": "Wayland desktop for Linux with skeuomorphic design",
+    "Metadata": {
+      "score": "416",
+      "author": "FinalDestiny",
+      "commentCount": "171"
+    },
+    "FetchedAt": "2026-10-15T20:47:27.6205466+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50105648"
+    },
+    "Type": 1,
+    "Title": "Krea 3 \u2013 An image model built for editing at scale",
+    "Url": "https://www.krea.ai/krea-3",
+    "Description": "Krea 3 \u2013 An image model built for editing at scale",
+    "Metadata": {
+      "score": "185",
+      "author": "dvrp",
+      "commentCount": "69"
+    },
+    "FetchedAt": "2026-10-15T20:47:27.6545145+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50101813"
+    },
+    "Type": 1,
+    "Title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+    "Url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.theguardian.com\u0026#x2F;technology\u0026#x2F;2026\u0026#x2F;oct\u0026#x2F;15\u0026#x2F;israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.theguardian.com\u0026#x2F;technology\u0026#x2F;2026\u0026#x2F;oct\u0026#x2F;15\u0026#x2F;israeli-f...\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.theverge.com\u0026#x2F;tech\u0026#x2F;1011956\u0026#x2F;discover-tech-zero-click-ads-spyware\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.theverge.com\u0026#x2F;tech\u0026#x2F;1011956\u0026#x2F;discover-te",
+    "Metadata": {
+      "score": "296",
+      "author": "jcomp",
+      "commentCount": "459"
+    },
+    "FetchedAt": "2026-10-15T20:47:27.6895286+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50084674"
+    },
+    "Type": 1,
+    "Title": "Why I Wrote PGP (1991, revised 1999)",
+    "Url": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
+    "Description": "Why I Wrote PGP (1991, revised 1999)",
+    "Metadata": {
+      "score": "57",
+      "author": "GaryBluto",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-10-15T20:47:27.728439+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50104726"
+    },
+    "Type": 1,
+    "Title": "Celebrating 70 Years of Fortran",
+    "Url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+    "Description": "Celebrating 70 Years of Fortran",
+    "Metadata": {
+      "score": "174",
+      "author": "rbanffy",
+      "commentCount": "73"
+    },
+    "FetchedAt": "2026-10-15T20:47:27.7647196+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50106023"
+    },
+    "Type": 1,
+    "Title": "Jev meets the Trolley Problem",
+    "Url": "https://zachlandes.com/trolley-problem/",
+    "Description": "Jev meets the Trolley Problem",
+    "Metadata": {
+      "score": "151",
+      "author": "zlandes86",
+      "commentCount": "75"
+    },
+    "FetchedAt": "2026-10-15T20:47:27.7988045+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50080155"
+    },
+    "Type": 1,
+    "Title": "Delta\u2019s Biscoff cookies were supposed to be temporary",
+    "Url": "https://www.seriouseats.com/biscoff-history-12168161",
+    "Description": "Delta\u2019s Biscoff cookies were supposed to be temporary",
+    "Metadata": {
+      "score": "119",
+      "author": "mhb",
+      "commentCount": "110"
+    },
+    "FetchedAt": "2026-10-15T20:47:27.8324992+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50102923"
+    },
+    "Type": 1,
+    "Title": "Libreboot 26.10 \u0022Ominous Olive\u0022 released with UEFI, Chromebook support",
+    "Url": "https://libreboot.org/news/libreboot2610.html",
+    "Description": "Libreboot 26.10 \u0022Ominous Olive\u0022 released with UEFI, Chromebook support",
+    "Metadata": {
+      "score": "222",
+      "author": "iamnothere",
+      "commentCount": "128"
+    },
+    "FetchedAt": "2026-10-15T20:47:27.8650361+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50097843"
+    },
+    "Type": 1,
+    "Title": "The engineering that allows articulated buses to bend",
+    "Url": "https://www.theautopian.com/you-wont-believe-the-incredible-engineering-that-allows-articulated-buses-to-bend/",
+    "Description": "The engineering that allows articulated buses to bend",
+    "Metadata": {
+      "score": "34",
+      "author": "CharlesW",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-10-15T20:47:27.8974139+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50109707"
+    },
+    "Type": 1,
+    "Title": "Why are we even doing all this?",
+    "Url": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
+    "Description": "Why are we even doing all this?",
+    "Metadata": {
+      "score": "12",
+      "author": "smilelamp",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-10-15T20:47:27.930245+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50109375"
+    },
+    "Type": 1,
+    "Title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+    "Url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+    "Description": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+    "Metadata": {
+      "score": "7",
+      "author": "johnbehnke",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-10-15T20:47:27.9661091+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50102247"
+    },
+    "Type": 1,
+    "Title": "Show HN: Unfenced \u2013 Land for sale that borders public land",
+    "Url": "https://unfenced.land/",
+    "Description": "Show HN: Unfenced \u2013 Land for sale that borders public land",
+    "Metadata": {
+      "score": "222",
+      "author": "otherwatersflow",
+      "commentCount": "157"
+    },
+    "FetchedAt": "2026-10-15T20:47:27.9997403+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50104654"
+    },
+    "Type": 1,
+    "Title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+    "Url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+    "Description": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+    "Metadata": {
+      "score": "197",
+      "author": "aaraujo002",
+      "commentCount": "172"
+    },
+    "FetchedAt": "2026-10-15T20:47:28.0322806+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50105777"
+    },
+    "Type": 1,
+    "Title": "The technical actions needed to ensure the continuity of UTC",
+    "Url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+    "Description": "The technical actions needed to ensure the continuity of UTC",
+    "Metadata": {
+      "score": "80",
+      "author": "gliffie",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-10-15T20:47:28.0663432+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50105467"
+    },
+    "Type": 1,
+    "Title": "Show HN: Proa \u2013 A Rust web framework with fast SSR and multi-target rendering",
+    "Url": "https://proa.so/",
+    "Description": "Video: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;youtu.be\u0026#x2F;-CfCyvIKYyo?si=hCLuStkXxanCUJD1\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;youtu.be\u0026#x2F;-CfCyvIKYyo?si=hCLuStkXxanCUJD1\u003C/a\u003E\u003Cp\u003EVideo on multi-target rendering: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;youtu.be\u0026#x2F;pJx84jdBDKU?si=HRRd6dgUWXiqeWhq\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;youtu.be\u0026#x2F;pJx84jdBDKU?si=HRRd6dgUWXiqeWhq\u003C/a\u003E\u003Cp\u003EBenchmarks: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;Proa-Labs\u0026#x2F;proa-benchmarks\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;Proa-L",
+    "Metadata": {
+      "score": "63",
+      "author": "burnrate",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-10-15T20:47:28.1011744+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50105635"
+    },
+    "Type": 1,
+    "Title": "Steam Client is now faster than Epic\u0027s new vibe coded launcher",
+    "Url": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+    "Description": "Steam Client is now faster than Epic\u0027s new vibe coded launcher",
+    "Metadata": {
+      "score": "214",
+      "author": "starkparker",
+      "commentCount": "229"
+    },
+    "FetchedAt": "2026-10-15T20:47:28.1340757+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50099136"
+    },
+    "Type": 1,
+    "Title": "Show HN: Flipflop \u2013 Iroh-powered persistent tunnels for filesharing",
+    "Url": "https://github.com/andunieee/flipflop",
+    "Description": "This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most importantly, establishing a communication channel with trusted external people that can be left always on.",
+    "Metadata": {
+      "score": "91",
+      "author": "andunie",
+      "commentCount": "45"
+    },
+    "FetchedAt": "2026-10-15T20:47:28.168084+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50108872"
+    },
+    "Type": 1,
+    "Title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+    "Url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+    "Description": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+    "Metadata": {
+      "score": "64",
+      "author": "speckx",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-10-15T20:47:28.2014179+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50103164"
+    },
+    "Type": 1,
+    "Title": "C\u002B\u002B26 Contracts: Introduction to Preconditions and Postconditions",
+    "Url": "https://www.cppstories.com/2026/cpp26_contracts/",
+    "Description": "C\u002B\u002B26 Contracts: Introduction to Preconditions and Postconditions",
+    "Metadata": {
+      "score": "108",
+      "author": "ibobev",
+      "commentCount": "104"
+    },
+    "FetchedAt": "2026-10-15T20:47:28.2348595+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50106054"
+    },
+    "Type": 1,
+    "Title": "Show HN: Sygal \u2013 Convert PDFs, scans and web pages to Markdown, locally",
+    "Url": "https://sygal.app",
+    "Description": "Show HN: Sygal \u2013 Convert PDFs, scans and web pages to Markdown, locally",
+    "Metadata": {
+      "score": "29",
+      "author": "cyrillsemah",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-10-15T20:47:28.267047+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50070625"
+    },
+    "Type": 1,
+    "Title": "Wanted to download an ISO, ended up writing a kernel exploit",
+    "Url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+    "Description": "Author here. Does anyone know what to do with the rest of the drivers? I found at least 13 in-tree drivers with the same bug class. The nasty part is they work fine on x86 and silently corrupt data on arm and other non-coherent archs, and I don\u0026#x27;t have the hardware to test them.\u003Cp\u003EI\u0026#x27;d guess that\u0026#x27;s what the DMA API is for and drivers shouldn\u0026#x27;t be doing cache maintenance by hand, but I\u0026#x27;m not a kernel dev, so maybe I\u0026#x27;m missing something.",
+    "Metadata": {
+      "score": "321",
+      "author": "0xdeafbeef",
+      "commentCount": "156"
+    },
+    "FetchedAt": "2026-10-15T20:47:28.3044252+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50103630"
+    },
+    "Type": 1,
+    "Title": "I know why the mathematicians weep",
+    "Url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+    "Description": "I know why the mathematicians weep",
+    "Metadata": {
+      "score": "306",
+      "author": "RickJWagner",
+      "commentCount": "488"
+    },
+    "FetchedAt": "2026-10-15T20:47:28.3408084+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50062683"
+    },
+    "Type": 1,
+    "Title": "Rediscovering the Romance of Travel Clocks",
+    "Url": "https://www.acollectedman.com/blogs/journal/rediscovering-travel-clocks",
+    "Description": "Rediscovering the Romance of Travel Clocks",
+    "Metadata": {
+      "score": "7",
+      "author": "austinallegro",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-10-15T20:47:28.3780117+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50099121"
+    },
+    "Type": 1,
+    "Title": "An Apology",
+    "Url": "https://www.elevationlab.com/blogs/news/an-apology",
+    "Description": "An Apology",
+    "Metadata": {
+      "score": "61",
+      "author": "cdrnsf",
+      "commentCount": "86"
+    },
+    "FetchedAt": "2026-10-15T20:47:28.415444+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50098454"
+    },
+    "Type": 1,
+    "Title": "Show HN: My Terminal Themes Web App",
+    "Url": "https://news.ycombinator.com/item?id=50098454",
+    "Description": "Well, after 15 years of saying \u0026quot;Someday I\u0026#x27;ll turn this into a web app,\u0026quot; I finally did it!\u003Cp\u003EI\u0026#x27;ve been maintaining a popular repo of terminal themes at \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;mbadolato\u0026#x2F;iTerm2-Color-Schemes\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;mbadolato\u0026#x2F;iTerm2-Color-Schemes\u003C/a\u003E, and it was finally time to build the app with all the features I wanted!\u003Cp\u003ESo, the next-gen version is live at \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;terminalthemes.com\u0022 r",
+    "Metadata": {
+      "score": "26",
+      "author": "bado",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-10-15T20:47:28.451674+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50085171"
+    },
+    "Type": 1,
+    "Title": "Game of Life \u2013 But Multiplayer, Hypermedia and Python",
+    "Url": "https://stario.dev/apps/life",
+    "Description": "Game of Life \u2013 But Multiplayer, Hypermedia and Python",
+    "Metadata": {
+      "score": "25",
+      "author": "bobowski",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-10-15T20:47:28.4867943+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50106738"
+    },
+    "Type": 1,
+    "Title": "More on Anthropic\u0027s Scion ripping off Mononoke",
+    "Url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
+    "Description": "\u003Ci\u003ERedesigning source control at Anthropic\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50073633\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50073633\u003C/a\u003E (996 comments)\u003Cp\u003E\u003Ci\u003EAnthropic\u0026#x27;s Scion is heavily inspired by Mononoke\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50094694\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50094694\u003C/a\u003E (149 comments)",
+    "Metadata": {
+      "score": "201",
+      "author": "sunshowers",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-10-15T20:47:28.5201857+00:00"
   }
 ]
