@@ -14,7 +14,7 @@
       "stars": "32,314",
       "topics": "agent-skills, ai-agents, binary-analysis, claude-code, cli, codex, cordis, decompiler, developer-tools, dsh, dsh-plugin, ghidra, hopper, llm, mcp, model-context-protocol, rea, reverse-engineering, static-analysis, touhou"
     },
-    "FetchedAt": "2026-10-16T02:31:06.7587212+00:00"
+    "FetchedAt": "2026-10-16T10:24:42.7991892+00:00"
   },
   {
     "ExternalId": {
@@ -31,7 +31,7 @@
       "stars": "307",
       "topics": "claude-code, mcp, skills"
     },
-    "FetchedAt": "2026-10-16T02:31:06.9841113+00:00"
+    "FetchedAt": "2026-10-16T10:24:42.9650839+00:00"
   },
   {
     "ExternalId": {
@@ -48,7 +48,7 @@
       "stars": "1,091",
       "topics": "agent-skills, ai-scientist, bioinformatics, chemoinformatics, claude, claude-skills, claudecode, clinical-research, computational-biology, data-analysis, drug-discovery, genomics, materials-science, metabolomics, proteomics, scientific-computing, scientific-visualization"
     },
-    "FetchedAt": "2026-10-16T02:31:07.1508517+00:00"
+    "FetchedAt": "2026-10-16T10:24:43.1168678+00:00"
   },
   {
     "ExternalId": {
@@ -65,7 +65,7 @@
       "stars": "147",
       "topics": "agentic-ai, agentic-framework, agentic-workflow, agents, ai-agents, ai-assistant, ai-skills, autonomous-agents, claude, codex, dsh-plugin, harness, mcp-server, multi-agent, multi-agent-systems, npm, skills, swarm, swarm-intelligence, typescript"
     },
-    "FetchedAt": "2026-10-16T02:31:07.3070336+00:00"
+    "FetchedAt": "2026-10-16T10:24:43.2543778+00:00"
   },
   {
     "ExternalId": {
@@ -82,7 +82,7 @@
       "stars": "1,369",
       "topics": "disassembler, reverse-engineering, software-analysis"
     },
-    "FetchedAt": "2026-10-16T02:31:07.4381784+00:00"
+    "FetchedAt": "2026-10-16T10:24:43.3974484+00:00"
   },
   {
     "ExternalId": {
@@ -99,6 +99,23 @@
       "stars": "715",
       "topics": "ai-search, ai-search-algorithms, ai-search-engine, ai-search-free, ai-search-module, ai-search-optimization, ai-searchengine, bm25-search, elastic-search, elasticsearch, elasticstack, graph-search, graph-semantic-search, hybrid-search, hybrid-semantic-search, search-api, search-engine, semantic-search, vector-database, vector-search"
     },
-    "FetchedAt": "2026-10-16T02:31:07.6049908+00:00"
+    "FetchedAt": "2026-10-16T10:24:43.5671765+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:LibreSpark/LibreTV"
+    },
+    "Type": 0,
+    "Title": "LibreSpark/LibreTV",
+    "Url": "https://github.com/LibreSpark/LibreTV",
+    "Description": "\u4E00\u5206\u949F\u642D\u5EFA\u5F71\u89C6\u7AD9\uFF0C\u652F\u6301Docker\u7B49\u90E8\u7F72\u65B9\u5F0F",
+    "Metadata": {
+      "owner": "LibreSpark",
+      "repo": "LibreTV",
+      "language": "TypeScript",
+      "stars": "978",
+      "topics": "css, film, html, movie-web-app, movies-and-cinemas, nextjs, tv"
+    },
+    "FetchedAt": "2026-10-16T10:24:43.7152129+00:00"
   }
 ]
