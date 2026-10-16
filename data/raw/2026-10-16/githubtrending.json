@@ -1,0 +1,104 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:morluto/rea"
+    },
+    "Type": 0,
+    "Title": "morluto/rea",
+    "Url": "https://github.com/morluto/rea",
+    "Description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "Metadata": {
+      "owner": "morluto",
+      "repo": "rea",
+      "language": "TypeScript",
+      "stars": "32,314",
+      "topics": "agent-skills, ai-agents, binary-analysis, claude-code, cli, codex, cordis, decompiler, developer-tools, dsh, dsh-plugin, ghidra, hopper, llm, mcp, model-context-protocol, rea, reverse-engineering, static-analysis, touhou"
+    },
+    "FetchedAt": "2026-10-16T02:31:06.7587212+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-plugins-official"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-plugins-official",
+    "Url": "https://github.com/anthropics/claude-plugins-official",
+    "Description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-plugins-official",
+      "language": "Python",
+      "stars": "307",
+      "topics": "claude-code, mcp, skills"
+    },
+    "FetchedAt": "2026-10-16T02:31:06.9841113+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:K-Dense-AI/scientific-agent-skills"
+    },
+    "Type": 0,
+    "Title": "K-Dense-AI/scientific-agent-skills",
+    "Url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "Description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000\u002B scientists worldwide. 177 ready-to-use validated skills plus 100\u002B scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "Metadata": {
+      "owner": "K-Dense-AI",
+      "repo": "scientific-agent-skills",
+      "language": "Python",
+      "stars": "1,091",
+      "topics": "agent-skills, ai-scientist, bioinformatics, chemoinformatics, claude, claude-skills, claudecode, clinical-research, computational-biology, data-analysis, drug-discovery, genomics, materials-science, metabolomics, proteomics, scientific-computing, scientific-visualization"
+    },
+    "FetchedAt": "2026-10-16T02:31:07.1508517+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ruvnet/ruflo"
+    },
+    "Type": 0,
+    "Title": "ruvnet/ruflo",
+    "Url": "https://github.com/ruvnet/ruflo",
+    "Description": "\uD83C\uDF0A The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "Metadata": {
+      "owner": "ruvnet",
+      "repo": "ruflo",
+      "language": "TypeScript",
+      "stars": "147",
+      "topics": "agentic-ai, agentic-framework, agentic-workflow, agents, ai-agents, ai-assistant, ai-skills, autonomous-agents, claude, codex, dsh-plugin, harness, mcp-server, multi-agent, multi-agent-systems, npm, skills, swarm, swarm-intelligence, typescript"
+    },
+    "FetchedAt": "2026-10-16T02:31:07.3070336+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NationalSecurityAgency/ghidra"
+    },
+    "Type": 0,
+    "Title": "NationalSecurityAgency/ghidra",
+    "Url": "https://github.com/NationalSecurityAgency/ghidra",
+    "Description": "Ghidra is a software reverse engineering (SRE) framework",
+    "Metadata": {
+      "owner": "NationalSecurityAgency",
+      "repo": "ghidra",
+      "language": "Java",
+      "stars": "1,369",
+      "topics": "disassembler, reverse-engineering, software-analysis"
+    },
+    "FetchedAt": "2026-10-16T02:31:07.4381784+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:xerj-org/xerj"
+    },
+    "Type": 0,
+    "Title": "xerj-org/xerj",
+    "Url": "https://github.com/xerj-org/xerj",
+    "Description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+    "Metadata": {
+      "owner": "xerj-org",
+      "repo": "xerj",
+      "language": "Rust",
+      "stars": "715",
+      "topics": "ai-search, ai-search-algorithms, ai-search-engine, ai-search-free, ai-search-module, ai-search-optimization, ai-searchengine, bm25-search, elastic-search, elasticsearch, elasticstack, graph-search, graph-semantic-search, hybrid-search, hybrid-semantic-search, search-api, search-engine, semantic-search, vector-database, vector-search"
+    },
+    "FetchedAt": "2026-10-16T02:31:07.6049908+00:00"
+  }
+]
