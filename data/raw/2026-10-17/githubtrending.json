@@ -1,90 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:anthropics/claude-plugins-official"
-    },
-    "Type": 0,
-    "Title": "anthropics/claude-plugins-official",
-    "Url": "https://github.com/anthropics/claude-plugins-official",
-    "Description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "Metadata": {
-      "owner": "anthropics",
-      "repo": "claude-plugins-official",
-      "language": "Python",
-      "stars": "1,552",
-      "topics": "claude-code, mcp, skills"
-    },
-    "FetchedAt": "2026-10-17T09:56:59.2697249+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:K-Dense-AI/scientific-agent-skills"
-    },
-    "Type": 0,
-    "Title": "K-Dense-AI/scientific-agent-skills",
-    "Url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-    "Description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000\u002B scientists worldwide. 177 ready-to-use validated skills plus 100\u002B scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-    "Metadata": {
-      "owner": "K-Dense-AI",
-      "repo": "scientific-agent-skills",
-      "language": "Python",
-      "stars": "1,158",
-      "topics": "agent-skills, ai-scientist, bioinformatics, chemoinformatics, claude, claude-skills, claudecode, clinical-research, computational-biology, data-analysis, drug-discovery, genomics, materials-science, metabolomics, proteomics, scientific-computing, scientific-visualization"
-    },
-    "FetchedAt": "2026-10-17T09:56:59.562297+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:HKUDS/CLI-Anything"
-    },
-    "Type": 0,
-    "Title": "HKUDS/CLI-Anything",
-    "Url": "https://github.com/HKUDS/CLI-Anything",
-    "Description": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/",
-    "Metadata": {
-      "owner": "HKUDS",
-      "repo": "CLI-Anything",
-      "language": "Python",
-      "stars": "281"
-    },
-    "FetchedAt": "2026-10-17T09:56:59.7405372+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:ruvnet/ruflo"
-    },
-    "Type": 0,
-    "Title": "ruvnet/ruflo",
-    "Url": "https://github.com/ruvnet/ruflo",
-    "Description": "\uD83C\uDF0A The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-    "Metadata": {
-      "owner": "ruvnet",
-      "repo": "ruflo",
-      "language": "TypeScript",
-      "stars": "672",
-      "topics": "agentic-ai, agentic-framework, agentic-workflow, agents, ai-agents, ai-assistant, ai-skills, autonomous-agents, claude, codex, dsh-plugin, harness, mcp-server, multi-agent, multi-agent-systems, npm, skills, swarm, swarm-intelligence, typescript"
-    },
-    "FetchedAt": "2026-10-17T09:56:59.9143+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:android/skills"
-    },
-    "Type": 0,
-    "Title": "android/skills",
-    "Url": "https://github.com/android/skills",
-    "Description": "",
-    "Metadata": {
-      "owner": "android",
-      "repo": "skills",
-      "language": "Kotlin",
-      "stars": "36",
-      "topics": "skills"
-    },
-    "FetchedAt": "2026-10-17T09:57:00.0688711+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:cursor/plugins"
     },
     "Type": 0,
@@ -118,6 +34,139 @@
   },
   {
     "ExternalId": {
+      "Value": "github:anthropics/claude-plugins-official"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-plugins-official",
+    "Url": "https://github.com/anthropics/claude-plugins-official",
+    "Description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-plugins-official",
+      "language": "Python",
+      "stars": "1,383",
+      "topics": "claude-code, mcp, skills"
+    },
+    "FetchedAt": "2026-10-17T14:44:30.8919582+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/CLI-Anything"
+    },
+    "Type": 0,
+    "Title": "HKUDS/CLI-Anything",
+    "Url": "https://github.com/HKUDS/CLI-Anything",
+    "Description": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "CLI-Anything",
+      "language": "Python",
+      "stars": "580"
+    },
+    "FetchedAt": "2026-10-17T14:44:31.0633208+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:K-Dense-AI/scientific-agent-skills"
+    },
+    "Type": 0,
+    "Title": "K-Dense-AI/scientific-agent-skills",
+    "Url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "Description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000\u002B scientists worldwide. 177 ready-to-use validated skills plus 100\u002B scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "Metadata": {
+      "owner": "K-Dense-AI",
+      "repo": "scientific-agent-skills",
+      "language": "Python",
+      "stars": "879",
+      "topics": "agent-skills, ai-scientist, bioinformatics, chemoinformatics, claude, claude-skills, claudecode, clinical-research, computational-biology, data-analysis, drug-discovery, genomics, materials-science, metabolomics, proteomics, scientific-computing, scientific-visualization"
+    },
+    "FetchedAt": "2026-10-17T14:44:31.1817414+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:akitaonrails/ai-memory"
+    },
+    "Type": 0,
+    "Title": "akitaonrails/ai-memory",
+    "Url": "https://github.com/akitaonrails/ai-memory",
+    "Description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "Metadata": {
+      "owner": "akitaonrails",
+      "repo": "ai-memory",
+      "language": "Rust",
+      "stars": "208"
+    },
+    "FetchedAt": "2026-10-17T14:44:31.2993258+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:android/skills"
+    },
+    "Type": 0,
+    "Title": "android/skills",
+    "Url": "https://github.com/android/skills",
+    "Description": "",
+    "Metadata": {
+      "owner": "android",
+      "repo": "skills",
+      "language": "Kotlin",
+      "stars": "368",
+      "topics": "skills"
+    },
+    "FetchedAt": "2026-10-17T14:44:31.4394909+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:stablyai/orca"
+    },
+    "Type": 0,
+    "Title": "stablyai/orca",
+    "Url": "https://github.com/stablyai/orca",
+    "Description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "Metadata": {
+      "owner": "stablyai",
+      "repo": "orca",
+      "language": "TypeScript",
+      "stars": "1,102",
+      "topics": "ade, agent-ide, ai-agents, automation, bot, claude-code, codex, ghostty, grok-bot, hermes-agent, mobile-app, muse, openclaw, opencode, orchestration, pi, runtime, terminal, worktrees, yc-backed"
+    },
+    "FetchedAt": "2026-10-17T14:44:31.5672631+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-code"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-code",
+    "Url": "https://github.com/anthropics/claude-code",
+    "Description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-code",
+      "language": "TypeScript",
+      "stars": "168"
+    },
+    "FetchedAt": "2026-10-17T14:44:31.686008+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ruvnet/ruflo"
+    },
+    "Type": 0,
+    "Title": "ruvnet/ruflo",
+    "Url": "https://github.com/ruvnet/ruflo",
+    "Description": "\uD83C\uDF0A The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "Metadata": {
+      "owner": "ruvnet",
+      "repo": "ruflo",
+      "language": "TypeScript",
+      "stars": "406",
+      "topics": "agentic-ai, agentic-framework, agentic-workflow, agents, ai-agents, ai-assistant, ai-skills, autonomous-agents, claude, codex, dsh-plugin, harness, mcp-server, multi-agent, multi-agent-systems, npm, skills, swarm, swarm-intelligence, typescript"
+    },
+    "FetchedAt": "2026-10-17T14:44:31.8396819+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:xerj-org/xerj"
     },
     "Type": 0,
@@ -128,9 +177,9 @@
       "owner": "xerj-org",
       "repo": "xerj",
       "language": "Rust",
-      "stars": "1,648",
+      "stars": "1,102",
       "topics": "ai-search, ai-search-algorithms, ai-search-engine, ai-search-free, ai-search-module, ai-search-optimization, ai-searchengine, bm25-search, elastic-search, elasticsearch, elasticstack, graph-search, graph-semantic-search, hybrid-search, hybrid-semantic-search, search-api, search-engine, semantic-search, vector-database, vector-search"
     },
-    "FetchedAt": "2026-10-17T09:57:00.5703013+00:00"
+    "FetchedAt": "2026-10-17T14:44:31.9597261+00:00"
   }
 ]
