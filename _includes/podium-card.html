@@ -1,0 +1,39 @@
+{% assign score = include.item.Score %}
+{% assign source = include.item.SourceRef.Value %}
+{% if source contains "github:" %}
+  {% assign url = source | remove_first: "github:" | split: "/" %}
+  {% assign url_final = "https://github.com/" | append: url[0] | append: "/" | append: url[1] %}
+{% elsif source contains "hn:" %}
+  {% assign hn_id = source | remove_first: "hn:" %}
+  {% assign url_final = "https://news.ycombinator.com/item?id=" | append: hn_id %}
+{% else %}
+  {% assign url_final = "#" %}
+{% endif %}
+
+<article class="podium-card">
+  <p class="podium-rank">
+    {% if include.rank == 1 %}🥇 TOP 1
+    {% elsif include.rank == 2 %}🥈 TOP 2
+    {% else %}🥉 TOP 3
+    {% endif %}
+  </p>
+
+  <h2 class="podium-title">
+    <a href="{{ url_final }}" target="_blank" rel="noopener noreferrer">{{ include.item.Highlight.Text }}</a>
+  </h2>
+
+  <p class="podium-description">{{ include.item.Description }}</p>
+
+  <div class="podium-meta">
+    <span class="category-tag {{ include.item.Category }}">{{ include.item.Category }}</span>
+    {% for tag in include.item.TechStack.Tags limit: 3 %}
+      <span class="tech-tag">{{ tag }}</span>
+    {% endfor %}
+  </div>
+
+  {% if include.item.Suitability %}
+  <p class="podium-suitability">🎯 {{ include.item.Suitability }}</p>
+  {% endif %}
+
+  <span class="podium-score">{{ score }}</span>
+</article>
