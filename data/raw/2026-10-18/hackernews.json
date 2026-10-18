@@ -391,111 +391,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50141076"
-    },
-    "Type": 1,
-    "Title": "RepRapMicron",
-    "Url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-    "Description": "RepRapMicron",
-    "Metadata": {
-      "score": "91",
-      "author": "RobotToaster",
-      "commentCount": "13"
-    },
-    "FetchedAt": "2026-10-18T15:10:16.1629609+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50139692"
-    },
-    "Type": 1,
-    "Title": "Legal experts warn Meta\u0027s new terms still grant broad scraping permissions",
-    "Url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
-    "Description": "Legal experts warn Meta\u0027s new terms still grant broad scraping permissions",
-    "Metadata": {
-      "score": "116",
-      "author": "DeepLogin",
-      "commentCount": "28"
-    },
-    "FetchedAt": "2026-10-18T15:10:16.2082047+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50138531"
-    },
-    "Type": 1,
-    "Title": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
-    "Url": "https://api-docs.deepseek.com/guides/search/",
-    "Description": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
-    "Metadata": {
-      "score": "374",
-      "author": "fagnerbrack",
-      "commentCount": "187"
-    },
-    "FetchedAt": "2026-10-18T15:10:16.253245+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50140001"
-    },
-    "Type": 1,
-    "Title": "Open MicroManipulator \u2013 A sub-micrometer 3D motion control plattform",
-    "Url": "https://github.com/0x23/MicroManipulatorStepper",
-    "Description": "Open MicroManipulator \u2013 A sub-micrometer 3D motion control plattform",
-    "Metadata": {
-      "score": "81",
-      "author": "_Microft",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-10-18T15:10:16.2976062+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50140769"
-    },
-    "Type": 1,
-    "Title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-    "Url": "https://legendofhyrule.com/",
-    "Description": "I made this ahead of the Ocarina of Time remake which comes out in 17 days. I remember the feeling of playing it as a kid but I hadn\u2019t kept up with the story so I built a timeline to catch up before the Door of Time reopens.\u003Cp\u003ENintendo\u2019s own timeline is the authority here (Hyrule Historia and their chronicle page). The fun part was rethinking how to visualize it. It branches at the end of Ocarina into three eras depending on whether Link wins or loses, so each era is its own thread on the cloth.",
-    "Metadata": {
-      "score": "23",
-      "author": "jsomau",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-10-18T15:10:16.3430019+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50139067"
-    },
-    "Type": 1,
-    "Title": "Parser Combinators",
-    "Url": "https://t3.at/blog/2026-10-17-parser-combinators/",
-    "Description": "Parser Combinators",
-    "Metadata": {
-      "score": "116",
-      "author": "schindlabua",
-      "commentCount": "51"
-    },
-    "FetchedAt": "2026-10-18T15:10:16.3876994+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50137620"
-    },
-    "Type": 1,
-    "Title": "How the Elizabeth Holmes documentary \u201CYou Can See Everything\u201D is deceiving",
-    "Url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-    "Description": "How the Elizabeth Holmes documentary \u201CYou Can See Everything\u201D is deceiving",
-    "Metadata": {
-      "score": "242",
-      "author": "MaysonL",
-      "commentCount": "300"
-    },
-    "FetchedAt": "2026-10-18T15:10:16.4320137+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50093081"
     },
     "Type": 1,
@@ -526,21 +421,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50137950"
-    },
-    "Type": 1,
-    "Title": "Show HN: Sphinx \u2013 A hook that quizzes you on your AI\u0027s code before shipping",
-    "Url": "https://sphinx-six-theta.vercel.app/",
-    "Description": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it\u0026#x27;ll throw up a questionnaire that checks if you understand how the code you\u0026#x27;re pushing works.",
-    "Metadata": {
-      "score": "195",
-      "author": "critiquebrowser",
-      "commentCount": "61"
-    },
-    "FetchedAt": "2026-10-18T15:10:16.5656338+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50126253"
     },
     "Type": 1,
@@ -553,21 +433,6 @@
       "commentCount": "106"
     },
     "FetchedAt": "2026-10-18T15:10:16.6103417+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50124730"
-    },
-    "Type": 1,
-    "Title": "Teal \u2013 A statically-typed dialect of Lua",
-    "Url": "https://teal-language.org/",
-    "Description": "Teal \u2013 A statically-typed dialect of Lua",
-    "Metadata": {
-      "score": "94",
-      "author": "Lyngbakr",
-      "commentCount": "40"
-    },
-    "FetchedAt": "2026-10-18T15:10:16.65491+00:00"
   },
   {
     "ExternalId": {
@@ -838,5 +703,455 @@
       "commentCount": "13"
     },
     "FetchedAt": "2026-10-18T15:10:17.5595576+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50142573"
+    },
+    "Type": 1,
+    "Title": "Someone behind the software",
+    "Url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+    "Description": "Someone behind the software",
+    "Metadata": {
+      "score": "146",
+      "author": "tosh",
+      "commentCount": "56"
+    },
+    "FetchedAt": "2026-10-18T19:55:14.6682676+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50141076"
+    },
+    "Type": 1,
+    "Title": "RepRapMicron",
+    "Url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+    "Description": "RepRapMicron",
+    "Metadata": {
+      "score": "273",
+      "author": "RobotToaster",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-10-18T19:55:14.7239498+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50144175"
+    },
+    "Type": 1,
+    "Title": "Personal software factories are a waste of time",
+    "Url": "https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/",
+    "Description": "Personal software factories are a waste of time",
+    "Metadata": {
+      "score": "16",
+      "author": "thegreatpeter",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-10-18T19:55:14.779025+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50144066"
+    },
+    "Type": 1,
+    "Title": "Free Pascal Compiler Now Supports Dynamic Packages",
+    "Url": "https://www.getlazarus.org/dynamic/",
+    "Description": "Free Pascal Compiler Now Supports Dynamic Packages",
+    "Metadata": {
+      "score": "23",
+      "author": "sysrpl",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-10-18T19:55:14.8358154+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50143755"
+    },
+    "Type": 1,
+    "Title": "Investing in the Public Benefit",
+    "Url": "https://www.anthropic.com/news/public-benefit-fund",
+    "Description": "Investing in the Public Benefit",
+    "Metadata": {
+      "score": "23",
+      "author": "surprisetalk",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-10-18T19:55:14.890673+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50143536"
+    },
+    "Type": 1,
+    "Title": "PalmOS Lemmings by Aaron Ardiri",
+    "Url": "https://github.com/ardiri/palmos-lemmings",
+    "Description": "PalmOS Lemmings by Aaron Ardiri",
+    "Metadata": {
+      "score": "27",
+      "author": "memalign",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-10-18T19:55:14.9455612+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50141579"
+    },
+    "Type": 1,
+    "Title": "Java sealed classes and exhaustive pattern matching",
+    "Url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+    "Description": "Java sealed classes and exhaustive pattern matching",
+    "Metadata": {
+      "score": "97",
+      "author": "hnisjafx40",
+      "commentCount": "60"
+    },
+    "FetchedAt": "2026-10-18T19:55:15.0019543+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50143132"
+    },
+    "Type": 1,
+    "Title": "Mitos editor is a fork of Helix",
+    "Url": "https://mitos.computer/",
+    "Description": "Mitos editor is a fork of Helix",
+    "Metadata": {
+      "score": "44",
+      "author": "ambigious7777",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-10-18T19:55:15.0587631+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50142449"
+    },
+    "Type": 1,
+    "Title": "The Intel 8087 chip: floating-point addition and subtraction",
+    "Url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+    "Description": "The Intel 8087 chip: floating-point addition and subtraction",
+    "Metadata": {
+      "score": "61",
+      "author": "pwg",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-10-18T19:55:15.1145512+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50096110"
+    },
+    "Type": 1,
+    "Title": "Sigsaly: Churchill\u0027s top secret hotline to the President",
+    "Url": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
+    "Description": "Sigsaly: Churchill\u0027s top secret hotline to the President",
+    "Metadata": {
+      "score": "72",
+      "author": "stmw",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-10-18T19:55:15.1694021+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50144005"
+    },
+    "Type": 1,
+    "Title": "HOA\u0027s are making the home crisis worse",
+    "Url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+    "Description": "HOA\u0027s are making the home crisis worse",
+    "Metadata": {
+      "score": "91",
+      "author": "lovewins",
+      "commentCount": "114"
+    },
+    "FetchedAt": "2026-10-18T19:55:15.22437+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50138531"
+    },
+    "Type": 1,
+    "Title": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
+    "Url": "https://api-docs.deepseek.com/guides/search/",
+    "Description": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
+    "Metadata": {
+      "score": "476",
+      "author": "fagnerbrack",
+      "commentCount": "232"
+    },
+    "FetchedAt": "2026-10-18T19:55:15.2804173+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50139692"
+    },
+    "Type": 1,
+    "Title": "Legal experts warn Meta\u0027s new terms still grant broad scraping permissions",
+    "Url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+    "Description": "Legal experts warn Meta\u0027s new terms still grant broad scraping permissions",
+    "Metadata": {
+      "score": "201",
+      "author": "DeepLogin",
+      "commentCount": "58"
+    },
+    "FetchedAt": "2026-10-18T19:55:15.339889+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50140769"
+    },
+    "Type": 1,
+    "Title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+    "Url": "https://legendofhyrule.com/",
+    "Description": "I made this ahead of the Ocarina of Time remake which comes out in 17 days. I remember the feeling of playing it as a kid but I hadn\u2019t kept up with the story so I built a timeline to catch up before the Door of Time reopens.\u003Cp\u003ENintendo\u2019s own timeline is the authority here (Hyrule Historia and their chronicle page). The fun part was rethinking how to visualize it. It branches at the end of Ocarina into three eras depending on whether Link wins or loses, so each era is its own thread on the cloth.",
+    "Metadata": {
+      "score": "123",
+      "author": "jsomau",
+      "commentCount": "65"
+    },
+    "FetchedAt": "2026-10-18T19:55:15.395221+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50136017"
+    },
+    "Type": 1,
+    "Title": "Beyond Tetris: The Other Games of Alexey Pajitnov [video]",
+    "Url": "https://www.youtube.com/watch?v=QH_LPimUJMs",
+    "Description": "Beyond Tetris: The Other Games of Alexey Pajitnov [video]",
+    "Metadata": {
+      "score": "31",
+      "author": "zdw",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-18T19:55:15.4505661+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50140001"
+    },
+    "Type": 1,
+    "Title": "Open MicroManipulator \u2013 A sub-micrometer 3D motion control plattform",
+    "Url": "https://github.com/0x23/MicroManipulatorStepper",
+    "Description": "Open MicroManipulator \u2013 A sub-micrometer 3D motion control plattform",
+    "Metadata": {
+      "score": "145",
+      "author": "_Microft",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-10-18T19:55:15.505745+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50142866"
+    },
+    "Type": 1,
+    "Title": "Namecheap just seized and disabled all my domains",
+    "Url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+    "Description": "Namecheap just seized and disabled all my domains",
+    "Metadata": {
+      "score": "153",
+      "author": "sashk",
+      "commentCount": "87"
+    },
+    "FetchedAt": "2026-10-18T19:55:15.5617245+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50093020"
+    },
+    "Type": 1,
+    "Title": "I Electrified My Push Scooter with a Power Drill",
+    "Url": "https://eddieabbondanz.io/post/shop/drill-powered-scooter/",
+    "Description": "I Electrified My Push Scooter with a Power Drill",
+    "Metadata": {
+      "score": "49",
+      "author": "speckx",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-10-18T19:55:15.6167553+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50137620"
+    },
+    "Type": 1,
+    "Title": "How the Elizabeth Holmes documentary \u201CYou Can See Everything\u201D is deceiving",
+    "Url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+    "Description": "How the Elizabeth Holmes documentary \u201CYou Can See Everything\u201D is deceiving",
+    "Metadata": {
+      "score": "321",
+      "author": "MaysonL",
+      "commentCount": "430"
+    },
+    "FetchedAt": "2026-10-18T19:55:15.6726912+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50139067"
+    },
+    "Type": 1,
+    "Title": "Parser Combinators",
+    "Url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+    "Description": "Parser Combinators",
+    "Metadata": {
+      "score": "194",
+      "author": "schindlabua",
+      "commentCount": "74"
+    },
+    "FetchedAt": "2026-10-18T19:55:15.7309002+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50144405"
+    },
+    "Type": 1,
+    "Title": "US threatens Europe over Starlink restrictions",
+    "Url": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa",
+    "Description": "US threatens Europe over Starlink restrictions",
+    "Metadata": {
+      "score": "12",
+      "author": "mraniki",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-10-18T19:55:15.7861191+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50129060"
+    },
+    "Type": 1,
+    "Title": "Geographical Fun: Being Humourous Outlines of Various Countries (1868)",
+    "Url": "https://publicdomainreview.org/collection/geographical-fun-being-humourous-outlines-of-various-countries-1868/",
+    "Description": "Geographical Fun: Being Humourous Outlines of Various Countries (1868)",
+    "Metadata": {
+      "score": "5",
+      "author": "Thevet",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-18T19:55:15.8409916+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50143876"
+    },
+    "Type": 1,
+    "Title": "CFPB Opens Debanking Investigation into Nine Large National Banks",
+    "Url": "https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/",
+    "Description": "CFPB Opens Debanking Investigation into Nine Large National Banks",
+    "Metadata": {
+      "score": "19",
+      "author": "iamnothere",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-10-18T19:55:15.8962635+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50141681"
+    },
+    "Type": 1,
+    "Title": "Will it be a golden age or a dark age for mathematics (and science)?",
+    "Url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
+    "Description": "Will it be a golden age or a dark age for mathematics (and science)?",
+    "Metadata": {
+      "score": "102",
+      "author": "smilelamp",
+      "commentCount": "131"
+    },
+    "FetchedAt": "2026-10-18T19:55:15.9514343+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50119819"
+    },
+    "Type": 1,
+    "Title": "CKKS \u2013 Addition and Multiplication",
+    "Url": "https://www.jeremykun.com/2026/10/11/ckks-addition-and-multiplication/",
+    "Description": "CKKS \u2013 Addition and Multiplication",
+    "Metadata": {
+      "score": "6",
+      "author": "ibobev",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-18T19:55:16.007325+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50124730"
+    },
+    "Type": 1,
+    "Title": "Teal \u2013 A statically-typed dialect of Lua",
+    "Url": "https://teal-language.org/",
+    "Description": "Teal \u2013 A statically-typed dialect of Lua",
+    "Metadata": {
+      "score": "137",
+      "author": "Lyngbakr",
+      "commentCount": "60"
+    },
+    "FetchedAt": "2026-10-18T19:55:16.0636377+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50141909"
+    },
+    "Type": 1,
+    "Title": "macOS 15.8.2 Breaks OpenGL",
+    "Url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+    "Description": "macOS 15.8.2 Breaks OpenGL",
+    "Metadata": {
+      "score": "216",
+      "author": "Audiophilip",
+      "commentCount": "212"
+    },
+    "FetchedAt": "2026-10-18T19:55:16.119061+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50141024"
+    },
+    "Type": 1,
+    "Title": "The Electronic Disturbance Theater and Electronic Civil Disobedience (1998)",
+    "Url": "https://www.thing.net/~rdom/ecd/EDTECD.html",
+    "Description": "The Electronic Disturbance Theater and Electronic Civil Disobedience (1998)",
+    "Metadata": {
+      "score": "28",
+      "author": "jruohonen",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-10-18T19:55:16.1740074+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50137950"
+    },
+    "Type": 1,
+    "Title": "Show HN: Sphinx \u2013 A hook that quizzes you on your AI\u0027s code before shipping",
+    "Url": "https://sphinx-six-theta.vercel.app/",
+    "Description": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it\u0026#x27;ll throw up a questionnaire that checks if you understand how the code you\u0026#x27;re pushing works.",
+    "Metadata": {
+      "score": "223",
+      "author": "critiquebrowser",
+      "commentCount": "76"
+    },
+    "FetchedAt": "2026-10-18T19:55:16.229236+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50108165"
+    },
+    "Type": 1,
+    "Title": "Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5",
+    "Url": "http://www.ibiblio.org/eldritch/nhb/paperc/intro.html",
+    "Description": "Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5",
+    "Metadata": {
+      "score": "23",
+      "author": "Eridanus2",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-10-18T19:55:16.2847389+00:00"
   }
 ]
