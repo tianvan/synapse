@@ -1,0 +1,152 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-plugins-official"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-plugins-official",
+    "Url": "https://github.com/anthropics/claude-plugins-official",
+    "Description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-plugins-official",
+      "language": "Python",
+      "stars": "1,397",
+      "topics": "claude-code, mcp, skills"
+    },
+    "FetchedAt": "2026-10-18T02:23:55.4749897+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/CLI-Anything"
+    },
+    "Type": 0,
+    "Title": "HKUDS/CLI-Anything",
+    "Url": "https://github.com/HKUDS/CLI-Anything",
+    "Description": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "CLI-Anything",
+      "language": "Python",
+      "stars": "574"
+    },
+    "FetchedAt": "2026-10-18T02:23:55.7681317+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:K-Dense-AI/scientific-agent-skills"
+    },
+    "Type": 0,
+    "Title": "K-Dense-AI/scientific-agent-skills",
+    "Url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "Description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000\u002B scientists worldwide. 177 ready-to-use validated skills plus 100\u002B scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "Metadata": {
+      "owner": "K-Dense-AI",
+      "repo": "scientific-agent-skills",
+      "language": "Python",
+      "stars": "878",
+      "topics": "agent-skills, ai-scientist, bioinformatics, chemoinformatics, claude, claude-skills, claudecode, clinical-research, computational-biology, data-analysis, drug-discovery, genomics, materials-science, metabolomics, proteomics, scientific-computing, scientific-visualization"
+    },
+    "FetchedAt": "2026-10-18T02:23:55.9353949+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:akitaonrails/ai-memory"
+    },
+    "Type": 0,
+    "Title": "akitaonrails/ai-memory",
+    "Url": "https://github.com/akitaonrails/ai-memory",
+    "Description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "Metadata": {
+      "owner": "akitaonrails",
+      "repo": "ai-memory",
+      "language": "Rust",
+      "stars": "178"
+    },
+    "FetchedAt": "2026-10-18T02:23:56.1007241+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:android/skills"
+    },
+    "Type": 0,
+    "Title": "android/skills",
+    "Url": "https://github.com/android/skills",
+    "Description": "",
+    "Metadata": {
+      "owner": "android",
+      "repo": "skills",
+      "language": "Kotlin",
+      "stars": "355",
+      "topics": "skills"
+    },
+    "FetchedAt": "2026-10-18T02:23:56.3386966+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:stablyai/orca"
+    },
+    "Type": 0,
+    "Title": "stablyai/orca",
+    "Url": "https://github.com/stablyai/orca",
+    "Description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "Metadata": {
+      "owner": "stablyai",
+      "repo": "orca",
+      "language": "TypeScript",
+      "stars": "830",
+      "topics": "ade, agent-ide, ai-agents, automation, bot, claude-code, codex, ghostty, grok-bot, hermes-agent, mobile-app, muse, openclaw, opencode, orchestration, pi, runtime, terminal, worktrees, yc-backed"
+    },
+    "FetchedAt": "2026-10-18T02:23:56.513783+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-code"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-code",
+    "Url": "https://github.com/anthropics/claude-code",
+    "Description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-code",
+      "language": "TypeScript",
+      "stars": "179"
+    },
+    "FetchedAt": "2026-10-18T02:23:56.6821308+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ruvnet/ruflo"
+    },
+    "Type": 0,
+    "Title": "ruvnet/ruflo",
+    "Url": "https://github.com/ruvnet/ruflo",
+    "Description": "\uD83C\uDF0A The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "Metadata": {
+      "owner": "ruvnet",
+      "repo": "ruflo",
+      "language": "TypeScript",
+      "stars": "420",
+      "topics": "agentic-ai, agentic-framework, agentic-workflow, agents, ai-agents, ai-assistant, ai-skills, autonomous-agents, claude, codex, dsh-plugin, harness, mcp-server, multi-agent, multi-agent-systems, npm, skills, swarm, swarm-intelligence, typescript"
+    },
+    "FetchedAt": "2026-10-18T02:23:56.8616177+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:xerj-org/xerj"
+    },
+    "Type": 0,
+    "Title": "xerj-org/xerj",
+    "Url": "https://github.com/xerj-org/xerj",
+    "Description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It\u2019s durable and can replace ElasticSearch saving you x10 infra costs.",
+    "Metadata": {
+      "owner": "xerj-org",
+      "repo": "xerj",
+      "language": "Rust",
+      "stars": "1,160",
+      "topics": "ai-search, ai-search-algorithms, ai-search-engine, ai-search-free, ai-search-module, ai-search-optimization, ai-searchengine, bm25-search, elastic-search, elasticsearch, elasticstack, graph-search, graph-semantic-search, hybrid-search, hybrid-semantic-search, search-api, search-engine, semantic-search, vector-database, vector-search"
+    },
+    "FetchedAt": "2026-10-18T02:23:57.0190916+00:00"
+  }
+]
