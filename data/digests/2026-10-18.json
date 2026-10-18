@@ -1,0 +1,636 @@
+{
+  "Id": "2026-10-18",
+  "GeneratedAt": "2026-10-18T03:25:52.3710735+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "hn:50100366"
+      },
+      "Category": "tool",
+      "TechStack": {
+        "Tags": [
+          "C\u002B\u002B",
+          "Qt",
+          "\u6570\u5B57\u7535\u8DEF\u4EFF\u771F",
+          "\u6545\u969C\u6CE8\u5165",
+          "MOS 6502",
+          "VIC-II",
+          "SID",
+          "CIA"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u5F15\u811A\u7EA7\u4EA4\u4E92\u5F0F\u6545\u969C\u6CE8\u5165\uFF0C\u8BA9 C64 \u786C\u4EF6\u5931\u6548\u8FC7\u7A0B\u770B\u5F97\u89C1\u6478\u5F97\u7740\u3002"
+      },
+      "Description": "\u8FD9\u4E2A\u9879\u76EE\u628A C64 \u4E3B\u677F\u62C6\u6210\u82AF\u7247\u548C\u5F15\u811A\u7EA7\u6A21\u62DF\uFF0C\u4F60\u80FD\u76F4\u63A5\u70B9\u65AD\u67D0\u6839\u5F15\u811A\u6216\u8BA9\u67D0\u5757\u82AF\u7247\u5931\u6548\uFF0C\u7ACB\u523B\u770B\u603B\u7EBF\u4FE1\u53F7\u3001\u89C6\u9891\u97F3\u9891\u8F93\u51FA\u600E\u4E48\u5D29\u3002\u5176\u5B9E\u5B83\u4E0D\u53EA\u662F\u8DD1\u6E38\u620F\uFF0C\u800C\u662F\u7ED9\u786C\u4EF6\u5C42\u505A\u89E3\u5256\u5B9E\u9A8C\u3002\u4F60\u53D1\u73B0\u6CA1\uFF0C\u50CF CIA \u6216 SID \u67D0\u811A\u77ED\u8DEF\u540E\uFF0C\u7CFB\u7EDF\u6B7B\u673A\u65B9\u5F0F\u90FD\u4E0D\u4E00\u6837\u3002\u8BF4\u6765\u6709\u8DA3\uFF0C\u8FD9\u6BD4\u8BFB\u6587\u6863\u76F4\u89C2\u591A\u4E86\uFF0C\u9002\u5408\u60F3\u641E\u61C2 8 \u4F4D\u673A\u5E95\u5C42\u7684\u4EBA\u3002",
+      "Suitability": "\u9002\u5408\u590D\u53E4\u8BA1\u7B97\u673A\u6559\u80B2\u3001\u786C\u4EF6\u6545\u969C\u6F14\u793A\u3001C64 \u5E95\u5C42\u67B6\u6784\u5B66\u4E60\uFF0C\u4EE5\u53CA\u5F15\u811A\u7EA7\u6545\u969C\u6CE8\u5165\u6559\u5B66\u3002",
+      "Score": 8
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50100994"
+      },
+      "Category": "tool",
+      "TechStack": {
+        "Tags": [
+          "OpenType",
+          "Unicode",
+          "Japanese typography"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u7528 OpenType \u7279\u6027\u5728\u6C49\u5B57\u4E0A\u76F4\u63A5\u6807\u5047\u540D\uFF0C\u65E5\u8BED\u9605\u8BFB\u4E0D\u7528\u4E00\u4E2A\u4E2A\u67E5\u5B57\u5178\u4E86"
+      },
+      "Description": "Furifont \u662F\u4E2A\u65E5\u8BED\u5B57\u4F53\uFF0C\u4E13\u95E8\u89E3\u51B3\u6C49\u5B57\u8BFB\u97F3\u95EE\u9898\u3002\u4F60\u6253\u5F00\u5B57\u4F53\u91CC\u7684 ruby \u7279\u6027\uFF0C\u6C49\u5B57\u4E0A\u65B9\u5C31\u4F1A\u81EA\u52A8\u51FA\u73B0\u5C0F\u53F7\u5047\u540D\u6CE8\u97F3\uFF0C\u4E0D\u7528\u624B\u52A8\u6807\u6CE8\u3002\u5176\u5B9E\u5F88\u591A\u65E5\u8BED\u5B66\u4E60\u8005\u770B\u5230\u6EE1\u7BC7\u6C49\u5B57\u5C31\u5934\u5927\uFF0C\u8FD9\u4E2A\u5B57\u4F53\u628A\u8BFB\u97F3\u76F4\u63A5\u5D4C\u5728\u5B57\u5F62\u91CC\uFF0C\u9009\u4E2A\u5B57\u4F53\u5C31\u80FD\u8BFB\u3002\u4F60\u53D1\u73B0\u6CA1\uFF0C\u5B83\u4E0D\u50CF\u666E\u901A\u6CE8\u97F3\u9700\u8981\u989D\u5916\u6807\u7B7E\u6216\u811A\u672C\uFF0C\u7EAF\u9760\u5B57\u4F53\u81EA\u8EAB\u7279\u6027\u5B9E\u73B0\uFF0C\u6240\u4EE5\u4EFB\u4F55\u652F\u6301 OpenType \u7684\u8F6F\u4EF6\u90FD\u80FD\u7528\u3002\u6838\u5FC3\u4EF7\u503C\u5C31\u662F\u964D\u4F4E\u9605\u8BFB\u95E8\u69DB\uFF0C\u5BF9\u5B66\u65E5\u8BED\u7684\u4EBA\u7279\u522B\u53CB\u597D\u3002",
+      "Suitability": "\u65E5\u8BED\u5B66\u4E60\u3001\u9605\u8BFB\u65E5\u6587\u8D44\u6599\u3001\u6559\u6750\u6392\u7248\u3001\u7535\u5B50\u4E66\u9605\u8BFB\u7B49\uFF0C\u5C24\u5176\u9002\u5408\u9700\u8981\u9891\u7E41\u67E5\u5047\u540D\u7684\u521D\u5B66\u8005",
+      "Score": 7
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50132193"
+      },
+      "Category": "tool",
+      "TechStack": {
+        "Tags": [
+          "Mermaid",
+          "SVG",
+          "CSS Custom Properties",
+          "TypeScript",
+          "Node.js"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u628A Mermaid \u751F\u6210\u7684 SVG \u62BD\u79BB\u6210 CSS \u53D8\u91CF\u9A71\u52A8\uFF0C\u4E3B\u9898\u9002\u914D\u4E0D\u518D\u9760\u91CD\u65B0\u751F\u6210\uFF0C\u6362\u80A4\u5C31\u8DDF\u6539\u6837\u5F0F\u4E00\u6837\u7B80\u5355\u3002"
+      },
+      "Description": "\u8FD9\u4E2A\u9879\u76EE\u628A Mermaid \u56FE\u8868\u8F6C\u6210 SVG\uFF0C\u5173\u952E\u662F\u628A\u989C\u8272\u3001\u5B57\u4F53\u8FD9\u4E9B\u786C\u7F16\u7801\u503C\u62BD\u6210 CSS \u53D8\u91CF\u3002\u4F60\u53D1\u73B0\u6CA1\uFF0C\u4EE5\u524D Mermaid \u8F93\u51FA\u7684 SVG \u989C\u8272\u5199\u6B7B\uFF0C\u60F3\u8DDF\u7740\u7AD9\u70B9\u6DF1\u8272\u6A21\u5F0F\u8D70\u5F97\u91CD\u65B0\u751F\u6210\u6216\u624B\u52A8\u6539\u3002Pele \u505A\u7684\u662F\u540E\u5904\u7406\uFF1A\u62FF\u5230\u6E32\u67D3\u7ED3\u679C\uFF0C\u628A\u53EF\u4E3B\u9898\u5316\u5C5E\u6027\u66FF\u6362\u6210 CSS \u81EA\u5B9A\u4E49\u5C5E\u6027\uFF0C\u8F93\u51FA\u5E72\u51C0\u3001\u5E26\u4E3B\u9898\u63A5\u53E3\u7684 SVG \u6587\u4EF6\u3002\u8BF4\u6765\u6709\u8DA3\uFF0C\u5B83\u4E0D\u91CD\u65B0\u5B9E\u73B0 Mermaid\uFF0C\u800C\u662F\u501F\u7528\u73B0\u6709\u6E32\u67D3\u518D\u6CE8\u5165\u4E3B\u9898\u5C42\u3002\u4F60\u53EA\u8981\u5728\u9875\u9762\u91CC\u8986\u76D6\u51E0\u4E2A\u53D8\u91CF\uFF0C\u6574\u4E2A\u56FE\u5C31\u80FD\u6362\u80A4\u3002",
+      "Suitability": "\u9002\u5408\u6280\u672F\u6587\u6863\u3001\u535A\u5BA2\u6216\u4EA7\u54C1\u7AD9\u91CC\u9700\u8981\u5D4C\u5165 Mermaid \u56FE\u8868\uFF0C\u5E76\u4E14\u5E0C\u671B\u56FE\u8868\u8DDF\u968F\u5168\u5C40\u4E3B\u9898\uFF08\u6BD4\u5982\u6DF1\u8272\u6A21\u5F0F\uFF09\u81EA\u52A8\u5207\u6362\u7684\u573A\u666F\u3002",
+      "Score": 7
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50131213"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": [
+          "\u6298\u5C04\u7387\u5339\u914D",
+          "\u7EC4\u7EC7\u5149\u5B66\u6E05\u9664",
+          "\u98DF\u54C1\u6DFB\u52A0\u5242\u5316\u5B66"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u7528 Dorito dust \u6CE1\u9E21\u8089\u5B9E\u73B0\u5149\u5B66\u900F\u660E\uFF0C\u8111\u6D1E\u5927\u5F00\u7684\u4F4E\u6210\u672C\u7EC4\u7EC7\u900F\u660E\u5316\u5B9E\u9A8C\u3002"
+      },
+      "Description": "\u8FD9\u9879\u76EE\u633A\u597D\u73A9\uFF0C\u4F5C\u8005\u62FF Dorito dust \u6CE1\u9E21\u8089\uFF0C\u5C45\u7136\u628A\u8089\u53D8\u900F\u660E\u4E86\u3002\u5176\u5B9E\u539F\u7406\u4E0D\u590D\u6742\uFF0C\u5C31\u662F\u8BA9\u7EC4\u7EC7\u6298\u5C04\u7387\u4E00\u81F4\uFF0C\u51CF\u5C11\u5149\u6563\u5C04\u3002\u4F60\u53D1\u73B0\u6CA1\uFF0CDorito dust \u91CC\u7684\u76D0\u3001\u7CD6\u3001\u5473\u7CBE\u80FD\u914D\u51FA\u9AD8\u6298\u5C04\u7387\u6EB6\u6DB2\uFF0C\u6E17\u8FDB\u9E21\u8089\u540E\uFF0C\u5149\u7EBF\u4E0D\u518D\u4E71\u649E\uFF0C\u8089\u5C31\u900F\u5149\u4E86\u3002\u8BF4\u6765\u6709\u8DA3\uFF0C\u8FD9\u8DDF\u5B9E\u9A8C\u5BA4\u7684\u5149\u5B66\u6E05\u9664\u6280\u672F\u662F\u4E00\u56DE\u4E8B\uFF0C\u53EA\u4E0D\u8FC7\u8BD5\u5242\u6362\u6210\u4E86\u96F6\u98DF\u8C03\u6599\u3002\u6210\u672C\u8D85\u4F4E\uFF0C\u6548\u679C\u8089\u773C\u53EF\u89C1\uFF0C\u9002\u5408\u6F14\u793A\u5149\u5B66\u539F\u7406\u6216\u5BB6\u5EAD\u5B9E\u9A8C\u3002",
+      "Suitability": "\u9002\u5408\u79D1\u666E\u6F14\u793A\u3001DIY\u79D1\u5B66\u5B9E\u9A8C\u3001\u5149\u5B66\u539F\u7406\u6559\u5B66\uFF0C\u6216\u4F5C\u4E3A\u4F4E\u6210\u672C\u7EC4\u7EC7\u900F\u660E\u5316\u7684\u8DA3\u5473\u66FF\u4EE3\u65B9\u6848\u3002",
+      "Score": 7
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50126253"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": [
+          "coral bleaching",
+          "Symbiodiniaceae",
+          "microbial community",
+          "\u6D77\u6D0B\u751F\u6001\u5B66"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u6F02\u767D\u73CA\u745A\u63A5\u89E6\u5065\u5EB7\u90BB\u5C45\u51E0\u5929\u5185\u6062\u590D\uFF0C\u4E3A\u73CA\u745A\u4FEE\u590D\u63D0\u4F9B\u4F4E\u6210\u672C\u601D\u8DEF"
+      },
+      "Description": "\u8FD9\u9879\u7814\u7A76\u89C2\u5BDF\u5230\u4E00\u4E2A\u633A\u53CD\u76F4\u89C9\u7684\u73B0\u8C61\uFF1A\u767D\u5316\u7684\u73CA\u745A\u53EA\u8981\u78B0\u5230\u5065\u5EB7\u7684\u90BB\u5C45\uFF0C\u51E0\u5929\u5185\u5C31\u80FD\u660E\u663E\u6062\u590D\u3002\u8BF4\u767D\u4E86\uFF0C\u5065\u5EB7\u73CA\u745A\u53EF\u80FD\u5728\u4F20\u9012\u67D0\u4E9B\u5FAE\u751F\u7269\u6216\u5171\u751F\u85FB\uFF0C\u5E2E\u6F02\u767D\u4E2A\u4F53\u91CD\u5EFA\u5171\u751F\u4F53\u7CFB\u3002\u4F60\u53D1\u73B0\u6CA1\uFF0C\u8FD9\u6BD4\u4EBA\u5DE5\u79FB\u690D\u73CA\u745A\u65AD\u679D\u6216\u5B9E\u9A8C\u5BA4\u57F9\u517B\u66F4\u7701\u4E8B\uFF0C\u76F4\u63A5\u5728\u539F\u4F4D\u5229\u7528\u7FA4\u843D\u95F4\u7684\u751F\u7269\u4E92\u52A8\u3002\u6838\u5FC3\u4EF7\u503C\u5728\u4E8E\u4E3A\u73CA\u745A\u7901\u4FEE\u590D\u63D0\u4F9B\u4E86\u4E00\u79CD\u57FA\u4E8E\u751F\u6001\u4E92\u4F5C\u7684\u7B56\u7565\uFF0C\u51CF\u5C11\u4EBA\u5DE5\u5E72\u9884\u6210\u672C\uFF0C\u4E5F\u8BA9\u6211\u4EEC\u91CD\u65B0\u5BA1\u89C6\u73CA\u745A\u7FA4\u4F53\u7684\u6062\u590D\u673A\u5236\u3002",
+      "Suitability": "\u9002\u5408\u5173\u6CE8\u73CA\u745A\u7901\u4FDD\u62A4\u3001\u6D77\u6D0B\u751F\u6001\u4FEE\u590D\u7684\u7814\u7A76\u8005\u548C\u73AF\u4FDD\u673A\u6784\u53C2\u8003\uFF0C\u4E5F\u9002\u5408\u4F5C\u4E3A\u751F\u6001\u5B66\u6848\u4F8B\u6559\u5B66",
+      "Score": 6
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50126312"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": [
+          "\u73AF\u5883DNA\u76D1\u6D4B",
+          "\u9C7C\u7C7B\u6D04\u6E38\u9065\u6D4B",
+          "\u6CB3\u6D41\u8FDE\u901A\u6027\u8BC4\u4F30"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u7528\u957F\u671F\u76D1\u6D4B\u6570\u636E\u5B9E\u9524\u62C6\u575D\u540E\u6D04\u6E38\u9C7C\u7C7B\u5FEB\u901F\u56DE\u5F52\uFF0C\u751F\u6001\u6062\u590D\u6BD4\u60F3\u8C61\u4E2D\u66F4\u5FEB"
+      },
+      "Description": "\u8FD9\u7BC7\u62A5\u9053\u8BB2\u7684\u662F\u7F8E\u56FD\u4E1C\u5317\u90E8\u4E00\u6279\u8001\u65E7\u6C34\u575D\u62C6\u9664\u540E\uFF0C\u9CB1\u9C7C\u3001\u9CA5\u9C7C\u8FD9\u4E9B\u6D04\u6E38\u9C7C\u7C7B\u91CD\u65B0\u6E38\u56DE\u4E0A\u6E38\u4EA7\u5375\uFF0C\u6709\u4E9B\u6CB3\u6BB5\u6570\u91CF\u51E0\u5E74\u5185\u7FFB\u4E86\u597D\u51E0\u500D\u3002\u4F60\u53D1\u73B0\u6CA1\uFF0C\u4E4B\u524D\u5F88\u591A\u4EBA\u62C5\u5FC3\u62C6\u575D\u4F1A\u7834\u574F\u751F\u6001\uFF0C\u4F46\u5B9E\u9645\u6570\u636E\u53CD\u800C\u8BC1\u660E\u6CB3\u6D41\u8FDE\u901A\u6027\u4E00\u6062\u590D\uFF0C\u9C7C\u7FA4\u81EA\u5DF1\u5C31\u627E\u56DE\u6765\u4E86\u3002\u5176\u5B9E\u6838\u5FC3\u4EF7\u503C\u5728\u4E8E\u5B83\u63D0\u4F9B\u4E86\u5927\u89C4\u6A21\u3001\u8DE8\u6D41\u57DF\u7684\u5B9E\u8BC1\u6848\u4F8B\uFF0C\u7ED9\u5168\u7403\u90A3\u4E9B\u7EA0\u7ED3\u8981\u4E0D\u8981\u62C6\u8001\u575D\u7684\u5730\u65B9\u4E00\u4E2A\u5F88\u786C\u7684\u53C2\u8003\u3002\u8BF4\u6765\u6709\u8DA3\uFF0C\u5F88\u591A\u76D1\u6D4B\u624B\u6BB5\u5E76\u4E0D\u590D\u6742\uFF0C\u5C31\u662F\u5E38\u89C4\u7684\u9C7C\u7C7B\u8BA1\u6570\u548CeDNA\u91C7\u6837\uFF0C\u4F46\u628A\u65F6\u95F4\u7EBF\u62C9\u957F\u4E00\u770B\uFF0C\u8D8B\u52BF\u7279\u522B\u6E05\u695A\u3002",
+      "Suitability": "\u9002\u5408\u6C34\u5229\u653F\u7B56\u5236\u5B9A\u8005\u3001\u751F\u6001\u4FEE\u590D\u56E2\u961F\u3001\u73AF\u4FDD\u673A\u6784\u505A\u62C6\u575D\u51B3\u7B56\u6216\u516C\u4F17\u6C9F\u901A\u65F6\u5F15\u7528\uFF0C\u4E5F\u9002\u5408\u4F5C\u4E3A\u6CB3\u6D41\u751F\u6001\u6062\u590D\u7684\u6848\u4F8B\u6559\u5B66\u6750\u6599",
+      "Score": 6
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50129045"
+      },
+      "Category": "other",
+      "TechStack": {
+        "Tags": [
+          "Transformer",
+          "\u6DF7\u5408\u4E13\u5BB6\uFF08MoE\uFF09",
+          "Grouped-Query Attention"
+        ]
+      },
+      "Highlight": {
+        "Text": "DeepSeek \u8F7B\u91CF\u7248\u6A21\u578B\uFF0C\u4E3B\u6253\u4F4E\u5EF6\u8FDF\u9AD8\u6027\u4EF7\u6BD4\uFF0CHN \u70ED\u5EA6 713 \u5206\uFF0C\u5B9E\u9645\u633A\u80FD\u6253\u3002"
+      },
+      "Description": "\u8FD9\u4E2A\u9879\u76EE\u5176\u5B9E\u5C31\u662F DeepSeek \u653E\u51FA\u7684\u4E00\u4E2A\u8F7B\u91CF\u7248\u6A21\u578B\uFF0C\u540D\u5B57\u91CC\u5E26 Flash \u610F\u5473\u7740\u5B83\u8D70\u7684\u662F\u5FEB\u901F\u54CD\u5E94\u7684\u8DEF\u7EBF\u3002\u4F60\u53D1\u73B0\u6CA1\uFF0C\u73B0\u5728\u5404\u5BB6\u90FD\u5728\u5377\u5C0F\u6A21\u578B\uFF0C\u56E0\u4E3A\u5F88\u591A\u573A\u666F\u7528\u4E0D\u8D77\u5927\u6A21\u578B\uFF0C\u5EF6\u8FDF\u548C\u6210\u672C\u90FD\u625B\u4E0D\u4F4F\u3002DeepSeek \u8FD9\u7248 v4.1-Flash-1017 \u660E\u663E\u662F\u51B2\u7740\u8FD9\u4E2A\u9700\u6C42\u53BB\u7684\uFF0C\u628A\u6A21\u578B\u505A\u5C0F\u4F46\u4FDD\u7559\u6838\u5FC3\u80FD\u529B\u3002\u4ECE\u53D1\u5E03\u9875\u9762\u770B\uFF0C\u5B83\u5E94\u8BE5\u652F\u6301\u6807\u51C6 API \u8C03\u7528\uFF0C\u53EF\u4EE5\u63A5 OpenRouter \u7528\u3002\u6838\u5FC3\u4EF7\u503C\u5728\u4E8E\u4E0D\u7528\u82B1\u5927\u94B1\u5C31\u80FD\u7528\u4E0A\u63A5\u8FD1\u65D7\u8230\u6A21\u578B\u7684\u6548\u679C\uFF0C\u9002\u5408\u62FF\u6765\u8DD1\u5BA2\u670D\u3001\u4EE3\u7801\u8865\u5168\u8FD9\u7C7B\u9AD8\u9891\u4F46\u4E0D\u592A\u590D\u6742\u7684\u4EFB\u52A1\u3002\u8BF4\u6765\u6709\u8DA3\uFF0CHN \u4E0A\u70ED\u5EA6\u633A\u9AD8\uFF0C713 \u5206\u8BF4\u660E\u5927\u5BB6\u633A\u4E70\u8D26\u3002",
+      "Suitability": "\u9002\u5408\u4F4E\u5EF6\u8FDF\u3001\u6210\u672C\u654F\u611F\u7684 API \u8C03\u7528\u573A\u666F\uFF0C\u5982\u5B9E\u65F6\u804A\u5929\u673A\u5668\u4EBA\u3001\u4EE3\u7801\u8865\u5168\u3001\u5185\u5BB9\u5BA1\u6838\u7B49\u3002",
+      "Score": 6
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50136536"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": [
+          "DRM",
+          "game licensing"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u7EBD\u7EA6\u62DF\u7ACB\u6CD5\u8981\u6C42\u6E38\u620F\u9500\u552E\u6807\u660E\u201C\u6240\u6709\u6743\u201D\u800C\u975E\u201C\u8BB8\u53EF\u201D\uFF0C\u76F4\u51FB\u6570\u5B57\u5546\u54C1\u4E0B\u67B6\u98CE\u9669"
+      },
+      "Description": "\u8FD9\u6CD5\u6848\u662F\u7EBD\u7EA6\u5DDE\u63A8\u7684\uFF0C\u8981\u6C42\u6E38\u620F\u5546\u5E97\u5356\u6570\u5B57\u6E38\u620F\u65F6\uFF0C\u5F97\u8BF4\u6E05\u695A\u73A9\u5BB6\u4E70\u5230\u7684\u662F\u6240\u6709\u6743\u8FD8\u662F\u4EC5\u4F7F\u7528\u8BB8\u53EF\u3002\u4F60\u53D1\u73B0\u6CA1\uFF0C\u73B0\u5728 Steam \u4E0A\u4E70\u7684\u6E38\u620F\uFF0C\u591A\u6570\u53EA\u662F license\uFF0C\u5E73\u53F0\u4E00\u5C01\u53F7\u6216\u8005\u6E38\u620F\u4E0B\u67B6\uFF0C\u4F60\u5C31\u5565\u90FD\u6CA1\u4E86\u3002\u6CD5\u6848\u60F3\u903C\u5E73\u53F0\u6539\u6807\u6CE8\u3001\u6539\u653F\u7B56\uFF0C\u8BA9\u73A9\u5BB6\u771F\u6B63\u62E5\u6709\u4E70\u5230\u7684\u6E38\u620F\u3002\u6838\u5FC3\u4EF7\u503C\u662F\u7ED9\u6570\u5B57\u5546\u54C1\u4EA4\u6613\u7ACB\u89C4\u77E9\uFF0C\u53EF\u80FD\u5012\u903C\u884C\u4E1A\u91CD\u65B0\u8BBE\u8BA1 DRM \u548C\u9000\u6B3E\u89C4\u5219\u3002",
+      "Suitability": "\u9002\u5408\u5173\u6CE8\u6570\u5B57\u6D88\u8D39\u8005\u6743\u76CA\u3001\u6E38\u620F\u5E73\u53F0\u653F\u7B56\u6216\u6CD5\u5F8B\u5408\u89C4\u7684\u4ECE\u4E1A\u8005\u4E0E\u73A9\u5BB6\u4E86\u89E3\u884C\u4E1A\u52A8\u5411",
+      "Score": 6
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50136881"
+      },
+      "Category": "article",
+      "TechStack": {
+        "Tags": [
+          "\u793E\u4EA4\u5A92\u4F53\u5185\u5BB9\u5BA1\u6838",
+          "\u81EA\u52A8\u5316\u8D26\u53F7\u5C01\u7981\u7CFB\u7EDF",
+          "Instagram \u5E73\u53F0\u653F\u7B56"
+        ]
+      },
+      "Highlight": {
+        "Text": "\u6297\u8BAE\u5F53\u5929 Meta \u4E0B\u67B6 No Kings \u8D26\u53F7\uFF0C\u5E73\u53F0\u5BA1\u67E5\u5C3A\u5EA6\u53C8\u6210\u7126\u70B9"
+      },
+      "Description": "\u8FD9\u6761 HN \u5E16\u5B50\u8BB2\u7684\u662F Meta \u5728\u6297\u8BAE\u65E5\u628A Instagram \u4E0A\u53EB No Kings \u7684\u8D26\u53F7\u7ED9\u4E0B\u4E86\u3002\u4F60\u53D1\u73B0\u6CA1\uFF0C\u65F6\u95F4\u70B9\u5F88\u654F\u611F\u2014\u2014\u6B63\u597D\u8D76\u4E0A\u6297\u8BAE\u5F53\u5929\uFF0C\u6240\u4EE5\u5927\u5BB6\u5435\u5F97\u5389\u5BB3\u3002\u5176\u5B9E\u6838\u5FC3\u5C31\u4E00\u4EF6\u4E8B\uFF1A\u5E73\u53F0\u7528\u81EA\u52A8\u5316\u5BA1\u6838\u52A0\u4EBA\u5DE5\u5224\u65AD\u5C01\u53F7\uFF0C\u4F46\u5C3A\u5EA6\u4E0D\u900F\u660E\u3002\u8FD9\u4E2A\u8D26\u53F7\u5230\u5E95\u8FDD\u53CD\u4E86\u54EA\u6761\u793E\u533A\u51C6\u5219\uFF0CMeta \u6CA1\u7EC6\u8BF4\uFF0C\u53EA\u7559\u4E0B\u7528\u6237\u5BF9\u7740\u51B7\u51B0\u51B0\u7684\u5C01\u7981\u9875\u9762\u3002\u8BF4\u6765\u6709\u8DA3\uFF0C\u8D8A\u662F\u8FD9\u6837\u6A21\u7CCA\u5904\u7406\uFF0C\u8D8A\u8BA9\u4EBA\u6000\u7591\u5BA1\u67E5\u80CC\u540E\u662F\u4E0D\u662F\u6709\u653F\u6CBB\u538B\u529B\u3002\u5BF9\u5173\u6CE8\u5E73\u53F0\u6CBB\u7406\u7684\u4EBA\u6765\u8BF4\uFF0C\u8FD9\u662F\u6D3B\u751F\u751F\u7684\u6848\u4F8B\u3002",
+      "Suitability": "\u9002\u5408\u5173\u6CE8\u5E73\u53F0\u5BA1\u67E5\u3001\u5185\u5BB9\u5BA1\u6838\u653F\u7B56\u3001\u793E\u4EA4\u5A92\u4F53\u6CBB\u7406\u7684\u4ECE\u4E1A\u8005\u6216\u7814\u7A76\u8005\u5F53\u6848\u4F8B\u770B",
+      "Score": 4
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50132870"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Gold is now the top U.S. export"
+      },
+      "Description": "Gold is now the top U.S. export",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50090927"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Types of types: Haskell\u0027s Kind system"
+      },
+      "Description": "Types of types: Haskell\u0027s Kind system",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50097257"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Custom server to revive neato bots"
+      },
+      "Description": "Custom server to revive neato bots",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50127586"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Source code of the Estonian online voting system"
+      },
+      "Description": "Source code of the Estonian online voting system",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50114758"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Lean Now Ships with Verified Kernels"
+      },
+      "Description": "Lean Now Ships with Verified Kernels",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50122878"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;twitter.com\u0026#x2F;heyyalexwang\u0026#x2F;status\u0026#x2F;2111158818730397932\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;twitter.com\u0026#x2F;heyyalexwang\u0026#x2F;status\u0026#x2F;2111158818730397932\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;twitter.com\u0026#x2F;heyya",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50134617"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Chrome and Edge are removing XSLT: what breaks and what does not"
+      },
+      "Description": "Chrome and Edge are removing XSLT: what breaks and what does not",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50131006"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Show HN: High-quality duck audio synthesizer"
+      },
+      "Description": "Show HN: High-quality duck audio synthesizer",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50131256"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Solar surpasses nuclear power globally for first time"
+      },
+      "Description": "Solar surpasses nuclear power globally for first time",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50133231"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Codex Desktop continuously generates Crashpad pending dumps"
+      },
+      "Description": "Codex Desktop continuously generates Crashpad pending dumps",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50127572"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A skeptic\u0027s first contact with Kubernetes (2024)"
+      },
+      "Description": "A skeptic\u0027s first contact with Kubernetes (2024)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50131189"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hi HN,\u003Cp\u003EI\u2019ve been working on esp32sim, an open-source ESP32 emulator that runs in the browser.\u003Cp\u003EThe fun part of the de"
+      },
+      "Description": "Hi HN,\u003Cp\u003EI\u2019ve been working on esp32sim, an open-source ESP32 emulator that runs in the browser.\u003Cp\u003EThe fun part of the demo is that there is no ESP32 i",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50101649"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Laser Fault Injection on a Budget: RP2350 Edition"
+      },
+      "Description": "Laser Fault Injection on a Budget: RP2350 Edition",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50127979"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware"
+      },
+      "Description": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50119315"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Rendering pretty sky in Around The World game"
+      },
+      "Description": "Rendering pretty sky in Around The World game",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50132839"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers"
+      },
+      "Description": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50118098"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Show HN: Parin \u2013 A 2D game engine between raylib and Godot, written in Dlang"
+      },
+      "Description": "Show HN: Parin \u2013 A 2D game engine between raylib and Godot, written in Dlang",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50135379"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "JDK 28"
+      },
+      "Description": "JDK 28",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50093006"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Each step of decoding a PNG (2022)"
+      },
+      "Description": "Each step of decoding a PNG (2022)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50094887"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Vintage Cassettes: 1963-2010"
+      },
+      "Description": "Vintage Cassettes: 1963-2010",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50133401"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "OpenCode Hacked: User credentials leaked"
+      },
+      "Description": "OpenCode Hacked: User credentials leaked",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:anthropics/claude-plugins-official"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+      },
+      "Description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:HKUDS/CLI-Anything"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/"
+      },
+      "Description": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:K-Dense-AI/scientific-agent-skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000\u002B scientists worldwide. "
+      },
+      "Description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000\u002B scientists worldwide. 177 ready-to-use validated ski",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:akitaonrails/ai-memory"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+      },
+      "Description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:android/skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": ""
+      },
+      "Description": "",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:stablyai/orca"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own su"
+      },
+      "Description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on deskt",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:anthropics/claude-code"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster "
+      },
+      "Description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, ex",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:ruvnet/ruflo"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\uD83C\uDF0A The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conver"
+      },
+      "Description": "\uD83C\uDF0A The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features ",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:xerj-org/xerj"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token"
+      },
+      "Description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). On",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 39 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 8/10",
+  "Status": 1
+}
