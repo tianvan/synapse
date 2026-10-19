@@ -1,0 +1,167 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-plugins-official"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-plugins-official",
+    "Url": "https://github.com/anthropics/claude-plugins-official",
+    "Description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-plugins-official",
+      "language": "Python",
+      "stars": "1,175",
+      "topics": "claude-code, mcp, skills"
+    },
+    "FetchedAt": "2026-10-19T02:38:06.1167503+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cursor/plugins"
+    },
+    "Type": 0,
+    "Title": "cursor/plugins",
+    "Url": "https://github.com/cursor/plugins",
+    "Description": "Cursor plugin specification and official plugins",
+    "Metadata": {
+      "owner": "cursor",
+      "repo": "plugins",
+      "language": "TypeScript",
+      "stars": "350"
+    },
+    "FetchedAt": "2026-10-19T02:38:06.3071287+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ruvnet/ruflo"
+    },
+    "Type": 0,
+    "Title": "ruvnet/ruflo",
+    "Url": "https://github.com/ruvnet/ruflo",
+    "Description": "\uD83C\uDF0A The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "Metadata": {
+      "owner": "ruvnet",
+      "repo": "ruflo",
+      "language": "TypeScript",
+      "stars": "513",
+      "topics": "agentic-ai, agentic-framework, agentic-workflow, agents, ai-agents, ai-assistant, ai-skills, autonomous-agents, claude, codex, dsh-plugin, harness, mcp-server, multi-agent, multi-agent-systems, npm, skills, swarm, swarm-intelligence, typescript"
+    },
+    "FetchedAt": "2026-10-19T02:38:06.4494344+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:akitaonrails/ai-memory"
+    },
+    "Type": 0,
+    "Title": "akitaonrails/ai-memory",
+    "Url": "https://github.com/akitaonrails/ai-memory",
+    "Description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "Metadata": {
+      "owner": "akitaonrails",
+      "repo": "ai-memory",
+      "language": "Rust",
+      "stars": "512"
+    },
+    "FetchedAt": "2026-10-19T02:38:06.5663159+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:stablyai/orca"
+    },
+    "Type": 0,
+    "Title": "stablyai/orca",
+    "Url": "https://github.com/stablyai/orca",
+    "Description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "Metadata": {
+      "owner": "stablyai",
+      "repo": "orca",
+      "language": "TypeScript",
+      "stars": "1,146",
+      "topics": "ade, agent-ide, ai-agents, automation, bot, claude-code, codex, ghostty, grok-bot, hermes-agent, mobile-app, muse, openclaw, opencode, orchestration, pi, runtime, terminal, worktrees, yc-backed"
+    },
+    "FetchedAt": "2026-10-19T02:38:06.7261458+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/CLI-Anything"
+    },
+    "Type": 0,
+    "Title": "HKUDS/CLI-Anything",
+    "Url": "https://github.com/HKUDS/CLI-Anything",
+    "Description": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "CLI-Anything",
+      "language": "Python",
+      "stars": "589"
+    },
+    "FetchedAt": "2026-10-19T02:38:06.8688418+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:android/skills"
+    },
+    "Type": 0,
+    "Title": "android/skills",
+    "Url": "https://github.com/android/skills",
+    "Description": "",
+    "Metadata": {
+      "owner": "android",
+      "repo": "skills",
+      "language": "Kotlin",
+      "stars": "375",
+      "topics": "skills"
+    },
+    "FetchedAt": "2026-10-19T02:38:06.986466+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mlabonne/llm-course"
+    },
+    "Type": 0,
+    "Title": "mlabonne/llm-course",
+    "Url": "https://github.com/mlabonne/llm-course",
+    "Description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+    "Metadata": {
+      "owner": "mlabonne",
+      "repo": "llm-course",
+      "stars": "81",
+      "topics": "course, large-language-models, llm, machine-learning, roadmap"
+    },
+    "FetchedAt": "2026-10-19T02:38:07.1303187+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Kruk2/jasna"
+    },
+    "Type": 0,
+    "Title": "Kruk2/jasna",
+    "Url": "https://github.com/Kruk2/jasna",
+    "Description": "Video restoration tool",
+    "Metadata": {
+      "owner": "Kruk2",
+      "repo": "jasna",
+      "language": "Python",
+      "stars": "115"
+    },
+    "FetchedAt": "2026-10-19T02:38:07.2637646+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Comfy-Org/ComfyUI"
+    },
+    "Type": 0,
+    "Title": "Comfy-Org/ComfyUI",
+    "Url": "https://github.com/Comfy-Org/ComfyUI",
+    "Description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+    "Metadata": {
+      "owner": "Comfy-Org",
+      "repo": "ComfyUI",
+      "language": "Python",
+      "stars": "154",
+      "topics": "ai, comfy, comfyui, python, pytorch, stable-diffusion"
+    },
+    "FetchedAt": "2026-10-19T02:38:07.4096404+00:00"
+  }
+]
