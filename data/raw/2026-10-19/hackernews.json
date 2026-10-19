@@ -1,186 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:50145337"
-    },
-    "Type": 1,
-    "Title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-    "Url": "https://arxiv.org/abs/2610.18861",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;x.com\u0026#x2F;Jiaru_Zou\u0026#x2F;status\u0026#x2F;2110400256647340476\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;x.com\u0026#x2F;Jiaru_Zou\u0026#x2F;status\u0026#x2F;2110400256647340476\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;togethercomputer\u0026#x2F;HybridAgent\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;togethercomputer\u0026#x2F;HybridAgent\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;huggingface.co\u0026#x2F;collections\u0026#x2F;togethercomputer\u0026#x2F;hybridagent\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;huggingface.co\u0026#x2",
-    "Metadata": {
-      "score": "233",
-      "author": "allinonai",
-      "commentCount": "139"
-    },
-    "FetchedAt": "2026-10-19T02:38:07.8296812+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50146625"
-    },
-    "Type": 1,
-    "Title": "William Gibson and the trademarking of cyberspace",
-    "Url": "https://colo.to/cyberspace.html",
-    "Description": "William Gibson and the trademarking of cyberspace",
-    "Metadata": {
-      "score": "76",
-      "author": "Eric_Gullichsen",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-10-19T02:38:07.8824867+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50136150"
-    },
-    "Type": 1,
-    "Title": "There\u0027s never been a better time to go into math (by: 3blue1brown) [video]",
-    "Url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-    "Description": "There\u0027s never been a better time to go into math (by: 3blue1brown) [video]",
-    "Metadata": {
-      "score": "187",
-      "author": "mdp2021",
-      "commentCount": "183"
-    },
-    "FetchedAt": "2026-10-19T02:38:07.9342867+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50145507"
-    },
-    "Type": 1,
-    "Title": "If you don\u0027t run your own LLM proxy, how do you know whats going on?",
-    "Url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-    "Description": "If you don\u0027t run your own LLM proxy, how do you know whats going on?",
-    "Metadata": {
-      "score": "47",
-      "author": "amrrs",
-      "commentCount": "35"
-    },
-    "FetchedAt": "2026-10-19T02:38:08.005242+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50142573"
-    },
-    "Type": 1,
-    "Title": "Someone behind the software",
-    "Url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-    "Description": "Someone behind the software",
-    "Metadata": {
-      "score": "328",
-      "author": "tosh",
-      "commentCount": "138"
-    },
-    "FetchedAt": "2026-10-19T02:38:08.0574134+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50111537"
-    },
-    "Type": 1,
-    "Title": "Laptop Based on 6502 CPU",
-    "Url": "https://www.maddox.pro/?p=448",
-    "Description": "Laptop Based on 6502 CPU",
-    "Metadata": {
-      "score": "42",
-      "author": "nanochess",
-      "commentCount": "16"
-    },
-    "FetchedAt": "2026-10-19T02:38:08.1090457+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50141076"
-    },
-    "Type": 1,
-    "Title": "RepRapMicron",
-    "Url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-    "Description": "RepRapMicron",
-    "Metadata": {
-      "score": "335",
-      "author": "RobotToaster",
-      "commentCount": "55"
-    },
-    "FetchedAt": "2026-10-19T02:38:08.1618428+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50144066"
-    },
-    "Type": 1,
-    "Title": "Free Pascal compiler now supports dynamic packages",
-    "Url": "https://www.getlazarus.org/dynamic/",
-    "Description": "Free Pascal compiler now supports dynamic packages",
-    "Metadata": {
-      "score": "116",
-      "author": "sysrpl",
-      "commentCount": "23"
-    },
-    "FetchedAt": "2026-10-19T02:38:08.2140595+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50145715"
-    },
-    "Type": 1,
-    "Title": "Show HN: WhatsApp MCP running free on Cloudflare",
-    "Url": "https://github.com/finereli/whatsapp-mcp",
-    "Description": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.\u003Cp\u003EI wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this.\u003Cp\u003EImportant feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts, otherwise you get only phone numbers for many of them and search doesn\u0026#x27;t work properly.\u003Cp\u003EThis",
-    "Metadata": {
-      "score": "48",
-      "author": "zoozla",
-      "commentCount": "35"
-    },
-    "FetchedAt": "2026-10-19T02:38:08.2664248+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50136979"
-    },
-    "Type": 1,
-    "Title": "Dogs seem to agree with humans that \u0027bouba\u0027 is round and \u0027kiki\u0027 is spiky",
-    "Url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
-    "Description": "Dogs seem to agree with humans that \u0027bouba\u0027 is round and \u0027kiki\u0027 is spiky",
-    "Metadata": {
-      "score": "137",
-      "author": "gmays",
-      "commentCount": "85"
-    },
-    "FetchedAt": "2026-10-19T02:38:08.3189209+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50143536"
-    },
-    "Type": 1,
-    "Title": "PalmOS Lemmings",
-    "Url": "https://github.com/ardiri/palmos-lemmings",
-    "Description": "PalmOS Lemmings",
-    "Metadata": {
-      "score": "99",
-      "author": "memalign",
-      "commentCount": "23"
-    },
-    "FetchedAt": "2026-10-19T02:38:08.3707812+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50135762"
-    },
-    "Type": 1,
-    "Title": "I built a programming language that LLMs can\u0027t use",
-    "Url": "https://blog.picheta.me/post/killswitch-lang/",
-    "Description": "I built a programming language that LLMs can\u0027t use",
-    "Metadata": {
-      "score": "93",
-      "author": "dom96",
-      "commentCount": "73"
-    },
-    "FetchedAt": "2026-10-19T02:38:08.4225669+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50123123"
     },
     "Type": 1,
@@ -193,36 +13,6 @@
       "commentCount": "3"
     },
     "FetchedAt": "2026-10-19T02:38:08.4742561+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50122058"
-    },
-    "Type": 1,
-    "Title": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
-    "Url": "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
-    "Description": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
-    "Metadata": {
-      "score": "53",
-      "author": "zoobab",
-      "commentCount": "9"
-    },
-    "FetchedAt": "2026-10-19T02:38:08.5258594+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50146624"
-    },
-    "Type": 1,
-    "Title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
-    "Url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
-    "Description": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
-    "Metadata": {
-      "score": "8",
-      "author": "gmays",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-10-19T02:38:08.5793108+00:00"
   },
   {
     "ExternalId": {
@@ -271,21 +61,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50141579"
-    },
-    "Type": 1,
-    "Title": "Java sealed classes and exhaustive pattern matching",
-    "Url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
-    "Description": "Java sealed classes and exhaustive pattern matching",
-    "Metadata": {
-      "score": "141",
-      "author": "hnisjafx40",
-      "commentCount": "104"
-    },
-    "FetchedAt": "2026-10-19T02:38:08.7894611+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50118165"
     },
     "Type": 1,
@@ -301,21 +76,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50125551"
-    },
-    "Type": 1,
-    "Title": "The DNS Museum",
-    "Url": "https://dns.museum",
-    "Description": "The DNS Museum",
-    "Metadata": {
-      "score": "4",
-      "author": "zdw",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-10-19T02:38:08.8939708+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50142449"
     },
     "Type": 1,
@@ -328,21 +88,6 @@
       "commentCount": "33"
     },
     "FetchedAt": "2026-10-19T02:38:08.9721067+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50140383"
-    },
-    "Type": 1,
-    "Title": "A new way to think about borrow checking (in reverse)",
-    "Url": "https://verdagon.dev/blog/reverse-borrow-checking",
-    "Description": "A new way to think about borrow checking (in reverse)",
-    "Metadata": {
-      "score": "24",
-      "author": "verdagon",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-10-19T02:38:09.073944+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +193,455 @@
       "commentCount": "2"
     },
     "FetchedAt": "2026-10-19T02:38:09.4601146+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50149392"
+    },
+    "Type": 1,
+    "Title": "Linux 7.3 Released",
+    "Url": "https://lwn.net/Articles/1101143/",
+    "Description": "Linux 7.3 Released",
+    "Metadata": {
+      "score": "266",
+      "author": "cjd8",
+      "commentCount": "121"
+    },
+    "FetchedAt": "2026-10-19T11:42:34.4199195+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50150908"
+    },
+    "Type": 1,
+    "Title": "Show HN: I re-read the terms of 175 AI tools twice; 60% changed in 15 weeks",
+    "Url": "https://clipjury.com/guides/ai-tool-terms-changed-2026/",
+    "Description": "Show HN: I re-read the terms of 175 AI tools twice; 60% changed in 15 weeks",
+    "Metadata": {
+      "score": "9",
+      "author": "abdallahamjid",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-10-19T11:42:34.467693+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50150434"
+    },
+    "Type": 1,
+    "Title": "Timestral: Mistral release time-series foundation models",
+    "Url": "https://mistral.ai/news/timestral/",
+    "Description": "Timestral: Mistral release time-series foundation models",
+    "Metadata": {
+      "score": "24",
+      "author": "groar",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-19T11:42:34.5137152+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50150809"
+    },
+    "Type": 1,
+    "Title": "Let\u0027s Encrypt is adding two additional remote perspectives for domain validation",
+    "Url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+    "Description": "Let\u0027s Encrypt is adding two additional remote perspectives for domain validation",
+    "Metadata": {
+      "score": "12",
+      "author": "gslin",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-19T11:42:34.5599676+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50145337"
+    },
+    "Type": 1,
+    "Title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+    "Url": "https://arxiv.org/abs/2610.18861",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;x.com\u0026#x2F;Jiaru_Zou\u0026#x2F;status\u0026#x2F;2110400256647340476\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;x.com\u0026#x2F;Jiaru_Zou\u0026#x2F;status\u0026#x2F;2110400256647340476\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;togethercomputer\u0026#x2F;HybridAgent\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;togethercomputer\u0026#x2F;HybridAgent\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;huggingface.co\u0026#x2F;collections\u0026#x2F;togethercomputer\u0026#x2F;hybridagent\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;huggingface.co\u0026#x2",
+    "Metadata": {
+      "score": "424",
+      "author": "allinonai",
+      "commentCount": "208"
+    },
+    "FetchedAt": "2026-10-19T11:42:34.9449618+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50104874"
+    },
+    "Type": 1,
+    "Title": "How to Train Your Robot",
+    "Url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+    "Description": "How to Train Your Robot",
+    "Metadata": {
+      "score": "57",
+      "author": "crescit_eundo",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-10-19T11:42:35.0211116+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50124811"
+    },
+    "Type": 1,
+    "Title": "Gdynia and the Dream of a Maritime Poland",
+    "Url": "https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/",
+    "Description": "Gdynia and the Dream of a Maritime Poland",
+    "Metadata": {
+      "score": "5",
+      "author": "lermontov",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-19T11:42:35.0672726+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50146625"
+    },
+    "Type": 1,
+    "Title": "William Gibson and the trademarking of cyberspace",
+    "Url": "https://colo.to/cyberspace.html",
+    "Description": "William Gibson and the trademarking of cyberspace",
+    "Metadata": {
+      "score": "197",
+      "author": "Eric_Gullichsen",
+      "commentCount": "80"
+    },
+    "FetchedAt": "2026-10-19T11:42:35.1274401+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50136150"
+    },
+    "Type": 1,
+    "Title": "There\u0027s never been a better time to go into math (by: 3blue1brown) [video]",
+    "Url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+    "Description": "There\u0027s never been a better time to go into math (by: 3blue1brown) [video]",
+    "Metadata": {
+      "score": "398",
+      "author": "mdp2021",
+      "commentCount": "491"
+    },
+    "FetchedAt": "2026-10-19T11:42:35.1761032+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50131315"
+    },
+    "Type": 1,
+    "Title": "Rabbits were a medieval royal luxury in England until the Black Death",
+    "Url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
+    "Description": "Rabbits were a medieval royal luxury in England until the Black Death",
+    "Metadata": {
+      "score": "95",
+      "author": "samizdis",
+      "commentCount": "90"
+    },
+    "FetchedAt": "2026-10-19T11:42:35.2221498+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50145507"
+    },
+    "Type": 1,
+    "Title": "If you don\u0027t run your own LLM proxy, how do you know whats going on?",
+    "Url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+    "Description": "If you don\u0027t run your own LLM proxy, how do you know whats going on?",
+    "Metadata": {
+      "score": "195",
+      "author": "amrrs",
+      "commentCount": "142"
+    },
+    "FetchedAt": "2026-10-19T11:42:35.2683444+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50148855"
+    },
+    "Type": 1,
+    "Title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+    "Url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+    "Description": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+    "Metadata": {
+      "score": "53",
+      "author": "ankitg12",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-10-19T11:42:35.3146719+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50142573"
+    },
+    "Type": 1,
+    "Title": "Someone behind the software",
+    "Url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+    "Description": "Someone behind the software",
+    "Metadata": {
+      "score": "466",
+      "author": "tosh",
+      "commentCount": "169"
+    },
+    "FetchedAt": "2026-10-19T11:42:35.3609817+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50111537"
+    },
+    "Type": 1,
+    "Title": "Laptop Based on 6502 CPU",
+    "Url": "https://www.maddox.pro/?p=448",
+    "Description": "Laptop Based on 6502 CPU",
+    "Metadata": {
+      "score": "145",
+      "author": "nanochess",
+      "commentCount": "69"
+    },
+    "FetchedAt": "2026-10-19T11:42:35.4194519+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50136979"
+    },
+    "Type": 1,
+    "Title": "Dogs seem to agree with humans that \u0027bouba\u0027 is round and \u0027kiki\u0027 is spiky",
+    "Url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+    "Description": "Dogs seem to agree with humans that \u0027bouba\u0027 is round and \u0027kiki\u0027 is spiky",
+    "Metadata": {
+      "score": "262",
+      "author": "gmays",
+      "commentCount": "158"
+    },
+    "FetchedAt": "2026-10-19T11:42:35.4658422+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50141076"
+    },
+    "Type": 1,
+    "Title": "RepRapMicron",
+    "Url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+    "Description": "RepRapMicron",
+    "Metadata": {
+      "score": "402",
+      "author": "RobotToaster",
+      "commentCount": "64"
+    },
+    "FetchedAt": "2026-10-19T11:42:35.5137473+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50125551"
+    },
+    "Type": 1,
+    "Title": "The DNS Museum",
+    "Url": "https://dns.museum",
+    "Description": "The DNS Museum",
+    "Metadata": {
+      "score": "88",
+      "author": "zdw",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-10-19T11:42:35.5787863+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50147492"
+    },
+    "Type": 1,
+    "Title": "Superlite: A Faster Alternatie to Superpowers",
+    "Url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+    "Description": "Superlite: A Faster Alternatie to Superpowers",
+    "Metadata": {
+      "score": "104",
+      "author": "iheatuchriswogu",
+      "commentCount": "42"
+    },
+    "FetchedAt": "2026-10-19T11:42:35.6675897+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50144066"
+    },
+    "Type": 1,
+    "Title": "Free Pascal compiler now supports dynamic packages",
+    "Url": "https://www.getlazarus.org/dynamic/",
+    "Description": "Free Pascal compiler now supports dynamic packages",
+    "Metadata": {
+      "score": "167",
+      "author": "sysrpl",
+      "commentCount": "41"
+    },
+    "FetchedAt": "2026-10-19T11:42:35.7289513+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50146624"
+    },
+    "Type": 1,
+    "Title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+    "Url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+    "Description": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+    "Metadata": {
+      "score": "77",
+      "author": "gmays",
+      "commentCount": "87"
+    },
+    "FetchedAt": "2026-10-19T11:42:35.7828362+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50141436"
+    },
+    "Type": 1,
+    "Title": "Show HN: Ranet3 \u2013 High performance policy routed IPsec mesh SD-WAN",
+    "Url": "https://ranet3.com/",
+    "Description": "btw this is already running on all my machines (including a macbook), and i\u0026#x27;ve configured all of them to have routable public ip addresses ;)\u003Cp\u003Eespecially for the mac, my ISP is SFR (over coaxial connection) with only dynamic ipv4, i can use this to get stable v4\u0026#x2F;v6 addresses very easily for all my devices behind the router\u003Cp\u003Eios\u0026#x2F;android app soon^{TM}",
+    "Metadata": {
+      "score": "30",
+      "author": "StepBroBD",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-10-19T11:42:35.8490736+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50145715"
+    },
+    "Type": 1,
+    "Title": "Show HN: WhatsApp MCP running free on Cloudflare",
+    "Url": "https://github.com/finereli/whatsapp-mcp",
+    "Description": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.\u003Cp\u003EI wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this.\u003Cp\u003EImportant feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts, otherwise you get only phone numbers for many of them and search doesn\u0026#x27;t work properly.\u003Cp\u003EThis",
+    "Metadata": {
+      "score": "114",
+      "author": "zoozla",
+      "commentCount": "66"
+    },
+    "FetchedAt": "2026-10-19T11:42:35.8996515+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50135762"
+    },
+    "Type": 1,
+    "Title": "I built a programming language that LLMs can\u0027t use",
+    "Url": "https://blog.picheta.me/post/killswitch-lang/",
+    "Description": "I built a programming language that LLMs can\u0027t use",
+    "Metadata": {
+      "score": "212",
+      "author": "dom96",
+      "commentCount": "164"
+    },
+    "FetchedAt": "2026-10-19T11:42:35.9480951+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50112204"
+    },
+    "Type": 1,
+    "Title": "HOL Light Tutorial",
+    "Url": "https://hol-light.github.io/tutorial/HTML/tutorial.html",
+    "Description": "HOL Light Tutorial",
+    "Metadata": {
+      "score": "7",
+      "author": "stmonty",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-10-19T11:42:35.9942463+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50109546"
+    },
+    "Type": 1,
+    "Title": "Lant \u2013 The Forgotten Resource",
+    "Url": "https://sites.udel.edu/materialmatters/2018/04/11/lant-the-forgotten-resource/",
+    "Description": "Lant \u2013 The Forgotten Resource",
+    "Metadata": {
+      "score": "16",
+      "author": "kreyenborgi",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-10-19T11:42:36.0400155+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50143536"
+    },
+    "Type": 1,
+    "Title": "PalmOS Lemmings",
+    "Url": "https://github.com/ardiri/palmos-lemmings",
+    "Description": "PalmOS Lemmings",
+    "Metadata": {
+      "score": "134",
+      "author": "memalign",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-10-19T11:42:36.0865641+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50140383"
+    },
+    "Type": 1,
+    "Title": "A new way to think about borrow checking (in reverse)",
+    "Url": "https://verdagon.dev/blog/reverse-borrow-checking",
+    "Description": "A new way to think about borrow checking (in reverse)",
+    "Metadata": {
+      "score": "95",
+      "author": "verdagon",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-10-19T11:42:36.1326175+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50141579"
+    },
+    "Type": 1,
+    "Title": "Java sealed classes and exhaustive pattern matching",
+    "Url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+    "Description": "Java sealed classes and exhaustive pattern matching",
+    "Metadata": {
+      "score": "177",
+      "author": "hnisjafx40",
+      "commentCount": "136"
+    },
+    "FetchedAt": "2026-10-19T11:42:36.1795813+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50122058"
+    },
+    "Type": 1,
+    "Title": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
+    "Url": "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
+    "Description": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
+    "Metadata": {
+      "score": "86",
+      "author": "zoobab",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-10-19T11:42:36.2267916+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50108297"
+    },
+    "Type": 1,
+    "Title": "How Postgres DELETE can actually scale",
+    "Url": "https://www.dbos.dev/blog/scaling-deletions-in-postgres",
+    "Description": "How Postgres DELETE can actually scale",
+    "Metadata": {
+      "score": "22",
+      "author": "KraftyOne",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-10-19T11:42:36.2898771+00:00"
   }
 ]

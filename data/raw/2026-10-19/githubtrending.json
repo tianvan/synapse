@@ -34,72 +34,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:ruvnet/ruflo"
-    },
-    "Type": 0,
-    "Title": "ruvnet/ruflo",
-    "Url": "https://github.com/ruvnet/ruflo",
-    "Description": "\uD83C\uDF0A The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-    "Metadata": {
-      "owner": "ruvnet",
-      "repo": "ruflo",
-      "language": "TypeScript",
-      "stars": "513",
-      "topics": "agentic-ai, agentic-framework, agentic-workflow, agents, ai-agents, ai-assistant, ai-skills, autonomous-agents, claude, codex, dsh-plugin, harness, mcp-server, multi-agent, multi-agent-systems, npm, skills, swarm, swarm-intelligence, typescript"
-    },
-    "FetchedAt": "2026-10-19T02:38:06.4494344+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:akitaonrails/ai-memory"
-    },
-    "Type": 0,
-    "Title": "akitaonrails/ai-memory",
-    "Url": "https://github.com/akitaonrails/ai-memory",
-    "Description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-    "Metadata": {
-      "owner": "akitaonrails",
-      "repo": "ai-memory",
-      "language": "Rust",
-      "stars": "512"
-    },
-    "FetchedAt": "2026-10-19T02:38:06.5663159+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:stablyai/orca"
-    },
-    "Type": 0,
-    "Title": "stablyai/orca",
-    "Url": "https://github.com/stablyai/orca",
-    "Description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-    "Metadata": {
-      "owner": "stablyai",
-      "repo": "orca",
-      "language": "TypeScript",
-      "stars": "1,146",
-      "topics": "ade, agent-ide, ai-agents, automation, bot, claude-code, codex, ghostty, grok-bot, hermes-agent, mobile-app, muse, openclaw, opencode, orchestration, pi, runtime, terminal, worktrees, yc-backed"
-    },
-    "FetchedAt": "2026-10-19T02:38:06.7261458+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:HKUDS/CLI-Anything"
-    },
-    "Type": 0,
-    "Title": "HKUDS/CLI-Anything",
-    "Url": "https://github.com/HKUDS/CLI-Anything",
-    "Description": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/",
-    "Metadata": {
-      "owner": "HKUDS",
-      "repo": "CLI-Anything",
-      "language": "Python",
-      "stars": "589"
-    },
-    "FetchedAt": "2026-10-19T02:38:06.8688418+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:android/skills"
     },
     "Type": 0,
@@ -133,19 +67,19 @@
   },
   {
     "ExternalId": {
-      "Value": "github:Kruk2/jasna"
+      "Value": "github:akitaonrails/ai-memory"
     },
     "Type": 0,
-    "Title": "Kruk2/jasna",
-    "Url": "https://github.com/Kruk2/jasna",
-    "Description": "Video restoration tool",
+    "Title": "akitaonrails/ai-memory",
+    "Url": "https://github.com/akitaonrails/ai-memory",
+    "Description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
     "Metadata": {
-      "owner": "Kruk2",
-      "repo": "jasna",
-      "language": "Python",
-      "stars": "115"
+      "owner": "akitaonrails",
+      "repo": "ai-memory",
+      "language": "Rust",
+      "stars": "666"
     },
-    "FetchedAt": "2026-10-19T02:38:07.2637646+00:00"
+    "FetchedAt": "2026-10-19T11:42:32.4742652+00:00"
   },
   {
     "ExternalId": {
@@ -159,9 +93,140 @@
       "owner": "Comfy-Org",
       "repo": "ComfyUI",
       "language": "Python",
-      "stars": "154",
+      "stars": "1,011",
       "topics": "ai, comfy, comfyui, python, pytorch, stable-diffusion"
     },
-    "FetchedAt": "2026-10-19T02:38:07.4096404+00:00"
+    "FetchedAt": "2026-10-19T11:42:32.6837276+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ruvnet/ruflo"
+    },
+    "Type": 0,
+    "Title": "ruvnet/ruflo",
+    "Url": "https://github.com/ruvnet/ruflo",
+    "Description": "\uD83C\uDF0A The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "Metadata": {
+      "owner": "ruvnet",
+      "repo": "ruflo",
+      "language": "TypeScript",
+      "stars": "564",
+      "topics": "agentic-ai, agentic-framework, agentic-workflow, agents, ai-agents, ai-assistant, ai-skills, autonomous-agents, claude, codex, dsh-plugin, harness, mcp-server, multi-agent, multi-agent-systems, npm, skills, swarm, swarm-intelligence, typescript"
+    },
+    "FetchedAt": "2026-10-19T11:42:32.8616314+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:stablyai/orca"
+    },
+    "Type": 0,
+    "Title": "stablyai/orca",
+    "Url": "https://github.com/stablyai/orca",
+    "Description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "Metadata": {
+      "owner": "stablyai",
+      "repo": "orca",
+      "language": "TypeScript",
+      "stars": "1,591",
+      "topics": "ade, agent-ide, ai-agents, automation, bot, claude-code, codex, ghostty, grok-bot, hermes-agent, mobile-app, muse, openclaw, opencode, orchestration, pi, runtime, terminal, worktrees, yc-backed"
+    },
+    "FetchedAt": "2026-10-19T11:42:33.0235383+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:headroomlabs-ai/headroom"
+    },
+    "Type": 0,
+    "Title": "headroomlabs-ai/headroom",
+    "Url": "https://github.com/headroomlabs-ai/headroom",
+    "Description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+    "Metadata": {
+      "owner": "headroomlabs-ai",
+      "repo": "headroom",
+      "language": "Python",
+      "stars": "317",
+      "topics": "agent, ai, anthropic, claude-code, compression, context-engineering, context-window, cursor, fastapi, langchain, llm, mcp, openai, prompt-engineering, proxy, python, rag, token-optimization, tokens, typescript"
+    },
+    "FetchedAt": "2026-10-19T11:42:33.2258626+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:withmarbleapp/os-taxonomy"
+    },
+    "Type": 0,
+    "Title": "withmarbleapp/os-taxonomy",
+    "Url": "https://github.com/withmarbleapp/os-taxonomy",
+    "Description": "",
+    "Metadata": {
+      "owner": "withmarbleapp",
+      "repo": "os-taxonomy",
+      "language": "JavaScript",
+      "stars": "427"
+    },
+    "FetchedAt": "2026-10-19T11:42:33.3829137+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Kruk2/jasna"
+    },
+    "Type": 0,
+    "Title": "Kruk2/jasna",
+    "Url": "https://github.com/Kruk2/jasna",
+    "Description": "Video restoration tool",
+    "Metadata": {
+      "owner": "Kruk2",
+      "repo": "jasna",
+      "language": "Python",
+      "stars": "502"
+    },
+    "FetchedAt": "2026-10-19T11:42:33.5524758+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/CLI-Anything"
+    },
+    "Type": 0,
+    "Title": "HKUDS/CLI-Anything",
+    "Url": "https://github.com/HKUDS/CLI-Anything",
+    "Description": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "CLI-Anything",
+      "language": "Python",
+      "stars": "607"
+    },
+    "FetchedAt": "2026-10-19T11:42:33.6966284+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-code"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-code",
+    "Url": "https://github.com/anthropics/claude-code",
+    "Description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-code",
+      "language": "TypeScript",
+      "stars": "167"
+    },
+    "FetchedAt": "2026-10-19T11:42:33.8657368+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:shiyu-coder/Kronos"
+    },
+    "Type": 0,
+    "Title": "shiyu-coder/Kronos",
+    "Url": "https://github.com/shiyu-coder/Kronos",
+    "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "Metadata": {
+      "owner": "shiyu-coder",
+      "repo": "Kronos",
+      "language": "Python",
+      "stars": "355"
+    },
+    "FetchedAt": "2026-10-19T11:42:34.029471+00:00"
   }
 ]
