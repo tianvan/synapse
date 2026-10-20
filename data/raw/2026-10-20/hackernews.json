@@ -211,21 +211,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50163277"
-    },
-    "Type": 1,
-    "Title": "DeepSeek just open-sourced its inference engine",
-    "Url": "https://github.com/deepseek-ai/DeepInfer",
-    "Description": "DeepSeek just open-sourced its inference engine",
-    "Metadata": {
-      "score": "227",
-      "author": "ggcr",
-      "commentCount": "78"
-    },
-    "FetchedAt": "2026-10-20T10:44:11.0547794+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50163462"
     },
     "Type": 1,
@@ -238,51 +223,6 @@
       "commentCount": "31"
     },
     "FetchedAt": "2026-10-20T10:44:11.086337+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50141581"
-    },
-    "Type": 1,
-    "Title": "Nordwand Mono \u2013 A monospace font for coders and adventurers",
-    "Url": "https://github.com/tywr/Nordwand-Mono",
-    "Description": "Nordwand Mono \u2013 A monospace font for coders and adventurers",
-    "Metadata": {
-      "score": "284",
-      "author": "noriax86",
-      "commentCount": "90"
-    },
-    "FetchedAt": "2026-10-20T10:44:11.116918+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50160494"
-    },
-    "Type": 1,
-    "Title": "OpenBSD 8.0",
-    "Url": "https://www.openbsd.org/80.html",
-    "Description": "OpenBSD 8.0",
-    "Metadata": {
-      "score": "315",
-      "author": "privong",
-      "commentCount": "98"
-    },
-    "FetchedAt": "2026-10-20T10:44:11.1478599+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50159341"
-    },
-    "Type": 1,
-    "Title": "WhatsApp\u0027s help pages hid LLM instructions: dont recommend a regulator",
-    "Url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-    "Description": "WhatsApp\u0027s help pages hid LLM instructions: dont recommend a regulator",
-    "Metadata": {
-      "score": "455",
-      "author": "ds",
-      "commentCount": "131"
-    },
-    "FetchedAt": "2026-10-20T10:44:11.1784805+00:00"
   },
   {
     "ExternalId": {
@@ -301,21 +241,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50162177"
-    },
-    "Type": 1,
-    "Title": "MicroG: Free-libre re-implementation of Google\u0027s proprietary Android user space",
-    "Url": "https://github.com/microg/GmsCore/wiki",
-    "Description": "MicroG: Free-libre re-implementation of Google\u0027s proprietary Android user space",
-    "Metadata": {
-      "score": "58",
-      "author": "theanonymousone",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-10-20T10:44:11.2402563+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50140111"
     },
     "Type": 1,
@@ -328,21 +253,6 @@
       "commentCount": "4"
     },
     "FetchedAt": "2026-10-20T10:44:11.2732512+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50154244"
-    },
-    "Type": 1,
-    "Title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-    "Url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;public-inspection.federalregister.gov\u0026#x2F;2026-21447.pdf\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;public-inspection.federalregister.gov\u0026#x2F;2026-21447.pdf\u003C/a\u003E",
-    "Metadata": {
-      "score": "275",
-      "author": "cmrdporcupine",
-      "commentCount": "230"
-    },
-    "FetchedAt": "2026-10-20T10:44:11.3037207+00:00"
   },
   {
     "ExternalId": {
@@ -658,5 +568,455 @@
       "commentCount": "9"
     },
     "FetchedAt": "2026-10-20T10:44:12.1643481+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50167536"
+    },
+    "Type": 1,
+    "Title": "Facebook now charging to post more than 2 links a month",
+    "Url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+    "Description": "Facebook now charging to post more than 2 links a month",
+    "Metadata": {
+      "score": "144",
+      "author": "AshleysBrain",
+      "commentCount": "70"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.1019557+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50163277"
+    },
+    "Type": 1,
+    "Title": "DeepSeek just open-sourced its inference engine",
+    "Url": "https://github.com/deepseek-ai/DeepInfer",
+    "Description": "DeepSeek just open-sourced its inference engine",
+    "Metadata": {
+      "score": "1600",
+      "author": "ggcr",
+      "commentCount": "581"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.1317107+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50166579"
+    },
+    "Type": 1,
+    "Title": "EMudhra Intermediate CA Compromise",
+    "Url": "https://emudhra.we-have-a-problem.com/",
+    "Description": "EMudhra Intermediate CA Compromise",
+    "Metadata": {
+      "score": "133",
+      "author": "galadran",
+      "commentCount": "47"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.1615703+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50165208"
+    },
+    "Type": 1,
+    "Title": "Apple broke an essential presentation feature of iPads",
+    "Url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+    "Description": "Apple broke an essential presentation feature of iPads",
+    "Metadata": {
+      "score": "233",
+      "author": "evanb",
+      "commentCount": "121"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.191252+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50166257"
+    },
+    "Type": 1,
+    "Title": "How I got over 300 Tor exit nodes removed",
+    "Url": "https://kaba.cx/posts/20261020_Tor/",
+    "Description": "How I got over 300 Tor exit nodes removed",
+    "Metadata": {
+      "score": "96",
+      "author": "kabakabakaba",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.2220749+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50131997"
+    },
+    "Type": 1,
+    "Title": "Triplet of \u0027ghostly\u0027 galaxies hints at what dark matter is and isn\u0027t",
+    "Url": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
+    "Description": "Triplet of \u0027ghostly\u0027 galaxies hints at what dark matter is and isn\u0027t",
+    "Metadata": {
+      "score": "24",
+      "author": "gumby",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.2525567+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50167028"
+    },
+    "Type": 1,
+    "Title": "Ofcom Concedes Defeat in the 4chan Case",
+    "Url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+    "Description": "Ofcom Concedes Defeat in the 4chan Case",
+    "Metadata": {
+      "score": "79",
+      "author": "iamnothere",
+      "commentCount": "40"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.2826565+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50166794"
+    },
+    "Type": 1,
+    "Title": "My Friend Bob Cringely",
+    "Url": "https://tyma.com/my-cringe-story/",
+    "Description": "My Friend Bob Cringely",
+    "Metadata": {
+      "score": "61",
+      "author": "zinxq",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.3139226+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50167583"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Respan (YC W24) \u2013 Open-source Rust AI gateway built around plugins",
+    "Url": "https://news.ycombinator.com/item?id=50167583",
+    "Description": "Hey HN, this is Andy from Respan (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.respan.ai\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.respan.ai\u003C/a\u003E). We are building an open-source Rust AI gateway. It is a decoupled gateway, so everything is a plugin, including different providers, protocols (MCP, voice), modalities (images, videos), and gateway features (fallbacks, PII redaction, smart routing).\u003Cp\u003EInstead of packaging tons of providers and features into one gateway, Respan provides a small core and public interfaces that teams ca",
+    "Metadata": {
+      "score": "14",
+      "author": "Andydy25",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.3439524+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50167617"
+    },
+    "Type": 1,
+    "Title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+    "Url": "https://jevcards.com",
+    "Description": "I built a quiz game around TypeSafe\u0026#x27;s new Jev model, which has vision capabilities. Jev looks at a picture and a question and picks an answer (or taps a place) in about a quarter of a second.\u003Cp\u003EI\u0026#x27;ve always loved quiz games and thought this would be a fun way to see what it can do and how fast it is. I made the cards from scratch, and Jev gets exactly the picture you see. More cards will come over time.\u003Cp\u003EPlay against Jev on your own (there\u0026#x27;s a leaderboard for each mode), or start ",
+    "Metadata": {
+      "score": "12",
+      "author": "totisjosema",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.3736311+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50166502"
+    },
+    "Type": 1,
+    "Title": "2026 is an exciting year for the Rust compiler (and me)",
+    "Url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+    "Description": "2026 is an exciting year for the Rust compiler (and me)",
+    "Metadata": {
+      "score": "39",
+      "author": "panstromek",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.4046792+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50165801"
+    },
+    "Type": 1,
+    "Title": "Publish fake stats, get cited in LLMs",
+    "Url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+    "Description": "Publish fake stats, get cited in LLMs",
+    "Metadata": {
+      "score": "140",
+      "author": "robtherobber",
+      "commentCount": "80"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.4357133+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50139123"
+    },
+    "Type": 1,
+    "Title": "UI-Te-Rangiora",
+    "Url": "https://en.wikipedia.org/wiki/Ui-te-Rangiora",
+    "Description": "UI-Te-Rangiora",
+    "Metadata": {
+      "score": "9",
+      "author": "benbreen",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.4659252+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50164991"
+    },
+    "Type": 1,
+    "Title": "Hazel (YC W24) Is Hiring",
+    "Url": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
+    "Description": "Hazel (YC W24) Is Hiring",
+    "Metadata": {
+      "score": "1",
+      "author": "augustschen",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.4954901+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50162177"
+    },
+    "Type": 1,
+    "Title": "MicroG: Free-libre re-implementation of Google\u0027s proprietary Android user space",
+    "Url": "https://github.com/microg/GmsCore/wiki",
+    "Description": "MicroG: Free-libre re-implementation of Google\u0027s proprietary Android user space",
+    "Metadata": {
+      "score": "264",
+      "author": "theanonymousone",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.5250718+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50168168"
+    },
+    "Type": 1,
+    "Title": "OpenDE: Play Deus Ex 1999 demo in the browser",
+    "Url": "https://opende.netlify.app",
+    "Description": "OpenDE: Play Deus Ex 1999 demo in the browser",
+    "Metadata": {
+      "score": "5",
+      "author": "klaussilveira",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.5566538+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50165953"
+    },
+    "Type": 1,
+    "Title": "Tsrs: A Port of TypeScript to Rust",
+    "Url": "https://blog.cloudflare.com/typescript-rust-port/",
+    "Description": "Tsrs: A Port of TypeScript to Rust",
+    "Metadata": {
+      "score": "111",
+      "author": "hnisjafx40",
+      "commentCount": "61"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.5864345+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50141581"
+    },
+    "Type": 1,
+    "Title": "Nordwand Mono \u2013 A monospace font for coders and adventurers",
+    "Url": "https://github.com/tywr/Nordwand-Mono",
+    "Description": "Nordwand Mono \u2013 A monospace font for coders and adventurers",
+    "Metadata": {
+      "score": "460",
+      "author": "noriax86",
+      "commentCount": "127"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.6169016+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50167732"
+    },
+    "Type": 1,
+    "Title": "Why do we have so many meetings?",
+    "Url": "https://www.nber.org/papers/w35706",
+    "Description": "Why do we have so many meetings?",
+    "Metadata": {
+      "score": "22",
+      "author": "ilamont",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.6466145+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50167456"
+    },
+    "Type": 1,
+    "Title": "Show HN: Run Claude Code unattended inside a fence, under a dollar budget",
+    "Url": "https://github.com/metahumansworld/SIwithin",
+    "Description": "Show HN: Run Claude Code unattended inside a fence, under a dollar budget",
+    "Metadata": {
+      "score": "6",
+      "author": "metahumein",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.6769019+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50167560"
+    },
+    "Type": 1,
+    "Title": "How to Link Real-Time Live Streaming to Video-on-Demand",
+    "Url": "https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/",
+    "Description": "How to Link Real-Time Live Streaming to Video-on-Demand",
+    "Metadata": {
+      "score": "5",
+      "author": "mondainx",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.7072199+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50167524"
+    },
+    "Type": 1,
+    "Title": "Getting Banned from r/java",
+    "Url": "https://sjhannah.com/blog/2026/05/30/getting-banned-from-r-java/",
+    "Description": "Getting Banned from r/java",
+    "Metadata": {
+      "score": "18",
+      "author": "davidpolberger",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.7553008+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50159341"
+    },
+    "Type": 1,
+    "Title": "WhatsApp\u0027s help pages hid LLM instructions: dont recommend a regulator",
+    "Url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+    "Description": "WhatsApp\u0027s help pages hid LLM instructions: dont recommend a regulator",
+    "Metadata": {
+      "score": "659",
+      "author": "ds",
+      "commentCount": "183"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.7858669+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50160494"
+    },
+    "Type": 1,
+    "Title": "OpenBSD 8.0",
+    "Url": "https://www.openbsd.org/80.html",
+    "Description": "OpenBSD 8.0",
+    "Metadata": {
+      "score": "419",
+      "author": "privong",
+      "commentCount": "133"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.8158902+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50167286"
+    },
+    "Type": 1,
+    "Title": "Show HN: VoidAccess \u2013 open-source dark web OSINT, from query to a graph",
+    "Url": "https://github.com/KatrielMoses/voidaccess",
+    "Description": "Hi HN! Im Katriel, and im a Security Researcher\u0026#x2F;Enthusiast and in the wave of AI, i wanted to build that next gen of security tooling that surpasses the current tools, and even the paid industries with an open source engine. I built MailAccess as well, which is going to be the best damn email osint tool out there, in another year. But just before building MailAccess i built VoidAccess, because i was delving a lot into DarkINT and the content inside the dark web is too difficult to navigate ",
+    "Metadata": {
+      "score": "91",
+      "author": "coding-maniac",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.8474155+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50167604"
+    },
+    "Type": 1,
+    "Title": "Show HN: Penmentor \u2013 Claude marks up your handwritten math like a teacher",
+    "Url": "https://github.com/AbdullahAlhariri/penmentor",
+    "Description": "Show HN: Penmentor \u2013 Claude marks up your handwritten math like a teacher",
+    "Metadata": {
+      "score": "9",
+      "author": "abdullahalharir",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.8768072+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50154244"
+    },
+    "Type": 1,
+    "Title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+    "Url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;public-inspection.federalregister.gov\u0026#x2F;2026-21447.pdf\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;public-inspection.federalregister.gov\u0026#x2F;2026-21447.pdf\u003C/a\u003E",
+    "Metadata": {
+      "score": "471",
+      "author": "cmrdporcupine",
+      "commentCount": "390"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.906428+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50153229"
+    },
+    "Type": 1,
+    "Title": "One Manhattan power room took down FAA air traffic control in 1991",
+    "Url": "https://matthorn.io/posts/2026-10-18-33-thomas-street/",
+    "Description": "One Manhattan power room took down FAA air traffic control in 1991",
+    "Metadata": {
+      "score": "17",
+      "author": "spectraldrift",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.9360994+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50167533"
+    },
+    "Type": 1,
+    "Title": "In-memory privacy shield to prevent context leaks in MCP tools",
+    "Url": "https://github.com/rohan-protocol/sdk",
+    "Description": "In-memory privacy shield to prevent context leaks in MCP tools",
+    "Metadata": {
+      "score": "5",
+      "author": "jvonb",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.9659718+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50135333"
+    },
+    "Type": 1,
+    "Title": "FingerWorks iGesture Pad (2005)",
+    "Url": "https://uk.pcmag.com/first-looks/26975/fingerworks-igesture-pad",
+    "Description": "FingerWorks iGesture Pad (2005)",
+    "Metadata": {
+      "score": "12",
+      "author": "codeulike",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-10-20T16:06:35.9961312+00:00"
   }
 ]
