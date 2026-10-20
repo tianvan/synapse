@@ -571,141 +571,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50167536"
-    },
-    "Type": 1,
-    "Title": "Facebook now charging to post more than 2 links a month",
-    "Url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
-    "Description": "Facebook now charging to post more than 2 links a month",
-    "Metadata": {
-      "score": "144",
-      "author": "AshleysBrain",
-      "commentCount": "70"
-    },
-    "FetchedAt": "2026-10-20T16:06:35.1019557+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50163277"
-    },
-    "Type": 1,
-    "Title": "DeepSeek just open-sourced its inference engine",
-    "Url": "https://github.com/deepseek-ai/DeepInfer",
-    "Description": "DeepSeek just open-sourced its inference engine",
-    "Metadata": {
-      "score": "1600",
-      "author": "ggcr",
-      "commentCount": "581"
-    },
-    "FetchedAt": "2026-10-20T16:06:35.1317107+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50166579"
-    },
-    "Type": 1,
-    "Title": "EMudhra Intermediate CA Compromise",
-    "Url": "https://emudhra.we-have-a-problem.com/",
-    "Description": "EMudhra Intermediate CA Compromise",
-    "Metadata": {
-      "score": "133",
-      "author": "galadran",
-      "commentCount": "47"
-    },
-    "FetchedAt": "2026-10-20T16:06:35.1615703+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50165208"
-    },
-    "Type": 1,
-    "Title": "Apple broke an essential presentation feature of iPads",
-    "Url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-    "Description": "Apple broke an essential presentation feature of iPads",
-    "Metadata": {
-      "score": "233",
-      "author": "evanb",
-      "commentCount": "121"
-    },
-    "FetchedAt": "2026-10-20T16:06:35.191252+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50166257"
-    },
-    "Type": 1,
-    "Title": "How I got over 300 Tor exit nodes removed",
-    "Url": "https://kaba.cx/posts/20261020_Tor/",
-    "Description": "How I got over 300 Tor exit nodes removed",
-    "Metadata": {
-      "score": "96",
-      "author": "kabakabakaba",
-      "commentCount": "26"
-    },
-    "FetchedAt": "2026-10-20T16:06:35.2220749+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50131997"
-    },
-    "Type": 1,
-    "Title": "Triplet of \u0027ghostly\u0027 galaxies hints at what dark matter is and isn\u0027t",
-    "Url": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
-    "Description": "Triplet of \u0027ghostly\u0027 galaxies hints at what dark matter is and isn\u0027t",
-    "Metadata": {
-      "score": "24",
-      "author": "gumby",
-      "commentCount": "6"
-    },
-    "FetchedAt": "2026-10-20T16:06:35.2525567+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50167028"
-    },
-    "Type": 1,
-    "Title": "Ofcom Concedes Defeat in the 4chan Case",
-    "Url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-    "Description": "Ofcom Concedes Defeat in the 4chan Case",
-    "Metadata": {
-      "score": "79",
-      "author": "iamnothere",
-      "commentCount": "40"
-    },
-    "FetchedAt": "2026-10-20T16:06:35.2826565+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50166794"
-    },
-    "Type": 1,
-    "Title": "My Friend Bob Cringely",
-    "Url": "https://tyma.com/my-cringe-story/",
-    "Description": "My Friend Bob Cringely",
-    "Metadata": {
-      "score": "61",
-      "author": "zinxq",
-      "commentCount": "19"
-    },
-    "FetchedAt": "2026-10-20T16:06:35.3139226+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50167583"
-    },
-    "Type": 1,
-    "Title": "Launch HN: Respan (YC W24) \u2013 Open-source Rust AI gateway built around plugins",
-    "Url": "https://news.ycombinator.com/item?id=50167583",
-    "Description": "Hey HN, this is Andy from Respan (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.respan.ai\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.respan.ai\u003C/a\u003E). We are building an open-source Rust AI gateway. It is a decoupled gateway, so everything is a plugin, including different providers, protocols (MCP, voice), modalities (images, videos), and gateway features (fallbacks, PII redaction, smart routing).\u003Cp\u003EInstead of packaging tons of providers and features into one gateway, Respan provides a small core and public interfaces that teams ca",
-    "Metadata": {
-      "score": "14",
-      "author": "Andydy25",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-10-20T16:06:35.3439524+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50167617"
     },
     "Type": 1,
@@ -718,36 +583,6 @@
       "commentCount": "2"
     },
     "FetchedAt": "2026-10-20T16:06:35.3736311+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50166502"
-    },
-    "Type": 1,
-    "Title": "2026 is an exciting year for the Rust compiler (and me)",
-    "Url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
-    "Description": "2026 is an exciting year for the Rust compiler (and me)",
-    "Metadata": {
-      "score": "39",
-      "author": "panstromek",
-      "commentCount": "5"
-    },
-    "FetchedAt": "2026-10-20T16:06:35.4046792+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50165801"
-    },
-    "Type": 1,
-    "Title": "Publish fake stats, get cited in LLMs",
-    "Url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-    "Description": "Publish fake stats, get cited in LLMs",
-    "Metadata": {
-      "score": "140",
-      "author": "robtherobber",
-      "commentCount": "80"
-    },
-    "FetchedAt": "2026-10-20T16:06:35.4357133+00:00"
   },
   {
     "ExternalId": {
@@ -766,36 +601,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50164991"
-    },
-    "Type": 1,
-    "Title": "Hazel (YC W24) Is Hiring",
-    "Url": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
-    "Description": "Hazel (YC W24) Is Hiring",
-    "Metadata": {
-      "score": "1",
-      "author": "augustschen",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-10-20T16:06:35.4954901+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50162177"
-    },
-    "Type": 1,
-    "Title": "MicroG: Free-libre re-implementation of Google\u0027s proprietary Android user space",
-    "Url": "https://github.com/microg/GmsCore/wiki",
-    "Description": "MicroG: Free-libre re-implementation of Google\u0027s proprietary Android user space",
-    "Metadata": {
-      "score": "264",
-      "author": "theanonymousone",
-      "commentCount": "24"
-    },
-    "FetchedAt": "2026-10-20T16:06:35.5250718+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50168168"
     },
     "Type": 1,
@@ -808,21 +613,6 @@
       "commentCount": "1"
     },
     "FetchedAt": "2026-10-20T16:06:35.5566538+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50165953"
-    },
-    "Type": 1,
-    "Title": "Tsrs: A Port of TypeScript to Rust",
-    "Url": "https://blog.cloudflare.com/typescript-rust-port/",
-    "Description": "Tsrs: A Port of TypeScript to Rust",
-    "Metadata": {
-      "score": "111",
-      "author": "hnisjafx40",
-      "commentCount": "61"
-    },
-    "FetchedAt": "2026-10-20T16:06:35.5864345+00:00"
   },
   {
     "ExternalId": {
@@ -1018,5 +808,455 @@
       "commentCount": "8"
     },
     "FetchedAt": "2026-10-20T16:06:35.9961312+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50170593"
+    },
+    "Type": 1,
+    "Title": "SimCity, but with Permits",
+    "Url": "https://permit.petercai.com/",
+    "Description": "SimCity, but with Permits",
+    "Metadata": {
+      "score": "288",
+      "author": "pcai",
+      "commentCount": "142"
+    },
+    "FetchedAt": "2026-10-20T21:04:16.7231173+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50168396"
+    },
+    "Type": 1,
+    "Title": "Voxtral 3",
+    "Url": "https://mistral.ai/news/voxtral-3/",
+    "Description": "Voxtral 3",
+    "Metadata": {
+      "score": "410",
+      "author": "ilreb",
+      "commentCount": "112"
+    },
+    "FetchedAt": "2026-10-20T21:04:16.7526684+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50163277"
+    },
+    "Type": 1,
+    "Title": "DeepInfer: High-performance inference framework for DeepSeek models",
+    "Url": "https://github.com/deepseek-ai/DeepInfer",
+    "Description": "DeepInfer: High-performance inference framework for DeepSeek models",
+    "Metadata": {
+      "score": "2014",
+      "author": "ggcr",
+      "commentCount": "785"
+    },
+    "FetchedAt": "2026-10-20T21:04:16.7817431+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50169053"
+    },
+    "Type": 1,
+    "Title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+    "Url": "https://github.com/google-pytorch/torch_tpu",
+    "Description": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+    "Metadata": {
+      "score": "189",
+      "author": "ilreb",
+      "commentCount": "47"
+    },
+    "FetchedAt": "2026-10-20T21:04:16.8111371+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50108717"
+    },
+    "Type": 1,
+    "Title": "SlopCodeBench 10/2026 \u2013 Opus 5.5, Astra wins overall, xhigh considered harmful",
+    "Url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+    "Description": "SlopCodeBench 10/2026 \u2013 Opus 5.5, Astra wins overall, xhigh considered harmful",
+    "Metadata": {
+      "score": "82",
+      "author": "dhorthy",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-10-20T21:04:16.8404048+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50169707"
+    },
+    "Type": 1,
+    "Title": "What shall I teach my son?",
+    "Url": "https://stevekrouse.com/ends",
+    "Description": "What shall I teach my son?",
+    "Metadata": {
+      "score": "112",
+      "author": "Curiositry",
+      "commentCount": "206"
+    },
+    "FetchedAt": "2026-10-20T21:04:16.8692448+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50165208"
+    },
+    "Type": 1,
+    "Title": "Apple broke an essential presentation feature of iPads",
+    "Url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+    "Description": "Apple broke an essential presentation feature of iPads",
+    "Metadata": {
+      "score": "411",
+      "author": "evanb",
+      "commentCount": "227"
+    },
+    "FetchedAt": "2026-10-20T21:04:16.908003+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50167028"
+    },
+    "Type": 1,
+    "Title": "Ofcom concedes defeat in 4chan case",
+    "Url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+    "Description": "Ofcom concedes defeat in 4chan case",
+    "Metadata": {
+      "score": "257",
+      "author": "iamnothere",
+      "commentCount": "160"
+    },
+    "FetchedAt": "2026-10-20T21:04:16.9385904+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50166579"
+    },
+    "Type": 1,
+    "Title": "EMudhra Intermediate CA Compromise",
+    "Url": "https://emudhra.we-have-a-problem.com/",
+    "Description": "EMudhra Intermediate CA Compromise",
+    "Metadata": {
+      "score": "454",
+      "author": "galadran",
+      "commentCount": "245"
+    },
+    "FetchedAt": "2026-10-20T21:04:16.9693349+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50171771"
+    },
+    "Type": 1,
+    "Title": "On AI writing",
+    "Url": "https://www.bolkunov.com/p/on-ai-writing",
+    "Description": "On AI writing",
+    "Metadata": {
+      "score": "33",
+      "author": "dbolkunov",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-10-20T21:04:16.9978406+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50165953"
+    },
+    "Type": 1,
+    "Title": "Tsrs: A Port of TypeScript to Rust",
+    "Url": "https://blog.cloudflare.com/typescript-rust-port/",
+    "Description": "Tsrs: A Port of TypeScript to Rust",
+    "Metadata": {
+      "score": "280",
+      "author": "hnisjafx40",
+      "commentCount": "134"
+    },
+    "FetchedAt": "2026-10-20T21:04:17.0265772+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50172448"
+    },
+    "Type": 1,
+    "Title": "Deepfake of Washington County, Oregon, Candidate Goes Viral Nationwide",
+    "Url": "https://www.oregonjournalismproject.org/deepfake-of-washington-county-oregon-candidate-goes-viral-nationwide",
+    "Description": "Deepfake of Washington County, Oregon, Candidate Goes Viral Nationwide",
+    "Metadata": {
+      "score": "6",
+      "author": "aliasxneo",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-20T21:04:17.0559731+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50166257"
+    },
+    "Type": 1,
+    "Title": "How I got over 300 Tor exit nodes removed",
+    "Url": "https://kaba.cx/posts/20261020_Tor/",
+    "Description": "How I got over 300 Tor exit nodes removed",
+    "Metadata": {
+      "score": "262",
+      "author": "kabakabakaba",
+      "commentCount": "62"
+    },
+    "FetchedAt": "2026-10-20T21:04:17.0845319+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50165904"
+    },
+    "Type": 1,
+    "Title": "Jepsen: Orkes Conductor 5.3.2",
+    "Url": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
+    "Description": "Jepsen: Orkes Conductor 5.3.2",
+    "Metadata": {
+      "score": "40",
+      "author": "aphyr",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-20T21:04:17.1142654+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50168357"
+    },
+    "Type": 1,
+    "Title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+    "Url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+    "Description": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+    "Metadata": {
+      "score": "90",
+      "author": "speckx",
+      "commentCount": "45"
+    },
+    "FetchedAt": "2026-10-20T21:04:17.1433596+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50168096"
+    },
+    "Type": 1,
+    "Title": "IKEA \u2013 3D Guide",
+    "Url": "https://sael.net/flatpack/",
+    "Description": "IKEA \u2013 3D Guide",
+    "Metadata": {
+      "score": "103",
+      "author": "punnerud",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-10-20T21:04:17.1719923+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50170021"
+    },
+    "Type": 1,
+    "Title": "Claude designed protein binders against scorpion neurotoxins",
+    "Url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+    "Description": "Claude designed protein binders against scorpion neurotoxins",
+    "Metadata": {
+      "score": "48",
+      "author": "artninja1988",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-10-20T21:04:17.2022239+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50163961"
+    },
+    "Type": 1,
+    "Title": "Google Cloud outage affects almost all banking and other operations in Europe",
+    "Url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+    "Description": "Google Cloud outage affects almost all banking and other operations in Europe",
+    "Metadata": {
+      "score": "268",
+      "author": "paweladamczuk",
+      "commentCount": "134"
+    },
+    "FetchedAt": "2026-10-20T21:04:17.2309619+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50167536"
+    },
+    "Type": 1,
+    "Title": "Facebook Pages require paid subscription to post more than two links per month",
+    "Url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+    "Description": "Facebook Pages require paid subscription to post more than two links per month",
+    "Metadata": {
+      "score": "374",
+      "author": "AshleysBrain",
+      "commentCount": "325"
+    },
+    "FetchedAt": "2026-10-20T21:04:17.2615093+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50147034"
+    },
+    "Type": 1,
+    "Title": "\u0027Der Viener Schlinger\u0027: The meat cannon that launched 20k hot dogs",
+    "Url": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
+    "Description": "\u0027Der Viener Schlinger\u0027: The meat cannon that launched 20k hot dogs",
+    "Metadata": {
+      "score": "75",
+      "author": "NaOH",
+      "commentCount": "46"
+    },
+    "FetchedAt": "2026-10-20T21:04:17.2910263+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50166794"
+    },
+    "Type": 1,
+    "Title": "My Friend Bob Cringely",
+    "Url": "https://tyma.com/my-cringe-story/",
+    "Description": "My Friend Bob Cringely",
+    "Metadata": {
+      "score": "137",
+      "author": "zinxq",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-10-20T21:04:17.3195251+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50138490"
+    },
+    "Type": 1,
+    "Title": "JAXA is about to perform a Phobos sample return mission",
+    "Url": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
+    "Description": "JAXA is about to perform a Phobos sample return mission",
+    "Metadata": {
+      "score": "66",
+      "author": "Muhammad523",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-10-20T21:04:17.349892+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50167583"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Respan (YC W24) \u2013 Open-source Rust AI gateway built around plugins",
+    "Url": "https://news.ycombinator.com/item?id=50167583",
+    "Description": "Hey HN, this is Andy from Respan (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.respan.ai\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.respan.ai\u003C/a\u003E). We are building an open-source Rust AI gateway. It is a decoupled gateway, so everything is a plugin, including different providers, protocols (MCP, voice), modalities (images, videos), and gateway features (fallbacks, PII redaction, smart routing).\u003Cp\u003EInstead of packaging tons of providers and features into one gateway, Respan provides a small core and public interfaces that teams ca",
+    "Metadata": {
+      "score": "31",
+      "author": "Andydy25",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-10-20T21:04:17.3805401+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50164991"
+    },
+    "Type": 1,
+    "Title": "Hazel (YC W24) Is Hiring",
+    "Url": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
+    "Description": "Hazel (YC W24) Is Hiring",
+    "Metadata": {
+      "score": "1",
+      "author": "augustschen",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-20T21:04:17.408947+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50152886"
+    },
+    "Type": 1,
+    "Title": "Meta\u0027s GB{2,3}00 Cluster",
+    "Url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+    "Description": "Meta\u0027s GB{2,3}00 Cluster",
+    "Metadata": {
+      "score": "10",
+      "author": "stokedmartin",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-20T21:04:17.4373275+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50128197"
+    },
+    "Type": 1,
+    "Title": "Archive of Our Own",
+    "Url": "https://archiveofourown.org/",
+    "Description": "Archive of Our Own",
+    "Metadata": {
+      "score": "71",
+      "author": "debo_",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-10-20T21:04:17.4671193+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50166502"
+    },
+    "Type": 1,
+    "Title": "2026 is an exciting year for the Rust compiler (and me)",
+    "Url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+    "Description": "2026 is an exciting year for the Rust compiler (and me)",
+    "Metadata": {
+      "score": "122",
+      "author": "panstromek",
+      "commentCount": "47"
+    },
+    "FetchedAt": "2026-10-20T21:04:17.4965325+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50162177"
+    },
+    "Type": 1,
+    "Title": "MicroG: Free-libre re-implementation of Google\u0027s proprietary Android user space",
+    "Url": "https://github.com/microg/GmsCore/wiki",
+    "Description": "MicroG: Free-libre re-implementation of Google\u0027s proprietary Android user space",
+    "Metadata": {
+      "score": "351",
+      "author": "theanonymousone",
+      "commentCount": "74"
+    },
+    "FetchedAt": "2026-10-20T21:04:17.5259417+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50131997"
+    },
+    "Type": 1,
+    "Title": "Triplet of \u0027ghostly\u0027 galaxies hints at what dark matter is and isn\u0027t",
+    "Url": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
+    "Description": "Triplet of \u0027ghostly\u0027 galaxies hints at what dark matter is and isn\u0027t",
+    "Metadata": {
+      "score": "83",
+      "author": "gumby",
+      "commentCount": "52"
+    },
+    "FetchedAt": "2026-10-20T21:04:17.5546722+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50165801"
+    },
+    "Type": 1,
+    "Title": "Publish fake stats, get cited in LLMs",
+    "Url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+    "Description": "Publish fake stats, get cited in LLMs",
+    "Metadata": {
+      "score": "292",
+      "author": "robtherobber",
+      "commentCount": "164"
+    },
+    "FetchedAt": "2026-10-20T21:04:17.5843632+00:00"
   }
 ]
