@@ -17,74 +17,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:Comfy-Org/ComfyUI"
-    },
-    "Type": 0,
-    "Title": "Comfy-Org/ComfyUI",
-    "Url": "https://github.com/Comfy-Org/ComfyUI",
-    "Description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-    "Metadata": {
-      "owner": "Comfy-Org",
-      "repo": "ComfyUI",
-      "language": "Python",
-      "stars": "1,011",
-      "topics": "ai, comfy, comfyui, python, pytorch, stable-diffusion"
-    },
-    "FetchedAt": "2026-10-20T02:50:16.7657614+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:ruvnet/ruflo"
-    },
-    "Type": 0,
-    "Title": "ruvnet/ruflo",
-    "Url": "https://github.com/ruvnet/ruflo",
-    "Description": "\uD83C\uDF0A The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-    "Metadata": {
-      "owner": "ruvnet",
-      "repo": "ruflo",
-      "language": "TypeScript",
-      "stars": "564",
-      "topics": "agentic-ai, agentic-framework, agentic-workflow, agents, ai-agents, ai-assistant, ai-skills, autonomous-agents, claude, codex, dsh-plugin, harness, mcp-server, multi-agent, multi-agent-systems, npm, skills, swarm, swarm-intelligence, typescript"
-    },
-    "FetchedAt": "2026-10-20T02:50:16.9414573+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:stablyai/orca"
-    },
-    "Type": 0,
-    "Title": "stablyai/orca",
-    "Url": "https://github.com/stablyai/orca",
-    "Description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-    "Metadata": {
-      "owner": "stablyai",
-      "repo": "orca",
-      "language": "TypeScript",
-      "stars": "1,590",
-      "topics": "ade, agent-ide, ai-agents, automation, bot, claude-code, codex, ghostty, grok-bot, hermes-agent, mobile-app, muse, openclaw, opencode, orchestration, pi, runtime, terminal, worktrees, yc-backed"
-    },
-    "FetchedAt": "2026-10-20T02:50:17.0905204+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:headroomlabs-ai/headroom"
-    },
-    "Type": 0,
-    "Title": "headroomlabs-ai/headroom",
-    "Url": "https://github.com/headroomlabs-ai/headroom",
-    "Description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-    "Metadata": {
-      "owner": "headroomlabs-ai",
-      "repo": "headroom",
-      "language": "Python",
-      "stars": "310",
-      "topics": "agent, ai, anthropic, claude-code, compression, context-engineering, context-window, cursor, fastapi, langchain, llm, mcp, openai, prompt-engineering, proxy, python, rag, token-optimization, tokens, typescript"
-    },
-    "FetchedAt": "2026-10-20T02:50:17.2545288+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:withmarbleapp/os-taxonomy"
     },
     "Type": 0,
@@ -149,6 +81,140 @@
   },
   {
     "ExternalId": {
+      "Value": "github:cloudflare/security-audit-skill"
+    },
+    "Type": 0,
+    "Title": "cloudflare/security-audit-skill",
+    "Url": "https://github.com/cloudflare/security-audit-skill",
+    "Description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "Metadata": {
+      "owner": "cloudflare",
+      "repo": "security-audit-skill",
+      "language": "JavaScript",
+      "stars": "849"
+    },
+    "FetchedAt": "2026-10-20T10:44:09.5704731+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:stablyai/orca"
+    },
+    "Type": 0,
+    "Title": "stablyai/orca",
+    "Url": "https://github.com/stablyai/orca",
+    "Description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "Metadata": {
+      "owner": "stablyai",
+      "repo": "orca",
+      "language": "TypeScript",
+      "stars": "1,590",
+      "topics": "ade, agent-ide, ai-agents, automation, bot, claude-code, codex, ghostty, grok-bot, hermes-agent, mobile-app, muse, openclaw, opencode, orchestration, pi, runtime, terminal, worktrees, yc-backed"
+    },
+    "FetchedAt": "2026-10-20T10:44:09.7491631+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Comfy-Org/ComfyUI"
+    },
+    "Type": 0,
+    "Title": "Comfy-Org/ComfyUI",
+    "Url": "https://github.com/Comfy-Org/ComfyUI",
+    "Description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+    "Metadata": {
+      "owner": "Comfy-Org",
+      "repo": "ComfyUI",
+      "language": "Python",
+      "stars": "1,011",
+      "topics": "ai, comfy, comfyui, python, pytorch, stable-diffusion"
+    },
+    "FetchedAt": "2026-10-20T10:44:09.8866445+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ruvnet/ruflo"
+    },
+    "Type": 0,
+    "Title": "ruvnet/ruflo",
+    "Url": "https://github.com/ruvnet/ruflo",
+    "Description": "\uD83C\uDF0A The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "Metadata": {
+      "owner": "ruvnet",
+      "repo": "ruflo",
+      "language": "TypeScript",
+      "stars": "564",
+      "topics": "agentic-ai, agentic-framework, agentic-workflow, agents, ai-agents, ai-assistant, ai-skills, autonomous-agents, claude, codex, dsh-plugin, harness, mcp-server, multi-agent, multi-agent-systems, npm, skills, swarm, swarm-intelligence, typescript"
+    },
+    "FetchedAt": "2026-10-20T10:44:10.0359591+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Graphify-Labs/graphify"
+    },
+    "Type": 0,
+    "Title": "Graphify-Labs/graphify",
+    "Url": "https://github.com/Graphify-Labs/graphify",
+    "Description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+    "Metadata": {
+      "owner": "Graphify-Labs",
+      "repo": "graphify",
+      "language": "Python",
+      "stars": "751",
+      "topics": "ai-agents, antigravity, ast, claude-code, code-analysis, code-search, codex, cursor, developer-tools, gemini, graphify, graphrag, knowledge-graph, leiden, llm, mcp, openclaw, rag, skills, tree-sitter"
+    },
+    "FetchedAt": "2026-10-20T10:44:10.1480434+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:YuJunZhiXue/dsh-purge"
+    },
+    "Type": 0,
+    "Title": "YuJunZhiXue/dsh-purge",
+    "Url": "https://github.com/YuJunZhiXue/dsh-purge",
+    "Description": "DeepSeek Harness \u7834\u7532\uFF1A\u8BA9\u6240\u6709\u6A21\u578B\u90FD\u80FD\u7834\u7532\uFF0C\u4E0D\u540C\u6A21\u578B\u53EF\u6362\u4E0D\u540C\u63D0\u793A\u8BCD\uFF1B\u9ED8\u8BA4\u63D0\u793A\u8BCD\u9762\u5411\u56FD\u6A21\u300C\u5C0F\u7801\u9171\u300D\u3002Jailbreak for every model \u2014 swap prompts per model. \u6C42 Star \u6536\u85CF \u2B50 \u5982\u8981\u4E8C\u5F00\uFF0C\u8BF7\u67E5\u770B\u7F72\u540D\u8981\u6C42\u90E8\u5206",
+    "Metadata": {
+      "owner": "YuJunZhiXue",
+      "repo": "dsh-purge",
+      "language": "JavaScript",
+      "stars": "1,168",
+      "topics": "deepseek, deepseek-harness, dsh-plugin, dsh-plugins, harness-jailbreak, jailbreak, llm-jailbreak"
+    },
+    "FetchedAt": "2026-10-20T10:44:10.3079157+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:headroomlabs-ai/headroom"
+    },
+    "Type": 0,
+    "Title": "headroomlabs-ai/headroom",
+    "Url": "https://github.com/headroomlabs-ai/headroom",
+    "Description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+    "Metadata": {
+      "owner": "headroomlabs-ai",
+      "repo": "headroom",
+      "language": "Python",
+      "stars": "310",
+      "topics": "agent, ai, anthropic, claude-code, compression, context-engineering, context-window, cursor, fastapi, langchain, llm, mcp, openai, prompt-engineering, proxy, python, rag, token-optimization, tokens, typescript"
+    },
+    "FetchedAt": "2026-10-20T10:44:10.4630481+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/knowledge-work-plugins"
+    },
+    "Type": 0,
+    "Title": "anthropics/knowledge-work-plugins",
+    "Url": "https://github.com/anthropics/knowledge-work-plugins",
+    "Description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "knowledge-work-plugins",
+      "language": "Python",
+      "stars": "262"
+    },
+    "FetchedAt": "2026-10-20T10:44:10.5903451+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:shiyu-coder/Kronos"
     },
     "Type": 0,
@@ -161,6 +227,6 @@
       "language": "Python",
       "stars": "363"
     },
-    "FetchedAt": "2026-10-20T02:50:18.0778434+00:00"
+    "FetchedAt": "2026-10-20T10:44:10.7463651+00:00"
   }
 ]
