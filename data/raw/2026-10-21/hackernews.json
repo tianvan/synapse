@@ -211,21 +211,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50177916"
-    },
-    "Type": 1,
-    "Title": "Eight Bits of Trust; eMudhra\u0027s CA keys cracked in milliseconds",
-    "Url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-    "Description": "Eight Bits of Trust; eMudhra\u0027s CA keys cracked in milliseconds",
-    "Metadata": {
-      "score": "123",
-      "author": "hkc",
-      "commentCount": "53"
-    },
-    "FetchedAt": "2026-10-21T10:55:18.7717859+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50177911"
     },
     "Type": 1,
@@ -238,21 +223,6 @@
       "commentCount": "235"
     },
     "FetchedAt": "2026-10-21T10:55:18.8030999+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50175070"
-    },
-    "Type": 1,
-    "Title": "The Future of CSS",
-    "Url": "https://www.joshwcomeau.com/css/interop-2027/",
-    "Description": "The Future of CSS",
-    "Metadata": {
-      "score": "393",
-      "author": "soheilpro",
-      "commentCount": "163"
-    },
-    "FetchedAt": "2026-10-21T10:55:18.8336478+00:00"
   },
   {
     "ExternalId": {
@@ -271,21 +241,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50178455"
-    },
-    "Type": 1,
-    "Title": "Whatever Happened to Fire Escapes",
-    "Url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
-    "Description": "Whatever Happened to Fire Escapes",
-    "Metadata": {
-      "score": "10",
-      "author": "sohkamyung",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-10-21T10:55:18.8959364+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50170593"
     },
     "Type": 1,
@@ -298,36 +253,6 @@
       "commentCount": "381"
     },
     "FetchedAt": "2026-10-21T10:55:18.9273384+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50174687"
-    },
-    "Type": 1,
-    "Title": "Muse exposes users\u0027 personal and business secrets when they share conversations",
-    "Url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-    "Description": "Muse exposes users\u0027 personal and business secrets when they share conversations",
-    "Metadata": {
-      "score": "194",
-      "author": "gumby",
-      "commentCount": "89"
-    },
-    "FetchedAt": "2026-10-21T10:55:18.9578293+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50149861"
-    },
-    "Type": 1,
-    "Title": "The Decoherence Trap",
-    "Url": "https://maevyn.codes/decoherence",
-    "Description": "The Decoherence Trap",
-    "Metadata": {
-      "score": "52",
-      "author": "cassianoleal",
-      "commentCount": "14"
-    },
-    "FetchedAt": "2026-10-21T10:55:18.988386+00:00"
   },
   {
     "ExternalId": {
@@ -358,21 +283,6 @@
       "commentCount": "172"
     },
     "FetchedAt": "2026-10-21T10:55:19.0504368+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50173487"
-    },
-    "Type": 1,
-    "Title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-    "Url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-    "Description": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-    "Metadata": {
-      "score": "211",
-      "author": "Bender",
-      "commentCount": "97"
-    },
-    "FetchedAt": "2026-10-21T10:55:19.080765+00:00"
   },
   {
     "ExternalId": {
@@ -418,21 +328,6 @@
       "commentCount": "152"
     },
     "FetchedAt": "2026-10-21T10:55:19.1741659+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50150214"
-    },
-    "Type": 1,
-    "Title": "Way to Play Super Mario 64: On Apple Vision Pro",
-    "Url": "https://www.pagetable.com/303",
-    "Description": "Way to Play Super Mario 64: On Apple Vision Pro",
-    "Metadata": {
-      "score": "13",
-      "author": "frizlab",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-10-21T10:55:19.2050025+00:00"
   },
   {
     "ExternalId": {
@@ -658,5 +553,455 @@
       "commentCount": "163"
     },
     "FetchedAt": "2026-10-21T10:55:19.6707483+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50180873"
+    },
+    "Type": 1,
+    "Title": "PHP 8.2.35",
+    "Url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+    "Description": "PHP 8.2.35",
+    "Metadata": {
+      "score": "585",
+      "author": "tuyuri",
+      "commentCount": "236"
+    },
+    "FetchedAt": "2026-10-21T16:22:50.6493849+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50182987"
+    },
+    "Type": 1,
+    "Title": "Today\u0027s PHP Security Release, and How We\u0027re Strengthening PHP Security",
+    "Url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+    "Description": "Today\u0027s PHP Security Release, and How We\u0027re Strengthening PHP Security",
+    "Metadata": {
+      "score": "47",
+      "author": "ejohnso49",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-10-21T16:22:50.6966806+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50181136"
+    },
+    "Type": 1,
+    "Title": "DuckDB 2.0.0 LTS \u0022Cinnamon Teal\u0022",
+    "Url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+    "Description": "DuckDB 2.0.0 LTS \u0022Cinnamon Teal\u0022",
+    "Metadata": {
+      "score": "172",
+      "author": "nnx",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-10-21T16:22:50.7447501+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50181114"
+    },
+    "Type": 1,
+    "Title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "Url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+    "Description": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "Metadata": {
+      "score": "97",
+      "author": "abhisek",
+      "commentCount": "43"
+    },
+    "FetchedAt": "2026-10-21T16:22:50.7921228+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50181175"
+    },
+    "Type": 1,
+    "Title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+    "Url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;patchtheplanet.org\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;patchtheplanet.org\u0026#x2F;\u003C/a\u003E",
+    "Metadata": {
+      "score": "114",
+      "author": "nr378",
+      "commentCount": "62"
+    },
+    "FetchedAt": "2026-10-21T16:22:50.8395561+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50182526"
+    },
+    "Type": 1,
+    "Title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+    "Url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+    "Description": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+    "Metadata": {
+      "score": "39",
+      "author": "surprisetalk",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-10-21T16:22:50.8879378+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50177916"
+    },
+    "Type": 1,
+    "Title": "Eight Bits of Trust; eMudhra\u0027s CA keys cracked in milliseconds",
+    "Url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+    "Description": "Eight Bits of Trust; eMudhra\u0027s CA keys cracked in milliseconds",
+    "Metadata": {
+      "score": "587",
+      "author": "hkc",
+      "commentCount": "258"
+    },
+    "FetchedAt": "2026-10-21T16:22:50.9364497+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50180836"
+    },
+    "Type": 1,
+    "Title": "PHP2Shell: AI uncovers critical RCE in PHP",
+    "Url": "https://www.wiz.io/blog/php2shell-php-rce",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.php2shell.com\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.php2shell.com\u0026#x2F;\u003C/a\u003E",
+    "Metadata": {
+      "score": "339",
+      "author": "danlark1",
+      "commentCount": "113"
+    },
+    "FetchedAt": "2026-10-21T16:22:50.9838511+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50181137"
+    },
+    "Type": 1,
+    "Title": "The No Kings Takedown Is Why You Shouldn\u0027t Rent Your Megaphone from Zuck",
+    "Url": "https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/",
+    "Description": "The No Kings Takedown Is Why You Shouldn\u0027t Rent Your Megaphone from Zuck",
+    "Metadata": {
+      "score": "316",
+      "author": "robtherobber",
+      "commentCount": "229"
+    },
+    "FetchedAt": "2026-10-21T16:22:51.0310524+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50176908"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Alter (YC S25) \u2013 Access control for multi-user agents",
+    "Url": "https://alterauth.com/",
+    "Description": "Hi HN! We\u2019re Srikar and Kevan, founders of Alter \u2013 \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;alterauth.com\u0026#x2F;\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;alterauth.com\u0026#x2F;\u003C/a\u003E. We\u2019re building access control for agents that can take actions on behalf of multiple users.\u003Cp\u003EIf you\u2019ve built an internal agent people use through Slack, you may have experienced this scenario: everyone signs in with their own account, but the agent connects to the CRM or billing system with one shared API key, so the agent can do anything that the key can",
+    "Metadata": {
+      "score": "11",
+      "author": "simfinii",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-10-21T16:22:51.0795398+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50181326"
+    },
+    "Type": 1,
+    "Title": "Cloudflare deploys protections against php2shell vulnerability",
+    "Url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+    "Description": "Cloudflare deploys protections against php2shell vulnerability",
+    "Metadata": {
+      "score": "28",
+      "author": "Maxious",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-10-21T16:22:51.1276937+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50180752"
+    },
+    "Type": 1,
+    "Title": "Using thousands of AI agents to uncover new leads in biological data",
+    "Url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+    "Description": "Using thousands of AI agents to uncover new leads in biological data",
+    "Metadata": {
+      "score": "39",
+      "author": "raahelb",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-10-21T16:22:51.1756149+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50180444"
+    },
+    "Type": 1,
+    "Title": "Most advice is right for the person giving it",
+    "Url": "https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/",
+    "Description": "Most advice is right for the person giving it",
+    "Metadata": {
+      "score": "120",
+      "author": "rohanm93",
+      "commentCount": "94"
+    },
+    "FetchedAt": "2026-10-21T16:22:51.2233654+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50175070"
+    },
+    "Type": 1,
+    "Title": "The Future of CSS",
+    "Url": "https://www.joshwcomeau.com/css/interop-2027/",
+    "Description": "The Future of CSS",
+    "Metadata": {
+      "score": "533",
+      "author": "soheilpro",
+      "commentCount": "224"
+    },
+    "FetchedAt": "2026-10-21T16:22:51.2715026+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50179455"
+    },
+    "Type": 1,
+    "Title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+    "Url": "https://9mothers.com/careers",
+    "Description": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+    "Metadata": {
+      "score": "1",
+      "author": "ukd1",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-21T16:22:51.7738466+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50155751"
+    },
+    "Type": 1,
+    "Title": "C\u002B\u002B futures part 1: The mental model",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/",
+    "Description": "C\u002B\u002B futures part 1: The mental model",
+    "Metadata": {
+      "score": "30",
+      "author": "ibobev",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-10-21T16:22:52.053774+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50179706"
+    },
+    "Type": 1,
+    "Title": "Qwen3-Coder writes less secure code when told it\u0027s for a US persona",
+    "Url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
+    "Description": "Qwen3-Coder writes less secure code when told it\u0027s for a US persona",
+    "Metadata": {
+      "score": "220",
+      "author": "mattifrank",
+      "commentCount": "108"
+    },
+    "FetchedAt": "2026-10-21T16:22:52.1010174+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50150214"
+    },
+    "Type": 1,
+    "Title": "Way to Play Super Mario 64: On Apple Vision Pro",
+    "Url": "https://www.pagetable.com/303",
+    "Description": "Way to Play Super Mario 64: On Apple Vision Pro",
+    "Metadata": {
+      "score": "134",
+      "author": "frizlab",
+      "commentCount": "48"
+    },
+    "FetchedAt": "2026-10-21T16:22:52.1495041+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50178455"
+    },
+    "Type": 1,
+    "Title": "Whatever Happened to Fire Escapes",
+    "Url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+    "Description": "Whatever Happened to Fire Escapes",
+    "Metadata": {
+      "score": "143",
+      "author": "sohkamyung",
+      "commentCount": "99"
+    },
+    "FetchedAt": "2026-10-21T16:22:52.4234517+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50179857"
+    },
+    "Type": 1,
+    "Title": "LayerFS: The filesystem for AI coding agents",
+    "Url": "https://layerfs.ai/",
+    "Description": "LayerFS: The filesystem for AI coding agents",
+    "Metadata": {
+      "score": "54",
+      "author": "l2dy",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-10-21T16:22:52.4707898+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50162044"
+    },
+    "Type": 1,
+    "Title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+    "Url": "https://www.bbc.com/news/articles/cp814l80pw2o",
+    "Description": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+    "Metadata": {
+      "score": "6",
+      "author": "bryanrasmussen",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-21T16:22:52.5181436+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50180039"
+    },
+    "Type": 1,
+    "Title": "Show HN: Sumi.css \u2013 CSS Framework",
+    "Url": "https://github.com/vladocar/Sumi.css",
+    "Description": "Show HN: Sumi.css \u2013 CSS Framework",
+    "Metadata": {
+      "score": "27",
+      "author": "bepero",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-10-21T16:22:52.5652937+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50174687"
+    },
+    "Type": 1,
+    "Title": "Muse exposes users\u0027 personal and business secrets when they share conversations",
+    "Url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+    "Description": "Muse exposes users\u0027 personal and business secrets when they share conversations",
+    "Metadata": {
+      "score": "307",
+      "author": "gumby",
+      "commentCount": "144"
+    },
+    "FetchedAt": "2026-10-21T16:22:52.6129583+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50182130"
+    },
+    "Type": 1,
+    "Title": "Delays for Pull Requests and Webhook deliveries",
+    "Url": "https://www.githubstatus.com/incidents/nms1dpzmh9d9",
+    "Description": "Delays for Pull Requests and Webhook deliveries",
+    "Metadata": {
+      "score": "45",
+      "author": "bearsyankees",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-10-21T16:22:52.6601728+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50149861"
+    },
+    "Type": 1,
+    "Title": "The Decoherence Trap",
+    "Url": "https://maevyn.codes/decoherence",
+    "Description": "The Decoherence Trap",
+    "Metadata": {
+      "score": "128",
+      "author": "cassianoleal",
+      "commentCount": "55"
+    },
+    "FetchedAt": "2026-10-21T16:22:52.7074857+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50151175"
+    },
+    "Type": 1,
+    "Title": "The Lucrative World of Literary Scams",
+    "Url": "https://www.thedial.world/articles/news/ai-book-scams",
+    "Description": "The Lucrative World of Literary Scams",
+    "Metadata": {
+      "score": "46",
+      "author": "samclemens",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-10-21T16:22:52.7564694+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50173956"
+    },
+    "Type": 1,
+    "Title": "Cities Across the World Sinking from Groundwater Depletion: It Can Be Reversed",
+    "Url": "https://cleantechnica.com/2026/10/20/cities-across-the-world-are-sinking-because-of-groundwater-depletion-but-the-process-can-be-reversed/",
+    "Description": "Cities Across the World Sinking from Groundwater Depletion: It Can Be Reversed",
+    "Metadata": {
+      "score": "5",
+      "author": "gumby",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-21T16:22:52.8038953+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50172660"
+    },
+    "Type": 1,
+    "Title": "The phenomena that brighten dawn and dusk (2016)",
+    "Url": "https://www.colorado.edu/asmagazine-archive/node/2039",
+    "Description": "The phenomena that brighten dawn and dusk (2016)",
+    "Metadata": {
+      "score": "3",
+      "author": "NaOH",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-21T16:22:52.8509715+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50179828"
+    },
+    "Type": 1,
+    "Title": "Dutch National Cyber Security Center is Offline because it uses PHP",
+    "Url": "https://www.ncsc.nl/actueel",
+    "Description": "Dutch National Cyber Security Center is Offline because it uses PHP",
+    "Metadata": {
+      "score": "238",
+      "author": "jacquesm",
+      "commentCount": "80"
+    },
+    "FetchedAt": "2026-10-21T16:22:52.8983695+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50173487"
+    },
+    "Type": 1,
+    "Title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+    "Url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+    "Description": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+    "Metadata": {
+      "score": "254",
+      "author": "Bender",
+      "commentCount": "126"
+    },
+    "FetchedAt": "2026-10-21T16:22:52.9465949+00:00"
   }
 ]
