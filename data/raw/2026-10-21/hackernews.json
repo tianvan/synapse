@@ -556,111 +556,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50180873"
-    },
-    "Type": 1,
-    "Title": "PHP 8.2.35",
-    "Url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-    "Description": "PHP 8.2.35",
-    "Metadata": {
-      "score": "585",
-      "author": "tuyuri",
-      "commentCount": "236"
-    },
-    "FetchedAt": "2026-10-21T16:22:50.6493849+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50182987"
-    },
-    "Type": 1,
-    "Title": "Today\u0027s PHP Security Release, and How We\u0027re Strengthening PHP Security",
-    "Url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-    "Description": "Today\u0027s PHP Security Release, and How We\u0027re Strengthening PHP Security",
-    "Metadata": {
-      "score": "47",
-      "author": "ejohnso49",
-      "commentCount": "8"
-    },
-    "FetchedAt": "2026-10-21T16:22:50.6966806+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50181136"
-    },
-    "Type": 1,
-    "Title": "DuckDB 2.0.0 LTS \u0022Cinnamon Teal\u0022",
-    "Url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-    "Description": "DuckDB 2.0.0 LTS \u0022Cinnamon Teal\u0022",
-    "Metadata": {
-      "score": "172",
-      "author": "nnx",
-      "commentCount": "16"
-    },
-    "FetchedAt": "2026-10-21T16:22:50.7447501+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50181114"
-    },
-    "Type": 1,
-    "Title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-    "Url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-    "Description": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-    "Metadata": {
-      "score": "97",
-      "author": "abhisek",
-      "commentCount": "43"
-    },
-    "FetchedAt": "2026-10-21T16:22:50.7921228+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50181175"
-    },
-    "Type": 1,
-    "Title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-    "Url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;patchtheplanet.org\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;patchtheplanet.org\u0026#x2F;\u003C/a\u003E",
-    "Metadata": {
-      "score": "114",
-      "author": "nr378",
-      "commentCount": "62"
-    },
-    "FetchedAt": "2026-10-21T16:22:50.8395561+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50182526"
-    },
-    "Type": 1,
-    "Title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
-    "Url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
-    "Description": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
-    "Metadata": {
-      "score": "39",
-      "author": "surprisetalk",
-      "commentCount": "20"
-    },
-    "FetchedAt": "2026-10-21T16:22:50.8879378+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50177916"
-    },
-    "Type": 1,
-    "Title": "Eight Bits of Trust; eMudhra\u0027s CA keys cracked in milliseconds",
-    "Url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-    "Description": "Eight Bits of Trust; eMudhra\u0027s CA keys cracked in milliseconds",
-    "Metadata": {
-      "score": "587",
-      "author": "hkc",
-      "commentCount": "258"
-    },
-    "FetchedAt": "2026-10-21T16:22:50.9364497+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50180836"
     },
     "Type": 1,
@@ -721,21 +616,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50180752"
-    },
-    "Type": 1,
-    "Title": "Using thousands of AI agents to uncover new leads in biological data",
-    "Url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-    "Description": "Using thousands of AI agents to uncover new leads in biological data",
-    "Metadata": {
-      "score": "39",
-      "author": "raahelb",
-      "commentCount": "10"
-    },
-    "FetchedAt": "2026-10-21T16:22:51.1756149+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50180444"
     },
     "Type": 1,
@@ -763,21 +643,6 @@
       "commentCount": "224"
     },
     "FetchedAt": "2026-10-21T16:22:51.2715026+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50179455"
-    },
-    "Type": 1,
-    "Title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
-    "Url": "https://9mothers.com/careers",
-    "Description": "9 Mothers (YC P26) Is Hiring in Austin, TX",
-    "Metadata": {
-      "score": "1",
-      "author": "ukd1",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-10-21T16:22:51.7738466+00:00"
   },
   {
     "ExternalId": {
@@ -811,21 +676,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50150214"
-    },
-    "Type": 1,
-    "Title": "Way to Play Super Mario 64: On Apple Vision Pro",
-    "Url": "https://www.pagetable.com/303",
-    "Description": "Way to Play Super Mario 64: On Apple Vision Pro",
-    "Metadata": {
-      "score": "134",
-      "author": "frizlab",
-      "commentCount": "48"
-    },
-    "FetchedAt": "2026-10-21T16:22:52.1495041+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50178455"
     },
     "Type": 1,
@@ -853,21 +703,6 @@
       "commentCount": "28"
     },
     "FetchedAt": "2026-10-21T16:22:52.4707898+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50162044"
-    },
-    "Type": 1,
-    "Title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
-    "Url": "https://www.bbc.com/news/articles/cp814l80pw2o",
-    "Description": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
-    "Metadata": {
-      "score": "6",
-      "author": "bryanrasmussen",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-10-21T16:22:52.5181436+00:00"
   },
   {
     "ExternalId": {
@@ -1003,5 +838,455 @@
       "commentCount": "126"
     },
     "FetchedAt": "2026-10-21T16:22:52.9465949+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50186129"
+    },
+    "Type": 1,
+    "Title": "Mistral Large 4",
+    "Url": "https://docs.mistral.ai/models/mistral-large-4-0",
+    "Description": "Mistral Large 4",
+    "Metadata": {
+      "score": "264",
+      "author": "funnym0nk3y",
+      "commentCount": "66"
+    },
+    "FetchedAt": "2026-10-21T21:04:38.4837684+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50186215"
+    },
+    "Type": 1,
+    "Title": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
+    "Url": "https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/",
+    "Description": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
+    "Metadata": {
+      "score": "103",
+      "author": "DeepLogin",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-10-21T21:04:38.5286862+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50182987"
+    },
+    "Type": 1,
+    "Title": "Today\u0027s PHP security release, and how we\u0027re strengthening security",
+    "Url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+    "Description": "Related ongoing thread: \u003Ci\u003EPHP 8.2.35\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50180873\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50180873\u003C/a\u003E\u003Cp\u003E(links to more at \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50184935\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50184935\u003C/a\u003E)",
+    "Metadata": {
+      "score": "487",
+      "author": "ejohnso49",
+      "commentCount": "224"
+    },
+    "FetchedAt": "2026-10-21T21:04:38.5719816+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50185869"
+    },
+    "Type": 1,
+    "Title": "GitLab Remote Code Execution - Integer Overflow issue",
+    "Url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+    "Description": "GitLab Remote Code Execution - Integer Overflow issue",
+    "Metadata": {
+      "score": "94",
+      "author": "artooro",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-10-21T21:04:38.6152479+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50159726"
+    },
+    "Type": 1,
+    "Title": "Why Windows 11 still ships with Windows 95\u0027s memory manager hidden inside it",
+    "Url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+    "Description": "Why Windows 11 still ships with Windows 95\u0027s memory manager hidden inside it",
+    "Metadata": {
+      "score": "70",
+      "author": "khalidkhair",
+      "commentCount": "40"
+    },
+    "FetchedAt": "2026-10-21T21:04:38.6586658+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50181114"
+    },
+    "Type": 1,
+    "Title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "Url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+    "Description": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "Metadata": {
+      "score": "336",
+      "author": "abhisek",
+      "commentCount": "115"
+    },
+    "FetchedAt": "2026-10-21T21:04:38.7032239+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50186518"
+    },
+    "Type": 1,
+    "Title": "After automation: Solo founding will be the default",
+    "Url": "https://every.to/thesis-statements/julian-weisser",
+    "Description": "After automation: Solo founding will be the default",
+    "Metadata": {
+      "score": "27",
+      "author": "rmason",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-10-21T21:04:38.7471535+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50177916"
+    },
+    "Type": 1,
+    "Title": "Eight Bits of Trust: eMudhra\u0027s CA keys cracked in milliseconds",
+    "Url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+    "Description": "Eight Bits of Trust: eMudhra\u0027s CA keys cracked in milliseconds",
+    "Metadata": {
+      "score": "758",
+      "author": "hkc",
+      "commentCount": "370"
+    },
+    "FetchedAt": "2026-10-21T21:04:38.7917468+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50181136"
+    },
+    "Type": 1,
+    "Title": "DuckDB 2.0.0 LTS \u201CCinnamon Teal\u201D",
+    "Url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+    "Description": "DuckDB 2.0.0 LTS \u201CCinnamon Teal\u201D",
+    "Metadata": {
+      "score": "320",
+      "author": "nnx",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-10-21T21:04:38.8466218+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50184586"
+    },
+    "Type": 1,
+    "Title": "EA is shutting down BioWare",
+    "Url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+    "Description": "EA is shutting down BioWare",
+    "Metadata": {
+      "score": "360",
+      "author": "aaronbrethorst",
+      "commentCount": "224"
+    },
+    "FetchedAt": "2026-10-21T21:04:38.890284+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50186010"
+    },
+    "Type": 1,
+    "Title": "Google\u0027s Rust Style Guide",
+    "Url": "https://google.github.io/styleguide/rustguide.html",
+    "Description": "Google\u0027s Rust Style Guide",
+    "Metadata": {
+      "score": "86",
+      "author": "kaycebasques",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-10-21T21:04:38.9335608+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50162044"
+    },
+    "Type": 1,
+    "Title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+    "Url": "https://www.bbc.com/news/articles/cp814l80pw2o",
+    "Description": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+    "Metadata": {
+      "score": "115",
+      "author": "bryanrasmussen",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-10-21T21:04:38.9772039+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50181175"
+    },
+    "Type": 1,
+    "Title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+    "Url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;patchtheplanet.org\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;patchtheplanet.org\u0026#x2F;\u003C/a\u003E",
+    "Metadata": {
+      "score": "193",
+      "author": "nr378",
+      "commentCount": "129"
+    },
+    "FetchedAt": "2026-10-21T21:04:39.0224815+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50183512"
+    },
+    "Type": 1,
+    "Title": "New plastic pollution discovered: \u0027Plasticorals\u0027 coral rubble fused with plastic",
+    "Url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+    "Description": "New plastic pollution discovered: \u0027Plasticorals\u0027 coral rubble fused with plastic",
+    "Metadata": {
+      "score": "72",
+      "author": "giuliomagnifico",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-10-21T21:04:39.0660664+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50186037"
+    },
+    "Type": 1,
+    "Title": "Claude Duet",
+    "Url": "https://claude.com/product/claude-duet",
+    "Description": "Claude Duet",
+    "Metadata": {
+      "score": "158",
+      "author": "kuberwastaken",
+      "commentCount": "142"
+    },
+    "FetchedAt": "2026-10-21T21:04:39.1285771+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50180873"
+    },
+    "Type": 1,
+    "Title": "PHP 8.2.35",
+    "Url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+    "Description": "Related ongoing thread: \u003Ci\u003EToday\u0026#x27;s PHP security release, and how we\u0026#x27;re strengthening security\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50182987\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50182987\u003C/a\u003E",
+    "Metadata": {
+      "score": "911",
+      "author": "tuyuri",
+      "commentCount": "508"
+    },
+    "FetchedAt": "2026-10-21T21:04:39.1960278+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50182526"
+    },
+    "Type": 1,
+    "Title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+    "Url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+    "Description": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+    "Metadata": {
+      "score": "143",
+      "author": "surprisetalk",
+      "commentCount": "77"
+    },
+    "FetchedAt": "2026-10-21T21:04:39.2397361+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50180079"
+    },
+    "Type": 1,
+    "Title": "OpenAI models are coming to Google Cloud",
+    "Url": "https://openai.com/index/openai-models-google-cloud/",
+    "Description": "OpenAI models are coming to Google Cloud",
+    "Metadata": {
+      "score": "175",
+      "author": "armcat",
+      "commentCount": "78"
+    },
+    "FetchedAt": "2026-10-21T21:04:39.2842804+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50166706"
+    },
+    "Type": 1,
+    "Title": "A Place Among the Fiddlers",
+    "Url": "https://longreads.com/2026/10/01/galax-old-fiddlers-convention-music/",
+    "Description": "A Place Among the Fiddlers",
+    "Metadata": {
+      "score": "10",
+      "author": "gmays",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-21T21:04:39.3282971+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50185814"
+    },
+    "Type": 1,
+    "Title": "Potential third critical PHP CVE",
+    "Url": "https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027",
+    "Description": "Potential third critical PHP CVE",
+    "Metadata": {
+      "score": "32",
+      "author": "mpaepper",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-10-21T21:04:39.3719074+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50185630"
+    },
+    "Type": 1,
+    "Title": "Canary Tokens",
+    "Url": "https://canarytokens.org/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;docs.canarytokens.org\u0026#x2F;guide\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;docs.canarytokens.org\u0026#x2F;guide\u0026#x2F;\u003C/a\u003E",
+    "Metadata": {
+      "score": "66",
+      "author": "wiradikusuma",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-10-21T21:04:39.4158109+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50184820"
+    },
+    "Type": 1,
+    "Title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+    "Url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+    "Description": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+    "Metadata": {
+      "score": "168",
+      "author": "cbg0",
+      "commentCount": "54"
+    },
+    "FetchedAt": "2026-10-21T21:04:39.4590581+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50180752"
+    },
+    "Type": 1,
+    "Title": "Using thousands of AI agents to uncover new leads in biological data",
+    "Url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+    "Description": "Using thousands of AI agents to uncover new leads in biological data",
+    "Metadata": {
+      "score": "110",
+      "author": "raahelb",
+      "commentCount": "55"
+    },
+    "FetchedAt": "2026-10-21T21:04:39.5031449+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50179455"
+    },
+    "Type": 1,
+    "Title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+    "Url": "https://9mothers.com/careers",
+    "Description": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+    "Metadata": {
+      "score": "1",
+      "author": "ukd1",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-21T21:04:39.5497157+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50158408"
+    },
+    "Type": 1,
+    "Title": "Drupal is now light-years ahead of its reputation",
+    "Url": "https://dri.es/state-of-drupal-presentation-september-2026",
+    "Description": "Drupal is now light-years ahead of its reputation",
+    "Metadata": {
+      "score": "96",
+      "author": "scottfalconer",
+      "commentCount": "103"
+    },
+    "FetchedAt": "2026-10-21T21:04:39.592963+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50183344"
+    },
+    "Type": 1,
+    "Title": "The bridge to agent-scale Git infrastructure",
+    "Url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+    "Description": "The bridge to agent-scale Git infrastructure",
+    "Metadata": {
+      "score": "39",
+      "author": "Klaster_1",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-10-21T21:04:39.6370455+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50183280"
+    },
+    "Type": 1,
+    "Title": "Your MCU likely escaped the eMudhra intermediate CA compromise",
+    "Url": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
+    "Description": "Your MCU likely escaped the eMudhra intermediate CA compromise",
+    "Metadata": {
+      "score": "46",
+      "author": "hasheddan",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-10-21T21:04:39.6813606+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50182960"
+    },
+    "Type": 1,
+    "Title": "Show HN: I told people I\u0027m a convicted felon after 20 years of hiding it",
+    "Url": "https://buford.bg/",
+    "Description": "Hi there.\u003Cp\u003EI was engineer number 3 at Eventbrite and founding engineer at Reforge. I\u0026#x27;ve created a dozen or so startups myself and have worked in many others, like Instacart. All this time, no one knew that I was a convicted felon.\u003Cp\u003EIt wasn\u0026#x27;t exactly a topic that came up, but it was certainly something that I never brought up. When you\u0026#x27;re a convicted felon, people look at you as if you are tainted.\u003Cp\u003EI was unable to rent apartments in San Francisco. I was unable to get a job dire",
+    "Metadata": {
+      "score": "60",
+      "author": "buf",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-10-21T21:04:39.7249143+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50186455"
+    },
+    "Type": 1,
+    "Title": "Claude Duet",
+    "Url": "https://claude.com/resources/articles/claude-duet",
+    "Description": "Claude Duet",
+    "Metadata": {
+      "score": "18",
+      "author": "zaevlad",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-10-21T21:04:39.7682881+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50150214"
+    },
+    "Type": 1,
+    "Title": "Way to Play Super Mario 64: On Apple Vision Pro",
+    "Url": "https://www.pagetable.com/303",
+    "Description": "Way to Play Super Mario 64: On Apple Vision Pro",
+    "Metadata": {
+      "score": "187",
+      "author": "frizlab",
+      "commentCount": "79"
+    },
+    "FetchedAt": "2026-10-21T21:04:39.8116491+00:00"
   }
 ]
