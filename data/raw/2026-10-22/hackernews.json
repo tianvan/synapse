@@ -1,51 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:50189232"
-    },
-    "Type": 1,
-    "Title": "mitmproxy adds --emudhra option",
-    "Url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-    "Description": "mitmproxy adds --emudhra option",
-    "Metadata": {
-      "score": "240",
-      "author": "ahlCVA",
-      "commentCount": "64"
-    },
-    "FetchedAt": "2026-10-22T02:42:21.0369423+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50188948"
-    },
-    "Type": 1,
-    "Title": "There isn\u0027t an easy exploit for this PHP vulnerability",
-    "Url": "https://eliastaylor.com/noexploit/",
-    "Description": "There isn\u0027t an easy exploit for this PHP vulnerability",
-    "Metadata": {
-      "score": "197",
-      "author": "zkldi",
-      "commentCount": "89"
-    },
-    "FetchedAt": "2026-10-22T02:42:21.0852812+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50188228"
-    },
-    "Type": 1,
-    "Title": "Security Disclosure",
-    "Url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-    "Description": "Security Disclosure",
-    "Metadata": {
-      "score": "330",
-      "author": "passenger",
-      "commentCount": "173"
-    },
-    "FetchedAt": "2026-10-22T02:42:21.1374039+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50190334"
     },
     "Type": 1,
@@ -58,51 +13,6 @@
       "commentCount": "1"
     },
     "FetchedAt": "2026-10-22T02:42:21.2252558+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50185869"
-    },
-    "Type": 1,
-    "Title": "GitLab Critical Patch Release",
-    "Url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-    "Description": "GitLab Critical Patch Release",
-    "Metadata": {
-      "score": "258",
-      "author": "artooro",
-      "commentCount": "64"
-    },
-    "FetchedAt": "2026-10-22T02:42:21.2792791+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50186010"
-    },
-    "Type": 1,
-    "Title": "Rust Style Guide",
-    "Url": "https://google.github.io/styleguide/rustguide.html",
-    "Description": "Rust Style Guide",
-    "Metadata": {
-      "score": "222",
-      "author": "kaycebasques",
-      "commentCount": "121"
-    },
-    "FetchedAt": "2026-10-22T02:42:21.326701+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50181114"
-    },
-    "Type": 1,
-    "Title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-    "Url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-    "Description": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-    "Metadata": {
-      "score": "447",
-      "author": "abhisek",
-      "commentCount": "151"
-    },
-    "FetchedAt": "2026-10-22T02:42:21.3739409+00:00"
   },
   {
     "ExternalId": {
@@ -121,96 +31,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50161346"
-    },
-    "Type": 1,
-    "Title": "No more icons in every menu by default",
-    "Url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
-    "Description": "No more icons in every menu by default",
-    "Metadata": {
-      "score": "198",
-      "author": "riffraff",
-      "commentCount": "134"
-    },
-    "FetchedAt": "2026-10-22T02:42:21.4688288+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50190455"
-    },
-    "Type": 1,
-    "Title": "The recently proposed O(n log n) integer multiplication algorithm [pdf]",
-    "Url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-    "Description": "The recently proposed O(n log n) integer multiplication algorithm [pdf]",
-    "Metadata": {
-      "score": "3",
-      "author": "craigcitro",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-10-22T02:42:21.5162776+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50154100"
-    },
-    "Type": 1,
-    "Title": "Chain of Thought for Humans",
-    "Url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
-    "Description": "Chain of Thought for Humans",
-    "Metadata": {
-      "score": "38",
-      "author": "ibobev",
-      "commentCount": "16"
-    },
-    "FetchedAt": "2026-10-22T02:42:21.5635079+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50184820"
-    },
-    "Type": 1,
-    "Title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-    "Url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;nmdoj.gov\u0026#x2F;press-release\u0026#x2F;the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;nmdoj.gov\u0026#x2F;press-release\u0026#x2F;the-new-mexico-department-of...\u003C/a\u003E",
-    "Metadata": {
-      "score": "401",
-      "author": "cbg0",
-      "commentCount": "254"
-    },
-    "FetchedAt": "2026-10-22T02:42:21.6097309+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50182987"
-    },
-    "Type": 1,
-    "Title": "Today\u0027s PHP security release, and how we\u0027re strengthening security",
-    "Url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-    "Description": "Related ongoing thread: \u003Ci\u003EPHP 8.2.35\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50180873\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50180873\u003C/a\u003E\u003Cp\u003E(links to more at \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50184935\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50184935\u003C/a\u003E)",
-    "Metadata": {
-      "score": "689",
-      "author": "ejohnso49",
-      "commentCount": "339"
-    },
-    "FetchedAt": "2026-10-22T02:42:21.6564946+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50162044"
-    },
-    "Type": 1,
-    "Title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
-    "Url": "https://www.bbc.com/news/articles/cp814l80pw2o",
-    "Description": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
-    "Metadata": {
-      "score": "162",
-      "author": "bryanrasmussen",
-      "commentCount": "25"
-    },
-    "FetchedAt": "2026-10-22T02:42:21.7040029+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50180799"
     },
     "Type": 1,
@@ -226,66 +46,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50153531"
-    },
-    "Type": 1,
-    "Title": "Code is clay now",
-    "Url": "https://www.albertodenia.com/writing/code-is-clay-now",
-    "Description": "Code is clay now",
-    "Metadata": {
-      "score": "101",
-      "author": "albertodenia",
-      "commentCount": "54"
-    },
-    "FetchedAt": "2026-10-22T02:42:21.8115172+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50173716"
-    },
-    "Type": 1,
-    "Title": "PingCap TiDB Leaks",
-    "Url": "https://fulcrumsec.vg/pingcap/",
-    "Description": "PingCap TiDB Leaks",
-    "Metadata": {
-      "score": "224",
-      "author": "swyx",
-      "commentCount": "32"
-    },
-    "FetchedAt": "2026-10-22T02:42:21.8584049+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50180079"
-    },
-    "Type": 1,
-    "Title": "OpenAI models are coming to Google Cloud",
-    "Url": "https://openai.com/index/openai-models-google-cloud/",
-    "Description": "OpenAI models are coming to Google Cloud",
-    "Metadata": {
-      "score": "245",
-      "author": "armcat",
-      "commentCount": "107"
-    },
-    "FetchedAt": "2026-10-22T02:42:21.9054099+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50166590"
-    },
-    "Type": 1,
-    "Title": "Beyond the \u0026",
-    "Url": "https://lwn.net/Articles/1096028/",
-    "Description": "Beyond the \u0026",
-    "Metadata": {
-      "score": "12",
-      "author": "PaulHoule",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-10-22T02:42:21.9522911+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50181175"
     },
     "Type": 1,
@@ -298,21 +58,6 @@
       "commentCount": "162"
     },
     "FetchedAt": "2026-10-22T02:42:21.9987052+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50181136"
-    },
-    "Type": 1,
-    "Title": "DuckDB 2.0.0 LTS \u201CCinnamon Teal\u201D",
-    "Url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-    "Description": "DuckDB 2.0.0 LTS \u201CCinnamon Teal\u201D",
-    "Metadata": {
-      "score": "373",
-      "author": "nnx",
-      "commentCount": "49"
-    },
-    "FetchedAt": "2026-10-22T02:42:22.0454703+00:00"
   },
   {
     "ExternalId": {
@@ -421,21 +166,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50186037"
-    },
-    "Type": 1,
-    "Title": "Claude Duet",
-    "Url": "https://claude.com/product/claude-duet",
-    "Description": "Claude Duet",
-    "Metadata": {
-      "score": "322",
-      "author": "kuberwastaken",
-      "commentCount": "280"
-    },
-    "FetchedAt": "2026-10-22T02:42:22.4177386+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50152847"
     },
     "Type": 1,
@@ -448,5 +178,455 @@
       "commentCount": "23"
     },
     "FetchedAt": "2026-10-22T02:42:22.4643779+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50192900"
+    },
+    "Type": 1,
+    "Title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+    "Url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+    "Description": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+    "Metadata": {
+      "score": "120",
+      "author": "keks24",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-10-22T10:55:27.9266941+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50193170"
+    },
+    "Type": 1,
+    "Title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+    "Url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+    "Description": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+    "Metadata": {
+      "score": "39",
+      "author": "molind",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-10-22T10:55:27.9729878+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50190363"
+    },
+    "Type": 1,
+    "Title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+    "Url": "https://simedw.com/2026/10/21/world-model-terminal/",
+    "Description": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+    "Metadata": {
+      "score": "239",
+      "author": "alphax314",
+      "commentCount": "76"
+    },
+    "FetchedAt": "2026-10-22T10:55:28.019052+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50190455"
+    },
+    "Type": 1,
+    "Title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+    "Url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+    "Description": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+    "Metadata": {
+      "score": "213",
+      "author": "craigcitro",
+      "commentCount": "144"
+    },
+    "FetchedAt": "2026-10-22T10:55:28.0641024+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50192868"
+    },
+    "Type": 1,
+    "Title": "Achieving AI-style reasoning without an LLM",
+    "Url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
+    "Description": "Achieving AI-style reasoning without an LLM",
+    "Metadata": {
+      "score": "35",
+      "author": "edwardchalk",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-10-22T10:55:28.1095055+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50188228"
+    },
+    "Type": 1,
+    "Title": "Security Disclosure",
+    "Url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+    "Description": "Security Disclosure",
+    "Metadata": {
+      "score": "477",
+      "author": "passenger",
+      "commentCount": "279"
+    },
+    "FetchedAt": "2026-10-22T10:55:28.1539483+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50186037"
+    },
+    "Type": 1,
+    "Title": "Claude Duet",
+    "Url": "https://claude.com/product/claude-duet",
+    "Description": "Claude Duet",
+    "Metadata": {
+      "score": "399",
+      "author": "kuberwastaken",
+      "commentCount": "364"
+    },
+    "FetchedAt": "2026-10-22T10:55:28.20007+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50161346"
+    },
+    "Type": 1,
+    "Title": "No more icons in every menu by default",
+    "Url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
+    "Description": "No more icons in every menu by default",
+    "Metadata": {
+      "score": "332",
+      "author": "riffraff",
+      "commentCount": "196"
+    },
+    "FetchedAt": "2026-10-22T10:55:28.2450345+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50181114"
+    },
+    "Type": 1,
+    "Title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "Url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+    "Description": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "Metadata": {
+      "score": "529",
+      "author": "abhisek",
+      "commentCount": "172"
+    },
+    "FetchedAt": "2026-10-22T10:55:28.2904743+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50186010"
+    },
+    "Type": 1,
+    "Title": "Rust Style Guide",
+    "Url": "https://google.github.io/styleguide/rustguide.html",
+    "Description": "Rust Style Guide",
+    "Metadata": {
+      "score": "317",
+      "author": "kaycebasques",
+      "commentCount": "191"
+    },
+    "FetchedAt": "2026-10-22T10:55:28.3357679+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50176082"
+    },
+    "Type": 1,
+    "Title": "Using LLM for confidence scoring is a bad idea",
+    "Url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+    "Description": "Using LLM for confidence scoring is a bad idea",
+    "Metadata": {
+      "score": "104",
+      "author": "jimauthors",
+      "commentCount": "55"
+    },
+    "FetchedAt": "2026-10-22T10:55:28.3819213+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50185869"
+    },
+    "Type": 1,
+    "Title": "GitLab critical patch release",
+    "Url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+    "Description": "GitLab critical patch release",
+    "Metadata": {
+      "score": "358",
+      "author": "artooro",
+      "commentCount": "84"
+    },
+    "FetchedAt": "2026-10-22T10:55:28.4289942+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50191507"
+    },
+    "Type": 1,
+    "Title": "OpenAI CLI",
+    "Url": "https://github.com/openai/openai-cli",
+    "Description": "OpenAI CLI",
+    "Metadata": {
+      "score": "132",
+      "author": "armcat",
+      "commentCount": "73"
+    },
+    "FetchedAt": "2026-10-22T10:55:28.4754074+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50155616"
+    },
+    "Type": 1,
+    "Title": "The Robot I Didn\u0027t Expect to Build",
+    "Url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+    "Description": "The Robot I Didn\u0027t Expect to Build",
+    "Metadata": {
+      "score": "13",
+      "author": "bojackh",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-10-22T10:55:28.5205699+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50157456"
+    },
+    "Type": 1,
+    "Title": "Startup taps underwater volcano as energy source in \u0022proof point\u0022 test",
+    "Url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+    "Description": "Startup taps underwater volcano as energy source in \u0022proof point\u0022 test",
+    "Metadata": {
+      "score": "6",
+      "author": "wffurr",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-22T10:55:28.565555+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50173716"
+    },
+    "Type": 1,
+    "Title": "PingCap TiDB Leaks",
+    "Url": "https://fulcrumsec.vg/pingcap/",
+    "Description": "PingCap TiDB Leaks",
+    "Metadata": {
+      "score": "353",
+      "author": "swyx",
+      "commentCount": "56"
+    },
+    "FetchedAt": "2026-10-22T10:55:28.6124881+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50160241"
+    },
+    "Type": 1,
+    "Title": "What Is the Karakoram Anomaly?",
+    "Url": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
+    "Description": "What Is the Karakoram Anomaly?",
+    "Metadata": {
+      "score": "37",
+      "author": "thunderbong",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-10-22T10:55:28.6589906+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50184820"
+    },
+    "Type": 1,
+    "Title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+    "Url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;nmdoj.gov\u0026#x2F;press-release\u0026#x2F;the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;nmdoj.gov\u0026#x2F;press-release\u0026#x2F;the-new-mexico-department-of...\u003C/a\u003E",
+    "Metadata": {
+      "score": "576",
+      "author": "cbg0",
+      "commentCount": "330"
+    },
+    "FetchedAt": "2026-10-22T10:55:28.7047123+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50162044"
+    },
+    "Type": 1,
+    "Title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+    "Url": "https://www.bbc.com/news/articles/cp814l80pw2o",
+    "Description": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+    "Metadata": {
+      "score": "222",
+      "author": "bryanrasmussen",
+      "commentCount": "51"
+    },
+    "FetchedAt": "2026-10-22T10:55:28.7496551+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50153531"
+    },
+    "Type": 1,
+    "Title": "Code is clay now",
+    "Url": "https://www.albertodenia.com/writing/code-is-clay-now",
+    "Description": "Code is clay now",
+    "Metadata": {
+      "score": "181",
+      "author": "albertodenia",
+      "commentCount": "115"
+    },
+    "FetchedAt": "2026-10-22T10:55:28.7954357+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50189232"
+    },
+    "Type": 1,
+    "Title": "mitmproxy adds --emudhra option",
+    "Url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+    "Description": "mitmproxy adds --emudhra option",
+    "Metadata": {
+      "score": "492",
+      "author": "ahlCVA",
+      "commentCount": "117"
+    },
+    "FetchedAt": "2026-10-22T10:55:28.8421789+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50180079"
+    },
+    "Type": 1,
+    "Title": "OpenAI models are coming to Google Cloud",
+    "Url": "https://openai.com/index/openai-models-google-cloud/",
+    "Description": "OpenAI models are coming to Google Cloud",
+    "Metadata": {
+      "score": "294",
+      "author": "armcat",
+      "commentCount": "122"
+    },
+    "FetchedAt": "2026-10-22T10:55:28.8872209+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50181136"
+    },
+    "Type": 1,
+    "Title": "DuckDB 2.0.0 LTS \u201CCinnamon Teal\u201D",
+    "Url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+    "Description": "DuckDB 2.0.0 LTS \u201CCinnamon Teal\u201D",
+    "Metadata": {
+      "score": "424",
+      "author": "nnx",
+      "commentCount": "56"
+    },
+    "FetchedAt": "2026-10-22T10:55:28.9321014+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50153125"
+    },
+    "Type": 1,
+    "Title": "I can\u0027t use generic lambdas at compile-time, now what?",
+    "Url": "https://blog.ganets.ky/ClangGenericLambdas/",
+    "Description": "I can\u0027t use generic lambdas at compile-time, now what?",
+    "Metadata": {
+      "score": "14",
+      "author": "ibobev",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-10-22T10:55:28.9773474+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50166590"
+    },
+    "Type": 1,
+    "Title": "Beyond the \u0026",
+    "Url": "https://lwn.net/Articles/1096028/",
+    "Description": "Beyond the \u0026",
+    "Metadata": {
+      "score": "69",
+      "author": "PaulHoule",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-10-22T10:55:29.0233747+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50182987"
+    },
+    "Type": 1,
+    "Title": "Today\u0027s PHP security release, and how we\u0027re strengthening security",
+    "Url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+    "Description": "Related ongoing thread: \u003Ci\u003EPHP 8.2.35\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50180873\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50180873\u003C/a\u003E\u003Cp\u003E(links to more at \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50184935\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50184935\u003C/a\u003E)",
+    "Metadata": {
+      "score": "743",
+      "author": "ejohnso49",
+      "commentCount": "368"
+    },
+    "FetchedAt": "2026-10-22T10:55:29.0683825+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50154100"
+    },
+    "Type": 1,
+    "Title": "Chain of Thought for Humans",
+    "Url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
+    "Description": "Chain of Thought for Humans",
+    "Metadata": {
+      "score": "99",
+      "author": "ibobev",
+      "commentCount": "51"
+    },
+    "FetchedAt": "2026-10-22T10:55:29.1144232+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50161283"
+    },
+    "Type": 1,
+    "Title": "ThinkPad I9990303 Error Catch-22",
+    "Url": "http://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/",
+    "Description": "ThinkPad I9990303 Error Catch-22",
+    "Metadata": {
+      "score": "30",
+      "author": "userbinator",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-10-22T10:55:29.1601791+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50183892"
+    },
+    "Type": 1,
+    "Title": "Show HN: Omnara \u2013 Open-source alternative to Claude Managed Agents",
+    "Url": "https://github.com/omnara-ai/omnara",
+    "Description": "Hey all, Kartik from Omnara (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;omnara.com\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;omnara.com\u003C/a\u003E) here. We\u0026#x27;re building an open-source API for running durable agents. You create an agent with an API call, and Omnara runs the agent loop, gives the agent sandboxes to run commands in, and handles secrets, permissions, and RBAC. Each agent\u0026#x27;s state is stored in Postgres, so agents survive restarts and cost nothing while idle. You can message them and stream their events over the API.\u003Cp\u003EY",
+    "Metadata": {
+      "score": "82",
+      "author": "kmansm27",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-10-22T10:55:29.2059318+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50188948"
+    },
+    "Type": 1,
+    "Title": "There isn\u0027t an easy exploit for this PHP vulnerability",
+    "Url": "https://eliastaylor.com/noexploit/",
+    "Description": "There isn\u0027t an easy exploit for this PHP vulnerability",
+    "Metadata": {
+      "score": "538",
+      "author": "zkldi",
+      "commentCount": "329"
+    },
+    "FetchedAt": "2026-10-22T10:55:29.2506481+00:00"
   }
 ]

@@ -1,22 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:cloudflare/security-audit-skill"
-    },
-    "Type": 0,
-    "Title": "cloudflare/security-audit-skill",
-    "Url": "https://github.com/cloudflare/security-audit-skill",
-    "Description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-    "Metadata": {
-      "owner": "cloudflare",
-      "repo": "security-audit-skill",
-      "language": "JavaScript",
-      "stars": "2,012"
-    },
-    "FetchedAt": "2026-10-22T02:42:19.5016438+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:stablyai/orca"
     },
     "Type": 0,
@@ -117,6 +101,54 @@
   },
   {
     "ExternalId": {
+      "Value": "github:php/php-src"
+    },
+    "Type": 0,
+    "Title": "php/php-src",
+    "Url": "https://github.com/php/php-src",
+    "Description": "The PHP Interpreter",
+    "Metadata": {
+      "owner": "php",
+      "repo": "php-src",
+      "language": "C",
+      "stars": "110"
+    },
+    "FetchedAt": "2026-10-22T10:55:26.3574121+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/knowledge-work-plugins"
+    },
+    "Type": 0,
+    "Title": "anthropics/knowledge-work-plugins",
+    "Url": "https://github.com/anthropics/knowledge-work-plugins",
+    "Description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "knowledge-work-plugins",
+      "language": "Python",
+      "stars": "389"
+    },
+    "FetchedAt": "2026-10-22T10:55:26.6717934+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cloudflare/security-audit-skill"
+    },
+    "Type": 0,
+    "Title": "cloudflare/security-audit-skill",
+    "Url": "https://github.com/cloudflare/security-audit-skill",
+    "Description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "Metadata": {
+      "owner": "cloudflare",
+      "repo": "security-audit-skill",
+      "language": "JavaScript",
+      "stars": "2,012"
+    },
+    "FetchedAt": "2026-10-22T10:55:26.864925+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:Graphify-Labs/graphify"
     },
     "Type": 0,
@@ -130,6 +162,40 @@
       "stars": "1,433",
       "topics": "ai-agents, antigravity, ast, claude-code, code-analysis, code-search, codex, cursor, developer-tools, gemini, graphify, graphrag, knowledge-graph, leiden, llm, mcp, openclaw, rag, skills, tree-sitter"
     },
-    "FetchedAt": "2026-10-22T02:42:20.6428772+00:00"
+    "FetchedAt": "2026-10-22T10:55:27.0522822+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:fastapi/fastapi"
+    },
+    "Type": 0,
+    "Title": "fastapi/fastapi",
+    "Url": "https://github.com/fastapi/fastapi",
+    "Description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "Metadata": {
+      "owner": "fastapi",
+      "repo": "fastapi",
+      "language": "Python",
+      "stars": "96",
+      "topics": "api, async, asyncio, fastapi, framework, json, json-schema, openapi, openapi3, pydantic, python, python-types, python3, redoc, rest, starlette, swagger, swagger-ui, uvicorn, web"
+    },
+    "FetchedAt": "2026-10-22T10:55:27.2611465+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Meloong-Git/PCL"
+    },
+    "Type": 0,
+    "Title": "Meloong-Git/PCL",
+    "Url": "https://github.com/Meloong-Git/PCL",
+    "Description": "Minecraft \u542F\u52A8\u5668 Plain Craft Launcher\uFF08PCL\uFF09\u3002",
+    "Metadata": {
+      "owner": "Meloong-Git",
+      "repo": "PCL",
+      "language": "Visual Basic .NET",
+      "stars": "115",
+      "topics": "launcher, minecraft, minecraft-launcher"
+    },
+    "FetchedAt": "2026-10-22T10:55:27.4986769+00:00"
   }
 ]
