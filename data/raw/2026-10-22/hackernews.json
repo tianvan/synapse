@@ -196,51 +196,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50193170"
-    },
-    "Type": 1,
-    "Title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
-    "Url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
-    "Description": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
-    "Metadata": {
-      "score": "39",
-      "author": "molind",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-10-22T10:55:27.9729878+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50190363"
-    },
-    "Type": 1,
-    "Title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-    "Url": "https://simedw.com/2026/10/21/world-model-terminal/",
-    "Description": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-    "Metadata": {
-      "score": "239",
-      "author": "alphax314",
-      "commentCount": "76"
-    },
-    "FetchedAt": "2026-10-22T10:55:28.019052+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50190455"
-    },
-    "Type": 1,
-    "Title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-    "Url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-    "Description": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-    "Metadata": {
-      "score": "213",
-      "author": "craigcitro",
-      "commentCount": "144"
-    },
-    "FetchedAt": "2026-10-22T10:55:28.0641024+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50192868"
     },
     "Type": 1,
@@ -253,111 +208,6 @@
       "commentCount": "12"
     },
     "FetchedAt": "2026-10-22T10:55:28.1095055+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50188228"
-    },
-    "Type": 1,
-    "Title": "Security Disclosure",
-    "Url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-    "Description": "Security Disclosure",
-    "Metadata": {
-      "score": "477",
-      "author": "passenger",
-      "commentCount": "279"
-    },
-    "FetchedAt": "2026-10-22T10:55:28.1539483+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50186037"
-    },
-    "Type": 1,
-    "Title": "Claude Duet",
-    "Url": "https://claude.com/product/claude-duet",
-    "Description": "Claude Duet",
-    "Metadata": {
-      "score": "399",
-      "author": "kuberwastaken",
-      "commentCount": "364"
-    },
-    "FetchedAt": "2026-10-22T10:55:28.20007+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50161346"
-    },
-    "Type": 1,
-    "Title": "No more icons in every menu by default",
-    "Url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
-    "Description": "No more icons in every menu by default",
-    "Metadata": {
-      "score": "332",
-      "author": "riffraff",
-      "commentCount": "196"
-    },
-    "FetchedAt": "2026-10-22T10:55:28.2450345+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50181114"
-    },
-    "Type": 1,
-    "Title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-    "Url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-    "Description": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-    "Metadata": {
-      "score": "529",
-      "author": "abhisek",
-      "commentCount": "172"
-    },
-    "FetchedAt": "2026-10-22T10:55:28.2904743+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50186010"
-    },
-    "Type": 1,
-    "Title": "Rust Style Guide",
-    "Url": "https://google.github.io/styleguide/rustguide.html",
-    "Description": "Rust Style Guide",
-    "Metadata": {
-      "score": "317",
-      "author": "kaycebasques",
-      "commentCount": "191"
-    },
-    "FetchedAt": "2026-10-22T10:55:28.3357679+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50176082"
-    },
-    "Type": 1,
-    "Title": "Using LLM for confidence scoring is a bad idea",
-    "Url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-    "Description": "Using LLM for confidence scoring is a bad idea",
-    "Metadata": {
-      "score": "104",
-      "author": "jimauthors",
-      "commentCount": "55"
-    },
-    "FetchedAt": "2026-10-22T10:55:28.3819213+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50185869"
-    },
-    "Type": 1,
-    "Title": "GitLab critical patch release",
-    "Url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-    "Description": "GitLab critical patch release",
-    "Metadata": {
-      "score": "358",
-      "author": "artooro",
-      "commentCount": "84"
-    },
-    "FetchedAt": "2026-10-22T10:55:28.4289942+00:00"
   },
   {
     "ExternalId": {
@@ -388,36 +238,6 @@
       "commentCount": "7"
     },
     "FetchedAt": "2026-10-22T10:55:28.5205699+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50157456"
-    },
-    "Type": 1,
-    "Title": "Startup taps underwater volcano as energy source in \u0022proof point\u0022 test",
-    "Url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
-    "Description": "Startup taps underwater volcano as energy source in \u0022proof point\u0022 test",
-    "Metadata": {
-      "score": "6",
-      "author": "wffurr",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-10-22T10:55:28.565555+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50173716"
-    },
-    "Type": 1,
-    "Title": "PingCap TiDB Leaks",
-    "Url": "https://fulcrumsec.vg/pingcap/",
-    "Description": "PingCap TiDB Leaks",
-    "Metadata": {
-      "score": "353",
-      "author": "swyx",
-      "commentCount": "56"
-    },
-    "FetchedAt": "2026-10-22T10:55:28.6124881+00:00"
   },
   {
     "ExternalId": {
@@ -628,5 +448,455 @@
       "commentCount": "329"
     },
     "FetchedAt": "2026-10-22T10:55:29.2506481+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50195110"
+    },
+    "Type": 1,
+    "Title": "eMudhra to Exit Global SSL/TLS Certificate Business",
+    "Url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+    "Description": "eMudhra to Exit Global SSL/TLS Certificate Business",
+    "Metadata": {
+      "score": "444",
+      "author": "bo0tzz",
+      "commentCount": "305"
+    },
+    "FetchedAt": "2026-10-22T16:22:53.8139817+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50195959"
+    },
+    "Type": 1,
+    "Title": "Quad9 (DNS Resolver) to Exit France",
+    "Url": "https://quad9.net/news/blog/au-revoir-france/",
+    "Description": "Quad9 (DNS Resolver) to Exit France",
+    "Metadata": {
+      "score": "189",
+      "author": "farrokhi",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-10-22T16:22:53.8478609+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50194938"
+    },
+    "Type": 1,
+    "Title": "Crystal 1.22.0",
+    "Url": "https://crystal-lang.org/2026/10/12/1.22.0-released/",
+    "Description": "Crystal 1.22.0",
+    "Metadata": {
+      "score": "98",
+      "author": "ksec",
+      "commentCount": "51"
+    },
+    "FetchedAt": "2026-10-22T16:22:53.8815752+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50195543"
+    },
+    "Type": 1,
+    "Title": "What\u0027s Getting Pwned",
+    "Url": "https://pwn.watch/",
+    "Description": "What\u0027s Getting Pwned",
+    "Metadata": {
+      "score": "125",
+      "author": "mrkd",
+      "commentCount": "81"
+    },
+    "FetchedAt": "2026-10-22T16:22:53.9166567+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50150163"
+    },
+    "Type": 1,
+    "Title": "What Is Gridifcation",
+    "Url": "https://musicalform.substack.com/p/what-is-gridifcation",
+    "Description": "What Is Gridifcation",
+    "Metadata": {
+      "score": "224",
+      "author": "gumby",
+      "commentCount": "98"
+    },
+    "FetchedAt": "2026-10-22T16:22:53.9507538+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50196718"
+    },
+    "Type": 1,
+    "Title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+    "Url": "https://github.com/oosexgang/hackios-xnu-kernel",
+    "Description": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+    "Metadata": {
+      "score": "32",
+      "author": "aghuang",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-10-22T16:22:53.9906491+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50192536"
+    },
+    "Type": 1,
+    "Title": "Jailbreaking the Switch 2",
+    "Url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+    "Description": "Jailbreaking the Switch 2",
+    "Metadata": {
+      "score": "449",
+      "author": "ledoge",
+      "commentCount": "164"
+    },
+    "FetchedAt": "2026-10-22T16:22:54.028931+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50193170"
+    },
+    "Type": 1,
+    "Title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+    "Url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+    "Description": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+    "Metadata": {
+      "score": "142",
+      "author": "molind",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-10-22T16:22:54.0658863+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50196837"
+    },
+    "Type": 1,
+    "Title": "Google cleared 300 hectares of Finnish forest",
+    "Url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
+    "Description": "Google cleared 300 hectares of Finnish forest",
+    "Metadata": {
+      "score": "47",
+      "author": "wetwater",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-10-22T16:22:54.100288+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50194522"
+    },
+    "Type": 1,
+    "Title": "The Last Museum: Semantic search across 5.8M artworks from major museums",
+    "Url": "https://lastmuseum.com/",
+    "Description": "The Last Museum: Semantic search across 5.8M artworks from major museums",
+    "Metadata": {
+      "score": "43",
+      "author": "surprisetalk",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-10-22T16:22:54.1349955+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50190363"
+    },
+    "Type": 1,
+    "Title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+    "Url": "https://simedw.com/2026/10/21/world-model-terminal/",
+    "Description": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+    "Metadata": {
+      "score": "411",
+      "author": "alphax314",
+      "commentCount": "129"
+    },
+    "FetchedAt": "2026-10-22T16:22:54.1699188+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50144727"
+    },
+    "Type": 1,
+    "Title": "VMMouse for NT 3.x: QEMU/VMware mouse integration driver",
+    "Url": "https://github.com/rhargreaves/vmmouse-nt3",
+    "Description": "VMMouse for NT 3.x: QEMU/VMware mouse integration driver",
+    "Metadata": {
+      "score": "22",
+      "author": "kiyouta",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-10-22T16:22:54.2039666+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50173944"
+    },
+    "Type": 1,
+    "Title": "The painter behind Manhattan\u2019s Gilded Age interiors",
+    "Url": "https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/",
+    "Description": "The painter behind Manhattan\u2019s Gilded Age interiors",
+    "Metadata": {
+      "score": "32",
+      "author": "hoffmannesque",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-10-22T16:22:54.2389464+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50154147"
+    },
+    "Type": 1,
+    "Title": "Pentulive (Puppy Live) [video]",
+    "Url": "https://yle.fi/t/18-332106/fi",
+    "Description": "Pentulive (Puppy Live) [video]",
+    "Metadata": {
+      "score": "36",
+      "author": "NaOH",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-10-22T16:22:54.2748094+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50190455"
+    },
+    "Type": 1,
+    "Title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+    "Url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+    "Description": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+    "Metadata": {
+      "score": "278",
+      "author": "craigcitro",
+      "commentCount": "232"
+    },
+    "FetchedAt": "2026-10-22T16:22:54.3092083+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50157456"
+    },
+    "Type": 1,
+    "Title": "Startup taps underwater volcano as energy source in \u0022proof point\u0022 test",
+    "Url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+    "Description": "Startup taps underwater volcano as energy source in \u0022proof point\u0022 test",
+    "Metadata": {
+      "score": "75",
+      "author": "wffurr",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-10-22T16:22:54.3441348+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50194070"
+    },
+    "Type": 1,
+    "Title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+    "Url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+    "Description": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+    "Metadata": {
+      "score": "179",
+      "author": "cubefox",
+      "commentCount": "52"
+    },
+    "FetchedAt": "2026-10-22T16:22:54.3780677+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50188228"
+    },
+    "Type": 1,
+    "Title": "Security Disclosure",
+    "Url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+    "Description": "Security Disclosure",
+    "Metadata": {
+      "score": "550",
+      "author": "passenger",
+      "commentCount": "318"
+    },
+    "FetchedAt": "2026-10-22T16:22:54.4121645+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50180257"
+    },
+    "Type": 1,
+    "Title": "Show HN: Uberblok \u2013 an interactive museum of ZFS internals",
+    "Url": "https://uberblok.storagebits.workers.dev/",
+    "Description": "I\u0026#x27;ve worked for a long time in the storage field during my career and ZFS is the piece of engineering I admire most in that space. I wanted a way to pay homage to it and to explore and better understand its internals. So I built Uberblok: a museum of ZFS. A deep dive into copy-on-write, txgs, vdevs, RAID-Z, snapshots, the ARC, metaslabs, the ZIL, send\u0026#x2F;receive with explanations and animated diagrams.\u003Cp\u003EI\u0026#x27;m sure people here know these internals better than I do, so corrections are v",
+    "Metadata": {
+      "score": "7",
+      "author": "storagebits",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-22T16:22:54.4474151+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50195873"
+    },
+    "Type": 1,
+    "Title": "MPs moving to restrict gambling ads in Canada amid mounting harms",
+    "Url": "https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888",
+    "Description": "MPs moving to restrict gambling ads in Canada amid mounting harms",
+    "Metadata": {
+      "score": "39",
+      "author": "Teever",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-10-22T16:22:54.4823441+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50193804"
+    },
+    "Type": 1,
+    "Title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+    "Url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+    "Description": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+    "Metadata": {
+      "score": "194",
+      "author": "mrkn1",
+      "commentCount": "55"
+    },
+    "FetchedAt": "2026-10-22T16:22:54.5160471+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50186037"
+    },
+    "Type": 1,
+    "Title": "Claude Duet",
+    "Url": "https://claude.com/product/claude-duet",
+    "Description": "Claude Duet",
+    "Metadata": {
+      "score": "507",
+      "author": "kuberwastaken",
+      "commentCount": "465"
+    },
+    "FetchedAt": "2026-10-22T16:22:54.5495285+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50157316"
+    },
+    "Type": 1,
+    "Title": "Eigenmoon: linear algebra puzzles by moonlight",
+    "Url": "https://eigenmoon.vercel.app/",
+    "Description": "Eigenmoon: linear algebra puzzles by moonlight",
+    "Metadata": {
+      "score": "46",
+      "author": "jessicarumbelow",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-10-22T16:22:54.5839084+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50194824"
+    },
+    "Type": 1,
+    "Title": "SBD: We Have a Filesystem at Home",
+    "Url": "https://fly.io/blog/sprites-block-device/",
+    "Description": "SBD: We Have a Filesystem at Home",
+    "Metadata": {
+      "score": "33",
+      "author": "torutofu",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-10-22T16:22:54.6181042+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50161346"
+    },
+    "Type": 1,
+    "Title": "No more icons in every menu by default",
+    "Url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
+    "Description": "No more icons in every menu by default",
+    "Metadata": {
+      "score": "425",
+      "author": "riffraff",
+      "commentCount": "242"
+    },
+    "FetchedAt": "2026-10-22T16:22:54.6531972+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50181114"
+    },
+    "Type": 1,
+    "Title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "Url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+    "Description": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "Metadata": {
+      "score": "576",
+      "author": "abhisek",
+      "commentCount": "186"
+    },
+    "FetchedAt": "2026-10-22T16:22:54.8350766+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50176082"
+    },
+    "Type": 1,
+    "Title": "Using LLM for confidence scoring is a bad idea",
+    "Url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+    "Description": "Using LLM for confidence scoring is a bad idea",
+    "Metadata": {
+      "score": "166",
+      "author": "jimauthors",
+      "commentCount": "92"
+    },
+    "FetchedAt": "2026-10-22T16:22:54.8696585+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50185869"
+    },
+    "Type": 1,
+    "Title": "GitLab critical patch release",
+    "Url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+    "Description": "GitLab critical patch release",
+    "Metadata": {
+      "score": "395",
+      "author": "artooro",
+      "commentCount": "90"
+    },
+    "FetchedAt": "2026-10-22T16:22:54.9031554+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50186010"
+    },
+    "Type": 1,
+    "Title": "Rust Style Guide",
+    "Url": "https://google.github.io/styleguide/rustguide.html",
+    "Description": "Rust Style Guide",
+    "Metadata": {
+      "score": "361",
+      "author": "kaycebasques",
+      "commentCount": "218"
+    },
+    "FetchedAt": "2026-10-22T16:22:54.9378438+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50173716"
+    },
+    "Type": 1,
+    "Title": "PingCap TiDB Leaks",
+    "Url": "https://fulcrumsec.vg/pingcap/",
+    "Description": "PingCap TiDB Leaks",
+    "Metadata": {
+      "score": "409",
+      "author": "swyx",
+      "commentCount": "71"
+    },
+    "FetchedAt": "2026-10-22T16:22:54.9728369+00:00"
   }
 ]
