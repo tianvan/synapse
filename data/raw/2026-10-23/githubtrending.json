@@ -1,0 +1,101 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:php/php-src"
+    },
+    "Type": 0,
+    "Title": "php/php-src",
+    "Url": "https://github.com/php/php-src",
+    "Description": "The PHP Interpreter",
+    "Metadata": {
+      "owner": "php",
+      "repo": "php-src",
+      "language": "C",
+      "stars": "287"
+    },
+    "FetchedAt": "2026-10-23T02:46:32.3771908+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/knowledge-work-plugins"
+    },
+    "Type": 0,
+    "Title": "anthropics/knowledge-work-plugins",
+    "Url": "https://github.com/anthropics/knowledge-work-plugins",
+    "Description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "knowledge-work-plugins",
+      "language": "Python",
+      "stars": "303"
+    },
+    "FetchedAt": "2026-10-23T02:46:32.6520458+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cloudflare/security-audit-skill"
+    },
+    "Type": 0,
+    "Title": "cloudflare/security-audit-skill",
+    "Url": "https://github.com/cloudflare/security-audit-skill",
+    "Description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "Metadata": {
+      "owner": "cloudflare",
+      "repo": "security-audit-skill",
+      "language": "JavaScript",
+      "stars": "2,979"
+    },
+    "FetchedAt": "2026-10-23T02:46:32.8197311+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Graphify-Labs/graphify"
+    },
+    "Type": 0,
+    "Title": "Graphify-Labs/graphify",
+    "Url": "https://github.com/Graphify-Labs/graphify",
+    "Description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+    "Metadata": {
+      "owner": "Graphify-Labs",
+      "repo": "graphify",
+      "language": "Python",
+      "stars": "1,408",
+      "topics": "ai-agents, antigravity, ast, claude-code, code-analysis, code-search, codex, cursor, developer-tools, gemini, graphify, graphrag, knowledge-graph, leiden, llm, mcp, openclaw, rag, skills, tree-sitter"
+    },
+    "FetchedAt": "2026-10-23T02:46:32.9619821+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:fastapi/fastapi"
+    },
+    "Type": 0,
+    "Title": "fastapi/fastapi",
+    "Url": "https://github.com/fastapi/fastapi",
+    "Description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "Metadata": {
+      "owner": "fastapi",
+      "repo": "fastapi",
+      "language": "Python",
+      "stars": "101",
+      "topics": "api, async, asyncio, fastapi, framework, json, json-schema, openapi, openapi3, pydantic, python, python-types, python3, redoc, rest, starlette, swagger, swagger-ui, uvicorn, web"
+    },
+    "FetchedAt": "2026-10-23T02:46:33.166554+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Meloong-Git/PCL"
+    },
+    "Type": 0,
+    "Title": "Meloong-Git/PCL",
+    "Url": "https://github.com/Meloong-Git/PCL",
+    "Description": "Minecraft \u542F\u52A8\u5668 Plain Craft Launcher\uFF08PCL\uFF09\u3002",
+    "Metadata": {
+      "owner": "Meloong-Git",
+      "repo": "PCL",
+      "language": "Visual Basic .NET",
+      "stars": "119",
+      "topics": "launcher, minecraft, minecraft-launcher"
+    },
+    "FetchedAt": "2026-10-23T02:46:33.3286777+00:00"
+  }
+]
