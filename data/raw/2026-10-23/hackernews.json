@@ -1,66 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:50202681"
-    },
-    "Type": 1,
-    "Title": "Docker is weird",
-    "Url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-    "Description": "Docker is weird",
-    "Metadata": {
-      "score": "163",
-      "author": "psxuaw",
-      "commentCount": "72"
-    },
-    "FetchedAt": "2026-10-23T02:46:33.7429504+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50202217"
-    },
-    "Type": 1,
-    "Title": "LLMs are making formal software verification feasible at a much larger scale",
-    "Url": "https://www.anthropic.com/research/formal-verification",
-    "Description": "LLMs are making formal software verification feasible at a much larger scale",
-    "Metadata": {
-      "score": "147",
-      "author": "johnbender",
-      "commentCount": "70"
-    },
-    "FetchedAt": "2026-10-23T02:46:33.7798841+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50195959"
-    },
-    "Type": 1,
-    "Title": "Quad9 (DNS Resolver) to Exit France",
-    "Url": "https://quad9.net/news/blog/au-revoir-france/",
-    "Description": "Quad9 (DNS Resolver) to Exit France",
-    "Metadata": {
-      "score": "1023",
-      "author": "farrokhi",
-      "commentCount": "368"
-    },
-    "FetchedAt": "2026-10-23T02:46:33.8169591+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50198675"
-    },
-    "Type": 1,
-    "Title": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
-    "Url": "https://github.com/NVIDIA/OpenShell",
-    "Description": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
-    "Metadata": {
-      "score": "314",
-      "author": "niemandhier",
-      "commentCount": "162"
-    },
-    "FetchedAt": "2026-10-23T02:46:33.8613482+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50194833"
     },
     "Type": 1,
@@ -73,36 +13,6 @@
       "commentCount": "546"
     },
     "FetchedAt": "2026-10-23T02:46:33.9232159+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50197313"
-    },
-    "Type": 1,
-    "Title": "Every AI model has the same \u0022controversial\u0022 take on humans",
-    "Url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-    "Description": "Every AI model has the same \u0022controversial\u0022 take on humans",
-    "Metadata": {
-      "score": "254",
-      "author": "rakannimer",
-      "commentCount": "320"
-    },
-    "FetchedAt": "2026-10-23T02:46:33.9832192+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50197404"
-    },
-    "Type": 1,
-    "Title": "Getting ready to operate GNU Taler in Germany",
-    "Url": "https://www.taler.net/en/news/2026-13.html",
-    "Description": "Getting ready to operate GNU Taler in Germany",
-    "Metadata": {
-      "score": "231",
-      "author": "dewey",
-      "commentCount": "85"
-    },
-    "FetchedAt": "2026-10-23T02:46:34.0271601+00:00"
   },
   {
     "ExternalId": {
@@ -121,21 +31,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50196718"
-    },
-    "Type": 1,
-    "Title": "Run full iOS 16.5 firmware on Android Devices",
-    "Url": "https://github.com/oosexgang/hackios-xnu-kernel",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;hackios-web.vercel.app\u0026#x2F;en\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;hackios-web.vercel.app\u0026#x2F;en\u003C/a\u003E",
-    "Metadata": {
-      "score": "336",
-      "author": "aghuang",
-      "commentCount": "129"
-    },
-    "FetchedAt": "2026-10-23T02:46:34.127606+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50162431"
     },
     "Type": 1,
@@ -148,21 +43,6 @@
       "commentCount": "5"
     },
     "FetchedAt": "2026-10-23T02:46:34.1716149+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50203161"
-    },
-    "Type": 1,
-    "Title": "The foolishness of \u0022natural language programming\u0022 (1978)",
-    "Url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-    "Description": "The foolishness of \u0022natural language programming\u0022 (1978)",
-    "Metadata": {
-      "score": "40",
-      "author": "xiaoyu2006",
-      "commentCount": "40"
-    },
-    "FetchedAt": "2026-10-23T02:46:34.2088288+00:00"
   },
   {
     "ExternalId": {
@@ -211,51 +91,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50202762"
-    },
-    "Type": 1,
-    "Title": "Jank \u2013 The native Clojure dialect with seamless C\u002B\u002B interop",
-    "Url": "https://jank-lang.org/",
-    "Description": "Jank \u2013 The native Clojure dialect with seamless C\u002B\u002B interop",
-    "Metadata": {
-      "score": "19",
-      "author": "giancarlostoro",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-10-23T02:46:34.3589898+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50199389"
-    },
-    "Type": 1,
-    "Title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
-    "Url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
-    "Description": "Hedra is a 3D open world game I wrote from scratch while in highschool",
-    "Metadata": {
-      "score": "143",
-      "author": "maxilevi",
-      "commentCount": "29"
-    },
-    "FetchedAt": "2026-10-23T02:46:34.4271158+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50195110"
-    },
-    "Type": 1,
-    "Title": "eMudhra to exit global SSL/TLS certificate business",
-    "Url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
-    "Description": "eMudhra to exit global SSL/TLS certificate business",
-    "Metadata": {
-      "score": "948",
-      "author": "bo0tzz",
-      "commentCount": "637"
-    },
-    "FetchedAt": "2026-10-23T02:46:34.4654248+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50202766"
     },
     "Type": 1,
@@ -268,66 +103,6 @@
       "commentCount": "5"
     },
     "FetchedAt": "2026-10-23T02:46:34.5030851+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50193416"
-    },
-    "Type": 1,
-    "Title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
-    "Url": "https://news.ycombinator.com/item?id=50193416",
-    "Description": "I posted here about the then-upcoming PHP RCEs related to CVE-2026-109618 \u0026amp; CVE-2026-109619. I appreciate this has had considerable knock-on effects with the schedule for co-ordinated disclosure, and created additional workload.\u003Cp\u003EI am truly sorry. I take full responsibility for my actions.\u003Cp\u003EIt was not remotely my intention to cause any of the subsequent side effects.\u003Cp\u003EAt the time of posting, I didn\u0026#x27;t know about any embargo. My contact had told me there was no embargo, and her contact",
-    "Metadata": {
-      "score": "400",
-      "author": "petecooper",
-      "commentCount": "167"
-    },
-    "FetchedAt": "2026-10-23T02:46:34.5410701+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50201414"
-    },
-    "Type": 1,
-    "Title": "Railpass",
-    "Url": "https://train.samismith.com/",
-    "Description": "Railpass",
-    "Metadata": {
-      "score": "54",
-      "author": "CharlesW",
-      "commentCount": "15"
-    },
-    "FetchedAt": "2026-10-23T02:46:34.5783725+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50194009"
-    },
-    "Type": 1,
-    "Title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
-    "Url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
-    "Description": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
-    "Metadata": {
-      "score": "222",
-      "author": "entryleveljobsc",
-      "commentCount": "212"
-    },
-    "FetchedAt": "2026-10-23T02:46:34.6159326+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50168850"
-    },
-    "Type": 1,
-    "Title": "Color Names",
-    "Url": "https://names.color.pizza",
-    "Description": "Color Names",
-    "Metadata": {
-      "score": "21",
-      "author": "akkartik",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-10-23T02:46:34.6604795+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +223,455 @@
       "commentCount": "161"
     },
     "FetchedAt": "2026-10-23T02:46:34.961206+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50202285"
+    },
+    "Type": 1,
+    "Title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+    "Url": "https://edjefferson.com/localwiki/",
+    "Description": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+    "Metadata": {
+      "score": "440",
+      "author": "sohkamyung",
+      "commentCount": "108"
+    },
+    "FetchedAt": "2026-10-23T10:47:25.7415129+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50202681"
+    },
+    "Type": 1,
+    "Title": "Docker is weird",
+    "Url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+    "Description": "Docker is weird",
+    "Metadata": {
+      "score": "514",
+      "author": "psxuaw",
+      "commentCount": "233"
+    },
+    "FetchedAt": "2026-10-23T10:47:25.7834002+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50206586"
+    },
+    "Type": 1,
+    "Title": "France needs to read my paper",
+    "Url": "https://wilsoniumite.com/2026/10/23/france-needs-to-read-my-paper/",
+    "Description": "France needs to read my paper",
+    "Metadata": {
+      "score": "40",
+      "author": "Wilsoniumite",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-10-23T10:47:25.825428+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50201445"
+    },
+    "Type": 1,
+    "Title": "How does Fable 5.1 hide messages in images?",
+    "Url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+    "Description": "How does Fable 5.1 hide messages in images?",
+    "Metadata": {
+      "score": "96",
+      "author": "gmays",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-10-23T10:47:25.8673856+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50195002"
+    },
+    "Type": 1,
+    "Title": "The alien space of science: Coherent but cognitively unavailable directions",
+    "Url": "https://arxiv.org/abs/2603.01092",
+    "Description": "The alien space of science: Coherent but cognitively unavailable directions",
+    "Metadata": {
+      "score": "75",
+      "author": "martincsweiss",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-10-23T10:47:25.9085816+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50203161"
+    },
+    "Type": 1,
+    "Title": "The foolishness of \u0022natural language programming\u0022 (1978)",
+    "Url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+    "Description": "The foolishness of \u0022natural language programming\u0022 (1978)",
+    "Metadata": {
+      "score": "189",
+      "author": "xiaoyu2006",
+      "commentCount": "112"
+    },
+    "FetchedAt": "2026-10-23T10:47:25.9517227+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50206361"
+    },
+    "Type": 1,
+    "Title": "The Rise and Fall of Jev",
+    "Url": "https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm",
+    "Description": "The Rise and Fall of Jev",
+    "Metadata": {
+      "score": "14",
+      "author": "flail",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-10-23T10:47:25.9929304+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50200164"
+    },
+    "Type": 1,
+    "Title": "The HTML-in-Canvas API origin trial",
+    "Url": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
+    "Description": "The HTML-in-Canvas API origin trial",
+    "Metadata": {
+      "score": "53",
+      "author": "andrewstuart",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-10-23T10:47:26.0340177+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50195488"
+    },
+    "Type": 1,
+    "Title": "Show HN: OnKey \u2013 I\u0027m a bad singer, so I built an app to show where I\u0027m off-key",
+    "Url": "https://github.com/dsmurrell/onkey",
+    "Description": "Hi all\u003Cp\u003EI was pretty terrible at singing, now I\u2019d say I\u2019m bad but not terrible. This is because I\u2019ve been using a singing app (won\u2019t name it here) that scores me on my pitch and timing throughout the song so that I can improve.\u003Cp\u003ELately however, the app I\u2019ve been using has flooded their song list with songs that aren\u2019t originals. I didn\u2019t like this at all as for me, it\u2019s easier to try to improve when you\u2019re singing along to the original.\u003Cp\u003ESo, I asked an agent (Claude Code) if it could write so",
+    "Metadata": {
+      "score": "66",
+      "author": "dsmurrell",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-10-23T10:47:26.0759263+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50203759"
+    },
+    "Type": 1,
+    "Title": "This I Believe (1952)",
+    "Url": "https://www.awakin.org/v2/read/view.php?tid=468",
+    "Description": "This I Believe (1952)",
+    "Metadata": {
+      "score": "94",
+      "author": "ctoth",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-10-23T10:47:26.1196597+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50197313"
+    },
+    "Type": 1,
+    "Title": "Every AI model has the same \u0022controversial\u0022 take on humans",
+    "Url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+    "Description": "Every AI model has the same \u0022controversial\u0022 take on humans",
+    "Metadata": {
+      "score": "437",
+      "author": "rakannimer",
+      "commentCount": "438"
+    },
+    "FetchedAt": "2026-10-23T10:47:26.1616596+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50198675"
+    },
+    "Type": 1,
+    "Title": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
+    "Url": "https://github.com/NVIDIA/OpenShell",
+    "Description": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
+    "Metadata": {
+      "score": "406",
+      "author": "niemandhier",
+      "commentCount": "195"
+    },
+    "FetchedAt": "2026-10-23T10:47:26.2042728+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50196718"
+    },
+    "Type": 1,
+    "Title": "Run full iOS 16.5 firmware on Android Devices",
+    "Url": "https://github.com/oosexgang/hackios-xnu-kernel",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;hackios-web.vercel.app\u0026#x2F;en\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;hackios-web.vercel.app\u0026#x2F;en\u003C/a\u003E",
+    "Metadata": {
+      "score": "445",
+      "author": "aghuang",
+      "commentCount": "160"
+    },
+    "FetchedAt": "2026-10-23T10:47:26.246467+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50197404"
+    },
+    "Type": 1,
+    "Title": "Getting ready to operate GNU Taler in Germany",
+    "Url": "https://www.taler.net/en/news/2026-13.html",
+    "Description": "Getting ready to operate GNU Taler in Germany",
+    "Metadata": {
+      "score": "304",
+      "author": "dewey",
+      "commentCount": "129"
+    },
+    "FetchedAt": "2026-10-23T10:47:26.2888907+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50190363"
+    },
+    "Type": 1,
+    "Title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+    "Url": "https://simedw.com/2026/10/21/world-model-terminal/",
+    "Description": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+    "Metadata": {
+      "score": "553",
+      "author": "alphax314",
+      "commentCount": "169"
+    },
+    "FetchedAt": "2026-10-23T10:47:26.3314347+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50195959"
+    },
+    "Type": 1,
+    "Title": "Quad9 to exit France",
+    "Url": "https://quad9.net/news/blog/au-revoir-france/",
+    "Description": "Quad9 to exit France",
+    "Metadata": {
+      "score": "1229",
+      "author": "farrokhi",
+      "commentCount": "412"
+    },
+    "FetchedAt": "2026-10-23T10:47:26.3730766+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50192396"
+    },
+    "Type": 1,
+    "Title": "A lost Schr\u00F6dinger manuscript reveals a twist in quantum physics",
+    "Url": "https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics",
+    "Description": "A lost Schr\u00F6dinger manuscript reveals a twist in quantum physics",
+    "Metadata": {
+      "score": "50",
+      "author": "ibobev",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-10-23T10:47:26.414687+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50202865"
+    },
+    "Type": 1,
+    "Title": "Show HN: Making a smart TV dumb and then smart",
+    "Url": "https://github.com/anubhavmalhotra/r2d2-tv",
+    "Description": "A recent (unwanted) webOS update that got installed on TV prompted me to start going down the rabbit hole of writing new TV software. After a couple of weekends and massive help from 4 different models, finally managed to get v1 working.\u003Cp\u003EMy daughter enjoys navigating TV through speech while I get to browse on the biggest screen at home.\u003Cp\u003EWhile all of the code was written by ML models, there were decisions I had to help with. In specific: using WebRTC to cut down latency, repurposing vendor lo",
+    "Metadata": {
+      "score": "25",
+      "author": "animalhot",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-10-23T10:47:26.4565861+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50180799"
+    },
+    "Type": 1,
+    "Title": "I reverse engineered a board game",
+    "Url": "https://wuemeli.com/blog/reversing-hitster-game/",
+    "Description": "I reverse engineered a board game",
+    "Metadata": {
+      "score": "43",
+      "author": "wuemeli",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-10-23T10:47:26.4978031+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50202762"
+    },
+    "Type": 1,
+    "Title": "Jank \u2013 The native Clojure dialect with seamless C\u002B\u002B interop",
+    "Url": "https://jank-lang.org/",
+    "Description": "Jank \u2013 The native Clojure dialect with seamless C\u002B\u002B interop",
+    "Metadata": {
+      "score": "105",
+      "author": "giancarlostoro",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-10-23T10:47:26.5393691+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50193416"
+    },
+    "Type": 1,
+    "Title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+    "Url": "https://news.ycombinator.com/item?id=50193416",
+    "Description": "I posted here about the then-upcoming PHP RCEs related to CVE-2026-109618 \u0026amp; CVE-2026-109619. I appreciate this has had considerable knock-on effects with the schedule for co-ordinated disclosure, and created additional workload.\u003Cp\u003EI am truly sorry. I take full responsibility for my actions.\u003Cp\u003EIt was not remotely my intention to cause any of the subsequent side effects.\u003Cp\u003EAt the time of posting, I didn\u0026#x27;t know about any embargo. My contact had told me there was no embargo, and her contact",
+    "Metadata": {
+      "score": "570",
+      "author": "petecooper",
+      "commentCount": "220"
+    },
+    "FetchedAt": "2026-10-23T10:47:26.5807733+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50202217"
+    },
+    "Type": 1,
+    "Title": "LLMs are making formal software verification feasible at a much larger scale",
+    "Url": "https://www.anthropic.com/research/formal-verification",
+    "Description": "LLMs are making formal software verification feasible at a much larger scale",
+    "Metadata": {
+      "score": "352",
+      "author": "johnbender",
+      "commentCount": "207"
+    },
+    "FetchedAt": "2026-10-23T10:47:26.6226227+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50200997"
+    },
+    "Type": 1,
+    "Title": "Ask HN: If the models are so good, why doesn\u0027t OpenAI just start 100 companies?",
+    "Url": "https://news.ycombinator.com/item?id=50200997",
+    "Description": "Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker?\u003Cp\u003ECouldn\u0026#x27;t OpenAI or Anthropic make a lot more money by just starting companies themselves that leverage the models and building their own products?\u003Cp\u003EIs selling tokens really the best strategy?\u003Cp\u003EEspecially with commodification and prices declining wouldn\u0026#x27;t that indicate there is more money to be made on the application-side of the models rath",
+    "Metadata": {
+      "score": "173",
+      "author": "ex-aws-dude",
+      "commentCount": "161"
+    },
+    "FetchedAt": "2026-10-23T10:47:26.6638986+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50194009"
+    },
+    "Type": 1,
+    "Title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+    "Url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+    "Description": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+    "Metadata": {
+      "score": "308",
+      "author": "entryleveljobsc",
+      "commentCount": "279"
+    },
+    "FetchedAt": "2026-10-23T10:47:26.7050198+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50167744"
+    },
+    "Type": 1,
+    "Title": "Hand-bent after 3D printing, Oberdoerfer and Krebs\u0027 Bend chair",
+    "Url": "https://www.designboom.com/design/hand-bent-3d-printing-oberdoerfer-krebs-digital-fabrication-bend-chair-ukurant-3daysofdesign/",
+    "Description": "Hand-bent after 3D printing, Oberdoerfer and Krebs\u0027 Bend chair",
+    "Metadata": {
+      "score": "8",
+      "author": "surprisetalk",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-10-23T10:47:26.7465769+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50168850"
+    },
+    "Type": 1,
+    "Title": "Color Names",
+    "Url": "https://names.color.pizza",
+    "Description": "Color Names",
+    "Metadata": {
+      "score": "79",
+      "author": "akkartik",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-10-23T10:47:26.7883177+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50205816"
+    },
+    "Type": 1,
+    "Title": "Remove pgrust: the entry is cheating",
+    "Url": "https://github.com/ClickHouse/ClickBench/pull/2165",
+    "Description": "Remove pgrust: the entry is cheating",
+    "Metadata": {
+      "score": "7",
+      "author": "f311a",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-10-23T10:47:26.8301135+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50195110"
+    },
+    "Type": 1,
+    "Title": "eMudhra to exit global SSL/TLS certificate business",
+    "Url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+    "Description": "eMudhra to exit global SSL/TLS certificate business",
+    "Metadata": {
+      "score": "1067",
+      "author": "bo0tzz",
+      "commentCount": "688"
+    },
+    "FetchedAt": "2026-10-23T10:47:26.8718318+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50199389"
+    },
+    "Type": 1,
+    "Title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+    "Url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+    "Description": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+    "Metadata": {
+      "score": "204",
+      "author": "maxilevi",
+      "commentCount": "40"
+    },
+    "FetchedAt": "2026-10-23T10:47:26.9131218+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50201414"
+    },
+    "Type": 1,
+    "Title": "Railpass",
+    "Url": "https://train.samismith.com/",
+    "Description": "Railpass",
+    "Metadata": {
+      "score": "109",
+      "author": "CharlesW",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-10-23T10:47:26.9546074+00:00"
   }
 ]
