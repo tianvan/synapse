@@ -376,21 +376,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50202285"
-    },
-    "Type": 1,
-    "Title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-    "Url": "https://edjefferson.com/localwiki/",
-    "Description": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-    "Metadata": {
-      "score": "875",
-      "author": "sohkamyung",
-      "commentCount": "171"
-    },
-    "FetchedAt": "2026-10-23T16:12:18.5388322+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50202681"
     },
     "Type": 1,
@@ -466,21 +451,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50195002"
-    },
-    "Type": 1,
-    "Title": "The alien space of science: Coherent but cognitively unavailable directions",
-    "Url": "https://arxiv.org/abs/2603.01092",
-    "Description": "The alien space of science: Coherent but cognitively unavailable directions",
-    "Metadata": {
-      "score": "156",
-      "author": "martincsweiss",
-      "commentCount": "58"
-    },
-    "FetchedAt": "2026-10-23T16:12:18.8867089+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50203161"
     },
     "Type": 1,
@@ -496,21 +466,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50206840"
-    },
-    "Type": 1,
-    "Title": "Job Loss and Cortisone Mania",
-    "Url": "https://tilschuenemann.de/job-loss-cortisone-mania",
-    "Description": "Job Loss and Cortisone Mania",
-    "Metadata": {
-      "score": "85",
-      "author": "speckx",
-      "commentCount": "24"
-    },
-    "FetchedAt": "2026-10-23T16:12:19.0028868+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50197313"
     },
     "Type": 1,
@@ -523,51 +478,6 @@
       "commentCount": "544"
     },
     "FetchedAt": "2026-10-23T16:12:19.0609884+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50195488"
-    },
-    "Type": 1,
-    "Title": "Show HN: OnKey \u2013 I\u0027m a bad singer, so I built an app to show where I\u0027m off-key",
-    "Url": "https://github.com/dsmurrell/onkey",
-    "Description": "Hi all\u003Cp\u003EI was pretty terrible at singing, now I\u2019d say I\u2019m bad but not terrible. This is because I\u2019ve been using a singing app (won\u2019t name it here) that scores me on my pitch and timing throughout the song so that I can improve.\u003Cp\u003ELately however, the app I\u2019ve been using has flooded their song list with songs that aren\u2019t originals. I didn\u2019t like this at all as for me, it\u2019s easier to try to improve when you\u2019re singing along to the original.\u003Cp\u003ESo, I asked an agent (Claude Code) if it could write so",
-    "Metadata": {
-      "score": "134",
-      "author": "dsmurrell",
-      "commentCount": "60"
-    },
-    "FetchedAt": "2026-10-23T16:12:19.1189694+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50200997"
-    },
-    "Type": 1,
-    "Title": "Ask HN: If the models are so good, why doesn\u0027t OpenAI just start 100 companies?",
-    "Url": "https://news.ycombinator.com/item?id=50200997",
-    "Description": "Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker?\u003Cp\u003ECouldn\u0026#x27;t OpenAI or Anthropic make a lot more money by just starting companies themselves that leverage the models and building their own products?\u003Cp\u003EIs selling tokens really the best strategy?\u003Cp\u003EEspecially with commodification and prices declining wouldn\u0026#x27;t that indicate there is more money to be made on the application-side of the models rath",
-    "Metadata": {
-      "score": "366",
-      "author": "ex-aws-dude",
-      "commentCount": "398"
-    },
-    "FetchedAt": "2026-10-23T16:12:19.1766483+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50201445"
-    },
-    "Type": 1,
-    "Title": "How does Fable 5.1 hide messages in images?",
-    "Url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
-    "Description": "How does Fable 5.1 hide messages in images?",
-    "Metadata": {
-      "score": "172",
-      "author": "gmays",
-      "commentCount": "54"
-    },
-    "FetchedAt": "2026-10-23T16:12:19.2346918+00:00"
   },
   {
     "ExternalId": {
@@ -808,5 +718,455 @@
       "commentCount": "33"
     },
     "FetchedAt": "2026-10-23T16:12:20.3393994+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50212065"
+    },
+    "Type": 1,
+    "Title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+    "Url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.kimi.com\u0026#x2F;code\u0026#x2F;docs\u0026#x2F;en\u0026#x2F;kimi-code\u0026#x2F;models.html\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.kimi.com\u0026#x2F;code\u0026#x2F;docs\u0026#x2F;en\u0026#x2F;kimi-code\u0026#x2F;models.html\u003C/a\u003E",
+    "Metadata": {
+      "score": "491",
+      "author": "Jowsey",
+      "commentCount": "286"
+    },
+    "FetchedAt": "2026-10-23T20:50:29.266398+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50207910"
+    },
+    "Type": 1,
+    "Title": "Apple Music 404 Not Found",
+    "Url": "https://music.apple.com/this-url-doesnt-exist",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.macrumors.com\u0026#x2F;2026\u0026#x2F;10\u0026#x2F;23\u0026#x2F;apple-music-has-a-hidden-ipod-you-can-play-with\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.macrumors.com\u0026#x2F;2026\u0026#x2F;10\u0026#x2F;23\u0026#x2F;apple-music-has-a-hidde...\u003C/a\u003E",
+    "Metadata": {
+      "score": "272",
+      "author": "frizlab",
+      "commentCount": "97"
+    },
+    "FetchedAt": "2026-10-23T20:50:29.3415586+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50213337"
+    },
+    "Type": 1,
+    "Title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+    "Url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+    "Description": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+    "Metadata": {
+      "score": "110",
+      "author": "theanonymousone",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-10-23T20:50:29.3923733+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50211474"
+    },
+    "Type": 1,
+    "Title": "Today, we hacked what we\u0027d set out to hack: the iPhone",
+    "Url": "https://blog.calif.io/p/iphone",
+    "Description": "Today, we hacked what we\u0027d set out to hack: the iPhone",
+    "Metadata": {
+      "score": "568",
+      "author": "pavel_lishin",
+      "commentCount": "390"
+    },
+    "FetchedAt": "2026-10-23T20:50:29.4409628+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50213925"
+    },
+    "Type": 1,
+    "Title": "Dessa: the most authentic full-duplex speech model ever built",
+    "Url": "https://block.xyz/dessa",
+    "Description": "Dessa: the most authentic full-duplex speech model ever built",
+    "Metadata": {
+      "score": "37",
+      "author": "dsr12",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-10-23T20:50:29.4874419+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50202285"
+    },
+    "Type": 1,
+    "Title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+    "Url": "https://edjefferson.com/localwiki/",
+    "Description": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+    "Metadata": {
+      "score": "1101",
+      "author": "sohkamyung",
+      "commentCount": "212"
+    },
+    "FetchedAt": "2026-10-23T20:50:29.5312274+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50169499"
+    },
+    "Type": 1,
+    "Title": "The Real Kevin Bacon",
+    "Url": "https://pudding.cool/2026/10/kevin-bacon/",
+    "Description": "The Real Kevin Bacon",
+    "Metadata": {
+      "score": "160",
+      "author": "xnx",
+      "commentCount": "44"
+    },
+    "FetchedAt": "2026-10-23T20:50:29.5749211+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50202114"
+    },
+    "Type": 1,
+    "Title": "Canadians are running out of time to oppose Bill C-22",
+    "Url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+    "Description": "Canadians are running out of time to oppose Bill C-22",
+    "Metadata": {
+      "score": "204",
+      "author": "hn_acker",
+      "commentCount": "85"
+    },
+    "FetchedAt": "2026-10-23T20:50:29.6183484+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50214701"
+    },
+    "Type": 1,
+    "Title": "Kimi K3.1 Pro puts open-source AI a month behind the best",
+    "Url": "https://www.modelcompare.ai/blog/china-open-source-ai",
+    "Description": "Kimi K3.1 Pro puts open-source AI a month behind the best",
+    "Metadata": {
+      "score": "4",
+      "author": "rakannimer",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-23T20:50:29.661905+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50211719"
+    },
+    "Type": 1,
+    "Title": "How is music possible",
+    "Url": "https://www.henrikkarlsson.xyz/p/music",
+    "Description": "How is music possible",
+    "Metadata": {
+      "score": "71",
+      "author": "rafaelc",
+      "commentCount": "44"
+    },
+    "FetchedAt": "2026-10-23T20:50:29.7055624+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50211746"
+    },
+    "Type": 1,
+    "Title": "UUIDv7 doesn\u0027t have the properties you think it does",
+    "Url": "https://alexsci.com/blog/uuidv7-is-weird/",
+    "Description": "UUIDv7 doesn\u0027t have the properties you think it does",
+    "Metadata": {
+      "score": "80",
+      "author": "ibobev",
+      "commentCount": "68"
+    },
+    "FetchedAt": "2026-10-23T20:50:29.750251+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50212668"
+    },
+    "Type": 1,
+    "Title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
+    "Url": "https://twitter.com/robbietilton/status/2111936458923851923",
+    "Description": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
+    "Metadata": {
+      "score": "42",
+      "author": "scrambled",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-10-23T20:50:29.7939141+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50211084"
+    },
+    "Type": 1,
+    "Title": "Reforming English Spelling",
+    "Url": "https://blog.oup.com/2026/10/reforming-english-spelling/",
+    "Description": "Reforming English Spelling",
+    "Metadata": {
+      "score": "13",
+      "author": "jruohonen",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-10-23T20:50:29.8374888+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50202746"
+    },
+    "Type": 1,
+    "Title": "Show HN: Impossible Machines: declaratively program the physical world",
+    "Url": "https://www.impossiblemachines.xyz",
+    "Description": "Hey all \u2014\u003Cp\u003ESharing a thought experiment I put together. The premise: what might declarative programming feel like for the physical world?\u003Cp\u003EWe\u2019re already familiar with this paradigm in software land (eg SQL etc where we declare what we want and the execution engine figures out how).\u003Cp\u003EI didn\u2019t have access to an actuator so I mocked up the concept in software. The way it works is you demonstrate the effect and the system figures out how to achieve it. So say you want to ring a bell and you have ",
+    "Metadata": {
+      "score": "43",
+      "author": "bhaprayan",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-10-23T20:50:29.8816841+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50211729"
+    },
+    "Type": 1,
+    "Title": "The Missed Opportunities of Sonic 06 (2025)",
+    "Url": "https://isaacmarovitz.com/posts/sonic-06/",
+    "Description": "The Missed Opportunities of Sonic 06 (2025)",
+    "Metadata": {
+      "score": "51",
+      "author": "ibobev",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-10-23T20:50:29.9257259+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50199684"
+    },
+    "Type": 1,
+    "Title": "LISP Comes of Age (1980)",
+    "Url": "https://microship.com/lisp-comes-of-age/",
+    "Description": "LISP Comes of Age (1980)",
+    "Metadata": {
+      "score": "47",
+      "author": "so-cal-schemer",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-10-23T20:50:29.9702288+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50212124"
+    },
+    "Type": 1,
+    "Title": "Animations for System Builders",
+    "Url": "https://brooker.co.za/blog/2026/10/23/animations.html",
+    "Description": "Animations for System Builders",
+    "Metadata": {
+      "score": "16",
+      "author": "KraftyOne",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-10-23T20:50:30.0139188+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50214323"
+    },
+    "Type": 1,
+    "Title": "We are all living inside of an obscure sci-fi film from 1970",
+    "Url": "https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/",
+    "Description": "We are all living inside of an obscure sci-fi film from 1970",
+    "Metadata": {
+      "score": "5",
+      "author": "speckx",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-10-23T20:50:30.0591813+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50212281"
+    },
+    "Type": 1,
+    "Title": "Time Nuts (2005)",
+    "Url": "http://leapsecond.com/time-nuts.htm",
+    "Description": "Time Nuts (2005)",
+    "Metadata": {
+      "score": "23",
+      "author": "jacquesm",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-10-23T20:50:30.1047279+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50205320"
+    },
+    "Type": 1,
+    "Title": "Show HN: Swurf \u2013 Swipe through the real web",
+    "Url": "https://swurf.org/",
+    "Description": "Hello HN,\u003Cp\u003ESwurf allows you to swipe through the real web one page after another. It learns what you like and doesn\u2019t show you the same page twice. The idea came naturally: there\u2019s a seemingly infinite amount of high quality blog posts, random topic rabbit holes, and trending or cool sites that exist which the average person simply will never load on their browser. Swurf solves that by allowing you to rapidly traverse a constantly growing and learning feed of sites that it thinks you\u2019d want to ",
+    "Metadata": {
+      "score": "31",
+      "author": "webtjb096",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-10-23T20:50:30.1483616+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50212320"
+    },
+    "Type": 1,
+    "Title": "Can we replace a $150k Looker with a bucket of HTML files?",
+    "Url": "https://david.lequin.dev/blog/bi-software-is-dead/",
+    "Description": "Can we replace a $150k Looker with a bucket of HTML files?",
+    "Metadata": {
+      "score": "81",
+      "author": "skadamat",
+      "commentCount": "50"
+    },
+    "FetchedAt": "2026-10-23T20:50:30.1922665+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50211504"
+    },
+    "Type": 1,
+    "Title": "Total Historian",
+    "Url": "https://www.theideasletter.org/essay/total-historian/",
+    "Description": "Total Historian",
+    "Metadata": {
+      "score": "18",
+      "author": "benbreen",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-10-23T20:50:30.235683+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50200997"
+    },
+    "Type": 1,
+    "Title": "Ask HN: If the models are so good, why doesn\u0027t OpenAI just start 100 companies?",
+    "Url": "https://news.ycombinator.com/item?id=50200997",
+    "Description": "Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker?\u003Cp\u003ECouldn\u0026#x27;t OpenAI or Anthropic make a lot more money by just starting companies themselves that leverage the models and building their own products?\u003Cp\u003EIs selling tokens really the best strategy?\u003Cp\u003EEspecially with commodification and prices declining wouldn\u0026#x27;t that indicate there is more money to be made on the application-side of the models rath",
+    "Metadata": {
+      "score": "536",
+      "author": "ex-aws-dude",
+      "commentCount": "587"
+    },
+    "FetchedAt": "2026-10-23T20:50:30.2791316+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50206840"
+    },
+    "Type": 1,
+    "Title": "Job loss and cortisone mania",
+    "Url": "https://tilschuenemann.de/job-loss-cortisone-mania",
+    "Description": "Job loss and cortisone mania",
+    "Metadata": {
+      "score": "151",
+      "author": "speckx",
+      "commentCount": "86"
+    },
+    "FetchedAt": "2026-10-23T20:50:30.3229535+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50195488"
+    },
+    "Type": 1,
+    "Title": "Show HN: OnKey \u2013 I\u0027m a bad singer, so I built an app to show where I\u0027m off-key",
+    "Url": "https://github.com/dsmurrell/onkey",
+    "Description": "Hi all\u003Cp\u003EI was pretty terrible at singing, now I\u2019d say I\u2019m bad but not terrible. This is because I\u2019ve been using a singing app (won\u2019t name it here) that scores me on my pitch and timing throughout the song so that I can improve.\u003Cp\u003ELately however, the app I\u2019ve been using has flooded their song list with songs that aren\u2019t originals. I didn\u2019t like this at all as for me, it\u2019s easier to try to improve when you\u2019re singing along to the original.\u003Cp\u003ESo, I asked an agent (Claude Code) if it could write so",
+    "Metadata": {
+      "score": "194",
+      "author": "dsmurrell",
+      "commentCount": "82"
+    },
+    "FetchedAt": "2026-10-23T20:50:30.3668688+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50209907"
+    },
+    "Type": 1,
+    "Title": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
+    "Url": "https://bottlecapai.com/post/thinkingcap-gemma-4-26b/",
+    "Description": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
+    "Metadata": {
+      "score": "75",
+      "author": "armcat",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-10-23T20:50:30.4109454+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50213826"
+    },
+    "Type": 1,
+    "Title": "Florida officer found dead man, impersonated him for years, renovated his home",
+    "Url": "https://www.nbcnews.com/news/us-news/officer-impersonates-dead-florida-man-moved-into-home-rcna604844",
+    "Description": "Florida officer found dead man, impersonated him for years, renovated his home",
+    "Metadata": {
+      "score": "24",
+      "author": "Michelangelo11",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-10-23T20:50:30.4547367+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50195002"
+    },
+    "Type": 1,
+    "Title": "The alien space of science: Coherent but cognitively unavailable directions",
+    "Url": "https://arxiv.org/abs/2603.01092",
+    "Description": "The alien space of science: Coherent but cognitively unavailable directions",
+    "Metadata": {
+      "score": "191",
+      "author": "martincsweiss",
+      "commentCount": "78"
+    },
+    "FetchedAt": "2026-10-23T20:50:30.4983862+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50201445"
+    },
+    "Type": 1,
+    "Title": "How does Fable 5.1 hide messages in images?",
+    "Url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+    "Description": "How does Fable 5.1 hide messages in images?",
+    "Metadata": {
+      "score": "188",
+      "author": "gmays",
+      "commentCount": "69"
+    },
+    "FetchedAt": "2026-10-23T20:50:30.5420429+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50202482"
+    },
+    "Type": 1,
+    "Title": "We have traits at home",
+    "Url": "https://www.axelmagn.com/blog/202610-zig-traits/",
+    "Description": "We have traits at home",
+    "Metadata": {
+      "score": "40",
+      "author": "Ygg2",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-10-23T20:50:30.5865265+00:00"
   }
 ]
