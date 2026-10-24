@@ -1,0 +1,117 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:cloudflare/security-audit-skill"
+    },
+    "Type": 0,
+    "Title": "cloudflare/security-audit-skill",
+    "Url": "https://github.com/cloudflare/security-audit-skill",
+    "Description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "Metadata": {
+      "owner": "cloudflare",
+      "repo": "security-audit-skill",
+      "language": "JavaScript",
+      "stars": "2,716"
+    },
+    "FetchedAt": "2026-10-24T02:43:50.547224+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:php/php-src"
+    },
+    "Type": 0,
+    "Title": "php/php-src",
+    "Url": "https://github.com/php/php-src",
+    "Description": "The PHP Interpreter",
+    "Metadata": {
+      "owner": "php",
+      "repo": "php-src",
+      "language": "C",
+      "stars": "716"
+    },
+    "FetchedAt": "2026-10-24T02:43:50.7124374+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/knowledge-work-plugins"
+    },
+    "Type": 0,
+    "Title": "anthropics/knowledge-work-plugins",
+    "Url": "https://github.com/anthropics/knowledge-work-plugins",
+    "Description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "knowledge-work-plugins",
+      "language": "Python",
+      "stars": "635"
+    },
+    "FetchedAt": "2026-10-24T02:43:50.8549396+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NVIDIA/OpenShell"
+    },
+    "Type": 0,
+    "Title": "NVIDIA/OpenShell",
+    "Url": "https://github.com/NVIDIA/OpenShell",
+    "Description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "Metadata": {
+      "owner": "NVIDIA",
+      "repo": "OpenShell",
+      "language": "Rust",
+      "stars": "1,119"
+    },
+    "FetchedAt": "2026-10-24T02:43:50.9953992+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Renhuai123/ziwei-doushu"
+    },
+    "Type": 0,
+    "Title": "Renhuai123/ziwei-doushu",
+    "Url": "https://github.com/Renhuai123/ziwei-doushu",
+    "Description": "\u7D2B\u5FAE\u6597\u6570\u5F00\u6E90\u6392\u76D8\u5F15\u64CE \u2014 \u57FA\u4E8E\u502A\u6D77\u53A6\u300A\u5929\u7EAA\u300B\u4F53\u7CFB\uFF0C\u542B\u5B8C\u6574\u6392\u76D8\u7B97\u6CD5\u3001\u56DB\u5316\u7CFB\u7EDF\u3001\u683C\u5C40\u77E5\u8BC6\u5E93\u3001\u53E4\u7C4D\u539F\u6587\u6570\u636E",
+    "Metadata": {
+      "owner": "Renhuai123",
+      "repo": "ziwei-doushu",
+      "language": "TypeScript",
+      "stars": "546",
+      "topics": "bazi, chinese-astrology, divination, fortune-telling, nextjs, open-source, purple-star-astrology, typescript, zi-wei-dou-shu, ziwei-doushu"
+    },
+    "FetchedAt": "2026-10-24T02:43:51.1232863+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:SnailSploit/Claude-Red"
+    },
+    "Type": 0,
+    "Title": "SnailSploit/Claude-Red",
+    "Url": "https://github.com/SnailSploit/Claude-Red",
+    "Description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface \u2014 from SQLi to shellcode, EDR evasion to exploit development.",
+    "Metadata": {
+      "owner": "SnailSploit",
+      "repo": "Claude-Red",
+      "language": "Python",
+      "stars": "226",
+      "topics": "claude-ai, claude-pt, claude-skills, redteam, redteam-tools, skills"
+    },
+    "FetchedAt": "2026-10-24T02:43:51.2479649+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:OpenBMB/VoxCPM"
+    },
+    "Type": 0,
+    "Title": "OpenBMB/VoxCPM",
+    "Url": "https://github.com/OpenBMB/VoxCPM",
+    "Description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "Metadata": {
+      "owner": "OpenBMB",
+      "repo": "VoxCPM",
+      "language": "Python",
+      "stars": "150",
+      "topics": "audio, deeplearning, minicpm, multilingual, python, pytorch, speech, speech-synthesis, text-to-speech, tts, tts-model, voice-cloning, voice-design, voxcpm"
+    },
+    "FetchedAt": "2026-10-24T02:43:51.3798634+00:00"
+  }
+]
