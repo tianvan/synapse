@@ -1,22 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:cloudflare/security-audit-skill"
-    },
-    "Type": 0,
-    "Title": "cloudflare/security-audit-skill",
-    "Url": "https://github.com/cloudflare/security-audit-skill",
-    "Description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-    "Metadata": {
-      "owner": "cloudflare",
-      "repo": "security-audit-skill",
-      "language": "JavaScript",
-      "stars": "2,716"
-    },
-    "FetchedAt": "2026-10-24T10:03:02.9708196+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:php/php-src"
     },
     "Type": 0,
@@ -46,22 +30,6 @@
       "stars": "635"
     },
     "FetchedAt": "2026-10-24T10:03:03.419589+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:NVIDIA/OpenShell"
-    },
-    "Type": 0,
-    "Title": "NVIDIA/OpenShell",
-    "Url": "https://github.com/NVIDIA/OpenShell",
-    "Description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-    "Metadata": {
-      "owner": "NVIDIA",
-      "repo": "OpenShell",
-      "language": "Rust",
-      "stars": "1,119"
-    },
-    "FetchedAt": "2026-10-24T10:03:03.5976387+00:00"
   },
   {
     "ExternalId": {
@@ -113,5 +81,151 @@
       "topics": "audio, deeplearning, minicpm, multilingual, python, pytorch, speech, speech-synthesis, text-to-speech, tts, tts-model, voice-cloning, voice-design, voxcpm"
     },
     "FetchedAt": "2026-10-24T10:03:04.0584714+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cloudflare/security-audit-skill"
+    },
+    "Type": 0,
+    "Title": "cloudflare/security-audit-skill",
+    "Url": "https://github.com/cloudflare/security-audit-skill",
+    "Description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "Metadata": {
+      "owner": "cloudflare",
+      "repo": "security-audit-skill",
+      "language": "JavaScript",
+      "stars": "2,271"
+    },
+    "FetchedAt": "2026-10-24T15:08:48.6494449+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NVIDIA/OpenShell"
+    },
+    "Type": 0,
+    "Title": "NVIDIA/OpenShell",
+    "Url": "https://github.com/NVIDIA/OpenShell",
+    "Description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "Metadata": {
+      "owner": "NVIDIA",
+      "repo": "OpenShell",
+      "language": "Rust",
+      "stars": "893"
+    },
+    "FetchedAt": "2026-10-24T15:08:48.9442271+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:aws/agent-toolkit-for-aws"
+    },
+    "Type": 0,
+    "Title": "aws/agent-toolkit-for-aws",
+    "Url": "https://github.com/aws/agent-toolkit-for-aws",
+    "Description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+    "Metadata": {
+      "owner": "aws",
+      "repo": "agent-toolkit-for-aws",
+      "language": "Python",
+      "stars": "11"
+    },
+    "FetchedAt": "2026-10-24T15:08:49.1054854+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Nutlope/hallmark"
+    },
+    "Type": 0,
+    "Title": "Nutlope/hallmark",
+    "Url": "https://github.com/Nutlope/hallmark",
+    "Description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "Metadata": {
+      "owner": "Nutlope",
+      "repo": "hallmark",
+      "language": "CSS",
+      "stars": "567"
+    },
+    "FetchedAt": "2026-10-24T15:08:49.3171893+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pbakaus/impeccable"
+    },
+    "Type": 0,
+    "Title": "pbakaus/impeccable",
+    "Url": "https://github.com/pbakaus/impeccable",
+    "Description": "The design language that makes your AI harness better at design.",
+    "Metadata": {
+      "owner": "pbakaus",
+      "repo": "impeccable",
+      "language": "Rust",
+      "stars": "541"
+    },
+    "FetchedAt": "2026-10-24T15:08:49.4800245+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pollen-robotics/microduck"
+    },
+    "Type": 0,
+    "Title": "pollen-robotics/microduck",
+    "Url": "https://github.com/pollen-robotics/microduck",
+    "Description": "A Tiny biped duck robot \uD83E\uDD86",
+    "Metadata": {
+      "owner": "pollen-robotics",
+      "repo": "microduck",
+      "language": "Rust",
+      "stars": "421"
+    },
+    "FetchedAt": "2026-10-24T15:08:49.6241405+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google-gemini/gemini-cli"
+    },
+    "Type": 0,
+    "Title": "google-gemini/gemini-cli",
+    "Url": "https://github.com/google-gemini/gemini-cli",
+    "Description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "Metadata": {
+      "owner": "google-gemini",
+      "repo": "gemini-cli",
+      "language": "TypeScript",
+      "stars": "38",
+      "topics": "ai, ai-agents, cli, gemini, gemini-api, mcp-client, mcp-server"
+    },
+    "FetchedAt": "2026-10-24T15:08:49.7846722+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jbiaojerry/ebook-treasure-chest"
+    },
+    "Type": 0,
+    "Title": "jbiaojerry/ebook-treasure-chest",
+    "Url": "https://github.com/jbiaojerry/ebook-treasure-chest",
+    "Description": "\u6B22\u8FCE\u6765\u5230\u7535\u5B50\u4E66\u4E0B\u8F7D\u5B9D\u5E93\uFF0C\u4E00\u4E2A\u6C47\u805A\u4E86\u5404\u7C7B\u7535\u5B50\u4E66\u4E0B\u8F7D\u94FE\u63A5\u7684\u5730\u65B9\u3002\u65E0\u8BBA\u4F60\u662F\u559C\u6B22\u9605\u8BFB\u7ECF\u5178\u6587\u5B66\u3001\u7ECF\u7BA1\u52B1\u5FD7\u3001\u7EC8\u8EAB\u5B66\u4E60\u3001\u804C\u573A\u521B\u4E1A\u3001\u6280\u672F\u624B\u518C\u8FD8\u662F\u5176\u4ED6\u7C7B\u578B\u7684\u4E66\u7C4D\uFF0C\u8FD9\u91CC\u90FD\u80FD\u6EE1\u8DB3\u4F60\u7684\u9700\u6C42\u3002 \u8BE5\u5E93\u6DB5\u76D6\u4E86\u5E06\u4E66app(\u539F\u6A0A\u767B\u8BFB\u4E66)\u3001\u5FAE\u4FE1\u8BFB\u4E66\u3001\u4EAC\u4E1C\u8BFB\u4E66\u3001\u559C\u9A6C\u62C9\u96C5\u7B49\u8BFB\u4E66app\u7684\u5927\u90E8\u5206\u7535\u5B50\u4E66\u3002",
+    "Metadata": {
+      "owner": "jbiaojerry",
+      "repo": "ebook-treasure-chest",
+      "language": "Python",
+      "stars": "220"
+    },
+    "FetchedAt": "2026-10-24T15:08:49.9554289+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:makecindy/cindy"
+    },
+    "Type": 0,
+    "Title": "makecindy/cindy",
+    "Url": "https://github.com/makecindy/cindy",
+    "Description": "Consider it done. The open-source AI agent that works out of the box \u00B7 \u60F3\u5230\uFF0C\u5C31\u80FD\u505A\u5230\u3002\u5F00\u6E90\u3001\u5F00\u7BB1\u5373\u7528\u7684 AI Agent\u3002",
+    "Metadata": {
+      "owner": "makecindy",
+      "repo": "cindy",
+      "language": "TypeScript",
+      "stars": "471",
+      "topics": "agent, ai-agent, ai-assistant, android, claude-code, codex, electron, ios, llm, macos, react-native, typescript, windows"
+    },
+    "FetchedAt": "2026-10-24T15:08:50.1229736+00:00"
   }
 ]
