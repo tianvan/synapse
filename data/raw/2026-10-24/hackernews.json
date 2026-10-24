@@ -391,51 +391,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50192975"
-    },
-    "Type": 1,
-    "Title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
-    "Url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
-    "Description": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
-    "Metadata": {
-      "score": "25",
-      "author": "pjmlp",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-10-24T15:08:50.5019941+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50218430"
-    },
-    "Type": 1,
-    "Title": "OBS Studio 33",
-    "Url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-    "Description": "OBS Studio 33",
-    "Metadata": {
-      "score": "310",
-      "author": "pentagrama",
-      "commentCount": "96"
-    },
-    "FetchedAt": "2026-10-24T15:08:50.5396625+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50219666"
-    },
-    "Type": 1,
-    "Title": "I Don\u0027t Understand Quantum Physics (2018)",
-    "Url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-    "Description": "I Don\u0027t Understand Quantum Physics (2018)",
-    "Metadata": {
-      "score": "178",
-      "author": "rramadass",
-      "commentCount": "117"
-    },
-    "FetchedAt": "2026-10-24T15:08:50.5732233+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50221676"
     },
     "Type": 1,
@@ -466,21 +421,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50219177"
-    },
-    "Type": 1,
-    "Title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-    "Url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-    "Description": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-    "Metadata": {
-      "score": "115",
-      "author": "theanonymousone",
-      "commentCount": "61"
-    },
-    "FetchedAt": "2026-10-24T15:08:50.6750098+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50212065"
     },
     "Type": 1,
@@ -493,21 +433,6 @@
       "commentCount": "598"
     },
     "FetchedAt": "2026-10-24T15:08:50.7078054+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50186450"
-    },
-    "Type": 1,
-    "Title": "Physicists trap a single antimatter particle for a month",
-    "Url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
-    "Description": "Physicists trap a single antimatter particle for a month",
-    "Metadata": {
-      "score": "155",
-      "author": "mooreds",
-      "commentCount": "56"
-    },
-    "FetchedAt": "2026-10-24T15:08:50.7403796+00:00"
   },
   {
     "ExternalId": {
@@ -541,66 +466,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50217500"
-    },
-    "Type": 1,
-    "Title": "Twelve years of distributed SQLite",
-    "Url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-    "Description": "Twelve years of distributed SQLite",
-    "Metadata": {
-      "score": "289",
-      "author": "otoolep",
-      "commentCount": "43"
-    },
-    "FetchedAt": "2026-10-24T15:08:50.8398626+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50202285"
-    },
-    "Type": 1,
-    "Title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-    "Url": "https://edjefferson.com/localwiki/",
-    "Description": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-    "Metadata": {
-      "score": "1456",
-      "author": "sohkamyung",
-      "commentCount": "238"
-    },
-    "FetchedAt": "2026-10-24T15:08:50.8732513+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50207910"
-    },
-    "Type": 1,
-    "Title": "Apple Music 404 Not Found",
-    "Url": "https://music.apple.com/this-url-doesnt-exist",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.macrumors.com\u0026#x2F;2026\u0026#x2F;10\u0026#x2F;23\u0026#x2F;apple-music-has-a-hidden-ipod-you-can-play-with\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.macrumors.com\u0026#x2F;2026\u0026#x2F;10\u0026#x2F;23\u0026#x2F;apple-music-has-a-hidde...\u003C/a\u003E",
-    "Metadata": {
-      "score": "844",
-      "author": "frizlab",
-      "commentCount": "247"
-    },
-    "FetchedAt": "2026-10-24T15:08:50.907163+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50218195"
-    },
-    "Type": 1,
-    "Title": "How close can pure functional programming get to C?",
-    "Url": "https://rtfeldman.com/fp-vs-c",
-    "Description": "How close can pure functional programming get to C?",
-    "Metadata": {
-      "score": "182",
-      "author": "stmonty",
-      "commentCount": "42"
-    },
-    "FetchedAt": "2026-10-24T15:08:50.9396164+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50194536"
     },
     "Type": 1,
@@ -628,21 +493,6 @@
       "commentCount": "51"
     },
     "FetchedAt": "2026-10-24T15:08:51.0053865+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50172962"
-    },
-    "Type": 1,
-    "Title": "Bringing uv and ty together",
-    "Url": "https://astral.sh/blog/uv-ty-integration",
-    "Description": "Bringing uv and ty together",
-    "Metadata": {
-      "score": "217",
-      "author": "Ravencentric",
-      "commentCount": "68"
-    },
-    "FetchedAt": "2026-10-24T15:08:51.0385045+00:00"
   },
   {
     "ExternalId": {
@@ -718,21 +568,6 @@
       "commentCount": "2"
     },
     "FetchedAt": "2026-10-24T15:08:51.2028892+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50219700"
-    },
-    "Type": 1,
-    "Title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000\u0027s cards",
-    "Url": "https://github.com/Zagitta/gpu-unlock",
-    "Description": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000\u0027s cards",
-    "Metadata": {
-      "score": "22",
-      "author": "fragebogen",
-      "commentCount": "12"
-    },
-    "FetchedAt": "2026-10-24T15:08:51.235628+00:00"
   },
   {
     "ExternalId": {
@@ -838,5 +673,455 @@
       "commentCount": "275"
     },
     "FetchedAt": "2026-10-24T15:08:51.4849635+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50222622"
+    },
+    "Type": 1,
+    "Title": "Roku developer repositories moved from GitHub to GitLab",
+    "Url": "https://blog.roku.com/developer/gitlab-move",
+    "Description": "Roku developer repositories moved from GitHub to GitLab",
+    "Metadata": {
+      "score": "185",
+      "author": "cxr",
+      "commentCount": "125"
+    },
+    "FetchedAt": "2026-10-24T20:01:22.877192+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50223785"
+    },
+    "Type": 1,
+    "Title": "Dream-1",
+    "Url": "https://dreamlabs.ai/research/dream-1/",
+    "Description": "Dream-1",
+    "Metadata": {
+      "score": "81",
+      "author": "GaggiX",
+      "commentCount": "43"
+    },
+    "FetchedAt": "2026-10-24T20:01:22.9197962+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50224463"
+    },
+    "Type": 1,
+    "Title": "No Signs of AI Payoff Outside the Tech Sector",
+    "Url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+    "Description": "No Signs of AI Payoff Outside the Tech Sector",
+    "Metadata": {
+      "score": "14",
+      "author": "the-mitr",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-10-24T20:01:22.9622266+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50224100"
+    },
+    "Type": 1,
+    "Title": "John Carmack on the Goose Language: multiple data stacks and relative references",
+    "Url": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
+    "Description": "John Carmack on the Goose Language: multiple data stacks and relative references",
+    "Metadata": {
+      "score": "42",
+      "author": "bobbydigitales",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-10-24T20:01:23.0044428+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50224300"
+    },
+    "Type": 1,
+    "Title": "The Goose Programming Language",
+    "Url": "https://aardappel.github.io/goose/",
+    "Description": "The Goose Programming Language",
+    "Metadata": {
+      "score": "17",
+      "author": "andsoitis",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-24T20:01:23.0468837+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50222927"
+    },
+    "Type": 1,
+    "Title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+    "Url": "https://de.numista.com/9866",
+    "Description": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+    "Metadata": {
+      "score": "64",
+      "author": "schleck8",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-10-24T20:01:23.089191+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50224422"
+    },
+    "Type": 1,
+    "Title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+    "Url": "https://missileer.watch",
+    "Description": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+    "Metadata": {
+      "score": "7",
+      "author": "liotier",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-24T20:01:23.1318929+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50222133"
+    },
+    "Type": 1,
+    "Title": "FreeDNS",
+    "Url": "https://freedns.afraid.org/",
+    "Description": "FreeDNS",
+    "Metadata": {
+      "score": "187",
+      "author": "esher",
+      "commentCount": "48"
+    },
+    "FetchedAt": "2026-10-24T20:01:23.1734931+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50222525"
+    },
+    "Type": 1,
+    "Title": "Neural chip decodes interactions between brain regions",
+    "Url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+    "Description": "Neural chip decodes interactions between brain regions",
+    "Metadata": {
+      "score": "62",
+      "author": "giuliomagnifico",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-10-24T20:01:23.2171727+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50223647"
+    },
+    "Type": 1,
+    "Title": "Why is AI generated language so hard to understand?",
+    "Url": "https://arxiv.org/abs/2610.29162",
+    "Description": "Why is AI generated language so hard to understand?",
+    "Metadata": {
+      "score": "68",
+      "author": "canjobear",
+      "commentCount": "54"
+    },
+    "FetchedAt": "2026-10-24T20:01:23.2590641+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50223844"
+    },
+    "Type": 1,
+    "Title": "Danish Government silently drops plan to dump MS Office",
+    "Url": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
+    "Description": "Danish Government silently drops plan to dump MS Office",
+    "Metadata": {
+      "score": "73",
+      "author": "lowkeyokay",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-10-24T20:01:23.314958+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50219666"
+    },
+    "Type": 1,
+    "Title": "I don\u0027t understand quantum physics (2018)",
+    "Url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+    "Description": "I don\u0027t understand quantum physics (2018)",
+    "Metadata": {
+      "score": "234",
+      "author": "rramadass",
+      "commentCount": "170"
+    },
+    "FetchedAt": "2026-10-24T20:01:23.3593054+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50219177"
+    },
+    "Type": 1,
+    "Title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+    "Url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+    "Description": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+    "Metadata": {
+      "score": "232",
+      "author": "theanonymousone",
+      "commentCount": "115"
+    },
+    "FetchedAt": "2026-10-24T20:01:23.402242+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50218430"
+    },
+    "Type": 1,
+    "Title": "OBS Studio 33",
+    "Url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+    "Description": "OBS Studio 33",
+    "Metadata": {
+      "score": "409",
+      "author": "pentagrama",
+      "commentCount": "145"
+    },
+    "FetchedAt": "2026-10-24T20:01:23.444071+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50171936"
+    },
+    "Type": 1,
+    "Title": "Symbolic Learning in Python and Julia",
+    "Url": "https://github.com/astroautomata/PySR",
+    "Description": "Symbolic Learning in Python and Julia",
+    "Metadata": {
+      "score": "25",
+      "author": "alex_hirner",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-10-24T20:01:23.4862408+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50186450"
+    },
+    "Type": 1,
+    "Title": "Physicists trap a single antimatter particle for a month",
+    "Url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+    "Description": "Physicists trap a single antimatter particle for a month",
+    "Metadata": {
+      "score": "247",
+      "author": "mooreds",
+      "commentCount": "72"
+    },
+    "FetchedAt": "2026-10-24T20:01:23.5289894+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50192975"
+    },
+    "Type": 1,
+    "Title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+    "Url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
+    "Description": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+    "Metadata": {
+      "score": "74",
+      "author": "pjmlp",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-10-24T20:01:23.5709055+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50224074"
+    },
+    "Type": 1,
+    "Title": "PHP Foundation \u0027under-funded\u0027 with one full-time staff member, director says",
+    "Url": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
+    "Description": "PHP Foundation \u0027under-funded\u0027 with one full-time staff member, director says",
+    "Metadata": {
+      "score": "58",
+      "author": "firesteelrain",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-10-24T20:01:23.6126755+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50219700"
+    },
+    "Type": 1,
+    "Title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000\u0027s cards",
+    "Url": "https://github.com/Zagitta/gpu-unlock",
+    "Description": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000\u0027s cards",
+    "Metadata": {
+      "score": "128",
+      "author": "fragebogen",
+      "commentCount": "49"
+    },
+    "FetchedAt": "2026-10-24T20:01:23.6544577+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50189693"
+    },
+    "Type": 1,
+    "Title": "Building a multiplayer FPS that runs in the browser, and you can play it now",
+    "Url": "https://semperplay.com/news/operation-raven-origins-and-plan/",
+    "Description": "Building a multiplayer FPS that runs in the browser, and you can play it now",
+    "Metadata": {
+      "score": "3",
+      "author": "semperMade",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-24T20:01:23.696667+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50189981"
+    },
+    "Type": 1,
+    "Title": "Zac-OS-9: The classic Platinum desktop, reborn for modern PCs",
+    "Url": "https://sourceforge.net/projects/zac-os-9/",
+    "Description": "Zac-OS-9: The classic Platinum desktop, reborn for modern PCs",
+    "Metadata": {
+      "score": "18",
+      "author": "felixding",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-10-24T20:01:23.7387698+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50222283"
+    },
+    "Type": 1,
+    "Title": "Oai-math-revised: a community hub for revising OpenAI\u0027s math write-ups",
+    "Url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+    "Description": "Oai-math-revised: a community hub for revising OpenAI\u0027s math write-ups",
+    "Metadata": {
+      "score": "17",
+      "author": "tokepi",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-10-24T20:01:23.7814845+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50202285"
+    },
+    "Type": 1,
+    "Title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+    "Url": "https://edjefferson.com/localwiki/",
+    "Description": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+    "Metadata": {
+      "score": "1508",
+      "author": "sohkamyung",
+      "commentCount": "240"
+    },
+    "FetchedAt": "2026-10-24T20:01:23.8242656+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50217500"
+    },
+    "Type": 1,
+    "Title": "Twelve years of distributed SQLite",
+    "Url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+    "Description": "Twelve years of distributed SQLite",
+    "Metadata": {
+      "score": "345",
+      "author": "otoolep",
+      "commentCount": "51"
+    },
+    "FetchedAt": "2026-10-24T20:01:23.8660323+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50179920"
+    },
+    "Type": 1,
+    "Title": "Cecilia Berdichevsky, Clementina expert (1961)",
+    "Url": "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky",
+    "Description": "Cecilia Berdichevsky, Clementina expert (1961)",
+    "Metadata": {
+      "score": "22",
+      "author": "fedecaccia",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-24T20:01:23.9083259+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50207910"
+    },
+    "Type": 1,
+    "Title": "Apple Music 404 Not Found",
+    "Url": "https://music.apple.com/this-url-doesnt-exist",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.macrumors.com\u0026#x2F;2026\u0026#x2F;10\u0026#x2F;23\u0026#x2F;apple-music-has-a-hidden-ipod-you-can-play-with\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.macrumors.com\u0026#x2F;2026\u0026#x2F;10\u0026#x2F;23\u0026#x2F;apple-music-has-a-hidde...\u003C/a\u003E",
+    "Metadata": {
+      "score": "897",
+      "author": "frizlab",
+      "commentCount": "265"
+    },
+    "FetchedAt": "2026-10-24T20:01:23.9523071+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50223752"
+    },
+    "Type": 1,
+    "Title": "Glymphatic clearance to alleviate brain edema and Alzheimer\u0027s pathology in mice",
+    "Url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+    "Description": "Glymphatic clearance to alleviate brain edema and Alzheimer\u0027s pathology in mice",
+    "Metadata": {
+      "score": "28",
+      "author": "ersinesen",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-10-24T20:01:23.9942796+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50218195"
+    },
+    "Type": 1,
+    "Title": "How close can pure functional programming get to C?",
+    "Url": "https://rtfeldman.com/fp-vs-c",
+    "Description": "How close can pure functional programming get to C?",
+    "Metadata": {
+      "score": "232",
+      "author": "stmonty",
+      "commentCount": "67"
+    },
+    "FetchedAt": "2026-10-24T20:01:24.0380799+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50180251"
+    },
+    "Type": 1,
+    "Title": "Tiling Noise \u2013 Procedural GPU Patterns",
+    "Url": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
+    "Description": "Tiling Noise \u2013 Procedural GPU Patterns",
+    "Metadata": {
+      "score": "48",
+      "author": "ibobev",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-10-24T20:01:24.0808385+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50172962"
+    },
+    "Type": 1,
+    "Title": "Bringing uv and ty together",
+    "Url": "https://astral.sh/blog/uv-ty-integration",
+    "Description": "Bringing uv and ty together",
+    "Metadata": {
+      "score": "270",
+      "author": "Ravencentric",
+      "commentCount": "91"
+    },
+    "FetchedAt": "2026-10-24T20:01:24.1230459+00:00"
   }
 ]
