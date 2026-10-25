@@ -1,22 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:cloudflare/security-audit-skill"
-    },
-    "Type": 0,
-    "Title": "cloudflare/security-audit-skill",
-    "Url": "https://github.com/cloudflare/security-audit-skill",
-    "Description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-    "Metadata": {
-      "owner": "cloudflare",
-      "repo": "security-audit-skill",
-      "language": "JavaScript",
-      "stars": "2,264"
-    },
-    "FetchedAt": "2026-10-25T10:28:37.1520135+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:NVIDIA/OpenShell"
     },
     "Type": 0,
@@ -46,54 +30,6 @@
       "stars": "13"
     },
     "FetchedAt": "2026-10-25T10:28:37.5502918+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:Nutlope/hallmark"
-    },
-    "Type": 0,
-    "Title": "Nutlope/hallmark",
-    "Url": "https://github.com/Nutlope/hallmark",
-    "Description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-    "Metadata": {
-      "owner": "Nutlope",
-      "repo": "hallmark",
-      "language": "CSS",
-      "stars": "455"
-    },
-    "FetchedAt": "2026-10-25T10:28:37.7423293+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:pbakaus/impeccable"
-    },
-    "Type": 0,
-    "Title": "pbakaus/impeccable",
-    "Url": "https://github.com/pbakaus/impeccable",
-    "Description": "The design language that makes your AI harness better at design.",
-    "Metadata": {
-      "owner": "pbakaus",
-      "repo": "impeccable",
-      "language": "Rust",
-      "stars": "619"
-    },
-    "FetchedAt": "2026-10-25T10:28:37.8950075+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:pollen-robotics/microduck"
-    },
-    "Type": 0,
-    "Title": "pollen-robotics/microduck",
-    "Url": "https://github.com/pollen-robotics/microduck",
-    "Description": "A Tiny biped duck robot \uD83E\uDD86",
-    "Metadata": {
-      "owner": "pollen-robotics",
-      "repo": "microduck",
-      "language": "Rust",
-      "stars": "319"
-    },
-    "FetchedAt": "2026-10-25T10:28:38.0323906+00:00"
   },
   {
     "ExternalId": {
@@ -140,9 +76,141 @@
       "owner": "makecindy",
       "repo": "cindy",
       "language": "TypeScript",
-      "stars": "477",
+      "stars": "677",
       "topics": "agent, ai-agent, ai-assistant, android, claude-code, codex, electron, ios, llm, macos, react-native, typescript, windows"
     },
-    "FetchedAt": "2026-10-25T10:28:38.4764342+00:00"
+    "FetchedAt": "2026-10-25T15:20:40.0583185+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Nutlope/hallmark"
+    },
+    "Type": 0,
+    "Title": "Nutlope/hallmark",
+    "Url": "https://github.com/Nutlope/hallmark",
+    "Description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "Metadata": {
+      "owner": "Nutlope",
+      "repo": "hallmark",
+      "language": "CSS",
+      "stars": "1,359"
+    },
+    "FetchedAt": "2026-10-25T15:20:40.3613102+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pbakaus/impeccable"
+    },
+    "Type": 0,
+    "Title": "pbakaus/impeccable",
+    "Url": "https://github.com/pbakaus/impeccable",
+    "Description": "The design language that makes your AI harness better at design.",
+    "Metadata": {
+      "owner": "pbakaus",
+      "repo": "impeccable",
+      "language": "Rust",
+      "stars": "1,113"
+    },
+    "FetchedAt": "2026-10-25T15:20:40.540267+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pollen-robotics/microduck"
+    },
+    "Type": 0,
+    "Title": "pollen-robotics/microduck",
+    "Url": "https://github.com/pollen-robotics/microduck",
+    "Description": "A Tiny biped duck robot \uD83E\uDD86",
+    "Metadata": {
+      "owner": "pollen-robotics",
+      "repo": "microduck",
+      "language": "Rust",
+      "stars": "657"
+    },
+    "FetchedAt": "2026-10-25T15:20:40.7285621+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:TauricResearch/TradingAgents"
+    },
+    "Type": 0,
+    "Title": "TauricResearch/TradingAgents",
+    "Url": "https://github.com/TauricResearch/TradingAgents",
+    "Description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "Metadata": {
+      "owner": "TauricResearch",
+      "repo": "TradingAgents",
+      "language": "Python",
+      "stars": "309",
+      "topics": "agent, finance, llm, multiagent, trading"
+    },
+    "FetchedAt": "2026-10-25T15:20:40.8996091+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Renhuai123/ziwei-doushu"
+    },
+    "Type": 0,
+    "Title": "Renhuai123/ziwei-doushu",
+    "Url": "https://github.com/Renhuai123/ziwei-doushu",
+    "Description": "\u7D2B\u5FAE\u6597\u6570\u5F00\u6E90\u6392\u76D8\u5F15\u64CE \u2014 \u57FA\u4E8E\u502A\u6D77\u53A6\u300A\u5929\u7EAA\u300B\u4F53\u7CFB\uFF0C\u542B\u5B8C\u6574\u6392\u76D8\u7B97\u6CD5\u3001\u56DB\u5316\u7CFB\u7EDF\u3001\u683C\u5C40\u77E5\u8BC6\u5E93\u3001\u53E4\u7C4D\u539F\u6587\u6570\u636E",
+    "Metadata": {
+      "owner": "Renhuai123",
+      "repo": "ziwei-doushu",
+      "language": "TypeScript",
+      "stars": "489",
+      "topics": "bazi, chinese-astrology, divination, fortune-telling, nextjs, open-source, purple-star-astrology, typescript, zi-wei-dou-shu, ziwei-doushu"
+    },
+    "FetchedAt": "2026-10-25T15:20:41.0746484+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:JetBrains/thinkrail"
+    },
+    "Type": 0,
+    "Title": "JetBrains/thinkrail",
+    "Url": "https://github.com/JetBrains/thinkrail",
+    "Description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work \u2014 The Vibe You Need",
+    "Metadata": {
+      "owner": "JetBrains",
+      "repo": "thinkrail",
+      "language": "TypeScript",
+      "stars": "52",
+      "topics": "agent, agent-skills, agentic-ai, agentic-workflow, ai-coding, ai-tools, pi-agent, pi-agent-extension, spec-driven, spec-driven-coding, spec-driven-development, vibe-coding, vibecoding"
+    },
+    "FetchedAt": "2026-10-25T15:20:41.2371817+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cloudflare/security-audit-skill"
+    },
+    "Type": 0,
+    "Title": "cloudflare/security-audit-skill",
+    "Url": "https://github.com/cloudflare/security-audit-skill",
+    "Description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "Metadata": {
+      "owner": "cloudflare",
+      "repo": "security-audit-skill",
+      "language": "JavaScript",
+      "stars": "2,874"
+    },
+    "FetchedAt": "2026-10-25T15:20:41.4281049+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:AgriciDaniel/claude-seo"
+    },
+    "Type": 0,
+    "Title": "AgriciDaniel/claude-seo",
+    "Url": "https://github.com/AgriciDaniel/claude-seo",
+    "Description": "Universal SEO skill for Claude Code. 26 sub-skills \u002B 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+    "Metadata": {
+      "owner": "AgriciDaniel",
+      "repo": "claude-seo",
+      "language": "Python",
+      "stars": "179",
+      "topics": "ai, ai-seo, claude-code, claude-code-skill, marketing-automation, open-source, seo"
+    },
+    "FetchedAt": "2026-10-25T15:20:41.5952805+00:00"
   }
 ]
