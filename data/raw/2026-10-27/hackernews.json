@@ -196,51 +196,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50255298"
-    },
-    "Type": 1,
-    "Title": "The Mythical Man-Month in the Age of AI",
-    "Url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-    "Description": "The Mythical Man-Month in the Age of AI",
-    "Metadata": {
-      "score": "178",
-      "author": "ilreb",
-      "commentCount": "129"
-    },
-    "FetchedAt": "2026-10-27T11:20:33.7688112+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50251661"
-    },
-    "Type": 1,
-    "Title": "The Exponential Time Hypothesis Is False [pdf]",
-    "Url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-    "Description": "See also: \u003Ci\u003EAnnouncing three new discoveries in mathematics, computer science, and physics\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50251344\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50251344\u003C/a\u003E",
-    "Metadata": {
-      "score": "648",
-      "author": "vok",
-      "commentCount": "240"
-    },
-    "FetchedAt": "2026-10-27T11:20:33.8035598+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50256952"
-    },
-    "Type": 1,
-    "Title": "Gforth 1.0",
-    "Url": "https://gforth.org/manual/1.0/NEWS.html",
-    "Description": "Gforth 1.0",
-    "Metadata": {
-      "score": "10",
-      "author": "joshcsimmons",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-10-27T11:20:33.8390488+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50218975"
     },
     "Type": 1,
@@ -613,5 +568,455 @@
       "commentCount": "13"
     },
     "FetchedAt": "2026-10-27T11:20:34.7670704+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50261319"
+    },
+    "Type": 1,
+    "Title": "Genie 4",
+    "Url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "Description": "Genie 4",
+    "Metadata": {
+      "score": "182",
+      "author": "acossta",
+      "commentCount": "89"
+    },
+    "FetchedAt": "2026-10-27T17:07:52.3082504+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50258538"
+    },
+    "Type": 1,
+    "Title": "New iMac with M6",
+    "Url": "https://www.apple.com/imac/",
+    "Description": "New iMac with M6",
+    "Metadata": {
+      "score": "165",
+      "author": "notfried",
+      "commentCount": "160"
+    },
+    "FetchedAt": "2026-10-27T17:07:52.3441457+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50257419"
+    },
+    "Type": 1,
+    "Title": "Python\u0027s experimental JIT to be removed",
+    "Url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+    "Description": "Python\u0027s experimental JIT to be removed",
+    "Metadata": {
+      "score": "297",
+      "author": "f311a",
+      "commentCount": "153"
+    },
+    "FetchedAt": "2026-10-27T17:07:52.3803098+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50257326"
+    },
+    "Type": 1,
+    "Title": "Wikipedia\u0027s Cleanup of AI-Generated Content",
+    "Url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+    "Description": "Wikipedia\u0027s Cleanup of AI-Generated Content",
+    "Metadata": {
+      "score": "282",
+      "author": "rbanffy",
+      "commentCount": "126"
+    },
+    "FetchedAt": "2026-10-27T17:07:52.4153269+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50259604"
+    },
+    "Type": 1,
+    "Title": "The US government is hiding secret court ruling about how it spies on Americans",
+    "Url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+    "Description": "The US government is hiding secret court ruling about how it spies on Americans",
+    "Metadata": {
+      "score": "346",
+      "author": "helterskelter2",
+      "commentCount": "97"
+    },
+    "FetchedAt": "2026-10-27T17:07:52.449594+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50245014"
+    },
+    "Type": 1,
+    "Title": "Why Micron Is Suddenly Ditching 4F\u00B2 DRAM as Rivals Double Down",
+    "Url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
+    "Description": "Why Micron Is Suddenly Ditching 4F\u00B2 DRAM as Rivals Double Down",
+    "Metadata": {
+      "score": "70",
+      "author": "rbanffy",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-10-27T17:07:52.4839473+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50261583"
+    },
+    "Type": 1,
+    "Title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
+    "Url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
+    "Description": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
+    "Metadata": {
+      "score": "10",
+      "author": "bigfish2026",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-27T17:07:52.518716+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50261352"
+    },
+    "Type": 1,
+    "Title": "Apple introduces the new 14\u2011inch MacBook Pro with M6",
+    "Url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+    "Description": "Apple introduces the new 14\u2011inch MacBook Pro with M6",
+    "Metadata": {
+      "score": "40",
+      "author": "beex",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-10-27T17:07:52.55337+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50258868"
+    },
+    "Type": 1,
+    "Title": "Here be monsters: What do you still need to know when agents do the work?",
+    "Url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+    "Description": "Here be monsters: What do you still need to know when agents do the work?",
+    "Metadata": {
+      "score": "91",
+      "author": "adrq",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-10-27T17:07:52.5878801+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50261647"
+    },
+    "Type": 1,
+    "Title": "Classification of Finite Simple Groups Formalized in Lean",
+    "Url": "https://cfsg.axiommath.ai/",
+    "Description": "Classification of Finite Simple Groups Formalized in Lean",
+    "Metadata": {
+      "score": "19",
+      "author": "pfdietz",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-10-27T17:07:52.622588+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50259343"
+    },
+    "Type": 1,
+    "Title": "PHP2Shell: Exploitation attempts and remediation trends",
+    "Url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+    "Description": "PHP2Shell: Exploitation attempts and remediation trends",
+    "Metadata": {
+      "score": "148",
+      "author": "acossta",
+      "commentCount": "50"
+    },
+    "FetchedAt": "2026-10-27T17:07:52.6575584+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50232604"
+    },
+    "Type": 1,
+    "Title": "Microsoft and Others Tell Crypto Platform Not to Tokenize Their Stocks",
+    "Url": "https://gizmodo.com/microsoft-mcdonalds-verizon-and-others-tell-crypto-platform-not-to-tokenize-their-stocks-2000830368",
+    "Description": "Microsoft and Others Tell Crypto Platform Not to Tokenize Their Stocks",
+    "Metadata": {
+      "score": "9",
+      "author": "gumby",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-10-27T17:07:52.7211387+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50261784"
+    },
+    "Type": 1,
+    "Title": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
+    "Url": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/",
+    "Description": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
+    "Metadata": {
+      "score": "42",
+      "author": "ck2",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-10-27T17:07:52.7556714+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50261819"
+    },
+    "Type": 1,
+    "Title": "Police Are Using AI to Pull over Drivers for \u0027Suspicious\u0027 Behavior",
+    "Url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+    "Description": "Police Are Using AI to Pull over Drivers for \u0027Suspicious\u0027 Behavior",
+    "Metadata": {
+      "score": "17",
+      "author": "gumby",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-10-27T17:07:52.7905402+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50232101"
+    },
+    "Type": 1,
+    "Title": "OpenLDK: Bringing the Java World into Common Lisp",
+    "Url": "https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/",
+    "Description": "OpenLDK: Bringing the Java World into Common Lisp",
+    "Metadata": {
+      "score": "26",
+      "author": "atgreen",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-27T17:07:52.8258192+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50260814"
+    },
+    "Type": 1,
+    "Title": "Anthropic trained Claude on illegally obtained Stanford professors\u0027 books",
+    "Url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+    "Description": "Anthropic trained Claude on illegally obtained Stanford professors\u0027 books",
+    "Metadata": {
+      "score": "88",
+      "author": "car",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-10-27T17:07:52.8602324+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50261584"
+    },
+    "Type": 1,
+    "Title": "We let our cloud agents query prod (with OIDC, not secrets)",
+    "Url": "https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/",
+    "Description": "We let our cloud agents query prod (with OIDC, not secrets)",
+    "Metadata": {
+      "score": "9",
+      "author": "saligrama",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-27T17:07:52.8948676+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50260571"
+    },
+    "Type": 1,
+    "Title": "Show HN: Specification First Agentic Development Plugin and Prove",
+    "Url": "https://spec-first.dev/",
+    "Description": "Implemented agent smith since start 2026 with over 1000 specifications which lead to about 500k lines of code. The procedure with that spec-first works well. How do you do it?",
+    "Metadata": {
+      "score": "10",
+      "author": "hleichsenring",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-10-27T17:07:52.9295373+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50255298"
+    },
+    "Type": 1,
+    "Title": "The Mythical Man-Month in the Age of AI",
+    "Url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+    "Description": "The Mythical Man-Month in the Age of AI",
+    "Metadata": {
+      "score": "358",
+      "author": "ilreb",
+      "commentCount": "236"
+    },
+    "FetchedAt": "2026-10-27T17:07:52.9651419+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50256952"
+    },
+    "Type": 1,
+    "Title": "Gforth 1.0",
+    "Url": "https://gforth.org/manual/1.0/NEWS.html",
+    "Description": "Gforth 1.0",
+    "Metadata": {
+      "score": "114",
+      "author": "joshcsimmons",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-10-27T17:07:53.0072295+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50251661"
+    },
+    "Type": 1,
+    "Title": "The Exponential Time Hypothesis Is False [pdf]",
+    "Url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+    "Description": "See also: \u003Ci\u003EAnnouncing three new discoveries in mathematics, computer science, and physics\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50251344\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50251344\u003C/a\u003E",
+    "Metadata": {
+      "score": "755",
+      "author": "vok",
+      "commentCount": "271"
+    },
+    "FetchedAt": "2026-10-27T17:07:53.0417026+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50259406"
+    },
+    "Type": 1,
+    "Title": "Is my data used for model training?",
+    "Url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+    "Description": "Is my data used for model training?",
+    "Metadata": {
+      "score": "162",
+      "author": "jonpizza",
+      "commentCount": "75"
+    },
+    "FetchedAt": "2026-10-27T17:07:53.0766797+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50261623"
+    },
+    "Type": 1,
+    "Title": "Vicious Cycles: Theses on a philosophy of news",
+    "Url": "https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/",
+    "Description": "Vicious Cycles: Theses on a philosophy of news",
+    "Metadata": {
+      "score": "4",
+      "author": "eustoria",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-27T17:07:53.1109059+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50235661"
+    },
+    "Type": 1,
+    "Title": "A Stackless Floodfill Automaton",
+    "Url": "https://t3x.org/files/floodfill.pdf",
+    "Description": "A Stackless Floodfill Automaton",
+    "Metadata": {
+      "score": "24",
+      "author": "andsoitis",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-10-27T17:07:53.1449611+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50261579"
+    },
+    "Type": 1,
+    "Title": "Antique Fonts Collection \u2013 Restored 19th Century Typefaces",
+    "Url": "https://centurylibrary.com/collection/antique-fonts/",
+    "Description": "Antique Fonts Collection \u2013 Restored 19th Century Typefaces",
+    "Metadata": {
+      "score": "5",
+      "author": "eustoria",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-27T17:07:53.1940321+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50261544"
+    },
+    "Type": 1,
+    "Title": "Reducibility Among Combinatorial Problems (1972) [pdf]",
+    "Url": "https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf",
+    "Description": "Reducibility Among Combinatorial Problems (1972) [pdf]",
+    "Metadata": {
+      "score": "4",
+      "author": "liamswayne",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-27T17:07:53.2305508+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50257548"
+    },
+    "Type": 1,
+    "Title": "Software may be getting worse, but it used to be horrible",
+    "Url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+    "Description": "Software may be getting worse, but it used to be horrible",
+    "Metadata": {
+      "score": "230",
+      "author": "jakevoytko",
+      "commentCount": "189"
+    },
+    "FetchedAt": "2026-10-27T17:07:53.265981+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50260526"
+    },
+    "Type": 1,
+    "Title": "A $300B \u0027Debt Wall\u0027 Is Looming over Private-Equity Backed Companies",
+    "Url": "https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497",
+    "Description": "A $300B \u0027Debt Wall\u0027 Is Looming over Private-Equity Backed Companies",
+    "Metadata": {
+      "score": "42",
+      "author": "JumpCrisscross",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-10-27T17:07:53.3011586+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50260960"
+    },
+    "Type": 1,
+    "Title": "Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims",
+    "Url": "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
+    "Description": "Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims",
+    "Metadata": {
+      "score": "30",
+      "author": "hn_acker",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-10-27T17:07:53.335274+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50258521"
+    },
+    "Type": 1,
+    "Title": "New 14\u2011inch MacBook Pro with M6",
+    "Url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+    "Description": "New 14\u2011inch MacBook Pro with M6",
+    "Metadata": {
+      "score": "131",
+      "author": "meetpateltech",
+      "commentCount": "144"
+    },
+    "FetchedAt": "2026-10-27T17:07:53.3706704+00:00"
   }
 ]
