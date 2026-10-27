@@ -1,186 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:50251344"
-    },
-    "Type": 1,
-    "Title": "Three new discoveries in mathematics, computer science, and physics",
-    "Url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-    "Description": "Related:\u003Cp\u003E\u003Ci\u003EThe Exponential Time Hypothesis Is False [pdf]\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50251661\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50251661\u003C/a\u003E",
-    "Metadata": {
-      "score": "567",
-      "author": "jonluca",
-      "commentCount": "238"
-    },
-    "FetchedAt": "2026-10-27T03:07:43.04545+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50251661"
-    },
-    "Type": 1,
-    "Title": "The Exponential Time Hypothesis Is False [pdf]",
-    "Url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-    "Description": "See also: \u003Ci\u003EAnnouncing three new discoveries in mathematics, computer science, and physics\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50251344\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50251344\u003C/a\u003E",
-    "Metadata": {
-      "score": "366",
-      "author": "vok",
-      "commentCount": "139"
-    },
-    "FetchedAt": "2026-10-27T03:07:43.105325+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50245138"
-    },
-    "Type": 1,
-    "Title": "Sebastian Raschka\u0027s from-scratch video course on building reasoning models",
-    "Url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-    "Description": "Sebastian Raschka\u0027s from-scratch video course on building reasoning models",
-    "Metadata": {
-      "score": "588",
-      "author": "sgiannopoulos",
-      "commentCount": "85"
-    },
-    "FetchedAt": "2026-10-27T03:07:43.1541585+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50253529"
-    },
-    "Type": 1,
-    "Title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
-    "Url": "https://github.com/otya128/winevdm",
-    "Description": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
-    "Metadata": {
-      "score": "30",
-      "author": "doener",
-      "commentCount": "2"
-    },
-    "FetchedAt": "2026-10-27T03:07:43.2024379+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50248055"
-    },
-    "Type": 1,
-    "Title": "Oldest GUI application that still runs on Windows 11",
-    "Url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-    "Description": "Oldest GUI application that still runs on Windows 11",
-    "Metadata": {
-      "score": "329",
-      "author": "enlyth",
-      "commentCount": "197"
-    },
-    "FetchedAt": "2026-10-27T03:07:43.2516752+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50248371"
-    },
-    "Type": 1,
-    "Title": "Type Server Protocol",
-    "Url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-    "Description": "Type Server Protocol",
-    "Metadata": {
-      "score": "204",
-      "author": "adamnemecek",
-      "commentCount": "142"
-    },
-    "FetchedAt": "2026-10-27T03:07:43.3006775+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50252159"
-    },
-    "Type": 1,
-    "Title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-    "Url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-    "Description": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-    "Metadata": {
-      "score": "89",
-      "author": "wondersky",
-      "commentCount": "25"
-    },
-    "FetchedAt": "2026-10-27T03:07:43.3489068+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50245831"
-    },
-    "Type": 1,
-    "Title": "CSS-Tricks has a new owner",
-    "Url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-    "Description": "CSS-Tricks has a new owner",
-    "Metadata": {
-      "score": "398",
-      "author": "edent",
-      "commentCount": "91"
-    },
-    "FetchedAt": "2026-10-27T03:07:43.397509+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50204697"
-    },
-    "Type": 1,
-    "Title": "A Printer Printing onto Paper",
-    "Url": "https://twitter.com/macrofying/status/2112904628509528219",
-    "Description": "A Printer Printing onto Paper",
-    "Metadata": {
-      "score": "72",
-      "author": "MrBuddyCasino",
-      "commentCount": "20"
-    },
-    "FetchedAt": "2026-10-27T03:07:43.4460151+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50245385"
-    },
-    "Type": 1,
-    "Title": "Solar power is becoming bigger than nuclear",
-    "Url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
-    "Description": "Solar power is becoming bigger than nuclear",
-    "Metadata": {
-      "score": "170",
-      "author": "geox",
-      "commentCount": "279"
-    },
-    "FetchedAt": "2026-10-27T03:07:43.4973536+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50231041"
-    },
-    "Type": 1,
-    "Title": "LISPy things you can do in 64K bytes of core (2019)",
-    "Url": "https://t3x.org/lisp64k/index.html",
-    "Description": "LISPy things you can do in 64K bytes of core (2019)",
-    "Metadata": {
-      "score": "37",
-      "author": "andsoitis",
-      "commentCount": "7"
-    },
-    "FetchedAt": "2026-10-27T03:07:43.5449101+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50247493"
-    },
-    "Type": 1,
-    "Title": "Nietzschian Debugger",
-    "Url": "https://github.com/DilawarShafiq/nietzschian-debugger",
-    "Description": "Nietzschian Debugger",
-    "Metadata": {
-      "score": "139",
-      "author": "dilawargopang",
-      "commentCount": "45"
-    },
-    "FetchedAt": "2026-10-27T03:07:43.5923816+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50252008"
     },
     "Type": 1,
@@ -193,21 +13,6 @@
       "commentCount": "18"
     },
     "FetchedAt": "2026-10-27T03:07:43.6416799+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50247928"
-    },
-    "Type": 1,
-    "Title": "A Man from the Future: Why Johnny Can\u0027t Stop Abstracting",
-    "Url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
-    "Description": "A Man from the Future: Why Johnny Can\u0027t Stop Abstracting",
-    "Metadata": {
-      "score": "129",
-      "author": "aray07",
-      "commentCount": "66"
-    },
-    "FetchedAt": "2026-10-27T03:07:43.6894578+00:00"
   },
   {
     "ExternalId": {
@@ -241,81 +46,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50242939"
-    },
-    "Type": 1,
-    "Title": "Anthropic S-1",
-    "Url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-    "Description": "Anthropic S-1",
-    "Metadata": {
-      "score": "1506",
-      "author": "SiNTEx",
-      "commentCount": "1469"
-    },
-    "FetchedAt": "2026-10-27T03:07:43.8316365+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50243061"
-    },
-    "Type": 1,
-    "Title": "New iPad mini",
-    "Url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
-    "Description": "New iPad mini",
-    "Metadata": {
-      "score": "149",
-      "author": "soheilpro",
-      "commentCount": "414"
-    },
-    "FetchedAt": "2026-10-27T03:07:43.879631+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50234707"
-    },
-    "Type": 1,
-    "Title": "APC says let there be light, with standards to speed up photonics manufacturing",
-    "Url": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950",
-    "Description": "APC says let there be light, with standards to speed up photonics manufacturing",
-    "Metadata": {
-      "score": "7",
-      "author": "rbanffy",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-10-27T03:07:43.9273315+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50200152"
-    },
-    "Type": 1,
-    "Title": "Blaise Pascal invented fixed route public transport (2024)",
-    "Url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-    "Description": "Blaise Pascal invented fixed route public transport (2024)",
-    "Metadata": {
-      "score": "270",
-      "author": "skadamat",
-      "commentCount": "140"
-    },
-    "FetchedAt": "2026-10-27T03:07:43.9750248+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50236681"
-    },
-    "Type": 1,
-    "Title": "SIMD-accelerated computer vision on a $2 microcontroller",
-    "Url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
-    "Description": "SIMD-accelerated computer vision on a $2 microcontroller",
-    "Metadata": {
-      "score": "181",
-      "author": "zdw",
-      "commentCount": "56"
-    },
-    "FetchedAt": "2026-10-27T03:07:44.02315+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50245524"
     },
     "Type": 1,
@@ -328,21 +58,6 @@
       "commentCount": "714"
     },
     "FetchedAt": "2026-10-27T03:07:44.0715709+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50241664"
-    },
-    "Type": 1,
-    "Title": "Websites Should Be Printable",
-    "Url": "https://brennenputh.me/blog/printable-websites/",
-    "Description": "Websites Should Be Printable",
-    "Metadata": {
-      "score": "286",
-      "author": "bagatelle",
-      "commentCount": "180"
-    },
-    "FetchedAt": "2026-10-27T03:07:44.1203744+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +163,455 @@
       "commentCount": "65"
     },
     "FetchedAt": "2026-10-27T03:07:44.4653662+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50256985"
+    },
+    "Type": 1,
+    "Title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+    "Url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+    "Description": "Roblox downloaded 145GB models from us (including adult content) without asking",
+    "Metadata": {
+      "score": "66",
+      "author": "choult",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-10-27T11:20:33.7008344+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50251344"
+    },
+    "Type": 1,
+    "Title": "Three new discoveries in mathematics, computer science, and physics",
+    "Url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+    "Description": "Related:\u003Cp\u003E\u003Ci\u003EThe Exponential Time Hypothesis Is False [pdf]\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50251661\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50251661\u003C/a\u003E",
+    "Metadata": {
+      "score": "946",
+      "author": "jonluca",
+      "commentCount": "473"
+    },
+    "FetchedAt": "2026-10-27T11:20:33.7348716+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50255298"
+    },
+    "Type": 1,
+    "Title": "The Mythical Man-Month in the Age of AI",
+    "Url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+    "Description": "The Mythical Man-Month in the Age of AI",
+    "Metadata": {
+      "score": "178",
+      "author": "ilreb",
+      "commentCount": "129"
+    },
+    "FetchedAt": "2026-10-27T11:20:33.7688112+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50251661"
+    },
+    "Type": 1,
+    "Title": "The Exponential Time Hypothesis Is False [pdf]",
+    "Url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+    "Description": "See also: \u003Ci\u003EAnnouncing three new discoveries in mathematics, computer science, and physics\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50251344\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50251344\u003C/a\u003E",
+    "Metadata": {
+      "score": "648",
+      "author": "vok",
+      "commentCount": "240"
+    },
+    "FetchedAt": "2026-10-27T11:20:33.8035598+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50256952"
+    },
+    "Type": 1,
+    "Title": "Gforth 1.0",
+    "Url": "https://gforth.org/manual/1.0/NEWS.html",
+    "Description": "Gforth 1.0",
+    "Metadata": {
+      "score": "10",
+      "author": "joshcsimmons",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-10-27T11:20:33.8390488+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50218975"
+    },
+    "Type": 1,
+    "Title": "Show HN: Encarta 95 Web",
+    "Url": "https://benwinding.github.io/encarta_95_web/#/article/Art",
+    "Description": "Encarta is super nostalgic, and I was surprised it wasn\u0026#x27;t available to use online. So I embarked on the difficult task of making it so.\u003Cp\u003EThe way this works is the most convoluted, nonsense and brittle system ever... but it works as a statically hosted gh-pages site!\u003Cp\u003EPlease note: All the material on this site is freely available through the internet archive (see github readme)\u003Cp\u003EGithub repo -\u0026gt; \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;benwinding\u0026#x2F;encarta_95_web\u0022 rel=\u0022nofollow\u0022\u003Ehtt",
+    "Metadata": {
+      "score": "61",
+      "author": "gitgud",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-10-27T11:20:33.8730483+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50256738"
+    },
+    "Type": 1,
+    "Title": "I will no longer upload to NEW",
+    "Url": "https://lists.debian.org/debian-devel/2026/10/msg00263.html",
+    "Description": "I will no longer upload to NEW",
+    "Metadata": {
+      "score": "73",
+      "author": "edward",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-10-27T11:20:33.911224+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50245138"
+    },
+    "Type": 1,
+    "Title": "Sebastian Raschka\u0027s from-scratch video course on building reasoning models",
+    "Url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "Description": "Sebastian Raschka\u0027s from-scratch video course on building reasoning models",
+    "Metadata": {
+      "score": "723",
+      "author": "sgiannopoulos",
+      "commentCount": "101"
+    },
+    "FetchedAt": "2026-10-27T11:20:33.9454905+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50248055"
+    },
+    "Type": 1,
+    "Title": "Oldest GUI application that still runs on Windows 11",
+    "Url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+    "Description": "Oldest GUI application that still runs on Windows 11",
+    "Metadata": {
+      "score": "449",
+      "author": "enlyth",
+      "commentCount": "259"
+    },
+    "FetchedAt": "2026-10-27T11:20:33.9799812+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50255177"
+    },
+    "Type": 1,
+    "Title": "Writing about pratt parsing so I remember it",
+    "Url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+    "Description": "Writing about pratt parsing so I remember it",
+    "Metadata": {
+      "score": "41",
+      "author": "dverlaeckt80",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-10-27T11:20:34.0145259+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50253939"
+    },
+    "Type": 1,
+    "Title": "I still teach OpenGL ES 3.0",
+    "Url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+    "Description": "I still teach OpenGL ES 3.0",
+    "Metadata": {
+      "score": "74",
+      "author": "majorchord",
+      "commentCount": "45"
+    },
+    "FetchedAt": "2026-10-27T11:20:34.0482826+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50245385"
+    },
+    "Type": 1,
+    "Title": "Solar power is becoming bigger than nuclear",
+    "Url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+    "Description": "Solar power is becoming bigger than nuclear",
+    "Metadata": {
+      "score": "353",
+      "author": "geox",
+      "commentCount": "521"
+    },
+    "FetchedAt": "2026-10-27T11:20:34.082838+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50248371"
+    },
+    "Type": 1,
+    "Title": "Type Server Protocol",
+    "Url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+    "Description": "Type Server Protocol",
+    "Metadata": {
+      "score": "248",
+      "author": "adamnemecek",
+      "commentCount": "166"
+    },
+    "FetchedAt": "2026-10-27T11:20:34.118371+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50245831"
+    },
+    "Type": 1,
+    "Title": "CSS-Tricks has a new owner",
+    "Url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+    "Description": "CSS-Tricks has a new owner",
+    "Metadata": {
+      "score": "490",
+      "author": "edent",
+      "commentCount": "106"
+    },
+    "FetchedAt": "2026-10-27T11:20:34.1526608+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50252159"
+    },
+    "Type": 1,
+    "Title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+    "Url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+    "Description": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+    "Metadata": {
+      "score": "142",
+      "author": "wondersky",
+      "commentCount": "46"
+    },
+    "FetchedAt": "2026-10-27T11:20:34.1871056+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50253529"
+    },
+    "Type": 1,
+    "Title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+    "Url": "https://github.com/otya128/winevdm",
+    "Description": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+    "Metadata": {
+      "score": "93",
+      "author": "doener",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-10-27T11:20:34.2229427+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50204697"
+    },
+    "Type": 1,
+    "Title": "A Printer Printing onto Paper",
+    "Url": "https://twitter.com/macrofying/status/2112904628509528219",
+    "Description": "A Printer Printing onto Paper",
+    "Metadata": {
+      "score": "139",
+      "author": "MrBuddyCasino",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-10-27T11:20:34.2565303+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50240465"
+    },
+    "Type": 1,
+    "Title": "How to grow a cacao tree at home (2024)",
+    "Url": "https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/",
+    "Description": "How to grow a cacao tree at home (2024)",
+    "Metadata": {
+      "score": "80",
+      "author": "felipevb",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-10-27T11:20:34.2902103+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50243061"
+    },
+    "Type": 1,
+    "Title": "New iPad mini",
+    "Url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+    "Description": "New iPad mini",
+    "Metadata": {
+      "score": "214",
+      "author": "soheilpro",
+      "commentCount": "526"
+    },
+    "FetchedAt": "2026-10-27T11:20:34.3239179+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50220798"
+    },
+    "Type": 1,
+    "Title": "LimonOS Custom x86-64 Kernel",
+    "Url": "https://github.com/AnonimusShamshiAlex/LimonOS",
+    "Description": "LimonOS Custom x86-64 Kernel",
+    "Metadata": {
+      "score": "15",
+      "author": "DrMoris",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-10-27T11:20:34.3574908+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50241664"
+    },
+    "Type": 1,
+    "Title": "Websites Should Be Printable",
+    "Url": "https://brennenputh.me/blog/printable-websites/",
+    "Description": "Websites Should Be Printable",
+    "Metadata": {
+      "score": "351",
+      "author": "bagatelle",
+      "commentCount": "203"
+    },
+    "FetchedAt": "2026-10-27T11:20:34.3917206+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50247928"
+    },
+    "Type": 1,
+    "Title": "A Man from the Future: Why Johnny Can\u0027t Stop Abstracting",
+    "Url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
+    "Description": "A Man from the Future: Why Johnny Can\u0027t Stop Abstracting",
+    "Metadata": {
+      "score": "181",
+      "author": "aray07",
+      "commentCount": "83"
+    },
+    "FetchedAt": "2026-10-27T11:20:34.4267963+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50212625"
+    },
+    "Type": 1,
+    "Title": "Txoko: Basques\u0027 traditional feast a gastronomic peek into a culture (2024)",
+    "Url": "https://johnhendersontravel.com/txoko/",
+    "Description": "Txoko: Basques\u0027 traditional feast a gastronomic peek into a culture (2024)",
+    "Metadata": {
+      "score": "26",
+      "author": "jxub",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-10-27T11:20:34.4605327+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50196212"
+    },
+    "Type": 1,
+    "Title": "New \u0027Circadian\u0027 Subtype of Depression Affecting 1 in 4 Patients",
+    "Url": "https://www.sciencealert.com/researchers-identify-new-circadian-subtype-of-depression-affecting-1-in-4-patients",
+    "Description": "New \u0027Circadian\u0027 Subtype of Depression Affecting 1 in 4 Patients",
+    "Metadata": {
+      "score": "69",
+      "author": "gmays",
+      "commentCount": "41"
+    },
+    "FetchedAt": "2026-10-27T11:20:34.494939+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50200152"
+    },
+    "Type": 1,
+    "Title": "Blaise Pascal invented fixed route public transport (2024)",
+    "Url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+    "Description": "Blaise Pascal invented fixed route public transport (2024)",
+    "Metadata": {
+      "score": "294",
+      "author": "skadamat",
+      "commentCount": "150"
+    },
+    "FetchedAt": "2026-10-27T11:20:34.5287484+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50242939"
+    },
+    "Type": 1,
+    "Title": "Anthropic S-1",
+    "Url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+    "Description": "Anthropic S-1",
+    "Metadata": {
+      "score": "1624",
+      "author": "SiNTEx",
+      "commentCount": "1553"
+    },
+    "FetchedAt": "2026-10-27T11:20:34.5625504+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50234707"
+    },
+    "Type": 1,
+    "Title": "APC says let there be light, with standards to speed up photonics manufacturing",
+    "Url": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950",
+    "Description": "APC says let there be light, with standards to speed up photonics manufacturing",
+    "Metadata": {
+      "score": "38",
+      "author": "rbanffy",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-10-27T11:20:34.5979646+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50247493"
+    },
+    "Type": 1,
+    "Title": "Nietzschian Debugger",
+    "Url": "https://github.com/DilawarShafiq/nietzschian-debugger",
+    "Description": "Nietzschian Debugger",
+    "Metadata": {
+      "score": "185",
+      "author": "dilawargopang",
+      "commentCount": "53"
+    },
+    "FetchedAt": "2026-10-27T11:20:34.6711163+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50236681"
+    },
+    "Type": 1,
+    "Title": "SIMD-accelerated computer vision on a $2 microcontroller",
+    "Url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+    "Description": "SIMD-accelerated computer vision on a $2 microcontroller",
+    "Metadata": {
+      "score": "213",
+      "author": "zdw",
+      "commentCount": "61"
+    },
+    "FetchedAt": "2026-10-27T11:20:34.7333654+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50231041"
+    },
+    "Type": 1,
+    "Title": "LISPy things you can do in 64K bytes of core (2019)",
+    "Url": "https://t3x.org/lisp64k/index.html",
+    "Description": "LISPy things you can do in 64K bytes of core (2019)",
+    "Metadata": {
+      "score": "63",
+      "author": "andsoitis",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-10-27T11:20:34.7670704+00:00"
   }
 ]

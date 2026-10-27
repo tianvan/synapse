@@ -1,22 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:Nutlope/hallmark"
-    },
-    "Type": 0,
-    "Title": "Nutlope/hallmark",
-    "Url": "https://github.com/Nutlope/hallmark",
-    "Description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-    "Metadata": {
-      "owner": "Nutlope",
-      "repo": "hallmark",
-      "language": "CSS",
-      "stars": "2,244"
-    },
-    "FetchedAt": "2026-10-27T03:07:41.0391618+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:TauricResearch/TradingAgents"
     },
     "Type": 0,
@@ -31,56 +15,6 @@
       "topics": "agent, finance, llm, multiagent, trading"
     },
     "FetchedAt": "2026-10-27T03:07:41.2214562+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:JetBrains/thinkrail"
-    },
-    "Type": 0,
-    "Title": "JetBrains/thinkrail",
-    "Url": "https://github.com/JetBrains/thinkrail",
-    "Description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work \u2014 The Vibe You Need",
-    "Metadata": {
-      "owner": "JetBrains",
-      "repo": "thinkrail",
-      "language": "TypeScript",
-      "stars": "1,173",
-      "topics": "agent, agent-skills, agentic-ai, agentic-workflow, ai-coding, ai-tools, pi-agent, pi-agent-extension, spec-driven, spec-driven-coding, spec-driven-development, vibe-coding, vibecoding"
-    },
-    "FetchedAt": "2026-10-27T03:07:41.360098+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:makecindy/cindy"
-    },
-    "Type": 0,
-    "Title": "makecindy/cindy",
-    "Url": "https://github.com/makecindy/cindy",
-    "Description": "Consider it done. The open-source AI agent that works out of the box \u00B7 \u60F3\u5230\uFF0C\u5C31\u80FD\u505A\u5230\u3002\u5F00\u6E90\u3001\u5F00\u7BB1\u5373\u7528\u7684 AI Agent\u3002",
-    "Metadata": {
-      "owner": "makecindy",
-      "repo": "cindy",
-      "language": "TypeScript",
-      "stars": "1,296",
-      "topics": "agent, ai-agent, ai-assistant, android, claude-code, codex, electron, ios, llm, macos, react-native, typescript, windows"
-    },
-    "FetchedAt": "2026-10-27T03:07:41.5045471+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:pbakaus/impeccable"
-    },
-    "Type": 0,
-    "Title": "pbakaus/impeccable",
-    "Url": "https://github.com/pbakaus/impeccable",
-    "Description": "The design language that makes your AI harness better at design.",
-    "Metadata": {
-      "owner": "pbakaus",
-      "repo": "impeccable",
-      "language": "Rust",
-      "stars": "1,506"
-    },
-    "FetchedAt": "2026-10-27T03:07:41.6387904+00:00"
   },
   {
     "ExternalId": {
@@ -117,23 +51,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:nightly-labs/openbot"
-    },
-    "Type": 0,
-    "Title": "nightly-labs/openbot",
-    "Url": "https://github.com/nightly-labs/openbot",
-    "Description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-    "Metadata": {
-      "owner": "nightly-labs",
-      "repo": "openbot",
-      "language": "TypeScript",
-      "stars": "176",
-      "topics": "ai-agents, bun, codex, electron, local-first, macos, solidjs, typescript"
-    },
-    "FetchedAt": "2026-10-27T03:07:42.0774351+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:Panniantong/Agent-Reach"
     },
     "Type": 0,
@@ -148,23 +65,6 @@
       "topics": "agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript"
     },
     "FetchedAt": "2026-10-27T03:07:42.2290162+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:gitroomhq/postiz-app"
-    },
-    "Type": 0,
-    "Title": "gitroomhq/postiz-app",
-    "Url": "https://github.com/gitroomhq/postiz-app",
-    "Description": "\uD83D\uDCE8 The ultimate agentic social media scheduling tool \uD83E\uDD16",
-    "Metadata": {
-      "owner": "gitroomhq",
-      "repo": "postiz-app",
-      "language": "TypeScript",
-      "stars": "188",
-      "topics": "nextjs, open-source, open-source-social-media-scheduling-tool, oss, postiz-cloud, postiz-hosted, redis, scheduling-tool, social-media-scheduling-tool, typescript"
-    },
-    "FetchedAt": "2026-10-27T03:07:42.3639023+00:00"
   },
   {
     "ExternalId": {
@@ -197,5 +97,137 @@
       "stars": "638"
     },
     "FetchedAt": "2026-10-27T03:07:42.644928+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Nutlope/hallmark"
+    },
+    "Type": 0,
+    "Title": "Nutlope/hallmark",
+    "Url": "https://github.com/Nutlope/hallmark",
+    "Description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "Metadata": {
+      "owner": "Nutlope",
+      "repo": "hallmark",
+      "language": "CSS",
+      "stars": "2,244"
+    },
+    "FetchedAt": "2026-10-27T11:20:32.070463+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:nightly-labs/openbot"
+    },
+    "Type": 0,
+    "Title": "nightly-labs/openbot",
+    "Url": "https://github.com/nightly-labs/openbot",
+    "Description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+    "Metadata": {
+      "owner": "nightly-labs",
+      "repo": "openbot",
+      "language": "TypeScript",
+      "stars": "176",
+      "topics": "ai-agents, bun, codex, electron, local-first, macos, solidjs, typescript"
+    },
+    "FetchedAt": "2026-10-27T11:20:32.3062114+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pbakaus/impeccable"
+    },
+    "Type": 0,
+    "Title": "pbakaus/impeccable",
+    "Url": "https://github.com/pbakaus/impeccable",
+    "Description": "The design language that makes your AI harness better at design.",
+    "Metadata": {
+      "owner": "pbakaus",
+      "repo": "impeccable",
+      "language": "Rust",
+      "stars": "1,506"
+    },
+    "FetchedAt": "2026-10-27T11:20:32.5127456+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:makecindy/cindy"
+    },
+    "Type": 0,
+    "Title": "makecindy/cindy",
+    "Url": "https://github.com/makecindy/cindy",
+    "Description": "Consider it done. The open-source AI agent that works out of the box \u00B7 \u60F3\u5230\uFF0C\u5C31\u80FD\u505A\u5230\u3002\u5F00\u6E90\u3001\u5F00\u7BB1\u5373\u7528\u7684 AI Agent\u3002",
+    "Metadata": {
+      "owner": "makecindy",
+      "repo": "cindy",
+      "language": "TypeScript",
+      "stars": "1,296",
+      "topics": "agent, ai-agent, ai-assistant, android, claude-code, codex, electron, ios, llm, macos, react-native, typescript, windows"
+    },
+    "FetchedAt": "2026-10-27T11:20:32.6564656+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:gitroomhq/postiz-app"
+    },
+    "Type": 0,
+    "Title": "gitroomhq/postiz-app",
+    "Url": "https://github.com/gitroomhq/postiz-app",
+    "Description": "\uD83D\uDCE8 The ultimate agentic social media scheduling tool \uD83E\uDD16",
+    "Metadata": {
+      "owner": "gitroomhq",
+      "repo": "postiz-app",
+      "language": "TypeScript",
+      "stars": "188",
+      "topics": "nextjs, open-source, open-source-social-media-scheduling-tool, oss, postiz-cloud, postiz-hosted, redis, scheduling-tool, social-media-scheduling-tool, typescript"
+    },
+    "FetchedAt": "2026-10-27T11:20:32.8212343+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/DeepTutor"
+    },
+    "Type": 0,
+    "Title": "HKUDS/DeepTutor",
+    "Url": "https://github.com/HKUDS/DeepTutor",
+    "Description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "DeepTutor",
+      "language": "Python",
+      "stars": "1,587",
+      "topics": "ai-agents, ai-tutor, clawbot, cli-tool, deepresearch, interactive-learning, learning, multi-agent-systems, rag"
+    },
+    "FetchedAt": "2026-10-27T11:20:32.990876+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:JetBrains/thinkrail"
+    },
+    "Type": 0,
+    "Title": "JetBrains/thinkrail",
+    "Url": "https://github.com/JetBrains/thinkrail",
+    "Description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work \u2014 The Vibe You Need",
+    "Metadata": {
+      "owner": "JetBrains",
+      "repo": "thinkrail",
+      "language": "TypeScript",
+      "stars": "1,173",
+      "topics": "agent, agent-skills, agentic-ai, agentic-workflow, ai-coding, ai-tools, pi-agent, pi-agent-extension, spec-driven, spec-driven-coding, spec-driven-development, vibe-coding, vibecoding"
+    },
+    "FetchedAt": "2026-10-27T11:20:33.1643368+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:togg53192-cmd/jailbreaks"
+    },
+    "Type": 0,
+    "Title": "togg53192-cmd/jailbreaks",
+    "Url": "https://github.com/togg53192-cmd/jailbreaks",
+    "Description": "LIST OF ALL MY JAILBREAKS",
+    "Metadata": {
+      "owner": "togg53192-cmd",
+      "repo": "jailbreaks",
+      "stars": "890"
+    },
+    "FetchedAt": "2026-10-27T11:20:33.3364557+00:00"
   }
 ]
