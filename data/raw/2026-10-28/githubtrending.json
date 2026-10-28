@@ -1,73 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:Nutlope/hallmark"
-    },
-    "Type": 0,
-    "Title": "Nutlope/hallmark",
-    "Url": "https://github.com/Nutlope/hallmark",
-    "Description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-    "Metadata": {
-      "owner": "Nutlope",
-      "repo": "hallmark",
-      "language": "CSS",
-      "stars": "2,830"
-    },
-    "FetchedAt": "2026-10-28T03:20:58.0663187+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:nightly-labs/openbot"
-    },
-    "Type": 0,
-    "Title": "nightly-labs/openbot",
-    "Url": "https://github.com/nightly-labs/openbot",
-    "Description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-    "Metadata": {
-      "owner": "nightly-labs",
-      "repo": "openbot",
-      "language": "TypeScript",
-      "stars": "777",
-      "topics": "ai-agents, bun, codex, electron, local-first, macos, solidjs, typescript"
-    },
-    "FetchedAt": "2026-10-28T03:20:58.3431982+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:pbakaus/impeccable"
-    },
-    "Type": 0,
-    "Title": "pbakaus/impeccable",
-    "Url": "https://github.com/pbakaus/impeccable",
-    "Description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-    "Metadata": {
-      "owner": "pbakaus",
-      "repo": "impeccable",
-      "language": "Rust",
-      "stars": "1,449",
-      "topics": "agent-skills, ai, anti-slop, design, slop"
-    },
-    "FetchedAt": "2026-10-28T03:20:58.5100358+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:makecindy/cindy"
-    },
-    "Type": 0,
-    "Title": "makecindy/cindy",
-    "Url": "https://github.com/makecindy/cindy",
-    "Description": "Consider it done. The open-source AI agent that works out of the box \u00B7 \u60F3\u5230\uFF0C\u5C31\u80FD\u505A\u5230\u3002\u5F00\u6E90\u3001\u5F00\u7BB1\u5373\u7528\u7684 AI Agent\u3002",
-    "Metadata": {
-      "owner": "makecindy",
-      "repo": "cindy",
-      "language": "TypeScript",
-      "stars": "1,465",
-      "topics": "agent, ai-agent, ai-assistant, android, claude-code, codex, electron, ios, llm, macos, react-native, typescript, windows"
-    },
-    "FetchedAt": "2026-10-28T03:20:58.6539611+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:gitroomhq/postiz-app"
     },
     "Type": 0,
@@ -85,23 +18,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:HKUDS/DeepTutor"
-    },
-    "Type": 0,
-    "Title": "HKUDS/DeepTutor",
-    "Url": "https://github.com/HKUDS/DeepTutor",
-    "Description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-    "Metadata": {
-      "owner": "HKUDS",
-      "repo": "DeepTutor",
-      "language": "Python",
-      "stars": "1,598",
-      "topics": "ai-agents, ai-tutor, clawbot, cli-tool, deepresearch, interactive-learning, learning, multi-agent-systems, rag"
-    },
-    "FetchedAt": "2026-10-28T03:20:58.9976463+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:JetBrains/thinkrail"
     },
     "Type": 0,
@@ -112,10 +28,111 @@
       "owner": "JetBrains",
       "repo": "thinkrail",
       "language": "TypeScript",
-      "stars": "1,204",
+      "stars": "1,075",
       "topics": "agent, agent-skills, agentic-ai, agentic-workflow, ai-coding, ai-tools, pi-agent, pi-agent-extension, spec-driven, spec-driven-coding, spec-driven-development, vibe-coding, vibecoding"
     },
-    "FetchedAt": "2026-10-28T03:20:59.1545982+00:00"
+    "FetchedAt": "2026-10-28T11:54:13.9580633+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/DeepTutor"
+    },
+    "Type": 0,
+    "Title": "HKUDS/DeepTutor",
+    "Url": "https://github.com/HKUDS/DeepTutor",
+    "Description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "DeepTutor",
+      "language": "Python",
+      "stars": "2,376",
+      "topics": "ai-agents, ai-tutor, clawbot, cli-tool, deepresearch, interactive-learning, learning, multi-agent-systems, rag"
+    },
+    "FetchedAt": "2026-10-28T11:54:14.2591005+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:macro-inc/macro"
+    },
+    "Type": 0,
+    "Title": "macro-inc/macro",
+    "Url": "https://github.com/macro-inc/macro",
+    "Description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM \u2014 @-linked together with shared AI memory.",
+    "Metadata": {
+      "owner": "macro-inc",
+      "repo": "macro",
+      "language": "Rust",
+      "stars": "106",
+      "topics": "agent, ai, ai-agents, all-in-one, crm, crm-system, email, linear, mcp, messaging, notes, notion, office, rust, slack, slack-alternative, startup, startup-tools, typescript, workspace"
+    },
+    "FetchedAt": "2026-10-28T11:54:14.473788+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Nutlope/hallmark"
+    },
+    "Type": 0,
+    "Title": "Nutlope/hallmark",
+    "Url": "https://github.com/Nutlope/hallmark",
+    "Description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "Metadata": {
+      "owner": "Nutlope",
+      "repo": "hallmark",
+      "language": "CSS",
+      "stars": "2,109"
+    },
+    "FetchedAt": "2026-10-28T11:54:14.6547745+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pbakaus/impeccable"
+    },
+    "Type": 0,
+    "Title": "pbakaus/impeccable",
+    "Url": "https://github.com/pbakaus/impeccable",
+    "Description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+    "Metadata": {
+      "owner": "pbakaus",
+      "repo": "impeccable",
+      "language": "Rust",
+      "stars": "1,471",
+      "topics": "agent-skills, ai, anti-slop, design, slop"
+    },
+    "FetchedAt": "2026-10-28T11:54:14.8199068+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:makecindy/cindy"
+    },
+    "Type": 0,
+    "Title": "makecindy/cindy",
+    "Url": "https://github.com/makecindy/cindy",
+    "Description": "Consider it done. The open-source AI agent that works out of the box \u00B7 \u60F3\u5230\uFF0C\u5C31\u80FD\u505A\u5230\u3002\u5F00\u6E90\u3001\u5F00\u7BB1\u5373\u7528\u7684 AI Agent\u3002",
+    "Metadata": {
+      "owner": "makecindy",
+      "repo": "cindy",
+      "language": "TypeScript",
+      "stars": "740",
+      "topics": "agent, ai-agent, ai-assistant, android, claude-code, codex, electron, ios, llm, macos, react-native, typescript, windows"
+    },
+    "FetchedAt": "2026-10-28T11:54:14.9805853+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:nightly-labs/openbot"
+    },
+    "Type": 0,
+    "Title": "nightly-labs/openbot",
+    "Url": "https://github.com/nightly-labs/openbot",
+    "Description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+    "Metadata": {
+      "owner": "nightly-labs",
+      "repo": "openbot",
+      "language": "TypeScript",
+      "stars": "1,053",
+      "topics": "ai-agents, bun, codex, electron, local-first, macos, solidjs, typescript"
+    },
+    "FetchedAt": "2026-10-28T11:54:15.1626278+00:00"
   },
   {
     "ExternalId": {
@@ -128,8 +145,74 @@
     "Metadata": {
       "owner": "togg53192-cmd",
       "repo": "jailbreaks",
-      "stars": "902"
+      "stars": "1,478"
     },
-    "FetchedAt": "2026-10-28T03:20:59.3261288+00:00"
+    "FetchedAt": "2026-10-28T11:54:15.3382383+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:hmjz100/LinkSwift"
+    },
+    "Type": 0,
+    "Title": "hmjz100/LinkSwift",
+    "Url": "https://github.com/hmjz100/LinkSwift",
+    "Description": "\u4E00\u4E2A\u57FA\u4E8E JavaScript \u7684\u7F51\u76D8\u6587\u4EF6\u4E0B\u8F7D\u5730\u5740\u83B7\u53D6\u5DE5\u5177\u3002\u57FA\u4E8E\u3010\u7F51\u76D8\u76F4\u94FE\u4E0B\u8F7D\u52A9\u624B\u3011\u4FEE\u6539 \uFF0C\u652F\u6301 \u767E\u5EA6\u7F51\u76D8 / \u963F\u91CC\u4E91\u76D8 / \u4E2D\u56FD\u79FB\u52A8\u4E91\u76D8 / \u5929\u7FFC\u4E91\u76D8 / \u8FC5\u96F7\u4E91\u76D8 / \u5938\u514B\u7F51\u76D8 / UC\u7F51\u76D8 / 123\u4E91\u76D8 \u516B\u5927\u7F51\u76D8",
+    "Metadata": {
+      "owner": "hmjz100",
+      "repo": "LinkSwift",
+      "language": "JavaScript",
+      "stars": "3,209",
+      "topics": "123pan, aliyun-drive, aliyunpan, aria2, baidu, baidu-netdisk, baidunetdisk, baidupan, baiduyun, guangya-netdisk, motrix, quark-netdisk, tampermonkey, tampermonkey-script, tampermonkey-userscript, tianyi-netdisk, uc-netdisk, userscript, xunlei-netdisk, yidong-netdisk"
+    },
+    "FetchedAt": "2026-10-28T11:54:15.5261867+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:expo/skills"
+    },
+    "Type": 0,
+    "Title": "expo/skills",
+    "Url": "https://github.com/expo/skills",
+    "Description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+    "Metadata": {
+      "owner": "expo",
+      "repo": "skills",
+      "language": "Shell",
+      "stars": "212"
+    },
+    "FetchedAt": "2026-10-28T11:54:15.7186038+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ruvnet/RuView"
+    },
+    "Type": 0,
+    "Title": "ruvnet/RuView",
+    "Url": "https://github.com/ruvnet/RuView",
+    "Description": "\u03C0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+    "Metadata": {
+      "owner": "ruvnet",
+      "repo": "RuView",
+      "language": "Rust",
+      "stars": "415",
+      "topics": "awesome, claude, densepose, esp32, firmware, home-assistant, home-automation, iot, monitoring, networking, npm, pose-estimation, react, rf, self-learning, skills, spatial-intelligence, typescript, wifi, wifi-security"
+    },
+    "FetchedAt": "2026-10-28T11:54:15.8837719+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:xiaolai/the-craft-of-selfteaching"
+    },
+    "Type": 0,
+    "Title": "xiaolai/the-craft-of-selfteaching",
+    "Url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+    "Description": "One has no future if one couldn\u0027t teach themself.",
+    "Metadata": {
+      "owner": "xiaolai",
+      "repo": "the-craft-of-selfteaching",
+      "language": "Jupyter Notebook",
+      "stars": "143"
+    },
+    "FetchedAt": "2026-10-28T11:54:16.0764979+00:00"
   }
 ]
