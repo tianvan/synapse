@@ -1,40 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:JetBrains/thinkrail"
-    },
-    "Type": 0,
-    "Title": "JetBrains/thinkrail",
-    "Url": "https://github.com/JetBrains/thinkrail",
-    "Description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work \u2014 The Vibe You Need",
-    "Metadata": {
-      "owner": "JetBrains",
-      "repo": "thinkrail",
-      "language": "TypeScript",
-      "stars": "1,068",
-      "topics": "agent, agent-skills, agentic-ai, agentic-workflow, ai-coding, ai-tools, pi-agent, pi-agent-extension, spec-driven, spec-driven-coding, spec-driven-development, vibe-coding, vibecoding"
-    },
-    "FetchedAt": "2026-10-29T03:44:36.1914589+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:HKUDS/DeepTutor"
-    },
-    "Type": 0,
-    "Title": "HKUDS/DeepTutor",
-    "Url": "https://github.com/HKUDS/DeepTutor",
-    "Description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-    "Metadata": {
-      "owner": "HKUDS",
-      "repo": "DeepTutor",
-      "language": "Python",
-      "stars": "2,371",
-      "topics": "ai-agents, ai-tutor, clawbot, cli-tool, deepresearch, interactive-learning, learning, multi-agent-systems, rag"
-    },
-    "FetchedAt": "2026-10-29T03:44:36.4195877+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:macro-inc/macro"
     },
     "Type": 0,
@@ -68,23 +34,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:pbakaus/impeccable"
-    },
-    "Type": 0,
-    "Title": "pbakaus/impeccable",
-    "Url": "https://github.com/pbakaus/impeccable",
-    "Description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-    "Metadata": {
-      "owner": "pbakaus",
-      "repo": "impeccable",
-      "language": "Rust",
-      "stars": "1,472",
-      "topics": "agent-skills, ai, anti-slop, design, slop"
-    },
-    "FetchedAt": "2026-10-29T03:44:36.8707014+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:makecindy/cindy"
     },
     "Type": 0,
@@ -99,38 +48,6 @@
       "topics": "agent, ai-agent, ai-assistant, android, claude-code, codex, electron, ios, llm, macos, react-native, typescript, windows"
     },
     "FetchedAt": "2026-10-29T03:44:37.0026479+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:nightly-labs/openbot"
-    },
-    "Type": 0,
-    "Title": "nightly-labs/openbot",
-    "Url": "https://github.com/nightly-labs/openbot",
-    "Description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-    "Metadata": {
-      "owner": "nightly-labs",
-      "repo": "openbot",
-      "language": "TypeScript",
-      "stars": "1,054",
-      "topics": "ai-agents, bun, codex, electron, local-first, macos, solidjs, typescript"
-    },
-    "FetchedAt": "2026-10-29T03:44:37.1465853+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:togg53192-cmd/jailbreaks"
-    },
-    "Type": 0,
-    "Title": "togg53192-cmd/jailbreaks",
-    "Url": "https://github.com/togg53192-cmd/jailbreaks",
-    "Description": "LIST OF ALL MY JAILBREAKS",
-    "Metadata": {
-      "owner": "togg53192-cmd",
-      "repo": "jailbreaks",
-      "stars": "1,477"
-    },
-    "FetchedAt": "2026-10-29T03:44:37.384831+00:00"
   },
   {
     "ExternalId": {
@@ -197,5 +114,105 @@
       "stars": "148"
     },
     "FetchedAt": "2026-10-29T03:44:37.9105702+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/DeepTutor"
+    },
+    "Type": 0,
+    "Title": "HKUDS/DeepTutor",
+    "Url": "https://github.com/HKUDS/DeepTutor",
+    "Description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "DeepTutor",
+      "language": "Python",
+      "stars": "1,926",
+      "topics": "ai-agents, ai-tutor, clawbot, cli-tool, deepresearch, interactive-learning, learning, multi-agent-systems, rag"
+    },
+    "FetchedAt": "2026-10-29T12:01:38.989917+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pbakaus/impeccable"
+    },
+    "Type": 0,
+    "Title": "pbakaus/impeccable",
+    "Url": "https://github.com/pbakaus/impeccable",
+    "Description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+    "Metadata": {
+      "owner": "pbakaus",
+      "repo": "impeccable",
+      "language": "Rust",
+      "stars": "2,881",
+      "topics": "agent-skills, ai, anti-slop, design, slop"
+    },
+    "FetchedAt": "2026-10-29T12:01:39.3239318+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:JetBrains/thinkrail"
+    },
+    "Type": 0,
+    "Title": "JetBrains/thinkrail",
+    "Url": "https://github.com/JetBrains/thinkrail",
+    "Description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work \u2014 The Vibe You Need",
+    "Metadata": {
+      "owner": "JetBrains",
+      "repo": "thinkrail",
+      "language": "TypeScript",
+      "stars": "1,116",
+      "topics": "agent, agent-skills, agentic-ai, agentic-workflow, ai-coding, ai-tools, pi-agent, pi-agent-extension, spec-driven, spec-driven-coding, spec-driven-development, vibe-coding, vibecoding"
+    },
+    "FetchedAt": "2026-10-29T12:01:39.5170712+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:nightly-labs/openbot"
+    },
+    "Type": 0,
+    "Title": "nightly-labs/openbot",
+    "Url": "https://github.com/nightly-labs/openbot",
+    "Description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+    "Metadata": {
+      "owner": "nightly-labs",
+      "repo": "openbot",
+      "language": "TypeScript",
+      "stars": "705",
+      "topics": "ai-agents, bun, codex, electron, local-first, macos, solidjs, typescript"
+    },
+    "FetchedAt": "2026-10-29T12:01:39.7354562+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:CopilotKit/OpenBot"
+    },
+    "Type": 0,
+    "Title": "CopilotKit/OpenBot",
+    "Url": "https://github.com/CopilotKit/OpenBot",
+    "Description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "Metadata": {
+      "owner": "CopilotKit",
+      "repo": "OpenBot",
+      "language": "TypeScript",
+      "stars": "240",
+      "topics": "ag-ui, agent-governance, ai-agents, browser-automation, copilotkit, generative-ui, mcp"
+    },
+    "FetchedAt": "2026-10-29T12:01:39.9412529+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:togg53192-cmd/jailbreaks"
+    },
+    "Type": 0,
+    "Title": "togg53192-cmd/jailbreaks",
+    "Url": "https://github.com/togg53192-cmd/jailbreaks",
+    "Description": "LIST OF ALL MY JAILBREAKS",
+    "Metadata": {
+      "owner": "togg53192-cmd",
+      "repo": "jailbreaks",
+      "stars": "1,610"
+    },
+    "FetchedAt": "2026-10-29T12:01:40.149393+00:00"
   }
 ]
