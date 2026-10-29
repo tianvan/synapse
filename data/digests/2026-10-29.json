@@ -1,0 +1,638 @@
+{
+  "Id": "2026-10-29",
+  "GeneratedAt": "2026-10-29T04:42:35.4018261+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:JetBrains/thinkrail"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work \u2014 The Vibe You Need"
+      },
+      "Description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work \u2014 The Vibe You Need",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:HKUDS/DeepTutor"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/."
+      },
+      "Description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:macro-inc/macro"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM \u2014 @-linked together with shared"
+      },
+      "Description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM \u2014 @-linked together with shared AI memory.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Nutlope/hallmark"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+      },
+      "Description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:pbakaus/impeccable"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop"
+      },
+      "Description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:makecindy/cindy"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Consider it done. The open-source AI agent that works out of the box \u00B7 \u60F3\u5230\uFF0C\u5C31\u80FD\u505A\u5230\u3002\u5F00\u6E90\u3001\u5F00\u7BB1\u5373\u7528\u7684 AI Agent\u3002"
+      },
+      "Description": "Consider it done. The open-source AI agent that works out of the box \u00B7 \u60F3\u5230\uFF0C\u5C31\u80FD\u505A\u5230\u3002\u5F00\u6E90\u3001\u5F00\u7BB1\u5373\u7528\u7684 AI Agent\u3002",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:nightly-labs/openbot"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task"
+      },
+      "Description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:togg53192-cmd/jailbreaks"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "LIST OF ALL MY JAILBREAKS"
+      },
+      "Description": "LIST OF ALL MY JAILBREAKS",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:hmjz100/LinkSwift"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u4E00\u4E2A\u57FA\u4E8E JavaScript \u7684\u7F51\u76D8\u6587\u4EF6\u4E0B\u8F7D\u5730\u5740\u83B7\u53D6\u5DE5\u5177\u3002\u57FA\u4E8E\u3010\u7F51\u76D8\u76F4\u94FE\u4E0B\u8F7D\u52A9\u624B\u3011\u4FEE\u6539 \uFF0C\u652F\u6301 \u767E\u5EA6\u7F51\u76D8 / \u963F\u91CC\u4E91\u76D8 / \u4E2D\u56FD\u79FB\u52A8\u4E91\u76D8 / \u5929\u7FFC\u4E91\u76D8 / \u8FC5\u96F7\u4E91\u76D8 / \u5938\u514B\u7F51\u76D8 / UC\u7F51\u76D8 / 123\u4E91\u76D8 \u516B\u5927\u7F51\u76D8"
+      },
+      "Description": "\u4E00\u4E2A\u57FA\u4E8E JavaScript \u7684\u7F51\u76D8\u6587\u4EF6\u4E0B\u8F7D\u5730\u5740\u83B7\u53D6\u5DE5\u5177\u3002\u57FA\u4E8E\u3010\u7F51\u76D8\u76F4\u94FE\u4E0B\u8F7D\u52A9\u624B\u3011\u4FEE\u6539 \uFF0C\u652F\u6301 \u767E\u5EA6\u7F51\u76D8 / \u963F\u91CC\u4E91\u76D8 / \u4E2D\u56FD\u79FB\u52A8\u4E91\u76D8 / \u5929\u7FFC\u4E91\u76D8 / \u8FC5\u96F7\u4E91\u76D8 / \u5938\u514B\u7F51\u76D8 / UC\u7F51\u76D8 / 123\u4E91\u76D8 \u516B\u5927\u7F51\u76D8",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:expo/skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A collection of AI agent skills for working with Expo projects and Expo Application Services"
+      },
+      "Description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:ruvnet/RuView"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u03C0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection"
+      },
+      "Description": "\u03C0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel ",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:xiaolai/the-craft-of-selfteaching"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "One has no future if one couldn\u0027t teach themself."
+      },
+      "Description": "One has no future if one couldn\u0027t teach themself.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50282838"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5"
+      },
+      "Description": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50276998"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Why is this fingerprinting script creating bioweapons?"
+      },
+      "Description": "Why is this fingerprinting script creating bioweapons?",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50282544"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229"
+      },
+      "Description": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50280974"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A Health Update"
+      },
+      "Description": "A Health Update",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50284089"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Richest 0.1% (8M) produce more carbon pollution than 3.5B"
+      },
+      "Description": "Richest 0.1% (8M) produce more carbon pollution than 3.5B",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50274409"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "CNC Stone Carving"
+      },
+      "Description": "CNC Stone Carving",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50242873"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Human-enhanced tsunami hazard in large lakes"
+      },
+      "Description": "Human-enhanced tsunami hazard in large lakes",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50276792"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Gemini 4 Carbon"
+      },
+      "Description": "Gemini 4 Carbon",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50282454"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "StackOverflow now gets fewer than 1000 questions a month"
+      },
+      "Description": "StackOverflow now gets fewer than 1000 questions a month",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50281044"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Formlabs Studio 1 $699 Resin Printer"
+      },
+      "Description": "Formlabs Studio 1 $699 Resin Printer",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50243060"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand"
+      },
+      "Description": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50233059"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The \u0027else\u0027 keyword is probably a literal translation from German (2020)"
+      },
+      "Description": "The \u0027else\u0027 keyword is probably a literal translation from German (2020)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50276940"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.apple.com\u0026#x2F;newsroom\u0026#x2F;2026\u0026#x2F;10\u0026#x2F;apple-unveils-groundbreaking-macbook-pro-w"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.apple.com\u0026#x2F;newsroom\u0026#x2F;2026\u0026#x2F;10\u0026#x2F;apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display\u0026#x2F;\u0022 ",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50244929"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Nixpkgs for the Front End Impaired"
+      },
+      "Description": "Nixpkgs for the Front End Impaired",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50220975"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Why birds can fly over Mount Everest (2020)"
+      },
+      "Description": "Why birds can fly over Mount Everest (2020)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50280722"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The case of the 9 bit AES key"
+      },
+      "Description": "The case of the 9 bit AES key",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50233948"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How we made our MMDB files a 33% smaller"
+      },
+      "Description": "How we made our MMDB files a 33% smaller",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50280824"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel"
+      },
+      "Description": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50274251"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AlpineBSD"
+      },
+      "Description": "AlpineBSD",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50275626"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments"
+      },
+      "Description": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50271640"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Apple\u0027s git still trusts the compromised eMudhra certificates"
+      },
+      "Description": "Apple\u0027s git still trusts the compromised eMudhra certificates",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50277755"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Spiders Spin \u0027Silk Dope\u0027 into Nature\u0027s Toughest Material"
+      },
+      "Description": "Spiders Spin \u0027Silk Dope\u0027 into Nature\u0027s Toughest Material",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50250609"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Image generation has come a long way since August 2022"
+      },
+      "Description": "Image generation has come a long way since August 2022",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50282538"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The first wired XR glasses powered by Android XR"
+      },
+      "Description": "The first wired XR glasses powered by Android XR",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50278253"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Scaling Hierarchical Networks"
+      },
+      "Description": "Scaling Hierarchical Networks",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50283488"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Electronic fibers weave touchscreen into sleeve that survives machine washing"
+      },
+      "Description": "Electronic fibers weave touchscreen into sleeve that survives machine washing",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50273171"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Emacs Turns 50"
+      },
+      "Description": "Emacs Turns 50",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50280662"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Leak website releases data on DHS employees"
+      },
+      "Description": "Leak website releases data on DHS employees",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50273731"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Agent SDK"
+      },
+      "Description": "The Agent SDK",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50276883"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Why is it useful?\n- Present slides without sharing the screen and have every one be on the same page.\n- Present together"
+      },
+      "Description": "Why is it useful?\n- Present slides without sharing the screen and have every one be on the same page.\n- Present together with other cohosts and all co",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 42 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
