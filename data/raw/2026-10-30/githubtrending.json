@@ -1,57 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:HKUDS/DeepTutor"
-    },
-    "Type": 0,
-    "Title": "HKUDS/DeepTutor",
-    "Url": "https://github.com/HKUDS/DeepTutor",
-    "Description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-    "Metadata": {
-      "owner": "HKUDS",
-      "repo": "DeepTutor",
-      "language": "Python",
-      "stars": "1,930",
-      "topics": "ai-agents, ai-tutor, clawbot, cli-tool, deepresearch, interactive-learning, learning, multi-agent-systems, rag"
-    },
-    "FetchedAt": "2026-10-30T03:47:12.9581098+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:pbakaus/impeccable"
-    },
-    "Type": 0,
-    "Title": "pbakaus/impeccable",
-    "Url": "https://github.com/pbakaus/impeccable",
-    "Description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-    "Metadata": {
-      "owner": "pbakaus",
-      "repo": "impeccable",
-      "language": "Rust",
-      "stars": "2,870",
-      "topics": "agent-skills, ai, anti-slop, design, slop"
-    },
-    "FetchedAt": "2026-10-30T03:47:13.21047+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:JetBrains/thinkrail"
-    },
-    "Type": 0,
-    "Title": "JetBrains/thinkrail",
-    "Url": "https://github.com/JetBrains/thinkrail",
-    "Description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work \u2014 The Vibe You Need",
-    "Metadata": {
-      "owner": "JetBrains",
-      "repo": "thinkrail",
-      "language": "TypeScript",
-      "stars": "1,117",
-      "topics": "agent, agent-skills, agentic-ai, agentic-workflow, ai-coding, ai-tools, pi-agent, pi-agent-extension, spec-driven, spec-driven-coding, spec-driven-development, vibe-coding, vibecoding"
-    },
-    "FetchedAt": "2026-10-30T03:47:13.3604154+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:nightly-labs/openbot"
     },
     "Type": 0,
@@ -69,6 +18,23 @@
   },
   {
     "ExternalId": {
+      "Value": "github:pbakaus/impeccable"
+    },
+    "Type": 0,
+    "Title": "pbakaus/impeccable",
+    "Url": "https://github.com/pbakaus/impeccable",
+    "Description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+    "Metadata": {
+      "owner": "pbakaus",
+      "repo": "impeccable",
+      "language": "Rust",
+      "stars": "2,299",
+      "topics": "agent-skills, ai, anti-slop, design, slop"
+    },
+    "FetchedAt": "2026-10-30T11:55:28.7616698+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:CopilotKit/OpenBot"
     },
     "Type": 0,
@@ -79,10 +45,127 @@
       "owner": "CopilotKit",
       "repo": "OpenBot",
       "language": "TypeScript",
-      "stars": "247",
+      "stars": "707",
       "topics": "ag-ui, agent-governance, ai-agents, browser-automation, copilotkit, generative-ui, mcp"
     },
-    "FetchedAt": "2026-10-30T03:47:13.6967328+00:00"
+    "FetchedAt": "2026-10-30T11:55:29.0075661+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Renhuai123/ziwei-doushu"
+    },
+    "Type": 0,
+    "Title": "Renhuai123/ziwei-doushu",
+    "Url": "https://github.com/Renhuai123/ziwei-doushu",
+    "Description": "\u7D2B\u5FAE\u6597\u6570\u5F00\u6E90\u6392\u76D8\u5F15\u64CE \u2014 \u57FA\u4E8E\u502A\u6D77\u53A6\u300A\u5929\u7EAA\u300B\u4F53\u7CFB\uFF0C\u542B\u5B8C\u6574\u6392\u76D8\u7B97\u6CD5\u3001\u56DB\u5316\u7CFB\u7EDF\u3001\u683C\u5C40\u77E5\u8BC6\u5E93\u3001\u53E4\u7C4D\u539F\u6587\u6570\u636E",
+    "Metadata": {
+      "owner": "Renhuai123",
+      "repo": "ziwei-doushu",
+      "language": "TypeScript",
+      "stars": "1,146",
+      "topics": "bazi, chinese-astrology, divination, fortune-telling, nextjs, open-source, purple-star-astrology, typescript, zi-wei-dou-shu, ziwei-doushu"
+    },
+    "FetchedAt": "2026-10-30T11:55:29.1581128+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:expo/skills"
+    },
+    "Type": 0,
+    "Title": "expo/skills",
+    "Url": "https://github.com/expo/skills",
+    "Description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+    "Metadata": {
+      "owner": "expo",
+      "repo": "skills",
+      "language": "Shell",
+      "stars": "233"
+    },
+    "FetchedAt": "2026-10-30T11:55:29.329524+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:macro-inc/macro"
+    },
+    "Type": 0,
+    "Title": "macro-inc/macro",
+    "Url": "https://github.com/macro-inc/macro",
+    "Description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM \u2014 @-linked together with shared AI memory.",
+    "Metadata": {
+      "owner": "macro-inc",
+      "repo": "macro",
+      "language": "Rust",
+      "stars": "379",
+      "topics": "agent, ai, ai-agents, all-in-one, crm, crm-system, email, linear, mcp, messaging, notes, notion, office, rust, slack, slack-alternative, startup, startup-tools, typescript, workspace"
+    },
+    "FetchedAt": "2026-10-30T11:55:29.487608+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pingdotgg/t3code"
+    },
+    "Type": 0,
+    "Title": "pingdotgg/t3code",
+    "Url": "https://github.com/pingdotgg/t3code",
+    "Description": "",
+    "Metadata": {
+      "owner": "pingdotgg",
+      "repo": "t3code",
+      "language": "TypeScript",
+      "stars": "920"
+    },
+    "FetchedAt": "2026-10-30T11:55:29.6233699+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/DeepTutor"
+    },
+    "Type": 0,
+    "Title": "HKUDS/DeepTutor",
+    "Url": "https://github.com/HKUDS/DeepTutor",
+    "Description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "DeepTutor",
+      "language": "Python",
+      "stars": "2,282",
+      "topics": "ai-agents, ai-tutor, clawbot, cli-tool, deepresearch, interactive-learning, learning, multi-agent-systems, rag"
+    },
+    "FetchedAt": "2026-10-30T11:55:29.8084088+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/skills"
+    },
+    "Type": 0,
+    "Title": "anthropics/skills",
+    "Url": "https://github.com/anthropics/skills",
+    "Description": "Public repository for Agent Skills",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "skills",
+      "language": "Python",
+      "stars": "287",
+      "topics": "agent-skills"
+    },
+    "FetchedAt": "2026-10-30T11:55:29.9633649+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:JetBrains/thinkrail"
+    },
+    "Type": 0,
+    "Title": "JetBrains/thinkrail",
+    "Url": "https://github.com/JetBrains/thinkrail",
+    "Description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work \u2014 The Vibe You Need",
+    "Metadata": {
+      "owner": "JetBrains",
+      "repo": "thinkrail",
+      "language": "TypeScript",
+      "stars": "717",
+      "topics": "agent, agent-skills, agentic-ai, agentic-workflow, ai-coding, ai-tools, pi-agent, pi-agent-extension, spec-driven, spec-driven-coding, spec-driven-development, vibe-coding, vibecoding"
+    },
+    "FetchedAt": "2026-10-30T11:55:30.1377901+00:00"
   },
   {
     "ExternalId": {
@@ -95,8 +178,25 @@
     "Metadata": {
       "owner": "togg53192-cmd",
       "repo": "jailbreaks",
-      "stars": "1,594"
+      "stars": "2,053"
     },
-    "FetchedAt": "2026-10-30T03:47:13.8469478+00:00"
+    "FetchedAt": "2026-10-30T11:55:30.2958325+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:lightpanda-io/browser"
+    },
+    "Type": 0,
+    "Title": "lightpanda-io/browser",
+    "Url": "https://github.com/lightpanda-io/browser",
+    "Description": "Lightpanda: the headless browser designed for AI and automation",
+    "Metadata": {
+      "owner": "lightpanda-io",
+      "repo": "browser",
+      "language": "Zig",
+      "stars": "559",
+      "topics": "browser, browser-automation, cdp, headless, lightpanda, playwright, puppeteer, zig"
+    },
+    "FetchedAt": "2026-10-30T11:55:30.4502531+00:00"
   }
 ]
