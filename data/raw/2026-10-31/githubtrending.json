@@ -1,0 +1,185 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:pbakaus/impeccable"
+    },
+    "Type": 0,
+    "Title": "pbakaus/impeccable",
+    "Url": "https://github.com/pbakaus/impeccable",
+    "Description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+    "Metadata": {
+      "owner": "pbakaus",
+      "repo": "impeccable",
+      "language": "Rust",
+      "stars": "2,300",
+      "topics": "agent-skills, ai, anti-slop, design, slop"
+    },
+    "FetchedAt": "2026-10-31T03:30:55.7228063+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:CopilotKit/OpenBot"
+    },
+    "Type": 0,
+    "Title": "CopilotKit/OpenBot",
+    "Url": "https://github.com/CopilotKit/OpenBot",
+    "Description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "Metadata": {
+      "owner": "CopilotKit",
+      "repo": "OpenBot",
+      "language": "TypeScript",
+      "stars": "706",
+      "topics": "ag-ui, agent-governance, ai-agents, browser-automation, copilotkit, generative-ui, mcp"
+    },
+    "FetchedAt": "2026-10-31T03:30:56.0075897+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Renhuai123/ziwei-doushu"
+    },
+    "Type": 0,
+    "Title": "Renhuai123/ziwei-doushu",
+    "Url": "https://github.com/Renhuai123/ziwei-doushu",
+    "Description": "\u7D2B\u5FAE\u6597\u6570\u5F00\u6E90\u6392\u76D8\u5F15\u64CE \u2014 \u57FA\u4E8E\u502A\u6D77\u53A6\u300A\u5929\u7EAA\u300B\u4F53\u7CFB\uFF0C\u542B\u5B8C\u6574\u6392\u76D8\u7B97\u6CD5\u3001\u56DB\u5316\u7CFB\u7EDF\u3001\u683C\u5C40\u77E5\u8BC6\u5E93\u3001\u53E4\u7C4D\u539F\u6587\u6570\u636E",
+    "Metadata": {
+      "owner": "Renhuai123",
+      "repo": "ziwei-doushu",
+      "language": "TypeScript",
+      "stars": "1,126",
+      "topics": "bazi, chinese-astrology, divination, fortune-telling, nextjs, open-source, purple-star-astrology, typescript, zi-wei-dou-shu, ziwei-doushu"
+    },
+    "FetchedAt": "2026-10-31T03:30:56.1944288+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:expo/skills"
+    },
+    "Type": 0,
+    "Title": "expo/skills",
+    "Url": "https://github.com/expo/skills",
+    "Description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+    "Metadata": {
+      "owner": "expo",
+      "repo": "skills",
+      "language": "Shell",
+      "stars": "38"
+    },
+    "FetchedAt": "2026-10-31T03:30:56.3704506+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:macro-inc/macro"
+    },
+    "Type": 0,
+    "Title": "macro-inc/macro",
+    "Url": "https://github.com/macro-inc/macro",
+    "Description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM \u2014 @-linked together with shared AI memory.",
+    "Metadata": {
+      "owner": "macro-inc",
+      "repo": "macro",
+      "language": "Rust",
+      "stars": "57",
+      "topics": "agent, ai, ai-agents, all-in-one, crm, crm-system, email, linear, mcp, messaging, notes, notion, office, rust, slack, slack-alternative, startup, startup-tools, typescript, workspace"
+    },
+    "FetchedAt": "2026-10-31T03:30:56.5291364+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pingdotgg/t3code"
+    },
+    "Type": 0,
+    "Title": "pingdotgg/t3code",
+    "Url": "https://github.com/pingdotgg/t3code",
+    "Description": "",
+    "Metadata": {
+      "owner": "pingdotgg",
+      "repo": "t3code",
+      "language": "TypeScript",
+      "stars": "930"
+    },
+    "FetchedAt": "2026-10-31T03:30:56.6948636+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/DeepTutor"
+    },
+    "Type": 0,
+    "Title": "HKUDS/DeepTutor",
+    "Url": "https://github.com/HKUDS/DeepTutor",
+    "Description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "DeepTutor",
+      "language": "Python",
+      "stars": "2,282",
+      "topics": "ai-agents, ai-tutor, clawbot, cli-tool, deepresearch, interactive-learning, learning, multi-agent-systems, rag"
+    },
+    "FetchedAt": "2026-10-31T03:30:56.8539088+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/skills"
+    },
+    "Type": 0,
+    "Title": "anthropics/skills",
+    "Url": "https://github.com/anthropics/skills",
+    "Description": "Public repository for Agent Skills",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "skills",
+      "language": "Python",
+      "stars": "295",
+      "topics": "agent-skills"
+    },
+    "FetchedAt": "2026-10-31T03:30:57.0246572+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:JetBrains/thinkrail"
+    },
+    "Type": 0,
+    "Title": "JetBrains/thinkrail",
+    "Url": "https://github.com/JetBrains/thinkrail",
+    "Description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work \u2014 The Vibe You Need",
+    "Metadata": {
+      "owner": "JetBrains",
+      "repo": "thinkrail",
+      "language": "TypeScript",
+      "stars": "722",
+      "topics": "agent, agent-skills, agentic-ai, agentic-workflow, ai-coding, ai-tools, pi-agent, pi-agent-extension, spec-driven, spec-driven-coding, spec-driven-development, vibe-coding, vibecoding"
+    },
+    "FetchedAt": "2026-10-31T03:30:57.204166+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:togg53192-cmd/jailbreaks"
+    },
+    "Type": 0,
+    "Title": "togg53192-cmd/jailbreaks",
+    "Url": "https://github.com/togg53192-cmd/jailbreaks",
+    "Description": "LIST OF ALL MY JAILBREAKS",
+    "Metadata": {
+      "owner": "togg53192-cmd",
+      "repo": "jailbreaks",
+      "stars": "2,055"
+    },
+    "FetchedAt": "2026-10-31T03:30:57.3966698+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:lightpanda-io/browser"
+    },
+    "Type": 0,
+    "Title": "lightpanda-io/browser",
+    "Url": "https://github.com/lightpanda-io/browser",
+    "Description": "Lightpanda: the headless browser designed for AI and automation",
+    "Metadata": {
+      "owner": "lightpanda-io",
+      "repo": "browser",
+      "language": "Zig",
+      "stars": "626",
+      "topics": "browser, browser-automation, cdp, headless, lightpanda, playwright, puppeteer, zig"
+    },
+    "FetchedAt": "2026-10-31T03:30:57.5529524+00:00"
+  }
+]
