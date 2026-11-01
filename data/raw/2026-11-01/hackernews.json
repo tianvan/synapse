@@ -1,81 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:50319510"
-    },
-    "Type": 1,
-    "Title": "HackerTube: YouTube built from videos recommended by HN",
-    "Url": "https://karpathy.bearblog.dev/hacker-tube/",
-    "Description": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;hackertube.org\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;hackertube.org\u0026#x2F;\u003C/a\u003E",
-    "Metadata": {
-      "score": "859",
-      "author": "karpathy",
-      "commentCount": "272"
-    },
-    "FetchedAt": "2026-11-01T03:36:14.7817733+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50320963"
-    },
-    "Type": 1,
-    "Title": "An Italian farmer found some unknown seeds in his attic and planted them",
-    "Url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-    "Description": "An Italian farmer found some unknown seeds in his attic and planted them",
-    "Metadata": {
-      "score": "210",
-      "author": "ecares",
-      "commentCount": "62"
-    },
-    "FetchedAt": "2026-11-01T03:36:14.8666149+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50319143"
-    },
-    "Type": 1,
-    "Title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-    "Url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-    "Description": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-    "Metadata": {
-      "score": "382",
-      "author": "oger",
-      "commentCount": "180"
-    },
-    "FetchedAt": "2026-11-01T03:36:15.0213288+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50320995"
-    },
-    "Type": 1,
-    "Title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-    "Url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-    "Description": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-    "Metadata": {
-      "score": "115",
-      "author": "guregodevo",
-      "commentCount": "60"
-    },
-    "FetchedAt": "2026-11-01T03:36:15.4692143+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50321048"
-    },
-    "Type": 1,
-    "Title": "Altoids Project",
-    "Url": "https://uvdn7.github.io/altoids-project/",
-    "Description": "Altoids Project",
-    "Metadata": {
-      "score": "64",
-      "author": "uvdn7",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-11-01T03:36:15.5222271+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50321130"
     },
     "Type": 1,
@@ -88,51 +13,6 @@
       "commentCount": "24"
     },
     "FetchedAt": "2026-11-01T03:36:15.6372842+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50318720"
-    },
-    "Type": 1,
-    "Title": "It\u0027s the memory latency, stupid",
-    "Url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-    "Description": "It\u0027s the memory latency, stupid",
-    "Metadata": {
-      "score": "144",
-      "author": "ntur1337",
-      "commentCount": "43"
-    },
-    "FetchedAt": "2026-11-01T03:36:15.7075146+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50311045"
-    },
-    "Type": 1,
-    "Title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
-    "Url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
-    "Description": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
-    "Metadata": {
-      "score": "47",
-      "author": "ohjeez",
-      "commentCount": "13"
-    },
-    "FetchedAt": "2026-11-01T03:36:15.7558315+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50316100"
-    },
-    "Type": 1,
-    "Title": "Jepsen: ParticleDB 1.1.4",
-    "Url": "https://jepsen.io/analyses/particledb-1.1.4",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;jepsen-io\u0026#x2F;particledb\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;jepsen-io\u0026#x2F;particledb\u003C/a\u003E",
-    "Metadata": {
-      "score": "216",
-      "author": "aphyr",
-      "commentCount": "119"
-    },
-    "FetchedAt": "2026-11-01T03:36:15.8045881+00:00"
   },
   {
     "ExternalId": {
@@ -151,21 +31,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50319563"
-    },
-    "Type": 1,
-    "Title": "Surviving \u0022The Graduate\u0022",
-    "Url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;Eqn1F\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;Eqn1F\u003C/a\u003E",
-    "Metadata": {
-      "score": "73",
-      "author": "samizdis",
-      "commentCount": "22"
-    },
-    "FetchedAt": "2026-11-01T03:36:15.9062277+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50321522"
     },
     "Type": 1,
@@ -178,36 +43,6 @@
       "commentCount": "4"
     },
     "FetchedAt": "2026-11-01T03:36:15.9519253+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50319061"
-    },
-    "Type": 1,
-    "Title": "The Duty of a Scholar",
-    "Url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
-    "Description": "The Duty of a Scholar",
-    "Metadata": {
-      "score": "96",
-      "author": "gslin",
-      "commentCount": "28"
-    },
-    "FetchedAt": "2026-11-01T03:36:15.9967789+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50314699"
-    },
-    "Type": 1,
-    "Title": "Do the math: How we took over ChatGPT accounts",
-    "Url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-    "Description": "Do the math: How we took over ChatGPT accounts",
-    "Metadata": {
-      "score": "308",
-      "author": "armcat",
-      "commentCount": "152"
-    },
-    "FetchedAt": "2026-11-01T03:36:16.0429052+00:00"
   },
   {
     "ExternalId": {
@@ -241,21 +76,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50261253"
-    },
-    "Type": 1,
-    "Title": "Simple circuits can create complex behaviors",
-    "Url": "https://aatishb.com/myriad/lets-build-a-brain/",
-    "Description": "Simple circuits can create complex behaviors",
-    "Metadata": {
-      "score": "221",
-      "author": "aatish",
-      "commentCount": "69"
-    },
-    "FetchedAt": "2026-11-01T03:36:16.2105306+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50301723"
     },
     "Type": 1,
@@ -268,51 +88,6 @@
       "commentCount": "2"
     },
     "FetchedAt": "2026-11-01T03:36:16.2695604+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50319110"
-    },
-    "Type": 1,
-    "Title": "Electrification Could Cut Global Energy Use in Half",
-    "Url": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
-    "Description": "Electrification Could Cut Global Energy Use in Half",
-    "Metadata": {
-      "score": "42",
-      "author": "toomuchtodo",
-      "commentCount": "7"
-    },
-    "FetchedAt": "2026-11-01T03:36:16.3447835+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50304718"
-    },
-    "Type": 1,
-    "Title": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
-    "Url": "https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/",
-    "Description": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
-    "Metadata": {
-      "score": "3",
-      "author": "the-mitr",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-11-01T03:36:16.40653+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50284789"
-    },
-    "Type": 1,
-    "Title": "Edgar Allan Poe, Quintessential American Writer",
-    "Url": "https://slate.com/culture/2026/10/edgar-allan-poe-poems-stories-most-influential-american-writer-death-horror-detective.html",
-    "Description": "Edgar Allan Poe, Quintessential American Writer",
-    "Metadata": {
-      "score": "9",
-      "author": "samclemens",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-11-01T03:36:16.4595749+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +223,455 @@
       "commentCount": "45"
     },
     "FetchedAt": "2026-11-01T03:36:17.2216635+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50324388"
+    },
+    "Type": 1,
+    "Title": "Norway makes shithouses great again",
+    "Url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+    "Description": "Norway makes shithouses great again",
+    "Metadata": {
+      "score": "199",
+      "author": "giuliomagnifico",
+      "commentCount": "79"
+    },
+    "FetchedAt": "2026-11-01T12:26:06.8307178+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50319510"
+    },
+    "Type": 1,
+    "Title": "HackerTube: YouTube built from videos recommended by HN",
+    "Url": "https://karpathy.bearblog.dev/hacker-tube/",
+    "Description": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;hackertube.org\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;hackertube.org\u0026#x2F;\u003C/a\u003E",
+    "Metadata": {
+      "score": "1463",
+      "author": "karpathy",
+      "commentCount": "395"
+    },
+    "FetchedAt": "2026-11-01T12:26:06.8922494+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50324118"
+    },
+    "Type": 1,
+    "Title": "A tiny Pacific country rolls out universal basic income",
+    "Url": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
+    "Description": "A tiny Pacific country rolls out universal basic income",
+    "Metadata": {
+      "score": "41",
+      "author": "motionlessveloc",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-11-01T12:26:06.9370925+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50320963"
+    },
+    "Type": 1,
+    "Title": "An Italian farmer found some unknown seeds in his attic and planted them",
+    "Url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+    "Description": "An Italian farmer found some unknown seeds in his attic and planted them",
+    "Metadata": {
+      "score": "506",
+      "author": "ecares",
+      "commentCount": "158"
+    },
+    "FetchedAt": "2026-11-01T12:26:06.9721823+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50322173"
+    },
+    "Type": 1,
+    "Title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+    "Url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+    "Description": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+    "Metadata": {
+      "score": "159",
+      "author": "doodlesdev",
+      "commentCount": "66"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.0127239+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50324371"
+    },
+    "Type": 1,
+    "Title": "Domain hacks with unusual Unicode characters (2018)",
+    "Url": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/\uD83C\uDD86\uD83C\uDD83\uD83C\uDD75/",
+    "Description": "Domain hacks with unusual Unicode characters (2018)",
+    "Metadata": {
+      "score": "14",
+      "author": "n_plus_1_acc",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.0491684+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50323088"
+    },
+    "Type": 1,
+    "Title": "The AI cost of JavaScript frameworks",
+    "Url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+    "Description": "The AI cost of JavaScript frameworks",
+    "Metadata": {
+      "score": "117",
+      "author": "luu",
+      "commentCount": "67"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.0814141+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50319143"
+    },
+    "Type": 1,
+    "Title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+    "Url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+    "Description": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+    "Metadata": {
+      "score": "545",
+      "author": "oger",
+      "commentCount": "250"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.1102551+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50303984"
+    },
+    "Type": 1,
+    "Title": "Running a bootstrapped SaaS for 20 years with my brother",
+    "Url": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
+    "Description": "Running a bootstrapped SaaS for 20 years with my brother",
+    "Metadata": {
+      "score": "124",
+      "author": "whyleyc",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.1378283+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50320995"
+    },
+    "Type": 1,
+    "Title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+    "Url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+    "Description": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+    "Metadata": {
+      "score": "277",
+      "author": "guregodevo",
+      "commentCount": "125"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.1655122+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50322022"
+    },
+    "Type": 1,
+    "Title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+    "Url": "https://arxiv.org/abs/2409.02292",
+    "Description": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+    "Metadata": {
+      "score": "100",
+      "author": "hapax_legomena",
+      "commentCount": "52"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.2243569+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50290533"
+    },
+    "Type": 1,
+    "Title": "Show HN: Point your camera at a landscape to learn about its geology",
+    "Url": "https://outcrop.rocks/",
+    "Description": "I\u0026#x27;ve been working on a fun little app that paints geologic maps over landscapes using augmented reality. You can use it to identify what the mapped rocks are, read descriptions about them, and view the earth as it looked when they formed by turning back the continent positions. It spun out of some augmented reality work I was doing on my other side project app - Flyover Country, which tells you about the view from the airplane window.\u003Cp\u003EI\u0026#x27;m in Minnesota, so i haven\u0026#x27;t had a chance ",
+    "Metadata": {
+      "score": "22",
+      "author": "headsupernova",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.2716049+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50309279"
+    },
+    "Type": 1,
+    "Title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
+    "Url": "http://thales.mit.edu/bush/index.php/4801-2/",
+    "Description": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
+    "Metadata": {
+      "score": "55",
+      "author": "peter_d_sherman",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.2982191+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50310038"
+    },
+    "Type": 1,
+    "Title": "Understanding Email Encryption",
+    "Url": "https://www.fastmail.com/blog/email-encryption/",
+    "Description": "Understanding Email Encryption",
+    "Metadata": {
+      "score": "29",
+      "author": "nmjenkins",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.3604503+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50321048"
+    },
+    "Type": 1,
+    "Title": "Altoids Project",
+    "Url": "https://uvdn7.github.io/altoids-project/",
+    "Description": "Altoids Project",
+    "Metadata": {
+      "score": "120",
+      "author": "uvdn7",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.4472952+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50311045"
+    },
+    "Type": 1,
+    "Title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+    "Url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
+    "Description": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+    "Metadata": {
+      "score": "128",
+      "author": "ohjeez",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.4905993+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50290480"
+    },
+    "Type": 1,
+    "Title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+    "Url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+    "Description": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+    "Metadata": {
+      "score": "59",
+      "author": "surprisetalk",
+      "commentCount": "51"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.5190503+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50316117"
+    },
+    "Type": 1,
+    "Title": "The Ocean \u0027Was the Color of Chocolate.\u0027 Mexico Declares War on Seaweed.",
+    "Url": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
+    "Description": "The Ocean \u0027Was the Color of Chocolate.\u0027 Mexico Declares War on Seaweed.",
+    "Metadata": {
+      "score": "7",
+      "author": "bookofjoe",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.5513797+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50318720"
+    },
+    "Type": 1,
+    "Title": "It\u0027s the memory latency, stupid",
+    "Url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+    "Description": "It\u0027s the memory latency, stupid",
+    "Metadata": {
+      "score": "211",
+      "author": "ntur1337",
+      "commentCount": "69"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.5791318+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50289711"
+    },
+    "Type": 1,
+    "Title": "A brief history of just-in-time: forty years of JIT work, from 1960\u20132000",
+    "Url": "https://dl.acm.org/doi/10.1145/857076.857077",
+    "Description": "A brief history of just-in-time: forty years of JIT work, from 1960\u20132000",
+    "Metadata": {
+      "score": "35",
+      "author": "gjvc",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.6065591+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50304718"
+    },
+    "Type": 1,
+    "Title": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
+    "Url": "https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/",
+    "Description": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
+    "Metadata": {
+      "score": "52",
+      "author": "the-mitr",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.6341631+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50319110"
+    },
+    "Type": 1,
+    "Title": "Electrification Could Cut Global Energy Use in Half",
+    "Url": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
+    "Description": "Electrification Could Cut Global Energy Use in Half",
+    "Metadata": {
+      "score": "132",
+      "author": "toomuchtodo",
+      "commentCount": "63"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.6609372+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50320588"
+    },
+    "Type": 1,
+    "Title": "ChatGPT and Codex usage limits merging",
+    "Url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+    "Description": "ChatGPT and Codex usage limits merging",
+    "Metadata": {
+      "score": "166",
+      "author": "Zariel",
+      "commentCount": "103"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.6876559+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50316100"
+    },
+    "Type": 1,
+    "Title": "Jepsen: ParticleDB 1.1.4",
+    "Url": "https://jepsen.io/analyses/particledb-1.1.4",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;jepsen-io\u0026#x2F;particledb\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;jepsen-io\u0026#x2F;particledb\u003C/a\u003E",
+    "Metadata": {
+      "score": "282",
+      "author": "aphyr",
+      "commentCount": "160"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.7160311+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50319563"
+    },
+    "Type": 1,
+    "Title": "Surviving \u0022The Graduate\u0022",
+    "Url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;Eqn1F\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;Eqn1F\u003C/a\u003E",
+    "Metadata": {
+      "score": "130",
+      "author": "samizdis",
+      "commentCount": "39"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.7428264+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50314699"
+    },
+    "Type": 1,
+    "Title": "Do the math: How we took over ChatGPT accounts",
+    "Url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+    "Description": "Do the math: How we took over ChatGPT accounts",
+    "Metadata": {
+      "score": "343",
+      "author": "armcat",
+      "commentCount": "168"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.7695968+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50261253"
+    },
+    "Type": 1,
+    "Title": "Simple circuits can create complex behaviors",
+    "Url": "https://aatishb.com/myriad/lets-build-a-brain/",
+    "Description": "Simple circuits can create complex behaviors",
+    "Metadata": {
+      "score": "269",
+      "author": "aatish",
+      "commentCount": "80"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.7962719+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50319061"
+    },
+    "Type": 1,
+    "Title": "The Duty of a Scholar",
+    "Url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+    "Description": "The Duty of a Scholar",
+    "Metadata": {
+      "score": "125",
+      "author": "gslin",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.8228192+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50284789"
+    },
+    "Type": 1,
+    "Title": "Edgar Allan Poe, Quintessential American Writer",
+    "Url": "https://slate.com/culture/2026/10/edgar-allan-poe-poems-stories-most-influential-american-writer-death-horror-detective.html",
+    "Description": "Edgar Allan Poe, Quintessential American Writer",
+    "Metadata": {
+      "score": "41",
+      "author": "samclemens",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.8512814+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50324533"
+    },
+    "Type": 1,
+    "Title": "noyb win: French electronics retailer Fnac Darty fined \u20AC7M",
+    "Url": "https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million",
+    "Description": "noyb win: French electronics retailer Fnac Darty fined \u20AC7M",
+    "Metadata": {
+      "score": "6",
+      "author": "latexr",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-11-01T12:26:07.8781082+00:00"
   }
 ]
