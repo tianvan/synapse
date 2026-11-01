@@ -241,21 +241,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50319510"
-    },
-    "Type": 1,
-    "Title": "HackerTube: YouTube built from videos recommended by HN",
-    "Url": "https://karpathy.bearblog.dev/hacker-tube/",
-    "Description": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;hackertube.org\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;hackertube.org\u0026#x2F;\u003C/a\u003E",
-    "Metadata": {
-      "score": "1463",
-      "author": "karpathy",
-      "commentCount": "395"
-    },
-    "FetchedAt": "2026-11-01T12:26:06.8922494+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50324118"
     },
     "Type": 1,
@@ -268,36 +253,6 @@
       "commentCount": "13"
     },
     "FetchedAt": "2026-11-01T12:26:06.9370925+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50320963"
-    },
-    "Type": 1,
-    "Title": "An Italian farmer found some unknown seeds in his attic and planted them",
-    "Url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-    "Description": "An Italian farmer found some unknown seeds in his attic and planted them",
-    "Metadata": {
-      "score": "506",
-      "author": "ecares",
-      "commentCount": "158"
-    },
-    "FetchedAt": "2026-11-01T12:26:06.9721823+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50322173"
-    },
-    "Type": 1,
-    "Title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-    "Url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-    "Description": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-    "Metadata": {
-      "score": "159",
-      "author": "doodlesdev",
-      "commentCount": "66"
-    },
-    "FetchedAt": "2026-11-01T12:26:07.0127239+00:00"
   },
   {
     "ExternalId": {
@@ -316,96 +271,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50323088"
-    },
-    "Type": 1,
-    "Title": "The AI cost of JavaScript frameworks",
-    "Url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-    "Description": "The AI cost of JavaScript frameworks",
-    "Metadata": {
-      "score": "117",
-      "author": "luu",
-      "commentCount": "67"
-    },
-    "FetchedAt": "2026-11-01T12:26:07.0814141+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50319143"
-    },
-    "Type": 1,
-    "Title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-    "Url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-    "Description": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-    "Metadata": {
-      "score": "545",
-      "author": "oger",
-      "commentCount": "250"
-    },
-    "FetchedAt": "2026-11-01T12:26:07.1102551+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50303984"
-    },
-    "Type": 1,
-    "Title": "Running a bootstrapped SaaS for 20 years with my brother",
-    "Url": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
-    "Description": "Running a bootstrapped SaaS for 20 years with my brother",
-    "Metadata": {
-      "score": "124",
-      "author": "whyleyc",
-      "commentCount": "30"
-    },
-    "FetchedAt": "2026-11-01T12:26:07.1378283+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50320995"
-    },
-    "Type": 1,
-    "Title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-    "Url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-    "Description": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-    "Metadata": {
-      "score": "277",
-      "author": "guregodevo",
-      "commentCount": "125"
-    },
-    "FetchedAt": "2026-11-01T12:26:07.1655122+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50322022"
-    },
-    "Type": 1,
-    "Title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-    "Url": "https://arxiv.org/abs/2409.02292",
-    "Description": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-    "Metadata": {
-      "score": "100",
-      "author": "hapax_legomena",
-      "commentCount": "52"
-    },
-    "FetchedAt": "2026-11-01T12:26:07.2243569+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50290533"
-    },
-    "Type": 1,
-    "Title": "Show HN: Point your camera at a landscape to learn about its geology",
-    "Url": "https://outcrop.rocks/",
-    "Description": "I\u0026#x27;ve been working on a fun little app that paints geologic maps over landscapes using augmented reality. You can use it to identify what the mapped rocks are, read descriptions about them, and view the earth as it looked when they formed by turning back the continent positions. It spun out of some augmented reality work I was doing on my other side project app - Flyover Country, which tells you about the view from the airplane window.\u003Cp\u003EI\u0026#x27;m in Minnesota, so i haven\u0026#x27;t had a chance ",
-    "Metadata": {
-      "score": "22",
-      "author": "headsupernova",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-11-01T12:26:07.2716049+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50309279"
     },
     "Type": 1,
@@ -418,21 +283,6 @@
       "commentCount": "10"
     },
     "FetchedAt": "2026-11-01T12:26:07.2982191+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50310038"
-    },
-    "Type": 1,
-    "Title": "Understanding Email Encryption",
-    "Url": "https://www.fastmail.com/blog/email-encryption/",
-    "Description": "Understanding Email Encryption",
-    "Metadata": {
-      "score": "29",
-      "author": "nmjenkins",
-      "commentCount": "10"
-    },
-    "FetchedAt": "2026-11-01T12:26:07.3604503+00:00"
   },
   {
     "ExternalId": {
@@ -673,5 +523,455 @@
       "commentCount": "0"
     },
     "FetchedAt": "2026-11-01T12:26:07.8781082+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50326821"
+    },
+    "Type": 1,
+    "Title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
+    "Url": "https://hackerbooks.org",
+    "Description": "Saw Karpathy\u0026#x27;s HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5).\u003Cp\u003EIt\u0026#x27;s ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the comments that mentioned it. Data is downloadable from the about page.\u003Cp\u003ETo be clear: Claude wrote almost all of it, including the data pipeline and the site. I mostly steered and made calls, bought the domain name, etc.\u003Cp\u003EIt counts mentions, so it\u0026#x27;s not perfect ",
+    "Metadata": {
+      "score": "629",
+      "author": "roansh",
+      "commentCount": "144"
+    },
+    "FetchedAt": "2026-11-01T21:32:21.9854375+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50319510"
+    },
+    "Type": 1,
+    "Title": "HackerTube: YouTube built from videos recommended by HN",
+    "Url": "https://karpathy.bearblog.dev/hacker-tube/",
+    "Description": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;hackertube.org\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;hackertube.org\u0026#x2F;\u003C/a\u003E",
+    "Metadata": {
+      "score": "2089",
+      "author": "karpathy",
+      "commentCount": "510"
+    },
+    "FetchedAt": "2026-11-01T21:32:22.0618304+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50299811"
+    },
+    "Type": 1,
+    "Title": "Nibnib: Image compression with extreme decompression speed",
+    "Url": "https://github.com/raphlinus/nibnib",
+    "Description": "Nibnib: Image compression with extreme decompression speed",
+    "Metadata": {
+      "score": "30",
+      "author": "raphlinus",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-11-01T21:32:22.1071025+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50329707"
+    },
+    "Type": 1,
+    "Title": "John Leeson (the voice of K9) has died",
+    "Url": "https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html",
+    "Description": "John Leeson (the voice of K9) has died",
+    "Metadata": {
+      "score": "8",
+      "author": "slyrus",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-11-01T21:32:22.2332792+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50328251"
+    },
+    "Type": 1,
+    "Title": "Mathematics has changed. Let\u0027s act like it",
+    "Url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+    "Description": "Mathematics has changed. Let\u0027s act like it",
+    "Metadata": {
+      "score": "125",
+      "author": "smilelamp",
+      "commentCount": "151"
+    },
+    "FetchedAt": "2026-11-01T21:32:22.4534529+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50271106"
+    },
+    "Type": 1,
+    "Title": "Tips for more effective fuzz testing with AFL\u002B\u002B",
+    "Url": "https://nullprogram.com/blog/2025/02/05/",
+    "Description": "Tips for more effective fuzz testing with AFL\u002B\u002B",
+    "Metadata": {
+      "score": "25",
+      "author": "luu",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-11-01T21:32:22.5437934+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50308754"
+    },
+    "Type": 1,
+    "Title": "Copper \u2013 A minimal low-level programming language with OOP and generics",
+    "Url": "https://tibleiz.net/copper/",
+    "Description": "Copper \u2013 A minimal low-level programming language with OOP and generics",
+    "Metadata": {
+      "score": "91",
+      "author": "bogdanoff_2",
+      "commentCount": "52"
+    },
+    "FetchedAt": "2026-11-01T21:32:22.5872399+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50320963"
+    },
+    "Type": 1,
+    "Title": "An Italian farmer found some unknown seeds in his attic and planted them",
+    "Url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+    "Description": "An Italian farmer found some unknown seeds in his attic and planted them",
+    "Metadata": {
+      "score": "724",
+      "author": "ecares",
+      "commentCount": "194"
+    },
+    "FetchedAt": "2026-11-01T21:32:22.6308368+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50325454"
+    },
+    "Type": 1,
+    "Title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+    "Url": "https://arxiv.org/abs/2610.39302",
+    "Description": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+    "Metadata": {
+      "score": "91",
+      "author": "Anon84",
+      "commentCount": "50"
+    },
+    "FetchedAt": "2026-11-01T21:32:22.6742853+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50319749"
+    },
+    "Type": 1,
+    "Title": "Bidirectional charging during grid outages",
+    "Url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+    "Description": "Bidirectional charging during grid outages",
+    "Metadata": {
+      "score": "68",
+      "author": "luu",
+      "commentCount": "93"
+    },
+    "FetchedAt": "2026-11-01T21:32:22.7182309+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50326099"
+    },
+    "Type": 1,
+    "Title": "Lenovo\u0027s \u0027encrypted\u0027 fingerprint USB is just an unencrypted SD card in a case",
+    "Url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+    "Description": "Lenovo\u0027s \u0027encrypted\u0027 fingerprint USB is just an unencrypted SD card in a case",
+    "Metadata": {
+      "score": "308",
+      "author": "entryleveljobsc",
+      "commentCount": "111"
+    },
+    "FetchedAt": "2026-11-01T21:32:22.7623076+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50325694"
+    },
+    "Type": 1,
+    "Title": "Novellas with Groff",
+    "Url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+    "Description": "Novellas with Groff",
+    "Metadata": {
+      "score": "90",
+      "author": "dverlaeckt80",
+      "commentCount": "41"
+    },
+    "FetchedAt": "2026-11-01T21:32:22.8070305+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50325253"
+    },
+    "Type": 1,
+    "Title": "Show HN: OmniDiff \u2013 Opensource, super fast, content aware Git difftool, in Rust",
+    "Url": "https://github.com/ivankovic/omnidiff",
+    "Description": "I have been researching what the ultimate diff tool would look like, based on actual diffs in open source repositories.\u003Cp\u003EOmniDiff can diff: code (25 languages), config, images, PDFs, archives, cursors, fonts...\u003Cp\u003EIt\u0026#x27;s fast. It can diff C\u002B\u002B files of tens of thousands of lines in under 100ms, on a 2023 ThinkPad T14s.\u003Cp\u003EIt\u0026#x27;s open source. AGPLv3.\u003Cp\u003EIt\u0026#x27;s based on real diffs. I looked at the 7400 repositories that are listed in Gentoo packages, sampled 2000 diffs and solved them manual",
+    "Metadata": {
+      "score": "88",
+      "author": "FabCH",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-11-01T21:32:22.8805811+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50327058"
+    },
+    "Type": 1,
+    "Title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+    "Url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+    "Description": "Seoul Viosys begins production of rare-earth-free white light emitter",
+    "Metadata": {
+      "score": "106",
+      "author": "gmays",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-11-01T21:32:22.925226+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50314617"
+    },
+    "Type": 1,
+    "Title": "One-minute frequency disturbances from synchronization in power systems",
+    "Url": "https://www.nature.com/articles/s41560-026-02144-0",
+    "Description": "One-minute frequency disturbances from synchronization in power systems",
+    "Metadata": {
+      "score": "99",
+      "author": "croes",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-11-01T21:32:22.9902134+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50322173"
+    },
+    "Type": 1,
+    "Title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+    "Url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+    "Description": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+    "Metadata": {
+      "score": "292",
+      "author": "doodlesdev",
+      "commentCount": "170"
+    },
+    "FetchedAt": "2026-11-01T21:32:23.1504251+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50280131"
+    },
+    "Type": 1,
+    "Title": "Radiation Map of the World",
+    "Url": "https://radiaverse.com/",
+    "Description": "Radiation Map of the World",
+    "Metadata": {
+      "score": "103",
+      "author": "slater",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-11-01T21:32:23.3849755+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50319143"
+    },
+    "Type": 1,
+    "Title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+    "Url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+    "Description": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+    "Metadata": {
+      "score": "662",
+      "author": "oger",
+      "commentCount": "318"
+    },
+    "FetchedAt": "2026-11-01T21:32:23.4352324+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50327266"
+    },
+    "Type": 1,
+    "Title": "Frontier Airlines Likely Breached",
+    "Url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+    "Description": "Frontier Airlines Likely Breached",
+    "Metadata": {
+      "score": "139",
+      "author": "999900000999",
+      "commentCount": "40"
+    },
+    "FetchedAt": "2026-11-01T21:32:23.5829434+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50323088"
+    },
+    "Type": 1,
+    "Title": "The AI cost of JavaScript frameworks",
+    "Url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+    "Description": "The AI cost of JavaScript frameworks",
+    "Metadata": {
+      "score": "258",
+      "author": "luu",
+      "commentCount": "185"
+    },
+    "FetchedAt": "2026-11-01T21:32:23.6408307+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50327650"
+    },
+    "Type": 1,
+    "Title": "Patrick Stewart taught us what good men do with power",
+    "Url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+    "Description": "Patrick Stewart taught us what good men do with power",
+    "Metadata": {
+      "score": "280",
+      "author": "rhaynes",
+      "commentCount": "191"
+    },
+    "FetchedAt": "2026-11-01T21:32:23.7029931+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50313227"
+    },
+    "Type": 1,
+    "Title": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
+    "Url": "https://tedium.co/2019/11/21/nonstick-parchment-paper-history/",
+    "Description": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
+    "Metadata": {
+      "score": "18",
+      "author": "colinprince",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-11-01T21:32:23.7465015+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50320995"
+    },
+    "Type": 1,
+    "Title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+    "Url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+    "Description": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+    "Metadata": {
+      "score": "403",
+      "author": "guregodevo",
+      "commentCount": "198"
+    },
+    "FetchedAt": "2026-11-01T21:32:23.7906496+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50314508"
+    },
+    "Type": 1,
+    "Title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library \u2013 phoria2",
+    "Url": "https://kevs3d.co.uk/phoria2/",
+    "Description": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library \u2013 phoria2",
+    "Metadata": {
+      "score": "59",
+      "author": "kevs3d",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-11-01T21:32:23.8370887+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50290533"
+    },
+    "Type": 1,
+    "Title": "Show HN: Point your camera at a landscape to learn about its geology",
+    "Url": "https://outcrop.rocks/",
+    "Description": "I\u0026#x27;ve been working on a fun little app that paints geologic maps over landscapes using augmented reality. You can use it to identify what the mapped rocks are, read descriptions about them, and view the earth as it looked when they formed by turning back the continent positions. It spun out of some augmented reality work I was doing on my other side project app - Flyover Country, which tells you about the view from the airplane window.\u003Cp\u003EI\u0026#x27;m in Minnesota, so i haven\u0026#x27;t had a chance ",
+    "Metadata": {
+      "score": "125",
+      "author": "headsupernova",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-11-01T21:32:23.8811787+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50328462"
+    },
+    "Type": 1,
+    "Title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
+    "Url": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
+    "Description": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
+    "Metadata": {
+      "score": "28",
+      "author": "frank_clover",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-11-01T21:32:23.9279976+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50326609"
+    },
+    "Type": 1,
+    "Title": "Landline phones will switch off across Britland in 100 days, no extensions",
+    "Url": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
+    "Description": "Landline phones will switch off across Britland in 100 days, no extensions",
+    "Metadata": {
+      "score": "81",
+      "author": "edward",
+      "commentCount": "58"
+    },
+    "FetchedAt": "2026-11-01T21:32:23.9716638+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50310038"
+    },
+    "Type": 1,
+    "Title": "Understanding Email Encryption (2025)",
+    "Url": "https://www.fastmail.com/blog/email-encryption/",
+    "Description": "Understanding Email Encryption (2025)",
+    "Metadata": {
+      "score": "114",
+      "author": "nmjenkins",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-11-01T21:32:24.0153273+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50303984"
+    },
+    "Type": 1,
+    "Title": "Running a bootstrapped SaaS for 20 years with my brother",
+    "Url": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
+    "Description": "Running a bootstrapped SaaS for 20 years with my brother",
+    "Metadata": {
+      "score": "220",
+      "author": "whyleyc",
+      "commentCount": "52"
+    },
+    "FetchedAt": "2026-11-01T21:32:24.0588003+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50322022"
+    },
+    "Type": 1,
+    "Title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+    "Url": "https://arxiv.org/abs/2409.02292",
+    "Description": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+    "Metadata": {
+      "score": "172",
+      "author": "hapax_legomena",
+      "commentCount": "90"
+    },
+    "FetchedAt": "2026-11-01T21:32:24.1023908+00:00"
   }
 ]
