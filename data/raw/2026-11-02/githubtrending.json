@@ -18,38 +18,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:shiyu-coder/Kronos"
-    },
-    "Type": 0,
-    "Title": "shiyu-coder/Kronos",
-    "Url": "https://github.com/shiyu-coder/Kronos",
-    "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "Metadata": {
-      "owner": "shiyu-coder",
-      "repo": "Kronos",
-      "language": "Python",
-      "stars": "630"
-    },
-    "FetchedAt": "2026-11-02T03:42:41.342705+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:pingdotgg/t3code"
-    },
-    "Type": 0,
-    "Title": "pingdotgg/t3code",
-    "Url": "https://github.com/pingdotgg/t3code",
-    "Description": "",
-    "Metadata": {
-      "owner": "pingdotgg",
-      "repo": "t3code",
-      "language": "TypeScript",
-      "stars": "3,094"
-    },
-    "FetchedAt": "2026-11-02T03:42:41.5260402+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:public-apis/public-apis"
     },
     "Type": 0,
@@ -133,20 +101,20 @@
   },
   {
     "ExternalId": {
-      "Value": "github:FlashML-org/FreeToken"
+      "Value": "github:vercel-labs/agent-desktop"
     },
     "Type": 0,
-    "Title": "FlashML-org/FreeToken",
-    "Url": "https://github.com/FlashML-org/FreeToken",
-    "Description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+    "Title": "vercel-labs/agent-desktop",
+    "Url": "https://github.com/vercel-labs/agent-desktop",
+    "Description": "Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app\u0027s real UI structure through OS accessibility trees and operates it \u2014 refs stay stable and actions stay safe to retry, instead of guessing from pixels.",
     "Metadata": {
-      "owner": "FlashML-org",
-      "repo": "FreeToken",
-      "language": "Python",
-      "stars": "242",
-      "topics": "deepseek-v4, edge, glm, inference, minimax, moe, qwen, transformer"
+      "owner": "vercel-labs",
+      "repo": "agent-desktop",
+      "language": "Rust",
+      "stars": "2,243",
+      "topics": "accessibility, accessibility-api, ai-agents, automation, cli, computer-use, computer-use-agent, computer-use-agents, desktop-automation, macos, mcp, rust"
     },
-    "FetchedAt": "2026-11-02T03:42:42.5943463+00:00"
+    "FetchedAt": "2026-11-02T14:22:20.4241298+00:00"
   },
   {
     "ExternalId": {
@@ -160,9 +128,141 @@
       "owner": "hyprwm",
       "repo": "Hyprland",
       "language": "C\u002B\u002B",
-      "stars": "38",
+      "stars": "508",
       "topics": "compositor, cpp26, wayland, wayland-compositor"
     },
-    "FetchedAt": "2026-11-02T03:42:42.7582414+00:00"
+    "FetchedAt": "2026-11-02T14:22:20.6259381+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:FlashML-org/FreeToken"
+    },
+    "Type": 0,
+    "Title": "FlashML-org/FreeToken",
+    "Url": "https://github.com/FlashML-org/FreeToken",
+    "Description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+    "Metadata": {
+      "owner": "FlashML-org",
+      "repo": "FreeToken",
+      "language": "Python",
+      "stars": "654",
+      "topics": "deepseek-v4, edge, glm, inference, minimax, moe, qwen, transformer"
+    },
+    "FetchedAt": "2026-11-02T14:22:20.8068283+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pingdotgg/t3code"
+    },
+    "Type": 0,
+    "Title": "pingdotgg/t3code",
+    "Url": "https://github.com/pingdotgg/t3code",
+    "Description": "",
+    "Metadata": {
+      "owner": "pingdotgg",
+      "repo": "t3code",
+      "language": "TypeScript",
+      "stars": "3,216"
+    },
+    "FetchedAt": "2026-11-02T14:22:20.9527835+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:shiyu-coder/Kronos"
+    },
+    "Type": 0,
+    "Title": "shiyu-coder/Kronos",
+    "Url": "https://github.com/shiyu-coder/Kronos",
+    "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "Metadata": {
+      "owner": "shiyu-coder",
+      "repo": "Kronos",
+      "language": "Python",
+      "stars": "855"
+    },
+    "FetchedAt": "2026-11-02T14:22:21.1098574+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:JustVugg/colibri"
+    },
+    "Type": 0,
+    "Title": "JustVugg/colibri",
+    "Url": "https://github.com/JustVugg/colibri",
+    "Description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \uD83D\uDC26",
+    "Metadata": {
+      "owner": "JustVugg",
+      "repo": "colibri",
+      "language": "C",
+      "stars": "655"
+    },
+    "FetchedAt": "2026-11-02T14:22:21.2421385+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:max-sixty/worktrunk"
+    },
+    "Type": 0,
+    "Title": "max-sixty/worktrunk",
+    "Url": "https://github.com/max-sixty/worktrunk",
+    "Description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "Metadata": {
+      "owner": "max-sixty",
+      "repo": "worktrunk",
+      "language": "Rust",
+      "stars": "115",
+      "topics": "agents, claude-code, codex, developer-tools, git, worktrees"
+    },
+    "FetchedAt": "2026-11-02T14:22:21.377538+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:paperclipai/paperclip"
+    },
+    "Type": 0,
+    "Title": "paperclipai/paperclip",
+    "Url": "https://github.com/paperclipai/paperclip",
+    "Description": "The open-source app everyone uses to manage agents at work",
+    "Metadata": {
+      "owner": "paperclipai",
+      "repo": "paperclip",
+      "language": "TypeScript",
+      "stars": "507",
+      "topics": "acpx, agent-orchestration, agent-skills, agentic-ai, ai-agents, ai-engineering, ai-governance, ai-tools, autonomous-agents, claude, claude-code, claude-skills, codex, hermes, llm, mcp, multi-agent, openclaw, project-management, workflow-automation"
+    },
+    "FetchedAt": "2026-11-02T14:22:21.538413+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:karpathy/nanochat"
+    },
+    "Type": 0,
+    "Title": "karpathy/nanochat",
+    "Url": "https://github.com/karpathy/nanochat",
+    "Description": "The best ChatGPT that $100 can buy.",
+    "Metadata": {
+      "owner": "karpathy",
+      "repo": "nanochat",
+      "language": "Python",
+      "stars": "325"
+    },
+    "FetchedAt": "2026-11-02T14:22:21.5458648+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:p-e-w/heretic"
+    },
+    "Type": 0,
+    "Title": "p-e-w/heretic",
+    "Url": "https://github.com/p-e-w/heretic",
+    "Description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+    "Metadata": {
+      "owner": "p-e-w",
+      "repo": "heretic",
+      "language": "Python",
+      "stars": "404",
+      "topics": "abliteration, anti-censorship, anticensorship, censorship, censorship-resistance, llm, transformer"
+    },
+    "FetchedAt": "2026-11-02T14:22:21.6697048+00:00"
   }
 ]
