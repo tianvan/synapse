@@ -1,0 +1,452 @@
+[
+  {
+    "ExternalId": {
+      "Value": "hn:50326821"
+    },
+    "Type": 1,
+    "Title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
+    "Url": "https://hackerbooks.org",
+    "Description": "Saw Karpathy\u0026#x27;s HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5).\u003Cp\u003EIt\u0026#x27;s ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the comments that mentioned it. Data is downloadable from the about page.\u003Cp\u003ETo be clear: Claude wrote almost all of it, including the data pipeline and the site. I mostly steered and made calls, bought the domain name, etc.\u003Cp\u003EIt counts mentions, so it\u0026#x27;s not perfect ",
+    "Metadata": {
+      "score": "1027",
+      "author": "roansh",
+      "commentCount": "194"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.170427+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50332163"
+    },
+    "Type": 1,
+    "Title": "F/OSS Comics #13: BSD Unix, Part 3 \u2013 The Beginning of BSD Unix",
+    "Url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+    "Description": "F/OSS Comics #13: BSD Unix, Part 3 \u2013 The Beginning of BSD Unix",
+    "Metadata": {
+      "score": "19",
+      "author": "joonehur",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.2039419+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50312408"
+    },
+    "Type": 1,
+    "Title": "Postgres 19 is late because so many more bugs are being found now",
+    "Url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+    "Description": "Postgres 19 is late because so many more bugs are being found now",
+    "Metadata": {
+      "score": "135",
+      "author": "soheilpro",
+      "commentCount": "90"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.2371396+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50319510"
+    },
+    "Type": 1,
+    "Title": "HackerTube: YouTube built from videos recommended by HN",
+    "Url": "https://karpathy.bearblog.dev/hacker-tube/",
+    "Description": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;hackertube.org\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;hackertube.org\u0026#x2F;\u003C/a\u003E",
+    "Metadata": {
+      "score": "2348",
+      "author": "karpathy",
+      "commentCount": "544"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.2699258+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50328896"
+    },
+    "Type": 1,
+    "Title": "Ask HN: Which TV do you recommend for privacy?",
+    "Url": "https://news.ycombinator.com/item?id=50328896",
+    "Description": "I haven\u2019t owned a TV in years and would like one that respects my privacy. Are there any TV\u2019s which do this well? I am looking for something in the 60\u201Dto 80\u201Drange and would like a 4k display with at least 60hz display. I don\u2019t mind paying a premium.\u003Cp\u003EI have heard good things about Apple TV as a better alternative to most smart TV native apps. Would some TV\u2019s pair better with this than others for privacy? I don\u2019t want the TV doing anything other than being the display for Apple TV.\u003Cp\u003EI am curiou",
+    "Metadata": {
+      "score": "187",
+      "author": "LecroJS",
+      "commentCount": "345"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.3020053+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50299811"
+    },
+    "Type": 1,
+    "Title": "Nibnib: Image compression with extreme decompression speed",
+    "Url": "https://github.com/raphlinus/nibnib",
+    "Description": "Nibnib: Image compression with extreme decompression speed",
+    "Metadata": {
+      "score": "111",
+      "author": "raphlinus",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.3344183+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50315217"
+    },
+    "Type": 1,
+    "Title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+    "Url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+    "Description": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+    "Metadata": {
+      "score": "28",
+      "author": "_Microft",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.3665482+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50271106"
+    },
+    "Type": 1,
+    "Title": "Tips for more effective fuzz testing with AFL\u002B\u002B",
+    "Url": "https://nullprogram.com/blog/2025/02/05/",
+    "Description": "Tips for more effective fuzz testing with AFL\u002B\u002B",
+    "Metadata": {
+      "score": "89",
+      "author": "luu",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.3995041+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50331784"
+    },
+    "Type": 1,
+    "Title": "Trigger.dev customer environment variables exposed",
+    "Url": "https://trigger.dev/blog/security-incident-nov-2026",
+    "Description": "Trigger.dev customer environment variables exposed",
+    "Metadata": {
+      "score": "16",
+      "author": "anurag",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.4315166+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50308754"
+    },
+    "Type": 1,
+    "Title": "Copper \u2013 A minimal low-level programming language with OOP and generics",
+    "Url": "https://tibleiz.net/copper/",
+    "Description": "Copper \u2013 A minimal low-level programming language with OOP and generics",
+    "Metadata": {
+      "score": "145",
+      "author": "bogdanoff_2",
+      "commentCount": "78"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.4641655+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50331402"
+    },
+    "Type": 1,
+    "Title": "OccupySaaS",
+    "Url": "https://occupysaas.com/",
+    "Description": "OccupySaaS",
+    "Metadata": {
+      "score": "104",
+      "author": "misswaterfairy",
+      "commentCount": "68"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.4962407+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50325253"
+    },
+    "Type": 1,
+    "Title": "Show HN: OmniDiff \u2013 Opensource, super fast, content aware Git difftool, in Rust",
+    "Url": "https://github.com/ivankovic/omnidiff",
+    "Description": "I have been researching what the ultimate diff tool would look like, based on actual diffs in open source repositories.\u003Cp\u003EOmniDiff can diff: code (25 languages), config, images, PDFs, archives, cursors, fonts...\u003Cp\u003EIt\u0026#x27;s fast. It can diff C\u002B\u002B files of tens of thousands of lines in under 100ms, on a 2023 ThinkPad T14s.\u003Cp\u003EIt\u0026#x27;s open source. AGPLv3.\u003Cp\u003EIt\u0026#x27;s based on real diffs. I looked at the 7400 repositories that are listed in Gentoo packages, sampled 2000 diffs and solved them manual",
+    "Metadata": {
+      "score": "179",
+      "author": "FabCH",
+      "commentCount": "44"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.5286196+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50299427"
+    },
+    "Type": 1,
+    "Title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+    "Url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+    "Description": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+    "Metadata": {
+      "score": "56",
+      "author": "stevenalowe",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.5611101+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50328251"
+    },
+    "Type": 1,
+    "Title": "Mathematics has changed. Let\u0027s act like it",
+    "Url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+    "Description": "Mathematics has changed. Let\u0027s act like it",
+    "Metadata": {
+      "score": "243",
+      "author": "smilelamp",
+      "commentCount": "269"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.5930704+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50325454"
+    },
+    "Type": 1,
+    "Title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+    "Url": "https://arxiv.org/abs/2610.39302",
+    "Description": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+    "Metadata": {
+      "score": "119",
+      "author": "Anon84",
+      "commentCount": "63"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.625322+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50303088"
+    },
+    "Type": 1,
+    "Title": "Keeping Up Appearances \u2013 The women taking over the funeral industry",
+    "Url": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/",
+    "Description": "Keeping Up Appearances \u2013 The women taking over the funeral industry",
+    "Metadata": {
+      "score": "31",
+      "author": "TMWNN",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.65779+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50332086"
+    },
+    "Type": 1,
+    "Title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+    "Url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+    "Description": "AI fan wikis riddled with errors are muddying the waters of games culture",
+    "Metadata": {
+      "score": "25",
+      "author": "rdmuser",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.6901755+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50323088"
+    },
+    "Type": 1,
+    "Title": "The AI cost of JavaScript frameworks",
+    "Url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+    "Description": "The AI cost of JavaScript frameworks",
+    "Metadata": {
+      "score": "317",
+      "author": "luu",
+      "commentCount": "235"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.7223069+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50326099"
+    },
+    "Type": 1,
+    "Title": "Lenovo\u0027s \u0027encrypted\u0027 fingerprint USB is just an unencrypted SD card in a case",
+    "Url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+    "Description": "Lenovo\u0027s \u0027encrypted\u0027 fingerprint USB is just an unencrypted SD card in a case",
+    "Metadata": {
+      "score": "416",
+      "author": "entryleveljobsc",
+      "commentCount": "149"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.7554206+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50314617"
+    },
+    "Type": 1,
+    "Title": "One-minute frequency disturbances from synchronization in power systems",
+    "Url": "https://www.nature.com/articles/s41560-026-02144-0",
+    "Description": "One-minute frequency disturbances from synchronization in power systems",
+    "Metadata": {
+      "score": "128",
+      "author": "croes",
+      "commentCount": "45"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.7876677+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50319749"
+    },
+    "Type": 1,
+    "Title": "Bidirectional charging during grid outages",
+    "Url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+    "Description": "Bidirectional charging during grid outages",
+    "Metadata": {
+      "score": "90",
+      "author": "luu",
+      "commentCount": "131"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.8196652+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50280131"
+    },
+    "Type": 1,
+    "Title": "Radiation Map of the World",
+    "Url": "https://radiaverse.com/",
+    "Description": "Radiation Map of the World",
+    "Metadata": {
+      "score": "139",
+      "author": "slater",
+      "commentCount": "44"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.8536799+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50318129"
+    },
+    "Type": 1,
+    "Title": "The She-Wolves of J\u00FClich",
+    "Url": "https://www.historytoday.com/archive/history-matters/she-wolves-julich",
+    "Description": "The She-Wolves of J\u00FClich",
+    "Metadata": {
+      "score": "17",
+      "author": "Thevet",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.8868229+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50325694"
+    },
+    "Type": 1,
+    "Title": "Novellas with Groff",
+    "Url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+    "Description": "Novellas with Groff",
+    "Metadata": {
+      "score": "115",
+      "author": "dverlaeckt80",
+      "commentCount": "51"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.9197042+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50290533"
+    },
+    "Type": 1,
+    "Title": "Show HN: Point your camera at a landscape to learn about its geology",
+    "Url": "https://outcrop.rocks/",
+    "Description": "I\u0026#x27;ve been working on a fun little app that paints geologic maps over landscapes using augmented reality. You can use it to identify what the mapped rocks are, read descriptions about them, and view the earth as it looked when they formed by turning back the continent positions. It spun out of some augmented reality work I was doing on my other side project app - Flyover Country, which tells you about the view from the airplane window.\u003Cp\u003EI\u0026#x27;m in Minnesota, so i haven\u0026#x27;t had a chance ",
+    "Metadata": {
+      "score": "163",
+      "author": "headsupernova",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.9518507+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50314508"
+    },
+    "Type": 1,
+    "Title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library \u2013 phoria2",
+    "Url": "https://kevs3d.co.uk/phoria2/",
+    "Description": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library \u2013 phoria2",
+    "Metadata": {
+      "score": "78",
+      "author": "kevs3d",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-11-02T03:42:43.983965+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50327058"
+    },
+    "Type": 1,
+    "Title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+    "Url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+    "Description": "Seoul Viosys begins production of rare-earth-free white light emitter",
+    "Metadata": {
+      "score": "146",
+      "author": "gmays",
+      "commentCount": "39"
+    },
+    "FetchedAt": "2026-11-02T03:42:44.0158031+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50313227"
+    },
+    "Type": 1,
+    "Title": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
+    "Url": "https://tedium.co/2019/11/21/nonstick-parchment-paper-history/",
+    "Description": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
+    "Metadata": {
+      "score": "43",
+      "author": "colinprince",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-11-02T03:42:44.0484337+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50324371"
+    },
+    "Type": 1,
+    "Title": "Domain hacks with unusual Unicode characters (2018)",
+    "Url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
+    "Description": "Domain hacks with unusual Unicode characters (2018)",
+    "Metadata": {
+      "score": "61",
+      "author": "n_plus_1_acc",
+      "commentCount": "48"
+    },
+    "FetchedAt": "2026-11-02T03:42:44.1177906+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50320963"
+    },
+    "Type": 1,
+    "Title": "An Italian farmer found some unknown seeds in his attic and planted them",
+    "Url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+    "Description": "An Italian farmer found some unknown seeds in his attic and planted them",
+    "Metadata": {
+      "score": "776",
+      "author": "ecares",
+      "commentCount": "203"
+    },
+    "FetchedAt": "2026-11-02T03:42:44.1507229+00:00"
+  }
+]
