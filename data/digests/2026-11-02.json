@@ -1,0 +1,608 @@
+{
+  "Id": "2026-11-02",
+  "GeneratedAt": "2026-11-02T04:47:37.108089+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:lightpanda-io/browser"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Lightpanda: the headless browser designed for AI and automation"
+      },
+      "Description": "Lightpanda: the headless browser designed for AI and automation",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:shiyu-coder/Kronos"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Kronos: A Foundation Model for the Language of Financial Markets"
+      },
+      "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:pingdotgg/t3code"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": ""
+      },
+      "Description": "",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:public-apis/public-apis"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A collective list of free APIs"
+      },
+      "Description": "A collective list of free APIs",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:beenuar/AiSOC"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT\u0026CK investigation, and a replayable "
+      },
+      "Description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT\u0026CK investigation, and a replayable decision ledger for every agen",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Renhuai123/ziwei-doushu"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u7D2B\u5FAE\u6597\u6570\u5F00\u6E90\u6392\u76D8\u5F15\u64CE \u2014 \u57FA\u4E8E\u502A\u6D77\u53A6\u300A\u5929\u7EAA\u300B\u4F53\u7CFB\uFF0C\u542B\u5B8C\u6574\u6392\u76D8\u7B97\u6CD5\u3001\u56DB\u5316\u7CFB\u7EDF\u3001\u683C\u5C40\u77E5\u8BC6\u5E93\u3001\u53E4\u7C4D\u539F\u6587\u6570\u636E"
+      },
+      "Description": "\u7D2B\u5FAE\u6597\u6570\u5F00\u6E90\u6392\u76D8\u5F15\u64CE \u2014 \u57FA\u4E8E\u502A\u6D77\u53A6\u300A\u5929\u7EAA\u300B\u4F53\u7CFB\uFF0C\u542B\u5B8C\u6574\u6392\u76D8\u7B97\u6CD5\u3001\u56DB\u5316\u7CFB\u7EDF\u3001\u683C\u5C40\u77E5\u8BC6\u5E93\u3001\u53E4\u7C4D\u539F\u6587\u6570\u636E",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:CopilotKit/OpenBot"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided be"
+      },
+      "Description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded a",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:togg53192-cmd/jailbreaks"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "LIST OF ALL MY JAILBREAKS"
+      },
+      "Description": "LIST OF ALL MY JAILBREAKS",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:FlashML-org/FreeToken"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently."
+      },
+      "Description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:hyprwm/Hyprland"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn\u0027t sacrifice on its looks."
+      },
+      "Description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn\u0027t sacrifice on its looks.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50326821"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Saw Karpathy\u0026#x27;s HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5).\u003Cp\u003EIt\u0026#x27;s ~1"
+      },
+      "Description": "Saw Karpathy\u0026#x27;s HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5).\u003Cp\u003EIt\u0026#x27;s ~16.5k books that at least two d",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50332163"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "F/OSS Comics #13: BSD Unix, Part 3 \u2013 The Beginning of BSD Unix"
+      },
+      "Description": "F/OSS Comics #13: BSD Unix, Part 3 \u2013 The Beginning of BSD Unix",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50312408"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Postgres 19 is late because so many more bugs are being found now"
+      },
+      "Description": "Postgres 19 is late because so many more bugs are being found now",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50319510"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;hackertube.o"
+      },
+      "Description": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;hackertube.org\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50328896"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I haven\u2019t owned a TV in years and would like one that respects my privacy. Are there any TV\u2019s which do this well? I am l"
+      },
+      "Description": "I haven\u2019t owned a TV in years and would like one that respects my privacy. Are there any TV\u2019s which do this well? I am looking for something in the 60",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50299811"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Nibnib: Image compression with extreme decompression speed"
+      },
+      "Description": "Nibnib: Image compression with extreme decompression speed",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50315217"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Mystery of 60-Second Fluctuations in Power Grids Solved"
+      },
+      "Description": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50271106"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Tips for more effective fuzz testing with AFL\u002B\u002B"
+      },
+      "Description": "Tips for more effective fuzz testing with AFL\u002B\u002B",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50331784"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Trigger.dev customer environment variables exposed"
+      },
+      "Description": "Trigger.dev customer environment variables exposed",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50308754"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Copper \u2013 A minimal low-level programming language with OOP and generics"
+      },
+      "Description": "Copper \u2013 A minimal low-level programming language with OOP and generics",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50331402"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "OccupySaaS"
+      },
+      "Description": "OccupySaaS",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50325253"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I have been researching what the ultimate diff tool would look like, based on actual diffs in open source repositories.\u003C"
+      },
+      "Description": "I have been researching what the ultimate diff tool would look like, based on actual diffs in open source repositories.\u003Cp\u003EOmniDiff can diff: code (25 ",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50299427"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras"
+      },
+      "Description": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50328251"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Mathematics has changed. Let\u0027s act like it"
+      },
+      "Description": "Mathematics has changed. Let\u0027s act like it",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50325454"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Proving and improving the Platonic Representation Hypothesis with JEPAs"
+      },
+      "Description": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50303088"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Keeping Up Appearances \u2013 The women taking over the funeral industry"
+      },
+      "Description": "Keeping Up Appearances \u2013 The women taking over the funeral industry",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50332086"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AI fan wikis riddled with errors are muddying the waters of games culture"
+      },
+      "Description": "AI fan wikis riddled with errors are muddying the waters of games culture",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50323088"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The AI cost of JavaScript frameworks"
+      },
+      "Description": "The AI cost of JavaScript frameworks",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50326099"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Lenovo\u0027s \u0027encrypted\u0027 fingerprint USB is just an unencrypted SD card in a case"
+      },
+      "Description": "Lenovo\u0027s \u0027encrypted\u0027 fingerprint USB is just an unencrypted SD card in a case",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50314617"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "One-minute frequency disturbances from synchronization in power systems"
+      },
+      "Description": "One-minute frequency disturbances from synchronization in power systems",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50319749"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Bidirectional charging during grid outages"
+      },
+      "Description": "Bidirectional charging during grid outages",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50280131"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Radiation Map of the World"
+      },
+      "Description": "Radiation Map of the World",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50318129"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The She-Wolves of J\u00FClich"
+      },
+      "Description": "The She-Wolves of J\u00FClich",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50325694"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Novellas with Groff"
+      },
+      "Description": "Novellas with Groff",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50290533"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I\u0026#x27;ve been working on a fun little app that paints geologic maps over landscapes using augmented reality. You can us"
+      },
+      "Description": "I\u0026#x27;ve been working on a fun little app that paints geologic maps over landscapes using augmented reality. You can use it to identify what the mapp",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50314508"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library \u2013 phoria2"
+      },
+      "Description": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library \u2013 phoria2",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50327058"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Seoul Viosys begins production of rare-earth-free white light emitter"
+      },
+      "Description": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50313227"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)"
+      },
+      "Description": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50324371"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Domain hacks with unusual Unicode characters (2018)"
+      },
+      "Description": "Domain hacks with unusual Unicode characters (2018)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50320963"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "An Italian farmer found some unknown seeds in his attic and planted them"
+      },
+      "Description": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 40 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
