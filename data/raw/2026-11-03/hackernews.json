@@ -301,21 +301,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50351111"
-    },
-    "Type": 1,
-    "Title": "The \u0027Astra can read and write weights to improve Qwen\u0027 post is misleading",
-    "Url": "https://honnibal.dev/blog/astra-read-write-misleading",
-    "Description": "The \u0027Astra can read and write weights to improve Qwen\u0027 post is misleading",
-    "Metadata": {
-      "score": "95",
-      "author": "syllogism",
-      "commentCount": "11"
-    },
-    "FetchedAt": "2026-11-03T13:22:11.8677482+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50341174"
     },
     "Type": 1,
@@ -373,21 +358,6 @@
       "commentCount": "4"
     },
     "FetchedAt": "2026-11-03T13:22:11.9835653+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50349276"
-    },
-    "Type": 1,
-    "Title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
-    "Url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
-    "Description": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
-    "Metadata": {
-      "score": "99",
-      "author": "markusw",
-      "commentCount": "45"
-    },
-    "FetchedAt": "2026-11-03T13:22:12.0125308+00:00"
   },
   {
     "ExternalId": {
@@ -748,5 +718,455 @@
       "commentCount": "11"
     },
     "FetchedAt": "2026-11-03T13:22:12.7257113+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50358582"
+    },
+    "Type": 1,
+    "Title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "Url": "https://arxiv.org/abs/2605.29713",
+    "Description": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "Metadata": {
+      "score": "75",
+      "author": "ibobev",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-11-03T22:44:21.9885305+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50358702"
+    },
+    "Type": 1,
+    "Title": "The Internals of PostgreSQL",
+    "Url": "https://www.interdb.jp/pg/index.html",
+    "Description": "The Internals of PostgreSQL",
+    "Metadata": {
+      "score": "25",
+      "author": "ibobev",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-11-03T22:44:22.057457+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50358562"
+    },
+    "Type": 1,
+    "Title": "Safari introduces Adaptive Dark Mode in 27.3",
+    "Url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+    "Description": "Safari introduces Adaptive Dark Mode in 27.3",
+    "Metadata": {
+      "score": "136",
+      "author": "paddingtone",
+      "commentCount": "91"
+    },
+    "FetchedAt": "2026-11-03T22:44:22.1148989+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50339288"
+    },
+    "Type": 1,
+    "Title": "Jailbreaking my car\u0027s navigation system just so I can change the time",
+    "Url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+    "Description": "Jailbreaking my car\u0027s navigation system just so I can change the time",
+    "Metadata": {
+      "score": "540",
+      "author": "xx_ns",
+      "commentCount": "212"
+    },
+    "FetchedAt": "2026-11-03T22:44:22.1873006+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50354358"
+    },
+    "Type": 1,
+    "Title": "Stringman, an $800 open-source room scale gripper robot",
+    "Url": "https://neufangled.com/",
+    "Description": "Stringman, an $800 open-source room scale gripper robot",
+    "Metadata": {
+      "score": "271",
+      "author": "nharada",
+      "commentCount": "108"
+    },
+    "FetchedAt": "2026-11-03T22:44:22.573262+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50346755"
+    },
+    "Type": 1,
+    "Title": "Show HN: HackerTV \u2013 HN\u0027s most-recommended Youtube videos as 24/7 TV channels",
+    "Url": "https://hackertv.org",
+    "Description": "I saw HackerTube (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50319510\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50319510\u003C/a\u003E) a few days ago, the YouTube videos HN keeps\nrecommending, pulled from 19 years of comments. It made me want to flip\nthrough them instead of picking, so I built a TV for it. I have Algo fatigue.\u003Cp\u003EEach topic area is a channel (DEVTV, SOLDER, RETRO, ORBIT, ...), plus HN Prime\n(the top 400), a music channel, and Late Night on ch 99, which only br",
+    "Metadata": {
+      "score": "83",
+      "author": "dsalzman",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-11-03T22:44:22.8110913+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50355251"
+    },
+    "Type": 1,
+    "Title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+    "Url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+    "Description": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+    "Metadata": {
+      "score": "410",
+      "author": "theanonymousone",
+      "commentCount": "136"
+    },
+    "FetchedAt": "2026-11-03T22:44:22.9764957+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50356944"
+    },
+    "Type": 1,
+    "Title": "macOS 27 does not support CoreStorage volumes",
+    "Url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+    "Description": "macOS 27 does not support CoreStorage volumes",
+    "Metadata": {
+      "score": "62",
+      "author": "colejohnson66",
+      "commentCount": "32"
+    },
+    "FetchedAt": "2026-11-03T22:44:23.0989131+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50354960"
+    },
+    "Type": 1,
+    "Title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+    "Url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+    "Description": "Postman silently auto-installs AI plugins and attempts to share all API data",
+    "Metadata": {
+      "score": "890",
+      "author": "sidgarimella",
+      "commentCount": "290"
+    },
+    "FetchedAt": "2026-11-03T22:44:23.1895219+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50358314"
+    },
+    "Type": 1,
+    "Title": "Show HN: Kairos \u2013 Open-source risk and fraud decisioning platform",
+    "Url": "https://github.com/finic-ai/kairos",
+    "Description": "Hey HN, Ayan here from Finic. We\u2019re launching Kairos, an open source alternative to Sift, Sardine, and other real-time fraud decisioning platforms. Kairos addresses two of the biggest problems facing traditional decisioning tools: a lack of labeled data to train on and dealing with fraudsters that are constantly changing their tactics.\u003Cp\u003E1. Traditional fraud solutions use ML models such as XGBoost to detect fraud, but these models are dependent on quality labeled data which many businesses do no",
+    "Metadata": {
+      "score": "24",
+      "author": "ayanb9440",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-11-03T22:44:23.2680327+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50333131"
+    },
+    "Type": 1,
+    "Title": "Japan\u0027s Jimi \u0027Mundane\u0027 Halloween Costumes of 2026",
+    "Url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
+    "Description": "Japan\u0027s Jimi \u0027Mundane\u0027 Halloween Costumes of 2026",
+    "Metadata": {
+      "score": "49",
+      "author": "zdw",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-11-03T22:44:23.3497289+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50336918"
+    },
+    "Type": 1,
+    "Title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+    "Url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+    "Description": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+    "Metadata": {
+      "score": "339",
+      "author": "bookofjoe",
+      "commentCount": "136"
+    },
+    "FetchedAt": "2026-11-03T22:44:23.4123007+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50356913"
+    },
+    "Type": 1,
+    "Title": "Introduction to Programming in ATS",
+    "Url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+    "Description": "Introduction to Programming in ATS",
+    "Metadata": {
+      "score": "42",
+      "author": "ibobev",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-11-03T22:44:23.47548+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50322603"
+    },
+    "Type": 1,
+    "Title": "We\u0027re Training a Figma-Fluent Editing Model",
+    "Url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+    "Description": "We\u0027re Training a Figma-Fluent Editing Model",
+    "Metadata": {
+      "score": "43",
+      "author": "gmays",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-11-03T22:44:23.530136+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50356994"
+    },
+    "Type": 1,
+    "Title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+    "Url": "https://flipper.net/pages/flipper-one",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;docs.flipper.net\u0026#x2F;one\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;docs.flipper.net\u0026#x2F;one\u003C/a\u003E",
+    "Metadata": {
+      "score": "143",
+      "author": "user_7832",
+      "commentCount": "69"
+    },
+    "FetchedAt": "2026-11-03T22:44:23.5923168+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50357457"
+    },
+    "Type": 1,
+    "Title": "Pratt parsing is a black box",
+    "Url": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
+    "Description": "Pratt parsing is a black box",
+    "Metadata": {
+      "score": "25",
+      "author": "ibobev",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-11-03T22:44:23.7151625+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50354582"
+    },
+    "Type": 1,
+    "Title": "Ashby (YC W19) Is Hiring EMs",
+    "Url": "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28\u0026utm_source=hn",
+    "Description": "Ashby (YC W19) Is Hiring EMs",
+    "Metadata": {
+      "score": "1",
+      "author": "abhikp",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-11-03T22:44:23.771707+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50338334"
+    },
+    "Type": 1,
+    "Title": "Curiosity Traps",
+    "Url": "https://www.autodidacts.io/curiosity-traps/",
+    "Description": "Curiosity Traps",
+    "Metadata": {
+      "score": "12",
+      "author": "surprisetalk",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-11-03T22:44:23.8574677+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50351111"
+    },
+    "Type": 1,
+    "Title": "The \u0027Astra can read and write weights to improve Qwen\u0027 post is misleading",
+    "Url": "https://honnibal.dev/blog/astra-read-write-misleading",
+    "Description": "The \u0027Astra can read and write weights to improve Qwen\u0027 post is misleading",
+    "Metadata": {
+      "score": "849",
+      "author": "syllogism",
+      "commentCount": "187"
+    },
+    "FetchedAt": "2026-11-03T22:44:23.9068163+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50342119"
+    },
+    "Type": 1,
+    "Title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
+    "Url": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
+    "Description": "Writing seen in PHerc. 306B, for the first time in 2000 years",
+    "Metadata": {
+      "score": "107",
+      "author": "benbreen",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-11-03T22:44:23.9537663+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50349276"
+    },
+    "Type": 1,
+    "Title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+    "Url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+    "Description": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+    "Metadata": {
+      "score": "419",
+      "author": "markusw",
+      "commentCount": "191"
+    },
+    "FetchedAt": "2026-11-03T22:44:24.0116747+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50352758"
+    },
+    "Type": 1,
+    "Title": "Mac at Any Scale",
+    "Url": "https://namespace.so/blog/mac-at-any-scale",
+    "Description": "Mac at Any Scale",
+    "Metadata": {
+      "score": "280",
+      "author": "anner_",
+      "commentCount": "163"
+    },
+    "FetchedAt": "2026-11-03T22:44:24.0642407+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50334363"
+    },
+    "Type": 1,
+    "Title": "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables (2015)",
+    "Url": "https://www.mattkeeter.com/projects/antimony/3/",
+    "Description": "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables (2015)",
+    "Metadata": {
+      "score": "92",
+      "author": "pmkary",
+      "commentCount": "49"
+    },
+    "FetchedAt": "2026-11-03T22:44:24.1082387+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50353229"
+    },
+    "Type": 1,
+    "Title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+    "Url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+    "Description": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+    "Metadata": {
+      "score": "412",
+      "author": "rbanffy",
+      "commentCount": "334"
+    },
+    "FetchedAt": "2026-11-03T22:44:24.1527698+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50358422"
+    },
+    "Type": 1,
+    "Title": "US tech giants\u0027 hidden AI debt swells 90% to $3.2T in 6 months",
+    "Url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+    "Description": "US tech giants\u0027 hidden AI debt swells 90% to $3.2T in 6 months",
+    "Metadata": {
+      "score": "49",
+      "author": "angry_impala",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-11-03T22:44:24.202114+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50355767"
+    },
+    "Type": 1,
+    "Title": "How I use AI (Oct 2026)",
+    "Url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+    "Description": "How I use AI (Oct 2026)",
+    "Metadata": {
+      "score": "48",
+      "author": "citelao",
+      "commentCount": "49"
+    },
+    "FetchedAt": "2026-11-03T22:44:24.2497406+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50354250"
+    },
+    "Type": 1,
+    "Title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
+    "Url": "https://arxiv.org/abs/2611.02618",
+    "Description": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
+    "Metadata": {
+      "score": "39",
+      "author": "1equalsequals1",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-11-03T22:44:24.2989039+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50353192"
+    },
+    "Type": 1,
+    "Title": "Google will turn off search for schools that reject AI",
+    "Url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;RuwsB\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.ph\u0026#x2F;RuwsB\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;blog.google\u0026#x2F;products-and-platforms\u0026#x2F;products\u0026#x2F;education\u0026#x2F;ai-learning-era-updates-2026\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;blog.google\u0026#x2F;products-and-platforms\u0026#x2F;products\u0026#x2F;educatio...\u003C/a\u003E",
+    "Metadata": {
+      "score": "502",
+      "author": "ceejayoz",
+      "commentCount": "363"
+    },
+    "FetchedAt": "2026-11-03T22:44:24.3486873+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50354336"
+    },
+    "Type": 1,
+    "Title": "Gitbook Breached",
+    "Url": "https://news.ycombinator.com/item?id=50354336",
+    "Description": "We opened a ticket with support about Gitbook availability issues and got this in reply. We have yet to see any official customer communication or breach notification. Apologies for the formatting, did the best I could as it\u0026#x27;s a mobile paste.\u003Cp\u003EUpdate:\u003Cp\u003EGitBook security incident update\n Hey \u0026lt;$name\u0026gt;,\n The GitBook app, the GitBook API, and published docs are available again. A few services may still be degraded as we finish restoring everything to full performance.\u003Cp\u003E*What happened*\n G",
+    "Metadata": {
+      "score": "134",
+      "author": "punchmesan",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-11-03T22:44:24.435056+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50353073"
+    },
+    "Type": 1,
+    "Title": "Tiny Basic for Arduino",
+    "Url": "https://dilshan.github.io/tiny-basic/",
+    "Description": "Tiny Basic for Arduino",
+    "Metadata": {
+      "score": "60",
+      "author": "AlexeyBrin",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-11-03T22:44:24.4825254+00:00"
   }
 ]
