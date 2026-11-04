@@ -211,81 +211,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50364336"
-    },
-    "Type": 1,
-    "Title": "AI is forcing us to pay off 40 years of technical debt",
-    "Url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-    "Description": "AI is forcing us to pay off 40 years of technical debt",
-    "Metadata": {
-      "score": "219",
-      "author": "pseudolus",
-      "commentCount": "109"
-    },
-    "FetchedAt": "2026-11-04T13:33:13.6009367+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50362905"
-    },
-    "Type": 1,
-    "Title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-    "Url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-    "Description": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-    "Metadata": {
-      "score": "221",
-      "author": "novaRom",
-      "commentCount": "118"
-    },
-    "FetchedAt": "2026-11-04T13:33:13.6349631+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50363378"
-    },
-    "Type": 1,
-    "Title": "Incident with Pull Requests, Git Operations and Issues",
-    "Url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
-    "Description": "Incident with Pull Requests, Git Operations and Issues",
-    "Metadata": {
-      "score": "130",
-      "author": "kevcampb",
-      "commentCount": "60"
-    },
-    "FetchedAt": "2026-11-04T13:33:13.6701193+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50363019"
-    },
-    "Type": 1,
-    "Title": "Verification Is Not Knowledge: Science needs more than answers",
-    "Url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
-    "Description": "Verification Is Not Knowledge: Science needs more than answers",
-    "Metadata": {
-      "score": "98",
-      "author": "ersinesen",
-      "commentCount": "52"
-    },
-    "FetchedAt": "2026-11-04T13:33:13.7338538+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50363461"
-    },
-    "Type": 1,
-    "Title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-    "Url": "https://news.ycombinator.com/item?id=50363461",
-    "Description": "If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. These chat transcripts may even be read by human reviewers. Although Google claims to disconnect them from your account when human-reviewed, they explicitly warn \u003Ci\u003Enot to enter confidential information\u003C/i\u003E.\u003Cp\u003Ehttps:\u0026#x2F;\u0026#x2F;support.google.com\u0026#x2F;gemini\u0026#x2F;answer\u0026#x2F;16836988\u003Cp\u003E\u003Ci\u003E\u201C[Ge",
-    "Metadata": {
-      "score": "175",
-      "author": "jameslk",
-      "commentCount": "47"
-    },
-    "FetchedAt": "2026-11-04T13:33:13.7851361+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50361268"
     },
     "Type": 1,
@@ -658,5 +583,455 @@
       "commentCount": "58"
     },
     "FetchedAt": "2026-11-04T13:33:14.8246992+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50371246"
+    },
+    "Type": 1,
+    "Title": "Residential proxies detected on White House network",
+    "Url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+    "Description": "Residential proxies detected on White House network",
+    "Metadata": {
+      "score": "421",
+      "author": "Rasbora",
+      "commentCount": "118"
+    },
+    "FetchedAt": "2026-11-04T23:02:12.6532076+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50369925"
+    },
+    "Type": 1,
+    "Title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+    "Url": "https://www.ricursive.com/ripple",
+    "Description": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+    "Metadata": {
+      "score": "178",
+      "author": "Philpax",
+      "commentCount": "58"
+    },
+    "FetchedAt": "2026-11-04T23:02:12.8265812+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50370610"
+    },
+    "Type": 1,
+    "Title": "Insects don\u0027t swarm at LED lights",
+    "Url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+    "Description": "Insects don\u0027t swarm at LED lights",
+    "Metadata": {
+      "score": "121",
+      "author": "speckx",
+      "commentCount": "68"
+    },
+    "FetchedAt": "2026-11-04T23:02:12.8659885+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50364336"
+    },
+    "Type": 1,
+    "Title": "AI is forcing us to pay off 40 years of technical debt",
+    "Url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+    "Description": "AI is forcing us to pay off 40 years of technical debt",
+    "Metadata": {
+      "score": "990",
+      "author": "pseudolus",
+      "commentCount": "602"
+    },
+    "FetchedAt": "2026-11-04T23:02:12.8986637+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50372164"
+    },
+    "Type": 1,
+    "Title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+    "Url": "https://icode4.coffee/?p=1746",
+    "Description": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+    "Metadata": {
+      "score": "21",
+      "author": "muricula",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-11-04T23:02:12.9323992+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50369106"
+    },
+    "Type": 1,
+    "Title": "A new Go API for JSON",
+    "Url": "https://go.dev/blog/jsonv2",
+    "Description": "A new Go API for JSON",
+    "Metadata": {
+      "score": "180",
+      "author": "olexsmir",
+      "commentCount": "77"
+    },
+    "FetchedAt": "2026-11-04T23:02:12.9666029+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50370654"
+    },
+    "Type": 1,
+    "Title": "Qualcomm Cloud AI 100 Ultra \u2013 150W AI Accelerator Card with 128GB at 548GB/s",
+    "Url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+    "Description": "Qualcomm Cloud AI 100 Ultra \u2013 150W AI Accelerator Card with 128GB at 548GB/s",
+    "Metadata": {
+      "score": "70",
+      "author": "peter_d_sherman",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-11-04T23:02:12.9996952+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50368626"
+    },
+    "Type": 1,
+    "Title": "Progress on provable inference for large language models",
+    "Url": "https://www.anthropic.com/research/provable-inference",
+    "Description": "Progress on provable inference for large language models",
+    "Metadata": {
+      "score": "155",
+      "author": "ltononro",
+      "commentCount": "77"
+    },
+    "FetchedAt": "2026-11-04T23:02:13.0327984+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50362905"
+    },
+    "Type": 1,
+    "Title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+    "Url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+    "Description": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+    "Metadata": {
+      "score": "570",
+      "author": "novaRom",
+      "commentCount": "265"
+    },
+    "FetchedAt": "2026-11-04T23:02:13.0655143+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50369895"
+    },
+    "Type": 1,
+    "Title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+    "Url": "https://fireflyk64.github.io/wcmulti/",
+    "Description": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+    "Metadata": {
+      "score": "79",
+      "author": "daniel_rh",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-11-04T23:02:13.1000099+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50369503"
+    },
+    "Type": 1,
+    "Title": "Conductor Is Joining Meta",
+    "Url": "https://www.conductor.build/announcement",
+    "Description": "Conductor Is Joining Meta",
+    "Metadata": {
+      "score": "69",
+      "author": "kenrose",
+      "commentCount": "117"
+    },
+    "FetchedAt": "2026-11-04T23:02:13.1337664+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50366863"
+    },
+    "Type": 1,
+    "Title": "OpenAI to acquire Pierre Computer Company",
+    "Url": "https://openai.com/index/openai-to-acquire-pierre/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;twitter.com\u0026#x2F;pierrecomputer\u0026#x2F;status\u0026#x2F;2117999036175188183\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;twitter.com\u0026#x2F;pierrecomputer\u0026#x2F;status\u0026#x2F;211799903617518818...\u003C/a\u003E",
+    "Metadata": {
+      "score": "147",
+      "author": "itunpredictable",
+      "commentCount": "51"
+    },
+    "FetchedAt": "2026-11-04T23:02:13.1670202+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50368804"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Kino AI (YC S23) \u2013 AI media manager and video editor",
+    "Url": "https://news.ycombinator.com/item?id=50368804",
+    "Description": "Hi HN! I\u0026#x27;m Luke from Kino (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;kino.ai\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;kino.ai\u003C/a\u003E). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links for teammates are all bundled into one. Your colleagues and Codex \u0026#x2F; Claude Code can work on the same timeline with review notes and footage all in one place. See a basic overview at \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;kino.ai\u0026#x2F;walkthrough-video\u0022\u003Ehttps:\u0026#x2F;\u0026#x2",
+    "Metadata": {
+      "score": "58",
+      "author": "lukeigel",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-11-04T23:02:13.2018002+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50347425"
+    },
+    "Type": 1,
+    "Title": "Ask HN: What Cryptography book do you recommend for reading with 10 year olds?",
+    "Url": "https://news.ycombinator.com/item?id=50347425",
+    "Description": "We are looking for a Cryptography book recommendation to read with our 10 year old who loves making up his own ciphers. He loves reading adult math and science books with us at breakfast like Ignition!, Humble Pi, and The Hunt for Vulcan. All of the kids books that we\u0026#x27;ve found are just puzzles, but I don\u0026#x27;t want to get something way over his head math-wise. A good history with basic theory behind the different types would be perfect. Thanks!",
+    "Metadata": {
+      "score": "24",
+      "author": "mike_richards",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-11-04T23:02:13.2345789+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50365780"
+    },
+    "Type": 1,
+    "Title": "Tencent Hy4",
+    "Url": "https://hy.tencent.ai/research/hy4",
+    "Description": "Tencent Hy4",
+    "Metadata": {
+      "score": "160",
+      "author": "Philpax",
+      "commentCount": "48"
+    },
+    "FetchedAt": "2026-11-04T23:02:13.2670194+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50367125"
+    },
+    "Type": 1,
+    "Title": "AMD expects to outsell Intel in Q4 for the first time in history",
+    "Url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+    "Description": "AMD expects to outsell Intel in Q4 for the first time in history",
+    "Metadata": {
+      "score": "423",
+      "author": "rbanffy",
+      "commentCount": "144"
+    },
+    "FetchedAt": "2026-11-04T23:02:13.3003398+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50363019"
+    },
+    "Type": 1,
+    "Title": "Verification Is Not Knowledge: Science needs more than answers",
+    "Url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+    "Description": "Verification Is Not Knowledge: Science needs more than answers",
+    "Metadata": {
+      "score": "216",
+      "author": "ersinesen",
+      "commentCount": "128"
+    },
+    "FetchedAt": "2026-11-04T23:02:13.3352178+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50365755"
+    },
+    "Type": 1,
+    "Title": "North Korean fake job interview led to $6.3B Binance heist",
+    "Url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+    "Description": "North Korean fake job interview led to $6.3B Binance heist",
+    "Metadata": {
+      "score": "545",
+      "author": "smalltech",
+      "commentCount": "326"
+    },
+    "FetchedAt": "2026-11-04T23:02:13.3691231+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50372294"
+    },
+    "Type": 1,
+    "Title": "Ask HN: What your experience with the monthly \u0022who wants to be hired\u0022 thread?",
+    "Url": "https://news.ycombinator.com/item?id=50372294",
+    "Description": "I recently commented on the \u0026quot;who wants to be hired\u0026quot; this month and so far have only received spam. Has anyone had any success with this, or is it just a way to subscribe to junk mail and automated marketing?",
+    "Metadata": {
+      "score": "28",
+      "author": "newswangerd",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-11-04T23:02:13.4026654+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50363378"
+    },
+    "Type": 1,
+    "Title": "Incident with Pull Requests, Git Operations and Issues",
+    "Url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+    "Description": "Incident with Pull Requests, Git Operations and Issues",
+    "Metadata": {
+      "score": "249",
+      "author": "kevcampb",
+      "commentCount": "124"
+    },
+    "FetchedAt": "2026-11-04T23:02:13.4356327+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50339183"
+    },
+    "Type": 1,
+    "Title": "Show HN: The DNA of DOOM \u2013 How code structure survives across 44 ports",
+    "Url": "https://squid-protocol.github.io/gitgalaxy/museum-of-code/doom-dna/",
+    "Description": "I used my custom built structural extraction engine to analyze 44 DOOM ports across history to see what functions remain, if the keyword structure of those functions remained, if comparable call networks could be seen, etc. - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;squid-protocol\u0026#x2F;gitgalaxy\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;squid-protocol\u0026#x2F;gitgalaxy\u003C/a\u003E",
+    "Metadata": {
+      "score": "7",
+      "author": "joe-esquibel",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-11-04T23:02:13.4685337+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50363461"
+    },
+    "Type": 1,
+    "Title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+    "Url": "https://news.ycombinator.com/item?id=50363461",
+    "Description": "If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. These chat transcripts may even be read by human reviewers. Although Google claims to disconnect them from your account when human-reviewed, they explicitly warn \u003Ci\u003Enot to enter confidential information\u003C/i\u003E.\u003Cp\u003Ehttps:\u0026#x2F;\u0026#x2F;support.google.com\u0026#x2F;gemini\u0026#x2F;answer\u0026#x2F;16836988\u003Cp\u003E\u003Ci\u003E\u201C[Ge",
+    "Metadata": {
+      "score": "606",
+      "author": "jameslk",
+      "commentCount": "153"
+    },
+    "FetchedAt": "2026-11-04T23:02:13.5026292+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50369527"
+    },
+    "Type": 1,
+    "Title": "From wild to mild: Friendly foxes show changes in brain region",
+    "Url": "https://news.cornell.edu/stories/2026/11/wild-mild-friendly-foxes-show-changes-brain-region",
+    "Description": "From wild to mild: Friendly foxes show changes in brain region",
+    "Metadata": {
+      "score": "30",
+      "author": "gmays",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-11-04T23:02:13.5364796+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50366999"
+    },
+    "Type": 1,
+    "Title": "Kimi K3.1 Pro model weights are out",
+    "Url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+    "Description": "Kimi K3.1 Pro model weights are out",
+    "Metadata": {
+      "score": "306",
+      "author": "abrarthought",
+      "commentCount": "83"
+    },
+    "FetchedAt": "2026-11-04T23:02:13.5714744+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50366522"
+    },
+    "Type": 1,
+    "Title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+    "Url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+    "Description": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+    "Metadata": {
+      "score": "235",
+      "author": "zenincognito",
+      "commentCount": "165"
+    },
+    "FetchedAt": "2026-11-04T23:02:13.6163433+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50371346"
+    },
+    "Type": 1,
+    "Title": "If you\u0027re on Replit Pro, you have until November 8 to opt out of arbitration",
+    "Url": "https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8",
+    "Description": "If you\u0027re on Replit Pro, you have until November 8 to opt out of arbitration",
+    "Metadata": {
+      "score": "41",
+      "author": "MiguelSosa",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-11-04T23:02:13.648978+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50366919"
+    },
+    "Type": 1,
+    "Title": "Evergreen: A Provably Safe Systems Language",
+    "Url": "https://evergreenlang.net",
+    "Description": "Evergreen: A Provably Safe Systems Language",
+    "Metadata": {
+      "score": "96",
+      "author": "jordan_bonecut",
+      "commentCount": "81"
+    },
+    "FetchedAt": "2026-11-04T23:02:13.6816394+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50366929"
+    },
+    "Type": 1,
+    "Title": "Show HN: I built a tool that prices a prebuilt PC part by part",
+    "Url": "https://pcdealcheck.com/",
+    "Description": "I\u0026#x27;ve missed out on an awesome computer that I could use for a project because figuring out value took too long. Users paste a listing and receive a value grade, dated component estimates and a shareable report. AI reads the listing but my custom built price engine determines the grade (updated every day). Self financed and working now. Looking for feedback re: scoring, interface, and if its helpful. \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=Tpft--x3WlI\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#",
+    "Metadata": {
+      "score": "83",
+      "author": "adlep",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-11-04T23:02:13.714223+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50369462"
+    },
+    "Type": 1,
+    "Title": "Benchfmt.rs: Bringing Go\u0027s benchmarking and benchstat workflow to Rust",
+    "Url": "https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/",
+    "Description": "Benchfmt.rs: Bringing Go\u0027s benchmarking and benchstat workflow to Rust",
+    "Metadata": {
+      "score": "28",
+      "author": "witcher",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-11-04T23:02:13.7470314+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50371508"
+    },
+    "Type": 1,
+    "Title": "Everything is an AI scam now",
+    "Url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
+    "Description": "Everything is an AI scam now",
+    "Metadata": {
+      "score": "106",
+      "author": "speckx",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-11-04T23:02:13.7801557+00:00"
   }
 ]

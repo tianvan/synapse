@@ -95,7 +95,7 @@
       "language": "Python",
       "stars": "2,053"
     },
-    "FetchedAt": "2026-11-04T13:33:12.7887523+00:00"
+    "FetchedAt": "2026-11-04T23:02:09.5906936+00:00"
   },
   {
     "ExternalId": {
@@ -109,9 +109,10 @@
       "owner": "max-sixty",
       "repo": "worktrunk",
       "language": "Rust",
-      "stars": "524"
+      "stars": "524",
+      "topics": "agents, claude-code, codex, developer-tools, git, worktrees"
     },
-    "FetchedAt": "2026-11-04T13:33:12.9380903+00:00"
+    "FetchedAt": "2026-11-04T23:02:09.8900515+00:00"
   },
   {
     "ExternalId": {
@@ -125,9 +126,10 @@
       "owner": "vercel-labs",
       "repo": "agent-desktop",
       "language": "Rust",
-      "stars": "2,463"
+      "stars": "2,463",
+      "topics": "accessibility, accessibility-api, ai-agents, automation, cli, computer-use, computer-use-agent, computer-use-agents, desktop-automation, macos, mcp, rust"
     },
-    "FetchedAt": "2026-11-04T13:33:12.9851102+00:00"
+    "FetchedAt": "2026-11-04T23:02:10.0632775+00:00"
   },
   {
     "ExternalId": {
@@ -141,9 +143,10 @@
       "owner": "github",
       "repo": "spec-kit",
       "language": "Python",
-      "stars": "810"
+      "stars": "810",
+      "topics": "ai, copilot, development, engineering, prd, spec, spec-driven"
     },
-    "FetchedAt": "2026-11-04T13:33:13.026679+00:00"
+    "FetchedAt": "2026-11-04T23:02:10.2643522+00:00"
   },
   {
     "ExternalId": {
@@ -157,9 +160,10 @@
       "owner": "The-PR-Agent",
       "repo": "pr-agent",
       "language": "Python",
-      "stars": "279"
+      "stars": "279",
+      "topics": "ai, anthropic, code-review, coding-assistant, devtools, ollama, openai, pull-request, pull-requests"
     },
-    "FetchedAt": "2026-11-04T13:33:13.0685327+00:00"
+    "FetchedAt": "2026-11-04T23:02:10.4647326+00:00"
   },
   {
     "ExternalId": {
@@ -173,9 +177,10 @@
       "owner": "harry0703",
       "repo": "MoneyPrinterTurbo",
       "language": "Python",
-      "stars": "615"
+      "stars": "615",
+      "topics": "ai-video-generator, content-creation, ffmpeg, instagram-reels, llm, python, short-video, subtitles, text-to-speech, tiktok, video-automation, video-workflow, workflow-automation, youtube-shorts"
     },
-    "FetchedAt": "2026-11-04T13:33:13.1098581+00:00"
+    "FetchedAt": "2026-11-04T23:02:10.6818633+00:00"
   },
   {
     "ExternalId": {
@@ -191,7 +196,7 @@
       "language": "TypeScript",
       "stars": "285"
     },
-    "FetchedAt": "2026-11-04T13:33:13.1513209+00:00"
+    "FetchedAt": "2026-11-04T23:02:10.8578591+00:00"
   },
   {
     "ExternalId": {
@@ -205,9 +210,10 @@
       "owner": "FareedKhan-dev",
       "repo": "kimi-k3-in-c",
       "language": "C",
-      "stars": "351"
+      "stars": "351",
+      "topics": "avx2, c99, cpu-inference, deep-learning, from-scratch, inference-engine, kimi-k3, linear-attention, llm, llm-inference, machine-learning, memory-efficient, mixture-of-experts, moe, mxfp4, quantization, simd, systems-programming, transformer, zero-dependencies"
     },
-    "FetchedAt": "2026-11-04T13:33:13.1933523+00:00"
+    "FetchedAt": "2026-11-04T23:02:11.0403477+00:00"
   },
   {
     "ExternalId": {
@@ -223,7 +229,7 @@
       "language": "C#",
       "stars": "1,792"
     },
-    "FetchedAt": "2026-11-04T13:33:13.2360139+00:00"
+    "FetchedAt": "2026-11-04T23:02:11.1992058+00:00"
   },
   {
     "ExternalId": {
@@ -232,14 +238,15 @@
     "Type": 0,
     "Title": "Thysrael/Horizon",
     "Url": "https://github.com/Thysrael/Horizon",
-    "Description": "\uD83D\uDCE1 Your own AI-powered news radar. Generates daily briefings in English \u0026amp; Chinese. | \u7528 AI \u6784\u5EFA\u4F60\u4E13\u5C5E\u7684\u65B0\u95FB\u96F7\u8FBE",
+    "Description": "\uD83D\uDCE1 Your own AI-powered news radar. Generates daily briefings in English \u0026 Chinese. | \u7528 AI \u6784\u5EFA\u4F60\u4E13\u5C5E\u7684\u65B0\u95FB\u96F7\u8FBE",
     "Metadata": {
       "owner": "Thysrael",
       "repo": "Horizon",
       "language": "Python",
-      "stars": "121"
+      "stars": "121",
+      "topics": "aggregator, feishu-bot, llm, mcp, news, openclaw, python, webhook"
     },
-    "FetchedAt": "2026-11-04T13:33:13.2829605+00:00"
+    "FetchedAt": "2026-11-04T23:02:11.3667587+00:00"
   },
   {
     "ExternalId": {
@@ -253,8 +260,9 @@
       "owner": "scenario-labs",
       "repo": "skills",
       "language": "Python",
-      "stars": "224"
+      "stars": "224",
+      "topics": "3d-models, agent-skills, ai-agents, ai-art, blender, claude-code, claude-skills, codex, game-assets, game-development, generative-ai, image-generation, maya, mcp, model-context-protocol, skills-sh, unity, unreal-engine, video-generation, zbrush"
     },
-    "FetchedAt": "2026-11-04T13:33:13.3254715+00:00"
+    "FetchedAt": "2026-11-04T23:02:11.5644035+00:00"
   }
 ]
