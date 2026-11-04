@@ -1,0 +1,118 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:vercel-labs/agent-desktop"
+    },
+    "Type": 0,
+    "Title": "vercel-labs/agent-desktop",
+    "Url": "https://github.com/vercel-labs/agent-desktop",
+    "Description": "Computer use CLI for AI agents",
+    "Metadata": {
+      "owner": "vercel-labs",
+      "repo": "agent-desktop",
+      "language": "Rust",
+      "stars": "3,791",
+      "topics": "accessibility, accessibility-api, ai-agents, automation, cli, computer-use, computer-use-agent, computer-use-agents, desktop-automation, macos, mcp, rust"
+    },
+    "FetchedAt": "2026-11-04T04:12:09.4166162+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:max-sixty/worktrunk"
+    },
+    "Type": 0,
+    "Title": "max-sixty/worktrunk",
+    "Url": "https://github.com/max-sixty/worktrunk",
+    "Description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "Metadata": {
+      "owner": "max-sixty",
+      "repo": "worktrunk",
+      "language": "Rust",
+      "stars": "438",
+      "topics": "agents, claude-code, codex, developer-tools, git, worktrees"
+    },
+    "FetchedAt": "2026-11-04T04:12:09.7281931+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:JustVugg/colibri"
+    },
+    "Type": 0,
+    "Title": "JustVugg/colibri",
+    "Url": "https://github.com/JustVugg/colibri",
+    "Description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+    "Metadata": {
+      "owner": "JustVugg",
+      "repo": "colibri",
+      "language": "C",
+      "stars": "802"
+    },
+    "FetchedAt": "2026-11-04T04:12:09.8889635+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:p-e-w/heretic"
+    },
+    "Type": 0,
+    "Title": "p-e-w/heretic",
+    "Url": "https://github.com/p-e-w/heretic",
+    "Description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+    "Metadata": {
+      "owner": "p-e-w",
+      "repo": "heretic",
+      "language": "Python",
+      "stars": "701",
+      "topics": "abliteration, anti-censorship, anticensorship, censorship, censorship-resistance, llm, transformer"
+    },
+    "FetchedAt": "2026-11-04T04:12:10.0808633+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:spotify/portal-ai-plugins"
+    },
+    "Type": 0,
+    "Title": "spotify/portal-ai-plugins",
+    "Url": "https://github.com/spotify/portal-ai-plugins",
+    "Description": "",
+    "Metadata": {
+      "owner": "spotify",
+      "repo": "portal-ai-plugins",
+      "language": "TypeScript",
+      "stars": "91"
+    },
+    "FetchedAt": "2026-11-04T04:12:10.2600876+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Usagi-org/ai-goofish-monitor"
+    },
+    "Type": 0,
+    "Title": "Usagi-org/ai-goofish-monitor",
+    "Url": "https://github.com/Usagi-org/ai-goofish-monitor",
+    "Description": "\u57FA\u4E8E Playwright \u548CAI\u5B9E\u73B0\u7684\u95F2\u9C7C\u591A\u4EFB\u52A1\u5B9E\u65F6/\u5B9A\u65F6\u76D1\u63A7\u4E0E\u667A\u80FD\u5206\u6790\u7CFB\u7EDF\uFF0C\u914D\u5907\u4E86\u529F\u80FD\u5B8C\u5584\u7684\u540E\u53F0\u7BA1\u7406UI\u3002\u5E2E\u52A9\u7528\u6237\u4ECE\u95F2\u9C7C\u6D77\u91CF\u5546\u54C1\u4E2D\uFF0C\u627E\u5230\u5FC3\u4EEA\u4EA7\u54C1\u3002",
+    "Metadata": {
+      "owner": "Usagi-org",
+      "repo": "ai-goofish-monitor",
+      "language": "Python",
+      "stars": "228",
+      "topics": "ai, ai-assistant, ai-tools, automation, gemini, goofish, open-source, openai, playwright, tool, xian-yu, xianyu, xianyu-bot"
+    },
+    "FetchedAt": "2026-11-04T04:12:10.4530073+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:shiyu-coder/Kronos"
+    },
+    "Type": 0,
+    "Title": "shiyu-coder/Kronos",
+    "Url": "https://github.com/shiyu-coder/Kronos",
+    "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "Metadata": {
+      "owner": "shiyu-coder",
+      "repo": "Kronos",
+      "language": "Python",
+      "stars": "503"
+    },
+    "FetchedAt": "2026-11-04T04:12:10.6578018+00:00"
+  }
+]
