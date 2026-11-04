@@ -1,0 +1,563 @@
+{
+  "Id": "2026-11-04",
+  "GeneratedAt": "2026-11-04T05:07:51.1045345+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:vercel-labs/agent-desktop"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Computer use CLI for AI agents"
+      },
+      "Description": "Computer use CLI for AI agents",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:max-sixty/worktrunk"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+      },
+      "Description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:JustVugg/colibri"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold o"
+      },
+      "Description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Writte",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:p-e-w/heretic"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more"
+      },
+      "Description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:spotify/portal-ai-plugins"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": ""
+      },
+      "Description": "",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Usagi-org/ai-goofish-monitor"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u57FA\u4E8E Playwright \u548CAI\u5B9E\u73B0\u7684\u95F2\u9C7C\u591A\u4EFB\u52A1\u5B9E\u65F6/\u5B9A\u65F6\u76D1\u63A7\u4E0E\u667A\u80FD\u5206\u6790\u7CFB\u7EDF\uFF0C\u914D\u5907\u4E86\u529F\u80FD\u5B8C\u5584\u7684\u540E\u53F0\u7BA1\u7406UI\u3002\u5E2E\u52A9\u7528\u6237\u4ECE\u95F2\u9C7C\u6D77\u91CF\u5546\u54C1\u4E2D\uFF0C\u627E\u5230\u5FC3\u4EEA\u4EA7\u54C1\u3002"
+      },
+      "Description": "\u57FA\u4E8E Playwright \u548CAI\u5B9E\u73B0\u7684\u95F2\u9C7C\u591A\u4EFB\u52A1\u5B9E\u65F6/\u5B9A\u65F6\u76D1\u63A7\u4E0E\u667A\u80FD\u5206\u6790\u7CFB\u7EDF\uFF0C\u914D\u5907\u4E86\u529F\u80FD\u5B8C\u5584\u7684\u540E\u53F0\u7BA1\u7406UI\u3002\u5E2E\u52A9\u7528\u6237\u4ECE\u95F2\u9C7C\u6D77\u91CF\u5546\u54C1\u4E2D\uFF0C\u627E\u5230\u5FC3\u4EEA\u4EA7\u54C1\u3002",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:shiyu-coder/Kronos"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Kronos: A Foundation Model for the Language of Financial Markets"
+      },
+      "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50360164"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "C\u002B\u002B26 Disapproved"
+      },
+      "Description": "C\u002B\u002B26 Disapproved",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50361154"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Distinct cellular and genetic differences in colorectal cancer in young patients"
+      },
+      "Description": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50358702"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Internals of PostgreSQL"
+      },
+      "Description": "The Internals of PostgreSQL",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50360573"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Giant canyon on Mars is still tectonically active"
+      },
+      "Description": "Giant canyon on Mars is still tectonically active",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50339288"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Jailbreaking my car\u0027s navigation system just so I can change the time"
+      },
+      "Description": "Jailbreaking my car\u0027s navigation system just so I can change the time",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50354358"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Stringman, an $800 open-source room scale gripper robot"
+      },
+      "Description": "Stringman, an $800 open-source room scale gripper robot",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50346755"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I saw HackerTube (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50319510\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombina"
+      },
+      "Description": "I saw HackerTube (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50319510\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50319510\u003C",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50361107"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Arrows to arrows, categories to queries (2025)"
+      },
+      "Description": "Arrows to arrows, categories to queries (2025)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50358562"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Safari introduces Adaptive Dark Mode in 27.3"
+      },
+      "Description": "Safari introduces Adaptive Dark Mode in 27.3",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50333131"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Japan\u0027s Jimi \u0027Mundane\u0027 Halloween Costumes of 2026"
+      },
+      "Description": "Japan\u0027s Jimi \u0027Mundane\u0027 Halloween Costumes of 2026",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50336918"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Fujifilm to boost tape production 5x as AI fuels archiving demand"
+      },
+      "Description": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50351298"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Why Clip Art Was Everywhere Until It Wasn\u0027t [video]"
+      },
+      "Description": "Why Clip Art Was Everywhere Until It Wasn\u0027t [video]",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50355251"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Qwen 3.8 27B on my laptop can interpret model weights, too"
+      },
+      "Description": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50354960"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Postman silently auto-installs AI plugins and attempts to share all API data"
+      },
+      "Description": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50358582"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer"
+      },
+      "Description": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50322603"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "We\u0027re training a Figma-fluent editing model"
+      },
+      "Description": "We\u0027re training a Figma-fluent editing model",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50352641"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "There is no posttraining data commons"
+      },
+      "Description": "There is no posttraining data commons",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50358314"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hey HN, Ayan here from Finic. We\u2019re launching Kairos, an open source alternative to Sift, Sardine, and other real-time f"
+      },
+      "Description": "Hey HN, Ayan here from Finic. We\u2019re launching Kairos, an open source alternative to Sift, Sardine, and other real-time fraud decisioning platforms. Ka",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50357973"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Pnyx and the Agora (2016)"
+      },
+      "Description": "The Pnyx and the Agora (2016)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50355767"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How I use AI (Oct 2026)"
+      },
+      "Description": "How I use AI (Oct 2026)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50351463"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Microsoft fixes a Windows 11 annoyance as PC revenue declines"
+      },
+      "Description": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50356913"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Introduction to Programming in ATS"
+      },
+      "Description": "Introduction to Programming in ATS",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50342931"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Union Types and Option Types (2025)"
+      },
+      "Description": "Union Types and Option Types (2025)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50338334"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Curiosity Traps"
+      },
+      "Description": "Curiosity Traps",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50351111"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The \u0027Astra can read and write weights to improve Qwen\u0027 post is misleading"
+      },
+      "Description": "The \u0027Astra can read and write weights to improve Qwen\u0027 post is misleading",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50342119"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Writing seen in PHerc. 306B, for the first time in 2000 years"
+      },
+      "Description": "Writing seen in PHerc. 306B, for the first time in 2000 years",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50354582"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Ashby (YC W19) Is Hiring EMs"
+      },
+      "Description": "Ashby (YC W19) Is Hiring EMs",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50334363"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables (2015)"
+      },
+      "Description": "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables (2015)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50357457"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Pratt parsing is a black box"
+      },
+      "Description": "Pratt parsing is a black box",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50352758"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Mac at any scale"
+      },
+      "Description": "Mac at any scale",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 37 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
