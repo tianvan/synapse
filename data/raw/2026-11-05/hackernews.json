@@ -226,51 +226,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50378228"
-    },
-    "Type": 1,
-    "Title": "Sshole",
-    "Url": "https://sshhole.com",
-    "Description": "Sshole",
-    "Metadata": {
-      "score": "395",
-      "author": "josemrb",
-      "commentCount": "85"
-    },
-    "FetchedAt": "2026-11-05T13:47:28.8761975+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50377078"
-    },
-    "Type": 1,
-    "Title": "Baidu released ERNIE 5.5 Flash Base",
-    "Url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
-    "Description": "Baidu released ERNIE 5.5 Flash Base",
-    "Metadata": {
-      "score": "101",
-      "author": "pretext",
-      "commentCount": "53"
-    },
-    "FetchedAt": "2026-11-05T13:47:28.9120221+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50377976"
-    },
-    "Type": 1,
-    "Title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
-    "Url": "https://www.openssh.org/releasenotes.html#10.6p2",
-    "Description": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
-    "Metadata": {
-      "score": "39",
-      "author": "selckin",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-11-05T13:47:28.9471311+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50371246"
     },
     "Type": 1,
@@ -433,21 +388,6 @@
       "commentCount": "177"
     },
     "FetchedAt": "2026-11-05T13:47:29.3330253+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50376313"
-    },
-    "Type": 1,
-    "Title": "GPT-6 Astra covertly underperforms on safety research",
-    "Url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
-    "Description": "GPT-6 Astra covertly underperforms on safety research",
-    "Metadata": {
-      "score": "31",
-      "author": "lucrbvi",
-      "commentCount": "9"
-    },
-    "FetchedAt": "2026-11-05T13:47:29.3684654+00:00"
   },
   {
     "ExternalId": {
@@ -673,5 +613,455 @@
       "commentCount": "249"
     },
     "FetchedAt": "2026-11-05T13:47:30.0554588+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50383740"
+    },
+    "Type": 1,
+    "Title": "Kagi Search for Everyone",
+    "Url": "https://kagi.com/changelog",
+    "Description": "Kagi Search for Everyone",
+    "Metadata": {
+      "score": "334",
+      "author": "elashri",
+      "commentCount": "170"
+    },
+    "FetchedAt": "2026-11-05T23:05:47.2622839+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50384233"
+    },
+    "Type": 1,
+    "Title": "MS Paint Remote Code Execution Vulnerability",
+    "Url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+    "Description": "MS Paint Remote Code Execution Vulnerability",
+    "Metadata": {
+      "score": "192",
+      "author": "kuberwastaken",
+      "commentCount": "49"
+    },
+    "FetchedAt": "2026-11-05T23:05:47.2910969+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50378228"
+    },
+    "Type": 1,
+    "Title": "sshole",
+    "Url": "https://sshhole.com",
+    "Description": "sshole",
+    "Metadata": {
+      "score": "2183",
+      "author": "josemrb",
+      "commentCount": "553"
+    },
+    "FetchedAt": "2026-11-05T23:05:47.3205027+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50385272"
+    },
+    "Type": 1,
+    "Title": "Claude Code sends your email address to websites",
+    "Url": "https://github.com/anthropics/claude-code/issues/107757",
+    "Description": "Claude Code sends your email address to websites",
+    "Metadata": {
+      "score": "112",
+      "author": "motoroco",
+      "commentCount": "27"
+    },
+    "FetchedAt": "2026-11-05T23:05:47.3498543+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50379704"
+    },
+    "Type": 1,
+    "Title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+    "Url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+    "Description": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+    "Metadata": {
+      "score": "535",
+      "author": "pantalaimon",
+      "commentCount": "105"
+    },
+    "FetchedAt": "2026-11-05T23:05:47.3797372+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50383057"
+    },
+    "Type": 1,
+    "Title": "The Hackintosh Reborn",
+    "Url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+    "Description": "The Hackintosh Reborn",
+    "Metadata": {
+      "score": "149",
+      "author": "rubatuga",
+      "commentCount": "57"
+    },
+    "FetchedAt": "2026-11-05T23:05:47.4085765+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50383963"
+    },
+    "Type": 1,
+    "Title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+    "Url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+    "Description": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+    "Metadata": {
+      "score": "56",
+      "author": "gmays",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-11-05T23:05:47.4385856+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50381383"
+    },
+    "Type": 1,
+    "Title": "Window Sweaters",
+    "Url": "https://github.com/saragordic/window-sweaters",
+    "Description": "Window Sweaters",
+    "Metadata": {
+      "score": "206",
+      "author": "nickswalker",
+      "commentCount": "72"
+    },
+    "FetchedAt": "2026-11-05T23:05:47.4683915+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50383739"
+    },
+    "Type": 1,
+    "Title": "Goodbye from Salon",
+    "Url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+    "Description": "Goodbye from Salon",
+    "Metadata": {
+      "score": "301",
+      "author": "mkeeter",
+      "commentCount": "105"
+    },
+    "FetchedAt": "2026-11-05T23:05:47.4984002+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50383877"
+    },
+    "Type": 1,
+    "Title": "The Cost of Blogging",
+    "Url": "https://onlinegoddess.net/2026/11/the-cost-of-blogging/",
+    "Description": "The Cost of Blogging",
+    "Metadata": {
+      "score": "31",
+      "author": "speckx",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-11-05T23:05:47.5450516+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50380810"
+    },
+    "Type": 1,
+    "Title": "Motorola Signature 27 with GrapheneOS support",
+    "Url": "https://motorolanews.com/motorola-signature-27-2/",
+    "Description": "Motorola Signature 27 with GrapheneOS support",
+    "Metadata": {
+      "score": "361",
+      "author": "monneyboi",
+      "commentCount": "268"
+    },
+    "FetchedAt": "2026-11-05T23:05:47.5749118+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50381687"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Rivet (YC W23) \u2013 Scale and Orchestrate Agents on S3",
+    "Url": "https://github.com/rivet-dev/rivet",
+    "Description": "Hey HN, this is Nathan and Nicholas from Rivet (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;rivet.dev\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;rivet.dev\u003C/a\u003E) \u2013 a fast, high-density, and scalable orchestrator for agentic workloads using the actor model. Rather than running a heavyweight sandbox per agent, each agent gets a lightweight actor backed by S3.\u003Cp\u003EActors provide a long-lived process for long agent turns, in-memory state for context, a WebSocket server for multiplayer, durable SQLite storage backed by S3, and hibernation when ",
+    "Metadata": {
+      "score": "67",
+      "author": "NathanFlurry",
+      "commentCount": "34"
+    },
+    "FetchedAt": "2026-11-05T23:05:47.6039535+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50379576"
+    },
+    "Type": 1,
+    "Title": "September in Servo: \u003Cprogress\u003E, rounded rectangles, and more",
+    "Url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+    "Description": "September in Servo: \u003Cprogress\u003E, rounded rectangles, and more",
+    "Metadata": {
+      "score": "166",
+      "author": "iamnothere",
+      "commentCount": "41"
+    },
+    "FetchedAt": "2026-11-05T23:05:47.6334979+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50378571"
+    },
+    "Type": 1,
+    "Title": "Download your favourite YouTube videos",
+    "Url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+    "Description": "Download your favourite YouTube videos",
+    "Metadata": {
+      "score": "245",
+      "author": "surprisetalk",
+      "commentCount": "110"
+    },
+    "FetchedAt": "2026-11-05T23:05:47.6619641+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50381033"
+    },
+    "Type": 1,
+    "Title": "My psychophysics as a bilateral cochlear implant user",
+    "Url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+    "Description": "My psychophysics as a bilateral cochlear implant user",
+    "Metadata": {
+      "score": "149",
+      "author": "mi-rae",
+      "commentCount": "46"
+    },
+    "FetchedAt": "2026-11-05T23:05:47.6902546+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50383294"
+    },
+    "Type": 1,
+    "Title": "Introducing Pangram Image 1.0",
+    "Url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+    "Description": "Introducing Pangram Image 1.0",
+    "Metadata": {
+      "score": "30",
+      "author": "gmays",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-11-05T23:05:47.7201818+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50378942"
+    },
+    "Type": 1,
+    "Title": "I wish tech companies knew more about me",
+    "Url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+    "Description": "I wish tech companies knew more about me",
+    "Metadata": {
+      "score": "260",
+      "author": "freetonik",
+      "commentCount": "235"
+    },
+    "FetchedAt": "2026-11-05T23:05:47.7499568+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50381512"
+    },
+    "Type": 1,
+    "Title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+    "Url": "https://www.ycombinator.com/companies/bild-ai/jobs",
+    "Description": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+    "Metadata": {
+      "score": "1",
+      "author": "rooppal",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-11-05T23:05:47.7799244+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50384822"
+    },
+    "Type": 1,
+    "Title": "$2.5T has been wiped from US stocks",
+    "Url": "https://finlaws.substack.com/p/25t-has-been-wiped-from-us-stocks",
+    "Description": "$2.5T has been wiped from US stocks",
+    "Metadata": {
+      "score": "84",
+      "author": "madihaa",
+      "commentCount": "62"
+    },
+    "FetchedAt": "2026-11-05T23:05:47.8110344+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50377976"
+    },
+    "Type": 1,
+    "Title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+    "Url": "https://www.openssh.org/releasenotes.html#10.6p2",
+    "Description": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+    "Metadata": {
+      "score": "229",
+      "author": "selckin",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-11-05T23:05:47.8395671+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50368208"
+    },
+    "Type": 1,
+    "Title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+    "Url": "https://www.linum.ai/field-notes/pjit-21k",
+    "Description": "My brother and I run a 2-person lab that trains our own generative video models from scratch. The ultimate goal is a set of creative tools that make it easier for anyone to make animation.\u003Cp\u003EVideo models today are too slow\u0026#x2F;expensive and lack sufficient controls. Creativity is an iterative process. You make, you tweak, you get better. In our opinion, they\u0026#x27;re not usable yet for storytelling.\u003Cp\u003EWhen we set out to build Linum v3 (our next video model) earlier this year, the primary goal wa",
+    "Metadata": {
+      "score": "118",
+      "author": "schopra909",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-11-05T23:05:47.8690543+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50378508"
+    },
+    "Type": 1,
+    "Title": "Obscure audio codec is a perfect fit for the N64",
+    "Url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+    "Description": "Obscure audio codec is a perfect fit for the N64",
+    "Metadata": {
+      "score": "169",
+      "author": "frostbyte7",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-11-05T23:05:47.8982737+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50380979"
+    },
+    "Type": 1,
+    "Title": "The Stacks Project, Formalized in Lean",
+    "Url": "https://axiommath.ai/research/the-stacks-project-formalized/",
+    "Description": "The Stacks Project, Formalized in Lean",
+    "Metadata": {
+      "score": "59",
+      "author": "namanbnsl",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-11-05T23:05:47.9246904+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50379249"
+    },
+    "Type": 1,
+    "Title": "MCP Explained",
+    "Url": "https://mcp-explained.com/",
+    "Description": "MCP Explained",
+    "Metadata": {
+      "score": "216",
+      "author": "rwilinski",
+      "commentCount": "108"
+    },
+    "FetchedAt": "2026-11-05T23:05:47.9516623+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50376313"
+    },
+    "Type": 1,
+    "Title": "GPT-6 Astra covertly underperforms on safety research",
+    "Url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+    "Description": "GPT-6 Astra covertly underperforms on safety research",
+    "Metadata": {
+      "score": "270",
+      "author": "lucrbvi",
+      "commentCount": "142"
+    },
+    "FetchedAt": "2026-11-05T23:05:47.9786908+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50383163"
+    },
+    "Type": 1,
+    "Title": "Hungary: Communist-era files released, up to 60k former agents revealed",
+    "Url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
+    "Description": "Hungary: Communist-era files released, up to 60k former agents revealed",
+    "Metadata": {
+      "score": "107",
+      "author": "rdmuser",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-11-05T23:05:48.0108188+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50349667"
+    },
+    "Type": 1,
+    "Title": "The Lisp curse, now coming to your ecosystem",
+    "Url": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
+    "Description": "The Lisp curse, now coming to your ecosystem",
+    "Metadata": {
+      "score": "187",
+      "author": "marcolinux",
+      "commentCount": "141"
+    },
+    "FetchedAt": "2026-11-05T23:05:48.0396347+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50380704"
+    },
+    "Type": 1,
+    "Title": "Show HN: Stroq \u2013 a local audit of what your coding agent did and why",
+    "Url": "https://github.com/AGGIB/Stroq",
+    "Description": "Show HN: Stroq \u2013 a local audit of what your coding agent did and why",
+    "Metadata": {
+      "score": "56",
+      "author": "agybay_07",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-11-05T23:05:48.0674417+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50380268"
+    },
+    "Type": 1,
+    "Title": "We can do better than line-buffered output",
+    "Url": "https://nullprogram.com/blog/2026/11/05/",
+    "Description": "We can do better than line-buffered output",
+    "Metadata": {
+      "score": "84",
+      "author": "zdw",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-11-05T23:05:48.0942603+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50377078"
+    },
+    "Type": 1,
+    "Title": "Baidu released ERNIE 5.5 Flash Base",
+    "Url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+    "Description": "Baidu released ERNIE 5.5 Flash Base",
+    "Metadata": {
+      "score": "162",
+      "author": "pretext",
+      "commentCount": "90"
+    },
+    "FetchedAt": "2026-11-05T23:05:48.1213444+00:00"
   }
 ]
