@@ -1,51 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:50371246"
-    },
-    "Type": 1,
-    "Title": "Residential proxies detected on White House network",
-    "Url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-    "Description": "Residential proxies detected on White House network",
-    "Metadata": {
-      "score": "801",
-      "author": "Rasbora",
-      "commentCount": "253"
-    },
-    "FetchedAt": "2026-11-05T04:30:36.337116+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50372945"
-    },
-    "Type": 1,
-    "Title": "Images 2.6",
-    "Url": "https://openai.com/index/introducing-images-2-6/",
-    "Description": "Images 2.6",
-    "Metadata": {
-      "score": "177",
-      "author": "davidbarker",
-      "commentCount": "120"
-    },
-    "FetchedAt": "2026-11-05T04:30:36.3821124+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50372929"
-    },
-    "Type": 1,
-    "Title": "A thousand fewer paths to root",
-    "Url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
-    "Description": "A thousand fewer paths to root",
-    "Metadata": {
-      "score": "205",
-      "author": "dangelosaurus",
-      "commentCount": "118"
-    },
-    "FetchedAt": "2026-11-05T04:30:36.4273419+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50373308"
     },
     "Type": 1,
@@ -58,96 +13,6 @@
       "commentCount": "88"
     },
     "FetchedAt": "2026-11-05T04:30:36.4727952+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50369925"
-    },
-    "Type": 1,
-    "Title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-    "Url": "https://www.ricursive.com/ripple",
-    "Description": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-    "Metadata": {
-      "score": "251",
-      "author": "Philpax",
-      "commentCount": "90"
-    },
-    "FetchedAt": "2026-11-05T04:30:36.5170068+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50366999"
-    },
-    "Type": 1,
-    "Title": "Kimi K3.1 Pro model weights are out",
-    "Url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-    "Description": "Kimi K3.1 Pro model weights are out",
-    "Metadata": {
-      "score": "423",
-      "author": "abrarthought",
-      "commentCount": "125"
-    },
-    "FetchedAt": "2026-11-05T04:30:36.5616042+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50370610"
-    },
-    "Type": 1,
-    "Title": "Insects don\u0027t swarm at LED lights",
-    "Url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
-    "Description": "Insects don\u0027t swarm at LED lights",
-    "Metadata": {
-      "score": "192",
-      "author": "speckx",
-      "commentCount": "104"
-    },
-    "FetchedAt": "2026-11-05T04:30:36.6060566+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50369106"
-    },
-    "Type": 1,
-    "Title": "A new Go API for JSON",
-    "Url": "https://go.dev/blog/jsonv2",
-    "Description": "A new Go API for JSON",
-    "Metadata": {
-      "score": "252",
-      "author": "olexsmir",
-      "commentCount": "117"
-    },
-    "FetchedAt": "2026-11-05T04:30:36.6516401+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50372164"
-    },
-    "Type": 1,
-    "Title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
-    "Url": "https://icode4.coffee/?p=1746",
-    "Description": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
-    "Metadata": {
-      "score": "82",
-      "author": "muricula",
-      "commentCount": "4"
-    },
-    "FetchedAt": "2026-11-05T04:30:36.6968042+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50369503"
-    },
-    "Type": 1,
-    "Title": "Conductor is joining Meta",
-    "Url": "https://www.conductor.build/announcement",
-    "Description": "Conductor is joining Meta",
-    "Metadata": {
-      "score": "142",
-      "author": "kenrose",
-      "commentCount": "163"
-    },
-    "FetchedAt": "2026-11-05T04:30:36.7423261+00:00"
   },
   {
     "ExternalId": {
@@ -181,51 +46,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50368626"
-    },
-    "Type": 1,
-    "Title": "Progress on provable inference for large language models",
-    "Url": "https://www.anthropic.com/research/provable-inference",
-    "Description": "Progress on provable inference for large language models",
-    "Metadata": {
-      "score": "191",
-      "author": "ltononro",
-      "commentCount": "87"
-    },
-    "FetchedAt": "2026-11-05T04:30:36.8755539+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50364336"
-    },
-    "Type": 1,
-    "Title": "AI is forcing us to pay off 40 years of technical debt",
-    "Url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-    "Description": "AI is forcing us to pay off 40 years of technical debt",
-    "Metadata": {
-      "score": "1119",
-      "author": "pseudolus",
-      "commentCount": "655"
-    },
-    "FetchedAt": "2026-11-05T04:30:36.9206498+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50369895"
-    },
-    "Type": 1,
-    "Title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
-    "Url": "https://fireflyk64.github.io/wcmulti/",
-    "Description": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
-    "Metadata": {
-      "score": "128",
-      "author": "daniel_rh",
-      "commentCount": "15"
-    },
-    "FetchedAt": "2026-11-05T04:30:36.9649772+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50342031"
     },
     "Type": 1,
@@ -241,36 +61,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50366522"
-    },
-    "Type": 1,
-    "Title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
-    "Url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
-    "Description": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
-    "Metadata": {
-      "score": "275",
-      "author": "zenincognito",
-      "commentCount": "200"
-    },
-    "FetchedAt": "2026-11-05T04:30:37.0561813+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50366117"
-    },
-    "Type": 1,
-    "Title": "Ask HN: What\u0027s your current AI agentic setup?",
-    "Url": "https://news.ycombinator.com/item?id=50366117",
-    "Description": "I\u0026#x27;m curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to answer every question of course, just wanted to get a gut feel how people are using AI.\u003Cp\u003E1) What AI subscriptions are you personally paying for? (Claude, ChatGPT\u0026#x2F;Codex, Cursor, etc)\u003Cp\u003E- Which tiers?\u003Cp\u003E- Have you purchased multiple subscriptions from the same provider (eg two Claude accounts)?\u003Cp\u003E2) Are you using models outside (or instead) of tho",
-    "Metadata": {
-      "score": "184",
-      "author": "eggbrain",
-      "commentCount": "200"
-    },
-    "FetchedAt": "2026-11-05T04:30:37.1003129+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50366863"
     },
     "Type": 1,
@@ -283,21 +73,6 @@
       "commentCount": "63"
     },
     "FetchedAt": "2026-11-05T04:30:37.1455061+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50341576"
-    },
-    "Type": 1,
-    "Title": "Spreading Liquid with Three.js",
-    "Url": "https://mofu-dev.com/en/blog/fluid-foundation/",
-    "Description": "Spreading Liquid with Three.js",
-    "Metadata": {
-      "score": "3",
-      "author": "mooreds",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-11-05T04:30:37.1905661+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +223,455 @@
       "commentCount": "129"
     },
     "FetchedAt": "2026-11-05T04:30:37.665426+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50378228"
+    },
+    "Type": 1,
+    "Title": "Sshole",
+    "Url": "https://sshhole.com",
+    "Description": "Sshole",
+    "Metadata": {
+      "score": "395",
+      "author": "josemrb",
+      "commentCount": "85"
+    },
+    "FetchedAt": "2026-11-05T13:47:28.8761975+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50377078"
+    },
+    "Type": 1,
+    "Title": "Baidu released ERNIE 5.5 Flash Base",
+    "Url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+    "Description": "Baidu released ERNIE 5.5 Flash Base",
+    "Metadata": {
+      "score": "101",
+      "author": "pretext",
+      "commentCount": "53"
+    },
+    "FetchedAt": "2026-11-05T13:47:28.9120221+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50377976"
+    },
+    "Type": 1,
+    "Title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+    "Url": "https://www.openssh.org/releasenotes.html#10.6p2",
+    "Description": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+    "Metadata": {
+      "score": "39",
+      "author": "selckin",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-11-05T13:47:28.9471311+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50371246"
+    },
+    "Type": 1,
+    "Title": "Residential proxies detected on White House network",
+    "Url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;krebsonsecurity.com\u0026#x2F;2026\u0026#x2F;11\u0026#x2F;want-to-rent-an-internet-address-at-the-white-house\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;krebsonsecurity.com\u0026#x2F;2026\u0026#x2F;11\u0026#x2F;want-to-rent-an-internet...\u003C/a\u003E",
+    "Metadata": {
+      "score": "1162",
+      "author": "Rasbora",
+      "commentCount": "377"
+    },
+    "FetchedAt": "2026-11-05T13:47:28.9827176+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50377821"
+    },
+    "Type": 1,
+    "Title": "Awesome repositories are no longer awesome",
+    "Url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
+    "Description": "Awesome repositories are no longer awesome",
+    "Metadata": {
+      "score": "95",
+      "author": "erikgahner",
+      "commentCount": "49"
+    },
+    "FetchedAt": "2026-11-05T13:47:29.0180007+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50375354"
+    },
+    "Type": 1,
+    "Title": "Lemmings CSS Animation",
+    "Url": "https://markblah.github.io/lemmings/",
+    "Description": "Lemmings CSS Animation",
+    "Metadata": {
+      "score": "267",
+      "author": "MarkBlah",
+      "commentCount": "53"
+    },
+    "FetchedAt": "2026-11-05T13:47:29.0530704+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50372929"
+    },
+    "Type": 1,
+    "Title": "A thousand fewer paths to root",
+    "Url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+    "Description": "A thousand fewer paths to root",
+    "Metadata": {
+      "score": "417",
+      "author": "dangelosaurus",
+      "commentCount": "295"
+    },
+    "FetchedAt": "2026-11-05T13:47:29.0888513+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50372945"
+    },
+    "Type": 1,
+    "Title": "Images 2.6",
+    "Url": "https://openai.com/index/introducing-images-2-6/",
+    "Description": "Images 2.6",
+    "Metadata": {
+      "score": "339",
+      "author": "davidbarker",
+      "commentCount": "201"
+    },
+    "FetchedAt": "2026-11-05T13:47:29.1229343+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50366999"
+    },
+    "Type": 1,
+    "Title": "Kimi K3.1 Pro model weights are out",
+    "Url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+    "Description": "Kimi K3.1 Pro model weights are out",
+    "Metadata": {
+      "score": "574",
+      "author": "abrarthought",
+      "commentCount": "164"
+    },
+    "FetchedAt": "2026-11-05T13:47:29.1571655+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50340195"
+    },
+    "Type": 1,
+    "Title": "Partial Operator Precedence",
+    "Url": "https://ziglang.org/devlog/2026/#2026-10-24",
+    "Description": "Partial Operator Precedence",
+    "Metadata": {
+      "score": "71",
+      "author": "tosh",
+      "commentCount": "39"
+    },
+    "FetchedAt": "2026-11-05T13:47:29.1931233+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50341576"
+    },
+    "Type": 1,
+    "Title": "Spreading Liquid with Three.js",
+    "Url": "https://mofu-dev.com/en/blog/fluid-foundation/",
+    "Description": "Spreading Liquid with Three.js",
+    "Metadata": {
+      "score": "161",
+      "author": "mooreds",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-11-05T13:47:29.2275103+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50369925"
+    },
+    "Type": 1,
+    "Title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+    "Url": "https://www.ricursive.com/ripple",
+    "Description": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+    "Metadata": {
+      "score": "312",
+      "author": "Philpax",
+      "commentCount": "111"
+    },
+    "FetchedAt": "2026-11-05T13:47:29.2625888+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50377221"
+    },
+    "Type": 1,
+    "Title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
+    "Url": "https://hachyderm.io/@damienmiller/117563026759098135",
+    "Description": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
+    "Metadata": {
+      "score": "115",
+      "author": "Animux",
+      "commentCount": "40"
+    },
+    "FetchedAt": "2026-11-05T13:47:29.2977895+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50369106"
+    },
+    "Type": 1,
+    "Title": "A new Go API for JSON",
+    "Url": "https://go.dev/blog/jsonv2",
+    "Description": "A new Go API for JSON",
+    "Metadata": {
+      "score": "350",
+      "author": "olexsmir",
+      "commentCount": "177"
+    },
+    "FetchedAt": "2026-11-05T13:47:29.3330253+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50376313"
+    },
+    "Type": 1,
+    "Title": "GPT-6 Astra covertly underperforms on safety research",
+    "Url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+    "Description": "GPT-6 Astra covertly underperforms on safety research",
+    "Metadata": {
+      "score": "31",
+      "author": "lucrbvi",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-11-05T13:47:29.3684654+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50375691"
+    },
+    "Type": 1,
+    "Title": "Being a kid making games in the early 2000s",
+    "Url": "https://jaytholen.net/teengamedev/",
+    "Description": "Being a kid making games in the early 2000s",
+    "Metadata": {
+      "score": "62",
+      "author": "farmerbb",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-11-05T13:47:29.4025263+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50370610"
+    },
+    "Type": 1,
+    "Title": "Insects don\u0027t swarm at LED lights",
+    "Url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+    "Description": "Insects don\u0027t swarm at LED lights",
+    "Metadata": {
+      "score": "292",
+      "author": "speckx",
+      "commentCount": "139"
+    },
+    "FetchedAt": "2026-11-05T13:47:29.4383114+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50375653"
+    },
+    "Type": 1,
+    "Title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+    "Url": "https://www.altera.com/newsroom/agilex-2x",
+    "Description": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+    "Metadata": {
+      "score": "44",
+      "author": "gmays",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-11-05T13:47:29.4725734+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50366117"
+    },
+    "Type": 1,
+    "Title": "Ask HN: What\u0027s your current AI agentic setup?",
+    "Url": "https://news.ycombinator.com/item?id=50366117",
+    "Description": "I\u0026#x27;m curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to answer every question of course, just wanted to get a gut feel how people are using AI.\u003Cp\u003E1) What AI subscriptions are you personally paying for? (Claude, ChatGPT\u0026#x2F;Codex, Cursor, etc)\u003Cp\u003E- Which tiers?\u003Cp\u003E- Have you purchased multiple subscriptions from the same provider (eg two Claude accounts)?\u003Cp\u003E2) Are you using models outside (or instead) of tho",
+    "Metadata": {
+      "score": "407",
+      "author": "eggbrain",
+      "commentCount": "464"
+    },
+    "FetchedAt": "2026-11-05T13:47:29.5099112+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50352846"
+    },
+    "Type": 1,
+    "Title": "TextEdit vs. Pages",
+    "Url": "https://leancrew.com/all-this/2026/10/textedit-vs-pages/",
+    "Description": "TextEdit vs. Pages",
+    "Metadata": {
+      "score": "38",
+      "author": "surprisetalk",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-11-05T13:47:29.5450429+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50369503"
+    },
+    "Type": 1,
+    "Title": "Conductor is joining Meta",
+    "Url": "https://www.conductor.build/announcement",
+    "Description": "Conductor is joining Meta",
+    "Metadata": {
+      "score": "193",
+      "author": "kenrose",
+      "commentCount": "204"
+    },
+    "FetchedAt": "2026-11-05T13:47:29.6051811+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50364336"
+    },
+    "Type": 1,
+    "Title": "AI is forcing us to pay off 40 years of technical debt",
+    "Url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+    "Description": "AI is forcing us to pay off 40 years of technical debt",
+    "Metadata": {
+      "score": "1221",
+      "author": "pseudolus",
+      "commentCount": "712"
+    },
+    "FetchedAt": "2026-11-05T13:47:29.6404819+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50343293"
+    },
+    "Type": 1,
+    "Title": "Moment of Ruby: An Argument for Nothing",
+    "Url": "https://www.aha.io/engineering/articles/moment-of-ruby-an-argument-for-nothing",
+    "Description": "Moment of Ruby: An Argument for Nothing",
+    "Metadata": {
+      "score": "49",
+      "author": "zemptime",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-11-05T13:47:29.6744005+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50345195"
+    },
+    "Type": 1,
+    "Title": "A Clock Made of Branches",
+    "Url": "https://fzakaria.com/2026/11/01/a-clock-made-of-branches",
+    "Description": "A Clock Made of Branches",
+    "Metadata": {
+      "score": "3",
+      "author": "setheron",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-11-05T13:47:29.7111715+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50366465"
+    },
+    "Type": 1,
+    "Title": "TScert: A Sound Core for TypeScript",
+    "Url": "https://github.com/cristianoc/TScert",
+    "Description": "TScert: A Sound Core for TypeScript",
+    "Metadata": {
+      "score": "12",
+      "author": "bpierre",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-11-05T13:47:29.7896093+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50369895"
+    },
+    "Type": 1,
+    "Title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+    "Url": "https://fireflyk64.github.io/wcmulti/",
+    "Description": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+    "Metadata": {
+      "score": "221",
+      "author": "daniel_rh",
+      "commentCount": "31"
+    },
+    "FetchedAt": "2026-11-05T13:47:29.8666892+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50349165"
+    },
+    "Type": 1,
+    "Title": "Future Maintenance of Mbed TLS",
+    "Url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
+    "Description": "Future Maintenance of Mbed TLS",
+    "Metadata": {
+      "score": "58",
+      "author": "jonesjohnson",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-11-05T13:47:29.9104237+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50372164"
+    },
+    "Type": 1,
+    "Title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+    "Url": "https://icode4.coffee/?p=1746",
+    "Description": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+    "Metadata": {
+      "score": "127",
+      "author": "muricula",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-11-05T13:47:29.9538833+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50368626"
+    },
+    "Type": 1,
+    "Title": "Progress on provable inference for large language models",
+    "Url": "https://www.anthropic.com/research/provable-inference",
+    "Description": "Progress on provable inference for large language models",
+    "Metadata": {
+      "score": "232",
+      "author": "ltononro",
+      "commentCount": "118"
+    },
+    "FetchedAt": "2026-11-05T13:47:30.0179075+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50366522"
+    },
+    "Type": 1,
+    "Title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+    "Url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+    "Description": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+    "Metadata": {
+      "score": "322",
+      "author": "zenincognito",
+      "commentCount": "249"
+    },
+    "FetchedAt": "2026-11-05T13:47:30.0554588+00:00"
   }
 ]

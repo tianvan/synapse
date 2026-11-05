@@ -1,56 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:NVIDIA/auto-ontology"
-    },
-    "Type": 0,
-    "Title": "NVIDIA/auto-ontology",
-    "Url": "https://github.com/NVIDIA/auto-ontology",
-    "Description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-    "Metadata": {
-      "owner": "NVIDIA",
-      "repo": "auto-ontology",
-      "language": "Python",
-      "stars": "2,050"
-    },
-    "FetchedAt": "2026-11-05T04:30:33.9468269+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:max-sixty/worktrunk"
-    },
-    "Type": 0,
-    "Title": "max-sixty/worktrunk",
-    "Url": "https://github.com/max-sixty/worktrunk",
-    "Description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-    "Metadata": {
-      "owner": "max-sixty",
-      "repo": "worktrunk",
-      "language": "Rust",
-      "stars": "531",
-      "topics": "agents, claude-code, codex, developer-tools, git, worktrees"
-    },
-    "FetchedAt": "2026-11-05T04:30:34.2460512+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:vercel-labs/agent-desktop"
-    },
-    "Type": 0,
-    "Title": "vercel-labs/agent-desktop",
-    "Url": "https://github.com/vercel-labs/agent-desktop",
-    "Description": "Computer use CLI for AI agents",
-    "Metadata": {
-      "owner": "vercel-labs",
-      "repo": "agent-desktop",
-      "language": "Rust",
-      "stars": "2,470",
-      "topics": "accessibility, accessibility-api, ai-agents, automation, cli, computer-use, computer-use-agent, computer-use-agents, desktop-automation, macos, mcp, rust"
-    },
-    "FetchedAt": "2026-11-05T04:30:34.4200696+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:github/spec-kit"
     },
     "Type": 0,
@@ -102,22 +52,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:garrytan/gstack"
-    },
-    "Type": 0,
-    "Title": "garrytan/gstack",
-    "Url": "https://github.com/garrytan/gstack",
-    "Description": "Use Garry Tan\u0027s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-    "Metadata": {
-      "owner": "garrytan",
-      "repo": "gstack",
-      "language": "TypeScript",
-      "stars": "290"
-    },
-    "FetchedAt": "2026-11-05T04:30:35.1796552+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:FareedKhan-dev/kimi-k3-in-c"
     },
     "Type": 0,
@@ -132,22 +66,6 @@
       "topics": "avx2, c99, cpu-inference, deep-learning, from-scratch, inference-engine, kimi-k3, linear-attention, llm, llm-inference, machine-learning, memory-efficient, mixture-of-experts, moe, mxfp4, quantization, simd, systems-programming, transformer, zero-dependencies"
     },
     "FetchedAt": "2026-11-05T04:30:35.3676856+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:JiaFeiMiao-K-Cat/DiscImageStudio"
-    },
-    "Type": 0,
-    "Title": "JiaFeiMiao-K-Cat/DiscImageStudio",
-    "Url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-    "Description": "",
-    "Metadata": {
-      "owner": "JiaFeiMiao-K-Cat",
-      "repo": "DiscImageStudio",
-      "language": "C#",
-      "stars": "1,778"
-    },
-    "FetchedAt": "2026-11-05T04:30:35.543904+00:00"
   },
   {
     "ExternalId": {
@@ -168,6 +86,139 @@
   },
   {
     "ExternalId": {
+      "Value": "github:NVIDIA/auto-ontology"
+    },
+    "Type": 0,
+    "Title": "NVIDIA/auto-ontology",
+    "Url": "https://github.com/NVIDIA/auto-ontology",
+    "Description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+    "Metadata": {
+      "owner": "NVIDIA",
+      "repo": "auto-ontology",
+      "language": "Python",
+      "stars": "2,707"
+    },
+    "FetchedAt": "2026-11-05T13:47:26.0287256+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:garrytan/gstack"
+    },
+    "Type": 0,
+    "Title": "garrytan/gstack",
+    "Url": "https://github.com/garrytan/gstack",
+    "Description": "Use Garry Tan\u0027s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "Metadata": {
+      "owner": "garrytan",
+      "repo": "gstack",
+      "language": "TypeScript",
+      "stars": "608"
+    },
+    "FetchedAt": "2026-11-05T13:47:26.3623025+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Usagi-org/ai-goofish-monitor"
+    },
+    "Type": 0,
+    "Title": "Usagi-org/ai-goofish-monitor",
+    "Url": "https://github.com/Usagi-org/ai-goofish-monitor",
+    "Description": "\u57FA\u4E8E Playwright \u548CAI\u5B9E\u73B0\u7684\u95F2\u9C7C\u591A\u4EFB\u52A1\u5B9E\u65F6/\u5B9A\u65F6\u76D1\u63A7\u4E0E\u667A\u80FD\u5206\u6790\u7CFB\u7EDF\uFF0C\u914D\u5907\u4E86\u529F\u80FD\u5B8C\u5584\u7684\u540E\u53F0\u7BA1\u7406UI\u3002\u5E2E\u52A9\u7528\u6237\u4ECE\u95F2\u9C7C\u6D77\u91CF\u5546\u54C1\u4E2D\uFF0C\u627E\u5230\u5FC3\u4EEA\u4EA7\u54C1\u3002",
+    "Metadata": {
+      "owner": "Usagi-org",
+      "repo": "ai-goofish-monitor",
+      "language": "Python",
+      "stars": "242",
+      "topics": "ai, ai-assistant, ai-tools, automation, gemini, goofish, open-source, openai, playwright, tool, xian-yu, xianyu, xianyu-bot"
+    },
+    "FetchedAt": "2026-11-05T13:47:26.5443977+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:vercel-labs/agent-desktop"
+    },
+    "Type": 0,
+    "Title": "vercel-labs/agent-desktop",
+    "Url": "https://github.com/vercel-labs/agent-desktop",
+    "Description": "Computer use CLI for AI agents",
+    "Metadata": {
+      "owner": "vercel-labs",
+      "repo": "agent-desktop",
+      "language": "Rust",
+      "stars": "2,173",
+      "topics": "accessibility, accessibility-api, ai-agents, automation, cli, computer-use, computer-use-agent, computer-use-agents, desktop-automation, macos, mcp, rust"
+    },
+    "FetchedAt": "2026-11-05T13:47:26.7109729+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:max-sixty/worktrunk"
+    },
+    "Type": 0,
+    "Title": "max-sixty/worktrunk",
+    "Url": "https://github.com/max-sixty/worktrunk",
+    "Description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "Metadata": {
+      "owner": "max-sixty",
+      "repo": "worktrunk",
+      "language": "Rust",
+      "stars": "546",
+      "topics": "agents, claude-code, codex, developer-tools, git, worktrees"
+    },
+    "FetchedAt": "2026-11-05T13:47:26.923412+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:lz4/lz4"
+    },
+    "Type": 0,
+    "Title": "lz4/lz4",
+    "Url": "https://github.com/lz4/lz4",
+    "Description": "Extremely Fast Compression algorithm",
+    "Metadata": {
+      "owner": "lz4",
+      "repo": "lz4",
+      "language": "C",
+      "stars": "16",
+      "topics": "c, compression, lz4"
+    },
+    "FetchedAt": "2026-11-05T13:47:27.111741+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google/skills"
+    },
+    "Type": 0,
+    "Title": "google/skills",
+    "Url": "https://github.com/google/skills",
+    "Description": "Agent Skills for Google products and technologies",
+    "Metadata": {
+      "owner": "google",
+      "repo": "skills",
+      "language": "Python",
+      "stars": "199",
+      "topics": "google, googlecloud, skills"
+    },
+    "FetchedAt": "2026-11-05T13:47:27.3348291+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:vercel-labs/agent-browser"
+    },
+    "Type": 0,
+    "Title": "vercel-labs/agent-browser",
+    "Url": "https://github.com/vercel-labs/agent-browser",
+    "Description": "Browser automation CLI for AI agents",
+    "Metadata": {
+      "owner": "vercel-labs",
+      "repo": "agent-browser",
+      "language": "Rust",
+      "stars": "132"
+    },
+    "FetchedAt": "2026-11-05T13:47:27.5833853+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:scenario-labs/skills"
     },
     "Type": 0,
@@ -178,9 +229,58 @@
       "owner": "scenario-labs",
       "repo": "skills",
       "language": "Python",
-      "stars": "224",
+      "stars": "674",
       "topics": "3d-models, agent-skills, ai-agents, ai-art, blender, claude-code, claude-skills, codex, game-assets, game-development, generative-ai, image-generation, maya, mcp, model-context-protocol, skills-sh, unity, unreal-engine, video-generation, zbrush"
     },
-    "FetchedAt": "2026-11-05T04:30:35.9034197+00:00"
+    "FetchedAt": "2026-11-05T13:47:27.7767541+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ConardLi/garden-skills"
+    },
+    "Type": 0,
+    "Title": "ConardLi/garden-skills",
+    "Url": "https://github.com/ConardLi/garden-skills",
+    "Description": "ConardLi\u0027s open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+    "Metadata": {
+      "owner": "ConardLi",
+      "repo": "garden-skills",
+      "language": "JavaScript",
+      "stars": "181",
+      "topics": "agent, claude, gpt-image-2, rag, skills, web-design"
+    },
+    "FetchedAt": "2026-11-05T13:47:27.9788597+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:microsoft/VibeVoice"
+    },
+    "Type": 0,
+    "Title": "microsoft/VibeVoice",
+    "Url": "https://github.com/microsoft/VibeVoice",
+    "Description": "Open-Source Frontier Voice AI",
+    "Metadata": {
+      "owner": "microsoft",
+      "repo": "VibeVoice",
+      "language": "Python",
+      "stars": "214"
+    },
+    "FetchedAt": "2026-11-05T13:47:28.218071+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:JiaFeiMiao-K-Cat/DiscImageStudio"
+    },
+    "Type": 0,
+    "Title": "JiaFeiMiao-K-Cat/DiscImageStudio",
+    "Url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+    "Description": "",
+    "Metadata": {
+      "owner": "JiaFeiMiao-K-Cat",
+      "repo": "DiscImageStudio",
+      "language": "C#",
+      "stars": "977"
+    },
+    "FetchedAt": "2026-11-05T13:47:28.4319049+00:00"
   }
 ]
