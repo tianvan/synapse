@@ -1,0 +1,623 @@
+{
+  "Id": "2026-11-05",
+  "GeneratedAt": "2026-11-05T05:29:44.8449049+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:NVIDIA/auto-ontology"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables determinis"
+      },
+      "Description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better c",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:max-sixty/worktrunk"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+      },
+      "Description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:vercel-labs/agent-desktop"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Computer use CLI for AI agents"
+      },
+      "Description": "Computer use CLI for AI agents",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:github/spec-kit"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\uD83D\uDCAB Toolkit to help you get started with SDD or any other process!"
+      },
+      "Description": "\uD83D\uDCAB Toolkit to help you get started with SDD or any other process!",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:The-PR-Agent/pr-agent"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\uD83D\uDE80 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier."
+      },
+      "Description": "\uD83D\uDE80 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:harry0703/MoneyPrinterTurbo"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u5229\u7528 AI \u5927\u6A21\u578B\u548C\u81EA\u52A8\u5316\u5DE5\u4F5C\u6D41\uFF0C\u6839\u636E\u4E3B\u9898\u6216\u5173\u952E\u8BCD\u4E00\u952E\u751F\u6210\u9AD8\u6E05\u77ED\u89C6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow."
+      },
+      "Description": "\u5229\u7528 AI \u5927\u6A21\u578B\u548C\u81EA\u52A8\u5316\u5DE5\u4F5C\u6D41\uFF0C\u6839\u636E\u4E3B\u9898\u6216\u5173\u952E\u8BCD\u4E00\u952E\u751F\u6210\u9AD8\u6E05\u77ED\u89C6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:garrytan/gstack"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Use Garry Tan\u0027s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager,"
+      },
+      "Description": "Use Garry Tan\u0027s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:FareedKhan-dev/kimi-k3-in-c"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framewo"
+      },
+      "Description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:JiaFeiMiao-K-Cat/DiscImageStudio"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": ""
+      },
+      "Description": "",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Thysrael/Horizon"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\uD83D\uDCE1 Your own AI-powered news radar. Generates daily briefings in English \u0026 Chinese. | \u7528 AI \u6784\u5EFA\u4F60\u4E13\u5C5E\u7684\u65B0\u95FB\u96F7\u8FBE"
+      },
+      "Description": "\uD83D\uDCE1 Your own AI-powered news radar. Generates daily briefings in English \u0026 Chinese. | \u7528 AI \u6784\u5EFA\u4F60\u4E13\u5C5E\u7684\u65B0\u95FB\u96F7\u8FBE",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:scenario-labs/skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spen"
+      },
+      "Description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and ",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50371246"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Residential proxies detected on White House network"
+      },
+      "Description": "Residential proxies detected on White House network",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50372945"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Images 2.6"
+      },
+      "Description": "Images 2.6",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50372929"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A thousand fewer paths to root"
+      },
+      "Description": "A thousand fewer paths to root",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50373308"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Starfall \u2013 Affordable, routine access to microgravity"
+      },
+      "Description": "Starfall \u2013 Affordable, routine access to microgravity",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50369925"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding"
+      },
+      "Description": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50366999"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Kimi K3.1 Pro model weights are out"
+      },
+      "Description": "Kimi K3.1 Pro model weights are out",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50370610"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Insects don\u0027t swarm at LED lights"
+      },
+      "Description": "Insects don\u0027t swarm at LED lights",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50369106"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A new Go API for JSON"
+      },
+      "Description": "A new Go API for JSON",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50372164"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements"
+      },
+      "Description": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50369503"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Conductor is joining Meta"
+      },
+      "Description": "Conductor is joining Meta",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50370654"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Qualcomm Cloud AI 100 Ultra \u2013 150W AI Accelerator Card with 128GB at 548GB/s"
+      },
+      "Description": "Qualcomm Cloud AI 100 Ultra \u2013 150W AI Accelerator Card with 128GB at 548GB/s",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50368804"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hi HN! I\u0026#x27;m Luke from Kino (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;kino.ai\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;kino.ai\u003C/a\u003E). Kino lets you make g"
+      },
+      "Description": "Hi HN! I\u0026#x27;m Luke from Kino (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;kino.ai\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;kino.ai\u003C/a\u003E). Kino lets you make great videos with your agents a",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50368626"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Progress on provable inference for large language models"
+      },
+      "Description": "Progress on provable inference for large language models",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50364336"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AI is forcing us to pay off 40 years of technical debt"
+      },
+      "Description": "AI is forcing us to pay off 40 years of technical debt",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50369895"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander"
+      },
+      "Description": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50342031"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Frustrated Ranchers Want People to Quit \u0027Rescuing\u0027 Their Working Guardian Dogs"
+      },
+      "Description": "Frustrated Ranchers Want People to Quit \u0027Rescuing\u0027 Their Working Guardian Dogs",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50366522"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)"
+      },
+      "Description": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50366117"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I\u0026#x27;m curious how people on HN are using AI day to day, and came up with a list of questions I thought could be inter"
+      },
+      "Description": "I\u0026#x27;m curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to ans",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50366863"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;twitter.com\u0026#x2F;pierrecomputer\u0026#x2F;status\u0026#x2F;2117999036175188183\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;twitter.com\u0026#x2F;pierrecomputer\u0026#x2F;status\u0026#x2F;2117999036175188183\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;twitter.com\u0026#x2F;pie",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50341576"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Spreading Liquid with Three.js"
+      },
+      "Description": "Spreading Liquid with Three.js",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50338474"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Basically no one is using AI agents for their DoorDash orders"
+      },
+      "Description": "Basically no one is using AI agents for their DoorDash orders",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50366853"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A wave of plastic-free coffee pods and machines"
+      },
+      "Description": "A wave of plastic-free coffee pods and machines",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50365780"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Tencent Hy4"
+      },
+      "Description": "Tencent Hy4",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50339183"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I used my custom built structural extraction engine to analyze 44 DOOM ports across history to see what functions remain"
+      },
+      "Description": "I used my custom built structural extraction engine to analyze 44 DOOM ports across history to see what functions remain, if the keyword structure of ",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50342219"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "PageScribe: Handwriting and offline dictionary audio for KOReader"
+      },
+      "Description": "PageScribe: Handwriting and offline dictionary audio for KOReader",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50367125"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AMD expects to outsell Intel in Q4 for the first time in history"
+      },
+      "Description": "AMD expects to outsell Intel in Q4 for the first time in history",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50356791"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Is Curiosity Good for Us?"
+      },
+      "Description": "Is Curiosity Good for Us?",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50363353"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "11 Nanoseconds per Word: Over-Optimizing Anagrams"
+      },
+      "Description": "11 Nanoseconds per Word: Over-Optimizing Anagrams",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50367653"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u0027It\u0027s just vape, nail, charity shops\u0027: Can anything save UK high street?"
+      },
+      "Description": "\u0027It\u0027s just vape, nail, charity shops\u0027: Can anything save UK high street?",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50363378"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Incident with Pull Requests, Git Operations and Issues"
+      },
+      "Description": "Incident with Pull Requests, Git Operations and Issues",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 41 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
