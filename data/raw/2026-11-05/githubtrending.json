@@ -1,0 +1,186 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:NVIDIA/auto-ontology"
+    },
+    "Type": 0,
+    "Title": "NVIDIA/auto-ontology",
+    "Url": "https://github.com/NVIDIA/auto-ontology",
+    "Description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+    "Metadata": {
+      "owner": "NVIDIA",
+      "repo": "auto-ontology",
+      "language": "Python",
+      "stars": "2,050"
+    },
+    "FetchedAt": "2026-11-05T04:30:33.9468269+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:max-sixty/worktrunk"
+    },
+    "Type": 0,
+    "Title": "max-sixty/worktrunk",
+    "Url": "https://github.com/max-sixty/worktrunk",
+    "Description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "Metadata": {
+      "owner": "max-sixty",
+      "repo": "worktrunk",
+      "language": "Rust",
+      "stars": "531",
+      "topics": "agents, claude-code, codex, developer-tools, git, worktrees"
+    },
+    "FetchedAt": "2026-11-05T04:30:34.2460512+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:vercel-labs/agent-desktop"
+    },
+    "Type": 0,
+    "Title": "vercel-labs/agent-desktop",
+    "Url": "https://github.com/vercel-labs/agent-desktop",
+    "Description": "Computer use CLI for AI agents",
+    "Metadata": {
+      "owner": "vercel-labs",
+      "repo": "agent-desktop",
+      "language": "Rust",
+      "stars": "2,470",
+      "topics": "accessibility, accessibility-api, ai-agents, automation, cli, computer-use, computer-use-agent, computer-use-agents, desktop-automation, macos, mcp, rust"
+    },
+    "FetchedAt": "2026-11-05T04:30:34.4200696+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:github/spec-kit"
+    },
+    "Type": 0,
+    "Title": "github/spec-kit",
+    "Url": "https://github.com/github/spec-kit",
+    "Description": "\uD83D\uDCAB Toolkit to help you get started with SDD or any other process!",
+    "Metadata": {
+      "owner": "github",
+      "repo": "spec-kit",
+      "language": "Python",
+      "stars": "808",
+      "topics": "ai, copilot, development, engineering, prd, spec, spec-driven"
+    },
+    "FetchedAt": "2026-11-05T04:30:34.6018723+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:The-PR-Agent/pr-agent"
+    },
+    "Type": 0,
+    "Title": "The-PR-Agent/pr-agent",
+    "Url": "https://github.com/The-PR-Agent/pr-agent",
+    "Description": "\uD83D\uDE80 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+    "Metadata": {
+      "owner": "The-PR-Agent",
+      "repo": "pr-agent",
+      "language": "Python",
+      "stars": "280",
+      "topics": "ai, anthropic, code-review, coding-assistant, devtools, ollama, openai, pull-request, pull-requests"
+    },
+    "FetchedAt": "2026-11-05T04:30:34.7973912+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:harry0703/MoneyPrinterTurbo"
+    },
+    "Type": 0,
+    "Title": "harry0703/MoneyPrinterTurbo",
+    "Url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "Description": "\u5229\u7528 AI \u5927\u6A21\u578B\u548C\u81EA\u52A8\u5316\u5DE5\u4F5C\u6D41\uFF0C\u6839\u636E\u4E3B\u9898\u6216\u5173\u952E\u8BCD\u4E00\u952E\u751F\u6210\u9AD8\u6E05\u77ED\u89C6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "Metadata": {
+      "owner": "harry0703",
+      "repo": "MoneyPrinterTurbo",
+      "language": "Python",
+      "stars": "617",
+      "topics": "ai-video-generator, content-creation, ffmpeg, instagram-reels, llm, python, short-video, subtitles, text-to-speech, tiktok, video-automation, video-workflow, workflow-automation, youtube-shorts"
+    },
+    "FetchedAt": "2026-11-05T04:30:35.0046016+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:garrytan/gstack"
+    },
+    "Type": 0,
+    "Title": "garrytan/gstack",
+    "Url": "https://github.com/garrytan/gstack",
+    "Description": "Use Garry Tan\u0027s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "Metadata": {
+      "owner": "garrytan",
+      "repo": "gstack",
+      "language": "TypeScript",
+      "stars": "290"
+    },
+    "FetchedAt": "2026-11-05T04:30:35.1796552+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:FareedKhan-dev/kimi-k3-in-c"
+    },
+    "Type": 0,
+    "Title": "FareedKhan-dev/kimi-k3-in-c",
+    "Url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+    "Description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+    "Metadata": {
+      "owner": "FareedKhan-dev",
+      "repo": "kimi-k3-in-c",
+      "language": "C",
+      "stars": "351",
+      "topics": "avx2, c99, cpu-inference, deep-learning, from-scratch, inference-engine, kimi-k3, linear-attention, llm, llm-inference, machine-learning, memory-efficient, mixture-of-experts, moe, mxfp4, quantization, simd, systems-programming, transformer, zero-dependencies"
+    },
+    "FetchedAt": "2026-11-05T04:30:35.3676856+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:JiaFeiMiao-K-Cat/DiscImageStudio"
+    },
+    "Type": 0,
+    "Title": "JiaFeiMiao-K-Cat/DiscImageStudio",
+    "Url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+    "Description": "",
+    "Metadata": {
+      "owner": "JiaFeiMiao-K-Cat",
+      "repo": "DiscImageStudio",
+      "language": "C#",
+      "stars": "1,778"
+    },
+    "FetchedAt": "2026-11-05T04:30:35.543904+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Thysrael/Horizon"
+    },
+    "Type": 0,
+    "Title": "Thysrael/Horizon",
+    "Url": "https://github.com/Thysrael/Horizon",
+    "Description": "\uD83D\uDCE1 Your own AI-powered news radar. Generates daily briefings in English \u0026 Chinese. | \u7528 AI \u6784\u5EFA\u4F60\u4E13\u5C5E\u7684\u65B0\u95FB\u96F7\u8FBE",
+    "Metadata": {
+      "owner": "Thysrael",
+      "repo": "Horizon",
+      "language": "Python",
+      "stars": "121",
+      "topics": "aggregator, feishu-bot, llm, mcp, news, openclaw, python, webhook"
+    },
+    "FetchedAt": "2026-11-05T04:30:35.7386895+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:scenario-labs/skills"
+    },
+    "Type": 0,
+    "Title": "scenario-labs/skills",
+    "Url": "https://github.com/scenario-labs/skills",
+    "Description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+    "Metadata": {
+      "owner": "scenario-labs",
+      "repo": "skills",
+      "language": "Python",
+      "stars": "224",
+      "topics": "3d-models, agent-skills, ai-agents, ai-art, blender, claude-code, claude-skills, codex, game-assets, game-development, generative-ai, image-generation, maya, mcp, model-context-protocol, skills-sh, unity, unreal-engine, video-generation, zbrush"
+    },
+    "FetchedAt": "2026-11-05T04:30:35.9034197+00:00"
+  }
+]
