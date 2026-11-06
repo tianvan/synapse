@@ -1,22 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:NVIDIA/auto-ontology"
-    },
-    "Type": 0,
-    "Title": "NVIDIA/auto-ontology",
-    "Url": "https://github.com/NVIDIA/auto-ontology",
-    "Description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-    "Metadata": {
-      "owner": "NVIDIA",
-      "repo": "auto-ontology",
-      "language": "Python",
-      "stars": "2,679"
-    },
-    "FetchedAt": "2026-11-06T04:29:43.6621999+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:garrytan/gstack"
     },
     "Type": 0,
@@ -81,40 +65,6 @@
       "topics": "agents, claude-code, codex, developer-tools, git, worktrees"
     },
     "FetchedAt": "2026-11-06T04:29:44.5183021+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:lz4/lz4"
-    },
-    "Type": 0,
-    "Title": "lz4/lz4",
-    "Url": "https://github.com/lz4/lz4",
-    "Description": "Extremely Fast Compression algorithm",
-    "Metadata": {
-      "owner": "lz4",
-      "repo": "lz4",
-      "language": "C",
-      "stars": "23",
-      "topics": "c, compression, lz4"
-    },
-    "FetchedAt": "2026-11-06T04:29:44.6899872+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:google/skills"
-    },
-    "Type": 0,
-    "Title": "google/skills",
-    "Url": "https://github.com/google/skills",
-    "Description": "Agent Skills for Google products and technologies",
-    "Metadata": {
-      "owner": "google",
-      "repo": "skills",
-      "language": "Python",
-      "stars": "211",
-      "topics": "google, googlecloud, skills"
-    },
-    "FetchedAt": "2026-11-06T04:29:44.8614218+00:00"
   },
   {
     "ExternalId": {
@@ -197,5 +147,258 @@
       "stars": "984"
     },
     "FetchedAt": "2026-11-06T04:29:45.8268722+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NVIDIA/auto-ontology"
+    },
+    "Type": 0,
+    "Title": "NVIDIA/auto-ontology",
+    "Url": "https://github.com/NVIDIA/auto-ontology",
+    "Description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+    "Metadata": {
+      "owner": "NVIDIA",
+      "repo": "auto-ontology",
+      "language": "Python",
+      "stars": "2,005"
+    },
+    "FetchedAt": "2026-11-06T13:31:04.4145541+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:rails/rails"
+    },
+    "Type": 0,
+    "Title": "rails/rails",
+    "Url": "https://github.com/rails/rails",
+    "Description": "Ruby on Rails",
+    "Metadata": {
+      "owner": "rails",
+      "repo": "rails",
+      "language": "Ruby",
+      "stars": "44",
+      "topics": "activejob, activerecord, framework, html, mvc, rails, ruby"
+    },
+    "FetchedAt": "2026-11-06T13:31:04.7740278+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mpv-player/mpv"
+    },
+    "Type": 0,
+    "Title": "mpv-player/mpv",
+    "Url": "https://github.com/mpv-player/mpv",
+    "Description": "\uD83C\uDFA5 Command line media player",
+    "Metadata": {
+      "owner": "mpv-player",
+      "repo": "mpv",
+      "language": "C",
+      "stars": "36",
+      "topics": "audio, c, ffmpeg, mplayer, mpv, multimedia, video"
+    },
+    "FetchedAt": "2026-11-06T13:31:04.9896646+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:rust-lang/rust"
+    },
+    "Type": 0,
+    "Title": "rust-lang/rust",
+    "Url": "https://github.com/rust-lang/rust",
+    "Description": "Empowering everyone to build reliable and efficient software.",
+    "Metadata": {
+      "owner": "rust-lang",
+      "repo": "rust",
+      "language": "Rust",
+      "stars": "186",
+      "topics": "compiler, language, rust"
+    },
+    "FetchedAt": "2026-11-06T13:31:05.1921454+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:react/react"
+    },
+    "Type": 0,
+    "Title": "react/react",
+    "Url": "https://github.com/react/react",
+    "Description": "The library for web and native user interfaces.",
+    "Metadata": {
+      "owner": "react",
+      "repo": "react",
+      "language": "JavaScript",
+      "stars": "244",
+      "topics": "declarative, frontend, javascript, library, react, ui"
+    },
+    "FetchedAt": "2026-11-06T13:31:05.440885+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:angular/angular"
+    },
+    "Type": 0,
+    "Title": "angular/angular",
+    "Url": "https://github.com/angular/angular",
+    "Description": "Deliver web apps with confidence \uD83D\uDE80",
+    "Metadata": {
+      "owner": "angular",
+      "repo": "angular",
+      "language": "TypeScript",
+      "stars": "128",
+      "topics": "angular, javascript, pwa, typescript, web, web-framework, web-performance"
+    },
+    "FetchedAt": "2026-11-06T13:31:05.6681177+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:symfony/symfony"
+    },
+    "Type": 0,
+    "Title": "symfony/symfony",
+    "Url": "https://github.com/symfony/symfony",
+    "Description": "The Symfony PHP framework",
+    "Metadata": {
+      "owner": "symfony",
+      "repo": "symfony",
+      "language": "PHP",
+      "stars": "89",
+      "topics": "bundle, framework, hacktoberfest, php, php-framework, symfony, symfony-bundle"
+    },
+    "FetchedAt": "2026-11-06T13:31:05.9146586+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:prometheus/prometheus"
+    },
+    "Type": 0,
+    "Title": "prometheus/prometheus",
+    "Url": "https://github.com/prometheus/prometheus",
+    "Description": "The Prometheus monitoring system and time series database.",
+    "Metadata": {
+      "owner": "prometheus",
+      "repo": "prometheus",
+      "language": "Go",
+      "stars": "140",
+      "topics": "alerting, graphing, hacktoberfest, metrics, monitoring, prometheus, time-series"
+    },
+    "FetchedAt": "2026-11-06T13:31:06.1423383+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google/skills"
+    },
+    "Type": 0,
+    "Title": "google/skills",
+    "Url": "https://github.com/google/skills",
+    "Description": "Agent Skills for Google products and technologies",
+    "Metadata": {
+      "owner": "google",
+      "repo": "skills",
+      "language": "Python",
+      "stars": "532",
+      "topics": "google, googlecloud, skills"
+    },
+    "FetchedAt": "2026-11-06T13:31:06.3899504+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:microsoft/vscode"
+    },
+    "Type": 0,
+    "Title": "microsoft/vscode",
+    "Url": "https://github.com/microsoft/vscode",
+    "Description": "Visual Studio Code",
+    "Metadata": {
+      "owner": "microsoft",
+      "repo": "vscode",
+      "language": "TypeScript",
+      "stars": "295",
+      "topics": "editor, electron, microsoft, typescript, visual-studio-code"
+    },
+    "FetchedAt": "2026-11-06T13:31:06.6139361+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:lz4/lz4"
+    },
+    "Type": 0,
+    "Title": "lz4/lz4",
+    "Url": "https://github.com/lz4/lz4",
+    "Description": "Extremely Fast Compression algorithm",
+    "Metadata": {
+      "owner": "lz4",
+      "repo": "lz4",
+      "language": "C",
+      "stars": "313",
+      "topics": "c, compression, lz4"
+    },
+    "FetchedAt": "2026-11-06T13:31:06.8185176+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:nushell/nushell"
+    },
+    "Type": 0,
+    "Title": "nushell/nushell",
+    "Url": "https://github.com/nushell/nushell",
+    "Description": "A new type of shell",
+    "Metadata": {
+      "owner": "nushell",
+      "repo": "nushell",
+      "language": "Rust",
+      "stars": "88",
+      "topics": "nushell, rust, shell"
+    },
+    "FetchedAt": "2026-11-06T13:31:07.0114166+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:etcd-io/etcd"
+    },
+    "Type": 0,
+    "Title": "etcd-io/etcd",
+    "Url": "https://github.com/etcd-io/etcd",
+    "Description": "Distributed reliable key-value store for the most critical data of a distributed system",
+    "Metadata": {
+      "owner": "etcd-io",
+      "repo": "etcd",
+      "language": "Go",
+      "stars": "123",
+      "topics": "cncf, consensus, database, distributed-database, distributed-systems, etcd, go, key-value, kubernetes, raft"
+    },
+    "FetchedAt": "2026-11-06T13:31:07.2347058+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cloudflare/security-audit-skill"
+    },
+    "Type": 0,
+    "Title": "cloudflare/security-audit-skill",
+    "Url": "https://github.com/cloudflare/security-audit-skill",
+    "Description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "Metadata": {
+      "owner": "cloudflare",
+      "repo": "security-audit-skill",
+      "language": "JavaScript",
+      "stars": "2,524"
+    },
+    "FetchedAt": "2026-11-06T13:31:07.427851+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:astral-sh/ruff"
+    },
+    "Type": 0,
+    "Title": "astral-sh/ruff",
+    "Url": "https://github.com/astral-sh/ruff",
+    "Description": "An extremely fast Python linter and code formatter, written in Rust.",
+    "Metadata": {
+      "owner": "astral-sh",
+      "repo": "ruff",
+      "language": "Rust",
+      "stars": "107",
+      "topics": "linter, pep8, python, python3, ruff, rust, rustpython, static-analysis, static-code-analysis, style-guide, styleguide"
+    },
+    "FetchedAt": "2026-11-06T13:31:07.6198748+00:00"
   }
 ]
