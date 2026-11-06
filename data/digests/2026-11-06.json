@@ -1,0 +1,638 @@
+{
+  "Id": "2026-11-06",
+  "GeneratedAt": "2026-11-06T05:28:12.8755657+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:NVIDIA/auto-ontology"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables determinis"
+      },
+      "Description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better c",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:garrytan/gstack"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Use Garry Tan\u0027s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager,"
+      },
+      "Description": "Use Garry Tan\u0027s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Usagi-org/ai-goofish-monitor"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u57FA\u4E8E Playwright \u548CAI\u5B9E\u73B0\u7684\u95F2\u9C7C\u591A\u4EFB\u52A1\u5B9E\u65F6/\u5B9A\u65F6\u76D1\u63A7\u4E0E\u667A\u80FD\u5206\u6790\u7CFB\u7EDF\uFF0C\u914D\u5907\u4E86\u529F\u80FD\u5B8C\u5584\u7684\u540E\u53F0\u7BA1\u7406UI\u3002\u5E2E\u52A9\u7528\u6237\u4ECE\u95F2\u9C7C\u6D77\u91CF\u5546\u54C1\u4E2D\uFF0C\u627E\u5230\u5FC3\u4EEA\u4EA7\u54C1\u3002"
+      },
+      "Description": "\u57FA\u4E8E Playwright \u548CAI\u5B9E\u73B0\u7684\u95F2\u9C7C\u591A\u4EFB\u52A1\u5B9E\u65F6/\u5B9A\u65F6\u76D1\u63A7\u4E0E\u667A\u80FD\u5206\u6790\u7CFB\u7EDF\uFF0C\u914D\u5907\u4E86\u529F\u80FD\u5B8C\u5584\u7684\u540E\u53F0\u7BA1\u7406UI\u3002\u5E2E\u52A9\u7528\u6237\u4ECE\u95F2\u9C7C\u6D77\u91CF\u5546\u54C1\u4E2D\uFF0C\u627E\u5230\u5FC3\u4EEA\u4EA7\u54C1\u3002",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:vercel-labs/agent-desktop"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Computer use CLI for AI agents"
+      },
+      "Description": "Computer use CLI for AI agents",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:max-sixty/worktrunk"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+      },
+      "Description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:lz4/lz4"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Extremely Fast Compression algorithm"
+      },
+      "Description": "Extremely Fast Compression algorithm",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:google/skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Agent Skills for Google products and technologies"
+      },
+      "Description": "Agent Skills for Google products and technologies",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:vercel-labs/agent-browser"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Browser automation CLI for AI agents"
+      },
+      "Description": "Browser automation CLI for AI agents",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:scenario-labs/skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spen"
+      },
+      "Description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and ",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:ConardLi/garden-skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "ConardLi\u0027s open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more."
+      },
+      "Description": "ConardLi\u0027s open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:microsoft/VibeVoice"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Open-Source Frontier Voice AI"
+      },
+      "Description": "Open-Source Frontier Voice AI",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:JiaFeiMiao-K-Cat/DiscImageStudio"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": ""
+      },
+      "Description": "",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50385272"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Claude Code sends your email address to websites"
+      },
+      "Description": "Claude Code sends your email address to websites",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50378228"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Related:\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;hachyderm.io\u0026#x2F;@damienmiller\u0026#x2F;117563026759098135\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2"
+      },
+      "Description": "Related:\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;hachyderm.io\u0026#x2F;@damienmiller\u0026#x2F;117563026759098135\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;hachyderm.io\u0026#x2F;@dam",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50384233"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "MS Paint Remote Code Execution Vulnerability"
+      },
+      "Description": "MS Paint Remote Code Execution Vulnerability",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50387738"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Nvidia Kubernetes Engine (NVKE)"
+      },
+      "Description": "Nvidia Kubernetes Engine (NVKE)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50386338"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Inkling 2 Small"
+      },
+      "Description": "Inkling 2 Small",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50387796"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Pwn.college"
+      },
+      "Description": "Pwn.college",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50387546"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Closed AI models dominate the price-performance frontier"
+      },
+      "Description": "Closed AI models dominate the price-performance frontier",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50383057"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Hackintosh Reborn"
+      },
+      "Description": "The Hackintosh Reborn",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50387406"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Tesla and SpaceX lose over $420B in combined market cap in the two days"
+      },
+      "Description": "Tesla and SpaceX lose over $420B in combined market cap in the two days",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50381383"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Window Sweaters"
+      },
+      "Description": "Window Sweaters",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50378643"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hi HN, we have been developing with Firebase for a long time, and the only way Firebase developers can build apps withou"
+      },
+      "Description": "Hi HN, we have been developing with Firebase for a long time, and the only way Firebase developers can build apps without directly costing them is usi",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50381687"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hey HN, this is Nathan and Nicholas from Rivet (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;rivet.dev\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;rivet.dev\u003C/a\u003E) \u2013"
+      },
+      "Description": "Hey HN, this is Nathan and Nicholas from Rivet (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;rivet.dev\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;rivet.dev\u003C/a\u003E) \u2013 a fast, high-density, and sca",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50386789"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "MoofTCP \u2013 A modern replacement for MacTCP on 68k Macs"
+      },
+      "Description": "MoofTCP \u2013 A modern replacement for MacTCP on 68k Macs",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50385870"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue"
+      },
+      "Description": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50383739"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Goodbye from Salon"
+      },
+      "Description": "Goodbye from Salon",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50368208"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "My brother and I run a 2-person lab that trains our own generative video models from scratch. The ultimate goal is a set"
+      },
+      "Description": "My brother and I run a 2-person lab that trains our own generative video models from scratch. The ultimate goal is a set of creative tools that make i",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50380810"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Motorola Signature 27 with GrapheneOS support"
+      },
+      "Description": "Motorola Signature 27 with GrapheneOS support",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50379576"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "September in Servo: \u003Cprogress\u003E, rounded rectangles, and more"
+      },
+      "Description": "September in Servo: \u003Cprogress\u003E, rounded rectangles, and more",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50378571"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Download your favourite YouTube videos"
+      },
+      "Description": "Download your favourite YouTube videos",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50378942"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I wish tech companies knew more about me"
+      },
+      "Description": "I wish tech companies knew more about me",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50383294"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Pangram Image 1.0"
+      },
+      "Description": "Pangram Image 1.0",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50387952"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Silicon Valley\u0027s Bad Night"
+      },
+      "Description": "Silicon Valley\u0027s Bad Night",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50383740"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Search for everyone"
+      },
+      "Description": "Search for everyone",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50379249"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "MCP Explained"
+      },
+      "Description": "MCP Explained",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50378508"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Obscure audio codec is a perfect fit for the N64"
+      },
+      "Description": "Obscure audio codec is a perfect fit for the N64",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50380979"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Stacks Project, Formalized in Lean"
+      },
+      "Description": "The Stacks Project, Formalized in Lean",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50381033"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "My psychophysics as a bilateral cochlear implant user"
+      },
+      "Description": "My psychophysics as a bilateral cochlear implant user",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50377078"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Baidu released ERNIE 5.5 Flash Base"
+      },
+      "Description": "Baidu released ERNIE 5.5 Flash Base",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50381512"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Bild AI (YC W25) Is Hiring Founding Product Engineers"
+      },
+      "Description": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50383163"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hungary: Communist-era files released, up to 60k former agents revealed"
+      },
+      "Description": "Hungary: Communist-era files released, up to 60k former agents revealed",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 42 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
