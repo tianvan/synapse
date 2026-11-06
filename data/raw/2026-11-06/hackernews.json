@@ -196,21 +196,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50389333"
-    },
-    "Type": 1,
-    "Title": "Blender\u0027s UI and Runtime: Much Faster Than GPUI",
-    "Url": "https://github.com/ppmpreetham/BUI",
-    "Description": "Blender\u0027s UI and Runtime: Much Faster Than GPUI",
-    "Metadata": {
-      "score": "352",
-      "author": "ppmpreetham",
-      "commentCount": "147"
-    },
-    "FetchedAt": "2026-11-06T13:31:08.1965239+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50385272"
     },
     "Type": 1,
@@ -223,36 +208,6 @@
       "commentCount": "408"
     },
     "FetchedAt": "2026-11-06T13:31:08.258637+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50391145"
-    },
-    "Type": 1,
-    "Title": "We\u0027ve built an open-source feature flag server for 11 years",
-    "Url": "https://github.com/Unleash/unleash",
-    "Description": "We\u0027ve built an open-source feature flag server for 11 years",
-    "Metadata": {
-      "score": "31",
-      "author": "ivarconr",
-      "commentCount": "13"
-    },
-    "FetchedAt": "2026-11-06T13:31:08.4257222+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50390525"
-    },
-    "Type": 1,
-    "Title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
-    "Url": "https://jhr.pensoft.net/articles.php?id=9096",
-    "Description": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
-    "Metadata": {
-      "score": "67",
-      "author": "hitekker",
-      "commentCount": "23"
-    },
-    "FetchedAt": "2026-11-06T13:31:08.5328593+00:00"
   },
   {
     "ExternalId": {
@@ -283,21 +238,6 @@
       "commentCount": "40"
     },
     "FetchedAt": "2026-11-06T13:31:08.7073195+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50391456"
-    },
-    "Type": 1,
-    "Title": "Tesla winds down Cybertruck production after years of poor sales in few markets",
-    "Url": "https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv",
-    "Description": "Tesla winds down Cybertruck production after years of poor sales in few markets",
-    "Metadata": {
-      "score": "59",
-      "author": "PLenz",
-      "commentCount": "30"
-    },
-    "FetchedAt": "2026-11-06T13:31:08.8064422+00:00"
   },
   {
     "ExternalId": {
@@ -466,21 +406,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50389570"
-    },
-    "Type": 1,
-    "Title": "Chomsky and the Two Cultures of Statistical Learning",
-    "Url": "https://www.norvig.com/chomsky.html",
-    "Description": "Chomsky and the Two Cultures of Statistical Learning",
-    "Metadata": {
-      "score": "19",
-      "author": "andsoitis",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-11-06T13:31:10.2364804+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50378643"
     },
     "Type": 1,
@@ -628,5 +553,455 @@
       "commentCount": "57"
     },
     "FetchedAt": "2026-11-06T13:31:10.6987261+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50397429"
+    },
+    "Type": 1,
+    "Title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+    "Url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+    "Description": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+    "Metadata": {
+      "score": "209",
+      "author": "theanomaly",
+      "commentCount": "43"
+    },
+    "FetchedAt": "2026-11-06T22:36:18.4678563+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50397994"
+    },
+    "Type": 1,
+    "Title": "AI is dramatically accelerating AI research",
+    "Url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+    "Description": "AI is dramatically accelerating AI research",
+    "Metadata": {
+      "score": "107",
+      "author": "yurivish",
+      "commentCount": "58"
+    },
+    "FetchedAt": "2026-11-06T22:36:18.5245529+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50397219"
+    },
+    "Type": 1,
+    "Title": "Firecracker VM Escape: PwnEscape Part 2",
+    "Url": "https://pwn.ai/blog/firecracker-escape",
+    "Description": "Firecracker VM Escape: PwnEscape Part 2",
+    "Metadata": {
+      "score": "118",
+      "author": "SerCe",
+      "commentCount": "60"
+    },
+    "FetchedAt": "2026-11-06T22:36:18.6282505+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50388001"
+    },
+    "Type": 1,
+    "Title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+    "Url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+    "Description": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+    "Metadata": {
+      "score": "236",
+      "author": "ChrisArchitect",
+      "commentCount": "191"
+    },
+    "FetchedAt": "2026-11-06T22:36:18.6868721+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50391456"
+    },
+    "Type": 1,
+    "Title": "Tesla to wind down Cybertruck production",
+    "Url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+    "Description": "Tesla to wind down Cybertruck production",
+    "Metadata": {
+      "score": "730",
+      "author": "PLenz",
+      "commentCount": "1551"
+    },
+    "FetchedAt": "2026-11-06T22:36:18.8796471+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50394855"
+    },
+    "Type": 1,
+    "Title": "First steps in bare-metal programming using UEFI",
+    "Url": "https://kevinboone.me/efitest_index.html",
+    "Description": "First steps in bare-metal programming using UEFI",
+    "Metadata": {
+      "score": "155",
+      "author": "LaSombra",
+      "commentCount": "29"
+    },
+    "FetchedAt": "2026-11-06T22:36:19.1140853+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50397017"
+    },
+    "Type": 1,
+    "Title": "Restaurant Delivery Payment-Skimming Campaign",
+    "Url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+    "Description": "Restaurant Delivery Payment-Skimming Campaign",
+    "Metadata": {
+      "score": "50",
+      "author": "fiej",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-11-06T22:36:19.2067992+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50389333"
+    },
+    "Type": 1,
+    "Title": "Blender\u0027s UI and Runtime: Much Faster Than GPUI",
+    "Url": "https://github.com/ppmpreetham/BUI",
+    "Description": "Blender\u0027s UI and Runtime: Much Faster Than GPUI",
+    "Metadata": {
+      "score": "663",
+      "author": "ppmpreetham",
+      "commentCount": "267"
+    },
+    "FetchedAt": "2026-11-06T22:36:19.2514525+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50395919"
+    },
+    "Type": 1,
+    "Title": "Memorilla: Latent Semantic Memory for LLMs",
+    "Url": "https://arxiv.org/abs/2610.21375",
+    "Description": "Memorilla: Latent Semantic Memory for LLMs",
+    "Metadata": {
+      "score": "65",
+      "author": "handfuloflight",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-11-06T22:36:19.2945825+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50354308"
+    },
+    "Type": 1,
+    "Title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
+    "Url": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
+    "Description": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
+    "Metadata": {
+      "score": "39",
+      "author": "wondersky",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-11-06T22:36:19.337716+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50396834"
+    },
+    "Type": 1,
+    "Title": "Replit rebuilt its sandbox engine with microVMs",
+    "Url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
+    "Description": "Replit rebuilt its sandbox engine with microVMs",
+    "Metadata": {
+      "score": "32",
+      "author": "gaplong",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-11-06T22:36:19.3828631+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50379221"
+    },
+    "Type": 1,
+    "Title": "Show HN: Waymark \u2013 A workflow engine that compiles jobs instead of replaying",
+    "Url": "https://github.com/piercefreeman/waymark",
+    "Description": "Hey everyone! @mozgiii and I have been working on Waymark for the better part of the last year. Waymark\u2019s an open source durable execution library with similar functionality to Temporal or DBOS.\u003Cp\u003EI fell in love with durable execution a few years ago, after working at a company with a heavy pubsub architecture. In comparison to job orchestrators that force a certain task design or special syntax, many of these durable libs lets you write business logic in regular code: \u0060asyncio.gather\u0060 to parall",
+    "Metadata": {
+      "score": "22",
+      "author": "icyfox",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-11-06T22:36:19.4272776+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50395450"
+    },
+    "Type": 1,
+    "Title": "Devvm.dev: One VM for every project",
+    "Url": "https://devvm.dev/",
+    "Description": "Devvm.dev: One VM for every project",
+    "Metadata": {
+      "score": "75",
+      "author": "luispa",
+      "commentCount": "41"
+    },
+    "FetchedAt": "2026-11-06T22:36:19.470907+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50392118"
+    },
+    "Type": 1,
+    "Title": "Gemini Omni 1.2 Flash",
+    "Url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+    "Description": "Gemini Omni 1.2 Flash",
+    "Metadata": {
+      "score": "273",
+      "author": "thisisauserid",
+      "commentCount": "209"
+    },
+    "FetchedAt": "2026-11-06T22:36:19.5153473+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50395869"
+    },
+    "Type": 1,
+    "Title": "Size-It-Up (Game)",
+    "Url": "https://magnitudle.com/size-it-up",
+    "Description": "Size-It-Up (Game)",
+    "Metadata": {
+      "score": "52",
+      "author": "whoishiding",
+      "commentCount": "19"
+    },
+    "FetchedAt": "2026-11-06T22:36:19.5591324+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50392348"
+    },
+    "Type": 1,
+    "Title": "How octopuses squeeze through too small gaps",
+    "Url": "https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps",
+    "Description": "Paper: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;journals.biologists.com\u0026#x2F;jeb\u0026#x2F;article\u0026#x2F;229\u0026#x2F;21\u0026#x2F;jeb252825\u0026#x2F;373328\u0026#x2F;Overcoming-environmental-constraints-octopus-uses\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;journals.biologists.com\u0026#x2F;jeb\u0026#x2F;article\u0026#x2F;229\u0026#x2F;21\u0026#x2F;jeb252825...\u003C/a\u003E\u003Cp\u003EVideos (from the paper):\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;movie.biologists.com\u0026#x2F;video\u0026#x2F;10.1242\u0026#x2F;jeb.252825\u0026#x2F;video-1\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;movie.biologists.com\u0026#x2F;video\u0026#x2F;1",
+    "Metadata": {
+      "score": "35",
+      "author": "bookofjoe",
+      "commentCount": "5"
+    },
+    "FetchedAt": "2026-11-06T22:36:19.6037496+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50395043"
+    },
+    "Type": 1,
+    "Title": "UpCodes (YC S17) is hiring SDR\u0027s to sell AI compliance software",
+    "Url": "https://up.codes/careers?utm_source=HN",
+    "Description": "UpCodes (YC S17) is hiring SDR\u0027s to sell AI compliance software",
+    "Metadata": {
+      "score": "1",
+      "author": "Old_Thrashbarg",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-11-06T22:36:19.6468112+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50397176"
+    },
+    "Type": 1,
+    "Title": "My first and last telegram was from Rebecca West",
+    "Url": "https://thelampmagazine.com/blog/rebecca-wests-nightingale",
+    "Description": "My first and last telegram was from Rebecca West",
+    "Metadata": {
+      "score": "27",
+      "author": "bryanrasmussen",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-11-06T22:36:19.6909993+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50394977"
+    },
+    "Type": 1,
+    "Title": "PyLings: Solve Exercises and Learn Python",
+    "Url": "https://github.com/thesayfulla/pylings",
+    "Description": "PyLings: Solve Exercises and Learn Python",
+    "Metadata": {
+      "score": "36",
+      "author": "thesayfulla",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-11-06T22:36:19.7350017+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50394906"
+    },
+    "Type": 1,
+    "Title": "Anthropic IPO buyers see valuation as low as $1.1T",
+    "Url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;epyhia.com\u0026#x2F;anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;epyhia.com\u0026#x2F;anthropic-ipo-valuation-talks-drop-to-1-3...\u003C/a\u003E",
+    "Metadata": {
+      "score": "164",
+      "author": "dgellow",
+      "commentCount": "388"
+    },
+    "FetchedAt": "2026-11-06T22:36:19.7823442+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50393758"
+    },
+    "Type": 1,
+    "Title": "Deus Ex",
+    "Url": "https://www.filfre.net/2026/11/deus-ex/",
+    "Description": "Deus Ex",
+    "Metadata": {
+      "score": "307",
+      "author": "cybersoyuz",
+      "commentCount": "151"
+    },
+    "FetchedAt": "2026-11-06T22:36:19.8254528+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50396108"
+    },
+    "Type": 1,
+    "Title": "40C3 halfnarp \u2013 Submit talk preferences to aid scheduling",
+    "Url": "https://halfnarp.events.ccc.de",
+    "Description": "40C3 halfnarp \u2013 Submit talk preferences to aid scheduling",
+    "Metadata": {
+      "score": "30",
+      "author": "hanemile",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-11-06T22:36:19.8700359+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50397264"
+    },
+    "Type": 1,
+    "Title": "As the Japanese countryside empties out, wildlife is disappearing",
+    "Url": "https://e360.yale.edu/digest/japan-depopulation-biodiversity",
+    "Description": "As the Japanese countryside empties out, wildlife is disappearing",
+    "Metadata": {
+      "score": "64",
+      "author": "rdmuser",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-11-06T22:36:19.9140378+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50389570"
+    },
+    "Type": 1,
+    "Title": "Chomsky and the two cultures of statistical learning (2011)",
+    "Url": "https://www.norvig.com/chomsky.html",
+    "Description": "Chomsky and the two cultures of statistical learning (2011)",
+    "Metadata": {
+      "score": "85",
+      "author": "andsoitis",
+      "commentCount": "69"
+    },
+    "FetchedAt": "2026-11-06T22:36:19.9580572+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50397325"
+    },
+    "Type": 1,
+    "Title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
+    "Url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
+    "Description": "Hi there :)\u003Cp\u003EAround a month ago, I released LDraw Nova, an agentic toolset for assembling LEGO CAD models by generating LDraw source code files.\u003Cp\u003EFor more details, here\u0026#x27;s the Show HN post:\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=49937916\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=49937916\u003C/a\u003E\u003Cp\u003EFrom the comments, I got the impression that there was quite an interest in seeing not only AI-generated LEGO models, but also AI-animated LEGO ones.\u003Cp\u003EI took a loo",
+    "Metadata": {
+      "score": "18",
+      "author": "antelocnova",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-11-06T22:36:20.0009943+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50396064"
+    },
+    "Type": 1,
+    "Title": "We know 15k websites are infected. how do we tell them?",
+    "Url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
+    "Description": "We know 15k websites are infected. how do we tell them?",
+    "Metadata": {
+      "score": "122",
+      "author": "speckx",
+      "commentCount": "106"
+    },
+    "FetchedAt": "2026-11-06T22:36:20.0441925+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50394569"
+    },
+    "Type": 1,
+    "Title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+    "Url": "https://github.com/anomalyco/rune",
+    "Description": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+    "Metadata": {
+      "score": "127",
+      "author": "mik3y",
+      "commentCount": "97"
+    },
+    "FetchedAt": "2026-11-06T22:36:20.0915749+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50391145"
+    },
+    "Type": 1,
+    "Title": "We\u0027ve built an open-source feature flag server for 11 years",
+    "Url": "https://github.com/Unleash/unleash",
+    "Description": "We\u0027ve built an open-source feature flag server for 11 years",
+    "Metadata": {
+      "score": "134",
+      "author": "ivarconr",
+      "commentCount": "95"
+    },
+    "FetchedAt": "2026-11-06T22:36:20.1391086+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50393089"
+    },
+    "Type": 1,
+    "Title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
+    "Url": "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/",
+    "Description": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
+    "Metadata": {
+      "score": "55",
+      "author": "goopthink",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-11-06T22:36:20.1965744+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50390525"
+    },
+    "Type": 1,
+    "Title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+    "Url": "https://jhr.pensoft.net/articles.php?id=9096",
+    "Description": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+    "Metadata": {
+      "score": "155",
+      "author": "hitekker",
+      "commentCount": "49"
+    },
+    "FetchedAt": "2026-11-06T22:36:20.2532714+00:00"
   }
 ]
