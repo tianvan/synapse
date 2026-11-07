@@ -1,0 +1,668 @@
+{
+  "Id": "2026-11-07",
+  "GeneratedAt": "2026-11-07T04:56:46.8034602+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:NVIDIA/auto-ontology"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables determinis"
+      },
+      "Description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better c",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:rails/rails"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Ruby on Rails"
+      },
+      "Description": "Ruby on Rails",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:mpv-player/mpv"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\uD83C\uDFA5 Command line media player"
+      },
+      "Description": "\uD83C\uDFA5 Command line media player",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:rust-lang/rust"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Empowering everyone to build reliable and efficient software."
+      },
+      "Description": "Empowering everyone to build reliable and efficient software.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:react/react"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The library for web and native user interfaces."
+      },
+      "Description": "The library for web and native user interfaces.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:angular/angular"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Deliver web apps with confidence \uD83D\uDE80"
+      },
+      "Description": "Deliver web apps with confidence \uD83D\uDE80",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:symfony/symfony"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Symfony PHP framework"
+      },
+      "Description": "The Symfony PHP framework",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:prometheus/prometheus"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Prometheus monitoring system and time series database."
+      },
+      "Description": "The Prometheus monitoring system and time series database.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:google/skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Agent Skills for Google products and technologies"
+      },
+      "Description": "Agent Skills for Google products and technologies",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:microsoft/vscode"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Visual Studio Code"
+      },
+      "Description": "Visual Studio Code",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:nushell/nushell"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A new type of shell"
+      },
+      "Description": "A new type of shell",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:etcd-io/etcd"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Distributed reliable key-value store for the most critical data of a distributed system"
+      },
+      "Description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:cloudflare/security-audit-skill"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+      },
+      "Description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:astral-sh/ruff"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "An extremely fast Python linter and code formatter, written in Rust."
+      },
+      "Description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50399933"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Libghostty 1.0"
+      },
+      "Description": "Libghostty 1.0",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50397429"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost"
+      },
+      "Description": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50400597"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I Toured Unitree\u0027s Factory. I\u0027m More Bullish on the West"
+      },
+      "Description": "I Toured Unitree\u0027s Factory. I\u0027m More Bullish on the West",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50401414"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Lighting the Skies"
+      },
+      "Description": "Lighting the Skies",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50391456"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Tesla to wind down Cybertruck production"
+      },
+      "Description": "Tesla to wind down Cybertruck production",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50401409"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Show HN: Backwords \u2013 Let AI teach you how to speak in reverse"
+      },
+      "Description": "Show HN: Backwords \u2013 Let AI teach you how to speak in reverse",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50360810"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE"
+      },
+      "Description": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50399991"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "RealPage rent-pricing case wraps with nearly $360M to renters"
+      },
+      "Description": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50397219"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Firecracker VM Escape: PwnEscape Part 2"
+      },
+      "Description": "Firecracker VM Escape: PwnEscape Part 2",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50388001"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "US FAA says it will phase out floppy disks from air traffic control by 2028"
+      },
+      "Description": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50395183"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Notes on San Marino"
+      },
+      "Description": "Notes on San Marino",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50397994"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AI is dramatically accelerating AI research"
+      },
+      "Description": "AI is dramatically accelerating AI research",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50384263"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "What do the next 4000 emoji look like?"
+      },
+      "Description": "What do the next 4000 emoji look like?",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50354097"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Can GROUP BY still be optimized after all these years?"
+      },
+      "Description": "Can GROUP BY still be optimized after all these years?",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50401029"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The AI sell-off compared to well-known stock market crashes"
+      },
+      "Description": "The AI sell-off compared to well-known stock market crashes",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50394855"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "First steps in bare-metal programming using UEFI"
+      },
+      "Description": "First steps in bare-metal programming using UEFI",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50356722"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Panthera: Ampere\u0027s CPU Performance Model"
+      },
+      "Description": "Panthera: Ampere\u0027s CPU Performance Model",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50355009"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots"
+      },
+      "Description": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50399657"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Sodium-ion batteries approach cost parity with LFP"
+      },
+      "Description": "Sodium-ion batteries approach cost parity with LFP",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50397017"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Restaurant Delivery Payment-Skimming Campaign"
+      },
+      "Description": "Restaurant Delivery Payment-Skimming Campaign",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50395450"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Devvm.dev: One VM for every project"
+      },
+      "Description": "Devvm.dev: One VM for every project",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50397711"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Google has acquired Crusoe\u0027s data center site in southeast Wyoming"
+      },
+      "Description": "Google has acquired Crusoe\u0027s data center site in southeast Wyoming",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50397099"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "GitHub\u0027s new Git storage architecture"
+      },
+      "Description": "GitHub\u0027s new Git storage architecture",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50392118"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Gemini Omni 1.2 Flash"
+      },
+      "Description": "Gemini Omni 1.2 Flash",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50379221"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hey everyone! @mozgiii and I have been working on Waymark for the better part of the last year. Waymark\u2019s an open source"
+      },
+      "Description": "Hey everyone! @mozgiii and I have been working on Waymark for the better part of the last year. Waymark\u2019s an open source durable execution library wit",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50374287"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How tall can you build with 54 Jenga blocks?"
+      },
+      "Description": "How tall can you build with 54 Jenga blocks?",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50396834"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Replit rebuilt its sandbox engine with microVMs"
+      },
+      "Description": "Replit rebuilt its sandbox engine with microVMs",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50395043"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "UpCodes (YC S17) is hiring SDR\u0027s to sell AI compliance software"
+      },
+      "Description": "UpCodes (YC S17) is hiring SDR\u0027s to sell AI compliance software",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50395919"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Memorilla: Latent Semantic Memory for LLMs"
+      },
+      "Description": "Memorilla: Latent Semantic Memory for LLMs",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50389570"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Chomsky and the two cultures of statistical learning (2011)"
+      },
+      "Description": "Chomsky and the two cultures of statistical learning (2011)",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 44 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
