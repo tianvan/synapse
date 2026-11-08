@@ -1,0 +1,623 @@
+{
+  "Id": "2026-11-08",
+  "GeneratedAt": "2026-11-08T04:50:11.3138201+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:vercel-labs/agent-browser"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Browser automation CLI for AI agents"
+      },
+      "Description": "Browser automation CLI for AI agents",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:cloudflare/security-audit-skill"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+      },
+      "Description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:google/skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Agent Skills for Google products and technologies"
+      },
+      "Description": "Agent Skills for Google products and technologies",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:anthropics/skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Public repository for Agent Skills"
+      },
+      "Description": "Public repository for Agent Skills",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:meta/astryx"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "An open source design system that\u0027s fully customizable and agent ready"
+      },
+      "Description": "An open source design system that\u0027s fully customizable and agent ready",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:prometheus/prometheus"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Prometheus monitoring system and time series database."
+      },
+      "Description": "The Prometheus monitoring system and time series database.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:sherlock-project/sherlock"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hunt down social media accounts by username across social networks"
+      },
+      "Description": "Hunt down social media accounts by username across social networks",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:astral-sh/ruff"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "An extremely fast Python linter and code formatter, written in Rust."
+      },
+      "Description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:tailwindlabs/tailwindcss"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A utility-first CSS framework for rapid UI development."
+      },
+      "Description": "A utility-first CSS framework for rapid UI development.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:ranxianglei/billion-context"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context "
+      },
+      "Description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:dsx-ai-factory/nvke"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal."
+      },
+      "Description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50406670"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "What I run on my $10 USD OpenStick homelab"
+      },
+      "Description": "What I run on my $10 USD OpenStick homelab",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50407882"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Claude Code\u0027s \u0022Don\u0027t Ask Again\u0022 exposes passwords in 1,122 public GitHub files"
+      },
+      "Description": "Claude Code\u0027s \u0022Don\u0027t Ask Again\u0022 exposes passwords in 1,122 public GitHub files",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50408713"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Making any integer with four 2s (2025)"
+      },
+      "Description": "Making any integer with four 2s (2025)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50377661"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Uranium cubes reveal why the German nuclear project failed"
+      },
+      "Description": "Uranium cubes reveal why the German nuclear project failed",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50403052"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Need for Speed Underground 2 online in the browser"
+      },
+      "Description": "Need for Speed Underground 2 online in the browser",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50406292"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on indu"
+      },
+      "Description": "I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50406222"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "MaxxBench \u2013 \u0022Nice DeepSWE score. But is it true?\u0022"
+      },
+      "Description": "MaxxBench \u2013 \u0022Nice DeepSWE score. But is it true?\u0022",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50408931"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "GitHub New pull request overview page in public preview"
+      },
+      "Description": "GitHub New pull request overview page in public preview",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50351954"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Amsterdam School"
+      },
+      "Description": "Amsterdam School",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50406563"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;AaY5O\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;AaY5O\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;AaY5O\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;AaY5O\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;businessexam",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50403097"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Every Mac comes with an (undocumented) family member classifier"
+      },
+      "Description": "Every Mac comes with an (undocumented) family member classifier",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50358337"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Turning every radio into a radar"
+      },
+      "Description": "Turning every radio into a radar",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50406111"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell"
+      },
+      "Description": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50403507"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Every Windows 11 app should kill Electron, and Discord just showed why"
+      },
+      "Description": "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50408961"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Commodore PET \u2013 The Worlds First Personal Computer"
+      },
+      "Description": "Commodore PET \u2013 The Worlds First Personal Computer",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50406319"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Five memorable books about programming (2008)"
+      },
+      "Description": "Five memorable books about programming (2008)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50361212"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Study solved a 150-year-old mystery into the identity of the extinct giant crane"
+      },
+      "Description": "Study solved a 150-year-old mystery into the identity of the extinct giant crane",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50404599"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The $8 Linux Computer (2022)"
+      },
+      "Description": "The $8 Linux Computer (2022)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50404438"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Cancer at Sea"
+      },
+      "Description": "Cancer at Sea",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50408082"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A little web game I made as an anniversary present for my wife.\u003Cp\u003EUpload vacation photos and make them into a game.\u003Cp\u003EWW"
+      },
+      "Description": "A little web game I made as an anniversary present for my wife.\u003Cp\u003EUpload vacation photos and make them into a game.\u003Cp\u003EWWW uses EXIF to determine where",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50405172"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack"
+      },
+      "Description": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50406502"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "GeoWorks, Microsoft Windows\u0027 Upstart \u002790s Competitor (2016)"
+      },
+      "Description": "GeoWorks, Microsoft Windows\u0027 Upstart \u002790s Competitor (2016)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50408750"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "IRA Velinsky \u2013 Commodore\u0027s Industrial Designer"
+      },
+      "Description": "IRA Velinsky \u2013 Commodore\u0027s Industrial Designer",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50408350"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Profession like software engineer, mechanical \u0026#x2F; graphics designer takes a lot of strain on your eyes, observing min"
+      },
+      "Description": "Profession like software engineer, mechanical \u0026#x2F; graphics designer takes a lot of strain on your eyes, observing minute details for hours and hour",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50361657"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Text.js: Build full-stack React apps that render inside console.log"
+      },
+      "Description": "Text.js: Build full-stack React apps that render inside console.log",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50401867"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Asahi Linux Progress Linux 7.3"
+      },
+      "Description": "Asahi Linux Progress Linux 7.3",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50405782"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Every processor die anyone has photographed and given away"
+      },
+      "Description": "Every processor die anyone has photographed and given away",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50405674"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Terry Pratchett\u0027s Study"
+      },
+      "Description": "Terry Pratchett\u0027s Study",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50403066"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Running a law firm on Free software"
+      },
+      "Description": "Running a law firm on Free software",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50405789"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How Long Can Life Wait?"
+      },
+      "Description": "How Long Can Life Wait?",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 41 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
