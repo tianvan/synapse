@@ -256,126 +256,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50412152"
-    },
-    "Type": 1,
-    "Title": "Petered (what happens after the Peter Principle)",
-    "Url": "https://aworkinglibrary.com/writing/petered",
-    "Description": "Petered (what happens after the Peter Principle)",
-    "Metadata": {
-      "score": "35",
-      "author": "adrianhoward",
-      "commentCount": "17"
-    },
-    "FetchedAt": "2026-11-08T12:31:50.7468888+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50410107"
-    },
-    "Type": 1,
-    "Title": "Goodbye Claude, Hello Pi",
-    "Url": "https://caleb.software/posts/claude-to-pi.html",
-    "Description": "Goodbye Claude, Hello Pi",
-    "Metadata": {
-      "score": "381",
-      "author": "karagenit",
-      "commentCount": "239"
-    },
-    "FetchedAt": "2026-11-08T12:31:50.7927129+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50411961"
-    },
-    "Type": 1,
-    "Title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-    "Url": "https://github.com/synchopate/llama-modchip",
-    "Description": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-    "Metadata": {
-      "score": "10",
-      "author": "joshcsimmons",
-      "commentCount": "7"
-    },
-    "FetchedAt": "2026-11-08T12:31:50.8736739+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50366902"
-    },
-    "Type": 1,
-    "Title": "Clj.rs \u2013 a Clojure dialect implemented in Rust",
-    "Url": "https://clj.rs/",
-    "Description": "Clj.rs \u2013 a Clojure dialect implemented in Rust",
-    "Metadata": {
-      "score": "82",
-      "author": "simonpure",
-      "commentCount": "13"
-    },
-    "FetchedAt": "2026-11-08T12:31:50.9212543+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50412072"
-    },
-    "Type": 1,
-    "Title": "JIT bitmap text rendering for microcontrollers",
-    "Url": "https://linebender.org/blog/jit-bitmap-text/",
-    "Description": "JIT bitmap text rendering for microcontrollers",
-    "Metadata": {
-      "score": "16",
-      "author": "dmit",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-11-08T12:31:50.9680936+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50411467"
-    },
-    "Type": 1,
-    "Title": "Agent memory needs its OpenTelemetry moment",
-    "Url": "https://www.lorekit.io/blog/open-agent-memory-format",
-    "Description": "Agent memory needs its OpenTelemetry moment",
-    "Metadata": {
-      "score": "65",
-      "author": "mthines",
-      "commentCount": "61"
-    },
-    "FetchedAt": "2026-11-08T12:31:51.0136825+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50406670"
-    },
-    "Type": 1,
-    "Title": "What I run on my $10 USD OpenStick homelab",
-    "Url": "https://blog.bosscher.ch/posts/openstick/",
-    "Description": "What I run on my $10 USD OpenStick homelab",
-    "Metadata": {
-      "score": "625",
-      "author": "LaurensBER",
-      "commentCount": "115"
-    },
-    "FetchedAt": "2026-11-08T12:31:51.0593058+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50407882"
-    },
-    "Type": 1,
-    "Title": "Claude Code\u0027s \u0022Don\u0027t Ask Again\u0022 exposes passwords in 1,122 public GitHub files",
-    "Url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-    "Description": "Claude Code\u0027s \u0022Don\u0027t Ask Again\u0022 exposes passwords in 1,122 public GitHub files",
-    "Metadata": {
-      "score": "439",
-      "author": "shmulc",
-      "commentCount": "299"
-    },
-    "FetchedAt": "2026-11-08T12:31:51.1071987+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50378974"
     },
     "Type": 1,
@@ -688,5 +568,455 @@
       "commentCount": "94"
     },
     "FetchedAt": "2026-11-08T12:31:52.085235+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50415628"
+    },
+    "Type": 1,
+    "Title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+    "Url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+    "Description": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+    "Metadata": {
+      "score": "405",
+      "author": "TheWiggles",
+      "commentCount": "251"
+    },
+    "FetchedAt": "2026-11-08T21:30:57.9009537+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50416363"
+    },
+    "Type": 1,
+    "Title": "How I Fight AI Brain Fry",
+    "Url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+    "Description": "How I Fight AI Brain Fry",
+    "Metadata": {
+      "score": "82",
+      "author": "kyunez",
+      "commentCount": "51"
+    },
+    "FetchedAt": "2026-11-08T21:30:57.9465069+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50416053"
+    },
+    "Type": 1,
+    "Title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+    "Url": "https://duxlabs.dev/",
+    "Description": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+    "Metadata": {
+      "score": "77",
+      "author": "indigodaddy",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-11-08T21:30:57.9855839+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50415172"
+    },
+    "Type": 1,
+    "Title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+    "Url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
+    "Description": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+    "Metadata": {
+      "score": "135",
+      "author": "randycupertino",
+      "commentCount": "46"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.0226109+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50368481"
+    },
+    "Type": 1,
+    "Title": "Declarative Dragging",
+    "Url": "https://declarative-dragging.github.io/",
+    "Description": "Declarative Dragging",
+    "Metadata": {
+      "score": "148",
+      "author": "smusamashah",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.0778824+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50416158"
+    },
+    "Type": 1,
+    "Title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+    "Url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+    "Description": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+    "Metadata": {
+      "score": "106",
+      "author": "xmddmx",
+      "commentCount": "91"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.1163855+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50411961"
+    },
+    "Type": 1,
+    "Title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+    "Url": "https://github.com/synchopate/llama-modchip",
+    "Description": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+    "Metadata": {
+      "score": "305",
+      "author": "joshcsimmons",
+      "commentCount": "116"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.1529947+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50372838"
+    },
+    "Type": 1,
+    "Title": "Edward Hopper\u0027s Iconic Painting, \u0022Nighthawks",
+    "Url": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
+    "Description": "Edward Hopper\u0027s Iconic Painting, \u0022Nighthawks",
+    "Metadata": {
+      "score": "31",
+      "author": "prismatic",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.1897119+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50412067"
+    },
+    "Type": 1,
+    "Title": "Writing as a thinking tool",
+    "Url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+    "Description": "Writing as a thinking tool",
+    "Metadata": {
+      "score": "226",
+      "author": "jruohonen",
+      "commentCount": "72"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.2271836+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50415135"
+    },
+    "Type": 1,
+    "Title": "A Little Snitch for Windows",
+    "Url": "https://packethound.app/",
+    "Description": "A Little Snitch for Windows",
+    "Metadata": {
+      "score": "60",
+      "author": "BadBoyBubby",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.2642818+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50362963"
+    },
+    "Type": 1,
+    "Title": "Show HN: Vegetable Gardening for Engineers",
+    "Url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
+    "Description": "Show HN: Vegetable Gardening for Engineers",
+    "Metadata": {
+      "score": "112",
+      "author": "jrcplus",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.3064321+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50416801"
+    },
+    "Type": 1,
+    "Title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+    "Url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+    "Description": "Nvidia Board of Directors Is Investigating Jensen Huang",
+    "Metadata": {
+      "score": "154",
+      "author": "vincentchau",
+      "commentCount": "118"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.3433654+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50416456"
+    },
+    "Type": 1,
+    "Title": "The Web Is More Than Enough, by Paul Ford",
+    "Url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+    "Description": "The Web Is More Than Enough, by Paul Ford",
+    "Metadata": {
+      "score": "6",
+      "author": "edward",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.3815269+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50413769"
+    },
+    "Type": 1,
+    "Title": "I\u0027m not a fan of Deno\u0027s security model (2024)",
+    "Url": "https://goldstein.lol/posts/deno-security/",
+    "Description": "I\u0027m not a fan of Deno\u0027s security model (2024)",
+    "Metadata": {
+      "score": "69",
+      "author": "maxloh",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.4195368+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50389923"
+    },
+    "Type": 1,
+    "Title": "The Reconstruction of Torn Documents",
+    "Url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
+    "Description": "The Reconstruction of Torn Documents",
+    "Metadata": {
+      "score": "77",
+      "author": "jacquesm",
+      "commentCount": "45"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.4577903+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50410107"
+    },
+    "Type": 1,
+    "Title": "Goodbye Claude, hello Pi",
+    "Url": "https://caleb.software/posts/claude-to-pi.html",
+    "Description": "Goodbye Claude, hello Pi",
+    "Metadata": {
+      "score": "635",
+      "author": "karagenit",
+      "commentCount": "408"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.4951878+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50366821"
+    },
+    "Type": 1,
+    "Title": "Porting Android 16 to my blind mother\u0027s keypad phone",
+    "Url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+    "Description": "Porting Android 16 to my blind mother\u0027s keypad phone",
+    "Metadata": {
+      "score": "126",
+      "author": "z1xus",
+      "commentCount": "40"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.5343655+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50415750"
+    },
+    "Type": 1,
+    "Title": "Playing Zork 1 on a CP/M emulator on Linux (2021)",
+    "Url": "https://kevinboone.me/cpmzork.html",
+    "Description": "Playing Zork 1 on a CP/M emulator on Linux (2021)",
+    "Metadata": {
+      "score": "17",
+      "author": "linuxkernal",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.5738763+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50415078"
+    },
+    "Type": 1,
+    "Title": "A field guide to CAPTCHA types and how they break",
+    "Url": "https://github.com/vsmutok/FuckCaptcha",
+    "Description": "A field guide to CAPTCHA types and how they break",
+    "Metadata": {
+      "score": "34",
+      "author": "vasylsmutok",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.6110813+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50406670"
+    },
+    "Type": 1,
+    "Title": "What I run on my $10 USD OpenStick homelab",
+    "Url": "https://blog.bosscher.ch/posts/openstick/",
+    "Description": "What I run on my $10 USD OpenStick homelab",
+    "Metadata": {
+      "score": "756",
+      "author": "LaurensBER",
+      "commentCount": "129"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.6483025+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50412830"
+    },
+    "Type": 1,
+    "Title": "How to prove equations using diagrams, part 1",
+    "Url": "https://www.epatters.org/post/e-graphs-1/",
+    "Description": "How to prove equations using diagrams, part 1",
+    "Metadata": {
+      "score": "52",
+      "author": "frostbyte7",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.686797+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50407882"
+    },
+    "Type": 1,
+    "Title": "Claude Code\u0027s \u0022Don\u0027t Ask Again\u0022 exposes passwords in 1,122 public GitHub files",
+    "Url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+    "Description": "Claude Code\u0027s \u0022Don\u0027t Ask Again\u0022 exposes passwords in 1,122 public GitHub files",
+    "Metadata": {
+      "score": "550",
+      "author": "shmulc",
+      "commentCount": "385"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.7255564+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50412072"
+    },
+    "Type": 1,
+    "Title": "JIT bitmap text rendering for microcontrollers",
+    "Url": "https://linebender.org/blog/jit-bitmap-text/",
+    "Description": "JIT bitmap text rendering for microcontrollers",
+    "Metadata": {
+      "score": "88",
+      "author": "dmit",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.7633699+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50411467"
+    },
+    "Type": 1,
+    "Title": "Agent memory needs its OpenTelemetry moment",
+    "Url": "https://www.lorekit.io/blog/open-agent-memory-format",
+    "Description": "Agent memory needs its OpenTelemetry moment",
+    "Metadata": {
+      "score": "158",
+      "author": "mthines",
+      "commentCount": "102"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.8013367+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50366902"
+    },
+    "Type": 1,
+    "Title": "Clj.rs \u2013 a Clojure dialect implemented in Rust",
+    "Url": "https://clj.rs/",
+    "Description": "Clj.rs \u2013 a Clojure dialect implemented in Rust",
+    "Metadata": {
+      "score": "152",
+      "author": "simonpure",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.8406726+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50416471"
+    },
+    "Type": 1,
+    "Title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+    "Url": "https://www.spacex.com/launches/starship-flight-15",
+    "Description": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+    "Metadata": {
+      "score": "33",
+      "author": "spikels",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.8768943+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50415281"
+    },
+    "Type": 1,
+    "Title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
+    "Url": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
+    "Description": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
+    "Metadata": {
+      "score": "74",
+      "author": "mgh2",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.9157135+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50415817"
+    },
+    "Type": 1,
+    "Title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren\u0027t Buying It",
+    "Url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+    "Description": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren\u0027t Buying It",
+    "Metadata": {
+      "score": "74",
+      "author": "zzzeek",
+      "commentCount": "80"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.9525748+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50412152"
+    },
+    "Type": 1,
+    "Title": "Petered",
+    "Url": "https://aworkinglibrary.com/writing/petered",
+    "Description": "Petered",
+    "Metadata": {
+      "score": "151",
+      "author": "adrianhoward",
+      "commentCount": "89"
+    },
+    "FetchedAt": "2026-11-08T21:30:58.9888272+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50358094"
+    },
+    "Type": 1,
+    "Title": "Tasfer: a text editor drawn on a 2D canvas",
+    "Url": "https://www.hamza.se/blog/tasfer",
+    "Description": "Tasfer: a text editor drawn on a 2D canvas",
+    "Metadata": {
+      "score": "82",
+      "author": "hamza512b",
+      "commentCount": "49"
+    },
+    "FetchedAt": "2026-11-08T21:30:59.0253383+00:00"
   }
 ]
