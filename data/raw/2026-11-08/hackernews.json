@@ -1,171 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:50406670"
-    },
-    "Type": 1,
-    "Title": "What I run on my $10 USD OpenStick homelab",
-    "Url": "https://blog.bosscher.ch/posts/openstick/",
-    "Description": "What I run on my $10 USD OpenStick homelab",
-    "Metadata": {
-      "score": "396",
-      "author": "LaurensBER",
-      "commentCount": "90"
-    },
-    "FetchedAt": "2026-11-08T03:41:20.5579043+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50407882"
-    },
-    "Type": 1,
-    "Title": "Claude Code\u0027s \u0022Don\u0027t Ask Again\u0022 exposes passwords in 1,122 public GitHub files",
-    "Url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-    "Description": "Claude Code\u0027s \u0022Don\u0027t Ask Again\u0022 exposes passwords in 1,122 public GitHub files",
-    "Metadata": {
-      "score": "227",
-      "author": "shmulc",
-      "commentCount": "149"
-    },
-    "FetchedAt": "2026-11-08T03:41:20.5913972+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50408713"
-    },
-    "Type": 1,
-    "Title": "Making any integer with four 2s (2025)",
-    "Url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-    "Description": "Making any integer with four 2s (2025)",
-    "Metadata": {
-      "score": "76",
-      "author": "germanrabbit",
-      "commentCount": "21"
-    },
-    "FetchedAt": "2026-11-08T03:41:20.6247561+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50377661"
-    },
-    "Type": 1,
-    "Title": "Uranium cubes reveal why the German nuclear project failed",
-    "Url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-    "Description": "Uranium cubes reveal why the German nuclear project failed",
-    "Metadata": {
-      "score": "84",
-      "author": "rbanffy",
-      "commentCount": "47"
-    },
-    "FetchedAt": "2026-11-08T03:41:20.6595704+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50403052"
-    },
-    "Type": 1,
-    "Title": "Need for Speed Underground 2 online in the browser",
-    "Url": "https://nfsu2.xyz/",
-    "Description": "Need for Speed Underground 2 online in the browser",
-    "Metadata": {
-      "score": "848",
-      "author": "fluxusars",
-      "commentCount": "231"
-    },
-    "FetchedAt": "2026-11-08T03:41:20.6909714+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50406292"
-    },
-    "Type": 1,
-    "Title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-    "Url": "https://github.com/hedgerow-dev/coldframe",
-    "Description": "I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake.\u003Cp\u003ETo learn more about this I built a honeypot that resembled perfectly the Danfoss AK-SM 800A and Dixell XWEB interfaces. Both of them are recognized on Shodan as real ones (an not as honeypots). It\u2019s one Python file using only the standard library, and it builds on e",
-    "Metadata": {
-      "score": "202",
-      "author": "hedgerow-dev",
-      "commentCount": "44"
-    },
-    "FetchedAt": "2026-11-08T03:41:20.8428064+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50406222"
-    },
-    "Type": 1,
-    "Title": "MaxxBench \u2013 \u0022Nice DeepSWE score. But is it true?\u0022",
-    "Url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-    "Description": "MaxxBench \u2013 \u0022Nice DeepSWE score. But is it true?\u0022",
-    "Metadata": {
-      "score": "222",
-      "author": "antiuniverse",
-      "commentCount": "67"
-    },
-    "FetchedAt": "2026-11-08T03:41:20.9306495+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50408931"
-    },
-    "Type": 1,
-    "Title": "GitHub New pull request overview page in public preview",
-    "Url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-    "Description": "GitHub New pull request overview page in public preview",
-    "Metadata": {
-      "score": "81",
-      "author": "xiaoyu2006",
-      "commentCount": "58"
-    },
-    "FetchedAt": "2026-11-08T03:41:20.9826821+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50351954"
-    },
-    "Type": 1,
-    "Title": "Amsterdam School",
-    "Url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
-    "Description": "Amsterdam School",
-    "Metadata": {
-      "score": "8",
-      "author": "bondarchuk",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-11-08T03:41:21.0797366+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50406563"
-    },
-    "Type": 1,
-    "Title": "The end of Microsoft Research\u0027s AI Frontiers group",
-    "Url": "https://hunch.net/?p=13764006",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;AaY5O\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;AaY5O\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;businessexaminer.ca\u0026#x2F;victoria-articles\u0026#x2F;item\u0026#x2F;microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;businessexaminer.ca\u0026#x2F;victoria-articles\u0026#x2F;item\u0026#x2F;microsoft...\u003C/a\u003E",
-    "Metadata": {
-      "score": "419",
-      "author": "srean",
-      "commentCount": "244"
-    },
-    "FetchedAt": "2026-11-08T03:41:21.1305852+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50403097"
-    },
-    "Type": 1,
-    "Title": "Every Mac comes with an (undocumented) family member classifier",
-    "Url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-    "Description": "Every Mac comes with an (undocumented) family member classifier",
-    "Metadata": {
-      "score": "629",
-      "author": "infwhispers",
-      "commentCount": "354"
-    },
-    "FetchedAt": "2026-11-08T03:41:21.1685813+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50358337"
     },
     "Type": 1,
@@ -178,36 +13,6 @@
       "commentCount": "6"
     },
     "FetchedAt": "2026-11-08T03:41:21.2155804+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50406111"
-    },
-    "Type": 1,
-    "Title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
-    "Url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-    "Description": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
-    "Metadata": {
-      "score": "394",
-      "author": "user_7832",
-      "commentCount": "261"
-    },
-    "FetchedAt": "2026-11-08T03:41:21.2728633+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50403507"
-    },
-    "Type": 1,
-    "Title": "Every Windows 11 app should kill Electron, and Discord just showed why",
-    "Url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
-    "Description": "Every Windows 11 app should kill Electron, and Discord just showed why",
-    "Metadata": {
-      "score": "241",
-      "author": "thunderbong",
-      "commentCount": "227"
-    },
-    "FetchedAt": "2026-11-08T03:41:21.3138715+00:00"
   },
   {
     "ExternalId": {
@@ -253,21 +58,6 @@
       "commentCount": "0"
     },
     "FetchedAt": "2026-11-08T03:41:21.4449487+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50404599"
-    },
-    "Type": 1,
-    "Title": "The $8 Linux Computer (2022)",
-    "Url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-    "Description": "The $8 Linux Computer (2022)",
-    "Metadata": {
-      "score": "207",
-      "author": "zenincognito",
-      "commentCount": "87"
-    },
-    "FetchedAt": "2026-11-08T03:41:21.4812352+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +238,455 @@
       "commentCount": "80"
     },
     "FetchedAt": "2026-11-08T03:41:21.8753939+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50412318"
+    },
+    "Type": 1,
+    "Title": "Person of Interest",
+    "Url": "https://krthr.co/person-of-interest/",
+    "Description": "Person of Interest",
+    "Metadata": {
+      "score": "69",
+      "author": "krthr",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-11-08T12:31:50.7015059+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50412152"
+    },
+    "Type": 1,
+    "Title": "Petered (what happens after the Peter Principle)",
+    "Url": "https://aworkinglibrary.com/writing/petered",
+    "Description": "Petered (what happens after the Peter Principle)",
+    "Metadata": {
+      "score": "35",
+      "author": "adrianhoward",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-11-08T12:31:50.7468888+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50410107"
+    },
+    "Type": 1,
+    "Title": "Goodbye Claude, Hello Pi",
+    "Url": "https://caleb.software/posts/claude-to-pi.html",
+    "Description": "Goodbye Claude, Hello Pi",
+    "Metadata": {
+      "score": "381",
+      "author": "karagenit",
+      "commentCount": "239"
+    },
+    "FetchedAt": "2026-11-08T12:31:50.7927129+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50411961"
+    },
+    "Type": 1,
+    "Title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+    "Url": "https://github.com/synchopate/llama-modchip",
+    "Description": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+    "Metadata": {
+      "score": "10",
+      "author": "joshcsimmons",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-11-08T12:31:50.8736739+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50366902"
+    },
+    "Type": 1,
+    "Title": "Clj.rs \u2013 a Clojure dialect implemented in Rust",
+    "Url": "https://clj.rs/",
+    "Description": "Clj.rs \u2013 a Clojure dialect implemented in Rust",
+    "Metadata": {
+      "score": "82",
+      "author": "simonpure",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-11-08T12:31:50.9212543+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50412072"
+    },
+    "Type": 1,
+    "Title": "JIT bitmap text rendering for microcontrollers",
+    "Url": "https://linebender.org/blog/jit-bitmap-text/",
+    "Description": "JIT bitmap text rendering for microcontrollers",
+    "Metadata": {
+      "score": "16",
+      "author": "dmit",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-11-08T12:31:50.9680936+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50411467"
+    },
+    "Type": 1,
+    "Title": "Agent memory needs its OpenTelemetry moment",
+    "Url": "https://www.lorekit.io/blog/open-agent-memory-format",
+    "Description": "Agent memory needs its OpenTelemetry moment",
+    "Metadata": {
+      "score": "65",
+      "author": "mthines",
+      "commentCount": "61"
+    },
+    "FetchedAt": "2026-11-08T12:31:51.0136825+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50406670"
+    },
+    "Type": 1,
+    "Title": "What I run on my $10 USD OpenStick homelab",
+    "Url": "https://blog.bosscher.ch/posts/openstick/",
+    "Description": "What I run on my $10 USD OpenStick homelab",
+    "Metadata": {
+      "score": "625",
+      "author": "LaurensBER",
+      "commentCount": "115"
+    },
+    "FetchedAt": "2026-11-08T12:31:51.0593058+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50407882"
+    },
+    "Type": 1,
+    "Title": "Claude Code\u0027s \u0022Don\u0027t Ask Again\u0022 exposes passwords in 1,122 public GitHub files",
+    "Url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+    "Description": "Claude Code\u0027s \u0022Don\u0027t Ask Again\u0022 exposes passwords in 1,122 public GitHub files",
+    "Metadata": {
+      "score": "439",
+      "author": "shmulc",
+      "commentCount": "299"
+    },
+    "FetchedAt": "2026-11-08T12:31:51.1071987+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50378974"
+    },
+    "Type": 1,
+    "Title": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making",
+    "Url": "https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/",
+    "Description": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making",
+    "Metadata": {
+      "score": "33",
+      "author": "speckx",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-11-08T12:31:51.1545169+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50371360"
+    },
+    "Type": 1,
+    "Title": "New typeface using intricate designs from Shakespeare\u0027s First Folio (2023)",
+    "Url": "https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323",
+    "Description": "New typeface using intricate designs from Shakespeare\u0027s First Folio (2023)",
+    "Metadata": {
+      "score": "18",
+      "author": "bryanrasmussen",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-11-08T12:31:51.202596+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50387381"
+    },
+    "Type": 1,
+    "Title": "Earliest evidence of cannabis use found in ancient Siberian tomb",
+    "Url": "https://www.cnn.com/2026/11/05/science/ancient-cannabis-siberia-scli-intl",
+    "Description": "Earliest evidence of cannabis use found in ancient Siberian tomb",
+    "Metadata": {
+      "score": "12",
+      "author": "mooreds",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-11-08T12:31:51.2475801+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50403052"
+    },
+    "Type": 1,
+    "Title": "Need for Speed Underground 2 online in the browser",
+    "Url": "https://nfsu2.xyz/",
+    "Description": "Need for Speed Underground 2 online in the browser",
+    "Metadata": {
+      "score": "1021",
+      "author": "fluxusars",
+      "commentCount": "254"
+    },
+    "FetchedAt": "2026-11-08T12:31:51.2937606+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50408713"
+    },
+    "Type": 1,
+    "Title": "Making any integer with four 2s (2025)",
+    "Url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+    "Description": "Making any integer with four 2s (2025)",
+    "Metadata": {
+      "score": "156",
+      "author": "germanrabbit",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-11-08T12:31:51.3382644+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50409856"
+    },
+    "Type": 1,
+    "Title": "Consumer brain wave headsets threaten privacy",
+    "Url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+    "Description": "Consumer brain wave headsets threaten privacy",
+    "Metadata": {
+      "score": "70",
+      "author": "maxall4",
+      "commentCount": "36"
+    },
+    "FetchedAt": "2026-11-08T12:31:51.3854204+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50410249"
+    },
+    "Type": 1,
+    "Title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+    "Url": "https://github.com/dmunozv04/isponsorblocktv",
+    "Description": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+    "Metadata": {
+      "score": "61",
+      "author": "xnx",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-11-08T12:31:51.4328888+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50411083"
+    },
+    "Type": 1,
+    "Title": "WaveDudeNext 2D Wave Simulator",
+    "Url": "https://github.com/graealex/WaveDudeNext",
+    "Description": "WaveDudeNext 2D Wave Simulator",
+    "Metadata": {
+      "score": "26",
+      "author": "sweetdingoes",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-11-08T12:31:51.4775024+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50403097"
+    },
+    "Type": 1,
+    "Title": "Every Mac comes with an (undocumented) family member classifier",
+    "Url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+    "Description": "Every Mac comes with an (undocumented) family member classifier",
+    "Metadata": {
+      "score": "753",
+      "author": "infwhispers",
+      "commentCount": "405"
+    },
+    "FetchedAt": "2026-11-08T12:31:51.5241828+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50410359"
+    },
+    "Type": 1,
+    "Title": "Kirlian Photography: Building Your Own Equipment",
+    "Url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+    "Description": "Kirlian Photography: Building Your Own Equipment",
+    "Metadata": {
+      "score": "54",
+      "author": "joebig",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-11-08T12:31:51.5710461+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50406222"
+    },
+    "Type": 1,
+    "Title": "MaxxBench \u2013 \u0022Nice DeepSWE score. But is it true?\u0022",
+    "Url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+    "Description": "MaxxBench \u2013 \u0022Nice DeepSWE score. But is it true?\u0022",
+    "Metadata": {
+      "score": "333",
+      "author": "antiuniverse",
+      "commentCount": "87"
+    },
+    "FetchedAt": "2026-11-08T12:31:51.6187014+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50377661"
+    },
+    "Type": 1,
+    "Title": "Uranium cubes reveal why the German nuclear project failed",
+    "Url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+    "Description": "Uranium cubes reveal why the German nuclear project failed",
+    "Metadata": {
+      "score": "151",
+      "author": "rbanffy",
+      "commentCount": "100"
+    },
+    "FetchedAt": "2026-11-08T12:31:51.6655617+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50403507"
+    },
+    "Type": 1,
+    "Title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+    "Url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+    "Description": "Every Windows 11 app should kill Electron, and Discord just showed why",
+    "Metadata": {
+      "score": "355",
+      "author": "thunderbong",
+      "commentCount": "345"
+    },
+    "FetchedAt": "2026-11-08T12:31:51.7117729+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50408931"
+    },
+    "Type": 1,
+    "Title": "GitHub New pull request overview page in public preview",
+    "Url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+    "Description": "GitHub New pull request overview page in public preview",
+    "Metadata": {
+      "score": "150",
+      "author": "xiaoyu2006",
+      "commentCount": "101"
+    },
+    "FetchedAt": "2026-11-08T12:31:51.7583465+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50380051"
+    },
+    "Type": 1,
+    "Title": "Mizu \u2013 zero-copy parallel R and Python over shared memory",
+    "Url": "https://github.com/shikokuchuo/pymizu",
+    "Description": "Mizu \u2013 zero-copy parallel R and Python over shared memory",
+    "Metadata": {
+      "score": "28",
+      "author": "cscheid",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-11-08T12:31:51.8043059+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50406292"
+    },
+    "Type": 1,
+    "Title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+    "Url": "https://github.com/hedgerow-dev/coldframe",
+    "Description": "I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake.\u003Cp\u003ETo learn more about this I built a honeypot that resembled perfectly the Danfoss AK-SM 800A and Dixell XWEB interfaces. Both of them are recognized on Shodan as real ones (an not as honeypots). It\u2019s one Python file using only the standard library, and it builds on e",
+    "Metadata": {
+      "score": "251",
+      "author": "hedgerow-dev",
+      "commentCount": "61"
+    },
+    "FetchedAt": "2026-11-08T12:31:51.8522296+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50351954"
+    },
+    "Type": 1,
+    "Title": "Amsterdam School",
+    "Url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
+    "Description": "Amsterdam School",
+    "Metadata": {
+      "score": "48",
+      "author": "bondarchuk",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-11-08T12:31:51.8988364+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50411818"
+    },
+    "Type": 1,
+    "Title": "GitHub Down Again?",
+    "Url": "https://github.com/torvalds/linux",
+    "Description": "GitHub Down Again?",
+    "Metadata": {
+      "score": "106",
+      "author": "ridowk",
+      "commentCount": "101"
+    },
+    "FetchedAt": "2026-11-08T12:31:51.9451724+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50406563"
+    },
+    "Type": 1,
+    "Title": "The end of Microsoft Research\u0027s AI Frontiers group",
+    "Url": "https://hunch.net/?p=13764006",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;AaY5O\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;archive.is\u0026#x2F;AaY5O\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;businessexaminer.ca\u0026#x2F;victoria-articles\u0026#x2F;item\u0026#x2F;microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;businessexaminer.ca\u0026#x2F;victoria-articles\u0026#x2F;item\u0026#x2F;microsoft...\u003C/a\u003E",
+    "Metadata": {
+      "score": "468",
+      "author": "srean",
+      "commentCount": "281"
+    },
+    "FetchedAt": "2026-11-08T12:31:51.9914971+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50406111"
+    },
+    "Type": 1,
+    "Title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
+    "Url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+    "Description": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
+    "Metadata": {
+      "score": "478",
+      "author": "user_7832",
+      "commentCount": "302"
+    },
+    "FetchedAt": "2026-11-08T12:31:52.0391192+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50404599"
+    },
+    "Type": 1,
+    "Title": "The $8 Linux Computer (2022)",
+    "Url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+    "Description": "The $8 Linux Computer (2022)",
+    "Metadata": {
+      "score": "244",
+      "author": "zenincognito",
+      "commentCount": "94"
+    },
+    "FetchedAt": "2026-11-08T12:31:52.085235+00:00"
   }
 ]
