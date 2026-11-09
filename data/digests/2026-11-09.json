@@ -1,0 +1,578 @@
+{
+  "Id": "2026-11-09",
+  "GeneratedAt": "2026-11-09T04:58:10.0553291+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:sherlock-project/sherlock"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hunt down social media accounts by username across social networks"
+      },
+      "Description": "Hunt down social media accounts by username across social networks",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:dsx-ai-factory/nvke"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal."
+      },
+      "Description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:anthropics/claude-quickstarts"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A collection of projects designed to help developers quickly get started with building deployable applications using the"
+      },
+      "Description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:vercel-labs/agent-browser"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Browser automation CLI for AI agents"
+      },
+      "Description": "Browser automation CLI for AI agents",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:meta/astryx"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "An open source design system that\u0027s fully customizable and agent ready"
+      },
+      "Description": "An open source design system that\u0027s fully customizable and agent ready",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:anthropics/skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Public repository for Agent Skills"
+      },
+      "Description": "Public repository for Agent Skills",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:google-deepmind/mujoco"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
+      },
+      "Description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:ranxianglei/billion-context"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context "
+      },
+      "Description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50418176"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU"
+      },
+      "Description": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50419215"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Unlocking any car from X brand in most of the world"
+      },
+      "Description": "Unlocking any car from X brand in most of the world",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50420035"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "RIP, Harvest"
+      },
+      "Description": "RIP, Harvest",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50418182"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Chimera Vocal Synth"
+      },
+      "Description": "Chimera Vocal Synth",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50416158"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC"
+      },
+      "Description": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50368481"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Declarative Dragging"
+      },
+      "Description": "Declarative Dragging",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50416053"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Dux: Free, open-source Wayland desktop shell with file manager and theming"
+      },
+      "Description": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50417407"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "What are you working on? What have you been curious about lately?"
+      },
+      "Description": "What are you working on? What have you been curious about lately?",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50401844"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Over the past year, I have been working to find a better way to write cross-platform apps.\u003Cp\u003EThe problems I am trying to"
+      },
+      "Description": "Over the past year, I have been working to find a better way to write cross-platform apps.\u003Cp\u003EThe problems I am trying to solve:\u003Cp\u003E- Native frameworks ",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50420383"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A Bit about Email"
+      },
+      "Description": "A Bit about Email",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50418818"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Herb Sutter: When a language\u0027s creator and its owners strongly disagree [pdf]"
+      },
+      "Description": "Herb Sutter: When a language\u0027s creator and its owners strongly disagree [pdf]",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50420599"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Qlobe: Rotating Quine (2010)"
+      },
+      "Description": "The Qlobe: Rotating Quine (2010)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50403153"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hi Guys,\nlike many of you I work with AI agents every day and across several clients.\nThe major time cost for me is to r"
+      },
+      "Description": "Hi Guys,\nlike many of you I work with AI agents every day and across several clients.\nThe major time cost for me is to re-explaining context and past ",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50416456"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Web Is More Than Enough, by Paul Ford"
+      },
+      "Description": "The Web Is More Than Enough, by Paul Ford",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50415628"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Goldman Sachs is pulling Claude Code from its bankers and traders"
+      },
+      "Description": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50360369"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Taco: The Tensor Algebra Compiler"
+      },
+      "Description": "Taco: The Tensor Algebra Compiler",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50411961"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU"
+      },
+      "Description": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50412067"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Writing as a thinking tool"
+      },
+      "Description": "Writing as a thinking tool",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50353814"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The History of Djgpp (1998)"
+      },
+      "Description": "The History of Djgpp (1998)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50405043"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics"
+      },
+      "Description": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50416014"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Playing with the STM32MP2"
+      },
+      "Description": "Playing with the STM32MP2",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50416363"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How I Fight AI Brain Fry"
+      },
+      "Description": "How I Fight AI Brain Fry",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50410107"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Goodbye Claude, hello Pi"
+      },
+      "Description": "Goodbye Claude, hello Pi",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50362963"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Show HN: Vegetable Gardening for Engineers"
+      },
+      "Description": "Show HN: Vegetable Gardening for Engineers",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50412072"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "JIT bitmap text rendering for microcontrollers"
+      },
+      "Description": "JIT bitmap text rendering for microcontrollers",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50413769"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I\u0027m not a fan of Deno\u0027s security model (2024)"
+      },
+      "Description": "I\u0027m not a fan of Deno\u0027s security model (2024)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50372838"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Edward Hopper\u0027s Iconic Painting, \u0022Nighthawks"
+      },
+      "Description": "Edward Hopper\u0027s Iconic Painting, \u0022Nighthawks",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50415135"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A Little Snitch for Windows"
+      },
+      "Description": "A Little Snitch for Windows",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50407882"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Claude Code\u0027s \u0022Don\u0027t Ask Again\u0022 exposes passwords in 1,122 public GitHub files"
+      },
+      "Description": "Claude Code\u0027s \u0022Don\u0027t Ask Again\u0022 exposes passwords in 1,122 public GitHub files",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50408630"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Are big problems more difficult to solve?"
+      },
+      "Description": "Are big problems more difficult to solve?",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 38 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
