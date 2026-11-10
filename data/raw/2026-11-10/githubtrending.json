@@ -1,89 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:anthropics/skills"
-    },
-    "Type": 0,
-    "Title": "anthropics/skills",
-    "Url": "https://github.com/anthropics/skills",
-    "Description": "Public repository for Agent Skills",
-    "Metadata": {
-      "owner": "anthropics",
-      "repo": "skills",
-      "language": "Python",
-      "stars": "1,038",
-      "topics": "agent-skills"
-    },
-    "FetchedAt": "2026-11-10T01:00:48.1321979+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:meta/astryx"
-    },
-    "Type": 0,
-    "Title": "meta/astryx",
-    "Url": "https://github.com/meta/astryx",
-    "Description": "An open source design system that\u0027s fully customizable and agent ready",
-    "Metadata": {
-      "owner": "meta",
-      "repo": "astryx",
-      "language": "TypeScript",
-      "stars": "3,278"
-    },
-    "FetchedAt": "2026-11-10T01:00:48.3783973+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:sherlock-project/sherlock"
-    },
-    "Type": 0,
-    "Title": "sherlock-project/sherlock",
-    "Url": "https://github.com/sherlock-project/sherlock",
-    "Description": "Hunt down social media accounts by username across social networks",
-    "Metadata": {
-      "owner": "sherlock-project",
-      "repo": "sherlock",
-      "language": "Python",
-      "stars": "4,267",
-      "topics": "cli, cti, cybersecurity, forensics, hacktoberfest, information-gathering, infosec, linux, osint, pentesting, python, python3, reconnaissance, redteam, sherlock, tools"
-    },
-    "FetchedAt": "2026-11-10T01:00:48.5794261+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:google-deepmind/mujoco"
-    },
-    "Type": 0,
-    "Title": "google-deepmind/mujoco",
-    "Url": "https://github.com/google-deepmind/mujoco",
-    "Description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-    "Metadata": {
-      "owner": "google-deepmind",
-      "repo": "mujoco",
-      "language": "C\u002B\u002B",
-      "stars": "574",
-      "topics": "mujoco, physics, robotics"
-    },
-    "FetchedAt": "2026-11-10T01:00:48.8097873+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:anthropics/claude-quickstarts"
-    },
-    "Type": 0,
-    "Title": "anthropics/claude-quickstarts",
-    "Url": "https://github.com/anthropics/claude-quickstarts",
-    "Description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-    "Metadata": {
-      "owner": "anthropics",
-      "repo": "claude-quickstarts",
-      "language": "Python",
-      "stars": "551"
-    },
-    "FetchedAt": "2026-11-10T01:00:49.0133808+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:garrytan/gbrain"
     },
     "Type": 0,
@@ -97,22 +14,6 @@
       "stars": "216"
     },
     "FetchedAt": "2026-11-10T01:00:49.2060632+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:vercel-labs/agent-browser"
-    },
-    "Type": 0,
-    "Title": "vercel-labs/agent-browser",
-    "Url": "https://github.com/vercel-labs/agent-browser",
-    "Description": "Browser automation CLI for AI agents",
-    "Metadata": {
-      "owner": "vercel-labs",
-      "repo": "agent-browser",
-      "language": "Rust",
-      "stars": "916"
-    },
-    "FetchedAt": "2026-11-10T01:00:49.3959702+00:00"
   },
   {
     "ExternalId": {
@@ -150,6 +51,105 @@
   },
   {
     "ExternalId": {
+      "Value": "github:meta/astryx"
+    },
+    "Type": 0,
+    "Title": "meta/astryx",
+    "Url": "https://github.com/meta/astryx",
+    "Description": "An open source design system that\u0027s fully customizable and agent ready",
+    "Metadata": {
+      "owner": "meta",
+      "repo": "astryx",
+      "language": "TypeScript",
+      "stars": "3,111"
+    },
+    "FetchedAt": "2026-11-10T14:01:20.9138749+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/skills"
+    },
+    "Type": 0,
+    "Title": "anthropics/skills",
+    "Url": "https://github.com/anthropics/skills",
+    "Description": "Public repository for Agent Skills",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "skills",
+      "language": "Python",
+      "stars": "1,676",
+      "topics": "agent-skills"
+    },
+    "FetchedAt": "2026-11-10T14:01:21.1303225+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "JavaScript",
+      "stars": "465",
+      "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
+    },
+    "FetchedAt": "2026-11-10T14:01:21.3467538+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-quickstarts"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-quickstarts",
+    "Url": "https://github.com/anthropics/claude-quickstarts",
+    "Description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-quickstarts",
+      "language": "Python",
+      "stars": "530"
+    },
+    "FetchedAt": "2026-11-10T14:01:21.5344318+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google-deepmind/mujoco"
+    },
+    "Type": 0,
+    "Title": "google-deepmind/mujoco",
+    "Url": "https://github.com/google-deepmind/mujoco",
+    "Description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "Metadata": {
+      "owner": "google-deepmind",
+      "repo": "mujoco",
+      "language": "C\u002B\u002B",
+      "stars": "453",
+      "topics": "mujoco, physics, robotics"
+    },
+    "FetchedAt": "2026-11-10T14:01:21.7693435+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:we-promise/sure"
+    },
+    "Type": 0,
+    "Title": "we-promise/sure",
+    "Url": "https://github.com/we-promise/sure",
+    "Description": "The personal finance app for everyone (by everyone)",
+    "Metadata": {
+      "owner": "we-promise",
+      "repo": "sure",
+      "language": "Ruby",
+      "stars": "184"
+    },
+    "FetchedAt": "2026-11-10T14:01:21.9444104+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:homeassistant-ai/ha-mcp"
     },
     "Type": 0,
@@ -160,9 +160,59 @@
       "owner": "homeassistant-ai",
       "repo": "ha-mcp",
       "language": "Python",
-      "stars": "31",
+      "stars": "792",
       "topics": "ai, claude, hacs, home-assistant, home-automation, llm, mcp, model-context-protocol"
     },
-    "FetchedAt": "2026-11-10T01:00:50.0193552+00:00"
+    "FetchedAt": "2026-11-10T14:01:22.2157946+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:vercel-labs/agent-browser"
+    },
+    "Type": 0,
+    "Title": "vercel-labs/agent-browser",
+    "Url": "https://github.com/vercel-labs/agent-browser",
+    "Description": "Browser automation CLI for AI agents",
+    "Metadata": {
+      "owner": "vercel-labs",
+      "repo": "agent-browser",
+      "language": "Rust",
+      "stars": "775"
+    },
+    "FetchedAt": "2026-11-10T14:01:22.4353264+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:sherlock-project/sherlock"
+    },
+    "Type": 0,
+    "Title": "sherlock-project/sherlock",
+    "Url": "https://github.com/sherlock-project/sherlock",
+    "Description": "Hunt down social media accounts by username across social networks",
+    "Metadata": {
+      "owner": "sherlock-project",
+      "repo": "sherlock",
+      "language": "Python",
+      "stars": "2,387",
+      "topics": "cli, cti, cybersecurity, forensics, hacktoberfest, information-gathering, infosec, linux, osint, pentesting, python, python3, reconnaissance, redteam, sherlock, tools"
+    },
+    "FetchedAt": "2026-11-10T14:01:22.6063974+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ranxianglei/billion-context"
+    },
+    "Type": 0,
+    "Title": "ranxianglei/billion-context",
+    "Url": "https://github.com/ranxianglei/billion-context",
+    "Description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .\u4E0A\u4E0B\u6587\u538B\u7F29\u63D2\u4EF6\uFF0C\u6708\u7EA7\u957F\u4F1A\u8BDD\u4F1A\u8BDD\uFF0C \u517C\u987E\u5C0F\u7A97\u53E3(100k\u4E0A\u4E0B\u6587\u8DB3\u77E3)\u7701token(\u77015\u500Dtoken) . billion-context is all you need",
+    "Metadata": {
+      "owner": "ranxianglei",
+      "repo": "billion-context",
+      "language": "TypeScript",
+      "stars": "374",
+      "topics": "dsh-plugin"
+    },
+    "FetchedAt": "2026-11-10T14:01:22.7707688+00:00"
   }
 ]

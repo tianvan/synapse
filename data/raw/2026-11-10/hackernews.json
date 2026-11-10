@@ -16,21 +16,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50431058"
-    },
-    "Type": 1,
-    "Title": "USPS now offers official ZIP Code boundary polygons",
-    "Url": "https://postalpro.usps.com/zcb",
-    "Description": "USPS now offers official ZIP Code boundary polygons",
-    "Metadata": {
-      "score": "439",
-      "author": "munro",
-      "commentCount": "217"
-    },
-    "FetchedAt": "2026-11-10T01:00:50.7294527+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50432831"
     },
     "Type": 1,
@@ -76,36 +61,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50427362"
-    },
-    "Type": 1,
-    "Title": "Payments Canada announces launch of Canada\u0027s Real-Time Rail (RTR) payment system",
-    "Url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-    "Description": "Payments Canada announces launch of Canada\u0027s Real-Time Rail (RTR) payment system",
-    "Metadata": {
-      "score": "452",
-      "author": "ocd",
-      "commentCount": "256"
-    },
-    "FetchedAt": "2026-11-10T01:00:50.9319475+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50429734"
-    },
-    "Type": 1,
-    "Title": "E-means: Outperforming k-means in one-tenth the epochs",
-    "Url": "https://e-means.github.io/",
-    "Description": "E-means: Outperforming k-means in one-tenth the epochs",
-    "Metadata": {
-      "score": "258",
-      "author": "porridgeraisin",
-      "commentCount": "17"
-    },
-    "FetchedAt": "2026-11-10T01:00:50.9804894+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50431144"
     },
     "Type": 1,
@@ -121,21 +76,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50424581"
-    },
-    "Type": 1,
-    "Title": "Foldable Flight: The Best Paper Airplanes",
-    "Url": "https://www.foldableflight.com",
-    "Description": "Foldable Flight: The Best Paper Airplanes",
-    "Metadata": {
-      "score": "837",
-      "author": "vismit2000",
-      "commentCount": "134"
-    },
-    "FetchedAt": "2026-11-10T01:00:51.0781693+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50429024"
     },
     "Type": 1,
@@ -148,21 +88,6 @@
       "commentCount": "98"
     },
     "FetchedAt": "2026-11-10T01:00:51.1266849+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50434264"
-    },
-    "Type": 1,
-    "Title": "Horible public key tricks",
-    "Url": "https://maurycyz.com/projects/badcert/",
-    "Description": "Horible public key tricks",
-    "Metadata": {
-      "score": "6",
-      "author": "Curiositry",
-      "commentCount": "1"
-    },
-    "FetchedAt": "2026-11-10T01:00:51.1761659+00:00"
   },
   {
     "ExternalId": {
@@ -196,36 +121,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50426175"
-    },
-    "Type": 1,
-    "Title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
-    "Url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.cell.com\u0026#x2F;cell-reports-physical-science\u0026#x2F;fulltext\u0026#x2F;S2666-3864(26)00461-3\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.cell.com\u0026#x2F;cell-reports-physical-science\u0026#x2F;fulltext\u0026#x2F;...\u003C/a\u003E",
-    "Metadata": {
-      "score": "269",
-      "author": "speckx",
-      "commentCount": "168"
-    },
-    "FetchedAt": "2026-11-10T01:00:51.3379496+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50386246"
-    },
-    "Type": 1,
-    "Title": "A primer on GPUs and kernel optimization",
-    "Url": "https://www.nabo.dev/blogs/kernel-primer",
-    "Description": "A primer on GPUs and kernel optimization",
-    "Metadata": {
-      "score": "84",
-      "author": "nomi_uw",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-11-10T01:00:51.3866481+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50422069"
     },
     "Type": 1,
@@ -238,21 +133,6 @@
       "commentCount": "472"
     },
     "FetchedAt": "2026-11-10T01:00:51.4364156+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50428907"
-    },
-    "Type": 1,
-    "Title": "Show HN: Every satellite that passed over any place this week, and its photos",
-    "Url": "https://www.watched.earth",
-    "Description": "hey HN, i built this because i wanted to know what had actually photographed my street.\u003Cp\u003Etype in any place and it finds every satellite that passed over it in the last 7 days (SGP4 on the CelesTrak catalog, runs in your browser in about half a second), then pulls the real Sentinel-2 \u0026#x2F; Landsat \u0026#x2F; NASA images from those passes.\u003Cp\u003Esome fun bits:\n- the pass search can\u0026#x27;t skip a pass. checked it against a brute force on poles, the antimeridian and tiny swaths: 0 missed\n- all ~17k object",
-    "Metadata": {
-      "score": "216",
-      "author": "a585gupt",
-      "commentCount": "42"
-    },
-    "FetchedAt": "2026-11-10T01:00:51.4858544+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +328,455 @@
       "commentCount": "13"
     },
     "FetchedAt": "2026-11-10T01:00:52.1591089+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50439193"
+    },
+    "Type": 1,
+    "Title": "AlphaProof Code",
+    "Url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "Description": "AlphaProof Code",
+    "Metadata": {
+      "score": "188",
+      "author": "ilreb",
+      "commentCount": "81"
+    },
+    "FetchedAt": "2026-11-10T14:01:23.2463116+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50439695"
+    },
+    "Type": 1,
+    "Title": "Ableton Live 13",
+    "Url": "https://www.ableton.com/en/live/",
+    "Description": "Ableton Live 13",
+    "Metadata": {
+      "score": "55",
+      "author": "phaser",
+      "commentCount": "49"
+    },
+    "FetchedAt": "2026-11-10T14:01:23.2769214+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50440359"
+    },
+    "Type": 1,
+    "Title": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
+    "Url": "https://neuracryption.com/research",
+    "Description": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
+    "Metadata": {
+      "score": "9",
+      "author": "anushka_gandhi",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-11-10T14:01:23.3076684+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50436640"
+    },
+    "Type": 1,
+    "Title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+    "Url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+    "Description": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+    "Metadata": {
+      "score": "444",
+      "author": "aloukissas",
+      "commentCount": "157"
+    },
+    "FetchedAt": "2026-11-10T14:01:23.3390732+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50439000"
+    },
+    "Type": 1,
+    "Title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
+    "Url": "https://github.com/HolyArrs/HolyArrs",
+    "Description": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
+    "Metadata": {
+      "score": "55",
+      "author": "CoderLuii",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-11-10T14:01:23.3700719+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50429068"
+    },
+    "Type": 1,
+    "Title": "Claude Fable 5.2 and Mythos 5.2",
+    "Url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "Description": "Claude Fable 5.2 and Mythos 5.2",
+    "Metadata": {
+      "score": "706",
+      "author": "lairv",
+      "commentCount": "875"
+    },
+    "FetchedAt": "2026-11-10T14:01:23.4003651+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50439805"
+    },
+    "Type": 1,
+    "Title": "Don\u0027t buy AR glasses",
+    "Url": "https://blog.yaros.ae/dont-buy-ar-glasses/",
+    "Description": "Don\u0027t buy AR glasses",
+    "Metadata": {
+      "score": "51",
+      "author": "Bluestein",
+      "commentCount": "42"
+    },
+    "FetchedAt": "2026-11-10T14:01:23.4318751+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50431058"
+    },
+    "Type": 1,
+    "Title": "USPS now offers official ZIP Code boundary polygons",
+    "Url": "https://postalpro.usps.com/zcb",
+    "Description": "USPS now offers official ZIP Code boundary polygons",
+    "Metadata": {
+      "score": "665",
+      "author": "munro",
+      "commentCount": "338"
+    },
+    "FetchedAt": "2026-11-10T14:01:23.4633253+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50437752"
+    },
+    "Type": 1,
+    "Title": "Fossil CO2 emissions decrease by 0.4% in 2026",
+    "Url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
+    "Description": "Fossil CO2 emissions decrease by 0.4% in 2026",
+    "Metadata": {
+      "score": "89",
+      "author": "giuliomagnifico",
+      "commentCount": "83"
+    },
+    "FetchedAt": "2026-11-10T14:01:23.4940914+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50437790"
+    },
+    "Type": 1,
+    "Title": "Queens Public library under ransomware attack e-borrowing suspended",
+    "Url": "https://connect.queenslibrary.org/",
+    "Description": "Queens Public library under ransomware attack e-borrowing suspended",
+    "Metadata": {
+      "score": "78",
+      "author": "rustyhancock",
+      "commentCount": "60"
+    },
+    "FetchedAt": "2026-11-10T14:01:23.5241922+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50436410"
+    },
+    "Type": 1,
+    "Title": "Your TV can see through walls",
+    "Url": "https://maurycyz.com/projects/fading/",
+    "Description": "Your TV can see through walls",
+    "Metadata": {
+      "score": "188",
+      "author": "Curiositry",
+      "commentCount": "75"
+    },
+    "FetchedAt": "2026-11-10T14:01:23.5554+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50410329"
+    },
+    "Type": 1,
+    "Title": "Simon Winchester, Author of \u0027The Professor and the Madman,\u0027 Has Died",
+    "Url": "https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html",
+    "Description": "Simon Winchester, Author of \u0027The Professor and the Madman,\u0027 Has Died",
+    "Metadata": {
+      "score": "13",
+      "author": "benbreen",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-11-10T14:01:23.5859159+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50414117"
+    },
+    "Type": 1,
+    "Title": "Show HN: Ghanaian street games you can play in the browser",
+    "Url": "https://www.ghanastreetgames.com/",
+    "Description": "Show HN: Ghanaian street games you can play in the browser",
+    "Metadata": {
+      "score": "32",
+      "author": "samuelaidoo45",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-11-10T14:01:23.617222+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50437106"
+    },
+    "Type": 1,
+    "Title": "Fireworks AI security breach impacts Notion and their customers",
+    "Url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+    "Description": "Fireworks AI security breach impacts Notion and their customers",
+    "Metadata": {
+      "score": "89",
+      "author": "werrett",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-11-10T14:01:23.6481972+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50408336"
+    },
+    "Type": 1,
+    "Title": "Billion Watts in the Speaker [video]",
+    "Url": "https://www.youtube.com/watch?v=PHOcTXYaMfg",
+    "Description": "Billion Watts in the Speaker [video]",
+    "Metadata": {
+      "score": "47",
+      "author": "Element_",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-11-10T14:01:23.6797163+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50434310"
+    },
+    "Type": 1,
+    "Title": "Locating the source of a mysterious beep",
+    "Url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+    "Description": "Locating the source of a mysterious beep",
+    "Metadata": {
+      "score": "241",
+      "author": "bigwheels",
+      "commentCount": "125"
+    },
+    "FetchedAt": "2026-11-10T14:01:23.7107349+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50424581"
+    },
+    "Type": 1,
+    "Title": "Foldable Flight: The Best Paper Airplanes",
+    "Url": "https://www.foldableflight.com",
+    "Description": "Foldable Flight: The Best Paper Airplanes",
+    "Metadata": {
+      "score": "1098",
+      "author": "vismit2000",
+      "commentCount": "153"
+    },
+    "FetchedAt": "2026-11-10T14:01:23.7413964+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50392733"
+    },
+    "Type": 1,
+    "Title": "How hard is it to check for whitespace?",
+    "Url": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
+    "Description": "How hard is it to check for whitespace?",
+    "Metadata": {
+      "score": "67",
+      "author": "theanonymousone",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-11-10T14:01:23.7739557+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50427362"
+    },
+    "Type": 1,
+    "Title": "Payments Canada announces launch of Canada\u0027s Real-Time Rail (RTR) payment system",
+    "Url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+    "Description": "Payments Canada announces launch of Canada\u0027s Real-Time Rail (RTR) payment system",
+    "Metadata": {
+      "score": "554",
+      "author": "ocd",
+      "commentCount": "316"
+    },
+    "FetchedAt": "2026-11-10T14:01:23.8053715+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50429734"
+    },
+    "Type": 1,
+    "Title": "E-means: Outperforming k-means in one-tenth the epochs",
+    "Url": "https://e-means.github.io/",
+    "Description": "E-means: Outperforming k-means in one-tenth the epochs",
+    "Metadata": {
+      "score": "435",
+      "author": "porridgeraisin",
+      "commentCount": "54"
+    },
+    "FetchedAt": "2026-11-10T14:01:23.8363941+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50438377"
+    },
+    "Type": 1,
+    "Title": "\u0027C:\\\u003E FORMAT C:\u0027 \u2013 relax, it\u0027s just a screen saver",
+    "Url": "https://fakedos.com/",
+    "Description": "\u0027C:\\\u003E FORMAT C:\u0027 \u2013 relax, it\u0027s just a screen saver",
+    "Metadata": {
+      "score": "26",
+      "author": "TheIncredibleCh",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-11-10T14:01:23.8663455+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50435898"
+    },
+    "Type": 1,
+    "Title": "Ultorg: The User Interface for Relational Databases",
+    "Url": "https://www.ultorg.com/",
+    "Description": "Ultorg: The User Interface for Relational Databases",
+    "Metadata": {
+      "score": "104",
+      "author": "Ivoah",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-11-10T14:01:23.8967519+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50434264"
+    },
+    "Type": 1,
+    "Title": "Horible public key tricks",
+    "Url": "https://maurycyz.com/projects/badcert/",
+    "Description": "Horible public key tricks",
+    "Metadata": {
+      "score": "197",
+      "author": "Curiositry",
+      "commentCount": "63"
+    },
+    "FetchedAt": "2026-11-10T14:01:23.927479+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50438480"
+    },
+    "Type": 1,
+    "Title": "What Constant Surveillance Is Doing to Children",
+    "Url": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
+    "Description": "What Constant Surveillance Is Doing to Children",
+    "Metadata": {
+      "score": "66",
+      "author": "FinnLobsien",
+      "commentCount": "46"
+    },
+    "FetchedAt": "2026-11-10T14:01:23.9574928+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50436706"
+    },
+    "Type": 1,
+    "Title": "ClickHouse Acquires Xata",
+    "Url": "https://xata.io/blog/xata-is-joining-clickhouse",
+    "Description": "ClickHouse Acquires Xata",
+    "Metadata": {
+      "score": "64",
+      "author": "mebcitto",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-11-10T14:01:23.9895537+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50426175"
+    },
+    "Type": 1,
+    "Title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+    "Url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.cell.com\u0026#x2F;cell-reports-physical-science\u0026#x2F;fulltext\u0026#x2F;S2666-3864(26)00461-3\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.cell.com\u0026#x2F;cell-reports-physical-science\u0026#x2F;fulltext\u0026#x2F;...\u003C/a\u003E",
+    "Metadata": {
+      "score": "330",
+      "author": "speckx",
+      "commentCount": "224"
+    },
+    "FetchedAt": "2026-11-10T14:01:24.0194962+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50435105"
+    },
+    "Type": 1,
+    "Title": "Formalizing CPython",
+    "Url": "https://broyojo.com/python-formalization/",
+    "Description": "Formalizing CPython",
+    "Metadata": {
+      "score": "102",
+      "author": "carnevalem",
+      "commentCount": "40"
+    },
+    "FetchedAt": "2026-11-10T14:01:24.0496816+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50439284"
+    },
+    "Type": 1,
+    "Title": "What\u0027s new in the .NET 11 runtime",
+    "Url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+    "Description": "What\u0027s new in the .NET 11 runtime",
+    "Metadata": {
+      "score": "19",
+      "author": "stevefan1999",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-11-10T14:01:24.0807245+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50428907"
+    },
+    "Type": 1,
+    "Title": "Show HN: Every satellite that passed over any place this week, and its photos",
+    "Url": "https://www.watched.earth",
+    "Description": "hey HN, i built this because I\u0026#x27;m a satellite nerd who was bored this past weekend.\u003Cp\u003Etype in any place and it finds every satellite that passed over it in the last 7 days (SGP4 on the CelesTrak catalog, tracking 17k\u002B objects and runs in your browser in about half a second), then pulls the real Sentinel-2 \u0026#x2F; Landsat \u0026#x2F; NASA images from those passes.\u003Cp\u003Efun fact: all ~17k objects in orbit are drawn on the GPU, solving Kepler\u0026#x27;s equation every frame. also cool is that Sentinel-2 tim",
+    "Metadata": {
+      "score": "407",
+      "author": "a585gupt",
+      "commentCount": "76"
+    },
+    "FetchedAt": "2026-11-10T14:01:24.1394083+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50386246"
+    },
+    "Type": 1,
+    "Title": "A primer on GPUs and kernel optimization",
+    "Url": "https://www.nabo.dev/blogs/kernel-primer",
+    "Description": "A primer on GPUs and kernel optimization",
+    "Metadata": {
+      "score": "175",
+      "author": "nomi_uw",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-11-10T14:01:24.1710152+00:00"
   }
 ]
