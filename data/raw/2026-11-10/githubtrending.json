@@ -1,0 +1,168 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/skills"
+    },
+    "Type": 0,
+    "Title": "anthropics/skills",
+    "Url": "https://github.com/anthropics/skills",
+    "Description": "Public repository for Agent Skills",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "skills",
+      "language": "Python",
+      "stars": "1,038",
+      "topics": "agent-skills"
+    },
+    "FetchedAt": "2026-11-10T01:00:48.1321979+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:meta/astryx"
+    },
+    "Type": 0,
+    "Title": "meta/astryx",
+    "Url": "https://github.com/meta/astryx",
+    "Description": "An open source design system that\u0027s fully customizable and agent ready",
+    "Metadata": {
+      "owner": "meta",
+      "repo": "astryx",
+      "language": "TypeScript",
+      "stars": "3,278"
+    },
+    "FetchedAt": "2026-11-10T01:00:48.3783973+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:sherlock-project/sherlock"
+    },
+    "Type": 0,
+    "Title": "sherlock-project/sherlock",
+    "Url": "https://github.com/sherlock-project/sherlock",
+    "Description": "Hunt down social media accounts by username across social networks",
+    "Metadata": {
+      "owner": "sherlock-project",
+      "repo": "sherlock",
+      "language": "Python",
+      "stars": "4,267",
+      "topics": "cli, cti, cybersecurity, forensics, hacktoberfest, information-gathering, infosec, linux, osint, pentesting, python, python3, reconnaissance, redteam, sherlock, tools"
+    },
+    "FetchedAt": "2026-11-10T01:00:48.5794261+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google-deepmind/mujoco"
+    },
+    "Type": 0,
+    "Title": "google-deepmind/mujoco",
+    "Url": "https://github.com/google-deepmind/mujoco",
+    "Description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "Metadata": {
+      "owner": "google-deepmind",
+      "repo": "mujoco",
+      "language": "C\u002B\u002B",
+      "stars": "574",
+      "topics": "mujoco, physics, robotics"
+    },
+    "FetchedAt": "2026-11-10T01:00:48.8097873+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:anthropics/claude-quickstarts"
+    },
+    "Type": 0,
+    "Title": "anthropics/claude-quickstarts",
+    "Url": "https://github.com/anthropics/claude-quickstarts",
+    "Description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+    "Metadata": {
+      "owner": "anthropics",
+      "repo": "claude-quickstarts",
+      "language": "Python",
+      "stars": "551"
+    },
+    "FetchedAt": "2026-11-10T01:00:49.0133808+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:garrytan/gbrain"
+    },
+    "Type": 0,
+    "Title": "garrytan/gbrain",
+    "Url": "https://github.com/garrytan/gbrain",
+    "Description": "Garry\u0027s Opinionated OpenClaw/Hermes Agent Brain",
+    "Metadata": {
+      "owner": "garrytan",
+      "repo": "gbrain",
+      "language": "TypeScript",
+      "stars": "216"
+    },
+    "FetchedAt": "2026-11-10T01:00:49.2060632+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:vercel-labs/agent-browser"
+    },
+    "Type": 0,
+    "Title": "vercel-labs/agent-browser",
+    "Url": "https://github.com/vercel-labs/agent-browser",
+    "Description": "Browser automation CLI for AI agents",
+    "Metadata": {
+      "owner": "vercel-labs",
+      "repo": "agent-browser",
+      "language": "Rust",
+      "stars": "916"
+    },
+    "FetchedAt": "2026-11-10T01:00:49.3959702+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ruvnet/RuView"
+    },
+    "Type": 0,
+    "Title": "ruvnet/RuView",
+    "Url": "https://github.com/ruvnet/RuView",
+    "Description": "\u03C0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+    "Metadata": {
+      "owner": "ruvnet",
+      "repo": "RuView",
+      "language": "Rust",
+      "stars": "172",
+      "topics": "claude, claude-code, esp32, firmware, home-assistant, home-automation, iot, mcp, monitoring, networking, pose-estimation, react, rf, self-learning, spatial-intelligence, typescript, webassembly, wifi, wifi-security"
+    },
+    "FetchedAt": "2026-11-10T01:00:49.6137747+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ZhuLinsen/daily_stock_analysis"
+    },
+    "Type": 0,
+    "Title": "ZhuLinsen/daily_stock_analysis",
+    "Url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "Description": "LLM \u9A71\u52A8\u7684\u591A\u5E02\u573A\u80A1\u7968\u667A\u80FD\u5206\u6790\u7CFB\u7EDF\uFF1A\u591A\u6E90\u884C\u60C5\u3001\u5B9E\u65F6\u65B0\u95FB\u3001\u51B3\u7B56\u770B\u677F\u4E0E\u81EA\u52A8\u63A8\u9001\uFF0C\u652F\u6301\u96F6\u6210\u672C\u5B9A\u65F6\u8FD0\u884C\u3002  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "Metadata": {
+      "owner": "ZhuLinsen",
+      "repo": "daily_stock_analysis",
+      "language": "Python",
+      "stars": "506",
+      "topics": "a-stock, ai-agent, aigc, llm, quant, quantitative-finance, quantitative-trading"
+    },
+    "FetchedAt": "2026-11-10T01:00:49.8108441+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:homeassistant-ai/ha-mcp"
+    },
+    "Type": 0,
+    "Title": "homeassistant-ai/ha-mcp",
+    "Url": "https://github.com/homeassistant-ai/ha-mcp",
+    "Description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+    "Metadata": {
+      "owner": "homeassistant-ai",
+      "repo": "ha-mcp",
+      "language": "Python",
+      "stars": "31",
+      "topics": "ai, claude, hacs, home-assistant, home-automation, llm, mcp, model-context-protocol"
+    },
+    "FetchedAt": "2026-11-10T01:00:50.0193552+00:00"
+  }
+]
