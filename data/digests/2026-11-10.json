@@ -1,0 +1,608 @@
+{
+  "Id": "2026-11-10",
+  "GeneratedAt": "2026-11-10T06:14:16.7797091+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:anthropics/skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Public repository for Agent Skills"
+      },
+      "Description": "Public repository for Agent Skills",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:meta/astryx"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "An open source design system that\u0027s fully customizable and agent ready"
+      },
+      "Description": "An open source design system that\u0027s fully customizable and agent ready",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:sherlock-project/sherlock"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hunt down social media accounts by username across social networks"
+      },
+      "Description": "Hunt down social media accounts by username across social networks",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:google-deepmind/mujoco"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Multi-Joint dynamics with Contact. A general purpose physics simulator."
+      },
+      "Description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:anthropics/claude-quickstarts"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A collection of projects designed to help developers quickly get started with building deployable applications using the"
+      },
+      "Description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:garrytan/gbrain"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Garry\u0027s Opinionated OpenClaw/Hermes Agent Brain"
+      },
+      "Description": "Garry\u0027s Opinionated OpenClaw/Hermes Agent Brain",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:vercel-labs/agent-browser"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Browser automation CLI for AI agents"
+      },
+      "Description": "Browser automation CLI for AI agents",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:ruvnet/RuView"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u03C0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection"
+      },
+      "Description": "\u03C0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel ",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:ZhuLinsen/daily_stock_analysis"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "LLM \u9A71\u52A8\u7684\u591A\u5E02\u573A\u80A1\u7968\u667A\u80FD\u5206\u6790\u7CFB\u7EDF\uFF1A\u591A\u6E90\u884C\u60C5\u3001\u5B9E\u65F6\u65B0\u95FB\u3001\u51B3\u7B56\u770B\u677F\u4E0E\u81EA\u52A8\u63A8\u9001\uFF0C\u652F\u6301\u96F6\u6210\u672C\u5B9A\u65F6\u8FD0\u884C\u3002  LLM-powered multi-market stock analysis system with multi-source mark"
+      },
+      "Description": "LLM \u9A71\u52A8\u7684\u591A\u5E02\u573A\u80A1\u7968\u667A\u80FD\u5206\u6790\u7CFB\u7EDF\uFF1A\u591A\u6E90\u884C\u60C5\u3001\u5B9E\u65F6\u65B0\u95FB\u3001\u51B3\u7B56\u770B\u677F\u4E0E\u81EA\u52A8\u63A8\u9001\uFF0C\u652F\u6301\u96F6\u6210\u672C\u5B9A\u65F6\u8FD0\u884C\u3002  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decis",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:homeassistant-ai/ha-mcp"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants."
+      },
+      "Description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50429906"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Claude Fable 5.2 and Mythos 5.2"
+      },
+      "Description": "Claude Fable 5.2 and Mythos 5.2",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50431058"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "USPS now offers official ZIP Code boundary polygons"
+      },
+      "Description": "USPS now offers official ZIP Code boundary polygons",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50432831"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "TPU 8tx and TPU 8i Max"
+      },
+      "Description": "TPU 8tx and TPU 8i Max",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50429426"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Google Gemini routes personal Drive files and emails to human annotators"
+      },
+      "Description": "Google Gemini routes personal Drive files and emails to human annotators",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50433659"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Fable 5.2 one-shotted my nephew\u0027s dream game"
+      },
+      "Description": "Fable 5.2 one-shotted my nephew\u0027s dream game",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50427362"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Payments Canada announces launch of Canada\u0027s Real-Time Rail (RTR) payment system"
+      },
+      "Description": "Payments Canada announces launch of Canada\u0027s Real-Time Rail (RTR) payment system",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50429734"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "E-means: Outperforming k-means in one-tenth the epochs"
+      },
+      "Description": "E-means: Outperforming k-means in one-tenth the epochs",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50431144"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far"
+      },
+      "Description": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50424581"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Foldable Flight: The Best Paper Airplanes"
+      },
+      "Description": "Foldable Flight: The Best Paper Airplanes",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50429024"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Our Smallest, Most Efficient Model: Muse Ember"
+      },
+      "Description": "Our Smallest, Most Efficient Model: Muse Ember",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50434264"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Horible public key tricks"
+      },
+      "Description": "Horible public key tricks",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50433541"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Exact \u2013 a new cross platform UI framework by the Expo team"
+      },
+      "Description": "Exact \u2013 a new cross platform UI framework by the Expo team",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50429430"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Infineon marks innovation milestone with 300mm power silicon carbide wafer"
+      },
+      "Description": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50426175"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.cell.com\u0026#x2F;cell-reports-physical-science\u0026#x2F;fulltext\u0026#x2F;S2666-3864(26)00461-3\u0022 rel"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.cell.com\u0026#x2F;cell-reports-physical-science\u0026#x2F;fulltext\u0026#x2F;S2666-3864(26)00461-3\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50386246"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A primer on GPUs and kernel optimization"
+      },
+      "Description": "A primer on GPUs and kernel optimization",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50422069"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3"
+      },
+      "Description": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50428907"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "hey HN, i built this because i wanted to know what had actually photographed my street.\u003Cp\u003Etype in any place and it finds"
+      },
+      "Description": "hey HN, i built this because i wanted to know what had actually photographed my street.\u003Cp\u003Etype in any place and it finds every satellite that passed o",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50430991"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)"
+      },
+      "Description": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50405274"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "An ode to livelyness analysis; SSA to registers"
+      },
+      "Description": "An ode to livelyness analysis; SSA to registers",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50429636"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hey HN and Cats, thank you for checking this out!\u003Cp\u003EGithub:\n\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;raiseCatError\u0026#x2"
+      },
+      "Description": "Hey HN and Cats, thank you for checking this out!\u003Cp\u003EGithub:\n\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;raiseCatError\u0026#x2F;meowdisplay\u0022 rel=\u0022nofollow\u0022\u003E",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50433079"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;redlib.catsarch.com\u0026#x2F;r\u0026#x2F;ClaudeCode\u0026#x2F;comments\u0026#x2F;1xq2n3t\u0026#x2F;a_year_after_the_1"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;redlib.catsarch.com\u0026#x2F;r\u0026#x2F;ClaudeCode\u0026#x2F;comments\u0026#x2F;1xq2n3t\u0026#x2F;a_year_after_the_100_ai_mandate_nobody\u0026#x2F;\u0022 re",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50428266"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling"
+      },
+      "Description": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50430621"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "CUI \u2013 Native UI components for C"
+      },
+      "Description": "CUI \u2013 Native UI components for C",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50409444"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A renowned scientist, a deadly snakebite, and a diary that documented it (2025)"
+      },
+      "Description": "A renowned scientist, a deadly snakebite, and a diary that documented it (2025)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50411515"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Deuterium\u0027s Impact on OLED Displays (2024)"
+      },
+      "Description": "Deuterium\u0027s Impact on OLED Displays (2024)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50424157"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "What is malloc doing, anyway?"
+      },
+      "Description": "What is malloc doing, anyway?",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50394017"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Possible 19th-century castaway camp found on Isla de los Estados"
+      },
+      "Description": "Possible 19th-century castaway camp found on Isla de los Estados",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50429812"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Many thanks to my ex for inspiring my new MacOS app, Someone Was Here.\u003Cp\u003EIt takes a photo of whoever uses your Mac while"
+      },
+      "Description": "Many thanks to my ex for inspiring my new MacOS app, Someone Was Here.\u003Cp\u003EIt takes a photo of whoever uses your Mac while you\u0026#x27;re away, whether you",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50401369"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Magnets and Rare Earths"
+      },
+      "Description": "Magnets and Rare Earths",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50429144"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Show HN: STE80 Humanizer \u2013 de-AI text by writing 80% of the way to ASD-STE100"
+      },
+      "Description": "Show HN: STE80 Humanizer \u2013 de-AI text by writing 80% of the way to ASD-STE100",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 40 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
