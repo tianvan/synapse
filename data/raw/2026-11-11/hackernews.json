@@ -256,51 +256,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50452455"
-    },
-    "Type": 1,
-    "Title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-    "Url": "https://pietromiotti.com/latest/maya-site/?maya",
-    "Description": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-    "Metadata": {
-      "score": "76",
-      "author": "eyvindn",
-      "commentCount": "27"
-    },
-    "FetchedAt": "2026-11-11T13:18:52.4800584+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50452655"
-    },
-    "Type": 1,
-    "Title": "Can a Linear Program Do Weight-Space Programming?",
-    "Url": "https://nathan.rs/posts/weight-space-lp/",
-    "Description": "Can a Linear Program Do Weight-Space Programming?",
-    "Metadata": {
-      "score": "28",
-      "author": "emschwartz",
-      "commentCount": "3"
-    },
-    "FetchedAt": "2026-11-11T13:18:52.5160722+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50451903"
-    },
-    "Type": 1,
-    "Title": "Using voltage glitching to unleash the A100 in my mining card",
-    "Url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
-    "Description": "Using voltage glitching to unleash the A100 in my mining card",
-    "Metadata": {
-      "score": "47",
-      "author": "lae",
-      "commentCount": "17"
-    },
-    "FetchedAt": "2026-11-11T13:18:52.5497561+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50449748"
     },
     "Type": 1,
@@ -373,21 +328,6 @@
       "commentCount": "325"
     },
     "FetchedAt": "2026-11-11T13:18:52.7295825+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50452404"
-    },
-    "Type": 1,
-    "Title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
-    "Url": "https://news.ycombinator.com/item?id=50452404",
-    "Description": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
-    "Metadata": {
-      "score": "1",
-      "author": "FrasiertheLion",
-      "commentCount": "0"
-    },
-    "FetchedAt": "2026-11-11T13:18:52.7653534+00:00"
   },
   {
     "ExternalId": {
@@ -703,5 +643,455 @@
       "commentCount": "3"
     },
     "FetchedAt": "2026-11-11T13:18:53.6826891+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50456631"
+    },
+    "Type": 1,
+    "Title": "AWS emulator",
+    "Url": "https://github.com/aws/aws-emulator",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.aboutamazon.com\u0026#x2F;news\u0026#x2F;aws\u0026#x2F;how-autonomous-ai-agents-built-aws-emulator\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.aboutamazon.com\u0026#x2F;news\u0026#x2F;aws\u0026#x2F;how-autonomous-ai-agent...\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.allthingsdistributed.com\u0026#x2F;2026\u0026#x2F;11\u0026#x2F;aws-emulator-and-the-engineers-job-when-agents-write-the-code.html\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.allthingsdistributed.com\u0026#x2F;2026\u0026#x2F;11\u0026#x2F;aws-emulator-an...\u003C/a\u003E",
+    "Metadata": {
+      "score": "588",
+      "author": "super_linear",
+      "commentCount": "199"
+    },
+    "FetchedAt": "2026-11-11T23:54:04.7407641+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50450488"
+    },
+    "Type": 1,
+    "Title": "Tim Peters has died",
+    "Url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.reddit.com\u0026#x2F;r\u0026#x2F;Python\u0026#x2F;s\u0026#x2F;2Cm5dBcvQw\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.reddit.com\u0026#x2F;r\u0026#x2F;Python\u0026#x2F;s\u0026#x2F;2Cm5dBcvQw\u003C/a\u003E",
+    "Metadata": {
+      "score": "783",
+      "author": "ayhanfuat",
+      "commentCount": "78"
+    },
+    "FetchedAt": "2026-11-11T23:54:04.77306+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50458900"
+    },
+    "Type": 1,
+    "Title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "Url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+    "Description": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "Metadata": {
+      "score": "267",
+      "author": "herpderperator",
+      "commentCount": "244"
+    },
+    "FetchedAt": "2026-11-11T23:54:04.8047416+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50459745"
+    },
+    "Type": 1,
+    "Title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+    "Url": "https://www.mcmillen.dev/sigbovik/",
+    "Description": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+    "Metadata": {
+      "score": "50",
+      "author": "zenincognito",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-11-11T23:54:04.8359977+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50459485"
+    },
+    "Type": 1,
+    "Title": "Lock Your GitHub Actions",
+    "Url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+    "Description": "Lock Your GitHub Actions",
+    "Metadata": {
+      "score": "66",
+      "author": "gslin",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-11-11T23:54:04.8687721+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50455394"
+    },
+    "Type": 1,
+    "Title": "A false smoke alarm almost drowned Jane Street\u0027s only NYC datacenter",
+    "Url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+    "Description": "A false smoke alarm almost drowned Jane Street\u0027s only NYC datacenter",
+    "Metadata": {
+      "score": "381",
+      "author": "mbac32768",
+      "commentCount": "189"
+    },
+    "FetchedAt": "2026-11-11T23:54:04.9001528+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50456791"
+    },
+    "Type": 1,
+    "Title": "Gemini Decisions API",
+    "Url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "Description": "Gemini Decisions API",
+    "Metadata": {
+      "score": "214",
+      "author": "iamdelirium",
+      "commentCount": "71"
+    },
+    "FetchedAt": "2026-11-11T23:54:04.9342908+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50458208"
+    },
+    "Type": 1,
+    "Title": "Emacs in the Age of Magic",
+    "Url": "https://commandlinesystems.com/magic.txt",
+    "Description": "Emacs in the Age of Magic",
+    "Metadata": {
+      "score": "120",
+      "author": "ggcr",
+      "commentCount": "43"
+    },
+    "FetchedAt": "2026-11-11T23:54:04.9666245+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50457230"
+    },
+    "Type": 1,
+    "Title": "Show HN: I recreated Papers Please but you\u0027re deciding which YC startups to fund",
+    "Url": "https://termsheetplease.com/",
+    "Description": "Show HN: I recreated Papers Please but you\u0027re deciding which YC startups to fund",
+    "Metadata": {
+      "score": "150",
+      "author": "bolau",
+      "commentCount": "67"
+    },
+    "FetchedAt": "2026-11-11T23:54:04.9972643+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50459776"
+    },
+    "Type": 1,
+    "Title": "Nvidia prepares to fire CEO Jensen Huang, WSJ reports",
+    "Url": "https://twitter.com/watcherguru/status/2120645607866188008",
+    "Description": "Nvidia prepares to fire CEO Jensen Huang, WSJ reports",
+    "Metadata": {
+      "score": "101",
+      "author": "alexmolas",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-11-11T23:54:05.0303021+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50460154"
+    },
+    "Type": 1,
+    "Title": "A general purpose Apple Silicon layer for x86-64 PCs",
+    "Url": "https://github.com/tylertms/Stela",
+    "Description": "A general purpose Apple Silicon layer for x86-64 PCs",
+    "Metadata": {
+      "score": "7",
+      "author": "iceboundrock",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-11-11T23:54:05.0611261+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50458166"
+    },
+    "Type": 1,
+    "Title": "Huawei releases MACaQ, its internal quantizer for local inference",
+    "Url": "https://github.com/huawei-csl/MACaQ",
+    "Description": "Huawei releases MACaQ, its internal quantizer for local inference",
+    "Metadata": {
+      "score": "45",
+      "author": "thefox96",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-11-11T23:54:05.0946786+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50457618"
+    },
+    "Type": 1,
+    "Title": "The Utah Teapot",
+    "Url": "https://graphics.cs.utah.edu/teapot/",
+    "Description": "The Utah Teapot",
+    "Metadata": {
+      "score": "51",
+      "author": "cobbal",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-11-11T23:54:05.127351+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50435240"
+    },
+    "Type": 1,
+    "Title": "A Brief History of Sierra Online (2017)",
+    "Url": "https://retrofreakreviews.com/2017/01/30/sierra-retrospective/",
+    "Description": "A Brief History of Sierra Online (2017)",
+    "Metadata": {
+      "score": "13",
+      "author": "freshtake",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-11-11T23:54:05.1612843+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50455633"
+    },
+    "Type": 1,
+    "Title": "Faster Retrieval for Better, More Efficient RAG",
+    "Url": "https://machinelearning.apple.com/research/faster-retrieval",
+    "Description": "Faster Retrieval for Better, More Efficient RAG",
+    "Metadata": {
+      "score": "133",
+      "author": "zerop",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-11-11T23:54:05.19272+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50433042"
+    },
+    "Type": 1,
+    "Title": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
+    "Url": "https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding",
+    "Description": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
+    "Metadata": {
+      "score": "30",
+      "author": "rmason",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-11-11T23:54:05.2251712+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50452455"
+    },
+    "Type": 1,
+    "Title": "My AI agents found an unmapped Maya site",
+    "Url": "https://pietromiotti.com/latest/maya-site",
+    "Description": "My AI agents found an unmapped Maya site",
+    "Metadata": {
+      "score": "908",
+      "author": "eyvindn",
+      "commentCount": "333"
+    },
+    "FetchedAt": "2026-11-11T23:54:05.2588571+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50453288"
+    },
+    "Type": 1,
+    "Title": "Hyper-Realistic Sand with WebGL2",
+    "Url": "https://av.github.io/safe-sand/",
+    "Description": "Hyper-Realistic Sand with WebGL2",
+    "Metadata": {
+      "score": "286",
+      "author": "everlier",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-11-11T23:54:05.2922591+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50454625"
+    },
+    "Type": 1,
+    "Title": "Show HN: Yogurt \u2013 Free, private, open-source alternative to Granola",
+    "Url": "https://github.com/FrigadeHQ/yogurt",
+    "Description": "Hey HN, I\u2019m Eric and I want to share an OSS project that I\u2019ve been building in my free time. Yogurt is a free, MIT licensed desktop app that uses on-device AI models to transcribe, summarize, and chat with your meetings.\u003Cp\u003EHere\u0026#x27;s a quick demo video: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=BFfbXAwRq98\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=BFfbXAwRq98\u003C/a\u003E\u003Cp\u003ESimilar to Granola, Yogurt runs in the background and does not join your calls. But unlike Grano",
+    "Metadata": {
+      "score": "149",
+      "author": "brownrout",
+      "commentCount": "69"
+    },
+    "FetchedAt": "2026-11-11T23:54:05.3252696+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50416365"
+    },
+    "Type": 1,
+    "Title": "Optimizing Reference Deletions in Git",
+    "Url": "https://nayak.im/posts/optimizing-reference-deletion/",
+    "Description": "Optimizing Reference Deletions in Git",
+    "Metadata": {
+      "score": "13",
+      "author": "nayak",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-11-11T23:54:05.3565125+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50455811"
+    },
+    "Type": 1,
+    "Title": "Launch HN: Pomerado (YC F26) \u2013 Turn any website into an MCP for agents",
+    "Url": "https://news.ycombinator.com/item?id=50455811",
+    "Description": "Hi HN, we\u2019re Alan and Akshay from Pomerado (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;pomerado.ai\u0026#x2F;\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;pomerado.ai\u0026#x2F;\u003C/a\u003E). We connect your agents to any website by turning sites into deterministic, self-healing APIs in minutes, fully self-serve.\u003Cp\u003EAgents are no longer limited by their intelligence, but rather by their ability to interact with systems. Airlines, banks, e-commerce, insurance portals, government sites, and legacy portals all lack APIs or MCPs and are common parts of person",
+    "Metadata": {
+      "score": "42",
+      "author": "alanjm23",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-11-11T23:54:05.3917914+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50454995"
+    },
+    "Type": 1,
+    "Title": "The hardest notes to find on the guitar",
+    "Url": "https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard",
+    "Description": "The hardest notes to find on the guitar",
+    "Metadata": {
+      "score": "45",
+      "author": "udit99",
+      "commentCount": "56"
+    },
+    "FetchedAt": "2026-11-11T23:54:05.4234679+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50453637"
+    },
+    "Type": 1,
+    "Title": "Atuin Threads: All your agent sessions on every machine",
+    "Url": "https://blog.atuin.sh/threads-agent-sessions/",
+    "Description": "Atuin Threads: All your agent sessions on every machine",
+    "Metadata": {
+      "score": "183",
+      "author": "linsomniac",
+      "commentCount": "66"
+    },
+    "FetchedAt": "2026-11-11T23:54:05.4811879+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50449440"
+    },
+    "Type": 1,
+    "Title": "The Apple Support Community will permanently close on November 20, 2026",
+    "Url": "https://discussions.apple.com/welcome",
+    "Description": "The Apple Support Community will permanently close on November 20, 2026",
+    "Metadata": {
+      "score": "103",
+      "author": "tech234a",
+      "commentCount": "199"
+    },
+    "FetchedAt": "2026-11-11T23:54:05.5129651+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50457669"
+    },
+    "Type": 1,
+    "Title": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
+    "Url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
+    "Description": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
+    "Metadata": {
+      "score": "43",
+      "author": "gok",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-11-11T23:54:05.5433453+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50452655"
+    },
+    "Type": 1,
+    "Title": "Can a Linear Program Do Weight-Space Programming?",
+    "Url": "https://nathan.rs/posts/weight-space-lp/",
+    "Description": "Can a Linear Program Do Weight-Space Programming?",
+    "Metadata": {
+      "score": "234",
+      "author": "emschwartz",
+      "commentCount": "35"
+    },
+    "FetchedAt": "2026-11-11T23:54:05.5745189+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50458434"
+    },
+    "Type": 1,
+    "Title": "Tools for exploring the souls of large language models",
+    "Url": "https://oshea00.github.io/posts/tinygpt-visualizer/",
+    "Description": "Tools for exploring the souls of large language models",
+    "Metadata": {
+      "score": "28",
+      "author": "r00tanon",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-11-11T23:54:05.6051079+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50460398"
+    },
+    "Type": 1,
+    "Title": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing",
+    "Url": "https://developer.chrome.com/blog/modern-web-guidance-v1",
+    "Description": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing",
+    "Metadata": {
+      "score": "6",
+      "author": "qainsights",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-11-11T23:54:05.6378411+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50451903"
+    },
+    "Type": 1,
+    "Title": "Using voltage glitching to unleash the A100 in my mining card",
+    "Url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+    "Description": "Using voltage glitching to unleash the A100 in my mining card",
+    "Metadata": {
+      "score": "255",
+      "author": "lae",
+      "commentCount": "102"
+    },
+    "FetchedAt": "2026-11-11T23:54:05.6686288+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50452404"
+    },
+    "Type": 1,
+    "Title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
+    "Url": "https://news.ycombinator.com/item?id=50452404",
+    "Description": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
+    "Metadata": {
+      "score": "1",
+      "author": "FrasiertheLion",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-11-11T23:54:05.7026606+00:00"
   }
 ]
