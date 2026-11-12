@@ -1,22 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:meta/astryx"
-    },
-    "Type": 0,
-    "Title": "meta/astryx",
-    "Url": "https://github.com/meta/astryx",
-    "Description": "An open source design system that\u0027s fully customizable and agent ready",
-    "Metadata": {
-      "owner": "meta",
-      "repo": "astryx",
-      "language": "TypeScript",
-      "stars": "2,776"
-    },
-    "FetchedAt": "2026-11-12T05:08:34.5234111+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:ZhuLinsen/daily_stock_analysis"
     },
     "Type": 0,
@@ -34,39 +18,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:GoogleChrome/modern-web-guidance-src"
-    },
-    "Type": 0,
-    "Title": "GoogleChrome/modern-web-guidance-src",
-    "Url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-    "Description": "",
-    "Metadata": {
-      "owner": "GoogleChrome",
-      "repo": "modern-web-guidance-src",
-      "language": "TypeScript",
-      "stars": "159"
-    },
-    "FetchedAt": "2026-11-12T05:08:34.8026247+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:addyosmani/agent-skills"
-    },
-    "Type": 0,
-    "Title": "addyosmani/agent-skills",
-    "Url": "https://github.com/addyosmani/agent-skills",
-    "Description": "Production-grade engineering skills for AI coding agents.",
-    "Metadata": {
-      "owner": "addyosmani",
-      "repo": "agent-skills",
-      "language": "JavaScript",
-      "stars": "787",
-      "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
-    },
-    "FetchedAt": "2026-11-12T05:08:34.9491799+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:vercel-labs/agent-browser"
     },
     "Type": 0,
@@ -80,22 +31,6 @@
       "stars": "708"
     },
     "FetchedAt": "2026-11-12T05:08:35.061686+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:we-promise/sure"
-    },
-    "Type": 0,
-    "Title": "we-promise/sure",
-    "Url": "https://github.com/we-promise/sure",
-    "Description": "The personal finance app for everyone (by everyone)",
-    "Metadata": {
-      "owner": "we-promise",
-      "repo": "sure",
-      "language": "Ruby",
-      "stars": "1,078"
-    },
-    "FetchedAt": "2026-11-12T05:08:35.2093483+00:00"
   },
   {
     "ExternalId": {
@@ -116,23 +51,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:openai/codex-security"
-    },
-    "Type": 0,
-    "Title": "openai/codex-security",
-    "Url": "https://github.com/openai/codex-security",
-    "Description": "OpenAI\u0027s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-    "Metadata": {
-      "owner": "openai",
-      "repo": "codex-security",
-      "language": "TypeScript",
-      "stars": "52",
-      "topics": "ai-security, application-security, cli, code-scanning, codex, codex-security, cybersecurity, devsecops, nodejs, npm, openai, sdk, security, typescript, vulnerability-scanning"
-    },
-    "FetchedAt": "2026-11-12T05:08:35.504886+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:TheAlgorithms/Java"
     },
     "Type": 0,
@@ -147,5 +65,187 @@
       "topics": "algorithm, algorithm-challenges, algorithms, algorithms-datastructures, data-structures, hacktoberfest, java, search, sort, sorting-algorithms"
     },
     "FetchedAt": "2026-11-12T05:08:35.6522492+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:GoogleChrome/modern-web-guidance-src"
+    },
+    "Type": 0,
+    "Title": "GoogleChrome/modern-web-guidance-src",
+    "Url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+    "Description": "",
+    "Metadata": {
+      "owner": "GoogleChrome",
+      "repo": "modern-web-guidance-src",
+      "language": "TypeScript",
+      "stars": "799"
+    },
+    "FetchedAt": "2026-11-12T14:23:08.0165518+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:openai/codex-security"
+    },
+    "Type": 0,
+    "Title": "openai/codex-security",
+    "Url": "https://github.com/openai/codex-security",
+    "Description": "OpenAI\u0027s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+    "Metadata": {
+      "owner": "openai",
+      "repo": "codex-security",
+      "language": "TypeScript",
+      "stars": "663",
+      "topics": "ai-security, application-security, cli, code-scanning, codex, codex-security, cybersecurity, devsecops, nodejs, npm, openai, sdk, security, typescript, vulnerability-scanning"
+    },
+    "FetchedAt": "2026-11-12T14:23:08.3093828+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:nvm-sh/nvm"
+    },
+    "Type": 0,
+    "Title": "nvm-sh/nvm",
+    "Url": "https://github.com/nvm-sh/nvm",
+    "Description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+    "Metadata": {
+      "owner": "nvm-sh",
+      "repo": "nvm",
+      "language": "Shell",
+      "stars": "79",
+      "topics": "bash, install, lts, node, node-js, nodejs, nvm, nvmrc, posix, posix-compliant, shell, version-manager, zsh"
+    },
+    "FetchedAt": "2026-11-12T14:23:08.5415208+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:pookjw/HermesEnabler"
+    },
+    "Type": 0,
+    "Title": "pookjw/HermesEnabler",
+    "Url": "https://github.com/pookjw/HermesEnabler",
+    "Description": "Enable Herm\u00E8s Watch Faces on any Apple Watch devices",
+    "Metadata": {
+      "owner": "pookjw",
+      "repo": "HermesEnabler",
+      "language": "Objective-C",
+      "stars": "390"
+    },
+    "FetchedAt": "2026-11-12T14:23:08.8221673+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:we-promise/sure"
+    },
+    "Type": 0,
+    "Title": "we-promise/sure",
+    "Url": "https://github.com/we-promise/sure",
+    "Description": "The personal finance app for everyone (by everyone)",
+    "Metadata": {
+      "owner": "we-promise",
+      "repo": "sure",
+      "language": "Ruby",
+      "stars": "974"
+    },
+    "FetchedAt": "2026-11-12T14:23:09.0109748+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:QwenLM/qwen-code"
+    },
+    "Type": 0,
+    "Title": "QwenLM/qwen-code",
+    "Url": "https://github.com/QwenLM/qwen-code",
+    "Description": "An open-source AI coding agent that lives in your terminal.",
+    "Metadata": {
+      "owner": "QwenLM",
+      "repo": "qwen-code",
+      "language": "TypeScript",
+      "stars": "151",
+      "topics": "agentic, ai, ai-agent, ai-coding, cli, coding-agent, developer-tools, llm, mcp, qwen, terminal, typescript"
+    },
+    "FetchedAt": "2026-11-12T14:23:09.2764849+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:addyosmani/agent-skills"
+    },
+    "Type": 0,
+    "Title": "addyosmani/agent-skills",
+    "Url": "https://github.com/addyosmani/agent-skills",
+    "Description": "Production-grade engineering skills for AI coding agents.",
+    "Metadata": {
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "language": "JavaScript",
+      "stars": "812",
+      "topics": "agent-skills, antigravity, claude-code, codex, cursor, skills"
+    },
+    "FetchedAt": "2026-11-12T14:23:09.5628241+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:meta/astryx"
+    },
+    "Type": 0,
+    "Title": "meta/astryx",
+    "Url": "https://github.com/meta/astryx",
+    "Description": "An open source design system that\u0027s fully customizable and agent ready",
+    "Metadata": {
+      "owner": "meta",
+      "repo": "astryx",
+      "language": "TypeScript",
+      "stars": "1,789"
+    },
+    "FetchedAt": "2026-11-12T14:23:09.8456376+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:CopilotKit/OpenBot"
+    },
+    "Type": 0,
+    "Title": "CopilotKit/OpenBot",
+    "Url": "https://github.com/CopilotKit/OpenBot",
+    "Description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "Metadata": {
+      "owner": "CopilotKit",
+      "repo": "OpenBot",
+      "language": "TypeScript",
+      "stars": "291",
+      "topics": "ag-ui, agent-governance, ai-agents, browser-automation, copilotkit, generative-ui, mcp"
+    },
+    "FetchedAt": "2026-11-12T14:23:10.0922531+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Alishahryar1/free-claude-code"
+    },
+    "Type": 0,
+    "Title": "Alishahryar1/free-claude-code",
+    "Url": "https://github.com/Alishahryar1/free-claude-code",
+    "Description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B\u002B free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness \u002B multi-model) like OpenClaw (voice supported \u002B ToS friendly)",
+    "Metadata": {
+      "owner": "Alishahryar1",
+      "repo": "free-claude-code",
+      "language": "Python",
+      "stars": "461"
+    },
+    "FetchedAt": "2026-11-12T14:23:10.3140355+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ggml-org/llama.cpp"
+    },
+    "Type": 0,
+    "Title": "ggml-org/llama.cpp",
+    "Url": "https://github.com/ggml-org/llama.cpp",
+    "Description": "LLM inference in C/C\u002B\u002B",
+    "Metadata": {
+      "owner": "ggml-org",
+      "repo": "llama.cpp",
+      "language": "C\u002B\u002B",
+      "stars": "162",
+      "topics": "ggml"
+    },
+    "FetchedAt": "2026-11-12T14:23:10.5821276+00:00"
   }
 ]

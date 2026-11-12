@@ -1,141 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:50459745"
-    },
-    "Type": 1,
-    "Title": "93% of paint splatters are valid Perl programs (2019)",
-    "Url": "https://www.mcmillen.dev/sigbovik/",
-    "Description": "93% of paint splatters are valid Perl programs (2019)",
-    "Metadata": {
-      "score": "275",
-      "author": "zenincognito",
-      "commentCount": "37"
-    },
-    "FetchedAt": "2026-11-12T05:08:36.0208232+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50450488"
-    },
-    "Type": 1,
-    "Title": "Tim Peters has died",
-    "Url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.reddit.com\u0026#x2F;r\u0026#x2F;Python\u0026#x2F;s\u0026#x2F;2Cm5dBcvQw\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.reddit.com\u0026#x2F;r\u0026#x2F;Python\u0026#x2F;s\u0026#x2F;2Cm5dBcvQw\u003C/a\u003E",
-    "Metadata": {
-      "score": "999",
-      "author": "ayhanfuat",
-      "commentCount": "108"
-    },
-    "FetchedAt": "2026-11-12T05:08:36.0496899+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50456631"
-    },
-    "Type": 1,
-    "Title": "AWS emulator",
-    "Url": "https://github.com/aws/aws-emulator",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.aboutamazon.com\u0026#x2F;news\u0026#x2F;aws\u0026#x2F;how-autonomous-ai-agents-built-aws-emulator\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.aboutamazon.com\u0026#x2F;news\u0026#x2F;aws\u0026#x2F;how-autonomous-ai-agent...\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.allthingsdistributed.com\u0026#x2F;2026\u0026#x2F;11\u0026#x2F;aws-emulator-and-the-engineers-job-when-agents-write-the-code.html\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.allthingsdistributed.com\u0026#x2F;2026\u0026#x2F;11\u0026#x2F;aws-emulator-an...\u003C/a\u003E",
-    "Metadata": {
-      "score": "758",
-      "author": "super_linear",
-      "commentCount": "228"
-    },
-    "FetchedAt": "2026-11-12T05:08:36.1417583+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50462177"
-    },
-    "Type": 1,
-    "Title": "Critical RCE Vulnerability in Apache HTTP Server",
-    "Url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-    "Description": "Critical RCE Vulnerability in Apache HTTP Server",
-    "Metadata": {
-      "score": "64",
-      "author": "soheilpro",
-      "commentCount": "29"
-    },
-    "FetchedAt": "2026-11-12T05:08:36.1946196+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50459703"
-    },
-    "Type": 1,
-    "Title": "Nvidia is preparing to oust Jensen Huang",
-    "Url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-    "Description": "Nvidia is preparing to oust Jensen Huang",
-    "Metadata": {
-      "score": "743",
-      "author": "jbredeche",
-      "commentCount": "1045"
-    },
-    "FetchedAt": "2026-11-12T05:08:36.2446368+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50458900"
-    },
-    "Type": 1,
-    "Title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-    "Url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-    "Description": "United Airlines bans AI agents from booking flights on behalf of travelers",
-    "Metadata": {
-      "score": "478",
-      "author": "herpderperator",
-      "commentCount": "465"
-    },
-    "FetchedAt": "2026-11-12T05:08:36.4079577+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50459485"
-    },
-    "Type": 1,
-    "Title": "Lock Your GitHub Actions",
-    "Url": "https://hugovk.dev/blog/2026/lock-github-actions/",
-    "Description": "Lock Your GitHub Actions",
-    "Metadata": {
-      "score": "183",
-      "author": "gslin",
-      "commentCount": "33"
-    },
-    "FetchedAt": "2026-11-12T05:08:36.5191849+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50455394"
-    },
-    "Type": 1,
-    "Title": "A false smoke alarm almost drowned Jane Street\u0027s only NYC datacenter",
-    "Url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-    "Description": "A false smoke alarm almost drowned Jane Street\u0027s only NYC datacenter",
-    "Metadata": {
-      "score": "449",
-      "author": "mbac32768",
-      "commentCount": "225"
-    },
-    "FetchedAt": "2026-11-12T05:08:36.5843345+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50456791"
-    },
-    "Type": 1,
-    "Title": "Gemini Decisions API",
-    "Url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-    "Description": "Gemini Decisions API",
-    "Metadata": {
-      "score": "335",
-      "author": "iamdelirium",
-      "commentCount": "105"
-    },
-    "FetchedAt": "2026-11-12T05:08:36.6164232+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50428619"
     },
     "Type": 1,
@@ -163,66 +28,6 @@
       "commentCount": "1"
     },
     "FetchedAt": "2026-11-12T05:08:36.6960249+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50458208"
-    },
-    "Type": 1,
-    "Title": "Emacs in the Age of Magic",
-    "Url": "https://commandlinesystems.com/magic.txt",
-    "Description": "Emacs in the Age of Magic",
-    "Metadata": {
-      "score": "181",
-      "author": "ggcr",
-      "commentCount": "62"
-    },
-    "FetchedAt": "2026-11-12T05:08:36.7287167+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50460154"
-    },
-    "Type": 1,
-    "Title": "A general purpose Apple Silicon layer for x86-64 PCs",
-    "Url": "https://github.com/tylertms/Stela",
-    "Description": "A general purpose Apple Silicon layer for x86-64 PCs",
-    "Metadata": {
-      "score": "83",
-      "author": "iceboundrock",
-      "commentCount": "34"
-    },
-    "FetchedAt": "2026-11-12T05:08:36.7576691+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50457618"
-    },
-    "Type": 1,
-    "Title": "The Utah Teapot",
-    "Url": "https://graphics.cs.utah.edu/teapot/",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=k-23LgrFcvs\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=k-23LgrFcvs\u003C/a\u003E",
-    "Metadata": {
-      "score": "105",
-      "author": "cobbal",
-      "commentCount": "27"
-    },
-    "FetchedAt": "2026-11-12T05:08:36.7853349+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50452455"
-    },
-    "Type": 1,
-    "Title": "My AI agents found an unmapped Maya site?",
-    "Url": "https://pietromiotti.com/latest/maya-site",
-    "Description": "My AI agents found an unmapped Maya site?",
-    "Metadata": {
-      "score": "953",
-      "author": "eyvindn",
-      "commentCount": "350"
-    },
-    "FetchedAt": "2026-11-12T05:08:36.8190609+00:00"
   },
   {
     "ExternalId": {
@@ -283,21 +88,6 @@
       "commentCount": "79"
     },
     "FetchedAt": "2026-11-12T05:08:36.9400694+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50453288"
-    },
-    "Type": 1,
-    "Title": "Hyper-Realistic Sand with WebGL2",
-    "Url": "https://av.github.io/safe-sand/",
-    "Description": "Hyper-Realistic Sand with WebGL2",
-    "Metadata": {
-      "score": "339",
-      "author": "everlier",
-      "commentCount": "66"
-    },
-    "FetchedAt": "2026-11-12T05:08:36.968105+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +238,455 @@
       "commentCount": "25"
     },
     "FetchedAt": "2026-11-12T05:08:37.3299269+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50467087"
+    },
+    "Type": 1,
+    "Title": "NVIDIA Announces CEO Transition",
+    "Url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+    "Description": "NVIDIA Announces CEO Transition",
+    "Metadata": {
+      "score": "394",
+      "author": "lldb",
+      "commentCount": "275"
+    },
+    "FetchedAt": "2026-11-12T14:23:11.140833+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50465352"
+    },
+    "Type": 1,
+    "Title": "Why Writing Correct Software Is Hard",
+    "Url": "https://pron.github.io/posts/correctness-and-complexity",
+    "Description": "Why Writing Correct Software Is Hard",
+    "Metadata": {
+      "score": "170",
+      "author": "AriFordsham",
+      "commentCount": "68"
+    },
+    "FetchedAt": "2026-11-12T14:23:11.1985103+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50467132"
+    },
+    "Type": 1,
+    "Title": "Jensen Huang resigns as Nvidia CEO immediately",
+    "Url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
+    "Description": "Jensen Huang resigns as Nvidia CEO immediately",
+    "Metadata": {
+      "score": "89",
+      "author": "ksec",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-11-12T14:23:11.2570317+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50438261"
+    },
+    "Type": 1,
+    "Title": "Jane Street: Socratic Tutor",
+    "Url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+    "Description": "Jane Street: Socratic Tutor",
+    "Metadata": {
+      "score": "442",
+      "author": "tosh",
+      "commentCount": "99"
+    },
+    "FetchedAt": "2026-11-12T14:23:11.3150309+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50425017"
+    },
+    "Type": 1,
+    "Title": "A live tree of systemd jobs on the boot console",
+    "Url": "https://codeberg.org/wvhulle/bootvine",
+    "Description": "A live tree of systemd jobs on the boot console",
+    "Metadata": {
+      "score": "205",
+      "author": "orhunp_",
+      "commentCount": "74"
+    },
+    "FetchedAt": "2026-11-12T14:23:11.3722477+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50467139"
+    },
+    "Type": 1,
+    "Title": "Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal",
+    "Url": "https://www.bbc.co.uk/news/live/c6zjry11v8w1t",
+    "Description": "Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal",
+    "Metadata": {
+      "score": "43",
+      "author": "cognoboffin",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-11-12T14:23:11.4307987+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50465453"
+    },
+    "Type": 1,
+    "Title": "Researchers discover rare star system that emits radio signals every 8 minutes",
+    "Url": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
+    "Description": "Researchers discover rare star system that emits radio signals every 8 minutes",
+    "Metadata": {
+      "score": "41",
+      "author": "giuliomagnifico",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-11-12T14:23:11.5029078+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50450488"
+    },
+    "Type": 1,
+    "Title": "Tim Peters has died",
+    "Url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.reddit.com\u0026#x2F;r\u0026#x2F;Python\u0026#x2F;s\u0026#x2F;2Cm5dBcvQw\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.reddit.com\u0026#x2F;r\u0026#x2F;Python\u0026#x2F;s\u0026#x2F;2Cm5dBcvQw\u003C/a\u003E",
+    "Metadata": {
+      "score": "1307",
+      "author": "ayhanfuat",
+      "commentCount": "154"
+    },
+    "FetchedAt": "2026-11-12T14:23:11.5599651+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50459745"
+    },
+    "Type": 1,
+    "Title": "93% of paint splatters are valid Perl programs (2019)",
+    "Url": "https://www.mcmillen.dev/sigbovik/",
+    "Description": "93% of paint splatters are valid Perl programs (2019)",
+    "Metadata": {
+      "score": "505",
+      "author": "zenincognito",
+      "commentCount": "64"
+    },
+    "FetchedAt": "2026-11-12T14:23:11.617062+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50462177"
+    },
+    "Type": 1,
+    "Title": "Critical RCE Vulnerability in Apache HTTP Server",
+    "Url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+    "Description": "Critical RCE Vulnerability in Apache HTTP Server",
+    "Metadata": {
+      "score": "290",
+      "author": "soheilpro",
+      "commentCount": "137"
+    },
+    "FetchedAt": "2026-11-12T14:23:11.6758733+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50465829"
+    },
+    "Type": 1,
+    "Title": "Anthropic IPO",
+    "Url": "https://ipo.anthropic.com/us/",
+    "Description": "Anthropic IPO",
+    "Metadata": {
+      "score": "242",
+      "author": "josephljohnston",
+      "commentCount": "278"
+    },
+    "FetchedAt": "2026-11-12T14:23:11.7370132+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50456631"
+    },
+    "Type": 1,
+    "Title": "AWS emulator",
+    "Url": "https://github.com/aws/aws-emulator",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.aboutamazon.com\u0026#x2F;news\u0026#x2F;aws\u0026#x2F;how-autonomous-ai-agents-built-aws-emulator\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.aboutamazon.com\u0026#x2F;news\u0026#x2F;aws\u0026#x2F;how-autonomous-ai-agent...\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.allthingsdistributed.com\u0026#x2F;2026\u0026#x2F;11\u0026#x2F;aws-emulator-and-the-engineers-job-when-agents-write-the-code.html\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.allthingsdistributed.com\u0026#x2F;2026\u0026#x2F;11\u0026#x2F;aws-emulator-an...\u003C/a\u003E",
+    "Metadata": {
+      "score": "903",
+      "author": "super_linear",
+      "commentCount": "250"
+    },
+    "FetchedAt": "2026-11-12T14:23:11.800435+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50431971"
+    },
+    "Type": 1,
+    "Title": "Making a \u20AC40 USB-C hub work as a Nintendo Switch 2 dock",
+    "Url": "http://blog.nozomi.space/posts/sw2_dock/",
+    "Description": "Making a \u20AC40 USB-C hub work as a Nintendo Switch 2 dock",
+    "Metadata": {
+      "score": "76",
+      "author": "mkopec",
+      "commentCount": "25"
+    },
+    "FetchedAt": "2026-11-12T14:23:11.8580109+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50455394"
+    },
+    "Type": 1,
+    "Title": "A false smoke alarm almost drowned Jane Street\u0027s only NYC datacenter",
+    "Url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+    "Description": "A false smoke alarm almost drowned Jane Street\u0027s only NYC datacenter",
+    "Metadata": {
+      "score": "526",
+      "author": "mbac32768",
+      "commentCount": "255"
+    },
+    "FetchedAt": "2026-11-12T14:23:11.9162335+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50456791"
+    },
+    "Type": 1,
+    "Title": "Gemini Decisions API",
+    "Url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "Description": "Gemini Decisions API",
+    "Metadata": {
+      "score": "494",
+      "author": "iamdelirium",
+      "commentCount": "148"
+    },
+    "FetchedAt": "2026-11-12T14:23:11.9733138+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50459703"
+    },
+    "Type": 1,
+    "Title": "Nvidia is preparing to oust Jensen Huang",
+    "Url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+    "Description": "Nvidia is preparing to oust Jensen Huang",
+    "Metadata": {
+      "score": "1167",
+      "author": "jbredeche",
+      "commentCount": "1558"
+    },
+    "FetchedAt": "2026-11-12T14:23:12.0817521+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50463540"
+    },
+    "Type": 1,
+    "Title": "I\u0027m Working on a FOSS Linux Pinbal Simulation Engine",
+    "Url": "https://www.getlazarus.org/forums/topic/17/",
+    "Description": "I\u0027m Working on a FOSS Linux Pinbal Simulation Engine",
+    "Metadata": {
+      "score": "82",
+      "author": "sysrpl",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-11-12T14:23:12.1501412+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50458900"
+    },
+    "Type": 1,
+    "Title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "Url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+    "Description": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "Metadata": {
+      "score": "600",
+      "author": "herpderperator",
+      "commentCount": "627"
+    },
+    "FetchedAt": "2026-11-12T14:23:12.2179494+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50459485"
+    },
+    "Type": 1,
+    "Title": "Lock Your GitHub Actions",
+    "Url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+    "Description": "Lock Your GitHub Actions",
+    "Metadata": {
+      "score": "298",
+      "author": "gslin",
+      "commentCount": "59"
+    },
+    "FetchedAt": "2026-11-12T14:23:12.2928391+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50416606"
+    },
+    "Type": 1,
+    "Title": "Grote Reber and the \u0027Square Kilometre Array\u0027 Near Bothwell, Tasmania (2017)",
+    "Url": "https://www.researchgate.net/publication/319702287_THE_HISTORY_OF_EARLY_LOW_FREQUENCY_RADIO_ASTRONOMY_IN_AUSTRALIA_8_GROTE_REBER_AND_THE_%27SQUARE_KILOMETRE_ARRAY%27_NEAR_BOTHWELL_TASMANIA_IN_THE_1960s_AND_1970s",
+    "Description": "Grote Reber and the \u0027Square Kilometre Array\u0027 Near Bothwell, Tasmania (2017)",
+    "Metadata": {
+      "score": "16",
+      "author": "NaOH",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-11-12T14:23:12.3510866+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50415379"
+    },
+    "Type": 1,
+    "Title": "Show HN: Build a PC in 3D in the Browser",
+    "Url": "https://www.buildcores.com",
+    "Description": "I\u0026#x27;ve been building this over the past few years. I left my job working on Google Earth to make a 3D PC builder. We have quite a few users so it\u0026#x27;s able to fund our team but I realized I never shared on HN!",
+    "Metadata": {
+      "score": "11",
+      "author": "ozaiworld",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-11-12T14:23:12.4276656+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50458208"
+    },
+    "Type": 1,
+    "Title": "Emacs in the Age of Magic",
+    "Url": "https://commandlinesystems.com/magic.txt",
+    "Description": "Emacs in the Age of Magic",
+    "Metadata": {
+      "score": "274",
+      "author": "ggcr",
+      "commentCount": "127"
+    },
+    "FetchedAt": "2026-11-12T14:23:12.4858066+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50441350"
+    },
+    "Type": 1,
+    "Title": "Show HN: Aircad \u2013 Professional drafting and 3D modeling in the browser",
+    "Url": "https://aircad.com",
+    "Description": "Aircad is a professional CAD system running in the browser with deep AI integration. It includes professional grade drafting and documentation tools, NURBS-based solid modeling, and a lot more. You can make professional quality design documents with it. It is all integrated behind a scripting API that can do anything you can do in the interface and also perform complex modeling operations efficiently. It reads and writes file formats like DXF, DWG, STEP, and 3DM.\u003Cp\u003EI built Aircad because I was f",
+    "Metadata": {
+      "score": "61",
+      "author": "peetle",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-11-12T14:23:12.6414617+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50457618"
+    },
+    "Type": 1,
+    "Title": "The Utah Teapot",
+    "Url": "https://graphics.cs.utah.edu/teapot/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=k-23LgrFcvs\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=k-23LgrFcvs\u003C/a\u003E",
+    "Metadata": {
+      "score": "173",
+      "author": "cobbal",
+      "commentCount": "42"
+    },
+    "FetchedAt": "2026-11-12T14:23:12.6984567+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50438958"
+    },
+    "Type": 1,
+    "Title": "Legocam: My Lego webcam from 2000, working on a modern Mac",
+    "Url": "https://blog.benjamin.ie/legocam",
+    "Description": "Legocam: My Lego webcam from 2000, working on a modern Mac",
+    "Metadata": {
+      "score": "38",
+      "author": "benkelly",
+      "commentCount": "28"
+    },
+    "FetchedAt": "2026-11-12T14:23:12.7559681+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50453288"
+    },
+    "Type": 1,
+    "Title": "Hyper-realistic sand with WebGL2",
+    "Url": "https://av.github.io/safe-sand/",
+    "Description": "Hyper-realistic sand with WebGL2",
+    "Metadata": {
+      "score": "423",
+      "author": "everlier",
+      "commentCount": "77"
+    },
+    "FetchedAt": "2026-11-12T14:23:12.8133443+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50467191"
+    },
+    "Type": 1,
+    "Title": "Nvidia CEO Jensen Huang resigns after reports of extramarital relationships",
+    "Url": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402",
+    "Description": "Nvidia CEO Jensen Huang resigns after reports of extramarital relationships",
+    "Metadata": {
+      "score": "14",
+      "author": "sonabinu",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-11-12T14:23:12.8700234+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50452455"
+    },
+    "Type": 1,
+    "Title": "My AI agents found an unmapped Maya site?",
+    "Url": "https://pietromiotti.com/latest/maya-site",
+    "Description": "My AI agents found an unmapped Maya site?",
+    "Metadata": {
+      "score": "1015",
+      "author": "eyvindn",
+      "commentCount": "373"
+    },
+    "FetchedAt": "2026-11-12T14:23:12.9270184+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50460154"
+    },
+    "Type": 1,
+    "Title": "A general purpose Apple Silicon layer for x86-64 PCs",
+    "Url": "https://github.com/tylertms/Stela",
+    "Description": "A general purpose Apple Silicon layer for x86-64 PCs",
+    "Metadata": {
+      "score": "125",
+      "author": "iceboundrock",
+      "commentCount": "52"
+    },
+    "FetchedAt": "2026-11-12T14:23:12.9843097+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50467092"
+    },
+    "Type": 1,
+    "Title": "Jensen Huang resigning effective immediately",
+    "Url": "https://www.stocktitan.net/news/NVDA/nvidia-announces-ceo-03al5m45ne1p.html",
+    "Description": "Jensen Huang resigning effective immediately",
+    "Metadata": {
+      "score": "16",
+      "author": "chrisss395",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-11-12T14:23:13.0415298+00:00"
   }
 ]
