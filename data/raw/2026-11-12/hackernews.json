@@ -241,36 +241,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50467087"
-    },
-    "Type": 1,
-    "Title": "NVIDIA Announces CEO Transition",
-    "Url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-    "Description": "NVIDIA Announces CEO Transition",
-    "Metadata": {
-      "score": "394",
-      "author": "lldb",
-      "commentCount": "275"
-    },
-    "FetchedAt": "2026-11-12T14:23:11.140833+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50465352"
-    },
-    "Type": 1,
-    "Title": "Why Writing Correct Software Is Hard",
-    "Url": "https://pron.github.io/posts/correctness-and-complexity",
-    "Description": "Why Writing Correct Software Is Hard",
-    "Metadata": {
-      "score": "170",
-      "author": "AriFordsham",
-      "commentCount": "68"
-    },
-    "FetchedAt": "2026-11-12T14:23:11.1985103+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50467132"
     },
     "Type": 1,
@@ -298,21 +268,6 @@
       "commentCount": "99"
     },
     "FetchedAt": "2026-11-12T14:23:11.3150309+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50425017"
-    },
-    "Type": 1,
-    "Title": "A live tree of systemd jobs on the boot console",
-    "Url": "https://codeberg.org/wvhulle/bootvine",
-    "Description": "A live tree of systemd jobs on the boot console",
-    "Metadata": {
-      "score": "205",
-      "author": "orhunp_",
-      "commentCount": "74"
-    },
-    "FetchedAt": "2026-11-12T14:23:11.3722477+00:00"
   },
   {
     "ExternalId": {
@@ -388,21 +343,6 @@
       "commentCount": "137"
     },
     "FetchedAt": "2026-11-12T14:23:11.6758733+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50465829"
-    },
-    "Type": 1,
-    "Title": "Anthropic IPO",
-    "Url": "https://ipo.anthropic.com/us/",
-    "Description": "Anthropic IPO",
-    "Metadata": {
-      "score": "242",
-      "author": "josephljohnston",
-      "commentCount": "278"
-    },
-    "FetchedAt": "2026-11-12T14:23:11.7370132+00:00"
   },
   {
     "ExternalId": {
@@ -688,5 +628,455 @@
       "commentCount": "14"
     },
     "FetchedAt": "2026-11-12T14:23:13.0415298+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50467087"
+    },
+    "Type": 1,
+    "Title": "Jensen Huang resigns",
+    "Url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;nvidianews.nvidia.com\u0026#x2F;news\u0026#x2F;nvidia-announces-ceo-transition\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;nvidianews.nvidia.com\u0026#x2F;news\u0026#x2F;nvidia-announces-ceo-tran...\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.reuters.com\u0026#x2F;business\u0026#x2F;retail-consumer\u0026#x2F;nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.reuters.com\u0026#x2F;business\u0026#x2F;retail-consumer\u0026#x2F;nvidia-ceo-...\u003C/a\u003E, \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.reuter",
+    "Metadata": {
+      "score": "2646",
+      "author": "lldb",
+      "commentCount": "2544"
+    },
+    "FetchedAt": "2026-11-12T23:01:48.5494706+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50472038"
+    },
+    "Type": 1,
+    "Title": "Rust 1.100",
+    "Url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+    "Description": "Rust 1.100",
+    "Metadata": {
+      "score": "270",
+      "author": "mbStavola",
+      "commentCount": "129"
+    },
+    "FetchedAt": "2026-11-12T23:01:48.6510147+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50472260"
+    },
+    "Type": 1,
+    "Title": "Gemini 4 Hydrogen and Orchestrator",
+    "Url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+    "Description": "Gemini 4 Hydrogen and Orchestrator",
+    "Metadata": {
+      "score": "214",
+      "author": "jonbaer",
+      "commentCount": "55"
+    },
+    "FetchedAt": "2026-11-12T23:01:48.7136091+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50474361"
+    },
+    "Type": 1,
+    "Title": "Foundation Models framework",
+    "Url": "https://developer.apple.com/foundation-models-framework/",
+    "Description": "Foundation Models framework",
+    "Metadata": {
+      "score": "63",
+      "author": "kermatt",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-11-12T23:01:48.7490486+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50472490"
+    },
+    "Type": 1,
+    "Title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+    "Url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+    "Description": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+    "Metadata": {
+      "score": "151",
+      "author": "cybermango",
+      "commentCount": "68"
+    },
+    "FetchedAt": "2026-11-12T23:01:48.8055641+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50470488"
+    },
+    "Type": 1,
+    "Title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+    "Url": "https://github.com/simpsoka/zigzag",
+    "Description": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+    "Metadata": {
+      "score": "248",
+      "author": "simpsoka",
+      "commentCount": "101"
+    },
+    "FetchedAt": "2026-11-12T23:01:48.8617453+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50471731"
+    },
+    "Type": 1,
+    "Title": "Service degradation on Microsoft 365",
+    "Url": "https://status.cloud.microsoft/",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.abc.net.au\u0026#x2F;news\u0026#x2F;2026-11-13\u0026#x2F;microsoft-outage-affects-users-worldwide\u0026#x2F;107381050\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.abc.net.au\u0026#x2F;news\u0026#x2F;2026-11-13\u0026#x2F;microsoft-outage-affe...\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.reddit.com\u0026#x2F;r\u0026#x2F;sysadmin\u0026#x2F;comments\u0026#x2F;1xuje83\u0026#x2F;microsoft_office_seems_to_be_down\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.reddit.com\u0026#x2F;r\u0026#x2F;sysadmin\u0026#x2F;comments\u0026#x2F;1xuje83\u0026#x2F;microsoft...\u003C/a\u003E\u003Cp\u003E\u003Ca h",
+    "Metadata": {
+      "score": "369",
+      "author": "dkpk",
+      "commentCount": "354"
+    },
+    "FetchedAt": "2026-11-12T23:01:48.8964981+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50471761"
+    },
+    "Type": 1,
+    "Title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+    "Url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+    "Description": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+    "Metadata": {
+      "score": "110",
+      "author": "ozirus",
+      "commentCount": "13"
+    },
+    "FetchedAt": "2026-11-12T23:01:48.9268094+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50474311"
+    },
+    "Type": 1,
+    "Title": "AI is turning Apple\u0027s app review process into a nightmare for synth developers",
+    "Url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+    "Description": "AI is turning Apple\u0027s app review process into a nightmare for synth developers",
+    "Metadata": {
+      "score": "29",
+      "author": "anigbrowl",
+      "commentCount": "18"
+    },
+    "FetchedAt": "2026-11-12T23:01:48.9611221+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50468888"
+    },
+    "Type": 1,
+    "Title": "I\u0027m making LLMs work on small and old devices",
+    "Url": "https://github.com/hyperionaidev/smolmaxxing/",
+    "Description": "I\u0027m making LLMs work on small and old devices",
+    "Metadata": {
+      "score": "251",
+      "author": "mrashad74",
+      "commentCount": "86"
+    },
+    "FetchedAt": "2026-11-12T23:01:48.9944364+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50467618"
+    },
+    "Type": 1,
+    "Title": "Abandoned Quake 4 expansion finished by modders and now playable",
+    "Url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+    "Description": "Abandoned Quake 4 expansion finished by modders and now playable",
+    "Metadata": {
+      "score": "228",
+      "author": "klaussilveira",
+      "commentCount": "77"
+    },
+    "FetchedAt": "2026-11-12T23:01:49.0253459+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50458849"
+    },
+    "Type": 1,
+    "Title": "Relax: JIT compiler for Rust to reduce build times",
+    "Url": "https://makepad.github.io/relax/",
+    "Description": "Relax: JIT compiler for Rust to reduce build times",
+    "Metadata": {
+      "score": "87",
+      "author": "adamnemecek",
+      "commentCount": "38"
+    },
+    "FetchedAt": "2026-11-12T23:01:49.0565366+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50439283"
+    },
+    "Type": 1,
+    "Title": "Safety in Algae Home Experiments",
+    "Url": "https://chillphysicsenjoyer.substack.com/p/algae-safety-in-home-experiments",
+    "Description": "Safety in Algae Home Experiments",
+    "Metadata": {
+      "score": "16",
+      "author": "surprisetalk",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-11-12T23:01:49.090449+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50471431"
+    },
+    "Type": 1,
+    "Title": "Gemini 4 Hydrogen",
+    "Url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+    "Description": "Gemini 4 Hydrogen",
+    "Metadata": {
+      "score": "411",
+      "author": "dvaplima",
+      "commentCount": "274"
+    },
+    "FetchedAt": "2026-11-12T23:01:49.1210877+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50471281"
+    },
+    "Type": 1,
+    "Title": "Show HN: Kapso \u2013 Iterative learning from enterprise data",
+    "Url": "https://news.ycombinator.com/item?id=50471281",
+    "Description": "Hey HN! We\u0026#x27;re Alireza and Majid building Leeroo (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;leeroo.com\u0026#x2F;\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;leeroo.com\u0026#x2F;\u003C/a\u003E). Previously we\u2019ve built AI systems for products with millions of users, including at LinkedIn and Meta. We\u2019re now focusing on building AI systems for enterprise data. Today, we\u0026#x27;re open-sourcing Kapso (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;Leeroo-AI\u0026#x2F;kapso\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;Leeroo-AI\u0026#x2F;kapso\u003C/a\u003E), an engine that",
+    "Metadata": {
+      "score": "30",
+      "author": "alireza_msh",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-11-12T23:01:49.155107+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50465352"
+    },
+    "Type": 1,
+    "Title": "Why writing correct software is hard and why math (alone) won\u2019t help us (2016)",
+    "Url": "https://pron.github.io/posts/correctness-and-complexity",
+    "Description": "Why writing correct software is hard and why math (alone) won\u2019t help us (2016)",
+    "Metadata": {
+      "score": "342",
+      "author": "AriFordsham",
+      "commentCount": "164"
+    },
+    "FetchedAt": "2026-11-12T23:01:49.1884136+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50467460"
+    },
+    "Type": 1,
+    "Title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+    "Url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+    "Description": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+    "Metadata": {
+      "score": "171",
+      "author": "dverlaeckt80",
+      "commentCount": "2"
+    },
+    "FetchedAt": "2026-11-12T23:01:49.2313323+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50472505"
+    },
+    "Type": 1,
+    "Title": "Distributed Ray Tracer",
+    "Url": "https://ray.hatchet.run",
+    "Description": "Hey HN, I\u0026#x27;m Julius, I\u0026#x27;m a backend engineer at Hatchet and created this demo to show off some of Hatchet\u0026#x27;s new features, primarily durable streams and serverless endpoints. Those, however, are just background details that made this significantly easier to scale. By distributing the rendering across many different nodes, orchestrated using Hatchet, it makes it possible to render quite high fidelity scenes fairly quickly. All of this would be possible on a single machine, but would b",
+    "Metadata": {
+      "score": "30",
+      "author": "juliusgeo",
+      "commentCount": "12"
+    },
+    "FetchedAt": "2026-11-12T23:01:49.2634835+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50471650"
+    },
+    "Type": 1,
+    "Title": "Show HN: AgentRun \u2013 open-source, Self-improving Managed Agents",
+    "Url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+    "Description": "We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;agentrun.ai\u0026#x2F;blog\u0026#x2F;introducing-agentrun-run-smarter-agents-use-fewer-tokens\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;agentrun.ai\u0026#x2F;blog\u0026#x2F;introducing-agentrun-run-smarter-ag...\u003C/a\u003E.\u003Cp\u003EIt includes what we originally built for our own agent harness:\u003Cp\u003E- Self-improving agents \n- Web-grounded workflows \n- A range of sandboxes and compu",
+    "Metadata": {
+      "score": "65",
+      "author": "miguelrios",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-11-12T23:01:49.2942632+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50466410"
+    },
+    "Type": 1,
+    "Title": "Adapting CPython for Yk",
+    "Url": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
+    "Description": "Adapting CPython for Yk",
+    "Metadata": {
+      "score": "34",
+      "author": "frostbyte7",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-11-12T23:01:49.3370413+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50465829"
+    },
+    "Type": 1,
+    "Title": "Anthropic IPO",
+    "Url": "https://ipo.anthropic.com/us/",
+    "Description": "Anthropic IPO",
+    "Metadata": {
+      "score": "771",
+      "author": "josephljohnston",
+      "commentCount": "762"
+    },
+    "FetchedAt": "2026-11-12T23:01:49.3690817+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50474883"
+    },
+    "Type": 1,
+    "Title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "Url": "https://unemploymentlabs.com/checkpoint-forensics",
+    "Description": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "Metadata": {
+      "score": "50",
+      "author": "firloop",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-11-12T23:01:49.4061156+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50459508"
+    },
+    "Type": 1,
+    "Title": "Words of warning about radiocarbon dating medieval human bones",
+    "Url": "https://www.nature.com/articles/s40494-026-02958-x",
+    "Description": "Words of warning about radiocarbon dating medieval human bones",
+    "Metadata": {
+      "score": "45",
+      "author": "gumby",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-11-12T23:01:49.4393549+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50437505"
+    },
+    "Type": 1,
+    "Title": "Beyond the compiler: Making IBM i run modified native code",
+    "Url": "https://blog.silentsignal.eu/2026/11/10/Beyond-the-compiler-Making-IBM-i-run-modified-native-code-PVV/",
+    "Description": "Beyond the compiler: Making IBM i run modified native code",
+    "Metadata": {
+      "score": "5",
+      "author": "dnet",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-11-12T23:01:49.4876549+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50473231"
+    },
+    "Type": 1,
+    "Title": "Data centers need power \u2013 lower income, rural residents pay the price",
+    "Url": "https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price",
+    "Description": "Data centers need power \u2013 lower income, rural residents pay the price",
+    "Metadata": {
+      "score": "150",
+      "author": "PaulHoule",
+      "commentCount": "153"
+    },
+    "FetchedAt": "2026-11-12T23:01:49.5401972+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50468944"
+    },
+    "Type": 1,
+    "Title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+    "Url": "https://github.com/chocoford/ExcalidrawZ",
+    "Description": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+    "Metadata": {
+      "score": "97",
+      "author": "Qision",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-11-12T23:01:49.5801686+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50467297"
+    },
+    "Type": 1,
+    "Title": "Our software engineering interviews are changing a little",
+    "Url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+    "Description": "Our software engineering interviews are changing a little",
+    "Metadata": {
+      "score": "149",
+      "author": "maitland",
+      "commentCount": "142"
+    },
+    "FetchedAt": "2026-11-12T23:01:49.6356225+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50425017"
+    },
+    "Type": 1,
+    "Title": "A live tree of systemd jobs on the boot console",
+    "Url": "https://codeberg.org/wvhulle/bootvine",
+    "Description": "A live tree of systemd jobs on the boot console",
+    "Metadata": {
+      "score": "344",
+      "author": "orhunp_",
+      "commentCount": "133"
+    },
+    "FetchedAt": "2026-11-12T23:01:49.7082041+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50469994"
+    },
+    "Type": 1,
+    "Title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+    "Url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+    "Description": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+    "Metadata": {
+      "score": "251",
+      "author": "CharlesW",
+      "commentCount": "187"
+    },
+    "FetchedAt": "2026-11-12T23:01:49.7402661+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50471621"
+    },
+    "Type": 1,
+    "Title": "Singapore Says U.S. Not Helpful on Investigation into Suspected Spy\u0027s Company",
+    "Url": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
+    "Description": "Singapore Says U.S. Not Helpful on Investigation into Suspected Spy\u0027s Company",
+    "Metadata": {
+      "score": "139",
+      "author": "tedd4u",
+      "commentCount": "50"
+    },
+    "FetchedAt": "2026-11-12T23:01:49.770684+00:00"
   }
 ]
