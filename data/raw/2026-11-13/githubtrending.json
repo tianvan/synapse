@@ -134,56 +134,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:alibaba/open-code-review"
-    },
-    "Type": 0,
-    "Title": "alibaba/open-code-review",
-    "Url": "https://github.com/alibaba/open-code-review",
-    "Description": "Secure, fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
-    "Metadata": {
-      "owner": "alibaba",
-      "repo": "open-code-review",
-      "language": "Go",
-      "stars": "206",
-      "topics": "agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context"
-    },
-    "FetchedAt": "2026-11-13T13:42:32.4215867+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:GoogleChrome/modern-web-guidance-src"
-    },
-    "Type": 0,
-    "Title": "GoogleChrome/modern-web-guidance-src",
-    "Url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-    "Description": "Keep your coding agent up to date with the latest web best practices",
-    "Metadata": {
-      "owner": "GoogleChrome",
-      "repo": "modern-web-guidance-src",
-      "language": "TypeScript",
-      "stars": "1,875"
-    },
-    "FetchedAt": "2026-11-13T13:42:32.6591616+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:openai/codex-security"
-    },
-    "Type": 0,
-    "Title": "openai/codex-security",
-    "Url": "https://github.com/openai/codex-security",
-    "Description": "OpenAI\u0027s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-    "Metadata": {
-      "owner": "openai",
-      "repo": "codex-security",
-      "language": "TypeScript",
-      "stars": "754",
-      "topics": "ai-security, application-security, cli, code-scanning, codex, codex-security, cybersecurity, devsecops, nodejs, npm, openai, sdk, security, typescript, vulnerability-scanning"
-    },
-    "FetchedAt": "2026-11-13T13:42:32.8799858+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:ZhuLinsen/daily_stock_analysis"
     },
     "Type": 0,
@@ -201,6 +151,56 @@
   },
   {
     "ExternalId": {
+      "Value": "github:alibaba/open-code-review"
+    },
+    "Type": 0,
+    "Title": "alibaba/open-code-review",
+    "Url": "https://github.com/alibaba/open-code-review",
+    "Description": "Secure, fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
+    "Metadata": {
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "language": "Go",
+      "stars": "206",
+      "topics": "agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context"
+    },
+    "FetchedAt": "2026-11-13T23:04:48.6403324+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:GoogleChrome/modern-web-guidance-src"
+    },
+    "Type": 0,
+    "Title": "GoogleChrome/modern-web-guidance-src",
+    "Url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+    "Description": "Keep your coding agent up to date with the latest web best practices",
+    "Metadata": {
+      "owner": "GoogleChrome",
+      "repo": "modern-web-guidance-src",
+      "language": "TypeScript",
+      "stars": "1,875"
+    },
+    "FetchedAt": "2026-11-13T23:04:48.8571686+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:openai/codex-security"
+    },
+    "Type": 0,
+    "Title": "openai/codex-security",
+    "Url": "https://github.com/openai/codex-security",
+    "Description": "OpenAI\u0027s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+    "Metadata": {
+      "owner": "openai",
+      "repo": "codex-security",
+      "language": "TypeScript",
+      "stars": "754",
+      "topics": "ai-security, application-security, cli, code-scanning, codex, codex-security, cybersecurity, devsecops, nodejs, npm, openai, sdk, security, typescript, vulnerability-scanning"
+    },
+    "FetchedAt": "2026-11-13T23:04:49.019991+00:00"
+  },
+  {
+    "ExternalId": {
       "Value": "github:we-promise/sure"
     },
     "Type": 0,
@@ -213,7 +213,7 @@
       "language": "Ruby",
       "stars": "944"
     },
-    "FetchedAt": "2026-11-13T13:42:33.2329673+00:00"
+    "FetchedAt": "2026-11-13T23:04:49.175271+00:00"
   },
   {
     "ExternalId": {
@@ -230,7 +230,7 @@
       "stars": "100",
       "topics": "agents, claude-code, code-review, codex, obsidian, opencode, pi-mono, plan-mode, skills"
     },
-    "FetchedAt": "2026-11-13T13:42:33.4283152+00:00"
+    "FetchedAt": "2026-11-13T23:04:49.344468+00:00"
   },
   {
     "ExternalId": {
@@ -246,7 +246,7 @@
       "language": "Rust",
       "stars": "95"
     },
-    "FetchedAt": "2026-11-13T13:42:33.6117216+00:00"
+    "FetchedAt": "2026-11-13T23:04:49.5015524+00:00"
   },
   {
     "ExternalId": {
@@ -262,7 +262,7 @@
       "language": "Python",
       "stars": "60"
     },
-    "FetchedAt": "2026-11-13T13:42:33.8274379+00:00"
+    "FetchedAt": "2026-11-13T23:04:49.6970707+00:00"
   },
   {
     "ExternalId": {
@@ -276,9 +276,9 @@
       "owner": "tailscale",
       "repo": "tailcat",
       "language": "Go",
-      "stars": "173"
+      "stars": "324"
     },
-    "FetchedAt": "2026-11-13T13:42:33.983382+00:00"
+    "FetchedAt": "2026-11-13T23:04:49.8418433+00:00"
   },
   {
     "ExternalId": {
@@ -294,7 +294,7 @@
       "language": "C\u002B\u002B",
       "stars": "245"
     },
-    "FetchedAt": "2026-11-13T13:42:34.1926781+00:00"
+    "FetchedAt": "2026-11-13T23:04:50.002016+00:00"
   },
   {
     "ExternalId": {
@@ -308,9 +308,9 @@
       "owner": "ChromeDevTools",
       "repo": "chrome-devtools-mcp",
       "language": "TypeScript",
-      "stars": "60",
+      "stars": "145",
       "topics": "browser, chrome, chrome-devtools, debugging, devtools, mcp, mcp-server, puppeteer"
     },
-    "FetchedAt": "2026-11-13T13:42:34.3657479+00:00"
+    "FetchedAt": "2026-11-13T23:04:50.131151+00:00"
   }
 ]
