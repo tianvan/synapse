@@ -1,0 +1,623 @@
+{
+  "Id": "2026-11-13",
+  "GeneratedAt": "2026-11-13T05:26:58.0338937+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:GoogleChrome/modern-web-guidance-src"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Keep your coding agent up to date with the latest web best practices"
+      },
+      "Description": "Keep your coding agent up to date with the latest web best practices",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:openai/codex-security"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "OpenAI\u0027s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https:"
+      },
+      "Description": "OpenAI\u0027s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@opena",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:nvm-sh/nvm"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions."
+      },
+      "Description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:pookjw/HermesEnabler"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Enable Herm\u00E8s Watch Faces on any Apple Watch devices"
+      },
+      "Description": "Enable Herm\u00E8s Watch Faces on any Apple Watch devices",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:we-promise/sure"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The personal finance app for everyone (by everyone)"
+      },
+      "Description": "The personal finance app for everyone (by everyone)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:QwenLM/qwen-code"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "An open-source AI coding agent that lives in your terminal."
+      },
+      "Description": "An open-source AI coding agent that lives in your terminal.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:addyosmani/agent-skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Production-grade engineering skills for AI coding agents."
+      },
+      "Description": "Production-grade engineering skills for AI coding agents.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:meta/astryx"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "An open source design system that\u0027s fully customizable and agent ready"
+      },
+      "Description": "An open source design system that\u0027s fully customizable and agent ready",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:CopilotKit/OpenBot"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided be"
+      },
+      "Description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded a",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Alishahryar1/free-claude-code"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B\u002B free tokens) from "
+      },
+      "Description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B\u002B free tokens) from your terminal, app, IDE, or ph",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:ggml-org/llama.cpp"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "LLM inference in C/C\u002B\u002B"
+      },
+      "Description": "LLM inference in C/C\u002B\u002B",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50467087"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;nvidianews.nvidia.com\u0026#x2F;news\u0026#x2F;nvidia-announces-ceo-transition\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;nvidianews.nvidia.com\u0026#x2F;news\u0026#x2F;nvidia-announces-ceo-transition\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;nvidianews.nvidia.co",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50477714"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Switcher (2004)"
+      },
+      "Description": "Switcher (2004)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50472038"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Rust 1.100"
+      },
+      "Description": "Rust 1.100",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50472260"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Gemini 4 Hydrogen and Orchestrator"
+      },
+      "Description": "Gemini 4 Hydrogen and Orchestrator",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50475713"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Edge0-145B: Frontier AI Capabilities on Your Own Computer"
+      },
+      "Description": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50470488"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;x.com\u0026#x2F;simpsoka\u0026#x2F;status\u0026#x2F;2115254318161182876\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;x."
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;x.com\u0026#x2F;simpsoka\u0026#x2F;status\u0026#x2F;2115254318161182876\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;x.com\u0026#x2F;simpsoka\u0026#x2F;status\u0026",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50472490"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun"
+      },
+      "Description": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50474361"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Foundation Models framework"
+      },
+      "Description": "Foundation Models framework",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50477231"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Nvidia employees petition to bring back Jensen Huang"
+      },
+      "Description": "Nvidia employees petition to bring back Jensen Huang",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50471731"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.abc.net.au\u0026#x2F;news\u0026#x2F;2026-11-13\u0026#x2F;microsoft-outage-affects-users-worldwide\u0026#x2F;1"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.abc.net.au\u0026#x2F;news\u0026#x2F;2026-11-13\u0026#x2F;microsoft-outage-affects-users-worldwide\u0026#x2F;107381050\u0022 rel=\u0022nofollow\u0022\u003Ehttps",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50473190"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.forbes.com\u0026#x2F;sites\u0026#x2F;alisondurkee\u0026#x2F;2026\u0026#x2F;11\u0026#x2F;12\u0026#x2F;jensen-huang-had-a"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.forbes.com\u0026#x2F;sites\u0026#x2F;alisondurkee\u0026#x2F;2026\u0026#x2F;11\u0026#x2F;12\u0026#x2F;jensen-huang-had-a-third-affair-with-another-nvi",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50474311"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AI is turning Apple\u0027s app review process into a nightmare for synth developers"
+      },
+      "Description": "AI is turning Apple\u0027s app review process into a nightmare for synth developers",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50468888"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I\u0027m making LLMs work on small and old devices"
+      },
+      "Description": "I\u0027m making LLMs work on small and old devices",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50471761"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Turning a 22-year-old Postgres type-confusion primitive into RCE"
+      },
+      "Description": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50467618"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Abandoned Quake 4 expansion finished by modders and now playable"
+      },
+      "Description": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50460263"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp"
+      },
+      "Description": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50458849"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Relax: JIT compiler for Rust to reduce build times"
+      },
+      "Description": "Relax: JIT compiler for Rust to reduce build times",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50474586"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hey guys. I recently watched the latency reports for my local voice assistant, which show a waveform plus silero probabi"
+      },
+      "Description": "Hey guys. I recently watched the latency reports for my local voice assistant, which show a waveform plus silero probability for voice activity. I not",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50466410"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Adapting CPython for Yk"
+      },
+      "Description": "Adapting CPython for Yk",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50473888"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Announcement: Conductor Is Back"
+      },
+      "Description": "Announcement: Conductor Is Back",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50467460"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Talking Zen 6 with Mike Clark at AMD In-Depth"
+      },
+      "Description": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50471431"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Gemini 4 Hydrogen"
+      },
+      "Description": "Gemini 4 Hydrogen",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50465829"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Anthropic IPO"
+      },
+      "Description": "Anthropic IPO",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50474883"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs"
+      },
+      "Description": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50471281"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hey HN! We\u0026#x27;re Alireza and Majid building Leeroo (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;leeroo.com\u0026#x2F;\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;lee"
+      },
+      "Description": "Hey HN! We\u0026#x27;re Alireza and Majid building Leeroo (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;leeroo.com\u0026#x2F;\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;leeroo.com\u0026#x2F;\u003C/a\u003E). Previously",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50454700"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Before Pixels: Speed-Minder"
+      },
+      "Description": "Before Pixels: Speed-Minder",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50467297"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Our software engineering interviews are changing a little"
+      },
+      "Description": "Our software engineering interviews are changing a little",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50471650"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it i"
+      },
+      "Description": "We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: \u003Ca href=\u0022https:\u0026#",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50468944"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS"
+      },
+      "Description": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50467439"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Libreagi \u2013 Save OSS Models"
+      },
+      "Description": "Libreagi \u2013 Save OSS Models",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 41 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
