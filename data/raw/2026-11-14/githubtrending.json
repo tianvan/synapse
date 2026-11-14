@@ -1,0 +1,166 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:alibaba/open-code-review"
+    },
+    "Type": 0,
+    "Title": "alibaba/open-code-review",
+    "Url": "https://github.com/alibaba/open-code-review",
+    "Description": "Secure, fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
+    "Metadata": {
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "language": "Go",
+      "stars": "215",
+      "topics": "agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context"
+    },
+    "FetchedAt": "2026-11-14T04:20:25.9233929+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:GoogleChrome/modern-web-guidance-src"
+    },
+    "Type": 0,
+    "Title": "GoogleChrome/modern-web-guidance-src",
+    "Url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+    "Description": "Keep your coding agent up to date with the latest web best practices",
+    "Metadata": {
+      "owner": "GoogleChrome",
+      "repo": "modern-web-guidance-src",
+      "language": "TypeScript",
+      "stars": "1,925"
+    },
+    "FetchedAt": "2026-11-14T04:20:26.2177793+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:openai/codex-security"
+    },
+    "Type": 0,
+    "Title": "openai/codex-security",
+    "Url": "https://github.com/openai/codex-security",
+    "Description": "OpenAI\u0027s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+    "Metadata": {
+      "owner": "openai",
+      "repo": "codex-security",
+      "language": "TypeScript",
+      "stars": "751",
+      "topics": "ai-security, application-security, cli, code-scanning, codex, codex-security, cybersecurity, devsecops, nodejs, npm, openai, sdk, security, typescript, vulnerability-scanning"
+    },
+    "FetchedAt": "2026-11-14T04:20:26.3817152+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:we-promise/sure"
+    },
+    "Type": 0,
+    "Title": "we-promise/sure",
+    "Url": "https://github.com/we-promise/sure",
+    "Description": "The personal finance app for everyone (by everyone)",
+    "Metadata": {
+      "owner": "we-promise",
+      "repo": "sure",
+      "language": "Ruby",
+      "stars": "925"
+    },
+    "FetchedAt": "2026-11-14T04:20:26.5383855+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:backnotprop/plannotator"
+    },
+    "Type": 0,
+    "Title": "backnotprop/plannotator",
+    "Url": "https://github.com/backnotprop/plannotator",
+    "Description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+    "Metadata": {
+      "owner": "backnotprop",
+      "repo": "plannotator",
+      "language": "TypeScript",
+      "stars": "108",
+      "topics": "agents, claude-code, code-review, codex, obsidian, opencode, pi-mono, plan-mode, skills"
+    },
+    "FetchedAt": "2026-11-14T04:20:26.6870985+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:block/buzz"
+    },
+    "Type": 0,
+    "Title": "block/buzz",
+    "Url": "https://github.com/block/buzz",
+    "Description": "A hive mind communication platform",
+    "Metadata": {
+      "owner": "block",
+      "repo": "buzz",
+      "language": "Rust",
+      "stars": "97"
+    },
+    "FetchedAt": "2026-11-14T04:20:26.8657924+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:tradermonty/claude-trading-skills"
+    },
+    "Type": 0,
+    "Title": "tradermonty/claude-trading-skills",
+    "Url": "https://github.com/tradermonty/claude-trading-skills",
+    "Description": "Claude Code skills for equity investors and traders \u2014 market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+    "Metadata": {
+      "owner": "tradermonty",
+      "repo": "claude-trading-skills",
+      "language": "Python",
+      "stars": "69"
+    },
+    "FetchedAt": "2026-11-14T04:20:27.1097481+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:tailscale/tailcat"
+    },
+    "Type": 0,
+    "Title": "tailscale/tailcat",
+    "Url": "https://github.com/tailscale/tailcat",
+    "Description": "like netcat, but over Tailscale\u0027s data plane, without Tailscale\u0027s control plane",
+    "Metadata": {
+      "owner": "tailscale",
+      "repo": "tailcat",
+      "language": "Go",
+      "stars": "256"
+    },
+    "FetchedAt": "2026-11-14T04:20:27.274733+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Likely7/Veyra-NRVideo"
+    },
+    "Type": 0,
+    "Title": "Likely7/Veyra-NRVideo",
+    "Url": "https://github.com/Likely7/Veyra-NRVideo",
+    "Description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+    "Metadata": {
+      "owner": "Likely7",
+      "repo": "Veyra-NRVideo",
+      "language": "C\u002B\u002B",
+      "stars": "256"
+    },
+    "FetchedAt": "2026-11-14T04:20:27.4230949+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ChromeDevTools/chrome-devtools-mcp"
+    },
+    "Type": 0,
+    "Title": "ChromeDevTools/chrome-devtools-mcp",
+    "Url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "Description": "Chrome DevTools for coding agents",
+    "Metadata": {
+      "owner": "ChromeDevTools",
+      "repo": "chrome-devtools-mcp",
+      "language": "TypeScript",
+      "stars": "67",
+      "topics": "browser, chrome, chrome-devtools, debugging, devtools, mcp, mcp-server, puppeteer"
+    },
+    "FetchedAt": "2026-11-14T04:20:27.5889191+00:00"
+  }
+]
