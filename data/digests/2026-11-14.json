@@ -1,0 +1,608 @@
+{
+  "Id": "2026-11-14",
+  "GeneratedAt": "2026-11-14T05:16:51.0823913+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:alibaba/open-code-review"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Secure, fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines"
+      },
+      "Description": "Secure, fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-lev",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:GoogleChrome/modern-web-guidance-src"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Keep your coding agent up to date with the latest web best practices"
+      },
+      "Description": "Keep your coding agent up to date with the latest web best practices",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:openai/codex-security"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "OpenAI\u0027s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https:"
+      },
+      "Description": "OpenAI\u0027s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@opena",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:we-promise/sure"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The personal finance app for everyone (by everyone)"
+      },
+      "Description": "The personal finance app for everyone (by everyone)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:backnotprop/plannotator"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, an"
+      },
+      "Description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents ",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:block/buzz"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A hive mind communication platform"
+      },
+      "Description": "A hive mind communication platform",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:tradermonty/claude-trading-skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Claude Code skills for equity investors and traders \u2014 market analysis, technical charting, economic calendars, screeners"
+      },
+      "Description": "Claude Code skills for equity investors and traders \u2014 market analysis, technical charting, economic calendars, screeners, and trading strategy develop",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:tailscale/tailcat"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "like netcat, but over Tailscale\u0027s data plane, without Tailscale\u0027s control plane"
+      },
+      "Description": "like netcat, but over Tailscale\u0027s data plane, without Tailscale\u0027s control plane",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Likely7/Veyra-NRVideo"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time "
+      },
+      "Description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, an",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:ChromeDevTools/chrome-devtools-mcp"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Chrome DevTools for coding agents"
+      },
+      "Description": "Chrome DevTools for coding agents",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50493062"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Ggml v1.0.0"
+      },
+      "Description": "Ggml v1.0.0",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50489641"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.fly.faa.gov\u0026#x2F;adv\u0026#x2F;adv_otherdis?adv_date=11132026\u0026amp;advn=111\u0022 rel=\u0022nofollow\u0022\u003Ehtt"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.fly.faa.gov\u0026#x2F;adv\u0026#x2F;adv_otherdis?adv_date=11132026\u0026amp;advn=111\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.fly.faa.gov",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50491423"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Terminal borders that don\u0027t cost a cell"
+      },
+      "Description": "Terminal borders that don\u0027t cost a cell",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50491830"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "What Happened to 3Com?"
+      },
+      "Description": "What Happened to 3Com?",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50493251"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs"
+      },
+      "Description": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50490593"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped"
+      },
+      "Description": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50491545"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Show HN: Live map of U.S. flights during tonight\u0027s FAA nationwide ground stop"
+      },
+      "Description": "Show HN: Live map of U.S. flights during tonight\u0027s FAA nationwide ground stop",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50474959"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Reverse engineering my Coway air purifier to ditch the cloud"
+      },
+      "Description": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50488325"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "FM-1 Workbench"
+      },
+      "Description": "FM-1 Workbench",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50488470"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Found: A protein that drives ageing without unleashing inflammation"
+      },
+      "Description": "Found: A protein that drives ageing without unleashing inflammation",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50492860"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Elephants found to be increasingly isolated leading to fractured social networks"
+      },
+      "Description": "Elephants found to be increasingly isolated leading to fractured social networks",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50491980"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Unsloth Qwen3.8-27B Quantizations \u2013 Dynamic v3.1 Update"
+      },
+      "Description": "Unsloth Qwen3.8-27B Quantizations \u2013 Dynamic v3.1 Update",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50492315"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop"
+      },
+      "Description": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50487185"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "After 600 experiments, here\u0027s what I discovered about JEPA world models"
+      },
+      "Description": "After 600 experiments, here\u0027s what I discovered about JEPA world models",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50484658"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Jonathan Blow \u2013 If AI solved coding, why is my software still the same? [video]"
+      },
+      "Description": "Jonathan Blow \u2013 If AI solved coding, why is my software still the same? [video]",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50492993"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal"
+      },
+      "Description": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50492098"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Philip Roth and David Remnick getting personal (2001)"
+      },
+      "Description": "Philip Roth and David Remnick getting personal (2001)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50491400"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How Not to Build a Music Player"
+      },
+      "Description": "How Not to Build a Music Player",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50488464"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Perplexity Decider v1.3: Training, eval, and use cases"
+      },
+      "Description": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50488835"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Live-migration support in FreeBSD and bhyve coming"
+      },
+      "Description": "Live-migration support in FreeBSD and bhyve coming",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50489589"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth"
+      },
+      "Description": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50487228"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Technical Write-up: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.justinchavez.com\u0026#x2F;blog\u0026#x2F;isometric-sf-how\u0026#x2F;\u0022 rel=\u0022nofollow"
+      },
+      "Description": "Technical Write-up: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.justinchavez.com\u0026#x2F;blog\u0026#x2F;isometric-sf-how\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.justin",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50484235"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A technical vision for the Haskell ecosystem"
+      },
+      "Description": "A technical vision for the Haskell ecosystem",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50492141"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Anthropic upgrades Claude Code Projects to run parallel AI workers"
+      },
+      "Description": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50484650"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;palmfrets.com\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;palmfrets.com\u0026#x2F;\u003C/a\u003E"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;palmfrets.com\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;palmfrets.com\u0026#x2F;\u003C/a\u003E",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50487605"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Ctrl\u002BC, Ctrl\u002Bv, Ctrl\u002Bcve: Bypassing Android\u0027s Clipboard Read Security Measures"
+      },
+      "Description": "Ctrl\u002BC, Ctrl\u002Bv, Ctrl\u002Bcve: Bypassing Android\u0027s Clipboard Read Security Measures",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50487864"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX"
+      },
+      "Description": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50489652"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "All US airports are currently ground stopped"
+      },
+      "Description": "All US airports are currently ground stopped",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50487762"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Weight Space Misfolding"
+      },
+      "Description": "Weight Space Misfolding",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50491295"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Lying to Zed to get its remote server running on FreeBSD"
+      },
+      "Description": "Lying to Zed to get its remote server running on FreeBSD",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 40 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
