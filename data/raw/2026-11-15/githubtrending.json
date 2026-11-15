@@ -1,89 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:backnotprop/plannotator"
-    },
-    "Type": 0,
-    "Title": "backnotprop/plannotator",
-    "Url": "https://github.com/backnotprop/plannotator",
-    "Description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
-    "Metadata": {
-      "owner": "backnotprop",
-      "repo": "plannotator",
-      "language": "TypeScript",
-      "stars": "860",
-      "topics": "agents, claude-code, code-review, codex, obsidian, opencode, pi-mono, plan-mode, skills"
-    },
-    "FetchedAt": "2026-11-15T13:14:28.7050355+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:GoogleChrome/modern-web-guidance-src"
-    },
-    "Type": 0,
-    "Title": "GoogleChrome/modern-web-guidance-src",
-    "Url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-    "Description": "Keep your coding agent up to date with the latest web best practices",
-    "Metadata": {
-      "owner": "GoogleChrome",
-      "repo": "modern-web-guidance-src",
-      "language": "TypeScript",
-      "stars": "1,220"
-    },
-    "FetchedAt": "2026-11-15T13:14:28.8662304+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:tradermonty/claude-trading-skills"
-    },
-    "Type": 0,
-    "Title": "tradermonty/claude-trading-skills",
-    "Url": "https://github.com/tradermonty/claude-trading-skills",
-    "Description": "Claude Code skills for equity investors and traders \u2014 market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-    "Metadata": {
-      "owner": "tradermonty",
-      "repo": "claude-trading-skills",
-      "language": "Python",
-      "stars": "707"
-    },
-    "FetchedAt": "2026-11-15T13:14:28.9927352+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:ChromeDevTools/chrome-devtools-mcp"
-    },
-    "Type": 0,
-    "Title": "ChromeDevTools/chrome-devtools-mcp",
-    "Url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-    "Description": "Chrome DevTools for coding agents",
-    "Metadata": {
-      "owner": "ChromeDevTools",
-      "repo": "chrome-devtools-mcp",
-      "language": "TypeScript",
-      "stars": "718",
-      "topics": "browser, chrome, chrome-devtools, debugging, devtools, mcp, mcp-server, puppeteer"
-    },
-    "FetchedAt": "2026-11-15T13:14:29.0987426+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:alibaba/open-code-review"
-    },
-    "Type": 0,
-    "Title": "alibaba/open-code-review",
-    "Url": "https://github.com/alibaba/open-code-review",
-    "Description": "Secure, fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
-    "Metadata": {
-      "owner": "alibaba",
-      "repo": "open-code-review",
-      "language": "Go",
-      "stars": "688",
-      "topics": "agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context"
-    },
-    "FetchedAt": "2026-11-15T13:14:29.2663276+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:QwenLM/qwen-code"
     },
     "Type": 0,
@@ -101,40 +18,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:dream-num/univer"
-    },
-    "Type": 0,
-    "Title": "dream-num/univer",
-    "Url": "https://github.com/dream-num/univer",
-    "Description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
-    "Metadata": {
-      "owner": "dream-num",
-      "repo": "univer",
-      "language": "TypeScript",
-      "stars": "1,041",
-      "topics": "board, collaboration, doc, docx, excel, offce365, office, pdf, ppt, pptx, presentation, sdk, sheet, slides, spreadsheet, univer, word, wordprocessor, workspace, xlsx"
-    },
-    "FetchedAt": "2026-11-15T13:14:29.5016275+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:ag-ui-protocol/ag-ui"
-    },
-    "Type": 0,
-    "Title": "ag-ui-protocol/ag-ui",
-    "Url": "https://github.com/ag-ui-protocol/ag-ui",
-    "Description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-    "Metadata": {
-      "owner": "ag-ui-protocol",
-      "repo": "ag-ui",
-      "language": "TypeScript",
-      "stars": "393",
-      "topics": "ag-ui-protocol, agent-frontend, agent-ui, agentic-workflow, ai-agents"
-    },
-    "FetchedAt": "2026-11-15T13:14:29.6434471+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:we-promise/sure"
     },
     "Type": 0,
@@ -148,23 +31,6 @@
       "stars": "520"
     },
     "FetchedAt": "2026-11-15T13:14:29.7714305+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:Tencent/LoopForge"
-    },
-    "Type": 0,
-    "Title": "Tencent/LoopForge",
-    "Url": "https://github.com/Tencent/LoopForge",
-    "Description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
-    "Metadata": {
-      "owner": "Tencent",
-      "repo": "LoopForge",
-      "language": "Go",
-      "stars": "484",
-      "topics": "agent-orchestration, agentic-workflow, ai-agents, ai-coding, claude-code, code-review, codebuddy, codex, coding-agents, cursor, developer-tools, human-on-the-loop, llm, mcp, multi-agent, sdlc, self-hosted, sop, workflow-automation, workflow-engine"
-    },
-    "FetchedAt": "2026-11-15T13:14:29.9651346+00:00"
   },
   {
     "ExternalId": {
@@ -198,5 +64,189 @@
       "topics": "gui, kali, linux-app, security, security-audit, wifi, wifi-security, wireless"
     },
     "FetchedAt": "2026-11-15T13:14:30.2208723+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:dream-num/univer"
+    },
+    "Type": 0,
+    "Title": "dream-num/univer",
+    "Url": "https://github.com/dream-num/univer",
+    "Description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+    "Metadata": {
+      "owner": "dream-num",
+      "repo": "univer",
+      "language": "TypeScript",
+      "stars": "1,041",
+      "topics": "board, collaboration, doc, docx, excel, offce365, office, pdf, ppt, pptx, presentation, sdk, sheet, slides, spreadsheet, univer, word, wordprocessor, workspace, xlsx"
+    },
+    "FetchedAt": "2026-11-15T22:20:11.8793959+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ag-ui-protocol/ag-ui"
+    },
+    "Type": 0,
+    "Title": "ag-ui-protocol/ag-ui",
+    "Url": "https://github.com/ag-ui-protocol/ag-ui",
+    "Description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+    "Metadata": {
+      "owner": "ag-ui-protocol",
+      "repo": "ag-ui",
+      "language": "TypeScript",
+      "stars": "393",
+      "topics": "ag-ui-protocol, agent-frontend, agent-ui, agentic-workflow, ai-agents"
+    },
+    "FetchedAt": "2026-11-15T22:20:12.2017863+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google-labs-code/stitch-skills"
+    },
+    "Type": 0,
+    "Title": "google-labs-code/stitch-skills",
+    "Url": "https://github.com/google-labs-code/stitch-skills",
+    "Description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "Metadata": {
+      "owner": "google-labs-code",
+      "repo": "stitch-skills",
+      "language": "TypeScript",
+      "stars": "248"
+    },
+    "FetchedAt": "2026-11-15T22:20:12.3419767+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:backnotprop/plannotator"
+    },
+    "Type": 0,
+    "Title": "backnotprop/plannotator",
+    "Url": "https://github.com/backnotprop/plannotator",
+    "Description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+    "Metadata": {
+      "owner": "backnotprop",
+      "repo": "plannotator",
+      "language": "TypeScript",
+      "stars": "860",
+      "topics": "agents, claude-code, code-review, codex, obsidian, opencode, pi-mono, plan-mode, skills"
+    },
+    "FetchedAt": "2026-11-15T22:20:12.4878521+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ChromeDevTools/chrome-devtools-mcp"
+    },
+    "Type": 0,
+    "Title": "ChromeDevTools/chrome-devtools-mcp",
+    "Url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "Description": "Chrome DevTools for coding agents",
+    "Metadata": {
+      "owner": "ChromeDevTools",
+      "repo": "chrome-devtools-mcp",
+      "language": "TypeScript",
+      "stars": "718",
+      "topics": "browser, chrome, chrome-devtools, debugging, devtools, mcp, mcp-server, puppeteer"
+    },
+    "FetchedAt": "2026-11-15T22:20:12.6058642+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alibaba/open-code-review"
+    },
+    "Type": 0,
+    "Title": "alibaba/open-code-review",
+    "Url": "https://github.com/alibaba/open-code-review",
+    "Description": "Secure, fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
+    "Metadata": {
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "language": "Go",
+      "stars": "688",
+      "topics": "agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context"
+    },
+    "FetchedAt": "2026-11-15T22:20:12.7750462+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Tencent/LoopForge"
+    },
+    "Type": 0,
+    "Title": "Tencent/LoopForge",
+    "Url": "https://github.com/Tencent/LoopForge",
+    "Description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+    "Metadata": {
+      "owner": "Tencent",
+      "repo": "LoopForge",
+      "language": "Go",
+      "stars": "484",
+      "topics": "agent-orchestration, agentic-workflow, ai-agents, ai-coding, claude-code, code-review, codebuddy, codex, coding-agents, cursor, developer-tools, human-on-the-loop, llm, mcp, multi-agent, sdlc, self-hosted, sop, workflow-automation, workflow-engine"
+    },
+    "FetchedAt": "2026-11-15T22:20:12.9210048+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ggml-org/ggml"
+    },
+    "Type": 0,
+    "Title": "ggml-org/ggml",
+    "Url": "https://github.com/ggml-org/ggml",
+    "Description": "Tensor library for machine learning",
+    "Metadata": {
+      "owner": "ggml-org",
+      "repo": "ggml",
+      "language": "C\u002B\u002B",
+      "stars": "53",
+      "topics": "machine-learning"
+    },
+    "FetchedAt": "2026-11-15T22:20:13.0728602+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:GoogleChrome/modern-web-guidance-src"
+    },
+    "Type": 0,
+    "Title": "GoogleChrome/modern-web-guidance-src",
+    "Url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+    "Description": "Keep your coding agent up to date with the latest web best practices",
+    "Metadata": {
+      "owner": "GoogleChrome",
+      "repo": "modern-web-guidance-src",
+      "language": "TypeScript",
+      "stars": "1,220"
+    },
+    "FetchedAt": "2026-11-15T22:20:13.2107091+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:tradermonty/claude-trading-skills"
+    },
+    "Type": 0,
+    "Title": "tradermonty/claude-trading-skills",
+    "Url": "https://github.com/tradermonty/claude-trading-skills",
+    "Description": "Claude Code skills for equity investors and traders \u2014 market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+    "Metadata": {
+      "owner": "tradermonty",
+      "repo": "claude-trading-skills",
+      "language": "Python",
+      "stars": "707"
+    },
+    "FetchedAt": "2026-11-15T22:20:13.3408551+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:NVIDIA/SkillEvaluator"
+    },
+    "Type": 0,
+    "Title": "NVIDIA/SkillEvaluator",
+    "Url": "https://github.com/NVIDIA/SkillEvaluator",
+    "Description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+    "Metadata": {
+      "owner": "NVIDIA",
+      "repo": "SkillEvaluator",
+      "language": "Python",
+      "stars": "205",
+      "topics": "agent-evaluation, agent-plugins, agent-security, agent-skills, agentic-ai, benchmark, claude-code, codex, evaluate, evaluation, plugin, plugin-evaluation, security-scanner, skill-eval, skill-evals, skill-evaluation, skill-evaluator, skills"
+    },
+    "FetchedAt": "2026-11-15T22:20:13.4572089+00:00"
   }
 ]
