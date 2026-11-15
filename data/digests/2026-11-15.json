@@ -1,0 +1,638 @@
+{
+  "Id": "2026-11-15",
+  "GeneratedAt": "2026-11-15T05:10:46.4869455+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:backnotprop/plannotator"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, an"
+      },
+      "Description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents ",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:GoogleChrome/modern-web-guidance-src"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Keep your coding agent up to date with the latest web best practices"
+      },
+      "Description": "Keep your coding agent up to date with the latest web best practices",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:tradermonty/claude-trading-skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Claude Code skills for equity investors and traders \u2014 market analysis, technical charting, economic calendars, screeners"
+      },
+      "Description": "Claude Code skills for equity investors and traders \u2014 market analysis, technical charting, economic calendars, screeners, and trading strategy develop",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:ChromeDevTools/chrome-devtools-mcp"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Chrome DevTools for coding agents"
+      },
+      "Description": "Chrome DevTools for coding agents",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:alibaba/open-code-review"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Secure, fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines"
+      },
+      "Description": "Secure, fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-lev",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:QwenLM/qwen-code"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "An open-source AI coding agent that lives in your terminal."
+      },
+      "Description": "An open-source AI coding agent that lives in your terminal.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:dream-num/univer"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into you"
+      },
+      "Description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI ag",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:ag-ui-protocol/ag-ui"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications."
+      },
+      "Description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:we-promise/sure"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The personal finance app for everyone (by everyone)"
+      },
+      "Description": "The personal finance app for everyone (by everyone)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Tencent/LoopForge"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human app"
+      },
+      "Description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local wo",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Likely7/Veyra-NRVideo"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time "
+      },
+      "Description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, an",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:martin-olivier/airgorah"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A WiFi security auditing software"
+      },
+      "Description": "A WiFi security auditing software",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50500963"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;x.com\u0026#x2F;SpaceX\u0026#x2F;status\u0026#x2F;2121316300702056595\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;x.co"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;x.com\u0026#x2F;SpaceX\u0026#x2F;status\u0026#x2F;2121316300702056595\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;x.com\u0026#x2F;SpaceX\u0026#x2F;status\u0026#x2F",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50499017"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Lovable apps expose passport details and more than 200K private messages"
+      },
+      "Description": "Lovable apps expose passport details and more than 200K private messages",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50501594"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How did Woz write the Apple 1 BASIC before building the computer?"
+      },
+      "Description": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50499038"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A family tree of software job titles"
+      },
+      "Description": "A family tree of software job titles",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50501631"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Nvidia deliberately kept GPU prices high through circular financing deals"
+      },
+      "Description": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50503255"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "We\u0027re Asking an Appeals Court to Require a Warrant for ALPR Searches"
+      },
+      "Description": "We\u0027re Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50496976"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "KDE: The documentary [video]"
+      },
+      "Description": "KDE: The documentary [video]",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50482222"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Evolving Story of How Chemistry Became Biology"
+      },
+      "Description": "The Evolving Story of How Chemistry Became Biology",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50483431"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "500 Lines or Less A 3D Modeller"
+      },
+      "Description": "500 Lines or Less A 3D Modeller",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50497892"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "PyPI\u0027s redesigned project pages with clearer security signals are now live"
+      },
+      "Description": "PyPI\u0027s redesigned project pages with clearer security signals are now live",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50440709"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Why get an expensive Pi when I have an old phone?"
+      },
+      "Description": "Why get an expensive Pi when I have an old phone?",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50475692"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt"
+      },
+      "Description": "Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50455732"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Oxford Molecular Motors"
+      },
+      "Description": "Oxford Molecular Motors",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50497589"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Show HN: DeepSeek V3 in ~200 lines of pure Jax"
+      },
+      "Description": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50471874"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u0027Grey Rocking\u0027: The Life-Improving Power of Being Really, Really Boring (2021)"
+      },
+      "Description": "\u0027Grey Rocking\u0027: The Life-Improving Power of Being Really, Really Boring (2021)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50496811"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Advancing science and engineering with Antigravity\u0027s /teamwork"
+      },
+      "Description": "Advancing science and engineering with Antigravity\u0027s /teamwork",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50503588"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt"
+      },
+      "Description": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50453901"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Seagate\u0027s new hybrid drive raises some old questions"
+      },
+      "Description": "Seagate\u0027s new hybrid drive raises some old questions",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50441444"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Generative AI uses more energy on non-English text"
+      },
+      "Description": "Generative AI uses more energy on non-English text",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50496051"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Project Zero will disclose vulnerabilities 90 days after reporting"
+      },
+      "Description": "Project Zero will disclose vulnerabilities 90 days after reporting",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50416011"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Reverse engineering a vintage diode-transistor logic chip"
+      },
+      "Description": "Reverse engineering a vintage diode-transistor logic chip",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50467278"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Testing a trash can Faraday cage"
+      },
+      "Description": "Testing a trash can Faraday cage",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50497132"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hey HN readers!\u003Cp\u003EI\u0026#x27;m snipedbywifi (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;gitlab.com\u0026#x2F;snipedbywifi\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026"
+      },
+      "Description": "Hey HN readers!\u003Cp\u003EI\u0026#x27;m snipedbywifi (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;gitlab.com\u0026#x2F;snipedbywifi\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;gitlab.com\u0026#x2F;sni",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50448895"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Sicilian Citrus Family Tree"
+      },
+      "Description": "The Sicilian Citrus Family Tree",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50499723"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation"
+      },
+      "Description": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50502839"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Show HN: A custom font based on the Jamaican flag alphabet"
+      },
+      "Description": "Show HN: A custom font based on the Jamaican flag alphabet",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50497416"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Demystifying phone unlocking tools: A technical overview"
+      },
+      "Description": "Demystifying phone unlocking tools: A technical overview",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50496602"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Tech companies are trying to shift the concept of privacy again"
+      },
+      "Description": "Tech companies are trying to shift the concept of privacy again",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50496885"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A visual explanation of reinforcement learning"
+      },
+      "Description": "A visual explanation of reinforcement learning",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50478632"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Let\u0027s Write a PostScript Interpreter"
+      },
+      "Description": "Let\u0027s Write a PostScript Interpreter",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 42 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
