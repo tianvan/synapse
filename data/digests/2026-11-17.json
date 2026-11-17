@@ -1,0 +1,638 @@
+{
+  "Id": "2026-11-17",
+  "GeneratedAt": "2026-11-17T06:54:16.509679+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:ag-ui-protocol/ag-ui"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications."
+      },
+      "Description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:backnotprop/plannotator"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, an"
+      },
+      "Description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents ",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:dream-num/univer"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into you"
+      },
+      "Description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI ag",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:tradermonty/claude-trading-skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Claude Code skills for equity investors and traders \u2014 market analysis, technical charting, economic calendars, screeners"
+      },
+      "Description": "Claude Code skills for equity investors and traders \u2014 market analysis, technical charting, economic calendars, screeners, and trading strategy develop",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:getarcaneapp/arcane"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Modern Docker Management, Designed for Everyone"
+      },
+      "Description": "Modern Docker Management, Designed for Everyone",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:DeanChensj/jiangshan-map"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u6C5F\u5C71\u65F6\u5E8F \u00B7 \u4E2D\u56FD\u5386\u53F2\u4EA4\u4E92\u5730\u56FE\u65F6\u95F4\u8F74 (403 BCE \u2013 Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapsh"
+      },
+      "Description": "\u6C5F\u5C71\u65F6\u5E8F \u00B7 \u4E2D\u56FD\u5386\u53F2\u4EA4\u4E92\u5730\u56FE\u65F6\u95F4\u8F74 (403 BCE \u2013 Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place g",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:google-labs-code/stitch-skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard"
+      },
+      "Description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with codin",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:mvanhorn/last30days-skill"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a gro"
+      },
+      "Description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:NVIDIA/SkillEvaluator"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, syntheti"
+      },
+      "Description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generatio",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:alibaba/open-code-review"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Secure, fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines"
+      },
+      "Description": "Secure, fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-lev",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:google-research/paper-orchestra"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "PaperOrchestra is a multi-agent framework for automated AI research paper writing."
+      },
+      "Description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:ChromeDevTools/chrome-devtools-mcp"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Chrome DevTools for coding agents"
+      },
+      "Description": "Chrome DevTools for coding agents",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50522980"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Carnegie Mellon is putting computer science courses on YouTube for free"
+      },
+      "Description": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50524736"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use"
+      },
+      "Description": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50523601"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "BugMeNot has closed"
+      },
+      "Description": "BugMeNot has closed",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50523459"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "OpenCode Browse"
+      },
+      "Description": "OpenCode Browse",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50524225"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How to Break into Security, Ptacek Edition (2012)"
+      },
+      "Description": "How to Break into Security, Ptacek Edition (2012)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50524767"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Optimizely Compromised, Served Malware on Zoom, GitLab"
+      },
+      "Description": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50522643"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Chemistry is Actually Geometry"
+      },
+      "Description": "Chemistry is Actually Geometry",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50520182"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Grazing sheep in fields with solar arrays"
+      },
+      "Description": "Grazing sheep in fields with solar arrays",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50519354"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Frame \u2013 31.5\u0022 color ePaper display"
+      },
+      "Description": "Frame \u2013 31.5\u0022 color ePaper display",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50519744"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Jiff 1.0: A datetime library for Rust"
+      },
+      "Description": "Jiff 1.0: A datetime library for Rust",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50521045"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Technical issue at JPMorgan Chase triggers online banking delays for US banks"
+      },
+      "Description": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50497621"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Formal Verification Is Not Verifiable"
+      },
+      "Description": "Formal Verification Is Not Verifiable",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50516689"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Do Repeat Yourself"
+      },
+      "Description": "Do Repeat Yourself",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50525052"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Show HN: Sutra-OS \u2013 A self-hosted ontology platform"
+      },
+      "Description": "Show HN: Sutra-OS \u2013 A self-hosted ontology platform",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50522563"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Rust changed me as a developer"
+      },
+      "Description": "Rust changed me as a developer",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50515151"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Squircles"
+      },
+      "Description": "Squircles",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50522776"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hi HN! We\u2019re Arsh and Max, founders of Axonnic (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;axonnic.com\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;axonnic.com\u003C/a"
+      },
+      "Description": "Hi HN! We\u2019re Arsh and Max, founders of Axonnic (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;axonnic.com\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;axonnic.com\u003C/a\u003E). We\u2019ve developed a forearm ",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50524165"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50524260\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50524260\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=50524260\u003C/a\u003E",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50517321"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Microsoft blames monster email outage on software defect introduced in July fix"
+      },
+      "Description": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50507870"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "New open source C4 Diagram tool"
+      },
+      "Description": "New open source C4 Diagram tool",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50516473"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)"
+      },
+      "Description": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50523291"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "My Quest to push native Three.js quality match AAA Game Engines"
+      },
+      "Description": "My Quest to push native Three.js quality match AAA Game Engines",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50521870"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How to Intercept HTTP/3 Traffic: QUIC and Qpack"
+      },
+      "Description": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50520270"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Aristotle Expands into Rust"
+      },
+      "Description": "Aristotle Expands into Rust",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50520518"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Michael Mann\u0027s \u0027Heat\u0027 Copyright Fight Turns on a Deal with Himself"
+      },
+      "Description": "Michael Mann\u0027s \u0027Heat\u0027 Copyright Fight Turns on a Deal with Himself",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50523784"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Spamhaus new email sender requirements in November"
+      },
+      "Description": "Spamhaus new email sender requirements in November",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50517488"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Many of Amazon\u2019s Black Friday and Cyber Monday \u201Cdeals\u201D offered no savings"
+      },
+      "Description": "Many of Amazon\u2019s Black Friday and Cyber Monday \u201Cdeals\u201D offered no savings",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50519345"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Jolt \u2013 Clojure that speaks C"
+      },
+      "Description": "Jolt \u2013 Clojure that speaks C",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50520804"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Strengthening the fight against online child sexual abuse"
+      },
+      "Description": "Strengthening the fight against online child sexual abuse",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50485327"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The origins of the placenta"
+      },
+      "Description": "The origins of the placenta",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 42 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
