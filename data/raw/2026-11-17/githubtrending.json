@@ -1,57 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "github:ag-ui-protocol/ag-ui"
-    },
-    "Type": 0,
-    "Title": "ag-ui-protocol/ag-ui",
-    "Url": "https://github.com/ag-ui-protocol/ag-ui",
-    "Description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-    "Metadata": {
-      "owner": "ag-ui-protocol",
-      "repo": "ag-ui",
-      "language": "TypeScript",
-      "stars": "791",
-      "topics": "ag-ui-protocol, agent-frontend, agent-ui, agentic-workflow, ai-agents"
-    },
-    "FetchedAt": "2026-11-17T01:21:55.375309+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:backnotprop/plannotator"
-    },
-    "Type": 0,
-    "Title": "backnotprop/plannotator",
-    "Url": "https://github.com/backnotprop/plannotator",
-    "Description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
-    "Metadata": {
-      "owner": "backnotprop",
-      "repo": "plannotator",
-      "language": "TypeScript",
-      "stars": "696",
-      "topics": "agents, claude-code, code-review, codex, obsidian, opencode, pi-mono, plan-mode, skills"
-    },
-    "FetchedAt": "2026-11-17T01:21:55.5840128+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:dream-num/univer"
-    },
-    "Type": 0,
-    "Title": "dream-num/univer",
-    "Url": "https://github.com/dream-num/univer",
-    "Description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
-    "Metadata": {
-      "owner": "dream-num",
-      "repo": "univer",
-      "language": "TypeScript",
-      "stars": "1,828",
-      "topics": "board, collaboration, doc, docx, excel, offce365, office, pdf, ppt, pptx, presentation, sdk, sheet, slides, spreadsheet, univer, word, wordprocessor, workspace, xlsx"
-    },
-    "FetchedAt": "2026-11-17T01:21:55.7397666+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:tradermonty/claude-trading-skills"
     },
     "Type": 0,
@@ -65,23 +14,6 @@
       "stars": "837"
     },
     "FetchedAt": "2026-11-17T01:21:55.8776033+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:getarcaneapp/arcane"
-    },
-    "Type": 0,
-    "Title": "getarcaneapp/arcane",
-    "Url": "https://github.com/getarcaneapp/arcane",
-    "Description": "Modern Docker Management, Designed for Everyone",
-    "Metadata": {
-      "owner": "getarcaneapp",
-      "repo": "arcane",
-      "language": "Go",
-      "stars": "46",
-      "topics": "compose, container-management, containers, docker, docker-compose, docker-management, go, self-hosted, sveltekit, typescript, web-ui"
-    },
-    "FetchedAt": "2026-11-17T01:21:56.0164733+00:00"
   },
   {
     "ExternalId": {
@@ -102,39 +34,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:google-labs-code/stitch-skills"
-    },
-    "Type": 0,
-    "Title": "google-labs-code/stitch-skills",
-    "Url": "https://github.com/google-labs-code/stitch-skills",
-    "Description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-    "Metadata": {
-      "owner": "google-labs-code",
-      "repo": "stitch-skills",
-      "language": "TypeScript",
-      "stars": "529"
-    },
-    "FetchedAt": "2026-11-17T01:21:56.2656728+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:mvanhorn/last30days-skill"
-    },
-    "Type": 0,
-    "Title": "mvanhorn/last30days-skill",
-    "Url": "https://github.com/mvanhorn/last30days-skill",
-    "Description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-    "Metadata": {
-      "owner": "mvanhorn",
-      "repo": "last30days-skill",
-      "language": "Python",
-      "stars": "135",
-      "topics": "ai-prompts, ai-skill, bluesky, claude, claude-code, clawhub, deep-research, hackernews, instagram, openclaw, polymarket, recency, reddit, research, social-media, tiktok, trends, twitter, web-search, youtube"
-    },
-    "FetchedAt": "2026-11-17T01:21:56.4100082+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:NVIDIA/SkillEvaluator"
     },
     "Type": 0,
@@ -152,40 +51,6 @@
   },
   {
     "ExternalId": {
-      "Value": "github:alibaba/open-code-review"
-    },
-    "Type": 0,
-    "Title": "alibaba/open-code-review",
-    "Url": "https://github.com/alibaba/open-code-review",
-    "Description": "Secure, fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
-    "Metadata": {
-      "owner": "alibaba",
-      "repo": "open-code-review",
-      "language": "Go",
-      "stars": "951",
-      "topics": "agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context"
-    },
-    "FetchedAt": "2026-11-17T01:21:56.6930581+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "github:google-research/paper-orchestra"
-    },
-    "Type": 0,
-    "Title": "google-research/paper-orchestra",
-    "Url": "https://github.com/google-research/paper-orchestra",
-    "Description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
-    "Metadata": {
-      "owner": "google-research",
-      "repo": "paper-orchestra",
-      "language": "Python",
-      "stars": "313",
-      "topics": "ai-research-assistant, multi-agent-systems"
-    },
-    "FetchedAt": "2026-11-17T01:21:56.8129444+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "github:ChromeDevTools/chrome-devtools-mcp"
     },
     "Type": 0,
@@ -200,5 +65,190 @@
       "topics": "browser, chrome, chrome-devtools, debugging, devtools, mcp, mcp-server, puppeteer"
     },
     "FetchedAt": "2026-11-17T01:21:56.9572016+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mvanhorn/last30days-skill"
+    },
+    "Type": 0,
+    "Title": "mvanhorn/last30days-skill",
+    "Url": "https://github.com/mvanhorn/last30days-skill",
+    "Description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "Metadata": {
+      "owner": "mvanhorn",
+      "repo": "last30days-skill",
+      "language": "Python",
+      "stars": "772",
+      "topics": "ai-prompts, ai-skill, bluesky, claude, claude-code, clawhub, deep-research, hackernews, instagram, openclaw, polymarket, recency, reddit, research, social-media, tiktok, trends, twitter, web-search, youtube"
+    },
+    "FetchedAt": "2026-11-17T15:16:47.3001778+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:alibaba/open-code-review"
+    },
+    "Type": 0,
+    "Title": "alibaba/open-code-review",
+    "Url": "https://github.com/alibaba/open-code-review",
+    "Description": "Secure, fast, efficient, battle-tested at Alibaba\u0027s scale. Hybrid architecture code review tool: deterministic pipelines \u002B LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
+    "Metadata": {
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "language": "Go",
+      "stars": "764",
+      "topics": "agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context"
+    },
+    "FetchedAt": "2026-11-17T15:16:47.5130686+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Tencent/LoopForge"
+    },
+    "Type": 0,
+    "Title": "Tencent/LoopForge",
+    "Url": "https://github.com/Tencent/LoopForge",
+    "Description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+    "Metadata": {
+      "owner": "Tencent",
+      "repo": "LoopForge",
+      "language": "Go",
+      "stars": "590",
+      "topics": "agent-orchestration, agentic-workflow, ai-agents, ai-coding, claude-code, code-review, codebuddy, codex, coding-agents, cursor, developer-tools, human-on-the-loop, llm, mcp, multi-agent, sdlc, self-hosted, sop, workflow-automation, workflow-engine"
+    },
+    "FetchedAt": "2026-11-17T15:16:47.666038+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:dream-num/univer"
+    },
+    "Type": 0,
+    "Title": "dream-num/univer",
+    "Url": "https://github.com/dream-num/univer",
+    "Description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+    "Metadata": {
+      "owner": "dream-num",
+      "repo": "univer",
+      "language": "TypeScript",
+      "stars": "1,776",
+      "topics": "board, collaboration, doc, docx, excel, offce365, office, pdf, ppt, pptx, presentation, sdk, sheet, slides, spreadsheet, univer, word, wordprocessor, workspace, xlsx"
+    },
+    "FetchedAt": "2026-11-17T15:16:47.8321423+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:getarcaneapp/arcane"
+    },
+    "Type": 0,
+    "Title": "getarcaneapp/arcane",
+    "Url": "https://github.com/getarcaneapp/arcane",
+    "Description": "Modern Docker Management, Designed for Everyone",
+    "Metadata": {
+      "owner": "getarcaneapp",
+      "repo": "arcane",
+      "language": "Go",
+      "stars": "654",
+      "topics": "compose, container-management, containers, docker, docker-compose, docker-management, go, self-hosted, sveltekit, typescript, web-ui"
+    },
+    "FetchedAt": "2026-11-17T15:16:47.9981446+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google-labs-code/stitch-skills"
+    },
+    "Type": 0,
+    "Title": "google-labs-code/stitch-skills",
+    "Url": "https://github.com/google-labs-code/stitch-skills",
+    "Description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "Metadata": {
+      "owner": "google-labs-code",
+      "repo": "stitch-skills",
+      "language": "TypeScript",
+      "stars": "350"
+    },
+    "FetchedAt": "2026-11-17T15:16:48.1594727+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cursor/plugins"
+    },
+    "Type": 0,
+    "Title": "cursor/plugins",
+    "Url": "https://github.com/cursor/plugins",
+    "Description": "Cursor plugin specification and official plugins",
+    "Metadata": {
+      "owner": "cursor",
+      "repo": "plugins",
+      "language": "TypeScript",
+      "stars": "196"
+    },
+    "FetchedAt": "2026-11-17T15:16:48.3465102+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:ag-ui-protocol/ag-ui"
+    },
+    "Type": 0,
+    "Title": "ag-ui-protocol/ag-ui",
+    "Url": "https://github.com/ag-ui-protocol/ag-ui",
+    "Description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+    "Metadata": {
+      "owner": "ag-ui-protocol",
+      "repo": "ag-ui",
+      "language": "TypeScript",
+      "stars": "1,444",
+      "topics": "ag-ui-protocol, agent-frontend, agent-ui, agentic-workflow, ai-agents"
+    },
+    "FetchedAt": "2026-11-17T15:16:48.501213+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:backnotprop/plannotator"
+    },
+    "Type": 0,
+    "Title": "backnotprop/plannotator",
+    "Url": "https://github.com/backnotprop/plannotator",
+    "Description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+    "Metadata": {
+      "owner": "backnotprop",
+      "repo": "plannotator",
+      "language": "TypeScript",
+      "stars": "691",
+      "topics": "agents, claude-code, code-review, codex, obsidian, opencode, pi-mono, plan-mode, skills"
+    },
+    "FetchedAt": "2026-11-17T15:16:48.6521561+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jingyaogong/minimind"
+    },
+    "Type": 0,
+    "Title": "jingyaogong/minimind",
+    "Url": "https://github.com/jingyaogong/minimind",
+    "Description": "\uD83E\uDDE0 Train a 64M-parameter LLM from scratch in just 2h!",
+    "Metadata": {
+      "owner": "jingyaogong",
+      "repo": "minimind",
+      "language": "Python",
+      "stars": "188",
+      "topics": "artificial-intelligence, large-language-model"
+    },
+    "FetchedAt": "2026-11-17T15:16:48.8024132+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google-research/paper-orchestra"
+    },
+    "Type": 0,
+    "Title": "google-research/paper-orchestra",
+    "Url": "https://github.com/google-research/paper-orchestra",
+    "Description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+    "Metadata": {
+      "owner": "google-research",
+      "repo": "paper-orchestra",
+      "language": "Python",
+      "stars": "1,175",
+      "topics": "ai-research-assistant, multi-agent-systems"
+    },
+    "FetchedAt": "2026-11-17T15:16:48.9461241+00:00"
   }
 ]
