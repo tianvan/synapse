@@ -1,36 +1,6 @@
 [
   {
     "ExternalId": {
-      "Value": "hn:50552424"
-    },
-    "Type": 1,
-    "Title": "Gemini 4 Neon",
-    "Url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-    "Description": "Gemini 4 Neon",
-    "Metadata": {
-      "score": "616",
-      "author": "yigitdemirag",
-      "commentCount": "549"
-    },
-    "FetchedAt": "2026-11-19T05:18:57.4530134+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50547374"
-    },
-    "Type": 1,
-    "Title": "Unauthenticated remote code execution in Nginx",
-    "Url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.cve.org\u0026#x2F;CVERecord?id=CVE-2026-123633\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.cve.org\u0026#x2F;CVERecord?id=CVE-2026-123633\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.cve.org\u0026#x2F;CVERecord?id=CVE-2026-123007\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.cve.org\u0026#x2F;CVERecord?id=CVE-2026-123007\u003C/a\u003E",
-    "Metadata": {
-      "score": "1241",
-      "author": "speedping",
-      "commentCount": "541"
-    },
-    "FetchedAt": "2026-11-19T05:18:57.5046443+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50554374"
     },
     "Type": 1,
@@ -43,21 +13,6 @@
       "commentCount": "61"
     },
     "FetchedAt": "2026-11-19T05:18:57.556989+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50554038"
-    },
-    "Type": 1,
-    "Title": "Multiple vulnerabilities in Regexp and String case conversion",
-    "Url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
-    "Description": "Multiple vulnerabilities in Regexp and String case conversion",
-    "Metadata": {
-      "score": "152",
-      "author": "runesoerensen",
-      "commentCount": "46"
-    },
-    "FetchedAt": "2026-11-19T05:18:57.6074134+00:00"
   },
   {
     "ExternalId": {
@@ -76,21 +31,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50548021"
-    },
-    "Type": 1,
-    "Title": "Seven new models at scalable price-performance",
-    "Url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-    "Description": "Seven new models at scalable price-performance",
-    "Metadata": {
-      "score": "487",
-      "author": "gmays",
-      "commentCount": "331"
-    },
-    "FetchedAt": "2026-11-19T05:18:57.7093067+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50547777"
     },
     "Type": 1,
@@ -103,36 +43,6 @@
       "commentCount": "182"
     },
     "FetchedAt": "2026-11-19T05:18:57.7608976+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50547620"
-    },
-    "Type": 1,
-    "Title": "Inside Deutsche Bank",
-    "Url": "https://www.inside-db.com/",
-    "Description": "Inside Deutsche Bank",
-    "Metadata": {
-      "score": "599",
-      "author": "gyre007",
-      "commentCount": "202"
-    },
-    "FetchedAt": "2026-11-19T05:18:57.8113253+00:00"
-  },
-  {
-    "ExternalId": {
-      "Value": "hn:50553225"
-    },
-    "Type": 1,
-    "Title": "LLM assisted reverse engineering",
-    "Url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-    "Description": "LLM assisted reverse engineering",
-    "Metadata": {
-      "score": "118",
-      "author": "ioma8",
-      "commentCount": "33"
-    },
-    "FetchedAt": "2026-11-19T05:18:57.8607973+00:00"
   },
   {
     "ExternalId": {
@@ -448,5 +358,455 @@
       "commentCount": "27"
     },
     "FetchedAt": "2026-11-19T05:18:58.9707171+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50558533"
+    },
+    "Type": 1,
+    "Title": "How the European Commission rolled out Matrix to more than 40k staff",
+    "Url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+    "Description": "How the European Commission rolled out Matrix to more than 40k staff",
+    "Metadata": {
+      "score": "363",
+      "author": "liotier",
+      "commentCount": "167"
+    },
+    "FetchedAt": "2026-11-19T14:59:01.8798075+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50560334"
+    },
+    "Type": 1,
+    "Title": "PHP 8.5.13",
+    "Url": "https://www.php.net/ChangeLog-8.php",
+    "Description": "PHP 8.5.13",
+    "Metadata": {
+      "score": "37",
+      "author": "petecooper",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-11-19T14:59:01.9133844+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50519231"
+    },
+    "Type": 1,
+    "Title": "Garage Door Spam",
+    "Url": "https://blog.harrison.page/garage-door-spam/",
+    "Description": "Garage Door Spam",
+    "Metadata": {
+      "score": "258",
+      "author": "harrisonpage",
+      "commentCount": "95"
+    },
+    "FetchedAt": "2026-11-19T14:59:01.9465138+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50559719"
+    },
+    "Type": 1,
+    "Title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+    "Url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+    "Description": "Making 8-page foldable zines from a single A4 sheet in the browser",
+    "Metadata": {
+      "score": "58",
+      "author": "krthr",
+      "commentCount": "16"
+    },
+    "FetchedAt": "2026-11-19T14:59:01.9797185+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50559749"
+    },
+    "Type": 1,
+    "Title": "Show HN: Foolscap \u2013 a writing app that reads your book and never writes for you",
+    "Url": "https://foolscap.works/",
+    "Description": "Show HN: Foolscap \u2013 a writing app that reads your book and never writes for you",
+    "Metadata": {
+      "score": "44",
+      "author": "atugard",
+      "commentCount": "20"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.0142607+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50547048"
+    },
+    "Type": 1,
+    "Title": "Nintendo takes Picofly firmware down from GitHub [video]",
+    "Url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
+    "Description": "Nintendo takes Picofly firmware down from GitHub [video]",
+    "Metadata": {
+      "score": "113",
+      "author": "cowlevel",
+      "commentCount": "24"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.047626+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50556287"
+    },
+    "Type": 1,
+    "Title": "Ruby2\u00DFhell: Pre-authentication RCE on stock Rails",
+    "Url": "https://verialabs.com/ruby2shell/",
+    "Description": "Ruby2\u00DFhell: Pre-authentication RCE on stock Rails",
+    "Metadata": {
+      "score": "262",
+      "author": "jdns",
+      "commentCount": "103"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.080606+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50557870"
+    },
+    "Type": 1,
+    "Title": "What\u0027s New in PHP 8.6",
+    "Url": "https://www.php.net/releases/8.6/en.php",
+    "Description": "What\u0027s New in PHP 8.6",
+    "Metadata": {
+      "score": "168",
+      "author": "netol",
+      "commentCount": "86"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.1160695+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50548808"
+    },
+    "Type": 1,
+    "Title": "We taught robots to carve marble sculptures",
+    "Url": "https://eleanorwiesler.com/blog/robotic-stone-carving/",
+    "Description": "We taught robots to carve marble sculptures",
+    "Metadata": {
+      "score": "57",
+      "author": "ewiesler",
+      "commentCount": "41"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.1487313+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50557537"
+    },
+    "Type": 1,
+    "Title": "Distributed, high-performance blob storage on SQLite",
+    "Url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+    "Description": "Distributed, high-performance blob storage on SQLite",
+    "Metadata": {
+      "score": "147",
+      "author": "ghostfoxgod",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.1838001+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50546221"
+    },
+    "Type": 1,
+    "Title": "Mass launched to orbit each year by rocket builder",
+    "Url": "https://www.kadoa.com/companies/insights/spacex-europe-payload",
+    "Description": "Mass launched to orbit each year by rocket builder",
+    "Metadata": {
+      "score": "59",
+      "author": "hubraumhugo",
+      "commentCount": "41"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.2173282+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50552424"
+    },
+    "Type": 1,
+    "Title": "Gemini 4 Neon",
+    "Url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+    "Description": "Gemini 4 Neon",
+    "Metadata": {
+      "score": "923",
+      "author": "yigitdemirag",
+      "commentCount": "719"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.2521058+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50558906"
+    },
+    "Type": 1,
+    "Title": "Someone reported java4shell bug in September 2026",
+    "Url": "https://github.com/openjdk/jdk/pull/32781",
+    "Description": "Someone reported java4shell bug in September 2026",
+    "Metadata": {
+      "score": "54",
+      "author": "notmine1337",
+      "commentCount": "6"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.2858543+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50557716"
+    },
+    "Type": 1,
+    "Title": "SSD prices will start going down the second half of next year",
+    "Url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+    "Description": "SSD prices will start going down the second half of next year",
+    "Metadata": {
+      "score": "191",
+      "author": "illidan1000",
+      "commentCount": "159"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.3201886+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50547374"
+    },
+    "Type": 1,
+    "Title": "Unauthenticated remote code execution in Nginx",
+    "Url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.cve.org\u0026#x2F;CVERecord?id=CVE-2026-123633\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.cve.org\u0026#x2F;CVERecord?id=CVE-2026-123633\u003C/a\u003E\u003Cp\u003E\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.cve.org\u0026#x2F;CVERecord?id=CVE-2026-123007\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.cve.org\u0026#x2F;CVERecord?id=CVE-2026-123007\u003C/a\u003E",
+    "Metadata": {
+      "score": "1461",
+      "author": "speedping",
+      "commentCount": "613"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.3554489+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50536950"
+    },
+    "Type": 1,
+    "Title": "Oregon library dropped Dewey Decimal system, adopted bookstore-like arrangement",
+    "Url": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system",
+    "Description": "Oregon library dropped Dewey Decimal system, adopted bookstore-like arrangement",
+    "Metadata": {
+      "score": "59",
+      "author": "bookofjoe",
+      "commentCount": "53"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.3911534+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50544168"
+    },
+    "Type": 1,
+    "Title": "C\u0027s designated initializers give us named arguments",
+    "Url": "https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/",
+    "Description": "C\u0027s designated initializers give us named arguments",
+    "Metadata": {
+      "score": "25",
+      "author": "joshcsimmons",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.4245338+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50546495"
+    },
+    "Type": 1,
+    "Title": "Exponential Behavior in Magic: The Gathering",
+    "Url": "https://levineuwirth.org/essays/exponential-magic/",
+    "Description": "Exponential Behavior in Magic: The Gathering",
+    "Metadata": {
+      "score": "39",
+      "author": "neuwirth",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.4601614+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50559179"
+    },
+    "Type": 1,
+    "Title": "Unblockable communication with gravity \u2013 Science Advances",
+    "Url": "https://www.science.org/doi/10.1126/sciadv.aee0802",
+    "Description": "Unblockable communication with gravity \u2013 Science Advances",
+    "Metadata": {
+      "score": "29",
+      "author": "rbanffy",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.4930843+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50556533"
+    },
+    "Type": 1,
+    "Title": "15M web servers on one VM \u2013 smoltcp, DPDK, AF_XDP",
+    "Url": "https://kapteko.com/15-million-webservers/",
+    "Description": "15M web servers on one VM \u2013 smoltcp, DPDK, AF_XDP",
+    "Metadata": {
+      "score": "259",
+      "author": "fessguid",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.5275391+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50554038"
+    },
+    "Type": 1,
+    "Title": "Multiple vulnerabilities in Regexp and String case conversion",
+    "Url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+    "Description": "Multiple vulnerabilities in Regexp and String case conversion",
+    "Metadata": {
+      "score": "305",
+      "author": "runesoerensen",
+      "commentCount": "113"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.5618892+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50553843"
+    },
+    "Type": 1,
+    "Title": "Anthropic prices initial public offering",
+    "Url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+    "Description": "Anthropic prices initial public offering",
+    "Metadata": {
+      "score": "331",
+      "author": "surprisetalk",
+      "commentCount": "612"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.5951983+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50548660"
+    },
+    "Type": 1,
+    "Title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+    "Url": "https://news.ycombinator.com/item?id=50548660",
+    "Description": "Hi HN, we\u0026#x27;re Shane, Sam, and Abhi.\u003Cp\u003EAlmost two years ago, we shared Mastra, our open-source TypeScript agent framework, on Show HN: \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=43103073\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=43103073\u003C/a\u003E. It got a few hundred upvotes; a couple of weeks later our downloads had doubled, and we were off to the races.\u003Cp\u003EToday we\u0026#x27;re sharing Mastra Factory, the open-source software factory we built to help maintain Mastra itsel",
+    "Metadata": {
+      "score": "117",
+      "author": "codekarate",
+      "commentCount": "37"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.6297674+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50558559"
+    },
+    "Type": 1,
+    "Title": "Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2",
+    "Url": "https://contralabs.com/frontierdesign",
+    "Description": "Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2",
+    "Metadata": {
+      "score": "70",
+      "author": "cheptsov",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.6637254+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50548021"
+    },
+    "Type": 1,
+    "Title": "Seven new models at scalable price-performance",
+    "Url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+    "Description": "Seven new models at scalable price-performance",
+    "Metadata": {
+      "score": "576",
+      "author": "gmays",
+      "commentCount": "362"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.6965111+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50547620"
+    },
+    "Type": 1,
+    "Title": "Inside Deutsche Bank",
+    "Url": "https://www.inside-db.com/",
+    "Description": "Inside Deutsche Bank",
+    "Metadata": {
+      "score": "743",
+      "author": "gyre007",
+      "commentCount": "247"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.7292291+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50522991"
+    },
+    "Type": 1,
+    "Title": "Funkycache: A Python library to cache functions in SQLite",
+    "Url": "https://alexwlchan.net/2026/funkycache/",
+    "Description": "Funkycache: A Python library to cache functions in SQLite",
+    "Metadata": {
+      "score": "5",
+      "author": "wmchen",
+      "commentCount": "1"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.7629053+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50560795"
+    },
+    "Type": 1,
+    "Title": "Germany and Austria Call for European Control of TikTok",
+    "Url": "https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok/",
+    "Description": "Germany and Austria Call for European Control of TikTok",
+    "Metadata": {
+      "score": "6",
+      "author": "thm",
+      "commentCount": "0"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.7973881+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50512280"
+    },
+    "Type": 1,
+    "Title": "The first ping from Tonga (1997)",
+    "Url": "https://colo.to/firstping.html",
+    "Description": "The first ping from Tonga (1997)",
+    "Metadata": {
+      "score": "63",
+      "author": "Eric_Gullichsen",
+      "commentCount": "7"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.8318678+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50553225"
+    },
+    "Type": 1,
+    "Title": "LLM assisted reverse engineering",
+    "Url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+    "Description": "LLM assisted reverse engineering",
+    "Metadata": {
+      "score": "276",
+      "author": "ioma8",
+      "commentCount": "70"
+    },
+    "FetchedAt": "2026-11-19T14:59:02.8672354+00:00"
   }
 ]
