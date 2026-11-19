@@ -1,0 +1,698 @@
+{
+  "Id": "2026-11-19",
+  "GeneratedAt": "2026-11-19T06:15:46.7379138+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:cursor/plugins"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Cursor plugin specification and official plugins"
+      },
+      "Description": "Cursor plugin specification and official plugins",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:HKUDS/CLI-Anything"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/"
+      },
+      "Description": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:mvanhorn/last30days-skill"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a gro"
+      },
+      "Description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:getarcaneapp/arcane"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Modern Docker Management, Designed for Everyone"
+      },
+      "Description": "Modern Docker Management, Designed for Everyone",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:NVIDIA/SkillEvaluator"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibi"
+      },
+      "Description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap ",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:nvm-sh/nvm"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions."
+      },
+      "Description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:astral-sh/uv"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "An extremely fast Python package and project manager, written in Rust."
+      },
+      "Description": "An extremely fast Python package and project manager, written in Rust.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:google-research/paper-orchestra"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "PaperOrchestra is a multi-agent framework for automated AI research paper writing."
+      },
+      "Description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:google-labs-code/stitch-skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard"
+      },
+      "Description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with codin",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:jquery/jquery"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "jQuery JavaScript Library"
+      },
+      "Description": "jQuery JavaScript Library",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:appwrite/appwrite"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The open-source cloud for agents \u0026 devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WA"
+      },
+      "Description": "The open-source cloud for agents \u0026 devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:openvinotoolkit/openvino"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "OpenVINO\u2122 is an open source toolkit for optimizing and deploying AI inference"
+      },
+      "Description": "OpenVINO\u2122 is an open source toolkit for optimizing and deploying AI inference",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:DeanChensj/jiangshan-map"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u6C5F\u5C71\u65F6\u5E8F \u00B7 \u4E2D\u56FD\u5386\u53F2\u4EA4\u4E92\u5730\u56FE\u65F6\u95F4\u8F74 (403 BCE \u2013 Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapsh"
+      },
+      "Description": "\u6C5F\u5C71\u65F6\u5E8F \u00B7 \u4E2D\u56FD\u5386\u53F2\u4EA4\u4E92\u5730\u56FE\u65F6\u95F4\u8F74 (403 BCE \u2013 Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place g",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:n8n-io/n8n"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host "
+      },
+      "Description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400\u002B integrations.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:solidjs/solid"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+      },
+      "Description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:punkpeye/awesome-mcp-servers"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A collection of MCP servers."
+      },
+      "Description": "A collection of MCP servers.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50552424"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Gemini 4 Neon"
+      },
+      "Description": "Gemini 4 Neon",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50547374"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.cve.org\u0026#x2F;CVERecord?id=CVE-2026-123633\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.cve.org\u0026#"
+      },
+      "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.cve.org\u0026#x2F;CVERecord?id=CVE-2026-123633\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.cve.org\u0026#x2F;CVERecord?id=CVE-2026-1236",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50554374"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Gemini 4 Neon looks like an Opus 5.5 competitor"
+      },
+      "Description": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50554038"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Multiple vulnerabilities in Regexp and String case conversion"
+      },
+      "Description": "Multiple vulnerabilities in Regexp and String case conversion",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50554935"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Unreal Tournament 2004 in the Browser"
+      },
+      "Description": "Unreal Tournament 2004 in the Browser",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50548021"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Seven new models at scalable price-performance"
+      },
+      "Description": "Seven new models at scalable price-performance",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50547777"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AI agents ask better questions than KPMG accountants in audit trial"
+      },
+      "Description": "AI agents ask better questions than KPMG accountants in audit trial",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50547620"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Inside Deutsche Bank"
+      },
+      "Description": "Inside Deutsche Bank",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50553225"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "LLM assisted reverse engineering"
+      },
+      "Description": "LLM assisted reverse engineering",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50551046"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "DaisyRose-27B"
+      },
+      "Description": "DaisyRose-27B",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50525260"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline"
+      },
+      "Description": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50542441"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Mosquitoes are Ladakh\u0027s latest tourists"
+      },
+      "Description": "Mosquitoes are Ladakh\u0027s latest tourists",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50530088"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Camera Index"
+      },
+      "Description": "Camera Index",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50546914"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Cambridge Dictionary has named \u2018human\u2019 as the Word of the Year 2026"
+      },
+      "Description": "The Cambridge Dictionary has named \u2018human\u2019 as the Word of the Year 2026",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50549493"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Advancing chip design with OpenAI models"
+      },
+      "Description": "Advancing chip design with OpenAI models",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50554045"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "We need smart people who give a shit"
+      },
+      "Description": "We need smart people who give a shit",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50550415"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Genie 4 is now available"
+      },
+      "Description": "Genie 4 is now available",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50547980"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Show HN: ExitPath \u2013 Open-source ways out of Slack, Notion and Microsoft 365"
+      },
+      "Description": "Show HN: ExitPath \u2013 Open-source ways out of Slack, Notion and Microsoft 365",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50510385"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Cuttlefish on Mac: Android\u0027s Virtual Device Framework on Apple Silicon"
+      },
+      "Description": "Cuttlefish on Mac: Android\u0027s Virtual Device Framework on Apple Silicon",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50548161"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Voyager 1 reached one light-day from Earth today.\u003Cp\u003EOn the site you can:\u003Cp\u003E- see where both Voyagers are right now\u003Cp\u003E- o"
+      },
+      "Description": "Voyager 1 reached one light-day from Earth today.\u003Cp\u003EOn the site you can:\u003Cp\u003E- see where both Voyagers are right now\u003Cp\u003E- open a nuclear battery to its 2",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50554941"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "FailTrace \u2013 Reproduce a failed GitHub Actions run locally from its URL"
+      },
+      "Description": "FailTrace \u2013 Reproduce a failed GitHub Actions run locally from its URL",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50554009"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Palo Alto Networks to Acquire Applied Compute for $4.5B"
+      },
+      "Description": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50554908"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction"
+      },
+      "Description": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50523377"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I type \u0026quot;forklift\u0026quot; on a live warehouse camera, and tamserve finds and tracks both forklifts, including the one "
+      },
+      "Description": "I type \u0026quot;forklift\u0026quot; on a live warehouse camera, and tamserve finds and tracks both forklifts, including the one driving in. Then I add \u0026quot;p",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50524227"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A Collage Showing 49 Drill Holes Made by NASA\u0027s Curiosity Mars Rover"
+      },
+      "Description": "A Collage Showing 49 Drill Holes Made by NASA\u0027s Curiosity Mars Rover",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50546967"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The x86 CPU: From 4004 to 486"
+      },
+      "Description": "The x86 CPU: From 4004 to 486",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50549188"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hi HN, we\u0026#x27;re Ary and Maria, co-founders of Maritime (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;maritime.sh\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;mari"
+      },
+      "Description": "Hi HN, we\u0026#x27;re Ary and Maria, co-founders of Maritime (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;maritime.sh\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;maritime.sh\u003C/a\u003E). We\u0026#x27;re build",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50545958"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "DNS resolvers are the wrong place to fight piracy"
+      },
+      "Description": "DNS resolvers are the wrong place to fight piracy",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50548004"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)"
+      },
+      "Description": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50550096"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Magic of Partial Evaluation"
+      },
+      "Description": "The Magic of Partial Evaluation",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 46 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
