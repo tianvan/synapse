@@ -76,21 +76,6 @@
   },
   {
     "ExternalId": {
-      "Value": "hn:50528119"
-    },
-    "Type": 1,
-    "Title": "How to CAD Almost Anything",
-    "Url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
-    "Description": "How to CAD Almost Anything",
-    "Metadata": {
-      "score": "72",
-      "author": "o4c",
-      "commentCount": "13"
-    },
-    "FetchedAt": "2026-11-20T00:04:52.6901959+00:00"
-  },
-  {
-    "ExternalId": {
       "Value": "hn:50564159"
     },
     "Type": 1,
@@ -448,5 +433,455 @@
       "commentCount": "9"
     },
     "FetchedAt": "2026-11-20T00:04:54.2767944+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50572355"
+    },
+    "Type": 1,
+    "Title": "If you can\u0027t explain something in simple terms, you don\u0027t understand it (2017)",
+    "Url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+    "Description": "If you can\u0027t explain something in simple terms, you don\u0027t understand it (2017)",
+    "Metadata": {
+      "score": "253",
+      "author": "sammatilda",
+      "commentCount": "143"
+    },
+    "FetchedAt": "2026-11-20T14:41:19.9638276+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50572503"
+    },
+    "Type": 1,
+    "Title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+    "Url": "https://architectlabs.com/blog/frostbite",
+    "Description": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+    "Metadata": {
+      "score": "341",
+      "author": "shioyama",
+      "commentCount": "222"
+    },
+    "FetchedAt": "2026-11-20T14:41:20.0080512+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50574968"
+    },
+    "Type": 1,
+    "Title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+    "Url": "https://alpo.ge/remark.pdf",
+    "Description": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+    "Metadata": {
+      "score": "28",
+      "author": "iamronaldo",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-11-20T14:41:20.0503422+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50526023"
+    },
+    "Type": 1,
+    "Title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+    "Url": "https://kobi.music/research/dettato",
+    "Description": "I released dettato, my open weight audio to midi transcription model. It beats muscriptor 1.3b on every set and is roughly 60x smaller, without training on copyrighted recordings. Feel free to ask questions",
+    "Metadata": {
+      "score": "40",
+      "author": "hidude562",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-11-20T14:41:20.0937522+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50560595"
+    },
+    "Type": 1,
+    "Title": "Floppy3.5: A portable 3.5-inch floppy WiFi NAS",
+    "Url": "https://github.com/bigcrimping/floppy3.5",
+    "Description": "Floppy3.5: A portable 3.5-inch floppy WiFi NAS",
+    "Metadata": {
+      "score": "41",
+      "author": "fortran77",
+      "commentCount": "8"
+    },
+    "FetchedAt": "2026-11-20T14:41:20.1357093+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50574772"
+    },
+    "Type": 1,
+    "Title": "Llms.txt and MCP didn\u0027t move the needle",
+    "Url": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
+    "Description": "Llms.txt and MCP didn\u0027t move the needle",
+    "Metadata": {
+      "score": "16",
+      "author": "moebrowne",
+      "commentCount": "4"
+    },
+    "FetchedAt": "2026-11-20T14:41:20.1794079+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50572822"
+    },
+    "Type": 1,
+    "Title": "The Making of Oxygene",
+    "Url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+    "Description": "The Making of Oxygene",
+    "Metadata": {
+      "score": "94",
+      "author": "hggh",
+      "commentCount": "33"
+    },
+    "FetchedAt": "2026-11-20T14:41:20.2220284+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50561199"
+    },
+    "Type": 1,
+    "Title": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
+    "Url": "https://hippomaps.ch/?q=cafes\u002Bby\u002Bthe\u002BLimmat\u002B100\u002Bm\u002Bfrom\u002Bthe\u002Blake\u002Bin\u002Bzurich#map=15.02/47.36708/8.54935",
+    "Description": "I want to show you HippoMaps. It is a fully featured map and navigation app built on OpenStreetMap with a custom Overpass API engine for really fast search of POIs, areas and ways.\u003Cp\u003EMy aim with HippoMaps is to get to a level where I don\u0026#x27;t need Google Maps anymore. The biggest hurdle IMHO with OSM based apps is the lack of nice and fast search (where GMaps excels at). To get there I started working on a deterministic (as in no LLMs used) parser of queries that translates them to the Overpas",
+    "Metadata": {
+      "score": "58",
+      "author": "vihren",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-11-20T14:41:20.2644188+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50572448"
+    },
+    "Type": 1,
+    "Title": "What people are building, discovered through new domains",
+    "Url": "https://startups.novumsignals.com/",
+    "Description": "What people are building, discovered through new domains",
+    "Metadata": {
+      "score": "88",
+      "author": "walterschnitzel",
+      "commentCount": "40"
+    },
+    "FetchedAt": "2026-11-20T14:41:20.3098674+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50495392"
+    },
+    "Type": 1,
+    "Title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
+    "Url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
+    "Description": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
+    "Metadata": {
+      "score": "46",
+      "author": "edward",
+      "commentCount": "26"
+    },
+    "FetchedAt": "2026-11-20T14:41:20.354481+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50572348"
+    },
+    "Type": 1,
+    "Title": "Signal Is Serious About Protecting Your Privacy",
+    "Url": "https://signal.org/blog/protecting-your-privacy/",
+    "Description": "Signal Is Serious About Protecting Your Privacy",
+    "Metadata": {
+      "score": "64",
+      "author": "dotcoma",
+      "commentCount": "17"
+    },
+    "FetchedAt": "2026-11-20T14:41:20.4144528+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50569226"
+    },
+    "Type": 1,
+    "Title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+    "Url": "https://github.com/openssl/openssl/pull/33652",
+    "Description": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+    "Metadata": {
+      "score": "320",
+      "author": "JacobHenner",
+      "commentCount": "260"
+    },
+    "FetchedAt": "2026-11-20T14:41:20.5098904+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50521550"
+    },
+    "Type": 1,
+    "Title": "I can\u2019t believe it\u2019s 1!",
+    "Url": "https://aperiodical.com/2026/11/i-cant-believe-its-1/",
+    "Description": "I can\u2019t believe it\u2019s 1!",
+    "Metadata": {
+      "score": "26",
+      "author": "ColinWright",
+      "commentCount": "21"
+    },
+    "FetchedAt": "2026-11-20T14:41:20.5755692+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50573681"
+    },
+    "Type": 1,
+    "Title": "Epic Games Turns to AI Coding for the Unreal Engine",
+    "Url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+    "Description": "Epic Games Turns to AI Coding for the Unreal Engine",
+    "Metadata": {
+      "score": "22",
+      "author": "rbanffy",
+      "commentCount": "14"
+    },
+    "FetchedAt": "2026-11-20T14:41:20.6230577+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50572116"
+    },
+    "Type": 1,
+    "Title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe\u0027s cars (2019)",
+    "Url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
+    "Description": "Carnival Cruises emits ten times more sulphur oxide than all of Europe\u0027s cars (2019)",
+    "Metadata": {
+      "score": "285",
+      "author": "sammatilda",
+      "commentCount": "171"
+    },
+    "FetchedAt": "2026-11-20T14:41:20.6679252+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50541568"
+    },
+    "Type": 1,
+    "Title": "Show HN: Tinnitus frequency finder and audio notch tool",
+    "Url": "https://trynotched.com/find",
+    "Description": "Show HN: Tinnitus frequency finder and audio notch tool",
+    "Metadata": {
+      "score": "82",
+      "author": "brianrhea",
+      "commentCount": "48"
+    },
+    "FetchedAt": "2026-11-20T14:41:20.7115835+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50574383"
+    },
+    "Type": 1,
+    "Title": "Global stock markets slump as Anthropic\u0027s record IPO fails to stem AI sell-off",
+    "Url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+    "Description": "Global stock markets slump as Anthropic\u0027s record IPO fails to stem AI sell-off",
+    "Metadata": {
+      "score": "39",
+      "author": "cdrnsf",
+      "commentCount": "10"
+    },
+    "FetchedAt": "2026-11-20T14:41:20.7561595+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50572430"
+    },
+    "Type": 1,
+    "Title": "UK fridges secured from hackers",
+    "Url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+    "Description": "\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;www.pentestpartners.com\u0026#x2F;security-blog\u0026#x2F;the-fridge-hack-uk-supermarkets-narrowly-avoided\u0026#x2F;\u0022 rel=\u0022nofollow\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;www.pentestpartners.com\u0026#x2F;security-blog\u0026#x2F;the-fridge-hac...\u003C/a\u003E",
+    "Metadata": {
+      "score": "95",
+      "author": "tomnext",
+      "commentCount": "84"
+    },
+    "FetchedAt": "2026-11-20T14:41:20.8029099+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50569998"
+    },
+    "Type": 1,
+    "Title": "FFmpeg 9.1 \u0027Gauss\u0027",
+    "Url": "https://ffmpeg.org/download.html#release_9.1",
+    "Description": "FFmpeg 9.1 \u0027Gauss\u0027",
+    "Metadata": {
+      "score": "219",
+      "author": "gyan",
+      "commentCount": "30"
+    },
+    "FetchedAt": "2026-11-20T14:41:20.8466086+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50545818"
+    },
+    "Type": 1,
+    "Title": "\u00B5-Wire \u2013 USB on an ATtiny 10",
+    "Url": "https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/",
+    "Description": "\u00B5-Wire \u2013 USB on an ATtiny 10",
+    "Metadata": {
+      "score": "77",
+      "author": "mofosyne",
+      "commentCount": "9"
+    },
+    "FetchedAt": "2026-11-20T14:41:20.8895096+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50573886"
+    },
+    "Type": 1,
+    "Title": "If you stop writing code, you also get worse at reviewing it",
+    "Url": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+    "Description": "If you stop writing code, you also get worse at reviewing it",
+    "Metadata": {
+      "score": "49",
+      "author": "theanonymousone",
+      "commentCount": "11"
+    },
+    "FetchedAt": "2026-11-20T14:41:20.9325147+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50523241"
+    },
+    "Type": 1,
+    "Title": "The Strongest Sokoban Solver",
+    "Url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
+    "Description": "The Strongest Sokoban Solver",
+    "Metadata": {
+      "score": "102",
+      "author": "ibobev",
+      "commentCount": "22"
+    },
+    "FetchedAt": "2026-11-20T14:41:20.9751044+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50569516"
+    },
+    "Type": 1,
+    "Title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+    "Url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+    "Description": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+    "Metadata": {
+      "score": "142",
+      "author": "craigkerstiens",
+      "commentCount": "23"
+    },
+    "FetchedAt": "2026-11-20T14:41:21.0193944+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50570628"
+    },
+    "Type": 1,
+    "Title": "Jujutsu Primer",
+    "Url": "https://ethanlowman.com/posts/jj-primer/",
+    "Description": "Jujutsu Primer",
+    "Metadata": {
+      "score": "175",
+      "author": "renehsz",
+      "commentCount": "109"
+    },
+    "FetchedAt": "2026-11-20T14:41:21.0616527+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50571189"
+    },
+    "Type": 1,
+    "Title": "\u0022I can tell you wrote this yourself\u0022",
+    "Url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+    "Description": "\u0022I can tell you wrote this yourself\u0022",
+    "Metadata": {
+      "score": "304",
+      "author": "BrunoBernardino",
+      "commentCount": "292"
+    },
+    "FetchedAt": "2026-11-20T14:41:21.124022+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50528119"
+    },
+    "Type": 1,
+    "Title": "How to CAD Almost Anything",
+    "Url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+    "Description": "How to CAD Almost Anything",
+    "Metadata": {
+      "score": "323",
+      "author": "o4c",
+      "commentCount": "109"
+    },
+    "FetchedAt": "2026-11-20T14:41:21.1677084+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50569890"
+    },
+    "Type": 1,
+    "Title": "PostgreSQL 19",
+    "Url": "https://www.postgresql.org/docs/release/19.0/",
+    "Description": "PostgreSQL 19",
+    "Metadata": {
+      "score": "295",
+      "author": "linzhangrun",
+      "commentCount": "15"
+    },
+    "FetchedAt": "2026-11-20T14:41:21.2134356+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50568861"
+    },
+    "Type": 1,
+    "Title": "Vint Cerf on why TCP/IP was never patented",
+    "Url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+    "Description": "Vint Cerf on why TCP/IP was never patented",
+    "Metadata": {
+      "score": "134",
+      "author": "emot",
+      "commentCount": "64"
+    },
+    "FetchedAt": "2026-11-20T14:41:21.2566275+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50569519"
+    },
+    "Type": 1,
+    "Title": "What Comes After AGI?",
+    "Url": "https://institute.deepmind.com/essays/what-comes-after-agi/",
+    "Description": "What Comes After AGI?",
+    "Metadata": {
+      "score": "111",
+      "author": "jdkee",
+      "commentCount": "219"
+    },
+    "FetchedAt": "2026-11-20T14:41:21.301468+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "hn:50500000"
+    },
+    "Type": 1,
+    "Title": "Show HN: Radiotherapy Delivery Demo",
+    "Url": "https://tps.neuralrad.com",
+    "Description": "The treatment planning station (TPS) software field is currently monopolized by Varian\u0026#x27;s Eclipse and Raystation from Raysearch. Current software is still using technology stack 2 decades old.\u003Cp\u003EAt UT Southwest Medical Center, we are working on a technology stack which is leveraging modern browser technology using WebAseembly and WebGPU for implementing not only the 2D and 3D display of treatment delivery but also GPU-accelerated dose calculation engine running inside browser to simulating d",
+    "Metadata": {
+      "score": "13",
+      "author": "coolwulf",
+      "commentCount": "3"
+    },
+    "FetchedAt": "2026-11-20T14:41:21.3435981+00:00"
   }
 ]
