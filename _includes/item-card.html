@@ -1,0 +1,45 @@
+{% assign score = include.item.Score %}
+{% if score >= 9 %}
+  {% assign tier_class = "tier-gold" %}
+{% elsif score >= 7 %}
+  {% assign tier_class = "tier-silver" %}
+{% else %}
+  {% assign tier_class = "" %}
+{% endif %}
+
+<article class="item-card {{ tier_class }}" data-score="{{ score }}">
+  <div class="card-rank">
+    <span class="rank-number">#{{ include.rank }}</span>
+    <span class="rank-score">{{ score }}</span>
+  </div>
+
+  <div class="card-body">
+    {% assign source = include.item.SourceRef.Value %}
+    {% if source contains "github:" %}
+      {% assign url = source | remove_first: "github:" | split: "/" %}
+      {% assign url_final = "https://github.com/" | append: url[0] | append: "/" | append: url[1] %}
+    {% elsif source contains "hn:" %}
+      {% assign hn_id = source | remove_first: "hn:" %}
+      {% assign url_final = "https://news.ycombinator.com/item?id=" | append: hn_id %}
+    {% else %}
+      {% assign url_final = "#" %}
+    {% endif %}
+
+    <h2 class="card-title">
+      <a href="{{ url_final }}" target="_blank" rel="noopener noreferrer">{{ include.item.Highlight.Text }}</a>
+    </h2>
+
+    <p class="card-description">{{ include.item.Description }}</p>
+
+    <div class="card-meta">
+      <span class="category-tag {{ include.item.Category }}">{{ include.item.Category }}</span>
+      {% for tag in include.item.TechStack.Tags %}
+        <span class="tech-tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
+
+    {% if include.item.Suitability %}
+    <p class="card-suitability">🎯 {{ include.item.Suitability }}</p>
+    {% endif %}
+  </div>
+</article>
