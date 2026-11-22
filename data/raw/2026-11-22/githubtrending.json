@@ -1,0 +1,186 @@
+[
+  {
+    "ExternalId": {
+      "Value": "github:HKUDS/CLI-Anything"
+    },
+    "Type": 0,
+    "Title": "HKUDS/CLI-Anything",
+    "Url": "https://github.com/HKUDS/CLI-Anything",
+    "Description": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/",
+    "Metadata": {
+      "owner": "HKUDS",
+      "repo": "CLI-Anything",
+      "language": "Python",
+      "stars": "769"
+    },
+    "FetchedAt": "2026-11-22T04:22:50.1702242+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:jingyaogong/minimind"
+    },
+    "Type": 0,
+    "Title": "jingyaogong/minimind",
+    "Url": "https://github.com/jingyaogong/minimind",
+    "Description": "\uD83E\uDDE0 \u4E24\u5C0F\u65F6\u4ECE 0 \u8BAD\u51FA\u4F60\u7684 64M \u5927\u6A21\u578B\u3002Train your own 64M LLM from scratch in 2 hours.",
+    "Metadata": {
+      "owner": "jingyaogong",
+      "repo": "minimind",
+      "language": "Python",
+      "stars": "488",
+      "topics": "artificial-intelligence, large-language-model"
+    },
+    "FetchedAt": "2026-11-22T04:22:50.3447506+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:cursor/plugins"
+    },
+    "Type": 0,
+    "Title": "cursor/plugins",
+    "Url": "https://github.com/cursor/plugins",
+    "Description": "Cursor plugin specification and official plugins",
+    "Metadata": {
+      "owner": "cursor",
+      "repo": "plugins",
+      "language": "TypeScript",
+      "stars": "260"
+    },
+    "FetchedAt": "2026-11-22T04:22:50.4719429+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:firecrawl/firecrawl"
+    },
+    "Type": 0,
+    "Title": "firecrawl/firecrawl",
+    "Url": "https://github.com/firecrawl/firecrawl",
+    "Description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550\u002B data providers through one API.",
+    "Metadata": {
+      "owner": "firecrawl",
+      "repo": "firecrawl",
+      "language": "TypeScript",
+      "stars": "1,006",
+      "topics": "ai, ai-agents, ai-crawler, ai-scraping, ai-search, crawler, data-extraction, html-to-markdown, llm, markdown, scraper, scraping, web-crawler, web-data, web-data-extraction, web-scraper, web-scraping, web-search, webscraping"
+    },
+    "FetchedAt": "2026-11-22T04:22:50.6327822+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:nginx/nginx"
+    },
+    "Type": 0,
+    "Title": "nginx/nginx",
+    "Url": "https://github.com/nginx/nginx",
+    "Description": "The official NGINX Open Source repository.",
+    "Metadata": {
+      "owner": "nginx",
+      "repo": "nginx",
+      "language": "C",
+      "stars": "189",
+      "topics": "content-cache, http, http2, http3, https, load-balancer, mail-proxy-server, nginx, quic, reverse-proxy, security, tcp-proxy-server, tls, udp-proxy-server, web-server"
+    },
+    "FetchedAt": "2026-11-22T04:22:50.7787212+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:openvinotoolkit/openvino"
+    },
+    "Type": 0,
+    "Title": "openvinotoolkit/openvino",
+    "Url": "https://github.com/openvinotoolkit/openvino",
+    "Description": "OpenVINO\u2122 is an open source toolkit for optimizing and deploying AI inference",
+    "Metadata": {
+      "owner": "openvinotoolkit",
+      "repo": "openvino",
+      "language": "C\u002B\u002B",
+      "stars": "200",
+      "topics": "ai, computer-vision, deep-learning, deploy-ai, diffusion-models, generative-ai, good-first-issue, inference, llm-inference, natural-language-processing, nlp, openvino, optimize-ai, performance-boost, recommendation-system, speech-recognition, stable-diffusion, transformers, yolo"
+    },
+    "FetchedAt": "2026-11-22T04:22:50.9408284+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:mvanhorn/last30days-skill"
+    },
+    "Type": 0,
+    "Title": "mvanhorn/last30days-skill",
+    "Url": "https://github.com/mvanhorn/last30days-skill",
+    "Description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "Metadata": {
+      "owner": "mvanhorn",
+      "repo": "last30days-skill",
+      "language": "Python",
+      "stars": "560",
+      "topics": "ai-prompts, ai-skill, bluesky, claude, claude-code, clawhub, deep-research, hackernews, instagram, openclaw, polymarket, recency, reddit, research, social-media, tiktok, trends, twitter, web-search, youtube"
+    },
+    "FetchedAt": "2026-11-22T04:22:51.0727479+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:google-labs-code/stitch-skills"
+    },
+    "Type": 0,
+    "Title": "google-labs-code/stitch-skills",
+    "Url": "https://github.com/google-labs-code/stitch-skills",
+    "Description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "Metadata": {
+      "owner": "google-labs-code",
+      "repo": "stitch-skills",
+      "language": "TypeScript",
+      "stars": "326"
+    },
+    "FetchedAt": "2026-11-22T04:22:51.1932164+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:Tracer-Cloud/opensre"
+    },
+    "Type": 0,
+    "Title": "Tracer-Cloud/opensre",
+    "Url": "https://github.com/Tracer-Cloud/opensre",
+    "Description": "The open-source agent for CI/CD reliability.",
+    "Metadata": {
+      "owner": "Tracer-Cloud",
+      "repo": "opensre",
+      "language": "Python",
+      "stars": "450",
+      "topics": "alerting, ci-cd, cli, datadog, devops, gitlab-ci, grafana, incident-management, llm, observability, ollama, remediation, root-cause-analysis, site-reliability-engineering, slack"
+    },
+    "FetchedAt": "2026-11-22T04:22:51.3577651+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:XiaoYouChR/Ghost-Downloader-3"
+    },
+    "Type": 0,
+    "Title": "XiaoYouChR/Ghost-Downloader-3",
+    "Url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+    "Description": "The only downloader you need. \u4E0B\u8F7D\u5668\u7684\u96C6\u5927\u6210\u8005\u3002",
+    "Metadata": {
+      "owner": "XiaoYouChR",
+      "repo": "Ghost-Downloader-3",
+      "language": "Python",
+      "stars": "779",
+      "topics": "async, asyncio, bittorent, bt, cross-platform, download-manager, downloader, fluent-design, ftp, http3, magnet, pyqt, pyside6, python, qt, quic, react, software, streaming"
+    },
+    "FetchedAt": "2026-11-22T04:22:51.5156226+00:00"
+  },
+  {
+    "ExternalId": {
+      "Value": "github:zhouxiaoka/autoclip"
+    },
+    "Type": 0,
+    "Title": "zhouxiaoka/autoclip",
+    "Url": "https://github.com/zhouxiaoka/autoclip",
+    "Description": "AutoClip\uFF5C\u4E00\u4E2A\u94FE\u63A5\uFF0C\u4E00\u952E\u51FA\u7247\u3002\u5F00\u6E90 AI \u89C6\u9891\u526A\u8F91\u684C\u9762\u5DE5\u5177\uFF0C\u5C06\u64AD\u5BA2\u3001\u8BBF\u8C08\u3001\u8BFE\u7A0B\u7B49\u957F\u89C6\u9891\u81EA\u52A8\u526A\u6210\u77ED\u89C6\u9891\uFF0C\u751F\u6210\u5B57\u5E55\u3001\u5C01\u9762\u548C\u53D1\u5E03\u6587\u6848\uFF0C\u9002\u914D\u6296\u97F3\u3001\u5C0F\u7EA2\u4E66\u3001TikTok\u3001Reels \u4E0E YouTube Shorts\u3002Open-source AI video clipping \u0026 content repurposing.",
+    "Metadata": {
+      "owner": "zhouxiaoka",
+      "repo": "autoclip",
+      "language": "Python",
+      "stars": "683",
+      "topics": "ai-agent, ai-video-editor, content-repurposing, desktop-app, douyin, instagram-reels, mcp, open-source, podcast, subtitles, tiktok, video-clipping, video-editing-software, xiaohongshu, youtube-shorts"
+    },
+    "FetchedAt": "2026-11-22T04:22:51.6283145+00:00"
+  }
+]
