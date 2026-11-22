@@ -1,0 +1,623 @@
+{
+  "Id": "2026-11-22",
+  "GeneratedAt": "2026-11-22T05:28:56.867503+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:HKUDS/CLI-Anything"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/"
+      },
+      "Description": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:jingyaogong/minimind"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\uD83E\uDDE0 \u4E24\u5C0F\u65F6\u4ECE 0 \u8BAD\u51FA\u4F60\u7684 64M \u5927\u6A21\u578B\u3002Train your own 64M LLM from scratch in 2 hours."
+      },
+      "Description": "\uD83E\uDDE0 \u4E24\u5C0F\u65F6\u4ECE 0 \u8BAD\u51FA\u4F60\u7684 64M \u5927\u6A21\u578B\u3002Train your own 64M LLM from scratch in 2 hours.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:cursor/plugins"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Cursor plugin specification and official plugins"
+      },
+      "Description": "Cursor plugin specification and official plugins",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:firecrawl/firecrawl"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550\u002B data providers through one API."
+      },
+      "Description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550\u002B data providers through one API.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:nginx/nginx"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The official NGINX Open Source repository."
+      },
+      "Description": "The official NGINX Open Source repository.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:openvinotoolkit/openvino"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "OpenVINO\u2122 is an open source toolkit for optimizing and deploying AI inference"
+      },
+      "Description": "OpenVINO\u2122 is an open source toolkit for optimizing and deploying AI inference",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:mvanhorn/last30days-skill"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a gro"
+      },
+      "Description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:google-labs-code/stitch-skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard"
+      },
+      "Description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with codin",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Tracer-Cloud/opensre"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The open-source agent for CI/CD reliability."
+      },
+      "Description": "The open-source agent for CI/CD reliability.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:XiaoYouChR/Ghost-Downloader-3"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The only downloader you need. \u4E0B\u8F7D\u5668\u7684\u96C6\u5927\u6210\u8005\u3002"
+      },
+      "Description": "The only downloader you need. \u4E0B\u8F7D\u5668\u7684\u96C6\u5927\u6210\u8005\u3002",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:zhouxiaoka/autoclip"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AutoClip\uFF5C\u4E00\u4E2A\u94FE\u63A5\uFF0C\u4E00\u952E\u51FA\u7247\u3002\u5F00\u6E90 AI \u89C6\u9891\u526A\u8F91\u684C\u9762\u5DE5\u5177\uFF0C\u5C06\u64AD\u5BA2\u3001\u8BBF\u8C08\u3001\u8BFE\u7A0B\u7B49\u957F\u89C6\u9891\u81EA\u52A8\u526A\u6210\u77ED\u89C6\u9891\uFF0C\u751F\u6210\u5B57\u5E55\u3001\u5C01\u9762\u548C\u53D1\u5E03\u6587\u6848\uFF0C\u9002\u914D\u6296\u97F3\u3001\u5C0F\u7EA2\u4E66\u3001TikTok\u3001Reels \u4E0E YouTube Shorts\u3002Open-source A"
+      },
+      "Description": "AutoClip\uFF5C\u4E00\u4E2A\u94FE\u63A5\uFF0C\u4E00\u952E\u51FA\u7247\u3002\u5F00\u6E90 AI \u89C6\u9891\u526A\u8F91\u684C\u9762\u5DE5\u5177\uFF0C\u5C06\u64AD\u5BA2\u3001\u8BBF\u8C08\u3001\u8BFE\u7A0B\u7B49\u957F\u89C6\u9891\u81EA\u52A8\u526A\u6210\u77ED\u89C6\u9891\uFF0C\u751F\u6210\u5B57\u5E55\u3001\u5C01\u9762\u548C\u53D1\u5E03\u6587\u6848\uFF0C\u9002\u914D\u6296\u97F3\u3001\u5C0F\u7EA2\u4E66\u3001TikTok\u3001Reels \u4E0E YouTube Shorts\u3002Open-source AI video clipping \u0026 content rep",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50582069"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Pill to treat pancreatic cancer hailed as \u0027biggest breakthrough in decades\u0027"
+      },
+      "Description": "Pill to treat pancreatic cancer hailed as \u0027biggest breakthrough in decades\u0027",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50589618"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Lean verification of the Riemann Hypothesis"
+      },
+      "Description": "Lean verification of the Riemann Hypothesis",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50591853"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Inkling-2-Mini in 5.4 GB Memory"
+      },
+      "Description": "Inkling-2-Mini in 5.4 GB Memory",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50594911"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Sandwich Simulator"
+      },
+      "Description": "Sandwich Simulator",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50595168"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Leonida \u2013 PC Recompilation of the Xbox Version of GTA 6"
+      },
+      "Description": "Leonida \u2013 PC Recompilation of the Xbox Version of GTA 6",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50595554"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Data Processing Incidents on Inference Providers"
+      },
+      "Description": "Data Processing Incidents on Inference Providers",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50588982"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Detonating a pile of lead azide"
+      },
+      "Description": "Detonating a pile of lead azide",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50583028"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Getting the mind to steer the body to steer you"
+      },
+      "Description": "Getting the mind to steer the body to steer you",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50594132"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors"
+      },
+      "Description": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50595537"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Mythology of Conscious AI"
+      },
+      "Description": "The Mythology of Conscious AI",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50587875"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "My monitor was cutting my download speed by 75%"
+      },
+      "Description": "My monitor was cutting my download speed by 75%",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50595725"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Most Popular Car Colors in America"
+      },
+      "Description": "The Most Popular Car Colors in America",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50553223"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Shaping the Loops, Closing the Loops"
+      },
+      "Description": "Shaping the Loops, Closing the Loops",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50592097"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Upload2Shell (CVE-2026-125396)"
+      },
+      "Description": "Upload2Shell (CVE-2026-125396)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50593481"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Pandex \u2013 Official European Law for AI Agents, over MCP"
+      },
+      "Description": "Pandex \u2013 Official European Law for AI Agents, over MCP",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50591260"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "PostgreSQL Extensions in Go"
+      },
+      "Description": "PostgreSQL Extensions in Go",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50593679"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers"
+      },
+      "Description": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50593737"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Advice for the next 100 Rust GUIs"
+      },
+      "Description": "Advice for the next 100 Rust GUIs",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50590279"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Show HN: Zero C# \u2013 C# without a runtime or GC"
+      },
+      "Description": "Show HN: Zero C# \u2013 C# without a runtime or GC",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50546587"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "LLMs can read and write executables byte by byte from a hex dump"
+      },
+      "Description": "LLMs can read and write executables byte by byte from a hex dump",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50559295"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Unit-testing in the \u00DC programming language"
+      },
+      "Description": "Unit-testing in the \u00DC programming language",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50575644"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Why there are still no non-WebKit browsers on iOS"
+      },
+      "Description": "Why there are still no non-WebKit browsers on iOS",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50590441"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Verification files for the Lean proof of the Riemann Hypothesis"
+      },
+      "Description": "Verification files for the Lean proof of the Riemann Hypothesis",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50560314"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Split Radiance Cascades"
+      },
+      "Description": "Split Radiance Cascades",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50546495"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Exponential Behavior in Magic: The Gathering"
+      },
+      "Description": "Exponential Behavior in Magic: The Gathering",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50532417"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Tropical Rainforests Species may be surprisingly young"
+      },
+      "Description": "Tropical Rainforests Species may be surprisingly young",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50595812"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Since last year, we asked: \u0022What if AI solved the Riemann Hypothesis?\u0022"
+      },
+      "Description": "Since last year, we asked: \u0022What if AI solved the Riemann Hypothesis?\u0022",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50583761"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I\u0026#x27;m Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50\u002B company and bunch"
+      },
+      "Description": "I\u0026#x27;m Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50\u002B company and bunch of mid-size companies. Been u",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50587208"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "RCE in Gnupg"
+      },
+      "Description": "RCE in Gnupg",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50579568"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Related: \u003Ci\u003ELevent Alp\u00F6ge claims proof of the Generalized Riemann Hypothesis [pdf]\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news"
+      },
+      "Description": "Related: \u003Ci\u003ELevent Alp\u00F6ge claims proof of the Generalized Riemann Hypothesis [pdf]\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 41 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
