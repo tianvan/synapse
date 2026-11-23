@@ -1,0 +1,623 @@
+{
+  "Id": "2026-11-23",
+  "GeneratedAt": "2026-11-23T06:06:15.2530337+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:HKUDS/CLI-Anything"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/"
+      },
+      "Description": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:jingyaogong/minimind"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\uD83E\uDDE0 \u4E24\u5C0F\u65F6\u4ECE 0 \u8BAD\u51FA\u4F60\u7684 64M \u5927\u6A21\u578B\u3002Train your own 64M LLM from scratch in 2 hours."
+      },
+      "Description": "\uD83E\uDDE0 \u4E24\u5C0F\u65F6\u4ECE 0 \u8BAD\u51FA\u4F60\u7684 64M \u5927\u6A21\u578B\u3002Train your own 64M LLM from scratch in 2 hours.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:cursor/plugins"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Cursor plugin specification and official plugins"
+      },
+      "Description": "Cursor plugin specification and official plugins",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:firecrawl/firecrawl"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550\u002B data providers through one API."
+      },
+      "Description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550\u002B data providers through one API.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:nginx/nginx"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The official NGINX Open Source repository."
+      },
+      "Description": "The official NGINX Open Source repository.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:openvinotoolkit/openvino"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "OpenVINO\u2122 is an open source toolkit for optimizing and deploying AI inference"
+      },
+      "Description": "OpenVINO\u2122 is an open source toolkit for optimizing and deploying AI inference",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:mvanhorn/last30days-skill"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a gro"
+      },
+      "Description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:google-labs-code/stitch-skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard"
+      },
+      "Description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with codin",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Tracer-Cloud/opensre"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The open-source agent for CI/CD reliability."
+      },
+      "Description": "The open-source agent for CI/CD reliability.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:XiaoYouChR/Ghost-Downloader-3"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The only downloader you need. \u4E0B\u8F7D\u5668\u7684\u96C6\u5927\u6210\u8005\u3002"
+      },
+      "Description": "The only downloader you need. \u4E0B\u8F7D\u5668\u7684\u96C6\u5927\u6210\u8005\u3002",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:zhouxiaoka/autoclip"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AutoClip\uFF5C\u4E00\u4E2A\u94FE\u63A5\uFF0C\u4E00\u952E\u51FA\u7247\u3002\u5F00\u6E90 AI \u89C6\u9891\u526A\u8F91\u684C\u9762\u5DE5\u5177\uFF0C\u5C06\u64AD\u5BA2\u3001\u8BBF\u8C08\u3001\u8BFE\u7A0B\u7B49\u957F\u89C6\u9891\u81EA\u52A8\u526A\u6210\u77ED\u89C6\u9891\uFF0C\u751F\u6210\u5B57\u5E55\u3001\u5C01\u9762\u548C\u53D1\u5E03\u6587\u6848\uFF0C\u9002\u914D\u6296\u97F3\u3001\u5C0F\u7EA2\u4E66\u3001TikTok\u3001Reels \u4E0E YouTube Shorts\u3002Open-source A"
+      },
+      "Description": "AutoClip\uFF5C\u4E00\u4E2A\u94FE\u63A5\uFF0C\u4E00\u952E\u51FA\u7247\u3002\u5F00\u6E90 AI \u89C6\u9891\u526A\u8F91\u684C\u9762\u5DE5\u5177\uFF0C\u5C06\u64AD\u5BA2\u3001\u8BBF\u8C08\u3001\u8BFE\u7A0B\u7B49\u957F\u89C6\u9891\u81EA\u52A8\u526A\u6210\u77ED\u89C6\u9891\uFF0C\u751F\u6210\u5B57\u5E55\u3001\u5C01\u9762\u548C\u53D1\u5E03\u6587\u6848\uFF0C\u9002\u914D\u6296\u97F3\u3001\u5C0F\u7EA2\u4E66\u3001TikTok\u3001Reels \u4E0E YouTube Shorts\u3002Open-source AI video clipping \u0026 content rep",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50606192"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Free alternative TV network built from the Internet Archive\u0027s forgotten videos"
+      },
+      "Description": "Free alternative TV network built from the Internet Archive\u0027s forgotten videos",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50603845"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A Beginner\u0027s Guide to Local AI with Inkling, Qwen, and Unsloth"
+      },
+      "Description": "A Beginner\u0027s Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50598441"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Masullo on the Riemann Hypothesis"
+      },
+      "Description": "Masullo on the Riemann Hypothesis",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50607261"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "XNU Linux: Full OS X GUI Userspace on Linux"
+      },
+      "Description": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50602843"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Birds of GTA 6: A Field Guide to Vice City and Leonida\u0027s Wildlife"
+      },
+      "Description": "The Birds of GTA 6: A Field Guide to Vice City and Leonida\u0027s Wildlife",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50547698"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches"
+      },
+      "Description": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50607194"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The New Docker: Built to Run on Trust"
+      },
+      "Description": "The New Docker: Built to Run on Trust",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50603589"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A miniature San Francisco with live buses, planes and boats"
+      },
+      "Description": "A miniature San Francisco with live buses, planes and boats",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50604988"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "GL.iNet Security Notice 2026-11-20"
+      },
+      "Description": "GL.iNet Security Notice 2026-11-20",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50569505"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "LittleBit: Ultra Low-Bit Quantization via Latent Factorization"
+      },
+      "Description": "LittleBit: Ultra Low-Bit Quantization via Latent Factorization",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50604472"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Usefulness of Useless Knowledge [pdf] (1939)"
+      },
+      "Description": "The Usefulness of Useless Knowledge [pdf] (1939)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50604123"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The struggle for freedom: How BSD escaped AT\u0026T licensing"
+      },
+      "Description": "The struggle for freedom: How BSD escaped AT\u0026T licensing",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50560563"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Unlicensed Gospel: Wisdom Tree\u0027s Bible Games on the Game Boy"
+      },
+      "Description": "The Unlicensed Gospel: Wisdom Tree\u0027s Bible Games on the Game Boy",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50606072"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "What we learned operating auth for 1k APIs"
+      },
+      "Description": "What we learned operating auth for 1k APIs",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50603143"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Assume People Are Not Interested in Your Blog Post"
+      },
+      "Description": "Assume People Are Not Interested in Your Blog Post",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50601525"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Perplexity and Intelligence"
+      },
+      "Description": "Perplexity and Intelligence",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50603465"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Nyx, the Oldest Internet Service Provider"
+      },
+      "Description": "Nyx, the Oldest Internet Service Provider",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50605045"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Progress map for the Lean formalization of Alessandro Masullo\u0027s manuscript"
+      },
+      "Description": "Progress map for the Lean formalization of Alessandro Masullo\u0027s manuscript",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50606499"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Treemap of the Riemann Hypothesis Lean Proof"
+      },
+      "Description": "Treemap of the Riemann Hypothesis Lean Proof",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50577353"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Verifying formal models of Raft implementations"
+      },
+      "Description": "Verifying formal models of Raft implementations",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50599762"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Show HN: I built a game where you are an LLM\u0027s subagent"
+      },
+      "Description": "Show HN: I built a game where you are an LLM\u0027s subagent",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50602947"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "What Happened to Silicon Valley?"
+      },
+      "Description": "What Happened to Silicon Valley?",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50605445"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "0rwx \u2013 A simple model of AI usage, inspired by Unix permissions"
+      },
+      "Description": "0rwx \u2013 A simple model of AI usage, inspired by Unix permissions",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50575007"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How the World Draws the World"
+      },
+      "Description": "How the World Draws the World",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50546124"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Advice for Young Researchers"
+      },
+      "Description": "Advice for Young Researchers",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50606704"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Advanced Character Physics (2001) [pdf]"
+      },
+      "Description": "Advanced Character Physics (2001) [pdf]",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50604540"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Localcode, open source agentic coding on your Mac with one command"
+      },
+      "Description": "Localcode, open source agentic coding on your Mac with one command",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50600622"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "I joined the NTP Pool, but not with my Stratum 1 Pi"
+      },
+      "Description": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50596133"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Toyota, Nissan, and Honda to standardize parts to lower costs"
+      },
+      "Description": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50600511"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Open Social Web Alliance"
+      },
+      "Description": "Open Social Web Alliance",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 41 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
