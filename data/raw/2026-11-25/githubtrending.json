@@ -6,14 +6,14 @@
     "Type": 0,
     "Title": "HKUDS/CLI-Anything",
     "Url": "https://github.com/HKUDS/CLI-Anything",
-    "Description": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: \u003Ca href=\u0022https://clianything.cc/\u0022 class=\u0022Link--inTextBlock\u0022 rel=\u0022nofollow\u0022\u003Ehttps://clianything.cc/\u003C/a\u003E",
+    "Description": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: https://clianything.cc/",
     "Metadata": {
       "owner": "HKUDS",
       "repo": "CLI-Anything",
       "language": "Python",
-      "stars": "1,074"
+      "stars": "1,094"
     },
-    "FetchedAt": "2026-11-25T01:47:29.8903681+00:00"
+    "FetchedAt": "2026-11-25T16:34:10.2298146+00:00"
   },
   {
     "ExternalId": {
@@ -27,9 +27,10 @@
       "owner": "jingyaogong",
       "repo": "minimind",
       "language": "Python",
-      "stars": "727"
+      "stars": "828",
+      "topics": "artificial-intelligence, large-language-model"
     },
-    "FetchedAt": "2026-11-25T01:47:29.9449428+00:00"
+    "FetchedAt": "2026-11-25T16:34:10.4842548+00:00"
   },
   {
     "ExternalId": {
@@ -43,9 +44,9 @@
       "owner": "cursor",
       "repo": "plugins",
       "language": "TypeScript",
-      "stars": "360"
+      "stars": "408"
     },
-    "FetchedAt": "2026-11-25T01:47:29.9609819+00:00"
+    "FetchedAt": "2026-11-25T16:34:10.6227407+00:00"
   },
   {
     "ExternalId": {
@@ -59,9 +60,10 @@
       "owner": "firecrawl",
       "repo": "firecrawl",
       "language": "TypeScript",
-      "stars": "991"
+      "stars": "1,131",
+      "topics": "ai, ai-agents, ai-crawler, ai-scraping, ai-search, crawler, data-extraction, html-to-markdown, llm, markdown, scraper, scraping, web-crawler, web-data, web-data-extraction, web-scraper, web-scraping, web-search, webscraping"
     },
-    "FetchedAt": "2026-11-25T01:47:29.9764938+00:00"
+    "FetchedAt": "2026-11-25T16:34:10.8509719+00:00"
   },
   {
     "ExternalId": {
@@ -75,9 +77,10 @@
       "owner": "nginx",
       "repo": "nginx",
       "language": "C",
-      "stars": "158"
+      "stars": "174",
+      "topics": "content-cache, http, http2, http3, https, load-balancer, mail-proxy-server, nginx, quic, reverse-proxy, security, tcp-proxy-server, tls, udp-proxy-server, web-server"
     },
-    "FetchedAt": "2026-11-25T01:47:29.9924837+00:00"
+    "FetchedAt": "2026-11-25T16:34:11.1033756+00:00"
   },
   {
     "ExternalId": {
@@ -91,9 +94,10 @@
       "owner": "openvinotoolkit",
       "repo": "openvino",
       "language": "C\u002B\u002B",
-      "stars": "185"
+      "stars": "188",
+      "topics": "ai, computer-vision, deep-learning, deploy-ai, diffusion-models, generative-ai, good-first-issue, inference, llm-inference, natural-language-processing, nlp, openvino, optimize-ai, performance-boost, recommendation-system, speech-recognition, stable-diffusion, transformers, yolo"
     },
-    "FetchedAt": "2026-11-25T01:47:30.0083343+00:00"
+    "FetchedAt": "2026-11-25T16:34:11.284208+00:00"
   },
   {
     "ExternalId": {
@@ -107,9 +111,10 @@
       "owner": "mvanhorn",
       "repo": "last30days-skill",
       "language": "Python",
-      "stars": "703"
+      "stars": "950",
+      "topics": "agent-skills, artificial-intelligence, automation, bot, command-line, data-science, dsh, dsh-plugin, golang, instagram, llms, nlp, osint, polymarket, python3, reddit, terminal, tiktok, twitter, youtube"
     },
-    "FetchedAt": "2026-11-25T01:47:30.0247452+00:00"
+    "FetchedAt": "2026-11-25T16:34:11.45201+00:00"
   },
   {
     "ExternalId": {
@@ -123,9 +128,9 @@
       "owner": "google-labs-code",
       "repo": "stitch-skills",
       "language": "TypeScript",
-      "stars": "403"
+      "stars": "352"
     },
-    "FetchedAt": "2026-11-25T01:47:30.0401271+00:00"
+    "FetchedAt": "2026-11-25T16:34:11.6071353+00:00"
   },
   {
     "ExternalId": {
@@ -139,9 +144,10 @@
       "owner": "Tracer-Cloud",
       "repo": "opensre",
       "language": "Python",
-      "stars": "398"
+      "stars": "343",
+      "topics": "alerting, ci-cd, cli, datadog, devops, gitlab-ci, grafana, incident-management, llm, observability, ollama, remediation, root-cause-analysis, site-reliability-engineering, slack"
     },
-    "FetchedAt": "2026-11-25T01:47:30.0558322+00:00"
+    "FetchedAt": "2026-11-25T16:34:11.7917915+00:00"
   },
   {
     "ExternalId": {
@@ -155,9 +161,10 @@
       "owner": "XiaoYouChR",
       "repo": "Ghost-Downloader-3",
       "language": "Python",
-      "stars": "1,092"
+      "stars": "950",
+      "topics": "async, asyncio, bittorent, bt, cross-platform, download-manager, downloader, fluent-design, ftp, http3, magnet, pyqt, pyside6, python, qt, quic, react, software, streaming"
     },
-    "FetchedAt": "2026-11-25T01:47:30.0764543+00:00"
+    "FetchedAt": "2026-11-25T16:34:11.9968125+00:00"
   },
   {
     "ExternalId": {
@@ -166,13 +173,14 @@
     "Type": 0,
     "Title": "zhouxiaoka/autoclip",
     "Url": "https://github.com/zhouxiaoka/autoclip",
-    "Description": "AutoClip\uFF5C\u4E00\u4E2A\u94FE\u63A5\uFF0C\u4E00\u952E\u51FA\u7247\u3002\u5F00\u6E90 AI \u89C6\u9891\u526A\u8F91\u684C\u9762\u5DE5\u5177\uFF0C\u5C06\u64AD\u5BA2\u3001\u8BBF\u8C08\u3001\u8BFE\u7A0B\u7B49\u957F\u89C6\u9891\u81EA\u52A8\u526A\u6210\u77ED\u89C6\u9891\uFF0C\u751F\u6210\u5B57\u5E55\u3001\u5C01\u9762\u548C\u53D1\u5E03\u6587\u6848\uFF0C\u9002\u914D\u6296\u97F3\u3001\u5C0F\u7EA2\u4E66\u3001TikTok\u3001Reels \u4E0E YouTube Shorts\u3002Open-source AI video clipping \u0026amp; content repurposing.",
+    "Description": "AutoClip\uFF5C\u4E00\u4E2A\u94FE\u63A5\uFF0C\u4E00\u952E\u51FA\u7247\u3002\u5F00\u6E90 AI \u89C6\u9891\u526A\u8F91\u684C\u9762\u5DE5\u5177\uFF0C\u5C06\u64AD\u5BA2\u3001\u8BBF\u8C08\u3001\u8BFE\u7A0B\u7B49\u957F\u89C6\u9891\u81EA\u52A8\u526A\u6210\u77ED\u89C6\u9891\uFF0C\u751F\u6210\u5B57\u5E55\u3001\u5C01\u9762\u548C\u53D1\u5E03\u6587\u6848\uFF0C\u9002\u914D\u6296\u97F3\u3001\u5C0F\u7EA2\u4E66\u3001TikTok\u3001Reels \u4E0E YouTube Shorts\u3002Open-source AI video clipping \u0026 content repurposing.",
     "Metadata": {
       "owner": "zhouxiaoka",
       "repo": "autoclip",
       "language": "Python",
-      "stars": "980"
+      "stars": "868",
+      "topics": "ai-agent, ai-video-editor, content-repurposing, desktop-app, douyin, instagram-reels, mcp, open-source, podcast, subtitles, tiktok, video-clipping, video-editing-software, xiaohongshu, youtube-shorts"
     },
-    "FetchedAt": "2026-11-25T01:47:30.0917256+00:00"
+    "FetchedAt": "2026-11-25T16:34:12.1550244+00:00"
   }
 ]
