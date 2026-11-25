@@ -1,0 +1,623 @@
+{
+  "Id": "2026-11-25",
+  "GeneratedAt": "2026-11-25T07:20:01.8033279+00:00",
+  "Items": [
+    {
+      "SourceRef": {
+        "Value": "github:HKUDS/CLI-Anything"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: \u003Ca href=\u0022https://clianything.cc/\u0022 class=\u0022Link--inTextBlock\u0022"
+      },
+      "Description": "\u0022CLI-Anything: Making ALL Software Agent-Native\u0022 -- CLI-Hub: \u003Ca href=\u0022https://clianything.cc/\u0022 class=\u0022Link--inTextBlock\u0022 rel=\u0022nofollow\u0022\u003Ehttps://cliany",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:jingyaogong/minimind"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "\uD83E\uDDE0 \u4E24\u5C0F\u65F6\u4ECE 0 \u8BAD\u51FA\u4F60\u7684 64M \u5927\u6A21\u578B\u3002Train your own 64M LLM from scratch in 2 hours."
+      },
+      "Description": "\uD83E\uDDE0 \u4E24\u5C0F\u65F6\u4ECE 0 \u8BAD\u51FA\u4F60\u7684 64M \u5927\u6A21\u578B\u3002Train your own 64M LLM from scratch in 2 hours.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:cursor/plugins"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Cursor plugin specification and official plugins"
+      },
+      "Description": "Cursor plugin specification and official plugins",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:firecrawl/firecrawl"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550\u002B data providers through one API."
+      },
+      "Description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550\u002B data providers through one API.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:nginx/nginx"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The official NGINX Open Source repository."
+      },
+      "Description": "The official NGINX Open Source repository.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:openvinotoolkit/openvino"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "OpenVINO\u2122 is an open source toolkit for optimizing and deploying AI inference"
+      },
+      "Description": "OpenVINO\u2122 is an open source toolkit for optimizing and deploying AI inference",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:mvanhorn/last30days-skill"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a gro"
+      },
+      "Description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:google-labs-code/stitch-skills"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard"
+      },
+      "Description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with codin",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:Tracer-Cloud/opensre"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The open-source agent for CI/CD reliability."
+      },
+      "Description": "The open-source agent for CI/CD reliability.",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:XiaoYouChR/Ghost-Downloader-3"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The only downloader you need. \u4E0B\u8F7D\u5668\u7684\u96C6\u5927\u6210\u8005\u3002"
+      },
+      "Description": "The only downloader you need. \u4E0B\u8F7D\u5668\u7684\u96C6\u5927\u6210\u8005\u3002",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "github:zhouxiaoka/autoclip"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "AutoClip\uFF5C\u4E00\u4E2A\u94FE\u63A5\uFF0C\u4E00\u952E\u51FA\u7247\u3002\u5F00\u6E90 AI \u89C6\u9891\u526A\u8F91\u684C\u9762\u5DE5\u5177\uFF0C\u5C06\u64AD\u5BA2\u3001\u8BBF\u8C08\u3001\u8BFE\u7A0B\u7B49\u957F\u89C6\u9891\u81EA\u52A8\u526A\u6210\u77ED\u89C6\u9891\uFF0C\u751F\u6210\u5B57\u5E55\u3001\u5C01\u9762\u548C\u53D1\u5E03\u6587\u6848\uFF0C\u9002\u914D\u6296\u97F3\u3001\u5C0F\u7EA2\u4E66\u3001TikTok\u3001Reels \u4E0E YouTube Shorts\u3002Open-source A"
+      },
+      "Description": "AutoClip\uFF5C\u4E00\u4E2A\u94FE\u63A5\uFF0C\u4E00\u952E\u51FA\u7247\u3002\u5F00\u6E90 AI \u89C6\u9891\u526A\u8F91\u684C\u9762\u5DE5\u5177\uFF0C\u5C06\u64AD\u5BA2\u3001\u8BBF\u8C08\u3001\u8BFE\u7A0B\u7B49\u957F\u89C6\u9891\u81EA\u52A8\u526A\u6210\u77ED\u89C6\u9891\uFF0C\u751F\u6210\u5B57\u5E55\u3001\u5C01\u9762\u548C\u53D1\u5E03\u6587\u6848\uFF0C\u9002\u914D\u6296\u97F3\u3001\u5C0F\u7EA2\u4E66\u3001TikTok\u3001Reels \u4E0E YouTube Shorts\u3002Open-source AI video clipping \u0026amp; content",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50633922"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Ternary Bonsai 2.5 27B"
+      },
+      "Description": "Ternary Bonsai 2.5 27B",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50634658"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "GPT-6 models demonstrate intrinsic protein-design capabilities"
+      },
+      "Description": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50634426"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hey HN, we\u2019re Harshith, Param, and Vishnu and we\u0026#x27;re building Versine (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;versine.com\u0022\u003Ehttps"
+      },
+      "Description": "Hey HN, we\u2019re Harshith, Param, and Vishnu and we\u0026#x27;re building Versine (\u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;versine.com\u0022\u003Ehttps:\u0026#x2F;\u0026#x2F;versine.com\u003C/a\u003E).",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50636925"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Here in the World: Letters of Albert Camus, 1944\u20131959"
+      },
+      "Description": "Here in the World: Letters of Albert Camus, 1944\u20131959",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50637056"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "PenGPT: A Generative Transformer for Handwriting and Sketches"
+      },
+      "Description": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50630594"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Active intrusion campaign against Check Point security management servers"
+      },
+      "Description": "Active intrusion campaign against Check Point security management servers",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50625265"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "G\u00F6del Enigma"
+      },
+      "Description": "G\u00F6del Enigma",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50598555"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Spray Bottle"
+      },
+      "Description": "The Spray Bottle",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50609483"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Calculate how many mesh radio nodes your city needs"
+      },
+      "Description": "Calculate how many mesh radio nodes your city needs",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50610820"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "An Italian folding bicycle design that fits into a suitcase"
+      },
+      "Description": "An Italian folding bicycle design that fits into a suitcase",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50633424"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver"
+      },
+      "Description": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50635271"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Heart attack and stroke risk detectable decades in advance"
+      },
+      "Description": "Heart attack and stroke risk detectable decades in advance",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50637220"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Matrix Multiplication is O(n^2.25) [pdf]"
+      },
+      "Description": "Matrix Multiplication is O(n^2.25) [pdf]",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50630462"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Jetty Pro"
+      },
+      "Description": "Jetty Pro",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50591024"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Show HN: PQCrypta Proxy: Rust proxy with HTTP/3, QUIC, hybrid post-quantum TLS"
+      },
+      "Description": "Show HN: PQCrypta Proxy: Rust proxy with HTTP/3, QUIC, hybrid post-quantum TLS",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50627783"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "GTA 6 Running on Windows"
+      },
+      "Description": "GTA 6 Running on Windows",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50629231"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "A training engine for your local model, using your idle compute"
+      },
+      "Description": "A training engine for your local model, using your idle compute",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50606655"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility"
+      },
+      "Description": "Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50625384"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Quad9 pulled their DNS service from France"
+      },
+      "Description": "Quad9 pulled their DNS service from France",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50604355"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Cento fine foods has been sued for \u201Ctomato fraud\u201D"
+      },
+      "Description": "Cento fine foods has been sued for \u201Ctomato fraud\u201D",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50629106"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Splitting USB-C: USB 3 and USB 2 on one port"
+      },
+      "Description": "Splitting USB-C: USB 3 and USB 2 on one port",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50634933"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "An unclassified CIA system was breached in a cyberattack"
+      },
+      "Description": "An unclassified CIA system was breached in a cyberattack",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50631041"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Weave (YC W25) is hiring ML, AI, product, \u0026 design engineers"
+      },
+      "Description": "Weave (YC W25) is hiring ML, AI, product, \u0026 design engineers",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50626620"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "The Artificial Monkey Mind"
+      },
+      "Description": "The Artificial Monkey Mind",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50626413"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Worshipping at the altar of Brendan Gregg"
+      },
+      "Description": "Worshipping at the altar of Brendan Gregg",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50633159"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)"
+      },
+      "Description": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50627340"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "LLM agents work for their parent companies, not for you"
+      },
+      "Description": "LLM agents work for their parent companies, not for you",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50599458"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "How a Mechanical Watch Keeps Time"
+      },
+      "Description": "How a Mechanical Watch Keeps Time",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50635698"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Fable 5.2 tries less on some hard tasks when a shortcut is available"
+      },
+      "Description": "Fable 5.2 tries less on some hard tasks when a shortcut is available",
+      "Suitability": "",
+      "Score": 0
+    },
+    {
+      "SourceRef": {
+        "Value": "hn:50622638"
+      },
+      "Category": "\u672A\u5206\u7C7B",
+      "TechStack": {
+        "Tags": []
+      },
+      "Highlight": {
+        "Text": "Previous thread: \u003Ci\u003ELeonida \u2013 PC Recompilation of the Xbox Version of GTA 6\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombi"
+      },
+      "Description": "Previous thread: \u003Ci\u003ELeonida \u2013 PC Recompilation of the Xbox Version of GTA 6\u003C/i\u003E - \u003Ca href=\u0022https:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=5059516",
+      "Suitability": "",
+      "Score": 0
+    }
+  ],
+  "Summary": "\u4ECA\u65E5\u5171 41 \u6761\u6280\u672F\u8D44\u8BAF\uFF0C\u6700\u9AD8\u8BC4\u5206 0/10",
+  "Status": 1
+}
