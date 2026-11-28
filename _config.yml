@@ -1,0 +1,17 @@
+title: Synapse Daily Digest
+description: AI 策展的技术资讯日报
+baseurl: "/synapse"
+url: "https://tianvan.github.io"
+
+sass:
+  style: compressed
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - CNAME
+  - vendor
